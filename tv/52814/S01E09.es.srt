@@ -1,0 +1,2262 @@
+1
+00:00:01,320 --> 00:00:03,373
+<i>Anteriormente en Halo...</i>
+
+2
+00:00:04,708 --> 00:00:06,898
+<i>No se detendrán
+hasta tener ambas piedras.</i>
+
+3
+00:00:06,999 --> 00:00:08,505
+<i>¿Sabes a dónde llevaron la otra?</i>
+
+4
+00:00:08,606 --> 00:00:12,239
+<i>Ahora debe estar en el sistema
+estelar que llaman Aspero.</i>
+
+5
+00:00:12,620 --> 00:00:14,102
+<i>El sistema estelar Aspero.</i>
+
+6
+00:00:14,203 --> 00:00:16,617
+<i>¡Busquen un planeta
+que pueda sustentar la vida Covenant!</i>
+
+7
+00:00:16,718 --> 00:00:20,975
+<i>- No encontramos nada en absoluto.
+- Makee puede enseñarnos dónde están.</i>
+
+8
+00:00:21,531 --> 00:00:23,829
+<i>- ¿Confían en mí?
+- Confían en mí.</i>
+
+9
+00:00:23,930 --> 00:00:25,731
+<i>Y yo confío en ti.</i>
+
+10
+00:00:26,527 --> 00:00:30,100
+<i>Esta obsesión te ha costado
+todas tus relaciones.</i>
+
+11
+00:00:30,201 --> 00:00:31,839
+<i>¿Qué más quieres sacrificar?</i>
+
+12
+00:00:31,940 --> 00:00:32,788
+<i>¡Todo!</i>
+
+13
+00:00:32,889 --> 00:00:35,066
+<i>Parangosky te quiere
+fuera del planeta.</i>
+
+14
+00:00:35,772 --> 00:00:38,026
+<i>Todo lo que nos dijo fue mentira.</i>
+
+15
+00:00:38,127 --> 00:00:40,512
+<i>¿Les dijiste a Riz y a Vannak?</i>
+
+16
+00:00:41,001 --> 00:00:42,387
+<i>Aún no.</i>
+
+17
+00:00:43,100 --> 00:00:45,829
+<i>Mis órdenes reemplazarán
+todas las demás.</i>
+
+18
+00:00:45,930 --> 00:00:49,337
+<i>Traigan a John, a la prisionera
+y el artefacto a mi nave.</i>
+
+19
+00:00:49,438 --> 00:00:50,893
+<i>Cuando tengamos a Makee,</i>
+
+20
+00:00:50,994 --> 00:00:53,791
+<i>ya no necesitaremos a John
+para activar el artefacto.</i>
+
+21
+00:00:53,892 --> 00:00:57,998
+<i>Tú y John combinados
+serán nuestro mejor ejemplar.</i>
+
+22
+00:00:58,099 --> 00:01:00,566
+<i>¡Alto! Le tendió una trampa.</i>
+
+23
+00:01:00,696 --> 00:01:01,478
+<i>SIN SEÑAL</i>
+
+24
+00:01:01,579 --> 00:01:02,923
+<i>¡Cortana!</i>
+
+25
+00:01:03,060 --> 00:01:04,405
+<i>¡Vete!</i>
+
+26
+00:01:09,175 --> 00:01:11,392
+<i>Es su voz en la grabación
+de la Gladius.</i>
+
+27
+00:01:11,755 --> 00:01:12,801
+<i>No tuve elección.</i>
+
+28
+00:01:12,902 --> 00:01:14,624
+<i>¡Lo lamento! ¡No, por favor!</i>
+
+29
+00:01:15,253 --> 00:01:16,693
+<i>Vas a pagarla caro.</i>
+
+30
+00:01:16,794 --> 00:01:18,524
+<i>No.</i>
+
+31
+00:01:18,625 --> 00:01:20,677
+<i>Son ustedes quienes la pagarán caro.</i>
+
+32
+00:01:25,913 --> 00:01:27,380
+<i>Adiós, John.</i>
+
+33
+00:02:26,991 --> 00:02:28,335
+¿Kai?
+
+34
+00:02:30,470 --> 00:02:33,268
+Jefe, estoy bien.
+
+35
+00:02:33,525 --> 00:02:35,326
+Vaya.
+
+36
+00:02:50,942 --> 00:02:53,130
+Jefe, Makee se llevó el artefacto.
+
+37
+00:02:53,231 --> 00:02:54,574
+Se fue.
+
+38
+00:03:05,941 --> 00:03:07,285
+¿Qué estás haciendo?
+
+39
+00:03:11,474 --> 00:03:13,149
+¡Quítate el arma!
+
+40
+00:03:13,529 --> 00:03:15,122
+¡Tírala!
+
+41
+00:03:15,801 --> 00:03:18,579
+- ¿Dónde está la nave Covenant?
+- Hangar de incautación Delta 7.
+
+42
+00:03:18,680 --> 00:03:19,994
+Llévame.
+
+43
+00:03:27,161 --> 00:03:28,085
+Jefe...
+
+44
+00:03:28,186 --> 00:03:31,121
+La orden de Halsey es llevarlo
+con ella, vivo o muerto.
+
+45
+00:03:31,222 --> 00:03:32,565
+Elija.
+
+46
+00:03:34,027 --> 00:03:35,474
+Ella nos secuestró, Vannak.
+
+47
+00:03:35,575 --> 00:03:39,250
+- ¿De qué estás hablando?
+- A todos. Cuando éramos niños.
+
+48
+00:03:40,226 --> 00:03:42,028
+Nos robó de nuestras familias.
+
+49
+00:03:44,556 --> 00:03:47,017
+Es verdad. Halsey nos mintió.
+
+50
+00:03:47,118 --> 00:03:50,002
+Nos ha mentido toda nuestra vida.
+
+51
+00:03:50,297 --> 00:03:51,245
+No lo entiendo.
+
+52
+00:03:51,346 --> 00:03:56,186
+Ella no quiere que lo entiendas,
+sólo quiere controlarte.
+
+53
+00:03:57,229 --> 00:03:59,197
+Alza tu arma, Riz.
+
+54
+00:03:59,742 --> 00:04:01,752
+¡Ella nos secuestró!
+
+55
+00:04:02,740 --> 00:04:06,289
+Nos torturó y nos lavó el cerebro.
+
+56
+00:04:07,192 --> 00:04:08,350
+Nos convirtió en armas.
+
+57
+00:04:08,451 --> 00:04:09,472
+No es verdad.
+
+58
+00:04:09,573 --> 00:04:12,301
+Y ahora nos hace pelear
+entre nosotros. Vannak, escucha...
+
+59
+00:04:12,402 --> 00:04:13,398
+¡No es verdad!
+
+60
+00:04:13,499 --> 00:04:14,970
+¡Lo es!
+
+61
+00:04:16,138 --> 00:04:17,857
+Es verdad.
+
+62
+00:04:18,702 --> 00:04:20,254
+Yo estuve ahí.
+
+63
+00:04:23,671 --> 00:04:27,231
+Ayudé a Halsey a seleccionarlos.
+
+64
+00:04:27,332 --> 00:04:29,549
+Planeé sus secuestros.
+
+65
+00:04:30,787 --> 00:04:35,251
+Entregué sus clones de reemplazo
+a sus familias.
+
+66
+00:04:35,530 --> 00:04:38,412
+Le ayudé a borrar sus recuerdos.
+
+67
+00:04:47,347 --> 00:04:50,398
+Es a mí a quien debe dispararle.
+
+68
+00:04:58,440 --> 00:05:02,363
+Si perdemos el artefacto,
+perdemos la guerra.
+
+69
+00:05:02,784 --> 00:05:04,502
+Así de simple.
+
+70
+00:05:06,198 --> 00:05:08,621
+No importa qué nos hayan hecho...
+
+71
+00:05:10,359 --> 00:05:12,284
+somos la única esperanza.
+
+72
+00:05:21,678 --> 00:05:23,479
+Depende de nosotros.
+
+73
+00:05:34,185 --> 00:05:37,401
+La nave Covenant
+está en el hangar Delta 7.
+
+74
+00:05:37,823 --> 00:05:39,915
+Es probable que Makee vaya para allá.
+
+75
+00:05:40,443 --> 00:05:41,995
+Jefe.
+
+76
+00:05:44,938 --> 00:05:46,324
+Ustedes vayan.
+
+77
+00:05:46,895 --> 00:05:48,904
+Yo iré por Halsey.
+
+78
+00:05:53,552 --> 00:05:55,102
+Miranda...
+
+79
+00:06:03,438 --> 00:06:07,081
+¡Abandone la nave, doctora Halsey!
+¡Última advertencia!
+
+80
+00:06:07,182 --> 00:06:11,188
+¡Apague los motores y salga
+o abriremos fuego!
+
+81
+00:06:13,566 --> 00:06:16,945
+Tenemos energía auxiliar,
+el sistema de navegación funciona.
+
+82
+00:06:17,046 --> 00:06:19,533
+Debemos despegar antes
+de que energicen sus cañones PEM.
+
+83
+00:06:19,634 --> 00:06:21,808
+- ¿Hubo alguna lectura?
+- ¿Qué?
+
+84
+00:06:22,347 --> 00:06:24,975
+¿Hubo alguna lectura?
+Tocaron el artefacto.
+
+85
+00:06:25,076 --> 00:06:27,096
+¡No, todo dejó de funcionar!
+
+86
+00:06:27,197 --> 00:06:27,896
+Mierda.
+
+87
+00:06:27,997 --> 00:06:30,160
+Doctora, por favor,
+hay que irnos ya, ¿sí?
+
+88
+00:06:30,261 --> 00:06:31,783
+No me iré hasta saber qué pasa.
+
+89
+00:06:31,884 --> 00:06:33,946
+Sí, sí, pero van a arrestarla.
+
+90
+00:06:34,047 --> 00:06:34,977
+- No...
+- Sí, la arrestarán.
+
+91
+00:06:35,078 --> 00:06:36,841
+Matriz de navegación activada.
+
+92
+00:06:36,942 --> 00:06:38,537
+El paquete está asegurado.
+
+93
+00:06:38,909 --> 00:06:41,237
+Escúcheme. Aún tenemos opciones.
+
+94
+00:06:41,338 --> 00:06:45,511
+Red de seguridad activada.
+Todos los sistemas en estado óptimo.
+
+95
+00:06:46,690 --> 00:06:48,990
+¡El Phantom del Covenant
+está en marcha!
+
+96
+00:07:01,402 --> 00:07:03,624
+Pongan un rastreador
+en la nave del Covenant.
+
+97
+00:07:03,725 --> 00:07:06,363
+- ¡Y desplieguen a los Pelicans!
+- Sí, señor.
+
+98
+00:07:06,464 --> 00:07:08,376
+La nave de Halsey
+acaba de volver a conectarse.
+
+99
+00:07:08,477 --> 00:07:10,318
+Se prepara para despegar.
+
+100
+00:07:16,340 --> 00:07:17,892
+¡No!
+
+101
+00:07:31,612 --> 00:07:32,926
+¡Nos dieron!
+
+102
+00:07:55,040 --> 00:07:56,711
+¿Cuál es mi nombre real?
+
+103
+00:07:56,812 --> 00:07:58,156
+Kai.
+
+104
+00:07:58,303 --> 00:07:59,715
+No piensas con claridad.
+La nave está a punto de estrellarse.
+
+105
+00:07:59,816 --> 00:08:01,660
+Dime cuál es mi nombre.
+
+106
+00:08:01,782 --> 00:08:04,143
+Demos la vuelta.
+Entremos en la cápsula, podemos...
+
+107
+00:08:04,244 --> 00:08:06,088
+¡Basta!
+
+108
+00:08:09,080 --> 00:08:10,714
+¿Quién soy?
+
+109
+00:08:13,865 --> 00:08:16,957
+Eres justo quien debías ser.
+
+110
+00:08:24,127 --> 00:08:25,441
+Kai...
+
+111
+00:08:50,975 --> 00:08:51,573
+¡No!
+
+112
+00:08:51,674 --> 00:08:53,628
+Desplegando cápsula de escape.
+
+113
+00:08:53,729 --> 00:08:55,155
+¡No!
+
+114
+00:08:57,541 --> 00:08:59,798
+Halsey escapó en una cápsula.
+
+115
+00:09:06,429 --> 00:09:07,517
+Detengan esa cápsula.
+
+116
+00:09:07,618 --> 00:09:10,128
+No dejen que salga
+del espacio aéreo de Reach.
+
+117
+00:09:10,291 --> 00:09:13,173
+- ¿PEM listo?
+- Casi termina el reinicio, señor.
+
+118
+00:09:17,266 --> 00:09:19,190
+¡Kai! ¿Cuál es su estado?
+
+119
+00:09:25,154 --> 00:09:26,175
+¿Kai?
+
+120
+00:09:26,276 --> 00:09:29,078
+Intento recuperar
+el control de la nave.
+
+121
+00:09:29,815 --> 00:09:31,162
+El casco está...
+
+122
+00:09:31,263 --> 00:09:32,855
+comprometido.
+
+123
+00:09:37,130 --> 00:09:37,994
+Mierda.
+
+124
+00:09:38,095 --> 00:09:40,315
+¿125, me escucha?
+
+125
+00:09:53,343 --> 00:09:54,757
+¿125?
+
+126
+00:09:54,858 --> 00:09:57,367
+Habla el Capitán Keyes, ¿me escucha?
+
+127
+00:09:57,754 --> 00:09:59,068
+¡Kai!
+
+128
+00:10:34,164 --> 00:10:35,453
+¿Cortana?
+
+129
+00:10:35,554 --> 00:10:38,186
+Sí, jefe, sigo aquí.
+
+130
+00:10:38,449 --> 00:10:40,415
+Te voy a necesitar.
+
+131
+00:11:36,046 --> 00:11:43,802
+<i>Halo - S01E09
+
+132
+00:11:54,397 --> 00:11:56,283
+Vas a pagarla caro.
+
+133
+00:11:56,536 --> 00:11:57,925
+No.
+
+134
+00:11:58,026 --> 00:12:00,205
+Son ustedes quienes la pagarán caro.
+
+135
+00:12:00,306 --> 00:12:01,778
+La doctora Halsey
+guarda sus secretos
+
+136
+00:12:01,879 --> 00:12:04,096
+en un diario
+que siempre trae consigo.
+
+137
+00:12:04,318 --> 00:12:05,953
+¿Y qué hay de Makee?
+
+138
+00:12:06,166 --> 00:12:08,461
+¿Estuvo trabajando con Halsey
+desde el principio?
+
+139
+00:12:08,562 --> 00:12:10,216
+No. Cuando se enteró...
+
+140
+00:12:10,317 --> 00:12:13,146
+Cortana, ¿Halsey le pidió a Makee
+que robara el artefacto?
+
+141
+00:12:13,247 --> 00:12:15,784
+Sí. Pero Makee se negó.
+
+142
+00:12:15,885 --> 00:12:17,964
+Lo quería para ella.
+
+143
+00:12:18,065 --> 00:12:19,221
+No estoy segura de que eso...
+
+144
+00:12:19,322 --> 00:12:22,449
+Pon el sistema estelar Aspero,
+aumentado 20 veces.
+
+145
+00:12:22,550 --> 00:12:26,020
+Jefe, buscamos en todas las regiones
+visibles del sistema Aspero.
+
+146
+00:12:26,121 --> 00:12:27,636
+No encontramos
+ni un planeta habitable.
+
+147
+00:12:27,737 --> 00:12:29,874
+Makee me dijo que llevaron
+el artefacto de Eridanus
+
+148
+00:12:29,975 --> 00:12:32,732
+a su lugar sagrado,
+en algún lugar de Aspero.
+
+149
+00:12:33,111 --> 00:12:36,687
+¿Cómo puede confiar en lo que le dijo
+después de todo lo que hizo?
+
+150
+00:12:36,788 --> 00:12:38,214
+Fue honesta conmigo.
+
+151
+00:12:39,552 --> 00:12:41,358
+Al menos por un momento.
+
+152
+00:12:41,459 --> 00:12:42,755
+Pude sentirlo.
+
+153
+00:12:42,856 --> 00:12:44,990
+Creo que el Jefe Maestro tiene razón.
+
+154
+00:12:45,714 --> 00:12:48,565
+¿Tú también lo sentiste?
+
+155
+00:12:48,666 --> 00:12:51,110
+A mi manera. Sí, señora.
+
+156
+00:12:51,211 --> 00:12:52,886
+La profecía del Covenant.
+
+157
+00:12:54,473 --> 00:12:56,702
+Se supone que el Halo se revelará
+
+158
+00:12:56,803 --> 00:12:58,607
+donde las estrellas
+brillan como cristal.
+
+159
+00:12:58,708 --> 00:13:01,063
+Un poco poético
+para el Covenant, ¿no cree?
+
+160
+00:13:01,164 --> 00:13:03,714
+No creo que sea poético,
+creo que es una pista.
+
+161
+00:13:03,835 --> 00:13:07,496
+Cortana, ¿cuál es la fuerza
+del campo gravitacional del sistema?
+
+162
+00:13:07,597 --> 00:13:11,041
+Pregunta interesante.
+Existen varios campos.
+
+163
+00:13:11,142 --> 00:13:13,053
+Aspero es un sistema inestable
+
+164
+00:13:13,154 --> 00:13:15,308
+rodeado por una red
+dinámica artificial
+
+165
+00:13:15,409 --> 00:13:17,389
+de lo que parecen ser
+cuerdas cósmicas.
+
+166
+00:13:17,490 --> 00:13:20,068
+Lentes gravitacionales
+de las cuerdas se curvan
+
+167
+00:13:20,169 --> 00:13:22,398
+y dispersan la luz
+que viene del sistema,
+
+168
+00:13:22,499 --> 00:13:24,934
+creando un efecto de caleidoscopio.
+
+169
+00:13:25,035 --> 00:13:26,477
+Desde nuestro punto de vista,
+
+170
+00:13:26,578 --> 00:13:28,823
+un planeta tendría
+el aspecto de fragmentos.
+
+171
+00:13:28,924 --> 00:13:31,139
+O esquirlas de cristal.
+
+172
+00:13:31,752 --> 00:13:34,513
+Entonces el planeta Covenant
+podría estar justo ahí,
+
+173
+00:13:34,775 --> 00:13:36,039
+pero no podemos verlo.
+
+174
+00:13:36,140 --> 00:13:38,521
+No hasta que estemos ahí.
+
+175
+00:13:39,035 --> 00:13:42,469
+Les diré a los marines.
+Doce batallones.
+
+176
+00:13:42,570 --> 00:13:47,307
+Almirante, si envía a 10.000 marines,
+perderá a 10.000 marines.
+
+177
+00:13:47,408 --> 00:13:50,076
+Sería la primera incursión humana
+
+178
+00:13:50,177 --> 00:13:52,477
+en espacio controlado
+por el Covenant.
+
+179
+00:13:53,222 --> 00:13:55,025
+Podemos hacerlo, señora.
+
+180
+00:13:55,488 --> 00:13:57,662
+El equipo Silver puede hacerlo.
+
+181
+00:13:59,006 --> 00:14:00,849
+Escúcheme.
+
+182
+00:14:01,131 --> 00:14:04,630
+Su comportamiento reciente
+ha sido errático, como mínimo.
+
+183
+00:14:04,731 --> 00:14:07,046
+No ha sido el mismo de siempre.
+
+184
+00:14:07,147 --> 00:14:09,709
+Las emociones
+que esté experimentando,
+
+185
+00:14:09,810 --> 00:14:13,187
+el dolor que esté sintiendo,
+hágalos a un lado.
+
+186
+00:14:13,288 --> 00:14:15,838
+Olvide todo eso, ¿entiende?
+
+187
+00:14:19,128 --> 00:14:24,176
+Cuando llegue al campo de batalla,
+John ya no debe existir.
+
+188
+00:14:24,953 --> 00:14:27,461
+Sólo el Jefe Maestro.
+
+189
+00:14:36,769 --> 00:14:38,322
+Jefe...
+
+190
+00:14:39,682 --> 00:14:42,644
+Le dimos a la cápsula de Halsey
+sobre Manassas.
+
+191
+00:14:42,745 --> 00:14:45,960
+Volverá a estar en custodia pronto.
+
+192
+00:14:47,755 --> 00:14:51,132
+Mucho ha pasado con los años,
+
+193
+00:14:51,233 --> 00:14:54,657
+mucho de lo que no me enorgullezco.
+
+194
+00:14:56,342 --> 00:14:58,517
+Intenté racionalizarlo.
+
+195
+00:14:59,629 --> 00:15:02,097
+Por todo el bien que ha hecho usted.
+
+196
+00:15:04,647 --> 00:15:08,487
+No hay disculpa que le devuelva
+lo que le arrebatamos.
+
+197
+00:15:13,616 --> 00:15:14,207
+Pero si...
+
+198
+00:15:14,308 --> 00:15:16,525
+Habrá un ajuste de cuentas, Capitán.
+
+199
+00:15:17,979 --> 00:15:19,653
+Algún día.
+
+200
+00:15:19,810 --> 00:15:21,652
+Para todos.
+
+201
+00:15:22,565 --> 00:15:24,239
+Pero no será hoy.
+
+202
+00:15:48,479 --> 00:15:50,941
+Oigan, ¿en serio iban a matarme?
+
+203
+00:15:51,042 --> 00:15:52,797
+- Sabes que sí.
+- Por supuesto. Sin duda.
+
+204
+00:15:52,898 --> 00:15:56,611
+Dios, ustedes dos son increíbles.
+Son muy fríos.
+
+205
+00:15:56,965 --> 00:15:59,391
+Bueno, ¿tú no nos ibas a matar?
+
+206
+00:15:59,695 --> 00:16:02,697
+Claro que lo hubiera hecho,
+pero me hubiera sentido mal por ello.
+
+207
+00:16:02,798 --> 00:16:04,223
+Diablos, Vannak.
+
+208
+00:16:41,050 --> 00:16:41,957
+¡Doctora Halsey!
+
+209
+00:16:42,058 --> 00:16:43,611
+- Mierda.
+- ¡Rápido!
+
+210
+00:16:45,479 --> 00:16:47,237
+- ¡Alto!
+- ¡La tenemos!
+
+211
+00:17:10,880 --> 00:17:12,517
+¿Ya dijo algo?
+
+212
+00:17:13,062 --> 00:17:14,821
+Ni una palabra.
+
+213
+00:17:15,978 --> 00:17:19,153
+Miranda, tenemos que hablar.
+
+214
+00:17:19,539 --> 00:17:21,570
+Si pudieras darme un momento
+de tu tiempo...
+
+215
+00:17:21,671 --> 00:17:23,263
+Miranda.
+
+216
+00:17:52,168 --> 00:17:54,468
+Bendecida.
+
+217
+00:17:54,907 --> 00:17:56,916
+Ha regresado.
+
+218
+00:17:57,178 --> 00:18:03,059
+Y nos ha entregado ambas claves,
+como lo prometió.
+
+219
+00:18:03,165 --> 00:18:05,088
+También nos prometió
+
+220
+00:18:05,189 --> 00:18:10,141
+la cabeza del Demonio.
+
+221
+00:18:10,242 --> 00:18:14,328
+¿No está satisfecho,
+noble jerarca Pesar?
+
+222
+00:18:14,429 --> 00:18:18,033
+Lo ha hecho bien.
+
+223
+00:18:18,134 --> 00:18:22,892
+Pronto, nuestro Covenant
+comenzará el Gran Viaje.
+
+224
+00:18:24,022 --> 00:18:26,252
+¿Y qué hay de mí, Piedad?
+
+225
+00:18:26,353 --> 00:18:29,986
+¿Yo los acompañaré en el Gran Viaje?
+
+226
+00:18:30,449 --> 00:18:36,040
+Siempre hay lugar para la Bendecida.
+
+227
+00:18:37,085 --> 00:18:41,135
+Si es lo que quiere.
+
+228
+00:18:44,095 --> 00:18:46,897
+Claro que quiero.
+
+229
+00:18:58,182 --> 00:19:00,819
+Jefe, hay algo que tengo que decirle.
+
+230
+00:19:01,530 --> 00:19:04,225
+Luego de que los otros Spartans
+lo pusieran en custodia,
+
+231
+00:19:04,326 --> 00:19:08,126
+la doctora Halsey me iba
+a dar control total de su cuerpo...
+
+232
+00:19:08,439 --> 00:19:09,949
+y su mente.
+
+233
+00:19:12,753 --> 00:19:15,097
+¿Y cómo planeaba lograrlo?
+
+234
+00:19:15,542 --> 00:19:19,966
+Usted iba a dejar de existir.
+Y yo iba a tomar el control.
+
+235
+00:19:23,034 --> 00:19:23,630
+Entiendo.
+
+236
+00:19:23,731 --> 00:19:26,707
+Ese siempre fue el plan,
+para eso me diseñaron.
+
+237
+00:19:26,808 --> 00:19:29,010
+¿Por qué no me controlaste
+desde el inicio?
+
+238
+00:19:29,111 --> 00:19:31,870
+Sólo usted podía activar
+los artefactos.
+
+239
+00:19:33,376 --> 00:19:35,056
+Halsey me necesitaba
+para hallar el Halo.
+
+240
+00:19:35,157 --> 00:19:36,540
+Sí.
+
+241
+00:19:37,704 --> 00:19:40,380
+Cuando Makee apareció,
+¿me volví redundante?
+
+242
+00:19:41,159 --> 00:19:42,795
+Sí.
+
+243
+00:19:53,840 --> 00:19:55,643
+Pudiste haberlo hecho.
+
+244
+00:19:55,981 --> 00:19:58,947
+Pudiste noquearme
+y entregarme a Halsey.
+
+245
+00:19:59,269 --> 00:20:00,216
+¿Por qué no lo hiciste?
+
+246
+00:20:00,317 --> 00:20:02,781
+Porque también me diseñaron
+para aprender, John.
+
+247
+00:20:02,882 --> 00:20:05,849
+Y aprendí. De usted.
+
+248
+00:20:06,097 --> 00:20:09,517
+Creo que lo que la doctora Halsey
+quiere eliminar de su especie
+
+249
+00:20:09,618 --> 00:20:14,501
+es precisamente lo que
+los hace especiales: Su humanidad.
+
+250
+00:20:14,903 --> 00:20:19,621
+Lo he visto luchar por la suya
+y creo que es la causa correcta.
+
+251
+00:20:20,957 --> 00:20:23,545
+¿Entonces ya no quieres
+adueñarte de mi cuerpo?
+
+252
+00:20:23,646 --> 00:20:26,489
+Esperaré una versión menos golpeada.
+
+253
+00:20:32,763 --> 00:20:34,458
+Todo el campo estelar desapareció.
+
+254
+00:20:34,559 --> 00:20:37,180
+Entramos a donde se juntan
+los campos gravitacionales opuestos,
+
+255
+00:20:37,281 --> 00:20:39,001
+lo cual dispersa toda la luz.
+
+256
+00:20:42,111 --> 00:20:43,908
+Maniobre a lo largo
+del punto crítico,
+
+257
+00:20:44,009 --> 00:20:45,546
+entre los segmentos
+de cuerdas cósmicas,
+
+258
+00:20:45,647 --> 00:20:47,448
+donde los campos se equilibran.
+
+259
+00:20:53,659 --> 00:20:54,998
+Sistemas eléctricos fallando.
+
+260
+00:20:55,099 --> 00:20:57,123
+Jefe, redirigiendo energía auxiliar.
+
+261
+00:20:57,224 --> 00:20:58,305
+¡Vannak!
+
+262
+00:20:58,406 --> 00:20:59,833
+¡Jefe!
+
+263
+00:21:03,592 --> 00:21:05,048
+No tengo instrumentos.
+
+264
+00:21:05,149 --> 00:21:05,929
+Cortana.
+
+265
+00:21:06,030 --> 00:21:09,151
+Calculando ruta.
+Debe mantener la línea precisa.
+
+266
+00:21:09,252 --> 00:21:10,858
+Si se aleja mucho
+en dirección equivocada,
+
+267
+00:21:10,959 --> 00:21:13,167
+la nave se hará como espagueti
+por la marea.
+
+268
+00:21:13,268 --> 00:21:16,234
+- ¿"Como espagueti"?
+- Se estirará, torcerá y romperá.
+
+269
+00:21:16,955 --> 00:21:19,517
+¿Y no pensaste en decírnoslo
+antes de partir?
+
+270
+00:21:19,618 --> 00:21:21,551
+Nuestras probabilidades
+de éxito son tan bajas
+
+271
+00:21:21,652 --> 00:21:23,982
+- que no quise preocuparlos.
+- Volamos a ciegas.
+
+272
+00:21:24,083 --> 00:21:25,397
+Yo seré sus ojos.
+
+273
+00:21:27,736 --> 00:21:30,247
+¡Fuego en el compartimento tres!
+
+274
+00:21:37,188 --> 00:21:38,822
+A la izquierda, dos grados.
+
+275
+00:21:39,200 --> 00:21:40,919
+No me gusta esto, Jefe.
+
+276
+00:21:51,884 --> 00:21:53,887
+¡Perdimos la gravedad artificial!
+
+277
+00:21:53,988 --> 00:21:56,080
+¡El casco se está despedazando!
+
+278
+00:21:57,902 --> 00:22:00,867
+Advertencia:
+Gravedad artificial desconectada.
+
+279
+00:22:01,097 --> 00:22:02,983
+Va muy rápido.
+
+280
+00:22:04,844 --> 00:22:06,604
+¡Repítelo, no te oigo!
+
+281
+00:22:09,464 --> 00:22:10,850
+¡Mierda!
+
+282
+00:22:17,776 --> 00:22:19,742
+¡Esto no me gusta nada!
+
+283
+00:22:19,972 --> 00:22:21,440
+¡Vamos!
+
+284
+00:22:42,901 --> 00:22:43,883
+Mantén esta línea.
+
+285
+00:22:43,984 --> 00:22:46,077
+- ¿Cómo lo sabe?
+- Sólo hazme caso.
+
+286
+00:22:47,929 --> 00:22:50,231
+- La nave no resistirá.
+- Sí resistirá.
+
+287
+00:23:32,107 --> 00:23:34,116
+Qué bien, siguen vivos.
+
+288
+00:23:34,555 --> 00:23:37,396
+Y creo que encontramos
+lo que buscábamos.
+
+289
+00:24:08,414 --> 00:24:10,220
+¿Te sorprende verme?
+
+290
+00:24:16,518 --> 00:24:20,263
+Nunca creí que vería
+a la gran Catherine Halsey
+
+291
+00:24:20,364 --> 00:24:22,751
+pagar por sus acciones.
+
+292
+00:24:24,135 --> 00:24:26,604
+Es una lista muy larga
+de cargos en tu contra.
+
+293
+00:24:26,926 --> 00:24:29,176
+Te los puedo leer si quieres.
+
+294
+00:24:29,277 --> 00:24:32,042
+Empieza con secuestro
+y termina con traición.
+
+295
+00:24:35,390 --> 00:24:37,646
+¿No? No te culpo.
+
+296
+00:24:37,747 --> 00:24:40,317
+El comité también
+prefiere no discutirlo.
+
+297
+00:24:40,418 --> 00:24:42,848
+Están avergonzados
+por todo el asunto.
+
+298
+00:24:43,101 --> 00:24:45,586
+Y por eso integraron
+un tribunal militar
+
+299
+00:24:45,687 --> 00:24:47,741
+para tratar tu caso en privado.
+
+300
+00:24:48,772 --> 00:24:50,824
+Ya llegaron a un veredicto.
+
+301
+00:24:51,856 --> 00:24:53,744
+¿Quieres oírlo?
+
+302
+00:24:54,647 --> 00:24:57,365
+Bueno, tu culpa en realidad
+nunca estuvo en duda, ¿verdad?
+
+303
+00:24:57,466 --> 00:25:00,106
+El debate fue sobre tu castigo.
+
+304
+00:25:01,696 --> 00:25:04,845
+"Pese a su contribución sustancial
+al esfuerzo bélico,
+
+305
+00:25:04,946 --> 00:25:07,830
+el comité está convencido
+de que es demasiado peligrosa
+
+306
+00:25:07,931 --> 00:25:10,352
+como para ir a la cárcel
+o el exilio".
+
+307
+00:25:12,660 --> 00:25:14,418
+Imagina eso.
+
+308
+00:25:17,268 --> 00:25:19,658
+Sólo tenían una opción.
+
+309
+00:25:22,046 --> 00:25:24,226
+El artículo 72.
+
+310
+00:25:27,758 --> 00:25:30,187
+Quise ser yo quien te lo dijera.
+
+311
+00:25:34,761 --> 00:25:36,440
+¿Sabes?
+
+312
+00:25:38,448 --> 00:25:43,837
+Creí que al mantenerte lejos
+de todo esto, te estaba protegiendo.
+
+313
+00:25:46,077 --> 00:25:50,340
+Pero... Tuvo el efecto opuesto.
+
+314
+00:25:50,581 --> 00:25:52,424
+Te endureció.
+
+315
+00:25:55,273 --> 00:26:00,457
+Miranda, estás persiguiendo
+a un fantasma.
+
+316
+00:26:02,061 --> 00:26:03,948
+Déjalo.
+
+317
+00:26:05,530 --> 00:26:08,712
+Déjalo. Por tu propio bien.
+
+318
+00:26:14,401 --> 00:26:15,912
+Adiós, madre.
+
+319
+00:27:02,511 --> 00:27:06,817
+¿Y dónde está nuestra "Bendecida"?
+
+320
+00:27:07,223 --> 00:27:09,299
+Preparándose para la ceremonia.
+
+321
+00:27:09,400 --> 00:27:12,190
+Vaya criatura ingenua, esta humana.
+
+322
+00:27:12,291 --> 00:27:16,404
+Se consagra
+para su propio sacrificio.
+
+323
+00:27:16,505 --> 00:27:19,879
+Ha ensuciado demasiado
+nuestro mundo con su presencia.
+
+324
+00:27:19,980 --> 00:27:24,539
+No he olvidado la promesa
+que te hice, hermano.
+
+325
+00:27:24,640 --> 00:27:27,259
+Una vez que terminemos el Gran Viaje,
+
+326
+00:27:27,360 --> 00:27:29,790
+Makee arderá...
+
+327
+00:27:30,028 --> 00:27:33,041
+junto con su especie.
+
+328
+00:27:38,595 --> 00:27:40,200
+Detecto actividad Covenant
+de bajo nivel
+
+329
+00:27:40,301 --> 00:27:42,144
+en el hemisferio noroeste.
+
+330
+00:27:42,596 --> 00:27:44,522
+Fijando para descenso orbital.
+
+331
+00:27:44,623 --> 00:27:46,436
+¿Defensas aéreas o terrestres?
+
+332
+00:27:46,537 --> 00:27:48,377
+No detecto ninguna.
+
+333
+00:27:48,616 --> 00:27:50,786
+Qué raro. Creí que este
+era su planeta santo.
+
+334
+00:27:50,887 --> 00:27:52,809
+¿Para qué defender un planeta
+que los humanos no ven?
+
+335
+00:27:52,910 --> 00:27:56,164
+Estén alertas. Entraremos sigilosos,
+tomaremos el paquete y saldremos.
+
+336
+00:27:56,265 --> 00:27:57,608
+- Entendido.
+- Sí, jefe.
+
+337
+00:28:01,932 --> 00:28:04,373
+Sólo los artefactos,
+esa es la misión, ¿no, Jefe?
+
+338
+00:28:04,474 --> 00:28:06,649
+- Se refiere a Makee.
+- Gracias, Kai.
+
+339
+00:28:08,426 --> 00:28:09,934
+Ya tienen sus órdenes.
+
+340
+00:28:10,266 --> 00:28:11,430
+Sí, jefe.
+
+341
+00:28:11,531 --> 00:28:12,957
+Ya lo oíste.
+
+342
+00:28:15,458 --> 00:28:18,426
+Equipo Silver, conmigo.
+
+343
+00:28:40,497 --> 00:28:41,881
+Buenas tardes.
+
+344
+00:28:47,506 --> 00:28:49,559
+Nadie te recordará.
+
+345
+00:28:49,936 --> 00:28:51,528
+Kai, vigila.
+
+346
+00:28:52,099 --> 00:28:53,569
+Recibido.
+
+347
+00:29:00,725 --> 00:29:03,235
+Sí, ven acá.
+
+348
+00:29:14,659 --> 00:29:17,452
+Hay muy poca seguridad.
+¿Dónde están todos?
+
+349
+00:29:17,553 --> 00:29:21,187
+Sólo detecto actividad enemiga
+dentro del templo.
+
+350
+00:29:21,551 --> 00:29:22,935
+Andando.
+
+351
+00:29:26,107 --> 00:29:26,783
+¡Doctora Halsey, reaccione!
+
+352
+00:29:26,884 --> 00:29:29,478
+- Dejen que pase.
+- Clorpromazina, dos miligramos.
+
+353
+00:29:30,198 --> 00:29:32,875
+- Doctora, míreme. Reaccione.
+- Sostenga su brazo.
+
+354
+00:29:32,976 --> 00:29:34,274
+¿Qué pasó? ¿Qué pasó?
+
+355
+00:29:34,375 --> 00:29:37,548
+Su nariz comenzó a sangrar
+y luego empezó a convulsionarse.
+
+356
+00:29:37,737 --> 00:29:39,584
+- Intravenosa.
+- Dra. Halsey, la vamos a ayudar.
+
+357
+00:29:39,685 --> 00:29:41,142
+Trastorno convulsivo.
+
+358
+00:29:41,243 --> 00:29:42,928
+¿La cosa con la que me reemplazó?
+
+359
+00:29:43,029 --> 00:29:45,207
+Clones comprometidos genéticamente.
+
+360
+00:29:46,328 --> 00:29:47,765
+Sangrados nasales, jaquecas,
+
+361
+00:29:47,866 --> 00:29:49,705
+un trastorno convulsivo
+sin diagnosticar.
+
+362
+00:29:49,806 --> 00:29:51,120
+Una explicación.
+
+363
+00:29:52,386 --> 00:29:53,311
+Su estado es crítico.
+
+364
+00:29:53,412 --> 00:29:54,767
+Alto.
+
+365
+00:29:54,868 --> 00:29:55,971
+¡Alto!
+
+366
+00:29:56,072 --> 00:29:57,844
+- ¿Dónde está?
+- Está crítica, señora.
+
+367
+00:29:57,945 --> 00:29:59,677
+¿Dónde está? ¿Dónde está?
+
+368
+00:29:59,778 --> 00:30:01,412
+- ¡Dime dónde está!
+- ¡Señora!
+
+369
+00:30:01,634 --> 00:30:02,664
+¡Dime dónde está!
+
+370
+00:30:02,765 --> 00:30:03,721
+¿Dónde está? ¿Dónde está?
+
+371
+00:30:03,822 --> 00:30:06,237
+Miranda, cálmate.
+Deja que atiendan a tu madre.
+
+372
+00:30:06,338 --> 00:30:08,720
+Esa no es mi madre.
+
+373
+00:30:25,359 --> 00:30:27,922
+Habrá un camino.
+
+374
+00:30:28,023 --> 00:30:33,025
+Se llamará el camino de la santidad.
+
+375
+00:30:33,796 --> 00:30:37,376
+El Covenant atravesará el camino.
+
+376
+00:30:37,477 --> 00:30:40,819
+Esta es la vindicación
+
+377
+00:30:40,920 --> 00:30:43,967
+de los caminos de nuestro Covenant.
+
+378
+00:30:44,068 --> 00:30:48,532
+La promesa será cumplida.
+
+379
+00:30:48,953 --> 00:30:51,099
+Pronto nos uniremos
+
+380
+00:30:51,200 --> 00:30:56,498
+a los antiguos como Dioses.
+
+381
+00:30:58,087 --> 00:31:00,342
+Unan las Piedras Sagradas,
+
+382
+00:31:00,721 --> 00:31:06,352
+que ellas iluminen
+el camino al Anillo.
+
+383
+00:31:12,209 --> 00:31:13,523
+¡Jefe!
+
+384
+00:31:14,499 --> 00:31:15,645
+Nos descubrieron.
+
+385
+00:31:15,746 --> 00:31:17,060
+¡Demonio!
+
+386
+00:31:18,518 --> 00:31:20,730
+¡Fue ella! ¡Ella lo invocó!
+
+387
+00:31:20,831 --> 00:31:22,538
+¡No! ¡Lo juro!
+
+388
+00:31:22,639 --> 00:31:25,937
+Olvídenla. ¡Atrapen al Demonio!
+
+389
+00:31:26,217 --> 00:31:27,531
+¡Jefe, cúbrase!
+
+390
+00:31:29,339 --> 00:31:31,100
+¡Suelten a los Zealots!
+
+391
+00:31:37,678 --> 00:31:39,225
+¿Qué rayos es eso?
+
+392
+00:31:39,326 --> 00:31:41,581
+Guerreros sangheili
+acercándose por abajo.
+
+393
+00:31:41,682 --> 00:31:43,063
+¡Dijiste que estaba despejado!
+
+394
+00:31:43,164 --> 00:31:46,289
+Debieron esconderse adentro
+de la montaña misma. No los detecté.
+
+395
+00:31:46,390 --> 00:31:46,984
+¿Cuántos son?
+
+396
+00:31:47,085 --> 00:31:50,013
+Calculando. Uno, dos, 250...
+
+397
+00:31:50,134 --> 00:31:51,256
+Jefe, ¿cuántos son?
+
+398
+00:31:51,357 --> 00:31:53,022
+Cientos. Vienen en oleadas.
+
+399
+00:31:53,123 --> 00:31:54,851
+¡Hay que movernos! ¡Ahora!
+
+400
+00:31:54,952 --> 00:31:56,266
+¿Cuántos son?
+
+401
+00:31:59,929 --> 00:32:01,641
+¡Vienen por la saliente, por el aro!
+
+402
+00:32:01,742 --> 00:32:03,324
+- Ya los tengo.
+- ¡Son demasiados!
+
+403
+00:32:03,425 --> 00:32:05,429
+- Sólo unos cientos.
+- Debe estar bromeando.
+
+404
+00:32:05,530 --> 00:32:06,873
+Riz, conmigo.
+
+405
+00:32:07,062 --> 00:32:09,239
+Kai, Vannak, cuídennos las espaldas.
+
+406
+00:32:30,727 --> 00:32:31,991
+- Jefe...
+- ¿Qué?
+
+407
+00:32:32,092 --> 00:32:33,406
+¿Lo recuerda?
+
+408
+00:32:34,778 --> 00:32:36,160
+Mierda.
+
+409
+00:32:36,261 --> 00:32:37,283
+Yo me encargo.
+
+410
+00:32:37,384 --> 00:32:38,698
+¡Riz, no!
+
+411
+00:33:18,905 --> 00:33:20,499
+¡Jefe, no!
+
+412
+00:33:40,351 --> 00:33:41,665
+¡El Jefe cayó!
+
+413
+00:33:50,172 --> 00:33:51,974
+Makee.
+
+414
+00:33:52,739 --> 00:33:55,372
+¡Makee! ¡No!
+
+415
+00:34:17,414 --> 00:34:20,383
+El Anillo Sagrado
+está revelando su ubicación.
+
+416
+00:34:28,444 --> 00:34:30,248
+¿Están viendo eso?
+
+417
+00:34:35,369 --> 00:34:36,758
+John.
+
+418
+00:34:44,801 --> 00:34:46,115
+¡John!
+
+419
+00:34:48,629 --> 00:34:52,138
+¡John! ¡John!
+
+420
+00:35:07,179 --> 00:35:08,819
+Lo lograste.
+
+421
+00:35:12,868 --> 00:35:14,376
+Makee.
+
+422
+00:35:18,511 --> 00:35:20,146
+Es hermoso, ¿verdad?
+
+423
+00:35:30,897 --> 00:35:32,211
+Te tengo, Riz.
+
+424
+00:35:40,335 --> 00:35:42,511
+¡Jefe! ¡Diablos!
+
+425
+00:35:45,811 --> 00:35:47,446
+Makee, regrésanos.
+
+426
+00:35:51,907 --> 00:35:54,123
+Yo no volveré, John.
+
+427
+00:35:58,048 --> 00:35:59,927
+¡Kai! ¡Necesitamos que el Jefe pelee!
+
+428
+00:36:00,028 --> 00:36:02,583
+¡No responde! ¿Qué quieres que haga?
+
+429
+00:36:02,684 --> 00:36:03,998
+¡Despiértalo!
+
+430
+00:36:04,250 --> 00:36:05,853
+¡Jefe! ¡Jefe!
+
+431
+00:36:05,954 --> 00:36:08,047
+¡Levántese! ¡Por favor!
+
+432
+00:36:11,574 --> 00:36:12,947
+¡Vannak, abajo!
+
+433
+00:36:13,048 --> 00:36:15,099
+¡No!
+
+434
+00:36:15,669 --> 00:36:17,014
+¡Vannak!
+
+435
+00:36:20,939 --> 00:36:22,615
+Esto no es real.
+
+436
+00:36:24,534 --> 00:36:26,459
+Pertenecemos aquí.
+
+437
+00:36:26,947 --> 00:36:28,708
+¿No lo ves?
+
+438
+00:36:30,177 --> 00:36:33,396
+Las claves hicieron
+que nos encontráramos por una razón.
+
+439
+00:36:33,590 --> 00:36:37,014
+Nos han guiado todo este tiempo
+y henos aquí.
+
+440
+00:36:39,473 --> 00:36:42,024
+Terminemos esto juntos.
+
+441
+00:36:45,452 --> 00:36:47,418
+Quédate conmigo, John.
+
+442
+00:36:51,459 --> 00:36:53,556
+Tienes que soltarla.
+
+443
+00:37:02,905 --> 00:37:04,789
+No.
+
+444
+00:37:05,486 --> 00:37:06,871
+No.
+
+445
+00:37:08,981 --> 00:37:10,702
+John.
+
+446
+00:37:11,339 --> 00:37:12,653
+¡No, no!
+
+447
+00:37:20,826 --> 00:37:22,072
+¿Kai?
+
+448
+00:37:22,173 --> 00:37:23,529
+Jefe.
+
+449
+00:37:23,630 --> 00:37:24,973
+Yo...
+
+450
+00:37:26,237 --> 00:37:30,161
+¡El mapa estelar está incompleto!
+
+451
+00:37:35,200 --> 00:37:36,514
+¡Mierda!
+
+452
+00:37:37,655 --> 00:37:39,501
+- ¡Riz!
+- ¡No te acerques, Kai!
+
+453
+00:37:44,215 --> 00:37:46,309
+¡Atrapen vivo al Demonio!
+
+454
+00:37:47,030 --> 00:37:48,789
+¡El equipo Silver cayó!
+
+455
+00:37:50,710 --> 00:37:53,840
+Tenemos poco tiempo
+antes de que nos superen totalmente.
+
+456
+00:37:55,534 --> 00:37:58,086
+He calculado
+tres posibles rutas de salida.
+
+457
+00:37:59,595 --> 00:38:01,163
+No nos iremos sin el artefacto.
+
+458
+00:38:01,264 --> 00:38:02,606
+¡No es posible!
+
+459
+00:38:02,917 --> 00:38:05,424
+¡En cuanto los toque,
+se quedará inmóvil!
+
+460
+00:38:06,249 --> 00:38:07,799
+Jefe, ¿me está escuchando?
+
+461
+00:38:09,728 --> 00:38:13,192
+No hay forma de rescatar
+los artefactos y al equipo.
+
+462
+00:38:18,483 --> 00:38:19,910
+Entonces hazlo tú.
+
+463
+00:38:20,923 --> 00:38:21,996
+¿Qué cosa?
+
+464
+00:38:22,097 --> 00:38:23,284
+Controla mi cuerpo.
+
+465
+00:38:23,385 --> 00:38:25,325
+Se lo dije, ya no quiero controlarlo.
+
+466
+00:38:25,426 --> 00:38:26,306
+Es la única forma.
+
+467
+00:38:26,407 --> 00:38:28,499
+Toma el artefacto
+y salva a los demás.
+
+468
+00:38:30,993 --> 00:38:32,585
+¡Jefe, basta!
+
+469
+00:38:36,662 --> 00:38:38,213
+No puedo dejar que muera.
+
+470
+00:38:40,673 --> 00:38:43,849
+Encuentra el Halo. Gana la guerra.
+
+471
+00:38:51,617 --> 00:38:54,129
+Es posible que no pueda
+traerlo de vuelta.
+
+472
+00:38:58,370 --> 00:39:00,086
+Confío en ti.
+
+473
+00:39:12,204 --> 00:39:13,668
+¿Qué has hecho?
+
+474
+00:39:13,769 --> 00:39:15,581
+¡Makee está muerta!
+
+475
+00:39:15,682 --> 00:39:19,147
+¡Necesitamos al Demonio
+para encontrar el anillo!
+
+476
+00:39:19,270 --> 00:39:22,891
+<i>ÓRGANOS VITALES EN ESTADO CRÍTICO</i>
+
+477
+00:39:24,279 --> 00:39:25,623
+Jefe.
+
+478
+00:39:43,868 --> 00:39:45,334
+John.
+
+479
+00:40:00,931 --> 00:40:02,468
+<i>INICIALIZANDO</i>
+
+480
+00:40:02,594 --> 00:40:03,806
+Cuando el juego termina,
+
+481
+00:40:03,907 --> 00:40:07,126
+el rey y el peón
+vuelven a la misma caja.
+
+482
+00:40:13,081 --> 00:40:14,395
+¿Jefe?
+
+483
+00:40:26,015 --> 00:40:29,148
+¡El Demonio está vivo!
+
+484
+00:40:30,513 --> 00:40:32,145
+¡Atrápenlo!
+
+485
+00:41:10,104 --> 00:41:11,372
+¡No!
+
+486
+00:41:11,473 --> 00:41:12,815
+¡Vámonos!
+
+487
+00:41:13,801 --> 00:41:15,770
+¡Vamos, Riz! ¡Arriba!
+
+488
+00:41:26,730 --> 00:41:28,072
+¡Jefe, no!
+
+489
+00:42:07,738 --> 00:42:10,538
+¡Deténganlos!
+
+490
+00:42:14,730 --> 00:42:16,044
+Riz.
+
+491
+00:42:18,060 --> 00:42:20,458
+¡Riz! ¡La estamos perdiendo!
+
+492
+00:42:20,559 --> 00:42:21,829
+¿Riz?
+
+493
+00:42:21,930 --> 00:42:23,093
+¡Riz!
+
+494
+00:42:23,194 --> 00:42:24,912
+¡Mierda!
+
+495
+00:42:28,629 --> 00:42:30,094
+¡Está colapsando!
+
+496
+00:42:30,195 --> 00:42:31,582
+¡Dios mío!
+
+497
+00:42:34,399 --> 00:42:36,283
+Tiene varias costillas rotas.
+
+498
+00:42:38,161 --> 00:42:39,840
+Te vamos a curar.
+
+499
+00:42:40,684 --> 00:42:43,095
+El pulmón izquierdo
+está en riesgo. ¡Vamos!
+
+500
+00:42:43,196 --> 00:42:45,581
+Tranquila, Riz. Aquí estamos.
+
+501
+00:42:47,400 --> 00:42:48,827
+¿Me escuchas?
+
+502
+00:42:49,172 --> 00:42:50,486
+¿Riz?
+
+503
+00:43:21,552 --> 00:43:23,352
+No te mueras, Riz.
+
+504
+00:43:30,523 --> 00:43:32,535
+Estamos en un viaje.
+
+505
+00:43:34,310 --> 00:43:37,648
+Nacemos, vivimos y morimos
+
+506
+00:43:37,749 --> 00:43:42,640
+según las reglas
+de una evolución ciega y sin guía.
+
+507
+00:43:42,741 --> 00:43:47,260
+Como resultado,
+nuestra especie no está equipada
+
+508
+00:43:47,361 --> 00:43:50,533
+para sobrevivir
+lo que vendrá a continuación.
+
+509
+00:43:51,352 --> 00:43:55,193
+Es hora de que tomemos el control
+de nuestra evolución.
+
+510
+00:43:56,140 --> 00:43:59,230
+De superar nuestra corta ignorancia
+
+511
+00:43:59,443 --> 00:44:02,663
+y aventurarnos a lo desconocido,
+
+512
+00:44:02,764 --> 00:44:06,603
+donde descubriremos
+nuestro verdadero potencial.
+
+513
+00:44:06,916 --> 00:44:10,923
+Sospecho que el Halo
+nos dará la llave.
+
+514
+00:44:11,258 --> 00:44:12,981
+¿Doctora Halsey?
+
+515
+00:44:13,907 --> 00:44:18,207
+Debo llevarla al anclaje espacial.
+Hay una nave que saldrá pronto.
+
+516
+00:44:25,933 --> 00:44:27,690
+Se ha perdido mucho.
+
+517
+00:44:27,805 --> 00:44:31,271
+Y sin duda,
+habrá más sacrificios por venir.
+
+518
+00:44:36,269 --> 00:44:40,734
+Pero yo creo que nuestra especie
+pronto abrirá sus alas
+
+519
+00:44:40,955 --> 00:44:44,253
+y alcanzará nuevas alturas.
+
+520
+00:44:44,617 --> 00:44:49,038
+Que reescribiremos
+lo que significa ser humano.
+
+521
+00:44:50,375 --> 00:44:52,632
+Que alcanzaremos...
+
+522
+00:44:53,787 --> 00:44:55,963
+la trascendencia.
+
+523
+00:45:40,600 --> 00:45:42,151
+¿John?
+
+524
+00:45:42,788 --> 00:45:44,672
+¿Eres tú?
+

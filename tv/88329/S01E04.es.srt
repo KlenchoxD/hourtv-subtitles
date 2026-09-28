@@ -1,0 +1,3025 @@
+1
+00:00:01,125 --> 00:00:01,955
+<font color="#ffff00">Sorry, Santa.</font>
+<font color="#00ffcc">Perdona, Santa.</font>
+
+2
+00:00:02,208 --> 00:00:03,288
+<font color="#ffff00">(CRASHING)</font>
+<font color="#00ffcc"></font>
+
+3
+00:00:03,375 --> 00:00:04,875
+<font color="#ffff00">(TIRES SCREECHING)</font>
+<font color="#00ffcc"></font>
+
+4
+00:00:04,958 --> 00:00:06,328
+<font color="#ffff00"></font>
+<font color="#00ffcc">En episodios anteriores</font>
+
+5
+00:00:06,416 --> 00:00:09,883
+<font color="#ffff00">Nathaniel? What are you doin', buddy? Hey, is everything okay?</font>
+<font color="#00ffcc">¿Nathaniel? ¿Qué haces, campeón? ¿Va todo bien?</font>
+
+6
+00:00:11,125 --> 00:00:13,245
+<font color="#ffff00"></font>
+<font color="#00ffcc">No pasa nada si no puedes venir en Navidad.</font>
+
+7
+00:00:13,333 --> 00:00:15,883
+<font color="#ffff00">Hey. You know I'm gonna be there, like I said.</font>
+<font color="#00ffcc">Ya os dije que iría, ¿o no?</font>
+
+8
+00:00:17,250 --> 00:00:19,880
+<font color="#ffff00">So Ronin is dead, and the person who killed him is dead.</font>
+<font color="#00ffcc">Así que Ronin está muerto y la persona que lo mató también.</font>
+
+9
+00:00:20,000 --> 00:00:21,960
+<font color="#ffff00">That's convenient. How do you know this?</font>
+<font color="#00ffcc">Qué oportuno todo. ¿Cómo lo sabes?</font>
+
+10
+00:00:22,083 --> 00:00:23,083
+<font color="#ffff00">'Cause I was there.</font>
+<font color="#00ffcc">Porque estuve allí.</font>
+
+11
+00:00:24,125 --> 00:00:25,460
+<font color="#ffff00">MAN: Up next, we have an artifact</font>
+<font color="#00ffcc">A continuación, un artefacto</font>
+
+12
+00:00:25,750 --> 00:00:29,250
+<font color="#ffff00">recovered from the wreckage of the Avengers compound.</font>
+<font color="#00ffcc">recuperado de los escombros de la base de los Vengadores.</font>
+
+13
+00:00:29,625 --> 00:00:30,665
+<font color="#ffff00">MAN: The lots.</font>
+<font color="#00ffcc">El reloj.</font>
+
+14
+00:00:34,375 --> 00:00:36,326
+<font color="#ffff00">REPORTER: New York socialite Armand Duquesne was found dead in his home last night.</font>
+<font color="#00ffcc">Duquesne, miembro de la alta sociedad,</font>
+
+15
+00:00:38,333 --> 00:00:38,376
+<font color="#ffff00">This is Detective Caudie of the New York Police Department.</font>
+<font color="#00ffcc">fue hallado muerto anoche en su casa.</font>
+
+16
+00:00:41,208 --> 00:00:41,378
+<font color="#ffff00">Ms. Bishop, can you come down to the station for a quick chat?</font>
+<font color="#00ffcc">Inspector Carlov, del Departamento de Policía de Nueva York.</font>
+
+17
+00:00:41,458 --> 00:00:43,498
+<font color="#ffff00"></font>
+<font color="#00ffcc">¿Podría pasarse un momento por comisaría?</font>
+
+18
+00:00:45,208 --> 00:00:46,418
+<font color="#ffff00">How'd you say Armand was killed?</font>
+<font color="#00ffcc">¿Cómo dices que mataron a Armand?</font>
+
+19
+00:00:46,583 --> 00:00:47,793
+<font color="#ffff00">Stabbed with a sword. BARTON: See if there's anything on Kazi.</font>
+<font color="#00ffcc">Con una espada.</font>
+
+20
+00:00:47,875 --> 00:00:49,375
+<font color="#ffff00"></font>
+<font color="#00ffcc">Mira a ver si aparece Kazi.</font>
+
+21
+00:00:49,458 --> 00:00:52,626
+<font color="#ffff00">KATE: Okay, what's this company, Sloan Limited? Kazi is an employee?</font>
+<font color="#00ffcc">Vale, ¿qué empresa es esta? ¿Sloan Limited? ¿Kazi trabaja ahí?</font>
+
+22
+00:00:53,416 --> 00:00:55,126
+<font color="#ffff00">Let me see what I can pull up on Jack.</font>
+<font color="#00ffcc">A ver qué encontramos de Jack.</font>
+
+23
+00:00:56,625 --> 00:00:57,915
+<font color="#ffff00">And I've just been locked out.</font>
+<font color="#00ffcc">Se ha bloqueado.</font>
+
+24
+00:00:59,375 --> 00:01:00,211
+<font color="#ffff00">JACK: Don't move.</font>
+<font color="#00ffcc">No te muevas.</font>
+
+25
+00:01:40,916 --> 00:01:43,746
+<font color="#ffff00">Stay exactly where you are.</font>
+<font color="#00ffcc">No des ni un paso más.</font>
+
+26
+00:01:44,416 --> 00:01:45,418
+<font color="#ffff00">Jack, no!</font>
+<font color="#00ffcc">Jack, ¡no!</font>
+
+27
+00:01:45,583 --> 00:01:47,381
+<font color="#ffff00">What the hell is going on?</font>
+<font color="#00ffcc">¿Qué pasa aquí?</font>
+
+28
+00:01:48,458 --> 00:01:50,748
+<font color="#ffff00">And why is there an Avenger in my dining room?</font>
+<font color="#00ffcc">¿Y qué hace un vengador en mi comedor?</font>
+
+29
+00:01:51,375 --> 00:01:52,173
+<font color="#ffff00">Hi.</font>
+<font color="#00ffcc">Hola.</font>
+
+30
+00:01:52,291 --> 00:01:55,460
+<font color="#ffff00">Oh, my God. You're... You're Archer.</font>
+<font color="#00ffcc">Madre mía. Eres... el arquero.</font>
+
+31
+00:01:55,625 --> 00:01:56,915
+<font color="#ffff00">-Hawkeye. -Clint.</font>
+<font color="#00ffcc">-Ojo de Halcón. -Clint.</font>
+
+32
+00:01:57,041 --> 00:01:59,290
+<font color="#ffff00">-It's the branding issue, I'm telling you. -Yeah, sure.</font>
+<font color="#00ffcc">-No te vendes bien, te lo tengo dicho. -Vale.</font>
+
+33
+00:01:59,916 --> 00:02:01,166
+<font color="#ffff00">(CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+34
+00:02:02,166 --> 00:02:06,916
+<font color="#ffff00"></font>
+<font color="#00ffcc">Ojo de Halcón</font>
+
+35
+00:02:08,083 --> 00:02:11,713
+<font color="#ffff00">Hawkeye and I are working on a case, and we needed to use the bathroom.</font>
+<font color="#00ffcc">Ojo de Halcón y yo estamos trabajando en un caso y necesitábamos ir al baño.</font>
+
+36
+00:02:11,791 --> 00:02:15,081
+<font color="#ffff00">He did. So, we were by the house, we dropped in. No big deal.</font>
+<font color="#00ffcc">Bueno, él. Y como pasábamos por aquí, hemos entrado. Ya está.</font>
+
+37
+00:02:15,500 --> 00:02:17,326
+<font color="#ffff00">-Working on a case together? -How terrific.</font>
+<font color="#00ffcc">-¿Estáis trabajando en un caso? -Cómo mola.</font>
+
+38
+00:02:18,416 --> 00:02:19,875
+<font color="#ffff00">He's my partner.</font>
+<font color="#00ffcc">Es mi socio.</font>
+
+39
+00:02:20,291 --> 00:02:21,248
+<font color="#ffff00">We're not partners.</font>
+<font color="#00ffcc">No somos socios.</font>
+
+40
+00:02:21,666 --> 00:02:23,793
+<font color="#ffff00">Well, we're friends-slash-partners.</font>
+<font color="#00ffcc">Bueno, somos amigos/socios.</font>
+
+41
+00:02:24,208 --> 00:02:25,955
+<font color="#ffff00">I wouldn't really describe us as friends. (CELL PHONE CHIMES)</font>
+<font color="#00ffcc">No diría que somos amigos.</font>
+
+42
+00:02:28,166 --> 00:02:32,916
+<font color="#ffff00">Someone used my laptop to sign onto my work account ten minutes ago.</font>
+<font color="#00ffcc">Alguien ha usado mi portátil para acceder a mi cuenta hace diez minutos.</font>
+
+43
+00:02:33,000 --> 00:02:34,580
+<font color="#ffff00">Any thoughts, Kate?</font>
+<font color="#00ffcc">¿Tienes idea de quién, Kate?</font>
+
+44
+00:02:36,458 --> 00:02:37,418
+<font color="#ffff00">Hawkeye?</font>
+<font color="#00ffcc">¿Ojo de Halcón?</font>
+
+45
+00:02:37,791 --> 00:02:42,710
+<font color="#ffff00">You'll never get anything outta him. See, CB-One has trouble opening up. Nobody calls me CB-One.</font>
+<font color="#00ffcc">Este no suelta prenda. C. B. tiene problemas de comunicación.</font>
+
+46
+00:02:44,125 --> 00:02:44,131
+<font color="#ffff00">I'm just tryin' it out for a second.</font>
+<font color="#00ffcc">Nadie me llama C. B.</font>
+
+47
+00:02:44,208 --> 00:02:45,708
+<font color="#ffff00"></font>
+<font color="#00ffcc">Solo probaba para ver qué tal.</font>
+
+48
+00:02:45,791 --> 00:02:49,380
+<font color="#ffff00">Probably some early childhood thing. He thinks he doesn't tell me much,</font>
+<font color="#00ffcc">Será por algún trauma infantil. Se cree que no me cuenta mucho,</font>
+
+49
+00:02:49,500 --> 00:02:51,460
+<font color="#ffff00">-but he ends up telling me all of it. -I tell her nothing.</font>
+<font color="#00ffcc">-pero lo tengo calado. -No le cuento nada.</font>
+
+50
+00:02:51,875 --> 00:02:53,915
+<font color="#ffff00">I think it's 'cause I'm generally pretty chill.</font>
+<font color="#00ffcc">Creo que es porque soy una tía bastante tranqui.</font>
+
+51
+00:02:54,000 --> 00:02:55,960
+<font color="#ffff00">I'm not like, "Oh, my God, Hawkeye!" (CHUCKLES)</font>
+<font color="#00ffcc">No en plan: "Qué fuerte, Ojo de Halcón".</font>
+
+52
+00:02:57,291 --> 00:02:58,251
+<font color="#ffff00">Definitely not chill.</font>
+<font color="#00ffcc">De todo menos tranqui.</font>
+
+53
+00:03:01,000 --> 00:03:04,380
+<font color="#ffff00">By the way, thank you... for saving the world.</font>
+<font color="#00ffcc">Por cierto, gracias por salvar el mundo.</font>
+
+54
+00:03:05,916 --> 00:03:06,786
+<font color="#ffff00">Don't mention it.</font>
+<font color="#00ffcc">No hay de qué.</font>
+
+55
+00:03:06,916 --> 00:03:09,826
+<font color="#ffff00">I would like my daughter to start telling me the truth.</font>
+<font color="#00ffcc">Me gustaría que mi hija empezara a decirme la verdad.</font>
+
+56
+00:03:11,458 --> 00:03:14,418
+<font color="#ffff00">I logged into your account because I needed information</font>
+<font color="#00ffcc">Me he metido en tu cuenta porque necesitaba información</font>
+
+57
+00:03:14,541 --> 00:03:18,880
+<font color="#ffff00">on an actual case with actual people who are in actual danger.</font>
+<font color="#00ffcc">para un caso real con personas reales en peligro real.</font>
+
+58
+00:03:19,000 --> 00:03:22,918
+<font color="#ffff00">So, Kate is helping you with an Avengers-level threat?</font>
+<font color="#00ffcc">¿Kate te está ayudando con una amenaza de nivel Vengadores?</font>
+
+59
+00:03:23,083 --> 00:03:24,420
+<font color="#ffff00">Well, not exactly.</font>
+<font color="#00ffcc">Bueno, no exactamente.</font>
+
+60
+00:03:24,500 --> 00:03:26,170
+<font color="#ffff00">But you are working together?</font>
+<font color="#00ffcc">Pero sí estáis trabajando juntos.</font>
+
+61
+00:03:31,541 --> 00:03:35,291
+<font color="#ffff00">Yes. Sounds weird, 'cause it is.</font>
+<font color="#00ffcc">Sí. Suena raro porque es raro.</font>
+
+62
+00:03:37,875 --> 00:03:39,125
+<font color="#ffff00">Okay.</font>
+<font color="#00ffcc">Vale.</font>
+
+63
+00:03:40,291 --> 00:03:44,921
+<font color="#ffff00">Well, I guess I'm just gonna have to trust everyone at this table to do what's right.</font>
+<font color="#00ffcc">Pues tendré que confiar en que todos los aquí presentes hagamos lo correcto.</font>
+
+64
+00:03:45,541 --> 00:03:46,631
+<font color="#ffff00">BARTON: Hmm.</font>
+<font color="#00ffcc"></font>
+
+65
+00:03:48,333 --> 00:03:50,381
+<font color="#ffff00">Cool. It was great bumpin' into you guys.</font>
+<font color="#00ffcc">Vale. Ha estado guay veros.</font>
+
+66
+00:03:50,500 --> 00:03:51,830
+<font color="#ffff00">-Please stay. -We should get...</font>
+<font color="#00ffcc">-Siéntate. -Deberíamos...</font>
+
+67
+00:03:55,291 --> 00:03:56,328
+<font color="#ffff00">Can I see you out?</font>
+<font color="#00ffcc">Te acompaño fuera.</font>
+
+68
+00:03:57,291 --> 00:03:58,920
+<font color="#ffff00">I'll get my coat. Jack.</font>
+<font color="#00ffcc">Voy a por mi abrigo. Jack.</font>
+
+69
+00:04:14,666 --> 00:04:15,955
+<font color="#ffff00">Let me clarify.</font>
+<font color="#00ffcc">Quiero dejar algo claro.</font>
+
+70
+00:04:16,083 --> 00:04:16,921
+<font color="#ffff00">Yeah.</font>
+<font color="#00ffcc">Sí.</font>
+
+71
+00:04:18,375 --> 00:04:19,955
+<font color="#ffff00">She is not a superhero.</font>
+<font color="#00ffcc">No es una superheroína.</font>
+
+72
+00:04:20,666 --> 00:04:22,166
+<font color="#ffff00">Oh, yeah. Come on, I already knew that.</font>
+<font color="#00ffcc">Ya, lo sé de sobra.</font>
+
+73
+00:04:23,250 --> 00:04:24,830
+<font color="#ffff00">She's pretty good at all this, but...</font>
+<font color="#00ffcc">Es bastante buena, pero...</font>
+
+74
+00:04:24,916 --> 00:04:27,786
+<font color="#ffff00">Natasha Romanoff was pretty damn good at it, wasn't she?</font>
+<font color="#00ffcc">Natasha Romanoff también era bastante buena, ¿no?</font>
+
+75
+00:04:29,916 --> 00:04:32,326
+<font color="#ffff00">Being good isn't always enough to keep you alive.</font>
+<font color="#00ffcc">Ser buena no siempre basta para seguir con vida.</font>
+
+76
+00:04:33,416 --> 00:04:34,536
+<font color="#ffff00">(ELEVATOR DINGS)</font>
+<font color="#00ffcc"></font>
+
+77
+00:04:36,041 --> 00:04:37,001
+<font color="#ffff00">I see.</font>
+<font color="#00ffcc">Lo entiendo.</font>
+
+78
+00:04:37,125 --> 00:04:38,133
+<font color="#ffff00">-Clint? -Yeah?</font>
+<font color="#00ffcc">-¿Clint? -¿Sí?</font>
+
+79
+00:04:38,250 --> 00:04:39,208
+<font color="#ffff00">Do you have kids?</font>
+<font color="#00ffcc">¿Tienes hijos?</font>
+
+80
+00:04:40,333 --> 00:04:42,043
+<font color="#ffff00">Yeah, I'm gonna assume that you do.</font>
+<font color="#00ffcc">Vale, voy a suponer que sí.</font>
+
+81
+00:04:43,041 --> 00:04:45,291
+<font color="#ffff00">It's been a rough week for my family.</font>
+<font color="#00ffcc">Ha sido una semana dura para mi familia.</font>
+
+82
+00:04:46,625 --> 00:04:50,165
+<font color="#ffff00">But I am letting you know that I cannot lose Kate.</font>
+<font color="#00ffcc">Pero quiero que sepas que no puedo perder a Kate.</font>
+
+83
+00:04:51,541 --> 00:04:54,921
+<font color="#ffff00">I've lost people before. I know in your line of work, you have, too.</font>
+<font color="#00ffcc">Ya he perdido a varias personas. Y sé que, por tu profesión, tú también.</font>
+
+84
+00:04:56,791 --> 00:04:59,211
+<font color="#ffff00">I understand. Okay.</font>
+<font color="#00ffcc">Lo entiendo. Adiós.</font>
+
+85
+00:05:02,166 --> 00:05:03,576
+<font color="#ffff00">So, you'll forget this case?</font>
+<font color="#00ffcc">Entonces, ¿vais a dejar el caso?</font>
+
+86
+00:05:04,375 --> 00:05:05,375
+<font color="#ffff00">I can't do that.</font>
+<font color="#00ffcc">No puedo.</font>
+
+87
+00:05:06,375 --> 00:05:09,705
+<font color="#ffff00">But what I can do is ensure that your daughter stays safe. Okay?</font>
+<font color="#00ffcc">Pero puedo asegurarme de que tu hija esté a salvo, ¿vale?</font>
+
+88
+00:05:09,958 --> 00:05:11,168
+<font color="#ffff00">(ELEVATOR DINGS)</font>
+<font color="#00ffcc"></font>
+
+89
+00:05:18,625 --> 00:05:19,705
+<font color="#ffff00">(SIGHS)</font>
+<font color="#00ffcc"></font>
+
+90
+00:05:23,250 --> 00:05:30,210
+<font color="#ffff00"></font>
+<font color="#00ffcc">Averigua lo que puedas sobre Sloan LTD.</font>
+
+91
+00:05:34,208 --> 00:05:35,998
+<font color="#ffff00">(LINE RINGING)</font>
+<font color="#00ffcc"></font>
+
+92
+00:05:38,291 --> 00:05:39,541
+<font color="#ffff00">(LINE BEEPS)</font>
+<font color="#00ffcc"></font>
+
+93
+00:05:40,166 --> 00:05:41,416
+<font color="#ffff00">It's Eleanor. Um...</font>
+<font color="#00ffcc">Soy Eleanor.</font>
+
+94
+00:05:43,250 --> 00:05:46,040
+<font color="#ffff00">Could you call me back, please? It's urgent.</font>
+<font color="#00ffcc">Llámame cuando puedas, por favor. Es urgente.</font>
+
+95
+00:05:48,791 --> 00:05:50,671
+<font color="#ffff00">Hey. Did you find anything?</font>
+<font color="#00ffcc">Hola. ¿Has encontrado algo?</font>
+
+96
+00:05:51,375 --> 00:05:54,995
+<font color="#ffff00">I talked to that friend of yours. He's really busy.</font>
+<font color="#00ffcc">He hablado con tu amigo. Está muy liado.</font>
+
+97
+00:05:55,083 --> 00:05:58,423
+<font color="#ffff00">He's been learning Russian and jogging a ton.</font>
+<font color="#00ffcc">Ha estado aprendiendo ruso y corriendo mogollón.</font>
+
+98
+00:05:59,166 --> 00:06:01,536
+<font color="#ffff00">Tracksuits. So Sloan is their front?</font>
+<font color="#00ffcc">Los Chándal. ¿Sloan es una tapadera?</font>
+
+99
+00:06:01,625 --> 00:06:05,535
+<font color="#ffff00">Yep. He said that his boss, Jack Duquesne, never gives him a day off.</font>
+<font color="#00ffcc">Sí. Dice que su jefe, Jack Duquesne, no le da ni un día libre.</font>
+
+100
+00:06:05,625 --> 00:06:08,875
+<font color="#ffff00">Jack's CEO? He's laundering money for the big guy?</font>
+<font color="#00ffcc">¿Jack es el director ejecutivo? ¿Blanquea dinero para el de arriba?</font>
+
+101
+00:06:09,250 --> 00:06:11,420
+<font color="#ffff00">Let me guess, you're gonna need another day.</font>
+<font color="#00ffcc">A ver si adivino, te quedas un día más.</font>
+
+102
+00:06:12,083 --> 00:06:15,583
+<font color="#ffff00">Yeah, look, uh, this kid I'm helping is stuck in the middle of it,</font>
+<font color="#00ffcc">Sí, la cría a la que estoy ayudando está metida en este berenjenal,</font>
+
+103
+00:06:15,708 --> 00:06:17,416
+<font color="#ffff00">so I can't leave until I know she's safe.</font>
+<font color="#00ffcc">no puedo irme sin saber que está a salvo.</font>
+
+104
+00:06:18,000 --> 00:06:19,420
+<font color="#ffff00">I've been wondering...</font>
+<font color="#00ffcc">Por cierto.</font>
+
+105
+00:06:19,500 --> 00:06:21,460
+<font color="#ffff00">(SPEAKING GERMAN)</font>
+<font color="#00ffcc">¿Desapareció algo más de la base?</font>
+
+106
+00:06:21,541 --> 00:06:22,581
+<font color="#ffff00">BARTON: You mean the Rolex?</font>
+<font color="#00ffcc">¿Te refieres al Rolex?</font>
+
+107
+00:06:23,333 --> 00:06:24,173
+<font color="#ffff00"></font>
+<font color="#00ffcc">Sí.</font>
+
+108
+00:06:24,875 --> 00:06:25,828
+<font color="#ffff00">It's Dad.</font>
+<font color="#00ffcc">Es papá.</font>
+
+109
+00:06:28,041 --> 00:06:30,541
+<font color="#ffff00">I don't think... I don't think so.</font>
+<font color="#00ffcc">No sé. No creo.</font>
+
+110
+00:06:32,500 --> 00:06:35,210
+<font color="#ffff00">Why? Wasn't that destroyed, like, years ago?</font>
+<font color="#00ffcc">¿Por qué? Creía que lo habían destruido hace años.</font>
+
+111
+00:06:35,291 --> 00:06:38,961
+<font color="#ffff00">Well, I thought so, but I thought the same thing about your fancy outfit.</font>
+<font color="#00ffcc">Bueno, eso creía yo, pero lo mismo pensaba de tu traje.</font>
+
+112
+00:06:41,166 --> 00:06:42,666
+<font color="#ffff00">It's worth lookin' into, ain't it?</font>
+<font color="#00ffcc">Deberíamos comprobarlo, ¿no?</font>
+
+113
+00:06:42,875 --> 00:06:45,535
+<font color="#ffff00">If you can, check the signal from the transmitter.</font>
+<font color="#00ffcc">Si puedes, comprueba la señal del transmisor.</font>
+
+114
+00:06:45,791 --> 00:06:48,631
+<font color="#ffff00">Okay. You sound like you've been runnin' around all day. Are you tired?</font>
+<font color="#00ffcc">Parece que no has parado en todo el día, ¿estás cansado?</font>
+
+115
+00:06:48,791 --> 00:06:51,541
+<font color="#ffff00">Yeah, I'm a little banged up, but nothing's broken.</font>
+<font color="#00ffcc">Sí, me han dado por todos lados, pero no me he roto nada.</font>
+
+116
+00:06:51,833 --> 00:06:53,825
+<font color="#ffff00">Okay. Well, put your feet up.</font>
+<font color="#00ffcc">Vale. Pues relájate un poco.</font>
+
+117
+00:06:53,916 --> 00:06:57,166
+<font color="#ffff00">Ice them if you have to. Okay? I love you.</font>
+<font color="#00ffcc">Y ponte hielo si hace falta, ¿vale? Te quiero.</font>
+
+118
+00:06:57,250 --> 00:06:58,710
+<font color="#ffff00">I... I miss you.</font>
+<font color="#00ffcc">Te echo de menos.</font>
+
+119
+00:07:00,416 --> 00:07:02,455
+<font color="#ffff00">I'll see you soon. I promise.</font>
+<font color="#00ffcc">Nos vemos pronto. Lo prometo.</font>
+
+120
+00:07:02,541 --> 00:07:03,541
+<font color="#ffff00">Bye.</font>
+<font color="#00ffcc">Adiós.</font>
+
+121
+00:07:04,500 --> 00:07:08,420
+<font color="#ffff00">Uh, guys, looks like Dad's gonna be stuck at work a little longer.</font>
+<font color="#00ffcc">Chicos, parece que papá tiene que quedarse allí un poco más.</font>
+
+122
+00:07:09,375 --> 00:07:10,415
+<font color="#ffff00">(NATHANIEL GROANS)</font>
+<font color="#00ffcc"></font>
+
+123
+00:07:12,541 --> 00:07:16,961
+<font color="#ffff00">ELEANOR: Obsessed. Completely obsessed with Clint Barton since...</font>
+<font color="#00ffcc">Obsesionada. Totalmente obsesionada con Clint Barton desde...</font>
+
+124
+00:07:17,291 --> 00:07:19,211
+<font color="#ffff00">Well, ever since the attack.</font>
+<font color="#00ffcc">Desde el ataque.</font>
+
+125
+00:07:19,333 --> 00:07:21,883
+<font color="#ffff00">JACK: She's awfully composed around her own idol.</font>
+<font color="#00ffcc">Para ser su ídolo, no la pone nada nerviosa.</font>
+
+126
+00:07:21,958 --> 00:07:24,418
+<font color="#ffff00">If I ever met Huey Lewis, I'd be a wreck.</font>
+<font color="#00ffcc">Si yo conociera a Huey Lewis, me daría algo.</font>
+
+127
+00:07:25,458 --> 00:07:27,328
+<font color="#ffff00">ELEANOR: Kate's always been confident,</font>
+<font color="#00ffcc">Kate siempre ha sido muy segura.</font>
+
+128
+00:07:27,458 --> 00:07:29,416
+<font color="#ffff00">never had to worry about her on that front.</font>
+<font color="#00ffcc">Nunca me ha preocupado en ese sentido.</font>
+
+129
+00:07:34,333 --> 00:07:37,751
+<font color="#ffff00">You're getting that pre-headache look, darling. Let me get you some tea.</font>
+<font color="#00ffcc">Se te está poniendo cara de dolor de cabeza. Voy a hacerte un té.</font>
+
+130
+00:07:39,208 --> 00:07:40,536
+<font color="#ffff00">(CHUCKLES SOFTLY) Would you like something, Kate?</font>
+<font color="#00ffcc">¿Tú quieres algo, Kate?</font>
+
+131
+00:07:41,083 --> 00:07:42,543
+<font color="#ffff00">No. Thanks.</font>
+<font color="#00ffcc">No. Gracias.</font>
+
+132
+00:07:47,208 --> 00:07:49,168
+<font color="#ffff00">Mom, I really need to talk to you about Jack.</font>
+<font color="#00ffcc">Mamá, tenemos que hablar de Jack.</font>
+
+133
+00:07:49,250 --> 00:07:51,460
+<font color="#ffff00">Hey, could we... Um... Could we change the subject?</font>
+<font color="#00ffcc">Oye, ¿podemos cambiar de tema?</font>
+
+134
+00:07:52,375 --> 00:07:54,245
+<font color="#ffff00">You need to give him a break. Come on.</font>
+<font color="#00ffcc">Dame un respiro, por Dios.</font>
+
+135
+00:07:54,333 --> 00:07:58,583
+<font color="#ffff00">I... I need your help with a few decisions on the Bishop holiday party.</font>
+<font color="#00ffcc">Necesito consejo para la fiesta de Navidad de la empresa.</font>
+
+136
+00:07:58,666 --> 00:08:01,036
+<font color="#ffff00">I don't... I don't think I'm in the mood.</font>
+<font color="#00ffcc">No sé... No estoy de humor.</font>
+
+137
+00:08:01,166 --> 00:08:03,535
+<font color="#ffff00">Come on, Kate. You're great at this sort of thing.</font>
+<font color="#00ffcc">Venga, Kate. Se te dan genial estas cosas.</font>
+
+138
+00:08:04,958 --> 00:08:06,378
+<font color="#ffff00">The party's non-denominational,</font>
+<font color="#00ffcc">Es una fiesta aconfesional,</font>
+
+139
+00:08:06,458 --> 00:08:09,498
+<font color="#ffff00">encourages company camaraderie with a festive spirit.</font>
+<font color="#00ffcc">fomenta el compañerismo con un ambiente festivo.</font>
+
+140
+00:08:10,166 --> 00:08:11,916
+<font color="#ffff00">Sounds like a blast already.</font>
+<font color="#00ffcc">La cosa promete.</font>
+
+141
+00:08:12,000 --> 00:08:14,000
+<font color="#ffff00">Did someone say parties?</font>
+<font color="#00ffcc">¿Alguien ha dicho "fiesta"?</font>
+
+142
+00:08:15,166 --> 00:08:17,496
+<font color="#ffff00">Just make sure there's plenty of dancing.</font>
+<font color="#00ffcc">Espero que el baile esté asegurado.</font>
+
+143
+00:08:17,583 --> 00:08:19,133
+<font color="#ffff00">Well, my mother doesn't dance.</font>
+<font color="#00ffcc">Mi madre no baila.</font>
+
+144
+00:08:20,208 --> 00:08:24,038
+<font color="#ffff00">Oh, really? I beg to differ. Darling?</font>
+<font color="#00ffcc">¿En serio? Discrepo. ¿Cariño?</font>
+
+145
+00:08:24,291 --> 00:08:25,581
+<font color="#ffff00">(ELEANOR CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+146
+00:08:26,500 --> 00:08:30,460
+<font color="#ffff00">(SINGING) Chestnuts roasting on an open fire</font>
+<font color="#00ffcc">Castañas asándose en el fuego</font>
+
+147
+00:08:33,333 --> 00:08:36,383
+<font color="#ffff00">Jack Frost nippin' at your ear</font>
+<font color="#00ffcc">El invierno helando tu oreja</font>
+
+148
+00:08:36,458 --> 00:08:37,668
+<font color="#ffff00">(JACK CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+149
+00:08:38,791 --> 00:08:40,171
+<font color="#ffff00">(BOTH CHUCKLE)</font>
+<font color="#00ffcc"></font>
+
+150
+00:08:41,458 --> 00:08:46,418
+<font color="#ffff00">And though it's been said many times, many ways</font>
+<font color="#00ffcc">Y aunque ya te lo han dicho mil veces</font>
+
+151
+00:08:46,500 --> 00:08:53,420
+<font color="#ffff00">Merry Christmas to you (ELEANOR CHUCKLES)</font>
+<font color="#00ffcc">Te deseo feliz Navidad</font>
+
+152
+00:08:54,333 --> 00:08:56,331
+<font color="#ffff00">Don't think I've ever seen you like that before.</font>
+<font color="#00ffcc">Creo que nunca te había visto así.</font>
+
+153
+00:08:58,375 --> 00:08:59,915
+<font color="#ffff00">(CHUCKLING) Wow!</font>
+<font color="#00ffcc"></font>
+
+154
+00:09:00,458 --> 00:09:04,458
+<font color="#ffff00">A superhero house call and a serenade, all in one day.</font>
+<font color="#00ffcc">Me visita un superhéroe y me dan una serenata, todo en el mismo día.</font>
+
+155
+00:09:04,541 --> 00:09:07,881
+<font color="#ffff00">Well, you know what they say... life is short.</font>
+<font color="#00ffcc">Bueno, ya sabes lo que dicen. La vida es muy corta.</font>
+
+156
+00:09:08,833 --> 00:09:10,713
+<font color="#ffff00">You never know what you're gonna get.</font>
+<font color="#00ffcc">Nunca sabes lo que te va a tocar.</font>
+
+157
+00:09:11,375 --> 00:09:14,495
+<font color="#ffff00">(BOTH LAUGH)</font>
+<font color="#00ffcc"></font>
+
+158
+00:09:14,625 --> 00:09:18,995
+<font color="#ffff00">What? What'd I say? Did I say something wrong or...</font>
+<font color="#00ffcc">¿Qué? ¿Qué he dicho? ¿He dicho algo malo o...?</font>
+
+159
+00:09:19,083 --> 00:09:23,673
+<font color="#ffff00">Every time you use one of those aphorisms, they are... wrong.</font>
+<font color="#00ffcc">Siempre que usas algún aforismo así, lo usas... mal.</font>
+
+160
+00:09:24,583 --> 00:09:29,883
+<font color="#ffff00">What? No. That can't be right, is it? Darling. Please. (CHUCKLING)</font>
+<font color="#00ffcc">¿Qué? No. No es verdad, ¿a que no? Cariño, por favor.</font>
+
+161
+00:09:30,583 --> 00:09:35,083
+<font color="#ffff00">The other day, you said, "Absence makes the heart grow older."</font>
+<font color="#00ffcc">El otro día dijiste: "No sabes lo que tienes hasta que lo obtienes".</font>
+
+162
+00:09:35,666 --> 00:09:38,076
+<font color="#ffff00">-(CHUCKLES) -Because that's what it does.</font>
+<font color="#00ffcc">Porque es así.</font>
+
+163
+00:09:39,375 --> 00:09:42,665
+<font color="#ffff00">-(CHUCKLING) Yeah. Honey. Come here. -No. Really?</font>
+<font color="#00ffcc">-Cariño. Ven aquí. -¿O no?</font>
+
+164
+00:09:43,208 --> 00:09:45,171
+<font color="#ffff00">Aw. You're making my heart grow older.</font>
+<font color="#00ffcc">Yo sí que sé lo que tengo.</font>
+
+165
+00:09:46,708 --> 00:09:48,458
+<font color="#ffff00">(JACK CHUCKLING)</font>
+<font color="#00ffcc"></font>
+
+166
+00:09:50,500 --> 00:09:53,540
+<font color="#ffff00">I guess getting laughed at by family</font>
+<font color="#00ffcc">Supongo que es mejor que tu familia se burle de ti</font>
+
+167
+00:09:53,625 --> 00:09:56,495
+<font color="#ffff00">is better than being alone in the holidays, right?</font>
+<font color="#00ffcc">que pasar las Navidades solo, ¿no?</font>
+
+168
+00:09:56,750 --> 00:10:01,210
+<font color="#ffff00">ELEANOR: What's better than being with family? I'm so glad you're both here.</font>
+<font color="#00ffcc">No hay nada mejor que estar en familia. Me alegro de que estéis aquí.</font>
+
+169
+00:10:09,291 --> 00:10:11,461
+<font color="#ffff00">JACK: You know, we should play a board game. ELEANOR: That's a cute idea.</font>
+<font color="#00ffcc">Podríamos jugar a un juego de mesa.</font>
+
+170
+00:10:11,541 --> 00:10:12,831
+<font color="#ffff00"></font>
+<font color="#00ffcc">Buena idea.</font>
+
+171
+00:10:12,916 --> 00:10:15,253
+<font color="#ffff00">JACK: Risk, Yahtzee, Stratego.</font>
+<font color="#00ffcc">¿Risk, Yahtzee, Stratego?</font>
+
+172
+00:10:28,791 --> 00:10:30,211
+<font color="#ffff00">(EXHALES)</font>
+<font color="#00ffcc"></font>
+
+173
+00:10:33,208 --> 00:10:34,998
+<font color="#ffff00">(SIGHS IN RELIEF)</font>
+<font color="#00ffcc"></font>
+
+174
+00:10:35,375 --> 00:10:36,785
+<font color="#ffff00">(EXHALES DEEPLY)</font>
+<font color="#00ffcc"></font>
+
+175
+00:10:37,958 --> 00:10:39,628
+<font color="#ffff00">(INTERCOM BUZZING)</font>
+<font color="#00ffcc"></font>
+
+176
+00:10:46,916 --> 00:10:47,996
+<font color="#ffff00">(BUZZING)</font>
+<font color="#00ffcc"></font>
+
+177
+00:10:50,166 --> 00:10:53,043
+<font color="#ffff00">KATE: It's me. I come bearing pizza and holiday cheer. Let me in.</font>
+<font color="#00ffcc">Soy yo. Vengo cargada de pizza y espíritu navideño. Ábreme.</font>
+
+178
+00:10:53,791 --> 00:10:54,791
+<font color="#ffff00">Mmm.</font>
+<font color="#00ffcc"></font>
+
+179
+00:10:55,333 --> 00:10:56,333
+<font color="#ffff00">(DOOR BUZZES)</font>
+<font color="#00ffcc"></font>
+
+180
+00:10:56,875 --> 00:10:59,171
+<font color="#ffff00">Come on, Pizza Do... Okay.</font>
+<font color="#00ffcc">Venga, Perropizza. Vale.</font>
+
+181
+00:10:59,291 --> 00:11:00,631
+<font color="#ffff00">(CHRISTMAS SONG PLAYING)</font>
+<font color="#00ffcc"></font>
+
+182
+00:11:00,833 --> 00:11:02,290
+<font color="#ffff00">-Hey! -Hey.</font>
+<font color="#00ffcc">-¡Hola! -Hola.</font>
+
+183
+00:11:03,083 --> 00:11:05,210
+<font color="#ffff00">-A little help? -Hey, get outta there.</font>
+<font color="#00ffcc">-¿Me ayudas? -Oye, deja eso.</font>
+
+184
+00:11:06,000 --> 00:11:09,380
+<font color="#ffff00">All right, this is the classic Hawkeye costume we've been waitin' for. What is all this?</font>
+<font color="#00ffcc">Vale. Ese es el traje de Ojo de Halcón que buscábamos.</font>
+
+185
+00:11:10,541 --> 00:11:10,628
+<font color="#ffff00">This is me saving the holidays.</font>
+<font color="#00ffcc">¿Qué es eso?</font>
+
+186
+00:11:14,583 --> 00:11:14,708
+<font color="#ffff00">Is that right?</font>
+<font color="#00ffcc">Lo que va a salvar las Navidades.</font>
+
+187
+00:11:15,791 --> 00:11:15,791
+<font color="#ffff00">I'll get you home in time for the big day.</font>
+<font color="#00ffcc">No me digas.</font>
+
+188
+00:11:15,875 --> 00:11:17,825
+<font color="#ffff00"></font>
+<font color="#00ffcc">Estarás en casa para el día de Navidad.</font>
+
+189
+00:11:17,916 --> 00:11:19,713
+<font color="#ffff00">Figured in the meantime, we could celebrate.</font>
+<font color="#00ffcc">Pero mientras tanto, podemos celebrarla.</font>
+
+190
+00:11:20,333 --> 00:11:25,040
+<font color="#ffff00">It's movie marathon night, right? Check this out. I got movies.</font>
+<font color="#00ffcc">Hoy tocaba maratón de pelis, ¿no? Mira. Traigo varias.</font>
+
+191
+00:11:26,875 --> 00:11:28,455
+<font color="#ffff00">That's very thoughtful of you.</font>
+<font color="#00ffcc">Qué detalle.</font>
+
+192
+00:11:29,208 --> 00:11:30,038
+<font color="#ffff00">Thanks.</font>
+<font color="#00ffcc">Gracias.</font>
+
+193
+00:11:31,458 --> 00:11:35,458
+<font color="#ffff00">But yeah, can we put a pause on that and talk about Sword Boy for a minute?</font>
+<font color="#00ffcc">Pero ¿podemos hacer un paréntesis y hablar de don Espaditas un momento?</font>
+
+194
+00:11:36,125 --> 00:11:38,381
+<font color="#ffff00">-You got good instincts, kid. -What do you mean?</font>
+<font color="#00ffcc">-Tienes buen instinto. -¿A qué te refieres?</font>
+
+195
+00:11:38,833 --> 00:11:41,173
+<font color="#ffff00">So, I did a little digging and turns out,</font>
+<font color="#00ffcc">He estado investigando un poco, y resulta</font>
+
+196
+00:11:41,583 --> 00:11:44,540
+<font color="#ffff00">Sloan's a shell company that launders money for the Tracksuits.</font>
+<font color="#00ffcc">que Sloan es una empresa fantasma que blanquea para los Chándal.</font>
+
+197
+00:11:44,666 --> 00:11:47,375
+<font color="#ffff00">And Jack Duquesne is the CEO.</font>
+<font color="#00ffcc">Y Jack Duquesne es el director ejecutivo.</font>
+
+198
+00:11:47,875 --> 00:11:48,831
+<font color="#ffff00">You sure?</font>
+<font color="#00ffcc">¿Estás seguro?</font>
+
+199
+00:11:49,541 --> 00:11:50,541
+<font color="#ffff00">Mmm.</font>
+<font color="#00ffcc"></font>
+
+200
+00:11:52,333 --> 00:11:56,213
+<font color="#ffff00">Okay, well, we're just gonna have to come up with a plan to take down my mom's fiancé's organized crime ring</font>
+<font color="#00ffcc">Vale, pues tendremos que pensar un plan para desmantelar</font>
+
+201
+00:11:58,041 --> 00:11:58,211
+<font color="#ffff00">while simultaneously having a heartwarming holiday celebration.</font>
+<font color="#00ffcc">la red criminal del novio de mi madre</font>
+
+202
+00:11:58,291 --> 00:12:01,751
+<font color="#ffff00"></font>
+<font color="#00ffcc">mientras celebramos estas fechas tan entrañables.</font>
+
+203
+00:12:01,833 --> 00:12:04,503
+<font color="#ffff00">(CHRISTMAS MUSIC PLAYING)</font>
+<font color="#00ffcc"></font>
+
+204
+00:12:06,333 --> 00:12:07,923
+<font color="#ffff00">Got any more of that slushy stuff? -BARTON: In the kitchen. -Okay.</font>
+<font color="#00ffcc">¿Hay más bolsitas para daiquiris?</font>
+
+205
+00:12:08,000 --> 00:12:09,380
+<font color="#ffff00"></font>
+<font color="#00ffcc">-En la cocina. -Vale.</font>
+
+206
+00:12:14,333 --> 00:12:18,173
+<font color="#ffff00">Okay, cops. We need to get the cops off my back. TSM, we need to get them to leave us alone.</font>
+<font color="#00ffcc">Vale, la poli. Tenemos que quitármela de encima.</font>
+
+207
+00:12:18,250 --> 00:12:20,580
+<font color="#ffff00"></font>
+<font color="#00ffcc">Los Chándal. Hay que conseguir que nos dejen en paz.</font>
+
+208
+00:12:20,666 --> 00:12:24,996
+<font color="#ffff00">And we need to figure out why and how Jack is connected to it all.</font>
+<font color="#00ffcc">Y hay que descubrir por qué y cómo está Jack metido en todo esto.</font>
+
+209
+00:12:25,833 --> 00:12:27,290
+<font color="#ffff00">Yeah, right.</font>
+<font color="#00ffcc">Sí, vale.</font>
+
+210
+00:12:27,375 --> 00:12:29,875
+<font color="#ffff00">This the part where you finish my sentence with a plan. Planning's not really my thing. Are you sure that's dry erase?</font>
+<font color="#00ffcc">Y esta es la parte donde tú acabas mi frase con un plan.</font>
+
+211
+00:12:29,958 --> 00:12:33,038
+<font color="#ffff00"></font>
+<font color="#00ffcc">Los planes no son lo mío. ¿Seguro que no es permanente?</font>
+
+212
+00:12:33,208 --> 00:12:35,578
+<font color="#ffff00">(CHRISTMAS SONG PLAYING)</font>
+<font color="#00ffcc"></font>
+
+213
+00:12:36,875 --> 00:12:37,825
+<font color="#ffff00">Good boy.</font>
+<font color="#00ffcc">Buen chico.</font>
+
+214
+00:12:37,958 --> 00:12:40,378
+<font color="#ffff00">(CHRISTMAS SONG CONTINUES PLAYING)</font>
+<font color="#00ffcc"></font>
+
+215
+00:12:43,166 --> 00:12:44,626
+<font color="#ffff00">How do we get more trick arrows?</font>
+<font color="#00ffcc">¿Cómo conseguimos flechas truco?</font>
+
+216
+00:12:44,708 --> 00:12:46,578
+<font color="#ffff00">Well, there are no more trick arrows.</font>
+<font color="#00ffcc">Ya no hay más.</font>
+
+217
+00:12:46,666 --> 00:12:47,746
+<font color="#ffff00">Like in the world?</font>
+<font color="#00ffcc">¿En todo el mundo?</font>
+
+218
+00:12:47,916 --> 00:12:50,713
+<font color="#ffff00">Basically. I have a few more trick arrowheads.</font>
+<font color="#00ffcc">Exacto. Me quedan algunas puntas de flecha truco.</font>
+
+219
+00:12:51,083 --> 00:12:52,580
+<font color="#ffff00">But you can't just put 'em on any shaft.</font>
+<font color="#00ffcc">Pero no valen en cualquier asta.</font>
+
+220
+00:12:52,666 --> 00:12:54,166
+<font color="#ffff00">So, we really have to get these back.</font>
+<font color="#00ffcc">Habrá que recuperarlas.</font>
+
+221
+00:12:55,291 --> 00:12:56,211
+<font color="#ffff00">What're you doing?</font>
+<font color="#00ffcc">¿Qué haces?</font>
+
+222
+00:12:56,291 --> 00:12:59,291
+<font color="#ffff00">See? Tree covers the parts that won't come off.</font>
+<font color="#00ffcc">¿Has visto? El árbol tapa las partes que no se borran.</font>
+
+223
+00:12:59,833 --> 00:13:01,331
+<font color="#ffff00">Well, now you're problem-solving.</font>
+<font color="#00ffcc">Qué resolutiva.</font>
+
+224
+00:13:02,250 --> 00:13:04,500
+<font color="#ffff00">-Have you ever heard of boomerang arrows? -What?</font>
+<font color="#00ffcc">-¿Qué tal flechas bumerán? -¿Qué?</font>
+
+225
+00:13:05,125 --> 00:13:08,035
+<font color="#ffff00">Why would I ever want to use a boomerang arrow?</font>
+<font color="#00ffcc">¿Por qué iba a querer usar flechas bumerán?</font>
+
+226
+00:13:08,125 --> 00:13:10,875
+<font color="#ffff00">-Because they come back. -Exactly.</font>
+<font color="#00ffcc">-Porque siempre vuelven. -Exacto.</font>
+
+227
+00:13:10,958 --> 00:13:15,038
+<font color="#ffff00">Yeah, well, if all trick arrows were boomerangs, then we'd have them all.</font>
+<font color="#00ffcc">Pues eso, si las flechas truco fueran bumeranes, ahora las tendríamos.</font>
+
+228
+00:13:15,750 --> 00:13:17,126
+<font color="#ffff00">Coming back at us.</font>
+<font color="#00ffcc">Clavadas en el cuerpo.</font>
+
+229
+00:13:17,208 --> 00:13:19,828
+<font color="#ffff00">You'd have to... You'd have to dodge.</font>
+<font color="#00ffcc">Habría... que esquivarlas.</font>
+
+230
+00:13:19,916 --> 00:13:21,076
+<font color="#ffff00">(CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+231
+00:13:21,375 --> 00:13:22,995
+<font color="#ffff00">BARTON: No, it's not impossible.</font>
+<font color="#00ffcc">No, no es imposible.</font>
+
+232
+00:13:23,083 --> 00:13:25,213
+<font color="#ffff00">The first arrow you release just has to be wood.</font>
+<font color="#00ffcc">Primero lanzas una flecha de madera,</font>
+
+233
+00:13:25,291 --> 00:13:28,081
+<font color="#ffff00">So when you release the second one, it splits it up the middle.</font>
+<font color="#00ffcc">así la partes por la mitad con la segunda.</font>
+
+234
+00:13:28,166 --> 00:13:31,576
+<font color="#ffff00">-I call bullshit. I've tried it. -Well, I've done it a few times.</font>
+<font color="#00ffcc">-Tú flipas. Ya lo he intentado. -Lo he hecho varias veces.</font>
+
+235
+00:13:33,666 --> 00:13:34,923
+<font color="#ffff00">You got any other cool tricks?</font>
+<font color="#00ffcc">¿Algún otro truco molón?</font>
+
+236
+00:13:36,166 --> 00:13:40,043
+<font color="#ffff00">Well, I can knock somebody unconscious with that, like, 20 feet away.</font>
+<font color="#00ffcc">Bueno, puedo tumbar con esto a alguien que esté a seis metros de mí.</font>
+
+237
+00:13:40,541 --> 00:13:41,333
+<font color="#ffff00">No, you can't.</font>
+<font color="#00ffcc">Qué dices.</font>
+
+238
+00:13:41,458 --> 00:13:44,076
+<font color="#ffff00">I'd use a quarter or a nickel. A dime's too light.</font>
+<font color="#00ffcc">Con una moneda de cinco centavos o así, las de diez no valen.</font>
+
+239
+00:13:44,916 --> 00:13:45,746
+<font color="#ffff00">Prove it.</font>
+<font color="#00ffcc">Demuéstralo.</font>
+
+240
+00:13:46,958 --> 00:13:48,168
+<font color="#ffff00">What, knock you unconscious? No, I want you to hit something.</font>
+<font color="#00ffcc">¿Quieres que te tumbe?</font>
+
+241
+00:13:48,250 --> 00:13:50,670
+<font color="#ffff00"></font>
+<font color="#00ffcc">No, que le des a algo.</font>
+
+242
+00:13:51,250 --> 00:13:53,210
+<font color="#ffff00">Fine, live forever without me believing you. I'll just tell every stranger that I see that Hawkeye is full of bullshit.</font>
+<font color="#00ffcc">Vale, pues no me lo trago.</font>
+
+243
+00:13:56,166 --> 00:13:57,251
+<font color="#ffff00">-(COIN CLATTERS) -(TV POWERS OFF)</font>
+<font color="#00ffcc">Voy a decirle a todo el mundo que Ojo de Halcón es un fantasma.</font>
+
+244
+00:13:57,958 --> 00:13:58,998
+<font color="#ffff00">Whoa!</font>
+<font color="#00ffcc"></font>
+
+245
+00:13:59,208 --> 00:14:00,288
+<font color="#ffff00">(DOG WHINES)</font>
+<font color="#00ffcc"></font>
+
+246
+00:14:02,208 --> 00:14:03,875
+<font color="#ffff00">You've got to show me how you did that.</font>
+<font color="#00ffcc">Tienes que enseñarme a hacer eso.</font>
+
+247
+00:14:05,041 --> 00:14:06,381
+<font color="#ffff00">(CHRISTMAS SONG PLAYING)</font>
+<font color="#00ffcc"></font>
+
+248
+00:14:11,000 --> 00:14:12,080
+<font color="#ffff00">All right, you ready? Yeah.</font>
+<font color="#00ffcc">Vale, ¿lista?</font>
+
+249
+00:14:12,166 --> 00:14:13,166
+<font color="#ffff00"></font>
+<font color="#00ffcc">Sí.</font>
+
+250
+00:14:13,250 --> 00:14:15,880
+<font color="#ffff00">You have a nice snap. Make sure you get that curve. Just a little one. Right, you got it, right?</font>
+<font color="#00ffcc">El chasquido está bien. Te falta darle efecto.</font>
+
+251
+00:14:15,958 --> 00:14:17,828
+<font color="#ffff00"></font>
+<font color="#00ffcc">Solo un poco. Lo pillas, ¿no?</font>
+
+252
+00:14:18,708 --> 00:14:19,708
+<font color="#ffff00">(COIN CLATTERS)</font>
+<font color="#00ffcc"></font>
+
+253
+00:14:19,875 --> 00:14:20,705
+<font color="#ffff00">BARTON: Oh, God.</font>
+<font color="#00ffcc">Ay, madre.</font>
+
+254
+00:14:21,000 --> 00:14:22,250
+<font color="#ffff00">(LAUGHS)</font>
+<font color="#00ffcc"></font>
+
+255
+00:14:22,541 --> 00:14:23,961
+<font color="#ffff00">What are you doing? Ring finger.</font>
+<font color="#00ffcc">¿Cómo lo coges?</font>
+
+256
+00:14:24,041 --> 00:14:24,881
+<font color="#ffff00"></font>
+<font color="#00ffcc">Con este dedo.</font>
+
+257
+00:14:26,166 --> 00:14:27,333
+<font color="#ffff00">-Grip it tight. -Yeah.</font>
+<font color="#00ffcc">-Más fuerte. -Sí.</font>
+
+258
+00:14:28,791 --> 00:14:29,673
+<font color="#ffff00">That was better.</font>
+<font color="#00ffcc">Mucho mejor.</font>
+
+259
+00:14:29,791 --> 00:14:30,791
+<font color="#ffff00">You can do it this time.</font>
+<font color="#00ffcc">Esta es la buena.</font>
+
+260
+00:14:31,333 --> 00:14:32,330
+<font color="#ffff00">Okay. (CLEARS THROAT)</font>
+<font color="#00ffcc">Vale.</font>
+
+261
+00:14:35,583 --> 00:14:36,793
+<font color="#ffff00">(TV POWERS ON)</font>
+<font color="#00ffcc"></font>
+
+262
+00:14:36,958 --> 00:14:38,035
+<font color="#ffff00">-KATE: Oh, my God! -What?</font>
+<font color="#00ffcc">-¡Toma ya! -¿Qué?</font>
+
+263
+00:14:38,416 --> 00:14:40,576
+<font color="#ffff00">-Holy shit, I did it. -Yes.</font>
+<font color="#00ffcc">-Tío, lo he conseguido. -Sí.</font>
+
+264
+00:14:42,291 --> 00:14:43,458
+<font color="#ffff00">That was crazy.</font>
+<font color="#00ffcc">Qué pasada.</font>
+
+265
+00:14:44,541 --> 00:14:45,751
+<font color="#ffff00">Hey, not bad, kid.</font>
+<font color="#00ffcc">No está mal.</font>
+
+266
+00:14:45,916 --> 00:14:50,253
+<font color="#ffff00">Not bad. All right. Best shot you ever took?</font>
+<font color="#00ffcc">Nada mal. Vale. ¿Cuál ha sido tu mejor disparo?</font>
+
+267
+00:14:52,125 --> 00:14:54,500
+<font color="#ffff00">-Uh, the one I didn't take. -What does that mean?</font>
+<font color="#00ffcc">-El que no disparé. -¿Qué significa eso?</font>
+
+268
+00:14:56,291 --> 00:15:00,038
+<font color="#ffff00">Uh, it means... Never mind, shouldn't have said it.</font>
+<font color="#00ffcc">Pues... Déjalo, no debería haber dicho nada.</font>
+
+269
+00:15:00,125 --> 00:15:02,575
+<font color="#ffff00">-Oh, come on, you can't do that. -Never mind, it's nothin'.</font>
+<font color="#00ffcc">-Venga, eso no se hace. -No es nada.</font>
+
+270
+00:15:02,750 --> 00:15:05,000
+<font color="#ffff00">What? Come on, consider it my Christmas present. -No, it's not the right time. -Yes.</font>
+<font color="#00ffcc">Venga. Es lo que quiero de regalo de Navidad.</font>
+
+271
+00:15:06,583 --> 00:15:06,583
+<font color="#ffff00">-Look, it'll be a good story, I'm sure... -It's just not a good story, okay?</font>
+<font color="#00ffcc">-No es el... -Sí.</font>
+
+272
+00:15:06,666 --> 00:15:10,916
+<font color="#ffff00"></font>
+<font color="#00ffcc">-Seguro que la historia mola... -No mola, ¿vale?</font>
+
+273
+00:15:14,583 --> 00:15:15,713
+<font color="#ffff00">It's...</font>
+<font color="#00ffcc">Fue...</font>
+
+274
+00:15:18,791 --> 00:15:20,628
+<font color="#ffff00">about the time I met someone.</font>
+<font color="#00ffcc">...cuando la conocí.</font>
+
+275
+00:15:23,916 --> 00:15:25,423
+<font color="#ffff00">I was sent to take her out.</font>
+<font color="#00ffcc">Mi misión era liquidarla.</font>
+
+276
+00:15:28,291 --> 00:15:30,828
+<font color="#ffff00">And when I got there, when it was time...</font>
+<font color="#00ffcc">Y cuando llegué allí, cuando llegó el momento...</font>
+
+277
+00:15:32,541 --> 00:15:33,671
+<font color="#ffff00">Um...</font>
+<font color="#00ffcc"></font>
+
+278
+00:15:34,958 --> 00:15:35,915
+<font color="#ffff00">I couldn't do it.</font>
+<font color="#00ffcc">...no pude hacerlo.</font>
+
+279
+00:15:40,125 --> 00:15:43,125
+<font color="#ffff00">I just had this feeling that she wanted out.</font>
+<font color="#00ffcc">Sentí que ella misma quería acabar con todo.</font>
+
+280
+00:15:45,916 --> 00:15:47,246
+<font color="#ffff00">Turns out, I was right.</font>
+<font color="#00ffcc">Y no me equivocaba.</font>
+
+281
+00:15:49,125 --> 00:15:50,211
+<font color="#ffff00">KATE: You mean Natasha.</font>
+<font color="#00ffcc">Hablas de Natasha.</font>
+
+282
+00:15:51,333 --> 00:15:52,213
+<font color="#ffff00">Yeah.</font>
+<font color="#00ffcc">Sí.</font>
+
+283
+00:15:57,833 --> 00:15:58,960
+<font color="#ffff00">She was the best there was.</font>
+<font color="#00ffcc">Era la mejor.</font>
+
+284
+00:16:05,875 --> 00:16:06,915
+<font color="#ffff00">(SIGHS)</font>
+<font color="#00ffcc"></font>
+
+285
+00:16:07,250 --> 00:16:08,000
+<font color="#ffff00">I'm sorry.</font>
+<font color="#00ffcc">Lo siento.</font>
+
+286
+00:16:08,833 --> 00:16:12,330
+<font color="#ffff00">It's all right. It's, uh... When you do what I do for a living, it...</font>
+<font color="#00ffcc">Tranquila. Cuando te dedicas a algo así...</font>
+
+287
+00:16:14,666 --> 00:16:18,583
+<font color="#ffff00">It's just a game of managing loss, right? So...</font>
+<font color="#00ffcc">...aprendes a perder a gente, ¿sabes?</font>
+
+288
+00:16:22,125 --> 00:16:23,375
+<font color="#ffff00">(BARTON SIGHS)</font>
+<font color="#00ffcc"></font>
+
+289
+00:16:26,416 --> 00:16:28,790
+<font color="#ffff00">Kids, Janie, Janie, Tommy!</font>
+<font color="#00ffcc">¡Niños, Janie, Janie, Tommy!</font>
+
+290
+00:16:31,666 --> 00:16:34,083
+<font color="#ffff00">MAN: (ON TV) Look at you. Oh, I could eat you up.</font>
+<font color="#00ffcc">Madre mía. Estáis para comeros.</font>
+
+291
+00:16:35,166 --> 00:16:37,463
+<font color="#ffff00">-Where's your mother? -BOY: She went looking for you.</font>
+<font color="#00ffcc">-¿Y vuestra madre? -Ha ido a buscarte.</font>
+
+292
+00:16:37,625 --> 00:16:39,171
+<font color="#ffff00">You lost your family in the Blip?</font>
+<font color="#00ffcc">¿Perdiste a tu familia en el Lapso?</font>
+
+293
+00:16:41,166 --> 00:16:43,883
+<font color="#ffff00">Yeah. Like half the world.</font>
+<font color="#00ffcc">Sí. Como casi todo el mundo.</font>
+
+294
+00:16:46,583 --> 00:16:48,130
+<font color="#ffff00">God, that must have been devastating.</font>
+<font color="#00ffcc">Dios, debió de ser muy duro.</font>
+
+295
+00:16:50,583 --> 00:16:52,080
+<font color="#ffff00">Yeah, there are no words.</font>
+<font color="#00ffcc">No puedo ni describirlo.</font>
+
+296
+00:16:58,375 --> 00:16:59,791
+<font color="#ffff00">Is that where you met the Ronin?</font>
+<font color="#00ffcc">¿Ahí fue cuando conociste a Ronin?</font>
+
+297
+00:17:07,750 --> 00:17:09,130
+<font color="#ffff00">(SIGHS)</font>
+<font color="#00ffcc"></font>
+
+298
+00:17:12,208 --> 00:17:13,245
+<font color="#ffff00">It's you, isn't it?</font>
+<font color="#00ffcc">Eres tú, ¿verdad?</font>
+
+299
+00:17:17,000 --> 00:17:18,883
+<font color="#ffff00">Everybody dealt with the Blip in their own way.</font>
+<font color="#00ffcc">Cada uno llevó el Lapso como pudo.</font>
+
+300
+00:17:21,791 --> 00:17:23,961
+<font color="#ffff00">I continued doing what I was trained to do.</font>
+<font color="#00ffcc">Yo seguí haciendo lo que me enseñaron a hacer.</font>
+
+301
+00:17:25,375 --> 00:17:26,461
+<font color="#ffff00">Protect people.</font>
+<font color="#00ffcc">Proteger a la gente.</font>
+
+302
+00:17:26,625 --> 00:17:29,495
+<font color="#ffff00">Hurting people. Investigating first,</font>
+<font color="#00ffcc">Hacerle daño. Siempre investigaba antes,</font>
+
+303
+00:17:29,583 --> 00:17:32,963
+<font color="#ffff00">but in the end, my job has always been to hurt people.</font>
+<font color="#00ffcc">pero, al final, mi trabajo consistía en hacerle daño a la gente.</font>
+
+304
+00:17:33,041 --> 00:17:34,211
+<font color="#ffff00">You were a hero.</font>
+<font color="#00ffcc">Eras un héroe.</font>
+
+305
+00:17:34,291 --> 00:17:35,501
+<font color="#ffff00">I was a weapon.</font>
+<font color="#00ffcc">Era un arma.</font>
+
+306
+00:17:37,208 --> 00:17:41,288
+<font color="#ffff00">I was aimed by the right people at the right targets, so...</font>
+<font color="#00ffcc">En manos de ciertas personas que apuntaban a ciertos objetivos.</font>
+
+307
+00:17:41,375 --> 00:17:43,995
+<font color="#ffff00">Look, you made mistakes, but those are behind you.</font>
+<font color="#00ffcc">Cometiste errores, pero ya los has dejado atrás.</font>
+
+308
+00:17:44,083 --> 00:17:45,213
+<font color="#ffff00">No, it's tied to me.</font>
+<font color="#00ffcc">No, viven conmigo.</font>
+
+309
+00:17:48,208 --> 00:17:49,418
+<font color="#ffff00">Tied to my family.</font>
+<font color="#00ffcc">Con mi familia.</font>
+
+310
+00:17:52,791 --> 00:17:57,711
+<font color="#ffff00">That's why I'm here. And I can't go home till I fix it.</font>
+<font color="#00ffcc">Por eso estoy aquí. No puedo volver a casa hasta que arregle esto.</font>
+
+311
+00:18:08,000 --> 00:18:10,290
+<font color="#ffff00">I really appreciate what you did tonight.</font>
+<font color="#00ffcc">Te agradezco lo de esta noche.</font>
+
+312
+00:18:12,083 --> 00:18:13,083
+<font color="#ffff00">It means a lot.</font>
+<font color="#00ffcc">De verdad.</font>
+
+313
+00:18:16,333 --> 00:18:21,213
+<font color="#ffff00">You know, you should get some rest. You got a big day tomorrow.</font>
+<font color="#00ffcc">Deberías irte a descansar. Mañana será un día movidito.</font>
+
+314
+00:18:25,000 --> 00:18:28,630
+<font color="#ffff00">-Yes, boss. Good night. -'Night.</font>
+<font color="#00ffcc">Claro, jefe. Buenas noches.</font>
+
+315
+00:18:29,375 --> 00:18:30,875
+<font color="#ffff00">(CLICKING TONGUE) Come on!</font>
+<font color="#00ffcc">-Buenas noches. -Vamos.</font>
+
+316
+00:18:39,083 --> 00:18:40,383
+<font color="#ffff00">(INHALES)</font>
+<font color="#00ffcc"></font>
+
+317
+00:18:41,416 --> 00:18:42,576
+<font color="#ffff00">(EXHALES)</font>
+<font color="#00ffcc"></font>
+
+318
+00:18:52,458 --> 00:18:53,538
+<font color="#ffff00">How about now? (CHUCKLES)</font>
+<font color="#00ffcc">¿Qué tal ahora?</font>
+
+319
+00:18:53,625 --> 00:18:56,035
+<font color="#ffff00">NATASHA: Killing all these people isn't gonna bring your family back.</font>
+<font color="#00ffcc">Matar a toda esa gente no te devolverá a tu familia.</font>
+
+320
+00:19:05,083 --> 00:19:06,133
+<font color="#ffff00">It's okay.</font>
+<font color="#00ffcc">Tranquilo.</font>
+
+321
+00:19:06,458 --> 00:19:07,458
+<font color="#ffff00">Please.</font>
+<font color="#00ffcc">Por favor.</font>
+
+322
+00:19:08,833 --> 00:19:09,883
+<font color="#ffff00">(NATASHA GRUNTS) No!</font>
+<font color="#00ffcc">¡No!</font>
+
+323
+00:19:15,166 --> 00:19:16,916
+<font color="#ffff00">WOMAN: (OVER RADIO) It's three days until Christmas</font>
+<font color="#00ffcc">Faltan tres días para Navidad,</font>
+
+324
+00:19:17,083 --> 00:19:19,710
+<font color="#ffff00">and we've got your soundtrack for the holiday season. You're listening to New York's 107.6, light FM.</font>
+<font color="#00ffcc">y os traemos la banda sonora para las fiestas.</font>
+
+325
+00:19:19,791 --> 00:19:23,631
+<font color="#ffff00"></font>
+<font color="#00ffcc">Sintonizas WLTW, 107.9, Nueva York, Light FM.</font>
+
+326
+00:19:23,791 --> 00:19:25,961
+<font color="#ffff00">(CELL PHONE BUZZING)</font>
+<font color="#00ffcc"></font>
+
+327
+00:19:27,625 --> 00:19:29,133
+<font color="#ffff00">-Morning. -Mornin'.</font>
+<font color="#00ffcc">-Buenos días. -Buenos días.</font>
+
+328
+00:19:30,500 --> 00:19:32,708
+<font color="#ffff00">-Some coffee. -Oh, thank God.</font>
+<font color="#00ffcc">-He hecho café. -Menos mal.</font>
+
+329
+00:19:33,083 --> 00:19:35,501
+<font color="#ffff00">Okay, this morning, I'm gonna have a talk with our friend, Kazi.</font>
+<font color="#00ffcc">Voy a charlar con nuestro colega Kazi esta mañana.</font>
+
+330
+00:19:35,708 --> 00:19:38,576
+<font color="#ffff00">What I want you to do is track down the trick arrows</font>
+<font color="#00ffcc">Y necesito que tú vayas a por las flechas truco que tienen</font>
+
+331
+00:19:38,708 --> 00:19:39,916
+<font color="#ffff00">from our friends, the LARPers.</font>
+<font color="#00ffcc">nuestros amigos los Larpers.</font>
+
+332
+00:19:40,041 --> 00:19:41,041
+<font color="#ffff00">(CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+333
+00:19:41,125 --> 00:19:43,955
+<font color="#ffff00">-Wait, what? -My tracer arrow stopped moving,</font>
+<font color="#00ffcc">-Espera, ¿qué? -Las flechas llevan un localizador.</font>
+
+334
+00:19:44,083 --> 00:19:46,461
+<font color="#ffff00">and it's over by an NYPD facility down by the bridge.</font>
+<font color="#00ffcc">Se ha parado en unas instalaciones de la Policía.</font>
+
+335
+00:19:46,583 --> 00:19:49,421
+<font color="#ffff00">And now the LARPers, they're mostly first responders, one's a cop.</font>
+<font color="#00ffcc">Muchos Larpers son de los servicios de emergencias, hay polis.</font>
+
+336
+00:19:49,541 --> 00:19:52,291
+<font color="#ffff00">See if they can get access to that NYPD facility. LARPer friends.</font>
+<font color="#00ffcc">Descubre si pueden acceder a esas instalaciones.</font>
+
+337
+00:19:52,375 --> 00:19:53,205
+<font color="#ffff00"></font>
+<font color="#00ffcc">Los Larpers.</font>
+
+338
+00:19:53,291 --> 00:19:56,130
+<font color="#ffff00">Yeah, they're... They're colorful. You're gonna love 'em.</font>
+<font color="#00ffcc">Sí, son personajes interesantes. Verás qué bien te caen.</font>
+
+339
+00:19:56,333 --> 00:19:59,961
+<font color="#ffff00">You know, I like to think of them more as our arrows.</font>
+<font color="#00ffcc">Oye, me gustaría que las llamáramos "nuestras flechas".</font>
+
+340
+00:20:00,666 --> 00:20:02,375
+<font color="#ffff00">Okay. Go get our arrows.</font>
+<font color="#00ffcc">Vale, ve a por nuestras flechas.</font>
+
+341
+00:20:02,458 --> 00:20:03,578
+<font color="#ffff00">Hmm.</font>
+<font color="#00ffcc"></font>
+
+342
+00:20:03,958 --> 00:20:05,748
+<font color="#ffff00">(INDISTINCT CHATTER)</font>
+<font color="#00ffcc"></font>
+
+343
+00:20:07,541 --> 00:20:08,381
+<font color="#ffff00">WOMAN: Thrust!</font>
+<font color="#00ffcc">¡Propulsión!</font>
+
+344
+00:20:08,625 --> 00:20:10,328
+<font color="#ffff00">MAN: Lightning Bolt! One, two, three, four, five.</font>
+<font color="#00ffcc">¡Flecha rayo! Un, dos, tres, cuatro, cinco.</font>
+
+345
+00:20:10,583 --> 00:20:15,496
+<font color="#ffff00">WOMAN: Retreat! Formation. Stab!</font>
+<font color="#00ffcc">¡Retirada! Formación. ¡Atacad!</font>
+
+346
+00:20:16,083 --> 00:20:17,133
+<font color="#ffff00">(SHOUTS)</font>
+<font color="#00ffcc"></font>
+
+347
+00:20:17,333 --> 00:20:18,633
+<font color="#ffff00">Ice Wall!</font>
+<font color="#00ffcc">¡Muro de hielo!</font>
+
+348
+00:20:18,875 --> 00:20:20,165
+<font color="#ffff00">(WOMAN YELLS INDISTINCTLY)</font>
+<font color="#00ffcc"></font>
+
+349
+00:20:21,916 --> 00:20:23,416
+<font color="#ffff00">Superpower Doom! (ALL YELLING)</font>
+<font color="#00ffcc">¡Muerte fatal!</font>
+
+350
+00:20:24,500 --> 00:20:28,460
+<font color="#ffff00">Hey, I, uh... I don't mean to interrupt... (ALL YELLING)</font>
+<font color="#00ffcc">Hola. No es por interrumpir...</font>
+
+351
+00:20:30,125 --> 00:20:31,291
+<font color="#ffff00">-Wow. You guys are... -WOMAN: Retreat!</font>
+<font color="#00ffcc">-Se os ve muy... -¡Retirada!</font>
+
+352
+00:20:32,083 --> 00:20:33,133
+<font color="#ffff00">Dedicated. Who are you?</font>
+<font color="#00ffcc">...entregados.</font>
+
+353
+00:20:33,208 --> 00:20:34,378
+<font color="#ffff00"></font>
+<font color="#00ffcc">¿Quién eres tú?</font>
+
+354
+00:20:35,166 --> 00:20:37,673
+<font color="#ffff00">Uh, Hawkeye sent me here on official Avengers business.</font>
+<font color="#00ffcc">Me envía Ojo de Halcón por un asunto oficial de Vengadores.</font>
+
+355
+00:20:37,791 --> 00:20:39,920
+<font color="#ffff00">I'm his partner-slash-best-friend, Kate.</font>
+<font color="#00ffcc">Soy su socia/mejor amiga, Kate.</font>
+
+356
+00:20:40,500 --> 00:20:42,748
+<font color="#ffff00">He said you guys could help us out. One of you is a cop?</font>
+<font color="#00ffcc">Ha dicho que podríais ayudarnos. ¿Algún poli?</font>
+
+357
+00:20:42,916 --> 00:20:46,785
+<font color="#ffff00">That's me, Officer Wendy Conrad. Better as Els-Bath of Deepdale.</font>
+<font color="#00ffcc">Yo, agente Wendy Conrad. Más conocida como Els-Bath de Deepdale.</font>
+
+358
+00:20:47,958 --> 00:20:51,326
+<font color="#ffff00">Officer. Basically, all we need is some</font>
+<font color="#00ffcc">Agente. En resumidas cuentas, necesitamos</font>
+
+359
+00:20:51,458 --> 00:20:53,416
+<font color="#ffff00">casual, run-of-the-mill evidence tampering.</font>
+<font color="#00ffcc">manipular unas pruebas de nada.</font>
+
+360
+00:20:53,708 --> 00:20:57,166
+<font color="#ffff00">Hawkeye's trick arrows are in an NYPD facility near the Manhattan Bridge.</font>
+<font color="#00ffcc">Las flechas truco han acabado en la instalación policial de Manhattan.</font>
+
+361
+00:20:59,208 --> 00:21:00,916
+<font color="#ffff00">I can probably help you out</font>
+<font color="#00ffcc">-Podría ayudaros. -Genial.</font>
+
+362
+00:21:01,083 --> 00:21:03,001
+<font color="#ffff00">if you make it worth my while.</font>
+<font color="#00ffcc">Si me compensara.</font>
+
+363
+00:21:03,666 --> 00:21:05,495
+<font color="#ffff00">Worth our while.</font>
+<font color="#00ffcc">Si nos compensara.</font>
+
+364
+00:21:07,458 --> 00:21:12,036
+<font color="#ffff00">Yeah. Yeah, sure, totally. Whatever you want. All right.</font>
+<font color="#00ffcc">Sí, claro. Lo que queráis. Vale.</font>
+
+365
+00:21:12,958 --> 00:21:14,626
+<font color="#ffff00">All in? Okay. This is gonna be great.</font>
+<font color="#00ffcc">-Muy bien. -¿Os apuntáis todos? Qué bien.</font>
+
+366
+00:21:14,750 --> 00:21:18,378
+<font color="#ffff00">You guys are awesome, outfits, the... It's just really awesome.</font>
+<font color="#00ffcc">Tíos, sois lo más. Los trajes, los... Me flipa todo.</font>
+
+367
+00:21:20,666 --> 00:21:22,376
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+<font color="#00ffcc"></font>
+
+368
+00:21:37,833 --> 00:21:40,501
+<font color="#ffff00">Surprise. Ah, ah. Just wanna talk.</font>
+<font color="#00ffcc">Sorpresa. Solo quiero hablar.</font>
+
+369
+00:21:42,666 --> 00:21:44,245
+<font color="#ffff00">I need to get out of the city.</font>
+<font color="#00ffcc">Tengo que irme de la ciudad.</font>
+
+370
+00:21:44,375 --> 00:21:47,423
+<font color="#ffff00">But before I go, I need to put this Ronin situation to bed.</font>
+<font color="#00ffcc">Pero antes de hacerlo, quiero zanjar el asunto de Ronin.</font>
+
+371
+00:21:47,541 --> 00:21:49,460
+<font color="#ffff00">Look, I know you have Maya's ear,</font>
+<font color="#00ffcc">Mira, sé que Maya te escucha,</font>
+
+372
+00:21:49,708 --> 00:21:53,166
+<font color="#ffff00">and you seem like you're a reasonably not stupid guy.</font>
+<font color="#00ffcc">y no tienes pinta de ser muy tonto.</font>
+
+373
+00:21:53,333 --> 00:21:56,751
+<font color="#ffff00">If you're tryin' to flatter me, you are way off the mark.</font>
+<font color="#00ffcc">Si intentas halagarme, vas muy mal encaminado.</font>
+
+374
+00:21:56,875 --> 00:21:58,753
+<font color="#ffff00">Don't get me wrong, I think you're a doormat.</font>
+<font color="#00ffcc">Qué va, me pareces un perrito faldero.</font>
+
+375
+00:22:00,000 --> 00:22:01,290
+<font color="#ffff00">Look, you've been working under William Lopez as a lieutenant for, what, for four years?</font>
+<font color="#00ffcc">Has sido teniente</font>
+
+376
+00:22:01,375 --> 00:22:04,495
+<font color="#ffff00"></font>
+<font color="#00ffcc">bajo las órdenes de William Lopez durante cuatro años.</font>
+
+377
+00:22:05,041 --> 00:22:07,080
+<font color="#ffff00">And now under Maya for a few more years.</font>
+<font color="#00ffcc">Y ahora trabajas bajo las órdenes de Maya.</font>
+
+378
+00:22:08,750 --> 00:22:10,578
+<font color="#ffff00">You know this operation better than anybody.</font>
+<font color="#00ffcc">Conoces esta operación mejor que nadie.</font>
+
+379
+00:22:12,000 --> 00:22:14,000
+<font color="#ffff00">You know what Maya's boss wants.</font>
+<font color="#00ffcc">Sabes lo que quiere el jefe de Maya.</font>
+
+380
+00:22:14,958 --> 00:22:17,208
+<font color="#ffff00">And you know what he's already done to get it.</font>
+<font color="#00ffcc">Y has visto lo que es capaz de hacer.</font>
+
+381
+00:22:19,375 --> 00:22:20,463
+<font color="#ffff00">So what do you know?</font>
+<font color="#00ffcc">Qué sabrás tú.</font>
+
+382
+00:22:20,583 --> 00:22:22,923
+<font color="#ffff00">I know he doesn't like this attention, that's for sure.</font>
+<font color="#00ffcc">Que no le gusta llamar tanto la atención, eso seguro.</font>
+
+383
+00:22:24,166 --> 00:22:30,415
+<font color="#ffff00">I know Maya's obsession, wanting to hunt Ronin down, is dangerous.</font>
+<font color="#00ffcc">Sé que la obsesión de Maya por dar caza a Ronin es peligrosa.</font>
+
+384
+00:22:31,458 --> 00:22:33,326
+<font color="#ffff00">Clouds her judgment, don't you think?</font>
+<font color="#00ffcc">Le nubla la razón, ¿no crees?</font>
+
+385
+00:22:33,833 --> 00:22:38,581
+<font color="#ffff00">So you're concerned for the organization? And, uh... And my rank in it?</font>
+<font color="#00ffcc">O sea, ¿te preocupa la organización y mi rango en ella?</font>
+
+386
+00:22:40,583 --> 00:22:41,416
+<font color="#ffff00">What do you want?</font>
+<font color="#00ffcc">¿Qué quieres?</font>
+
+387
+00:22:42,625 --> 00:22:44,003
+<font color="#ffff00">I don't want anybody else to die.</font>
+<font color="#00ffcc">Que no muera nadie más.</font>
+
+388
+00:22:46,791 --> 00:22:49,421
+<font color="#ffff00">But Maya's need for vengeance is gonna get her killed.</font>
+<font color="#00ffcc">Pero la sed de venganza de Maya acabará con ella.</font>
+
+389
+00:22:50,875 --> 00:22:51,915
+<font color="#ffff00">Period.</font>
+<font color="#00ffcc">Es así.</font>
+
+390
+00:22:55,583 --> 00:22:59,461
+<font color="#ffff00">Looking for this? Or maybe it's the box cutter under the seat.</font>
+<font color="#00ffcc">¿Buscas esto? ¿O el cúter de debajo del asiento?</font>
+
+391
+00:22:59,666 --> 00:23:00,785
+<font color="#ffff00">Look, are we done here?</font>
+<font color="#00ffcc">Oye, ¿has acabado ya?</font>
+
+392
+00:23:02,291 --> 00:23:03,500
+<font color="#ffff00">She's chasing a ghost.</font>
+<font color="#00ffcc">Persigue a un fantasma.</font>
+
+393
+00:23:05,791 --> 00:23:09,170
+<font color="#ffff00">I think you know that. But I can't convince her of that.</font>
+<font color="#00ffcc">Y lo sabes. Pero a mí no me escuchará.</font>
+
+394
+00:23:10,291 --> 00:23:12,500
+<font color="#ffff00">And I'm guessing you're the only one who can.</font>
+<font color="#00ffcc">Me parece que solo te escuchará a ti.</font>
+
+395
+00:23:14,125 --> 00:23:17,883
+<font color="#ffff00">This is the final warning. Just get it done.</font>
+<font color="#00ffcc">Último aviso. Hazlo.</font>
+
+396
+00:23:19,958 --> 00:23:21,536
+<font color="#ffff00">Hey, can I have my gun back?</font>
+<font color="#00ffcc">Oye, ¿me devuelves la pistola?</font>
+
+397
+00:23:21,958 --> 00:23:23,326
+<font color="#ffff00">Yeah, what do you think?</font>
+<font color="#00ffcc">Claro. ¿A ti qué te parece?</font>
+
+398
+00:23:24,500 --> 00:23:25,500
+<font color="#ffff00">(DOOR CLOSES)</font>
+<font color="#00ffcc"></font>
+
+399
+00:23:28,541 --> 00:23:29,496
+<font color="#ffff00">Ah, come on.</font>
+<font color="#00ffcc">Venga ya.</font>
+
+400
+00:23:32,416 --> 00:23:34,666
+<font color="#ffff00">(CHRISTMAS SONG PLAYING)</font>
+<font color="#00ffcc"></font>
+
+401
+00:23:40,000 --> 00:23:41,628
+<font color="#ffff00">-There's our guy. -Hey.</font>
+<font color="#00ffcc">-Ya está aquí. -Hola.</font>
+
+402
+00:23:41,750 --> 00:23:43,668
+<font color="#ffff00">Snickerdoodle? They're still warm.</font>
+<font color="#00ffcc">¿Una galleta? Siguen calentitas.</font>
+
+403
+00:23:43,791 --> 00:23:45,580
+<font color="#ffff00">-Okay. -Hey, come on in.</font>
+<font color="#00ffcc">-Vale. -Venga, pasa.</font>
+
+404
+00:23:45,708 --> 00:23:48,376
+<font color="#ffff00">-Hey, Clint. How'd your day go? -Hi.</font>
+<font color="#00ffcc">-Hola, Clint. ¿Cómo ha ido el día? -Hola.</font>
+
+405
+00:23:48,583 --> 00:23:52,461
+<font color="#ffff00">My, uh... My day's been fine. How are you doing?</font>
+<font color="#00ffcc">Bastante bien. ¿Qué tal el tuyo?</font>
+
+406
+00:23:52,583 --> 00:23:55,171
+<font color="#ffff00">Great, yeah. Better than yours, I'd say.</font>
+<font color="#00ffcc">Genial, sí. Creo que mejor que el tuyo.</font>
+
+407
+00:23:56,750 --> 00:23:59,578
+<font color="#ffff00">So did you, uh, get my gear?</font>
+<font color="#00ffcc">¿Has encontrado mis cosas?</font>
+
+408
+00:23:59,708 --> 00:24:01,246
+<font color="#ffff00">Yeah, yeah. They're on the way.</font>
+<font color="#00ffcc">Sí. Están de camino.</font>
+
+409
+00:24:01,375 --> 00:24:03,673
+<font color="#ffff00">They should be here any minute. Yeah, relax.</font>
+<font color="#00ffcc">Estarán al caer. Tranquilo.</font>
+
+410
+00:24:04,250 --> 00:24:05,458
+<font color="#ffff00">-What? -Check that out.</font>
+<font color="#00ffcc">-¿Qué? -Mira.</font>
+
+411
+00:24:05,875 --> 00:24:06,915
+<font color="#ffff00">(KATE CHUCKLES)</font>
+<font color="#00ffcc"></font>
+
+412
+00:24:07,583 --> 00:24:09,751
+<font color="#ffff00">Not gonna lie, I look pretty good as a Viking.</font>
+<font color="#00ffcc">La verdad, el rollo vikingo me queda de muerte.</font>
+
+413
+00:24:09,916 --> 00:24:13,375
+<font color="#ffff00">-I... You know, I made this myself. -No way!</font>
+<font color="#00ffcc">-Lo he hecho yo. -¿Cómo flipas?</font>
+
+414
+00:24:13,500 --> 00:24:16,248
+<font color="#ffff00">-By hand. -Could I hire you to make my next one?</font>
+<font color="#00ffcc">-A mano. -Podrías hacerme un traje.</font>
+
+415
+00:24:16,375 --> 00:24:18,383
+<font color="#ffff00">Oh, yeah. I would love to.</font>
+<font color="#00ffcc">Claro. Me encantaría.</font>
+
+416
+00:24:18,500 --> 00:24:21,828
+<font color="#ffff00">Hey, wait a second. What if that's our deal?</font>
+<font color="#00ffcc">A ver, un momento. Ese podría ser el trato.</font>
+
+417
+00:24:21,958 --> 00:24:25,326
+<font color="#ffff00">-What deal? -We get you the arrows and info,</font>
+<font color="#00ffcc">-¿Qué trato? -Las flechas y la información</font>
+
+418
+00:24:25,458 --> 00:24:27,916
+<font color="#ffff00">and you get us materials for a new costume.</font>
+<font color="#00ffcc">a cambio de material para hacer trajes nuevos.</font>
+
+419
+00:24:28,041 --> 00:24:33,670
+<font color="#ffff00">Okay, how about enough materials to make your costumes plus two more?</font>
+<font color="#00ffcc">Vale, ¿y si os conseguimos material para vuestros trajes y dos trajes más?</font>
+
+420
+00:24:35,291 --> 00:24:37,710
+<font color="#ffff00">I know a certain someone who needs a little help with theirs.</font>
+<font color="#00ffcc">Sé de uno al que no le vendría mal una ayudita.</font>
+
+421
+00:24:39,250 --> 00:24:40,418
+<font color="#ffff00">-I'm in. -Great!</font>
+<font color="#00ffcc">-Hecho. -¡Guay!</font>
+
+422
+00:24:40,625 --> 00:24:43,463
+<font color="#ffff00">Hey, Orval, you hear that? We gettin' new costumes.</font>
+<font color="#00ffcc">Oye, Orval, ¿has oído? Vamos a tener trajes nuevos.</font>
+
+423
+00:24:44,041 --> 00:24:48,128
+<font color="#ffff00">Uh, Kate, I asked you to simply retrieve my arrows, not stage a play.</font>
+<font color="#00ffcc">Te he pedido que recuperaras mis flechas, no que montaras una película.</font>
+
+424
+00:24:48,291 --> 00:24:49,790
+<font color="#ffff00">Uh, we're a... We're a guild.</font>
+<font color="#00ffcc">Somos un gremio.</font>
+
+425
+00:24:49,916 --> 00:24:50,996
+<font color="#ffff00">(PHONE BUZZING)</font>
+<font color="#00ffcc"></font>
+
+426
+00:24:51,416 --> 00:24:53,996
+<font color="#ffff00"></font>
+<font color="#00ffcc">Laura: No destruyeron el Rolex.</font>
+
+427
+00:24:54,083 --> 00:24:56,923
+<font color="#ffff00"></font>
+<font color="#00ffcc">Está en el 3715 de Godfrey Road.</font>
+
+428
+00:24:57,000 --> 00:24:59,040
+<font color="#ffff00">Okay. I gotta go.</font>
+<font color="#00ffcc">Vale. Tengo que irme.</font>
+
+429
+00:25:00,166 --> 00:25:02,035
+<font color="#ffff00">We gotta go. We're in this together, right?</font>
+<font color="#00ffcc">Dirás "tenemos". Estamos juntos en esto, ¿no?</font>
+
+430
+00:25:02,208 --> 00:25:04,125
+<font color="#ffff00">-Excuse me, sorry. -You're gonna have to change. -Hawkeye. -Oh, hi.</font>
+<font color="#00ffcc">-Perdón. -Tendrás que cambiarte.</font>
+
+431
+00:25:04,208 --> 00:25:05,168
+<font color="#ffff00"></font>
+<font color="#00ffcc">-Ojo de Halcón. -Hola.</font>
+
+432
+00:25:05,416 --> 00:25:07,126
+<font color="#ffff00">Arrow Retrieval Mission complete.</font>
+<font color="#00ffcc">Misión Rescate de Flechas completada.</font>
+
+433
+00:25:07,458 --> 00:25:09,495
+<font color="#ffff00">Oh, yes. Thank you so much. Appreciate it.</font>
+<font color="#00ffcc">Anda, muchísimas gracias. Te lo agradezco.</font>
+
+434
+00:25:09,666 --> 00:25:10,673
+<font color="#ffff00">This is my bag.</font>
+<font color="#00ffcc">La bolsa es mía.</font>
+
+435
+00:25:13,000 --> 00:25:14,826
+<font color="#ffff00">-Okay. -You didn't bring your own bag?</font>
+<font color="#00ffcc">-Vale. -¿No habéis traído bolsa?</font>
+
+436
+00:25:15,791 --> 00:25:16,828
+<font color="#ffff00">No, I mean...</font>
+<font color="#00ffcc">No, o sea...</font>
+
+437
+00:25:17,000 --> 00:25:20,746
+<font color="#ffff00">My wife gave me this bag. It's embroidered. It says "Bombshell."</font>
+<font color="#00ffcc">Me la regaló mi mujer. La bordó ella. Pone "pibonazo".</font>
+
+438
+00:25:20,916 --> 00:25:23,383
+<font color="#ffff00">I... I can see that, that it's very important to you.</font>
+<font color="#00ffcc">Ya lo veo, y entiendo que sea importante para ti.</font>
+
+439
+00:25:23,541 --> 00:25:25,458
+<font color="#ffff00">He'll get it back to you. Yeah, I'll make sure of it.</font>
+<font color="#00ffcc">Te la devolverá. Ya me aseguraré yo.</font>
+
+440
+00:25:26,708 --> 00:25:27,825
+<font color="#ffff00">-Right? -I promise.</font>
+<font color="#00ffcc">-¿Vale? -Te lo prometo.</font>
+
+441
+00:25:28,000 --> 00:25:28,956
+<font color="#ffff00">-Let's go. -Right. Okay.</font>
+<font color="#00ffcc">-Vamos. -Sí, vale.</font>
+
+442
+00:25:29,125 --> 00:25:30,291
+<font color="#ffff00">-Thank you. See ya. -Okay then.</font>
+<font color="#00ffcc">-Gracias. Adiós. -Vale.</font>
+
+443
+00:25:30,458 --> 00:25:31,955
+<font color="#ffff00">-Thank you so much. -Beautiful bag.</font>
+<font color="#00ffcc">-Muchas gracias. -Una bolsa preciosa.</font>
+
+444
+00:25:32,125 --> 00:25:33,125
+<font color="#ffff00">Thank you.</font>
+<font color="#00ffcc">-Muy bonita. -Adiós.</font>
+
+445
+00:25:33,666 --> 00:25:36,126
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+<font color="#00ffcc"></font>
+
+446
+00:25:42,416 --> 00:25:44,126
+<font color="#ffff00">KATE: You wanna tell me what we're doing here?</font>
+<font color="#00ffcc">¿Se puede saber qué hacemos aquí?</font>
+
+447
+00:25:44,625 --> 00:25:47,541
+<font color="#ffff00">BARTON: Something very important to me is pinging inside that apartment.</font>
+<font color="#00ffcc">Hay un objeto muy importante para mí dentro de ese piso.</font>
+
+448
+00:25:47,708 --> 00:25:50,575
+<font color="#ffff00">It was stolen from a black market auction. I need it back.</font>
+<font color="#00ffcc">Lo robaron en la subasta. Tengo que recuperarlo.</font>
+
+449
+00:25:51,208 --> 00:25:53,668
+<font color="#ffff00">No lights, no movement.</font>
+<font color="#00ffcc">Ni luz... ni movimiento.</font>
+
+450
+00:25:54,208 --> 00:25:55,208
+<font color="#ffff00">(KATE SIGHS)</font>
+<font color="#00ffcc"></font>
+
+451
+00:25:55,791 --> 00:25:56,881
+<font color="#ffff00">This is our chance.</font>
+<font color="#00ffcc">Es nuestra oportunidad.</font>
+
+452
+00:25:57,583 --> 00:26:00,000
+<font color="#ffff00">This would have been easier if we were on a higher rooftop.</font>
+<font color="#00ffcc">Hubiera sido más fácil desde una azotea más alta.</font>
+
+453
+00:26:00,166 --> 00:26:01,133
+<font color="#ffff00">That's what you think.</font>
+<font color="#00ffcc">Esa es tu opinión.</font>
+
+454
+00:26:02,208 --> 00:26:04,375
+<font color="#ffff00">Yeah, exactly. That's why I said it.</font>
+<font color="#00ffcc">Sí, exacto. Por eso lo he dicho.</font>
+
+455
+00:26:04,541 --> 00:26:08,128
+<font color="#ffff00">Kate, you always wanna prioritize a quick exit over a quick entrance</font>
+<font color="#00ffcc">Kate, siempre hay que priorizar una salida rápida a una entrada rápida.</font>
+
+456
+00:26:08,291 --> 00:26:10,918
+<font color="#ffff00">so when things go sideways, and they usually do,</font>
+<font color="#00ffcc">Así, si las cosas se tuercen, cosa que suele pasar,</font>
+
+457
+00:26:11,708 --> 00:26:14,665
+<font color="#ffff00">you have an exit strategy. That's why I chose this spot.</font>
+<font color="#00ffcc">tienes una estrategia de escape. De ahí que haya elegido esta azotea.</font>
+
+458
+00:26:14,833 --> 00:26:17,043
+<font color="#ffff00">It's got good sightlines for all my exits.</font>
+<font color="#00ffcc">Hay un buen campo visual de todas las salidas.</font>
+
+459
+00:26:17,708 --> 00:26:19,828
+<font color="#ffff00">Entry should be easy. Think it should take me about three and a half minutes to get in.</font>
+<font color="#00ffcc">Entrar debería ser fácil. Debería costarme</font>
+
+460
+00:26:19,916 --> 00:26:21,996
+<font color="#ffff00"></font>
+<font color="#00ffcc">unos tres minutos y medio entrar.</font>
+
+461
+00:26:22,166 --> 00:26:25,753
+<font color="#ffff00">So, if you see anything out here, just give me a signal, Kate. All right?</font>
+<font color="#00ffcc">Si ves algo desde aquí, me avisas, ¿vale?</font>
+
+462
+00:26:28,500 --> 00:26:29,416
+<font color="#ffff00">Kate?</font>
+<font color="#00ffcc">¿Kate?</font>
+
+463
+00:26:32,416 --> 00:26:33,576
+<font color="#ffff00">-(CAR HONKING) -MAN: What're you doin?</font>
+<font color="#00ffcc">¿Qué haces?</font>
+
+464
+00:26:33,708 --> 00:26:35,288
+<font color="#ffff00">(TIRES SCREECHING)</font>
+<font color="#00ffcc"></font>
+
+465
+00:26:36,125 --> 00:26:37,745
+<font color="#ffff00">Kate? Kate?</font>
+<font color="#00ffcc">¿Kate?</font>
+
+466
+00:26:37,833 --> 00:26:40,503
+<font color="#ffff00">-There you are. -I told you you're supposed to be lookout.</font>
+<font color="#00ffcc">-Por fin. -Se suponía que ibas a vigilar tú.</font>
+
+467
+00:26:40,583 --> 00:26:43,963
+<font color="#ffff00">Yeah, but of the two of us, who do you trust up there not to get distracted? That's not fair, that your inability</font>
+<font color="#00ffcc">Ya, pero de los dos, ¿quién crees que se distraerá menos ahí arriba?</font>
+
+468
+00:26:44,041 --> 00:26:45,751
+<font color="#ffff00"></font>
+<font color="#00ffcc">No es justo que por tu incapacidad</font>
+
+469
+00:26:45,833 --> 00:26:48,923
+<font color="#ffff00">to act like a grown-up helps you get your way.</font>
+<font color="#00ffcc">de comportarte como una adulta, consigas salirte con la tuya.</font>
+
+470
+00:26:49,625 --> 00:26:52,325
+<font color="#ffff00">(SCOFFS) No, it's not. But it is what it is.</font>
+<font color="#00ffcc">No, no es justo. Pero es lo que hay.</font>
+
+471
+00:26:53,458 --> 00:26:56,378
+<font color="#ffff00">I need you to use your grappling hook arrow to anchor yourself in.</font>
+<font color="#00ffcc">Usa una flecha gancho para sujetarte.</font>
+
+472
+00:26:56,458 --> 00:26:58,628
+<font color="#ffff00">Propel down the side of the building to the window.</font>
+<font color="#00ffcc">Baja por un lado hasta llegar a la ventana.</font>
+
+473
+00:26:58,708 --> 00:27:01,418
+<font color="#ffff00">If it's locked, break in quietly.</font>
+<font color="#00ffcc">Si está cerrada, ábrela sin hacer ruido.</font>
+
+474
+00:27:01,500 --> 00:27:04,880
+<font color="#ffff00">Yeah, love all of that. Great plan, just a slight tweak though.</font>
+<font color="#00ffcc">Sí, me encanta. Un plan genial. Pero voy a cambiarlo un poco.</font>
+
+475
+00:27:04,958 --> 00:27:07,628
+<font color="#ffff00">Good evening, sir. Can I help you with your bags? -Oh. Thank you. -(CHUCKLES) Sure.</font>
+<font color="#00ffcc">Buenas noches. ¿Lo ayudo con las bolsas?</font>
+
+476
+00:27:09,041 --> 00:27:09,291
+<font color="#ffff00">What are you... No, no, no.</font>
+<font color="#00ffcc">-Gracias. -De nada.</font>
+
+477
+00:27:09,375 --> 00:27:10,915
+<font color="#ffff00"></font>
+<font color="#00ffcc">¿Qué...? No.</font>
+
+478
+00:27:11,000 --> 00:27:13,170
+<font color="#ffff00">BARTON: No, no, no. Don't... Don't engage.</font>
+<font color="#00ffcc">No. No hables con él.</font>
+
+479
+00:27:13,250 --> 00:27:15,580
+<font color="#ffff00">-Got celery, a little Kashi. -BARTON: Kate.</font>
+<font color="#00ffcc">-Apio, cereales... -Kate.</font>
+
+480
+00:27:15,666 --> 00:27:16,876
+<font color="#ffff00">Okay, some pretzels?</font>
+<font color="#00ffcc">Anda, y lacitos.</font>
+
+481
+00:27:18,083 --> 00:27:18,998
+<font color="#ffff00">Where are you?</font>
+<font color="#00ffcc">¿Dónde estás?</font>
+
+482
+00:27:19,083 --> 00:27:20,963
+<font color="#ffff00">-(DINGS) -Oh, relax. I'm taking the elevator.</font>
+<font color="#00ffcc">Tranqui. Estoy en el ascensor.</font>
+
+483
+00:27:21,458 --> 00:27:22,708
+<font color="#ffff00">I'm sorry, what was that?</font>
+<font color="#00ffcc">Perdona, ¿has dicho algo?</font>
+
+484
+00:27:24,666 --> 00:27:27,576
+<font color="#ffff00">Oh, I, uh... I'm sorry, I wasn't talking to you. (CHUCKLES)</font>
+<font color="#00ffcc">Perdone, no hablaba con usted.</font>
+
+485
+00:27:30,875 --> 00:27:32,205
+<font color="#ffff00">Can I tell you a secret?</font>
+<font color="#00ffcc">¿Le cuento un secreto?</font>
+
+486
+00:27:32,666 --> 00:27:33,875
+<font color="#ffff00">BARTON: Please don't do this. I was talking to an Avenger.</font>
+<font color="#00ffcc">No, por favor.</font>
+
+487
+00:27:33,958 --> 00:27:35,748
+<font color="#ffff00"></font>
+<font color="#00ffcc">Hablaba con un vengador.</font>
+
+488
+00:27:36,875 --> 00:27:38,165
+<font color="#ffff00">He's in my ear. BARTON: Maybe you should stop talking.</font>
+<font color="#00ffcc">Llevo un pinganillo.</font>
+
+489
+00:27:38,250 --> 00:27:39,750
+<font color="#ffff00"></font>
+<font color="#00ffcc">Igual deberías callarte.</font>
+
+490
+00:27:39,833 --> 00:27:41,333
+<font color="#ffff00">Yeah, I'm his partner.</font>
+<font color="#00ffcc">Sí, soy su socia.</font>
+
+491
+00:27:41,416 --> 00:27:42,916
+<font color="#ffff00">I'll just take this back.</font>
+<font color="#00ffcc">Ya cojo yo las bolsas.</font>
+
+492
+00:27:43,000 --> 00:27:45,170
+<font color="#ffff00">I can help you to the door, no problem.</font>
+<font color="#00ffcc">Lo acompaño a la puerta, tranquilo.</font>
+
+493
+00:27:45,250 --> 00:27:47,710
+<font color="#ffff00">No, that's all right. I got it from here.</font>
+<font color="#00ffcc">No, déjalo. Puedo solo.</font>
+
+494
+00:27:47,791 --> 00:27:50,131
+<font color="#ffff00">Okay, are you sure? It's really no problem.</font>
+<font color="#00ffcc">¿Está seguro? No es molestia.</font>
+
+495
+00:27:51,375 --> 00:27:52,785
+<font color="#ffff00">All right, you take care now.</font>
+<font color="#00ffcc">Vale, cuídese.</font>
+
+496
+00:27:52,916 --> 00:27:54,036
+<font color="#ffff00">-(ELEVATOR DINGS) -(GROANS)</font>
+<font color="#00ffcc"></font>
+
+497
+00:27:54,125 --> 00:27:56,495
+<font color="#ffff00">What do you do with this giant bow problem?</font>
+<font color="#00ffcc">¿Tú te paseas con el arco por ahí?</font>
+
+498
+00:27:57,083 --> 00:27:58,423
+<font color="#ffff00">I have a collapsible one.</font>
+<font color="#00ffcc">Tengo uno plegable.</font>
+
+499
+00:27:59,333 --> 00:28:00,250
+<font color="#ffff00">Oh, that makes sense.</font>
+<font color="#00ffcc">Tiene sentido.</font>
+
+500
+00:28:02,375 --> 00:28:05,245
+<font color="#ffff00">Okay. I'm at the door.</font>
+<font color="#00ffcc">Vale. Estoy en la puerta.</font>
+
+501
+00:28:06,250 --> 00:28:07,250
+<font color="#ffff00">We're good.</font>
+<font color="#00ffcc">Todo despejado.</font>
+
+502
+00:28:08,333 --> 00:28:10,253
+<font color="#ffff00">(DOORKNOB RATTLING)</font>
+<font color="#00ffcc"></font>
+
+503
+00:28:14,583 --> 00:28:16,293
+<font color="#ffff00">(DOOR CREAKING)</font>
+<font color="#00ffcc"></font>
+
+504
+00:28:32,125 --> 00:28:35,495
+<font color="#ffff00">Okay. Living room's all clear.</font>
+<font color="#00ffcc">Vale. Salón despejado.</font>
+
+505
+00:28:37,333 --> 00:28:38,420
+<font color="#ffff00">Oh, shit.</font>
+<font color="#00ffcc">Mierda.</font>
+
+506
+00:28:38,500 --> 00:28:39,670
+<font color="#ffff00">(ARROW WHOOSHES)</font>
+<font color="#00ffcc"></font>
+
+507
+00:28:40,500 --> 00:28:42,170
+<font color="#ffff00">(ARROW WHOOSHING)</font>
+<font color="#00ffcc"></font>
+
+508
+00:28:42,791 --> 00:28:43,790
+<font color="#ffff00">What was that?</font>
+<font color="#00ffcc">¿Qué ha sido eso?</font>
+
+509
+00:28:44,750 --> 00:28:47,670
+<font color="#ffff00">I don't know. There are, like, strobe lights attached to the wall. -BARTON: What do you mean, strobe lights? -I don't know.</font>
+<font color="#00ffcc">No sé. Hay luces estroboscópicas en las paredes.</font>
+
+510
+00:28:47,750 --> 00:28:50,580
+<font color="#ffff00"></font>
+<font color="#00ffcc">-¿Cómo que luces estroboscópicas? -No sé.</font>
+
+511
+00:28:51,375 --> 00:28:52,665
+<font color="#ffff00">Yeah, what do you see?</font>
+<font color="#00ffcc">Bueno, ¿qué ves?</font>
+
+512
+00:28:53,333 --> 00:28:55,253
+<font color="#ffff00">Okay, what am I lookin' for?</font>
+<font color="#00ffcc">Vale, ¿qué estoy buscando?</font>
+
+513
+00:28:55,958 --> 00:28:58,628
+<font color="#ffff00">A watch, vintage Rolex.</font>
+<font color="#00ffcc">Un reloj, un Rolex clásico.</font>
+
+514
+00:28:59,625 --> 00:29:01,375
+<font color="#ffff00">Belongs to someone I used to work with.</font>
+<font color="#00ffcc">Era de alguien con quien trabajaba.</font>
+
+515
+00:29:01,916 --> 00:29:03,456
+<font color="#ffff00">Is that the whole story, Clint?</font>
+<font color="#00ffcc">¿No vas a contarme más, Clint?</font>
+
+516
+00:29:03,541 --> 00:29:05,421
+<font color="#ffff00">BARTON: They've been out of the game a long time,</font>
+<font color="#00ffcc">Lleva mucho tiempo fuera de juego,</font>
+
+517
+00:29:05,500 --> 00:29:07,830
+<font color="#ffff00">but their identity is still attached to that watch.</font>
+<font color="#00ffcc">pero su identidad sigue ligada a ese reloj.</font>
+
+518
+00:29:07,916 --> 00:29:10,246
+<font color="#ffff00">Hmm. And if the Tracksuits find out about it?</font>
+<font color="#00ffcc">¿Y si lo descubren los Chándal?</font>
+
+519
+00:29:12,000 --> 00:29:14,130
+<font color="#ffff00">It would blow their cover. Goodbye, friend.</font>
+<font color="#00ffcc">Arruinaría su tapadera. Acabarían con él.</font>
+
+520
+00:29:22,250 --> 00:29:23,380
+<font color="#ffff00">Got the watch.</font>
+<font color="#00ffcc">Tengo el reloj.</font>
+
+521
+00:29:25,166 --> 00:29:26,041
+<font color="#ffff00">Great.</font>
+<font color="#00ffcc">Genial.</font>
+
+522
+00:29:29,916 --> 00:29:30,916
+<font color="#ffff00">Hang on a minute.</font>
+<font color="#00ffcc">Un momento.</font>
+
+523
+00:29:33,375 --> 00:29:35,745
+<font color="#ffff00">Clint, somebody is taking notes on your family.</font>
+<font color="#00ffcc">Clint, aquí hay notas sobre tu familia.</font>
+
+524
+00:29:35,833 --> 00:29:36,883
+<font color="#ffff00">BARTON: What?</font>
+<font color="#00ffcc">¿Qué?</font>
+
+525
+00:29:36,958 --> 00:29:39,418
+<font color="#ffff00">"Clint Barton, wife, Laura, daughter, Lila, age 14,</font>
+<font color="#00ffcc">"Clint Barton. Mujer: Laura. Hija: Lila, 14 años.</font>
+
+526
+00:29:39,500 --> 00:29:42,330
+<font color="#ffff00">"son, Cooper, age 16, son, Nate." What...</font>
+<font color="#00ffcc">"Hijo: Cooper, 16 años. Hijo: Nate". ¿Qué...?</font>
+
+527
+00:29:42,416 --> 00:29:44,286
+<font color="#ffff00">Kate, get out of there now.</font>
+<font color="#00ffcc">Kate, sal de ahí ahora mismo.</font>
+
+528
+00:29:44,375 --> 00:29:46,075
+<font color="#ffff00">What? Why?</font>
+<font color="#00ffcc">¿Qué? ¿Por qué?</font>
+
+529
+00:29:46,166 --> 00:29:49,536
+<font color="#ffff00">That light's an alarm. It's a silent alarm for people that can't hear.</font>
+<font color="#00ffcc">Las luces eran una alarma. Una alarma silenciosa, no se oye.</font>
+
+530
+00:29:49,625 --> 00:29:50,785
+<font color="#ffff00">Oh, my God.</font>
+<font color="#00ffcc">Dios.</font>
+
+531
+00:29:50,875 --> 00:29:51,955
+<font color="#ffff00">It's Maya's apartment.</font>
+<font color="#00ffcc">Es el piso de Maya.</font>
+
+532
+00:29:52,041 --> 00:29:53,421
+<font color="#ffff00">BARTON: All right, I'm coming...</font>
+<font color="#00ffcc">Voy para allá.</font>
+
+533
+00:29:53,916 --> 00:29:54,956
+<font color="#ffff00">(BARTON GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+534
+00:29:55,041 --> 00:29:56,631
+<font color="#ffff00">Clint, what's going on?</font>
+<font color="#00ffcc">Clint, ¿qué pasa?</font>
+
+535
+00:29:58,416 --> 00:29:59,326
+<font color="#ffff00">Clint? (BARTON GROANING)</font>
+<font color="#00ffcc">¿Clint?</font>
+
+536
+00:30:02,625 --> 00:30:04,165
+<font color="#ffff00">(GRUNTS, GROANS)</font>
+<font color="#00ffcc"></font>
+
+537
+00:30:04,875 --> 00:30:05,708
+<font color="#ffff00">Maya's here.</font>
+<font color="#00ffcc">Maya está aquí.</font>
+
+538
+00:30:05,875 --> 00:30:06,881
+<font color="#ffff00">BARTON: Yeah, I can see that.</font>
+<font color="#00ffcc">Sí, ya lo veo.</font>
+
+539
+00:30:08,000 --> 00:30:09,420
+<font color="#ffff00">Then why didn't you tell me?</font>
+<font color="#00ffcc">¿Y por qué no me lo has dicho?</font>
+
+540
+00:30:10,166 --> 00:30:12,456
+<font color="#ffff00">BARTON: I did. Maya's on the roof with me.</font>
+<font color="#00ffcc">Te lo he dicho. Está en la azotea conmigo.</font>
+
+541
+00:30:12,833 --> 00:30:14,833
+<font color="#ffff00">-No, Maya is definitely here. -(GLASS BREAKING)</font>
+<font color="#00ffcc">No, Maya está aquí.</font>
+
+542
+00:30:15,375 --> 00:30:17,375
+<font color="#ffff00">(GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+543
+00:30:18,958 --> 00:30:20,748
+<font color="#ffff00">Well, who the hell am I fighting then?</font>
+<font color="#00ffcc">¿Y con quién narices estoy peleando yo?</font>
+
+544
+00:30:20,875 --> 00:30:22,035
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+545
+00:30:22,625 --> 00:30:23,705
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+546
+00:30:24,458 --> 00:30:25,501
+<font color="#ffff00">(BREATHING HEAVILY) A little help?</font>
+<font color="#00ffcc">¿Una ayudita?</font>
+
+547
+00:30:25,791 --> 00:30:26,961
+<font color="#ffff00">(GROANING)</font>
+<font color="#00ffcc"></font>
+
+548
+00:30:27,041 --> 00:30:30,671
+<font color="#ffff00">Give me a second. Incoming.</font>
+<font color="#00ffcc">Dame un segundo. Marchando.</font>
+
+549
+00:30:34,041 --> 00:30:34,955
+<font color="#ffff00">Get on the zip line.</font>
+<font color="#00ffcc">Tírate por la tirolina.</font>
+
+550
+00:30:37,916 --> 00:30:38,916
+<font color="#ffff00">(GASPS)</font>
+<font color="#00ffcc"></font>
+
+551
+00:30:40,000 --> 00:30:41,290
+<font color="#ffff00">(BARTON GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+552
+00:30:41,375 --> 00:30:43,535
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+<font color="#00ffcc"></font>
+
+553
+00:30:49,083 --> 00:30:51,133
+<font color="#ffff00">(WIND BLOWING)</font>
+<font color="#00ffcc"></font>
+
+554
+00:30:51,208 --> 00:30:52,328
+<font color="#ffff00">(EXHALES)</font>
+<font color="#00ffcc"></font>
+
+555
+00:30:52,416 --> 00:30:53,626
+<font color="#ffff00">(BARTON GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+556
+00:30:53,708 --> 00:30:54,878
+<font color="#ffff00">Oh, this is great. (BREATHING HEAVILY)</font>
+<font color="#00ffcc">Qué bien.</font>
+
+557
+00:30:55,916 --> 00:30:57,166
+<font color="#ffff00">-(GASPS) -(ZIPLINE CREAKS)</font>
+<font color="#00ffcc"></font>
+
+558
+00:30:57,666 --> 00:30:59,126
+<font color="#ffff00">(GRUNTS) Come on. Come on.</font>
+<font color="#00ffcc">Venga.</font>
+
+559
+00:31:00,375 --> 00:31:01,575
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+560
+00:31:02,291 --> 00:31:03,501
+<font color="#ffff00">(KATE GASPS)</font>
+<font color="#00ffcc"></font>
+
+561
+00:31:08,333 --> 00:31:09,326
+<font color="#ffff00">(GROANS) That hurt.</font>
+<font color="#00ffcc">Qué pupa.</font>
+
+562
+00:31:10,333 --> 00:31:11,423
+<font color="#ffff00">(GUN COCKING)</font>
+<font color="#00ffcc"></font>
+
+563
+00:31:16,083 --> 00:31:17,333
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+564
+00:31:29,916 --> 00:31:30,916
+<font color="#ffff00">(GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+565
+00:31:37,708 --> 00:31:39,878
+<font color="#ffff00">(ELECTRICITY CRACKLING)</font>
+<font color="#00ffcc"></font>
+
+566
+00:31:47,708 --> 00:31:49,168
+<font color="#ffff00">(YELLING)</font>
+<font color="#00ffcc"></font>
+
+567
+00:31:49,375 --> 00:31:51,915
+<font color="#ffff00">No, no, no! No, no!</font>
+<font color="#00ffcc">¡No!</font>
+
+568
+00:31:54,250 --> 00:31:55,750
+<font color="#ffff00">(BREATH TREMBLING)</font>
+<font color="#00ffcc"></font>
+
+569
+00:32:04,583 --> 00:32:05,583
+<font color="#ffff00">Pull me up!</font>
+<font color="#00ffcc">¡Súbeme!</font>
+
+570
+00:32:07,041 --> 00:32:08,251
+<font color="#ffff00">(BARTON BREATHING HEAVILY)</font>
+<font color="#00ffcc"></font>
+
+571
+00:32:09,583 --> 00:32:10,503
+<font color="#ffff00">Get outta here.</font>
+<font color="#00ffcc">Vete.</font>
+
+572
+00:32:12,833 --> 00:32:13,883
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+573
+00:32:13,958 --> 00:32:15,078
+<font color="#ffff00">(LIGHTS CLATTERING)</font>
+<font color="#00ffcc"></font>
+
+574
+00:32:15,166 --> 00:32:16,286
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+575
+00:32:17,583 --> 00:32:18,583
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+576
+00:32:34,041 --> 00:32:36,211
+<font color="#ffff00">(HIGH-PITCHED RINGING)</font>
+<font color="#00ffcc"></font>
+
+577
+00:32:45,750 --> 00:32:46,830
+<font color="#ffff00">(GROANS)</font>
+<font color="#00ffcc"></font>
+
+578
+00:32:48,291 --> 00:32:49,331
+<font color="#ffff00">(GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+579
+00:32:53,250 --> 00:32:54,250
+<font color="#ffff00">(GRUNTS)</font>
+<font color="#00ffcc"></font>
+
+580
+00:33:04,541 --> 00:33:05,541
+<font color="#ffff00">(GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+581
+00:33:06,625 --> 00:33:07,705
+<font color="#ffff00">(GRUNTING)</font>
+<font color="#00ffcc"></font>
+
+582
+00:33:07,791 --> 00:33:09,211
+<font color="#ffff00">-(ELECTRICITY CRACKLING) -(GROANS)</font>
+<font color="#00ffcc"></font>
+
+583
+00:33:27,250 --> 00:33:28,250
+<font color="#ffff00">(EXHALES)</font>
+<font color="#00ffcc"></font>
+
+584
+00:33:32,333 --> 00:33:33,423
+<font color="#ffff00">(EXHALES SHARPLY) Who the hell was that?</font>
+<font color="#00ffcc">¿Quién narices era esa?</font>
+
+585
+00:33:34,625 --> 00:33:35,995
+<font color="#ffff00">You don't wanna know, Kate.</font>
+<font color="#00ffcc">Es mejor que no lo sepas.</font>
+
+586
+00:33:36,083 --> 00:33:38,833
+<font color="#ffff00">I cannot be your partner if you don't tell me what's going on.</font>
+<font color="#00ffcc">No puedo ser tu socia si no me cuentas qué pasa.</font>
+
+587
+00:33:40,000 --> 00:33:42,330
+<font color="#ffff00">You're not my partner. Do you understand that?</font>
+<font color="#00ffcc">No eres mi socia, a ver si te entra en la cabeza.</font>
+
+588
+00:33:42,416 --> 00:33:43,286
+<font color="#ffff00">You never were.</font>
+<font color="#00ffcc">Nunca lo has sido.</font>
+
+589
+00:33:45,291 --> 00:33:48,251
+<font color="#ffff00">Someone has hired a Black Widow assassin.</font>
+<font color="#00ffcc">Alguien ha contratado a una viuda negra.</font>
+
+590
+00:33:49,958 --> 00:33:52,748
+<font color="#ffff00">This has gotten very real, very quickly.</font>
+<font color="#00ffcc">La cosa se ha puesto muy seria muy rápido.</font>
+
+591
+00:33:54,041 --> 00:33:55,461
+<font color="#ffff00">So I'm doing this alone.</font>
+<font color="#00ffcc">Así que haré esto solo.</font>
+
+592
+00:33:57,583 --> 00:33:58,583
+<font color="#ffff00">No, you're not.</font>
+<font color="#00ffcc">No, ni hablar.</font>
+
+593
+00:34:00,875 --> 00:34:03,995
+<font color="#ffff00">Look, I know that tonight didn't go as planned, but I chose to be here.</font>
+<font color="#00ffcc">Sé que hoy no ha ido como esperábamos, pero estoy aquí porque quiero.</font>
+
+594
+00:34:04,083 --> 00:34:06,923
+<font color="#ffff00">I understand the risk, I understand all of that.</font>
+<font color="#00ffcc">Entiendo los riesgos. Lo entiendo todo.</font>
+
+595
+00:34:07,000 --> 00:34:08,290
+<font color="#ffff00">I'm not gonna do it.</font>
+<font color="#00ffcc">No pienso hacerlo.</font>
+
+596
+00:34:09,083 --> 00:34:10,083
+<font color="#ffff00">Do you hear me?</font>
+<font color="#00ffcc">¿Me oyes?</font>
+
+597
+00:34:12,625 --> 00:34:13,455
+<font color="#ffff00">Do you hear me?</font>
+<font color="#00ffcc">¿Me oyes?</font>
+
+598
+00:34:14,208 --> 00:34:15,498
+<font color="#ffff00">(SNIFFLES)</font>
+<font color="#00ffcc"></font>
+
+599
+00:34:17,958 --> 00:34:21,828
+<font color="#ffff00">Go home, Kate. It's over.</font>
+<font color="#00ffcc">Vete a casa, Kate. Se acabó.</font>
+
+600
+00:34:31,375 --> 00:34:34,575
+<font color="#ffff00">(SLOW INSTRUMENTAL CHRISTMAS MUSIC PLAYING)</font>
+<font color="#00ffcc"></font>
+
+601
+00:34:34,576 --> 00:34:36,576
+<font color="#ffff00">---oOo---</font>
+<font color="#00ffcc"></font>
+
+602
+00:34:37,916 --> 00:34:39,826
+<font color="#ffff00"></font>
+<font color="#00ffcc">Basada en los cómics de Marvel</font>
+
+603
+00:35:53,916 --> 00:35:55,826
+<font color="#ffff00"></font>
+<font color="#00ffcc">Marvel Studios presenta</font>
+
+604
+00:35:59,458 --> 00:36:06,248
+<font color="#ffff00"></font>
+<font color="#00ffcc">Ojo de Halcón</font>
+
+605
+00:38:36,875 --> 00:38:38,875
+<font color="#ffff00"></font>
+<font color="#00ffcc">---oOo---</font>
+

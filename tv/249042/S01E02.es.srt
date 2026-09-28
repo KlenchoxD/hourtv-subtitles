@@ -1,0 +1,3341 @@
+1
+00:00:15,440 --> 00:00:21,320
+ADOLESCENCIA
+
+2
+00:00:28,000 --> 00:00:31,960
+DÍA 3
+
+3
+00:00:38,240 --> 00:00:39,240
+{\an8}Adam.
+
+4
+00:00:40,080 --> 00:00:41,680
+{\an8}Estoy afuera de tu escuela.
+
+5
+00:00:42,440 --> 00:00:45,120
+{\an8}Probablemente deba ir a tu clase, ¿sí?
+
+6
+00:00:45,720 --> 00:00:47,040
+{\an8}No te voy a molestar.
+
+7
+00:00:53,080 --> 00:00:56,960
+{\an8}Sabes que no hacía falta
+que vinieras tú, ¿cierto?
+
+8
+00:00:58,640 --> 00:01:00,120
+{\an8}- Hola.
+- ¿Sra. Fenumore?
+
+9
+00:01:00,200 --> 00:01:02,160
+{\an8}- Sí.
+- Soy el detective Bascombe.
+
+10
+00:01:02,240 --> 00:01:04,880
+{\an8}- Muchas gracias.
+- Agente Frank. Un gusto.
+
+11
+00:01:04,960 --> 00:01:06,520
+{\an8}Muchas gracias por venir.
+
+12
+00:01:07,800 --> 00:01:12,280
+{\an8}Acaban de regresar.
+Aún están muy sensibles.
+
+13
+00:01:12,360 --> 00:01:15,720
+{\an8}Lo sabemos. No habríamos venido
+si no fuera importante.
+
+14
+00:01:16,360 --> 00:01:18,080
+{\an8}- Gracias por venir.
+- Vamos.
+
+15
+00:01:18,600 --> 00:01:21,520
+{\an8}Registraré su visita
+y les daré el recorrido.
+
+16
+00:01:22,880 --> 00:01:24,040
+{\an8}- Hola.
+- Adelante.
+
+17
+00:01:38,120 --> 00:01:39,240
+{\an8}¡Tommy!
+
+18
+00:01:40,200 --> 00:01:42,120
+{\an8}- ¿Tienes un minuto?
+- Nos vemos.
+
+19
+00:01:43,840 --> 00:01:44,960
+{\an8}Vino la policía.
+
+20
+00:01:45,920 --> 00:01:47,040
+{\an8}Claro que sí.
+
+21
+00:01:47,760 --> 00:01:50,480
+{\an8}- Están por todas partes.
+- No me gusta.
+
+22
+00:01:52,760 --> 00:01:53,880
+{\an8}Sí, a mí tampoco.
+
+23
+00:01:55,320 --> 00:01:56,400
+{\an8}¿Sabes algo de él?
+
+24
+00:01:57,480 --> 00:01:59,960
+{\an8}Todos hablan de él. Le envié un mensaje.
+
+25
+00:02:00,640 --> 00:02:01,640
+{\an8}Sí.
+
+26
+00:02:02,240 --> 00:02:04,240
+{\an8}No me respondió. ¿Y a ti?
+
+27
+00:02:05,920 --> 00:02:08,800
+No puede. No tiene el teléfono encima.
+
+28
+00:02:10,000 --> 00:02:11,320
+¿Crees que es cierto?
+
+29
+00:02:12,520 --> 00:02:14,360
+- Sí.
+- ¿Crees que fue Jamie?
+
+30
+00:02:15,400 --> 00:02:17,360
+- Sí.
+- ¿Fueron a tu casa?
+
+31
+00:02:18,120 --> 00:02:20,240
+- Sí.
+- ¿Preguntaron por el cuchillo?
+
+32
+00:02:21,160 --> 00:02:22,840
+- Sí.
+- ¿Qué dijiste?
+
+33
+00:02:22,920 --> 00:02:26,080
+Papá dijo que no te hablara de eso.
+
+34
+00:02:26,160 --> 00:02:29,480
+- ¿Estaba enojado?
+- Claro que sí. ¿Tus padres no?
+
+35
+00:02:29,560 --> 00:02:32,280
+No… No dijeron nada.
+
+36
+00:02:33,720 --> 00:02:36,840
+- No quiero estar en problemas.
+- No lo estás.
+
+37
+00:02:36,920 --> 00:02:40,760
+- No quiero que Jamie esté en problemas.
+- Bueno, pero sí lo está.
+
+38
+00:02:46,760 --> 00:02:47,760
+Idiota.
+
+39
+00:02:56,760 --> 00:02:57,760
+<i>Adam.</i>
+
+40
+00:02:58,640 --> 00:03:00,240
+<i>Estoy afuera de tu escuela.</i>
+
+41
+00:03:00,880 --> 00:03:03,400
+<i>Probablemente deba ir a tu clase, ¿sí?</i>
+
+42
+00:03:04,120 --> 00:03:05,560
+<i>No te voy a molestar.</i>
+
+43
+00:03:17,960 --> 00:03:18,960
+Adam.
+
+44
+00:03:19,560 --> 00:03:21,520
+- Dame 1.20 libras.
+- Fredo.
+
+45
+00:03:21,600 --> 00:03:23,280
+- Dámelas.
+- No tengo dinero.
+
+46
+00:03:23,360 --> 00:03:26,920
+- Dame 1.20 libras.
+- Fredo, déjalo en paz.
+
+47
+00:03:27,000 --> 00:03:30,000
+- Necesito 1.20 libras, señor.
+- No, comes gratis.
+
+48
+00:03:31,320 --> 00:03:36,440
+Me llamaron catorce padres.
+Catorce. "¿Su escuela es segura?".
+
+49
+00:03:36,520 --> 00:03:38,080
+Dios mío. ¿Qué dijiste?
+
+50
+00:03:38,160 --> 00:03:40,800
+Que eso ni siquiera pasó en la escuela.
+
+51
+00:03:41,600 --> 00:03:45,040
+Mencionaron guardias de seguridad
+y detectores de metales.
+
+52
+00:03:53,720 --> 00:03:56,840
+Mia Taylor dijo que debemos iniciar
+un grupo de apoyo.
+
+53
+00:03:56,920 --> 00:04:00,080
+¿Somos guardias de seguridad
+y trabajadores sociales? Genial.
+
+54
+00:04:00,160 --> 00:04:03,320
+Me preocupa cómo afectará a los niños.
+Es muchísimo.
+
+55
+00:04:03,400 --> 00:04:06,720
+- Vigílalos. ¿Sí?
+- Está bien.
+
+56
+00:04:06,800 --> 00:04:07,720
+Gracias.
+
+57
+00:04:07,800 --> 00:04:09,120
+Acomódate la camisa.
+
+58
+00:04:09,200 --> 00:04:11,440
+- Tú también, Sean.
+- Lo siento.
+
+59
+00:04:11,520 --> 00:04:14,080
+¿De qué mierda se queja? Maldita sea.
+
+60
+00:04:14,160 --> 00:04:15,880
+Veamos qué dicen los chicos.
+
+61
+00:04:17,240 --> 00:04:21,360
+- Démosle una buena paliza a Jamie.
+- No, amigo, no tiene sentido.
+
+62
+00:04:21,440 --> 00:04:24,160
+- Entremos a la fuerza.
+- ¿Sí? ¿Cómo?
+
+63
+00:04:24,240 --> 00:04:26,360
+- Cállate.
+- ¿Son de Heywood Street?
+
+64
+00:04:26,440 --> 00:04:27,480
+Sí.
+
+65
+00:04:34,120 --> 00:04:35,120
+¡Entren!
+
+66
+00:04:36,200 --> 00:04:37,200
+Hola, Jade.
+
+67
+00:04:37,880 --> 00:04:40,520
+¿Quieres entrar a la oficina, por favor?
+
+68
+00:04:41,960 --> 00:04:42,960
+¿Puede ser?
+
+69
+00:04:44,720 --> 00:04:46,480
+Gracias.
+
+70
+00:04:49,160 --> 00:04:50,200
+Toma asiento.
+
+71
+00:04:50,960 --> 00:04:53,160
+Gracias. Tomen asiento.
+
+72
+00:04:53,240 --> 00:04:54,640
+- Siéntate ahí.
+- Bueno.
+
+73
+00:04:55,680 --> 00:04:56,680
+- Ten.
+- Gracias.
+
+74
+00:04:56,720 --> 00:04:58,680
+De nada. Aquí tienes.
+
+75
+00:04:58,760 --> 00:04:59,760
+Gracias.
+
+76
+00:05:01,080 --> 00:05:02,280
+- Hola, Jade.
+- Hola.
+
+77
+00:05:02,360 --> 00:05:03,360
+¿Estás bien?
+
+78
+00:05:04,400 --> 00:05:08,160
+Soy el detective Bascombe.
+Ella es la agente Frank.
+
+79
+00:05:08,240 --> 00:05:11,480
+Ella es la señora Fenumore.
+Trabaja en la escuela.
+
+80
+00:05:11,560 --> 00:05:15,120
+Ella supervisará todo
+desde la perspectiva escolar.
+
+81
+00:05:15,200 --> 00:05:17,920
+Te dará la ayuda
+que quieras o necesites, ¿sí?
+
+82
+00:05:19,040 --> 00:05:21,840
+Enseño en la escuela primaria, Jade.
+
+83
+00:05:23,800 --> 00:05:27,680
+Jade, agradecemos mucho
+que hayas aceptado hablar con nosotros.
+
+84
+00:05:28,440 --> 00:05:29,480
+¿Acepté?
+
+85
+00:05:30,280 --> 00:05:32,040
+Me sacaron del almuerzo.
+
+86
+00:05:32,760 --> 00:05:34,800
+Intentamos hablarte en tu casa,
+
+87
+00:05:34,880 --> 00:05:37,600
+pero tu mamá no sabía
+a qué hora volverías.
+
+88
+00:05:38,840 --> 00:05:42,600
+- Mira, si no te molesta, queremos…
+- No me molesta.
+
+89
+00:05:47,440 --> 00:05:50,240
+Estoy a cargo del caso de Katie.
+
+90
+00:05:50,320 --> 00:05:51,840
+Quiero darte mi tarjeta.
+
+91
+00:05:52,680 --> 00:05:56,720
+Tiene el número de la comisaría
+y el número de referencia del caso.
+
+92
+00:05:57,640 --> 00:06:01,200
+Así podrás mantenerte al tanto
+del progreso del caso.
+
+93
+00:06:01,280 --> 00:06:02,400
+Puedes tomarla.
+
+94
+00:06:05,960 --> 00:06:07,560
+Qué llamativa, ¿no?
+
+95
+00:06:08,880 --> 00:06:10,160
+Bueno.
+
+96
+00:06:10,240 --> 00:06:14,440
+Te podemos decir
+que detuvimos a un sospecho.
+
+97
+00:06:14,520 --> 00:06:15,880
+Sí, a Jamie.
+
+98
+00:06:15,960 --> 00:06:17,920
+Pero necesitamos más información
+
+99
+00:06:18,640 --> 00:06:21,280
+sobre el arma homicida,
+que aún no tenemos,
+
+100
+00:06:21,360 --> 00:06:24,280
+y sobre por qué el sospechoso
+cometió el crimen.
+
+101
+00:06:25,760 --> 00:06:29,040
+Jade, eras buena amiga de Katie, ¿no?
+
+102
+00:06:29,840 --> 00:06:30,880
+Su mejor amiga.
+
+103
+00:06:31,800 --> 00:06:32,840
+Todos lo saben.
+
+104
+00:06:33,640 --> 00:06:35,080
+Háblanos de ella.
+
+105
+00:06:36,880 --> 00:06:38,440
+¿Tu hijo no estudia aquí?
+
+106
+00:06:39,360 --> 00:06:40,720
+Sí.
+
+107
+00:06:41,560 --> 00:06:43,360
+Adam, ¿no?
+
+108
+00:06:43,440 --> 00:06:45,960
+- Sí.
+- Sí, por si no sabes, es feo.
+
+109
+00:06:46,040 --> 00:06:47,400
+No heredó tus pómulos.
+
+110
+00:06:47,480 --> 00:06:49,920
+- No lo considero…
+- Háblame de él.
+
+111
+00:06:54,560 --> 00:06:55,560
+Escucha.
+
+112
+00:06:56,440 --> 00:06:59,760
+Lo único que necesitas saber
+es que está muerta.
+
+113
+00:07:00,560 --> 00:07:05,400
+Debería estar viva, pero la apuñalaron.
+Era una gran persona. Eso es todo.
+
+114
+00:07:08,320 --> 00:07:11,760
+Jade, ¿Katie estaba feliz?
+
+115
+00:07:11,840 --> 00:07:14,880
+- No se suicidó.
+- ¿Cómo se llevaba con los chicos?
+
+116
+00:07:14,960 --> 00:07:17,720
+¿Con Jamie? No se le acercaba.
+
+117
+00:07:17,800 --> 00:07:19,360
+- ¿En serio?
+- Sí.
+
+118
+00:07:19,440 --> 00:07:21,840
+Qué interesante. ¿No le caía bien?
+
+119
+00:07:21,920 --> 00:07:25,520
+Vimos publicaciones en Instagram
+que sugieren que eran amigos.
+
+120
+00:07:25,600 --> 00:07:28,320
+- ¿Intentas culparla a ella?
+- No.
+
+121
+00:07:28,400 --> 00:07:29,960
+Sabemos que hay un video.
+
+122
+00:07:30,040 --> 00:07:32,880
+Deberían hablar con el que la mató,
+no conmigo.
+
+123
+00:07:32,960 --> 00:07:35,960
+- No te pedimos que hables mal de…
+- ¡Sí!
+
+124
+00:07:36,040 --> 00:07:39,000
+- ¡Es obvio que buscan eso!
+- No, Jade.
+
+125
+00:07:39,080 --> 00:07:40,760
+- ¿Me puedo ir?
+- Sé cortés.
+
+126
+00:07:40,840 --> 00:07:43,760
+No me siento cortés.
+¿Me puedo ir, Sra. Primaria?
+
+127
+00:07:43,840 --> 00:07:48,440
+Señora Fenumore, está bien.
+Puedes irte, Jade. Gracias.
+
+128
+00:07:48,520 --> 00:07:51,480
+Inútiles de mierda.
+¿Y ustedes son los mejores?
+
+129
+00:07:51,560 --> 00:07:52,560
+Jade.
+
+130
+00:07:53,880 --> 00:07:55,640
+Lo siento, está muy alterada.
+
+131
+00:07:55,720 --> 00:07:57,880
+- ¿Pasamos al siguiente?
+- ¿Sí?
+
+132
+00:07:57,960 --> 00:07:59,280
+- ¿Sí?
+- Sí, vamos.
+
+133
+00:08:02,200 --> 00:08:03,800
+- Está bien.
+- Lo siento.
+
+134
+00:08:03,880 --> 00:08:04,880
+Descuide.
+
+135
+00:08:05,440 --> 00:08:08,600
+- Iremos a octavo, la clase de Jamie.
+- Ya sabemos.
+
+136
+00:08:08,680 --> 00:08:12,680
+Ya hablaron con unos chicos.
+Con Ryan y Tommy, ¿no?
+
+137
+00:08:12,760 --> 00:08:15,400
+¿Todos saben todo de este caso?
+
+138
+00:08:15,480 --> 00:08:18,720
+La gente sabe más de lo que imaginan.
+
+139
+00:08:18,800 --> 00:08:20,720
+Ya sé, pero no deberían saberlo.
+
+140
+00:08:20,800 --> 00:08:24,160
+- No importa. Vamos.
+- Cielos. ¡Chicos! Basta. Siéntense.
+
+141
+00:08:24,240 --> 00:08:26,480
+¡Oigan, todos, siéntense!
+
+142
+00:08:26,560 --> 00:08:29,560
+¡James! Guarden los teléfonos, por favor.
+
+143
+00:08:29,640 --> 00:08:32,600
+- ¿Y el señor Malik?
+- Llega tarde. No lo venda.
+
+144
+00:08:32,680 --> 00:08:35,480
+- Él es el detective Bascombe.
+- Hola.
+
+145
+00:08:35,560 --> 00:08:38,120
+Quiere decirles algo.
+
+146
+00:08:38,200 --> 00:08:41,120
+Muy bien, chicos.
+Como muchos de ustedes saben…
+
+147
+00:08:41,200 --> 00:08:44,160
+Lo siento mucho. La agente Frank.
+
+148
+00:08:44,240 --> 00:08:46,240
+- Sí, descuide.
+- Lo siento.
+
+149
+00:08:46,320 --> 00:08:48,960
+Está bien. Como muchos de ustedes saben,
+
+150
+00:08:49,040 --> 00:08:52,440
+anteanoche ocurrió un incidente trágico.
+
+151
+00:08:54,280 --> 00:08:57,920
+Provocó el fallecimiento
+de una sus compañeras.
+
+152
+00:08:58,000 --> 00:08:59,880
+- ¿Fue Jamie?
+- Escúchenlo.
+
+153
+00:08:59,960 --> 00:09:01,160
+¡Mierda, sí fue él!
+
+154
+00:09:01,240 --> 00:09:06,120
+- ¡No digan groserías! Basta.
+- Cálmense. Detuvimos a alguien.
+
+155
+00:09:06,200 --> 00:09:09,840
+Vinimos porque aún no hemos encontrado
+el arma homicida.
+
+156
+00:09:09,920 --> 00:09:12,640
+Sé que suena muy grave y aterrador,
+
+157
+00:09:12,720 --> 00:09:15,440
+pero quizá tengan información
+que necesitemos.
+
+158
+00:09:15,520 --> 00:09:19,920
+Solo les pedimos que hablen con nosotros
+si tienen algo para decirnos, ¿sí?
+
+159
+00:09:20,000 --> 00:09:22,080
+- ¿Tienen un video?
+- Por favor.
+
+160
+00:09:22,160 --> 00:09:27,120
+También pueden hablarnos
+sobre cualquier evento vinculado al caso…
+
+161
+00:09:27,200 --> 00:09:29,560
+Señor Malik, lo protegimos.
+
+162
+00:09:29,640 --> 00:09:31,920
+Lamento la demora. Son policías, ¿no?
+
+163
+00:09:32,000 --> 00:09:34,600
+"Son policías, ¿no?".
+Lo adoro, señor Malik.
+
+164
+00:09:34,680 --> 00:09:35,680
+Señor Malik.
+
+165
+00:09:35,720 --> 00:09:40,080
+Le daré mi tarjeta al señor Malik.
+Tiene el número de la comisaría.
+
+166
+00:09:41,000 --> 00:09:45,560
+Si tienen información y quieren hablar,
+díganle al Sr. Malik y nos contactará.
+
+167
+00:09:45,640 --> 00:09:47,280
+- Gracias. Cuídense.
+- Gracias.
+
+168
+00:09:47,360 --> 00:09:51,280
+Muchas gracias. Retomaremos la película…
+
+169
+00:09:52,280 --> 00:09:54,360
+Sí, Marie, saca el bolígrafo.
+
+170
+00:09:54,440 --> 00:09:56,120
+No tengo bolígrafo.
+
+171
+00:09:56,200 --> 00:09:57,920
+¿Podemos hablar, señor Malik?
+
+172
+00:09:58,480 --> 00:10:00,280
+Todas las escuelas huelen así.
+
+173
+00:10:00,360 --> 00:10:05,080
+Es como una mezcla de vómito,
+repollo, y masturbación. Es un asco.
+
+174
+00:10:05,160 --> 00:10:06,160
+Sí, claro.
+
+175
+00:10:07,640 --> 00:10:09,960
+¿Crees que hallaremos el cuchillo aquí?
+
+176
+00:10:11,560 --> 00:10:13,600
+Quizá no haga falta. Quizá.
+
+177
+00:10:13,680 --> 00:10:17,920
+Pero si no encontramos el cuchillo,
+tendrá con qué negociar, ¿no?
+
+178
+00:10:18,920 --> 00:10:22,640
+Ya sabes cómo funciona.
+Lo vimos en la cámara de la escuela.
+
+179
+00:10:22,720 --> 00:10:24,600
+- Estaba oscuro…
+- Sí, ya sé.
+
+180
+00:10:24,680 --> 00:10:26,560
+Y no tengo el motivo.
+
+181
+00:10:28,080 --> 00:10:29,560
+Sé que lo necesitas.
+
+182
+00:10:32,640 --> 00:10:36,720
+Sinceramente, no entiendo
+por qué Jade estaba tan enojada.
+
+183
+00:10:37,800 --> 00:10:39,960
+Está alterada. Todos están así.
+
+184
+00:10:40,040 --> 00:10:44,680
+Ya sé, pero dio a entender
+que Katie odiaba a Jamie.
+
+185
+00:10:47,000 --> 00:10:49,680
+Lo siento mucho. El señor Malik es nuevo.
+
+186
+00:10:49,760 --> 00:10:52,040
+- Descuide. Gracias.
+- ¿Seguimos?
+
+187
+00:10:52,120 --> 00:10:54,040
+- Vamos.
+- No me agrada.
+
+188
+00:10:54,120 --> 00:10:57,280
+Les avisé a todos que iban a venir.
+
+189
+00:10:57,360 --> 00:10:59,240
+¿Quieren que los castigue?
+
+190
+00:10:59,320 --> 00:11:02,080
+Puedo castigarlos, no pasa nada.
+
+191
+00:11:02,160 --> 00:11:03,960
+Les quitarán el teléfono.
+
+192
+00:11:04,040 --> 00:11:07,440
+Como pueden ver,
+los maestros también están alterados.
+
+193
+00:11:08,320 --> 00:11:10,200
+Todos están devastados.
+
+194
+00:11:11,240 --> 00:11:13,360
+Tuve a Katie en quinto grado.
+
+195
+00:11:14,400 --> 00:11:18,080
+Era muy inteligente. Una niña hermosa.
+
+196
+00:11:18,160 --> 00:11:20,880
+Hablaba mucho en clase,
+
+197
+00:11:22,080 --> 00:11:24,680
+pero pensé que llegaría lejos en la vida.
+
+198
+00:11:24,760 --> 00:11:27,000
+Sí, todos están conmocionados, ¿no?
+
+199
+00:11:27,920 --> 00:11:29,960
+Sí, es devastador.
+
+200
+00:11:32,920 --> 00:11:34,680
+Por aquí.
+
+201
+00:11:35,760 --> 00:11:36,760
+Síganme.
+
+202
+00:11:39,320 --> 00:11:40,320
+Hola.
+
+203
+00:11:44,760 --> 00:11:46,320
+- No sé.
+- ¿Estás bien?
+
+204
+00:11:47,080 --> 00:11:48,240
+No, el tema es que…
+
+205
+00:11:48,320 --> 00:11:53,440
+Presta atención a los niños
+que reaccionen raro cuando nos vean.
+
+206
+00:11:53,520 --> 00:11:55,800
+- Les hablaremos después, ¿sí?
+- Bueno.
+
+207
+00:11:56,280 --> 00:11:57,280
+Muy bien.
+
+208
+00:11:59,440 --> 00:12:03,360
+Para que sepan,
+puedo brindarles nombres y direcciones.
+
+209
+00:12:03,440 --> 00:12:05,920
+Gracias, señora Fenumore. Nos sería útil.
+
+210
+00:12:06,000 --> 00:12:08,600
+- Quiero serles útil.
+- ¿Podemos ir a décimo?
+
+211
+00:12:08,680 --> 00:12:10,920
+Sí, claro. La clase del señor Curtis.
+
+212
+00:12:16,160 --> 00:12:18,000
+Muy buena pregunta, Andrew…
+
+213
+00:12:18,080 --> 00:12:22,440
+- ¡Suéltame!
+- ¡Ya basta! Silencio. Deja el bolígrafo.
+
+214
+00:12:22,520 --> 00:12:25,280
+- Mierda.
+- Baja las manos y mira el video.
+
+215
+00:12:26,600 --> 00:12:30,720
+Señor Curtis, ¿podemos pasar?
+La policía quiere hablar con los niños.
+
+216
+00:12:30,800 --> 00:12:32,640
+- Hola, Sr. Curtis.
+- ¿Qué tal?
+
+217
+00:12:32,720 --> 00:12:34,240
+- Agente Frank.
+- Hola.
+
+218
+00:12:34,320 --> 00:12:37,800
+- ¿Todo bien?
+- Sí, solo quiero hablar con los niños.
+
+219
+00:12:38,480 --> 00:12:41,360
+Son el detective Bascombe
+y la agente Frank
+
+220
+00:12:41,440 --> 00:12:43,200
+de la comisaría de Heywood Street.
+
+221
+00:12:43,280 --> 00:12:45,480
+Quieren hablar del caso de Katie.
+
+222
+00:12:45,560 --> 00:12:48,000
+Vinieron porque les importa esta escuela.
+
+223
+00:12:48,080 --> 00:12:52,080
+Como muchos saben,
+el detective Bascombe es el padre de Adam.
+
+224
+00:12:52,160 --> 00:12:53,160
+Adam.
+
+225
+00:12:53,600 --> 00:12:54,800
+Ya basta.
+
+226
+00:12:55,480 --> 00:12:58,280
+Ya basta, Fredo. ¡Dije que basta!
+
+227
+00:12:59,880 --> 00:13:02,960
+Quédate después de clases.
+Lo siento, es inaceptable.
+
+228
+00:13:03,040 --> 00:13:05,040
+- Descuide.
+- No seas irrespetuoso.
+
+229
+00:13:05,960 --> 00:13:08,960
+Chicos, voy a ser breve, ¿sí?
+
+230
+00:13:09,040 --> 00:13:14,200
+Saben que anteanoche
+hubo un terrible crimen en nuestra ciudad
+
+231
+00:13:14,280 --> 00:13:17,080
+y vinimos para intentar entender qué…
+
+232
+00:13:17,160 --> 00:13:19,240
+¿Es broma? Lo siento mucho.
+
+233
+00:13:19,320 --> 00:13:22,280
+- Hagan una fila ordenada.
+- Lo siento mucho.
+
+234
+00:13:22,360 --> 00:13:24,160
+Vamos a sacar a los niños.
+
+235
+00:13:24,240 --> 00:13:26,520
+Deben salir de la escuela.
+
+236
+00:13:26,600 --> 00:13:28,040
+No salgan de la fila.
+
+237
+00:13:28,120 --> 00:13:30,640
+- Señor, ¿serán terroristas?
+- No, Billie.
+
+238
+00:13:30,720 --> 00:13:32,640
+No corran. Sigan la fila.
+
+239
+00:13:32,720 --> 00:13:36,360
+Vayan directo a las canchas de tenis.
+Nada de tonterías.
+
+240
+00:13:36,440 --> 00:13:39,680
+No busquen sus cosas.
+Sigan recto. Nada de tonterías.
+
+241
+00:13:39,760 --> 00:13:40,760
+Gracias.
+
+242
+00:13:41,200 --> 00:13:42,560
+Será una falsa alarma.
+
+243
+00:13:43,400 --> 00:13:48,600
+Aunque una vez tiraron fuegos artificiales
+en el laboratorio de computación.
+
+244
+00:13:48,680 --> 00:13:49,720
+Hubo un incendio.
+
+245
+00:13:50,600 --> 00:13:53,240
+- Vendían diez por una libra.
+- No colaboró.
+
+246
+00:13:53,320 --> 00:13:59,600
+No, para nada. Pero logramos contenerlo…
+¿Ustedes vinieron? Enviaron policías.
+
+247
+00:13:59,680 --> 00:14:02,520
+- No vinimos nosotros.
+- ¿No? Nos ayudaron mucho.
+
+248
+00:14:02,600 --> 00:14:06,960
+Iremos a las canchas de tenis. Síganme.
+
+249
+00:14:11,880 --> 00:14:13,040
+- Rápido.
+- Gracias.
+
+250
+00:14:13,120 --> 00:14:14,120
+¿Estás bien?
+
+251
+00:14:14,600 --> 00:14:15,800
+De prisa. Rápido.
+
+252
+00:14:16,800 --> 00:14:18,720
+- Avancen.
+- No se detengan.
+
+253
+00:14:18,800 --> 00:14:20,040
+Muchas gracias.
+
+254
+00:14:20,120 --> 00:14:21,320
+Vamos, avancen.
+
+255
+00:14:21,400 --> 00:14:25,600
+- ¿Adónde vamos?
+- Nos reunimos en las canchas de tenis.
+
+256
+00:14:28,440 --> 00:14:30,680
+Señor Malik, ¿podemos hablar?
+
+257
+00:14:31,640 --> 00:14:32,640
+Sí.
+
+258
+00:14:33,720 --> 00:14:36,200
+- Leí sus informes escolares.
+- Sí.
+
+259
+00:14:37,320 --> 00:14:38,880
+¿Jamie era buen alumno?
+
+260
+00:14:39,680 --> 00:14:42,720
+- ¿Podemos hablar aquí?
+- Sí.
+
+261
+00:14:42,800 --> 00:14:45,400
+Quiero saber
+si demostraba no estar contento.
+
+262
+00:14:46,120 --> 00:14:48,200
+Solo soy un tutor…
+
+263
+00:14:48,280 --> 00:14:49,680
+Es su maestro.
+
+264
+00:14:49,760 --> 00:14:53,720
+Sí, pero enseño historia.
+No percibo esas cosas. No…
+
+265
+00:14:54,800 --> 00:14:57,040
+No sabría decirle, ¿entiende?
+
+266
+00:14:57,760 --> 00:15:01,160
+Estos chicos son imposibles.
+¿Qué pretende que haga?
+
+267
+00:15:09,080 --> 00:15:10,240
+Vengan, señoritas.
+
+268
+00:15:13,320 --> 00:15:14,480
+¡Vamos!
+
+269
+00:15:22,440 --> 00:15:27,920
+Bien, noveno, todos en fila. Vamos.
+Hablo en serio. Pónganse en la fila.
+
+270
+00:15:28,000 --> 00:15:30,000
+¿Pueden respetar la fila?
+
+271
+00:15:34,520 --> 00:15:36,600
+- ¿Todo bien?
+- Sí.
+
+272
+00:15:38,320 --> 00:15:39,320
+¡Ryan!
+
+273
+00:15:40,080 --> 00:15:41,240
+¿Qué hiciste?
+
+274
+00:15:43,680 --> 00:15:46,360
+¡Bastardo de mierda, mataste a mi amiga!
+
+275
+00:15:47,440 --> 00:15:48,920
+Hijo de…
+
+276
+00:15:49,600 --> 00:15:51,680
+- ¡Mierda!
+- ¡Jade!
+
+277
+00:15:51,760 --> 00:15:53,280
+¡Mató a mi amiga!
+
+278
+00:15:53,360 --> 00:15:56,120
+- No la mató.
+- ¡Raro de mierda! ¡Suélteme!
+
+279
+00:15:56,200 --> 00:15:58,360
+- Vamos, cálmate.
+- ¡Suélteme!
+
+280
+00:15:58,440 --> 00:16:01,400
+¡El raro mató a mi amiga!
+¡Asesino de mierda!
+
+281
+00:16:01,480 --> 00:16:05,440
+- ¡Llévala con la señora Bailey!
+- Siéntate. Despacio. Muy bien.
+
+282
+00:16:05,520 --> 00:16:08,240
+Vamos a la enfermería.
+¿Te golpeaste la cabeza?
+
+283
+00:16:08,760 --> 00:16:11,440
+Ryan, ¿caíste de cabeza? Bueno.
+
+284
+00:16:11,520 --> 00:16:13,800
+Te golpeó una chica, idiota.
+
+285
+00:16:13,880 --> 00:16:15,360
+Cállate.
+
+286
+00:16:15,440 --> 00:16:18,760
+Iremos a la enfermería,
+pero vamos a ir muy despacio.
+
+287
+00:16:18,840 --> 00:16:20,960
+¿Vieron? ¡Una chica le pegó a Ryan!
+
+288
+00:16:21,040 --> 00:16:24,480
+¡Es la última vez que lo diré!
+¡Pónganse en la fila!
+
+289
+00:16:24,560 --> 00:16:25,560
+¡Toby!
+
+290
+00:16:26,440 --> 00:16:29,760
+- ¿Caíste mal?
+- ¡Habrá un diluvio de castigos!
+
+291
+00:16:29,840 --> 00:16:32,080
+Pónganse en fila y guarden el celular.
+
+292
+00:16:32,160 --> 00:16:36,120
+- Chicas, en serio. Pónganse en fila.
+- Volvamos a décimo.
+
+293
+00:16:36,200 --> 00:16:38,280
+No, queremos hablar con Ryan.
+
+294
+00:16:38,360 --> 00:16:40,840
+- Hablemos con él.
+- Está con la enfermera.
+
+295
+00:16:40,920 --> 00:16:42,880
+No pasa nada. Iremos allí.
+
+296
+00:16:42,960 --> 00:16:43,800
+- Bueno.
+- ¿Sí?
+
+297
+00:16:43,880 --> 00:16:46,080
+- Ojalá esté bien.
+- Décimo. Vamos.
+
+298
+00:16:48,240 --> 00:16:49,640
+Pero qué caos.
+
+299
+00:17:09,920 --> 00:17:11,720
+Avancen, por favor.
+
+300
+00:17:11,800 --> 00:17:12,800
+Gracias.
+
+301
+00:17:12,840 --> 00:17:15,280
+Vamos, vuelvan al aula. Gracias.
+
+302
+00:17:16,160 --> 00:17:17,360
+No se detengan.
+
+303
+00:17:19,320 --> 00:17:23,720
+<i>Grabo en TikTok, soy un rapero.
+Tengo 13 años y gano dinero.</i>
+
+304
+00:17:23,800 --> 00:17:26,200
+¡Guarden el celular y vayan a clase!
+
+305
+00:17:26,280 --> 00:17:28,160
+- Cállese.
+- ¿Disculpa?
+
+306
+00:17:29,080 --> 00:17:30,000
+Por Dios.
+
+307
+00:17:30,080 --> 00:17:32,680
+Vamos, suban. Vamos.
+
+308
+00:17:32,760 --> 00:17:35,600
+- ¿No hay un incendio?
+- No, vayan a clase.
+
+309
+00:17:35,680 --> 00:17:37,760
+Vamos, chicos. Avancen.
+
+310
+00:17:38,920 --> 00:17:40,960
+Vamos, muévanse. Gracias.
+
+311
+00:17:41,040 --> 00:17:43,440
+- Vuelvan al aula.
+- Gracias.
+
+312
+00:17:43,520 --> 00:17:45,000
+- De prisa.
+- Suban.
+
+313
+00:17:45,080 --> 00:17:46,440
+- Lo siento.
+- Descuida.
+
+314
+00:17:46,520 --> 00:17:47,520
+No se empujen.
+
+315
+00:17:48,360 --> 00:17:49,360
+Gracias.
+
+316
+00:17:50,160 --> 00:17:51,320
+Bien hecho.
+
+317
+00:17:52,160 --> 00:17:53,880
+Vuelvan a clase. Bien hecho.
+
+318
+00:18:00,080 --> 00:18:01,320
+Ya llegamos.
+
+319
+00:18:02,280 --> 00:18:05,960
+Hola, Carla. ¿Podemos pasar?
+La policía quiere hablar con Ryan.
+
+320
+00:18:06,040 --> 00:18:08,760
+Claro, sí. Un segundo.
+
+321
+00:18:08,840 --> 00:18:11,200
+Bien, mírame. Mírame la nariz.
+
+322
+00:18:13,760 --> 00:18:16,680
+Estás bien, pero aterrizaste de cabeza.
+
+323
+00:18:16,760 --> 00:18:20,480
+Hola, señorita. ¿Puedo hablar con Ryan?
+
+324
+00:18:20,560 --> 00:18:22,480
+- ¿Estás de acuerdo, Ryan?
+- Sí.
+
+325
+00:18:22,560 --> 00:18:24,360
+- Bueno.
+- Gracias. ¿Todo bien?
+
+326
+00:18:24,440 --> 00:18:26,000
+- Sí.
+- Gracias.
+
+327
+00:18:26,080 --> 00:18:27,840
+- ¿Me puedo sentar?
+- Sí.
+
+328
+00:18:27,920 --> 00:18:29,840
+- Bien.
+- ¿Puedo sentarme, Ryan?
+
+329
+00:18:29,920 --> 00:18:31,080
+- Sí.
+- Sí.
+
+330
+00:18:31,160 --> 00:18:32,160
+Gracias.
+
+331
+00:18:35,120 --> 00:18:36,160
+Fue…
+
+332
+00:18:37,280 --> 00:18:38,440
+Fue una locura ¿no?
+
+333
+00:18:39,280 --> 00:18:41,760
+- Sí.
+- Te va a quedar un ojo morado.
+
+334
+00:18:42,560 --> 00:18:45,040
+- Sí, espero que no.
+- Bueno.
+
+335
+00:18:48,480 --> 00:18:52,440
+Cuando yo tenía tu edad,
+
+336
+00:18:52,520 --> 00:18:56,440
+me choqué con una parada de autobús
+porque quería un ojo morado.
+
+337
+00:18:56,520 --> 00:18:58,640
+- ¿Qué?
+- Ya sé. Qué locura.
+
+338
+00:18:58,720 --> 00:18:59,760
+Ni preguntes.
+
+339
+00:19:00,800 --> 00:19:04,040
+Creo que era más chico que tú.
+Tenía unos nueve años.
+
+340
+00:19:06,000 --> 00:19:07,240
+¿Funcionó?
+
+341
+00:19:07,320 --> 00:19:09,560
+Quería parecer un vaquero.
+
+342
+00:19:09,640 --> 00:19:13,120
+Al final terminé perdiendo un diente
+y pareciendo un…
+
+343
+00:19:14,240 --> 00:19:16,160
+No puedo decirlo. Pero me dolió.
+
+344
+00:19:18,120 --> 00:19:23,080
+Es una locura lo que se te puede
+llegar a ocurrir cuando eres niño.
+
+345
+00:19:23,160 --> 00:19:26,840
+- Sí, pero tú eras popular.
+- ¿Por qué lo dices?
+
+346
+00:19:26,920 --> 00:19:28,760
+Es obvio que sí.
+
+347
+00:19:28,840 --> 00:19:32,840
+Me volví popular
+cuando me quité el gran afro que tenía.
+
+348
+00:19:34,000 --> 00:19:36,960
+Mi mamá no quería que me cortara el pelo.
+
+349
+00:19:37,040 --> 00:19:41,280
+Cuando me lo corté,
+me hice un rebajado y todo cambió.
+
+350
+00:19:42,840 --> 00:19:46,080
+- Sí.
+- ¿Te interesa ser popular, Ryan?
+
+351
+00:19:46,160 --> 00:19:47,440
+- Claro que sí.
+- ¿Sí?
+
+352
+00:19:47,520 --> 00:19:49,560
+- Sí.
+- La última vez que hablamos…
+
+353
+00:19:49,640 --> 00:19:51,920
+- Tommy dijo que hablaste con él.
+- Sí.
+
+354
+00:19:52,000 --> 00:19:54,480
+Su papá no lo dejó decir nada.
+
+355
+00:19:54,560 --> 00:19:57,160
+Sí. No es del todo cierto, pero…
+
+356
+00:19:57,240 --> 00:20:00,480
+¿Quieres llamar a un tutor o a un abogado?
+
+357
+00:20:00,560 --> 00:20:02,960
+- No, gracias.
+- Bueno.
+
+358
+00:20:03,040 --> 00:20:06,480
+¿Eras muy popular?
+
+359
+00:20:06,560 --> 00:20:09,960
+- Sí.
+- ¿Con las chicas?
+
+360
+00:20:11,360 --> 00:20:12,480
+Me iba bien.
+
+361
+00:20:16,280 --> 00:20:18,240
+No parece que te falten dientes.
+
+362
+00:20:18,920 --> 00:20:22,360
+No me crees, ¿cierto?
+Te mostraré. ¿Ves ese de ahí?
+
+363
+00:20:23,200 --> 00:20:24,040
+- Sí.
+- Sí.
+
+364
+00:20:24,120 --> 00:20:26,240
+- ¿Casquete o empaste?
+- Empaste.
+
+365
+00:20:27,200 --> 00:20:30,200
+Tengo todos los míos. Me los cepillo bien.
+
+366
+00:20:30,280 --> 00:20:31,280
+Bueno.
+
+367
+00:20:33,000 --> 00:20:36,600
+No sé por qué me importan tanto,
+pero me importan.
+
+368
+00:20:37,400 --> 00:20:38,400
+Sí.
+
+369
+00:20:39,960 --> 00:20:41,680
+Escucha, amigo.
+
+370
+00:20:42,320 --> 00:20:47,800
+Cada vez tenemos más claro
+el panorama de esa noche, ¿sí?
+
+371
+00:20:47,880 --> 00:20:51,120
+Pero hay tres cosas
+con las que quizá nos puedas ayudar.
+
+372
+00:20:51,720 --> 00:20:55,240
+Carla, ¿ya me puedo ir? Estoy…
+
+373
+00:20:55,320 --> 00:20:58,520
+- Debes quedarte un poco más, ¿sí?
+- Estoy bien. Bueno.
+
+374
+00:20:59,320 --> 00:21:00,760
+Perdón, ¿qué decías?
+
+375
+00:21:00,840 --> 00:21:05,000
+Queremos saber qué pretendía Jamie.
+
+376
+00:21:05,080 --> 00:21:06,800
+- Muy bien.
+- Y qué lo motivó…
+
+377
+00:21:07,960 --> 00:21:11,280
+- ¿Sabes qué significa esa palabra?
+- Sí, las dos.
+
+378
+00:21:11,360 --> 00:21:14,360
+Muy bien. Qué lo motivó a hacer…
+
+379
+00:21:15,320 --> 00:21:19,760
+Por qué hizo lo que hizo.
+Creemos que puedes ayudarnos a entenderlo.
+
+380
+00:21:19,840 --> 00:21:22,920
+Por ejemplo,
+¿esa noche estaba feliz o triste?
+
+381
+00:21:24,240 --> 00:21:26,000
+No sé. Estaba normal.
+
+382
+00:21:26,080 --> 00:21:28,720
+Bueno. ¿De qué hablaron?
+
+383
+00:21:29,960 --> 00:21:32,000
+De nada. Pasamos el rato.
+
+384
+00:21:33,760 --> 00:21:37,560
+Esto te va a parecer una pregunta tonta,
+
+385
+00:21:38,240 --> 00:21:42,040
+pero ¿Jamie alguna vez
+te habló de cómo se sentía?
+
+386
+00:21:42,120 --> 00:21:43,480
+No.
+
+387
+00:21:43,560 --> 00:21:44,800
+- ¿No?
+- No.
+
+388
+00:21:45,800 --> 00:21:47,320
+¿Podemos hablar de Katie?
+
+389
+00:21:48,080 --> 00:21:50,520
+No sé nada de ella.
+
+390
+00:21:50,600 --> 00:21:53,080
+¿Podemos hablar
+de qué dijo Jamie de Katie?
+
+391
+00:21:54,000 --> 00:21:55,200
+No…
+
+392
+00:21:55,280 --> 00:21:58,280
+No sabía lo que iba a hacer.
+
+393
+00:21:59,760 --> 00:22:00,760
+Bueno.
+
+394
+00:22:02,880 --> 00:22:07,560
+¿Dirías que Katie y Jamie son amigos?
+¿Que eran amigos?
+
+395
+00:22:08,360 --> 00:22:10,480
+No creo. La verdad que no.
+
+396
+00:22:12,160 --> 00:22:14,720
+Como dije, no la conocía bien.
+
+397
+00:22:15,880 --> 00:22:18,680
+En fin, ¿ya me puedo ir? Estoy bien.
+
+398
+00:22:18,760 --> 00:22:19,760
+- Ryan.
+- Espera.
+
+399
+00:22:19,800 --> 00:22:24,040
+Aún no terminamos.
+Falta una pregunta muy importante.
+
+400
+00:22:24,120 --> 00:22:27,040
+Aún no hemos encontrado
+el cuchillo que usó Jamie…
+
+401
+00:22:27,120 --> 00:22:30,240
+Sí, pero me tengo que ir. Estoy castigado.
+
+402
+00:22:30,320 --> 00:22:32,840
+- No, Ryan. Espera…
+- Debo regresar.
+
+403
+00:22:32,920 --> 00:22:35,640
+Te golpeaste la cabeza.
+¿Puedes volver? ¡Ryan!
+
+404
+00:22:42,000 --> 00:22:45,840
+<i>…un sustantivo masculino,
+debajo de la ventana, que es femenino.</i>
+
+405
+00:22:50,120 --> 00:22:51,880
+- Toma agua.
+- No quiero.
+
+406
+00:22:51,960 --> 00:22:53,360
+- ¿Señora Bailey?
+- Sí.
+
+407
+00:22:53,440 --> 00:22:55,280
+- Llamaron a su mamá.
+- Gracias.
+
+408
+00:22:56,600 --> 00:22:59,360
+- ¿En serio?
+- Tu mamá debe enterarse de esto.
+
+409
+00:23:00,040 --> 00:23:02,280
+Se va a enojar porque está trabajando.
+
+410
+00:23:03,280 --> 00:23:04,280
+¿Qué…?
+
+411
+00:23:08,640 --> 00:23:11,720
+¿Cómo están? ¿Se están llevando mejor?
+
+412
+00:23:13,240 --> 00:23:14,320
+Sí, todo bien.
+
+413
+00:23:21,560 --> 00:23:24,720
+Te dije que quizá no debías venir hoy.
+
+414
+00:23:24,800 --> 00:23:26,280
+¿Adónde quiere que vaya?
+
+415
+00:23:27,720 --> 00:23:31,720
+Mamá no quiere que esté sola en casa.
+No me voy a poner a caminar…
+
+416
+00:23:33,720 --> 00:23:35,440
+No me voy a poner a caminar
+
+417
+00:23:36,160 --> 00:23:38,000
+por donde andaba Katie…
+
+418
+00:23:46,800 --> 00:23:49,240
+Iría a su casa.
+
+419
+00:23:51,240 --> 00:23:55,240
+- Ahí iría si no estuviera aquí.
+- Entonces, ve a su casa.
+
+420
+00:23:55,320 --> 00:23:56,320
+No.
+
+421
+00:23:57,720 --> 00:24:00,920
+Ve a su casa.
+A sus padres les encantará verte.
+
+422
+00:24:01,000 --> 00:24:03,480
+No, créame que no quieren verme.
+
+423
+00:24:11,520 --> 00:24:12,520
+¿Señora?
+
+424
+00:24:13,320 --> 00:24:14,320
+¿Sí?
+
+425
+00:24:16,320 --> 00:24:17,520
+¿Estoy en problemas?
+
+426
+00:24:20,440 --> 00:24:21,440
+Dios mío.
+
+427
+00:24:24,720 --> 00:24:27,760
+Siéntate. Vamos. Siéntate, por favor.
+
+428
+00:24:34,800 --> 00:24:36,520
+Sabes que estás en problemas.
+
+429
+00:24:39,400 --> 00:24:43,040
+¿La policía irá a mi casa? No sé si…
+
+430
+00:24:43,120 --> 00:24:45,440
+No sé. Depende de lo que decida Ryan.
+
+431
+00:24:45,520 --> 00:24:48,520
+- Pero es un niñito.
+- ¿Y por qué lo hiciste?
+
+432
+00:24:48,600 --> 00:24:49,640
+No sé.
+
+433
+00:24:54,480 --> 00:24:57,560
+Sé que estás sufriendo
+y que estás alterada,
+
+434
+00:24:58,480 --> 00:25:02,240
+pero no sabes si Ryan tiene algo que ver
+con lo que pasó con Katie.
+
+435
+00:25:08,760 --> 00:25:10,800
+Habla. Vamos.
+
+436
+00:25:21,120 --> 00:25:22,640
+Era mi mejor amiga.
+
+437
+00:25:24,760 --> 00:25:27,960
+Era la única que realmente…
+
+438
+00:25:30,720 --> 00:25:34,520
+Era la única que realmente me aceptaba.
+
+439
+00:25:36,040 --> 00:25:37,640
+Ya no sé qué hacer.
+
+440
+00:25:38,560 --> 00:25:42,200
+Ya no sé qué hacer
+porque no me queda nadie más.
+
+441
+00:25:42,280 --> 00:25:44,280
+- Claro que sí.
+- No.
+
+442
+00:25:44,360 --> 00:25:46,920
+Sí, querida. Tienes a mucha gente.
+
+443
+00:25:47,000 --> 00:25:49,160
+- No, lo dice por decir.
+- No.
+
+444
+00:25:49,240 --> 00:25:52,880
+Jade, sufriste una gran pérdida, querida.
+
+445
+00:25:54,760 --> 00:25:57,440
+Buscaremos a alguien
+con quien puedas hablar.
+
+446
+00:25:57,520 --> 00:26:01,400
+- Otro psiquiatra no. A la mierda.
+- No, alguien con quien hablar.
+
+447
+00:26:01,480 --> 00:26:04,600
+- ¿En serio?
+- No, no puedes volver a clase.
+
+448
+00:26:04,680 --> 00:26:07,960
+- Cada puta vez.
+- Jade, cariño. Quédate conmigo.
+
+449
+00:26:08,840 --> 00:26:11,800
+- Jade, te tienes que quedar aquí.
+- Déjeme en paz.
+
+450
+00:26:11,880 --> 00:26:13,400
+¡Por favor!
+
+451
+00:26:13,480 --> 00:26:14,800
+<i>Repitan.</i>
+
+452
+00:26:14,880 --> 00:26:17,280
+Jade, vamos. Por favor.
+
+453
+00:26:23,560 --> 00:26:26,120
+<i>Arabia Saudita y Paraguay.</i>
+
+454
+00:26:26,200 --> 00:26:29,200
+<i>Solo Paraguay es diferente en el reverso.</i>
+
+455
+00:26:29,280 --> 00:26:33,240
+<i>Arabia Saudita es exactamente igual
+en ambos lados.</i>
+
+456
+00:26:33,320 --> 00:26:35,120
+<i>¿Y qué país no tiene…?</i>
+
+457
+00:26:35,200 --> 00:26:39,400
+Quizá piensen que no es importante,
+pero cualquier dato que tengan…
+
+458
+00:26:39,920 --> 00:26:40,760
+<i>Correcto.</i>
+
+459
+00:26:40,840 --> 00:26:41,840
+…agradeceríamos.
+
+460
+00:26:42,960 --> 00:26:44,520
+Muy bien.
+
+461
+00:26:45,400 --> 00:26:46,840
+Gracias por su atención.
+
+462
+00:26:50,360 --> 00:26:53,160
+<i>Son preguntas rápidas que…</i>
+
+463
+00:26:53,240 --> 00:26:55,520
+- ¿Estás bien?
+- Sí.
+
+464
+00:26:55,600 --> 00:26:56,960
+<i>…y el Vaticano.</i>
+
+465
+00:26:57,040 --> 00:26:57,880
+Ven.
+
+466
+00:26:57,960 --> 00:26:58,960
+<i>¿Qué países…?</i>
+
+467
+00:26:59,000 --> 00:27:00,200
+- ¿Estás bien?
+- Sí.
+
+468
+00:27:01,240 --> 00:27:02,480
+¿Por qué no estás en clase?
+
+469
+00:27:03,040 --> 00:27:04,760
+Douze <i>puntos para Dinamarca.</i>
+
+470
+00:27:05,480 --> 00:27:07,000
+¿Podemos hablar?
+
+471
+00:27:07,960 --> 00:27:10,160
+A solas. Por favor.
+
+472
+00:27:11,600 --> 00:27:12,600
+Claro.
+
+473
+00:27:13,200 --> 00:27:14,440
+- Sra. Fenumore.
+- Sí.
+
+474
+00:27:14,520 --> 00:27:17,280
+¿Hay algún aula libre?
+¿Alguna sala privada?
+
+475
+00:27:17,360 --> 00:27:20,040
+Un lugar para hablar con Adam en privado.
+
+476
+00:27:20,920 --> 00:27:22,720
+- En privado… Sí.
+- ¿Sí?
+
+477
+00:27:22,800 --> 00:27:24,840
+- Síganme.
+- Gracias. Vamos.
+
+478
+00:27:24,920 --> 00:27:26,640
+Hay una sala abajo.
+
+479
+00:27:29,880 --> 00:27:30,880
+Pasa.
+
+480
+00:27:48,960 --> 00:27:51,320
+- ¿Aquí está bien?
+- Entra. Vamos.
+
+481
+00:27:53,360 --> 00:27:55,160
+¿Quieres que te acompañe?
+
+482
+00:27:55,240 --> 00:27:57,080
+- No, gracias.
+- ¿Está bien?
+
+483
+00:27:57,160 --> 00:27:59,440
+- Ni idea.
+- Te espero afuera.
+
+484
+00:27:59,520 --> 00:28:01,280
+- Bueno.
+- Hablen tranquilos.
+
+485
+00:28:01,360 --> 00:28:03,200
+- Gracias.
+- ¿Todo bien? Bien.
+
+486
+00:28:09,000 --> 00:28:10,880
+¿Qué pasa? ¿Estás bien?
+
+487
+00:28:11,920 --> 00:28:15,000
+¿Es por el chico de tu clase? ¿Fredo?
+
+488
+00:28:16,360 --> 00:28:17,640
+No…
+
+489
+00:28:17,720 --> 00:28:19,280
+- ¿Qué pasa?
+- Siéntate.
+
+490
+00:28:21,560 --> 00:28:24,080
+Adam, me estás asustando. ¿Qué pasa?
+
+491
+00:28:24,160 --> 00:28:25,320
+Solo que…
+
+492
+00:28:26,520 --> 00:28:27,360
+¿Qué?
+
+493
+00:28:27,440 --> 00:28:30,240
+Dijiste que querías hablar con gente
+
+494
+00:28:31,640 --> 00:28:33,640
+que pudiera ayudarte a entenderlo.
+
+495
+00:28:34,640 --> 00:28:38,360
+¿Puedes ayudarme a entenderlo?
+¿Eso es lo que dices?
+
+496
+00:28:41,960 --> 00:28:43,360
+- ¿Qué…?
+- Quieres irte.
+
+497
+00:28:43,440 --> 00:28:45,760
+- No quiero ir.
+- Sé que quieres irte.
+
+498
+00:28:45,840 --> 00:28:48,240
+- Ahí tienes la puerta. Vete.
+- ¿Qué…?
+
+499
+00:28:49,360 --> 00:28:52,440
+¿Tienes información?
+¿Sabes dónde está el cuchillo?
+
+500
+00:28:53,960 --> 00:28:55,600
+¿Alguien te dijo algo?
+
+501
+00:28:55,680 --> 00:28:58,800
+Hay perros rastreadores
+y gente revisando desagües.
+
+502
+00:28:58,880 --> 00:29:00,920
+- Buscamos por todos lados.
+- Papá.
+
+503
+00:29:02,640 --> 00:29:04,600
+No avanza porque no lo entiendes.
+
+504
+00:29:05,400 --> 00:29:06,640
+¿Qué no entiendo?
+
+505
+00:29:06,720 --> 00:29:10,560
+No interpretas lo que hacen.
+Lo que está pasando.
+
+506
+00:29:10,640 --> 00:29:11,920
+¿A qué te refieres?
+
+507
+00:29:12,960 --> 00:29:16,400
+Insta. Revisaron Insta, ¿no?
+
+508
+00:29:16,480 --> 00:29:17,480
+Sí.
+
+509
+00:29:17,560 --> 00:29:19,600
+Bueno, entonces…
+
+510
+00:29:20,840 --> 00:29:23,720
+Entonces, ¿viste lo que escribió Katie?
+
+511
+00:29:24,360 --> 00:29:25,360
+Sí.
+
+512
+00:29:26,320 --> 00:29:28,920
+- A ver.
+- Parece ser amable, ¿no?
+
+513
+00:29:29,640 --> 00:29:30,640
+¿No es así?
+
+514
+00:29:31,480 --> 00:29:33,960
+¿Qué crees que significa la dinamita?
+
+515
+00:29:35,920 --> 00:29:36,920
+No sé.
+
+516
+00:29:38,720 --> 00:29:40,320
+Una píldora roja explosiva.
+
+517
+00:29:40,400 --> 00:29:44,920
+- Con la azul, ves el mundo como quieren…
+- Eso es de <i>Matrix. </i>¿Viste <i>Matrix?</i>
+
+518
+00:29:45,880 --> 00:29:46,880
+¿Qué?
+
+519
+00:29:47,280 --> 00:29:50,120
+- Olvídalo. No importa. Sigue.
+<i>- Matrix.</i>
+
+520
+00:29:50,800 --> 00:29:51,800
+Sigue.
+
+521
+00:29:54,840 --> 00:30:00,520
+La píldora roja significa ver la realidad.
+Es un llamado a acción de la manosfera.
+
+522
+00:30:00,600 --> 00:30:01,640
+¿La manosfera?
+
+523
+00:30:03,560 --> 00:30:06,160
+De ahí sale la regla del 80 al 20.
+
+524
+00:30:06,240 --> 00:30:07,680
+Adam, escucha.
+
+525
+00:30:07,760 --> 00:30:11,680
+No estoy entendiendo nada.
+No sé de qué hablas. Explícamelo.
+
+526
+00:30:12,640 --> 00:30:16,280
+Al 80 % de las mujeres
+les atrae el 20 % de los hombres.
+
+527
+00:30:17,160 --> 00:30:20,640
+Hay que engañarlas
+porque es la única forma de conseguirlas.
+
+528
+00:30:20,720 --> 00:30:22,600
+El 80 % son inaccesibles…
+
+529
+00:30:22,680 --> 00:30:25,280
+Dice que él es un incel, papá.
+
+530
+00:30:25,360 --> 00:30:28,600
+Tiene 13 años.
+¿Cómo va a ser un célibe involuntario?
+
+531
+00:30:28,680 --> 00:30:31,040
+- Ya sé.
+- ¿Quién no es célibe a los 13?
+
+532
+00:30:31,880 --> 00:30:34,200
+Dice que siempre será un incel.
+
+533
+00:30:34,280 --> 00:30:37,880
+Le está diciendo
+que será virgen para siempre.
+
+534
+00:30:37,960 --> 00:30:41,480
+Los corazones son de gente
+que están de acuerdo con ella.
+
+535
+00:30:42,280 --> 00:30:43,280
+Bueno.
+
+536
+00:30:44,040 --> 00:30:45,040
+Entonces…
+
+537
+00:30:45,720 --> 00:30:46,720
+¿lo acosó?
+
+538
+00:30:47,280 --> 00:30:50,400
+Es una interpretación
+bastante general, Ad, pero…
+
+539
+00:30:50,480 --> 00:30:53,560
+- Está bien, no me creas.
+- No fue lo que dije.
+
+540
+00:30:53,640 --> 00:30:56,600
+¿Adónde vas? Espera. ¿Qué haces?
+
+541
+00:30:57,640 --> 00:30:58,640
+Esto es útil.
+
+542
+00:30:59,240 --> 00:31:00,400
+No lo sabía.
+
+543
+00:31:01,600 --> 00:31:04,920
+Me cuesta creer
+que dos símbolos impliquen todo eso.
+
+544
+00:31:05,560 --> 00:31:08,640
+Le envías corazones a mamá, ¿no?
+
+545
+00:31:08,720 --> 00:31:11,560
+- Cuando no sé qué responder.
+- ¿De qué color?
+
+546
+00:31:11,640 --> 00:31:13,360
+- Rojo.
+- Significa amor.
+
+547
+00:31:13,440 --> 00:31:16,600
+El violeta, calentura.
+El amarillo, interés.
+
+548
+00:31:16,680 --> 00:31:21,200
+Rosa, interés, pero no sexual.
+Naranja, "estarás bien".
+
+549
+00:31:21,280 --> 00:31:24,120
+Todos significan algo.
+Cada emoji significa algo.
+
+550
+00:31:26,400 --> 00:31:30,400
+Pues, qué bueno
+que solo le envío el rojo a mamá, ¿no?
+
+551
+00:31:32,400 --> 00:31:33,400
+Bueno.
+
+552
+00:31:33,800 --> 00:31:37,520
+Podría mostrarte otros 15 mensajes
+que les enviaron a Jamie
+
+553
+00:31:37,600 --> 00:31:40,040
+con diferentes emojis que dicen lo mismo.
+
+554
+00:31:43,240 --> 00:31:44,240
+Escucha.
+
+555
+00:31:46,200 --> 00:31:47,360
+¿Estás diciendo…
+
+556
+00:31:49,280 --> 00:31:51,880
+que Katie instigó eso del incel?
+
+557
+00:31:51,960 --> 00:31:55,120
+¿Eso estás diciendo?
+¿Que acosaba a Jamie? ¿Sí?
+
+558
+00:31:55,200 --> 00:31:58,200
+No sé, papá. No los conozco.
+
+559
+00:31:58,280 --> 00:32:02,680
+Son dos años más chicos que yo.
+Solo te digo lo que veo en su Insta.
+
+560
+00:32:02,760 --> 00:32:03,800
+Bueno.
+
+561
+00:32:04,960 --> 00:32:08,200
+No puedo decirte lo que hizo Jamie.
+Lo sabes, ¿verdad?
+
+562
+00:32:09,280 --> 00:32:11,120
+Todos sabemos lo que hizo.
+
+563
+00:32:14,920 --> 00:32:16,880
+Pensé que debías saberlo.
+
+564
+00:32:16,960 --> 00:32:19,600
+Me dio vergüenza verte tan perdido.
+
+565
+00:32:29,600 --> 00:32:30,600
+Lo siento.
+
+566
+00:32:32,440 --> 00:32:33,440
+Descuida.
+
+567
+00:32:35,360 --> 00:32:37,440
+Para ser sincero, estaba perdido.
+
+568
+00:32:39,120 --> 00:32:40,160
+Escucha.
+
+569
+00:32:44,080 --> 00:32:47,000
+¿Estas cosas de Instagram te afectan?
+
+570
+00:32:48,680 --> 00:32:50,520
+- No se trata de mí.
+- Ya sé.
+
+571
+00:32:51,480 --> 00:32:52,840
+Pero ¿te afectan, hijo?
+
+572
+00:32:54,880 --> 00:32:56,200
+Jamás me dices "hijo".
+
+573
+00:32:57,040 --> 00:32:59,520
+Les dices "hijo" a otros, pero jamás a mí.
+
+574
+00:33:02,800 --> 00:33:05,040
+Está bien. Lo siento.
+
+575
+00:33:06,160 --> 00:33:07,160
+No.
+
+576
+00:33:08,720 --> 00:33:10,640
+Uso Insta, pero no publico nada.
+
+577
+00:33:12,760 --> 00:33:14,720
+- ¿Y estás bien?
+- Sí, estoy bien.
+
+578
+00:33:20,160 --> 00:33:21,880
+- Escucha.
+- Sí.
+
+579
+00:33:27,200 --> 00:33:29,400
+- Gracias, ¿sí?
+- Sí.
+
+580
+00:33:30,240 --> 00:33:31,680
+- Te lo agradezco.
+- Sí.
+
+581
+00:33:33,360 --> 00:33:34,360
+Bueno.
+
+582
+00:33:34,800 --> 00:33:38,160
+Debería volver a la última clase.
+
+583
+00:33:38,240 --> 00:33:39,840
+Bueno, ve.
+
+584
+00:33:45,680 --> 00:33:46,680
+Oye, grac…
+
+585
+00:34:00,440 --> 00:34:01,880
+… y aprenden todo.
+
+586
+00:34:04,960 --> 00:34:06,840
+- ¿Estás bien?
+- Sí.
+
+587
+00:34:09,480 --> 00:34:13,080
+- Nos equivocamos con lo de Instagram.
+- ¿En qué sentido?
+
+588
+00:34:13,160 --> 00:34:14,800
+Katie acosaba a Jamie.
+
+589
+00:34:14,880 --> 00:34:16,520
+- Ay, no.
+- Era acoso.
+
+590
+00:34:16,600 --> 00:34:19,400
+Cosas de incel. Ya sabes lo que es.
+
+591
+00:34:19,480 --> 00:34:20,520
+Sí, así es.
+
+592
+00:34:20,600 --> 00:34:22,800
+Yo no sé qué es. ¿Qué es?
+
+593
+00:34:22,880 --> 00:34:28,400
+Es lo del celibato involuntario.
+Esa mierda de Andrew Tate.
+
+594
+00:34:30,080 --> 00:34:32,840
+- Mierda.
+- Oí a los chicos hablar de él.
+
+595
+00:34:35,000 --> 00:34:38,720
+Sí. Señora Fenumore, muchas gracias.
+
+596
+00:34:39,240 --> 00:34:41,120
+- Ya puede retirarse.
+- Gracias.
+
+597
+00:34:41,200 --> 00:34:44,040
+- Muchas gracias. Un gusto.
+- ¿Seguro? Los puedo…
+
+598
+00:34:44,120 --> 00:34:46,440
+¿Seguro que no quieren ir a otro lado?
+
+599
+00:34:46,520 --> 00:34:50,480
+- No, ya está. Gracias por su ayuda.
+- Me alegra haberles sido útil.
+
+600
+00:34:50,560 --> 00:34:52,280
+Ya saben dónde encontrarme.
+
+601
+00:34:52,360 --> 00:34:57,520
+Quiero darles las gracias.
+Realmente valoramos todo lo que hacen.
+
+602
+00:34:57,600 --> 00:34:59,440
+- Gracias.
+- Claro. Gracias.
+
+603
+00:34:59,520 --> 00:35:01,440
+- Gracias. Adiós.
+- Adiós.
+
+604
+00:35:04,480 --> 00:35:06,920
+- Mierda.
+- Sí, mierda.
+
+605
+00:35:11,480 --> 00:35:14,360
+Te juro que no soporto
+este lugar de mierda.
+
+606
+00:35:15,080 --> 00:35:17,840
+- Tú quisiste venir.
+- Sí, ya sé, pero…
+
+607
+00:35:18,640 --> 00:35:21,480
+¿Te parece que alguien está aprendiendo?
+
+608
+00:35:22,200 --> 00:35:24,160
+Parece un maldito corral.
+
+609
+00:35:25,840 --> 00:35:30,520
+Ven videos en todas las clases.
+El señor Malik viene cuando quiere.
+
+610
+00:35:31,280 --> 00:35:35,400
+- Y dijiste que huele mal.
+- Apesta. Todas las escuelas apestan.
+
+611
+00:35:35,480 --> 00:35:37,680
+Vamos allí. Hablemos un minuto.
+
+612
+00:35:38,440 --> 00:35:39,920
+A ver si entendemos algo.
+
+613
+00:35:43,360 --> 00:35:46,200
+Debe haber buenos maestros y alumnos aquí.
+
+614
+00:35:46,280 --> 00:35:49,960
+- Mi escuela era un poco así.
+- ¿Cómo sobreviviste?
+
+615
+00:35:50,040 --> 00:35:53,640
+Porque tuve una gran maestra,
+la señora Benton. Era genial.
+
+616
+00:35:53,720 --> 00:35:56,760
+Enseñaba arte y fotografía.
+
+617
+00:35:56,840 --> 00:35:59,440
+Me gustaba dibujar y esas cosas.
+
+618
+00:36:01,000 --> 00:36:01,840
+Qué bien.
+
+619
+00:36:01,920 --> 00:36:05,360
+Los niños necesitan una sola cosa
+que los haga sentir bien.
+
+620
+00:36:08,080 --> 00:36:09,320
+¿Quieres tener hijos?
+
+621
+00:36:10,240 --> 00:36:13,360
+- Jamás me lo habías preguntado.
+- Ya sé…
+
+622
+00:36:14,040 --> 00:36:17,960
+- No se lo preguntas a un colega.
+- Pero sí a un amigo. Y no.
+
+623
+00:36:18,640 --> 00:36:19,640
+La verdad que no.
+
+624
+00:36:20,920 --> 00:36:23,120
+- Nunca quise tener hijos.
+- ¿No?
+
+625
+00:36:24,480 --> 00:36:26,400
+Pero lo quiero mucho.
+
+626
+00:36:26,480 --> 00:36:27,480
+¿Está bien?
+
+627
+00:36:28,840 --> 00:36:31,960
+Hacía tiempo que no me hablaba tanto.
+
+628
+00:36:32,640 --> 00:36:34,080
+Eso es algo bueno, ¿no?
+
+629
+00:36:34,760 --> 00:36:40,400
+Sí, pero a veces siento
+que no soy el padre que necesita.
+
+630
+00:36:40,480 --> 00:36:41,480
+¿Me entiendes?
+
+631
+00:36:42,960 --> 00:36:46,760
+Te conozco y sé que puedes serlo.
+¿Me entiendes a mí?
+
+632
+00:36:48,640 --> 00:36:49,640
+Sí.
+
+633
+00:36:51,640 --> 00:36:53,080
+Escucha.
+
+634
+00:36:54,720 --> 00:36:57,040
+- No tenemos el cuchillo.
+- No.
+
+635
+00:36:57,960 --> 00:37:02,280
+Mejor volvamos a la comisaría, ¿sí?
+Ya conseguimos lo que queríamos.
+
+636
+00:37:02,360 --> 00:37:03,480
+- Misha.
+- ¿Qué?
+
+637
+00:37:04,320 --> 00:37:07,320
+No quieres estar aquí.
+Lo entiendo. ¿Qué pasa?
+
+638
+00:37:07,400 --> 00:37:08,880
+Ni siquiera es eso.
+
+639
+00:37:11,480 --> 00:37:14,240
+- ¿Sabes qué no me gusta de esto?
+- Dime.
+
+640
+00:37:15,160 --> 00:37:19,280
+El criminal siempre es el titular.
+"Un hombre violó a una mujer".
+
+641
+00:37:21,400 --> 00:37:24,360
+Nos pusimos desde el inicio
+en la cabeza de Jamie.
+
+642
+00:37:24,880 --> 00:37:27,480
+¿No? Katie no es importante, sino Jamie.
+
+643
+00:37:27,560 --> 00:37:30,600
+Todos recordarán a Jamie.
+Nadie la recordará a ella.
+
+644
+00:37:30,680 --> 00:37:33,400
+Eso me molesta. Eso me afecta.
+
+645
+00:37:34,440 --> 00:37:37,720
+Creo que te equivocas.
+Estamos aquí por Katie.
+
+646
+00:37:37,800 --> 00:37:40,920
+Estamos aquí por sus padres
+y para obtener respuestas.
+
+647
+00:37:41,680 --> 00:37:44,640
+Nuestro trabajo
+es entender por qué lo hizo.
+
+648
+00:37:44,720 --> 00:37:47,160
+No puedes entenderlo. ¿Crees que sí?
+
+649
+00:37:47,240 --> 00:37:50,280
+Tenemos el video. Sabemos lo que hizo.
+
+650
+00:37:50,360 --> 00:37:54,880
+No lo sabrás. Tenemos experiencia en esto.
+No vas a saber por qué lo hizo.
+
+651
+00:37:54,960 --> 00:37:59,760
+Mish, vuelve a la comisaría.
+Hablaré con Ryan por última vez.
+
+652
+00:37:59,840 --> 00:38:04,840
+- Ya hablaste con Ryan.
+- Sí, pero oculta algo. Sé que falta algo.
+
+653
+00:38:04,920 --> 00:38:07,240
+- ¿Vienes o no?
+- Mierda.
+
+654
+00:38:20,800 --> 00:38:22,840
+- Señor Malik.
+- Mierda.
+
+655
+00:38:23,560 --> 00:38:24,560
+¿Qué necesita?
+
+656
+00:38:25,560 --> 00:38:28,480
+- Hablar con Ryan.
+- Al menos pause el video.
+
+657
+00:38:28,560 --> 00:38:30,480
+- Es interesante.
+- Espera. Ryan.
+
+658
+00:38:30,560 --> 00:38:31,400
+- Ryan.
+- Ve.
+
+659
+00:38:31,480 --> 00:38:33,560
+- ¡Mierda!
+- ¡Ryan!
+
+660
+00:38:37,800 --> 00:38:39,680
+¡Ven aquí! ¡Ryan!
+
+661
+00:38:40,440 --> 00:38:41,440
+Deja de correr.
+
+662
+00:38:41,880 --> 00:38:43,520
+Alto. ¡Ryan!
+
+663
+00:38:46,200 --> 00:38:47,880
+Ryan, ¡alto!
+
+664
+00:38:49,640 --> 00:38:52,360
+¡Ven aquí! ¡Espera!
+
+665
+00:38:53,600 --> 00:38:54,600
+¡Ryan!
+
+666
+00:38:55,360 --> 00:38:57,600
+¡No! No te atrevas.
+
+667
+00:38:57,680 --> 00:38:58,680
+Mierda.
+
+668
+00:39:00,920 --> 00:39:01,920
+¡Espera!
+
+669
+00:39:03,560 --> 00:39:04,560
+Mierda.
+
+670
+00:39:07,120 --> 00:39:08,120
+¡A un lado!
+
+671
+00:39:12,600 --> 00:39:14,160
+¡Ryan!
+
+672
+00:39:14,760 --> 00:39:16,280
+¡Cuidado con el tráfico!
+
+673
+00:39:16,920 --> 00:39:17,920
+Mierda.
+
+674
+00:39:21,920 --> 00:39:23,920
+¿Adónde vas? Deja de correr.
+
+675
+00:39:26,280 --> 00:39:29,040
+Bájate de ahí. ¿Qué carajo haces?
+
+676
+00:39:29,120 --> 00:39:30,920
+Ven aquí.
+
+677
+00:39:35,080 --> 00:39:37,040
+- ¿Qué significa incel?
+- ¿Qué?
+
+678
+00:39:37,120 --> 00:39:40,280
+Incel. Katie le dijo eso a Jamie.
+¿Qué significa?
+
+679
+00:39:40,360 --> 00:39:42,760
+- ¿Cómo sabes?
+- ¿Lo estaba acosando?
+
+680
+00:39:42,840 --> 00:39:45,440
+- ¿Por qué siempre a mí?
+- ¿A quién más?
+
+681
+00:39:45,520 --> 00:39:48,000
+- ¡Habla con Tommy!
+- A la mierda Tommy.
+
+682
+00:39:48,080 --> 00:39:50,440
+¿Qué tiene que ver? Tú conoces a Jamie.
+
+683
+00:39:50,520 --> 00:39:53,240
+- Él también.
+- No, no como tú.
+
+684
+00:39:54,360 --> 00:39:59,120
+Escucha. Te voy a hacer una pregunta.
+Quiero que me respondas en serio.
+
+685
+00:39:59,200 --> 00:40:01,080
+- ¿Entiendes?
+- Bueno. ¡Sí!
+
+686
+00:40:01,880 --> 00:40:04,720
+- ¿Lo ayudaste a conseguir ese cuchillo?
+- No.
+
+687
+00:40:04,800 --> 00:40:08,560
+Ryan, no estoy jugando. ¿Lo ayudaste?
+
+688
+00:40:09,480 --> 00:40:11,120
+- No.
+- ¡Oye!
+
+689
+00:40:11,200 --> 00:40:14,000
+¡Murió una chica, carajo! ¿Entiendes?
+
+690
+00:40:14,880 --> 00:40:17,920
+- Bueno.
+- Responde la pregunta. Habla.
+
+691
+00:40:24,520 --> 00:40:25,520
+Era…
+
+692
+00:40:26,000 --> 00:40:27,040
+Era mi cuchillo.
+
+693
+00:40:27,680 --> 00:40:29,960
+- No quería que pasara nada.
+- Mierda.
+
+694
+00:40:30,680 --> 00:40:32,960
+- Creí que la asustaría.
+- ¿Dónde está?
+
+695
+00:40:33,040 --> 00:40:34,040
+Qué sé yo.
+
+696
+00:40:34,480 --> 00:40:36,160
+- ¿Dónde está?
+- ¡No sé!
+
+697
+00:40:36,240 --> 00:40:37,880
+- Vendrás conmigo.
+- ¿Qué?
+
+698
+00:40:37,960 --> 00:40:40,600
+- Estás detenido. ¡Alto!
+- ¡Suéltenme!
+
+699
+00:40:40,680 --> 00:40:43,880
+Quedas detenido por sospecha
+de conspiración de homicidio.
+
+700
+00:40:43,960 --> 00:40:46,520
+No debes decir nada,
+pero podría dañar tu defensa
+
+701
+00:40:46,600 --> 00:40:49,720
+si no dices algo
+que luego mencionas en el tribunal.
+
+702
+00:40:49,800 --> 00:40:52,600
+Todo lo que digas
+puede usarse como evidencia.
+
+703
+00:40:52,680 --> 00:40:53,680
+¡Suéltenme!
+
+704
+00:40:54,600 --> 00:40:57,400
+Por favor, no quiero ir. ¡Suéltenme!
+
+705
+00:40:57,480 --> 00:40:59,280
+- Mierda.
+- ¡Suéltenme!
+
+706
+00:41:00,040 --> 00:41:01,800
+Hace años que no corría así.
+
+707
+00:41:02,920 --> 00:41:05,440
+- ¡Suéltenme!
+- Mierda.
+
+708
+00:41:05,520 --> 00:41:07,680
+- ¿Puedes encargarte tú?
+- Sí.
+
+709
+00:41:07,760 --> 00:41:12,040
+Procésalo. Avísale a quien haga falta.
+
+710
+00:41:12,120 --> 00:41:13,440
+Sí, yo me encargo.
+
+711
+00:41:15,720 --> 00:41:18,400
+Otra cosa. Acusa oficialmente a Jaime.
+
+712
+00:41:19,400 --> 00:41:20,240
+¿Sin ti?
+
+713
+00:41:20,320 --> 00:41:23,040
+Sí. Ya tenemos todo lo que necesitamos.
+
+714
+00:41:23,120 --> 00:41:25,080
+- ¿Está bien?
+- Sí.
+
+715
+00:41:25,880 --> 00:41:26,880
+¿Estás bien?
+
+716
+00:41:27,760 --> 00:41:29,000
+Sí, todo bien.
+
+717
+00:41:30,320 --> 00:41:32,240
+Quiero ocuparme de algo.
+
+718
+00:41:33,880 --> 00:41:36,320
+- ¿Seguro que estás bien?
+- Sí. Nos vemos.
+
+719
+00:41:36,400 --> 00:41:38,240
+Bueno, nos vemos allí.
+
+720
+00:41:40,080 --> 00:41:41,080
+Mierda.
+
+721
+00:42:59,320 --> 00:43:00,400
+Dios mío.
+
+722
+00:43:10,920 --> 00:43:11,920
+¡Adam!
+
+723
+00:43:14,200 --> 00:43:15,200
+¿Estás bien?
+
+724
+00:43:17,280 --> 00:43:20,360
+- ¿Qué tal? Ven.
+- No me lleves. Iré en autobús.
+
+725
+00:43:20,440 --> 00:43:24,680
+No, no te ofrezco un aventón. Ven aquí.
+
+726
+00:43:26,360 --> 00:43:27,360
+Escucha.
+
+727
+00:43:29,480 --> 00:43:30,480
+Tengo hambre.
+
+728
+00:43:31,240 --> 00:43:32,920
+¿Sí? Voy a…
+
+729
+00:43:34,080 --> 00:43:37,600
+Voy a comprar papas fritas y un refresco.
+¿Quieres venir?
+
+730
+00:43:39,080 --> 00:43:42,280
+- Debes trabajar en el caso.
+- Sí, ya lo sé.
+
+731
+00:43:42,360 --> 00:43:45,240
+Ya casi termino.
+Estoy a punto de delegarlo.
+
+732
+00:43:45,320 --> 00:43:48,760
+Tengo tiempo libre
+y quiero pasarlo contigo.
+
+733
+00:43:49,760 --> 00:43:50,880
+Porque te quiero.
+
+734
+00:43:51,480 --> 00:43:52,480
+¿Está bien?
+
+735
+00:43:57,800 --> 00:44:00,080
+Sí, tengo un poco de hambre.
+
+736
+00:44:01,280 --> 00:44:04,600
+Qué bien. Gracias. Vamos. Sube al auto.
+
+737
+00:44:12,040 --> 00:44:15,960
+Deja la mochila atrás
+y ponte el cinturón, por favor.
+
+738
+00:44:19,240 --> 00:44:21,680
+¿Qué tal la escuela? ¿Qué clases tuviste?
+
+739
+00:44:22,520 --> 00:44:25,000
+Matemáticas, Química y Francés.
+
+740
+00:44:26,240 --> 00:44:27,240
+<i>Français.</i>
+
+741
+00:44:27,840 --> 00:44:29,040
+Hablas francés, ¿sí?
+
+742
+00:44:29,560 --> 00:44:30,560
+Sí.
+
+743
+00:44:31,400 --> 00:44:32,440
+Te escucho.
+
+744
+00:44:34,360 --> 00:44:37,120
+<i>Je m'appelle. </i>¿Cómo está? <i>Ça va bien.</i>
+
+745
+00:44:38,640 --> 00:44:39,640
+<i>S'il vous plaît?</i>
+
+746
+00:44:39,720 --> 00:44:43,520
+Basta, suficiente. Destruyes el idioma.
+
+747
+00:44:45,280 --> 00:44:47,000
+¿Adónde quieres ir?
+
+748
+00:44:48,560 --> 00:44:52,800
+- Al restaurante chino en Chapel Hill.
+- ¿Para comer papas fritas?
+
+749
+00:44:52,880 --> 00:44:56,040
+Es increíble.
+Papas con pimienta y salsa barbacoa.
+
+750
+00:44:56,120 --> 00:45:00,520
+- Quizá mayonesa en la hamburguesa.
+- Más vale que sea rico.
+
+751
+00:49:20,440 --> 00:49:22,840
+{\an8}Subtítulos: Sebastián Capano
+

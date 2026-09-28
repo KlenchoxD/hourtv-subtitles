@@ -1,0 +1,2509 @@
+1
+00:00:01,222 --> 00:00:02,845
+<i>A esta mujer le gustaba
+lanzar una moneda.</i>
+
+2
+00:00:03,045 --> 00:00:05,317
+<i>Me retaba a adivinar
+el resultado.</i>
+
+3
+00:00:05,517 --> 00:00:07,040
+<i>Para la buena suerte.</i>
+
+4
+00:00:07,240 --> 00:00:08,403
+<i>ANTERIORMENTE EN</i>
+
+5
+00:00:08,603 --> 00:00:11,590
+<i>Ellos son culpables, Kai.
+Por Reach. Por Vannak.</i>
+
+6
+00:00:11,790 --> 00:00:13,227
+<i>El Pacto es el culpable.</i>
+
+7
+00:00:13,427 --> 00:00:14,669
+<i>El Pacto no se llevó
+a nuestra armadura.</i>
+
+8
+00:00:14,869 --> 00:00:19,194
+<i>Siglos de trabajo, pueden arruinarse
+por los descuidos más pequeños.</i>
+
+9
+00:00:22,155 --> 00:00:23,705
+<i>¿Cómo me elegiste?</i>
+
+10
+00:00:23,905 --> 00:00:26,109
+<i>No te elegí.
+Te descubrí.</i>
+
+11
+00:00:26,309 --> 00:00:28,230
+<i>Nunca estás cuando
+pasa algo malo.</i>
+
+12
+00:00:28,430 --> 00:00:31,456
+<i>Huiste del programa Spartan.
+Huiste de Los Escombros.</i>
+
+13
+00:00:31,656 --> 00:00:33,807
+<i>- ¿Quién se llevó a Kessler?
+- La UNSC.</i>
+
+14
+00:00:34,007 --> 00:00:35,427
+<i>Siguen creando Spartans.</i>
+
+15
+00:00:35,627 --> 00:00:37,957
+<i>- ¿Qué es este lugar?
+- Las Termópilas.</i>
+
+16
+00:00:38,157 --> 00:00:41,150
+<i>Infíltrense a la nave.
+Conecten la espiga.</i>
+
+17
+00:00:43,423 --> 00:00:44,845
+<i>Reconozco esto.</i>
+
+18
+00:00:45,045 --> 00:00:46,709
+<i>¿Qué hace aquí?</i>
+
+19
+00:00:47,525 --> 00:00:49,170
+<i>¿Qué es este lugar?</i>
+
+20
+00:00:49,370 --> 00:00:50,943
+<i>Es donde empezó todo.</i>
+
+21
+00:00:51,143 --> 00:00:55,054
+<i>Sin tu investigación, no habría
+podido descubrir tu error.</i>
+
+22
+00:00:55,694 --> 00:00:59,222
+<i>Si usaras el artefacto para
+volver a proyectarte al Halo,</i>
+
+23
+00:00:59,422 --> 00:01:00,877
+<i>podrías determinar su
+ubicación en las estrellas.</i>
+
+24
+00:01:01,077 --> 00:01:04,247
+<i>- No puedo ir ahí, sin él.
+- Quizá yo pueda ser de ayuda.</i>
+
+25
+00:01:04,447 --> 00:01:05,719
+<i>Cortana...</i>
+
+26
+00:01:05,919 --> 00:01:08,163
+<i>El Pacto va a
+encontrar el Halo, Jefe.</i>
+
+27
+00:01:08,363 --> 00:01:11,036
+<i>Es imperativo que usted
+llegue ahí primero.</i>
+
+28
+00:01:11,236 --> 00:01:12,641
+<i>Tiene que tocar el artefacto.</i>
+
+29
+00:01:12,841 --> 00:01:14,828
+<i>Dijo que dejaron que
+destruyeran el planeta.</i>
+
+30
+00:01:15,028 --> 00:01:18,249
+<i>A veces, hay eventos fuera de
+nuestro control. No confíes en él.</i>
+
+31
+00:01:18,449 --> 00:01:21,320
+<i>Pero sí confío en él.
+Siempre lo he hecho.</i>
+
+32
+00:01:21,777 --> 00:01:24,988
+<i>La transmisión fue enviada
+desde ese aparato humano.</i>
+
+33
+00:01:25,188 --> 00:01:28,765
+<i>Mire en mi corazón.
+Jamás lo traicionaría.</i>
+
+34
+00:01:48,799 --> 00:01:52,176
+De niña, venía aquí
+en mi imaginación.
+
+35
+00:01:53,111 --> 00:01:54,546
+- Siempre pensé que...
+- Era un sueño.
+
+36
+00:01:54,746 --> 00:01:56,540
+Que estaba vivo.
+
+37
+00:01:57,285 --> 00:02:00,371
+Trato de entender
+qué quiere de mí.
+
+38
+00:02:02,040 --> 00:02:04,000
+¿Por qué yo?
+
+39
+00:02:04,878 --> 00:02:06,966
+¿Por qué tú?
+
+40
+00:02:09,311 --> 00:02:11,063
+Mírame.
+
+41
+00:02:19,381 --> 00:02:21,300
+Te vi.
+
+42
+00:02:21,711 --> 00:02:23,287
+En Reach.
+
+43
+00:02:23,487 --> 00:02:25,249
+Con los sangheili.
+
+44
+00:02:25,449 --> 00:02:28,167
+El Inquisidor es un soldado.
+
+45
+00:02:28,367 --> 00:02:29,112
+Como tú.
+
+46
+00:02:29,312 --> 00:02:31,464
+Llevaste al Pacto ahí.
+
+47
+00:02:31,664 --> 00:02:35,348
+Millones de personas.
+Muertas.
+
+48
+00:02:35,548 --> 00:02:38,467
+- Por tu culpa.
+- Por culpa de la guerra.
+
+49
+00:02:39,902 --> 00:02:42,101
+Si pudieras hacer cenizas
+Alta Caridad, ¿titubearías?
+
+50
+00:02:42,301 --> 00:02:44,510
+Es diferente.
+Tú eres humana.
+
+51
+00:02:44,710 --> 00:02:47,420
+¿Lo soy?
+¿Tú lo eres?
+
+52
+00:02:49,441 --> 00:02:51,954
+¿Y si no hay bandos?
+
+53
+00:02:52,154 --> 00:02:54,816
+Sólo vida y muerte,
+luz y oscuridad, nosotros y ellos.
+
+54
+00:02:55,016 --> 00:02:57,435
+No somos iguales.
+
+55
+00:03:01,545 --> 00:03:04,047
+No crees eso en realidad.
+
+56
+00:03:07,008 --> 00:03:09,344
+Necesitaba verte a los ojos.
+
+57
+00:03:10,558 --> 00:03:14,100
+Para saber que entiendes
+lo que tiene que hacerse.
+
+58
+00:03:18,399 --> 00:03:20,527
+Lo encontraste.
+
+59
+00:03:21,906 --> 00:03:23,899
+No puedes traer aquí al Pacto.
+
+60
+00:03:24,099 --> 00:03:25,875
+¿Lo entiendes?
+
+61
+00:03:26,075 --> 00:03:26,938
+Si controlan el Halo...
+
+62
+00:03:27,138 --> 00:03:29,468
+Aniquilarán a la humanidad.
+
+63
+00:03:29,668 --> 00:03:31,903
+Y si los humanos lo controlan,
+aniquilarán al Pacto.
+
+64
+00:03:32,103 --> 00:03:34,146
+Es lo único que saben hacer.
+
+65
+00:03:35,449 --> 00:03:37,669
+El Anillo no sólo destruye.
+
+66
+00:03:37,869 --> 00:03:42,175
+Contiene la semilla misma de la vida.
+Podemos construir un mundo aquí.
+
+67
+00:03:42,375 --> 00:03:45,020
+- Un lugar de paz.
+- No van a permitir eso.
+
+68
+00:03:45,220 --> 00:03:47,307
+No es su decisión.
+
+69
+00:03:48,601 --> 00:03:53,312
+El Anillo no les pertenece a ellos,
+nos pertenece a nosotros.
+
+70
+00:03:56,122 --> 00:04:01,042
+Ya me queda clara:
+La diferencia entre nosotros.
+
+71
+00:04:02,546 --> 00:04:04,628
+Tienes dudas.
+
+72
+00:04:09,733 --> 00:04:12,984
+Muévete.
+Tienes que moverte.
+
+73
+00:04:23,143 --> 00:04:25,228
+¡Todos fuera!
+
+74
+00:05:09,181 --> 00:05:10,677
+Eso no es nada amable.
+
+75
+00:05:10,877 --> 00:05:12,987
+¿Qué traición es esta?
+
+76
+00:05:13,187 --> 00:05:17,896
+Podría preguntarle
+lo mismo, Uto 'Mdama.
+
+77
+00:05:18,096 --> 00:05:20,375
+¿Me conoces?
+
+78
+00:05:20,575 --> 00:05:24,451
+Conozco muchas cosas, sacerdote.
+
+79
+00:05:25,481 --> 00:05:28,902
+¿Y la humana?
+
+80
+00:05:29,253 --> 00:05:34,132
+Me temo que tendrá
+que ser más específico.
+
+81
+00:05:34,408 --> 00:05:36,537
+La "Bendita".
+
+82
+00:05:37,647 --> 00:05:39,649
+Detrás de usted.
+
+83
+00:05:41,995 --> 00:05:44,286
+Lo bendigo.
+
+84
+00:05:52,336 --> 00:05:54,255
+¿Lo hallaste?
+
+85
+00:05:55,022 --> 00:05:58,193
+El mapa.
+Muéstramelo.
+
+86
+00:06:15,050 --> 00:06:16,718
+Ahí.
+
+87
+00:07:13,463 --> 00:07:16,560
+<i>Halo - S02E07
+Ripeo y arreglos por
+TaMaBin</i>
+
+88
+00:07:20,811 --> 00:07:23,747
+Supongo que tu equipo de ataque
+no pudo ubicar al Jefe Maestro.
+
+89
+00:07:23,947 --> 00:07:26,292
+Permíteme ayudarte.
+Está con el artefacto.
+
+90
+00:07:26,492 --> 00:07:28,868
+El equipo de la Capitana Briggs
+se aproximó al objetivo...
+
+91
+00:07:29,068 --> 00:07:31,621
+Si la gente se entera de que
+el Jefe Maestro está vivo,
+
+92
+00:07:31,821 --> 00:07:34,991
+habrá preguntas inconvenientes
+sobre Reach, ¿no crees?
+
+93
+00:07:35,191 --> 00:07:37,692
+Sobre quién supo qué y cuándo.
+
+94
+00:07:38,077 --> 00:07:39,720
+No nos tenemos que
+preocupar por eso.
+
+95
+00:07:39,920 --> 00:07:41,627
+¿Dijiste "nos"?
+
+96
+00:07:42,187 --> 00:07:44,107
+Tú estabas a cargo.
+
+97
+00:07:44,307 --> 00:07:46,807
+Actuando bajo sus órdenes.
+
+98
+00:07:47,392 --> 00:07:50,391
+Pero ni siquiera soy parte
+de la Inteligencia Naval.
+
+99
+00:07:51,170 --> 00:07:55,039
+- ¿Por qué la demora? ¿Y la flota?
+- Ya está en línea, señora.
+
+100
+00:07:55,239 --> 00:07:57,902
+Recuperamos la señal.
+Seguimos al crucero del Pacto.
+
+101
+00:07:58,102 --> 00:08:01,397
+Acaba de salir del salto
+espacial en el Sistema Soell.
+
+102
+00:08:03,331 --> 00:08:05,747
+Es un grupo de batalla del Pacto.
+
+103
+00:08:06,583 --> 00:08:10,628
+Es toda la Primera Flota
+del Acuerdo Solemne.
+
+104
+00:08:11,962 --> 00:08:13,990
+- ¿Qué está pasando?
+- Es la señal.
+
+105
+00:08:14,190 --> 00:08:17,084
+Hay mucha energía proveniente
+del centro del sistema.
+
+106
+00:08:17,284 --> 00:08:20,409
+Erupción solar, actividad nova,
+un agujero negro...
+
+107
+00:08:22,205 --> 00:08:23,356
+Contacten al Almirante Stanforth.
+
+108
+00:08:23,556 --> 00:08:26,240
+Que despache a la Flota
+de la UNSC, del Sector 3.
+
+109
+00:08:26,440 --> 00:08:28,356
+Prepara a los Spartan-III.
+
+110
+00:08:29,937 --> 00:08:33,323
+Mis Spartan-III están entrenados
+para misiones especializadas.
+
+111
+00:08:33,523 --> 00:08:34,974
+Dijiste que estaban listos.
+
+112
+00:08:35,174 --> 00:08:37,109
+Son soldados de élite.
+
+113
+00:08:37,309 --> 00:08:39,012
+No están diseñados para atacar
+a la flota del Pacto, sin...
+
+114
+00:08:39,212 --> 00:08:42,296
+Tu trabajo es prepararlos,
+yo decido cómo usarlos.
+
+115
+00:08:43,405 --> 00:08:47,116
+Si eso es todo, te sugiero
+que lo encuentres.
+
+116
+00:08:55,105 --> 00:08:57,442
+No es un agujero negro.
+
+117
+00:09:19,017 --> 00:09:21,935
+John-117, alto ahí.
+
+118
+00:09:23,774 --> 00:09:27,092
+De rodillas. Tenemos
+órdenes de arrestarte.
+
+119
+00:09:27,292 --> 00:09:31,045
+- Esas no son sus órdenes.
+- Se está resistiendo. Derríbalo.
+
+120
+00:09:31,503 --> 00:09:34,046
+Dije que lo derribes.
+
+121
+00:09:35,050 --> 00:09:37,091
+Dispárale.
+
+122
+00:09:39,635 --> 00:09:42,189
+He estado de ese lado del arma.
+
+123
+00:09:42,389 --> 00:09:45,365
+No hacía preguntas.
+No quería saber.
+
+124
+00:09:45,565 --> 00:09:46,999
+Jala el gatillo.
+
+125
+00:09:47,199 --> 00:09:49,401
+Pero siempre lo sabemos.
+¿No es así?
+
+126
+00:09:49,601 --> 00:09:50,863
+Le di una orden, Teniente.
+
+127
+00:09:51,063 --> 00:09:54,149
+No quiere dispararme,
+por eso te lo pide a ti.
+
+128
+00:09:55,132 --> 00:10:00,342
+Pero si me vas a matar,
+al menos mírame a los ojos.
+
+129
+00:10:06,598 --> 00:10:10,018
+¿Qué están haciendo?
+Les dije que lo derribaran.
+
+130
+00:10:11,260 --> 00:10:12,928
+Hágalo usted.
+
+131
+00:10:16,357 --> 00:10:18,023
+¡Alto ahí!
+
+132
+00:10:21,229 --> 00:10:23,354
+No te pedí ayuda.
+
+133
+00:10:24,949 --> 00:10:26,905
+¿Tú ibas a hacerlo?
+
+134
+00:10:30,888 --> 00:10:33,006
+La estructura puede
+estar inestable, vámonos.
+
+135
+00:10:33,206 --> 00:10:34,499
+Yo me voy a quedar.
+
+136
+00:10:34,699 --> 00:10:37,774
+Quien haya diseñado este
+complejo, creó el Halo.
+
+137
+00:10:37,974 --> 00:10:39,344
+¿Qué es este lugar?
+
+138
+00:10:39,544 --> 00:10:41,846
+Es un almacén de conocimiento,
+como una biblioteca.
+
+139
+00:10:42,046 --> 00:10:43,255
+O un lugar religioso.
+
+140
+00:10:43,455 --> 00:10:46,034
+Como la científica en jefe
+original del proyecto,
+
+141
+00:10:46,234 --> 00:10:49,711
+te aseguro que es una biblioteca.
+Por eso los muros en forma de nodo.
+
+142
+00:10:49,911 --> 00:10:51,753
+Como en una Iglesia o capilla.
+
+143
+00:10:51,953 --> 00:10:55,368
+Ya entendí.
+No tienen ni idea.
+
+144
+00:10:55,568 --> 00:10:57,817
+Gracias.
+
+145
+00:10:59,267 --> 00:11:01,380
+Mencionaste algo de un error.
+
+146
+00:11:01,580 --> 00:11:02,346
+¿Sí?
+
+147
+00:11:02,546 --> 00:11:04,880
+Sí, dijiste que cometí un error.
+
+148
+00:11:05,166 --> 00:11:06,942
+Cuando resolviste el
+primer código, hace tiempo,
+
+149
+00:11:07,142 --> 00:11:10,019
+fue según los
+principios que conocías:
+
+150
+00:11:10,395 --> 00:11:14,673
+Datos, Matemáticas...
+y abriste el primer nicho.
+
+151
+00:11:14,873 --> 00:11:15,725
+Sencillo.
+
+152
+00:11:15,925 --> 00:11:18,627
+No fue sencillo.
+Me tomó semanas resolverlo.
+
+153
+00:11:18,827 --> 00:11:20,494
+Cuatro meses.
+
+154
+00:11:20,795 --> 00:11:23,214
+Tengo tus notas, ¿recuerdas?
+
+155
+00:11:24,324 --> 00:11:25,832
+Abriste este.
+
+156
+00:11:26,032 --> 00:11:30,652
+Pero pasaste por alto que
+el código no sólo es matemático.
+
+157
+00:11:30,852 --> 00:11:33,898
+También es lingüístico.
+
+158
+00:11:34,506 --> 00:11:36,873
+En este caso, un complejo
+sistema ideográfico...
+
+159
+00:11:37,073 --> 00:11:39,504
+con varios rasgos logográficos,
+algunos fonemas...
+
+160
+00:11:39,704 --> 00:11:42,161
+¿Crees que esto tarde mucho?
+
+161
+00:11:42,573 --> 00:11:44,947
+Tardará menos de cuatro meses.
+
+162
+00:11:54,531 --> 00:11:56,256
+¿Qué había dentro?
+
+163
+00:11:56,456 --> 00:11:58,126
+Tú primero.
+
+164
+00:11:59,337 --> 00:12:02,128
+Lo que hallaste no
+estaba en tus notas.
+
+165
+00:12:02,480 --> 00:12:04,272
+Dime.
+
+166
+00:12:04,632 --> 00:12:06,421
+ADN.
+
+167
+00:12:07,010 --> 00:12:10,969
+De ellos.
+Y de nosotros.
+
+168
+00:12:22,047 --> 00:12:24,934
+Tengo al Comandante del
+Condor líder. Se llama Bookman.
+
+169
+00:12:25,134 --> 00:12:26,968
+Comunícame.
+
+170
+00:12:28,569 --> 00:12:31,637
+Comandante Bookman, habla
+la Almirante Parangosky.
+
+171
+00:12:31,837 --> 00:12:33,305
+¿Su equipo me escucha?
+
+172
+00:12:33,505 --> 00:12:34,491
+Sí, señora.
+
+173
+00:12:34,691 --> 00:12:35,634
+Enseñémosle a nuestro enemigo...
+
+174
+00:12:35,834 --> 00:12:38,419
+que meterse con la humanidad
+tiene un precio.
+
+175
+00:12:38,619 --> 00:12:41,113
+Le pido que les haga
+llegar la cuenta.
+
+176
+00:12:41,313 --> 00:12:42,478
+¿Puede hacerlo?
+
+177
+00:12:42,678 --> 00:12:45,243
+Sí, señora. Equipo Flecha:
+Listos, a mi orden.
+
+178
+00:12:45,443 --> 00:12:46,717
+Que Dios los acompañe.
+
+179
+00:12:46,917 --> 00:12:48,959
+¡Spartans, en la barra!
+
+180
+00:12:52,782 --> 00:12:55,613
+Condor Hotel-Tango-3,
+responda.
+
+181
+00:12:56,734 --> 00:13:00,227
+Condor Charlie-November-2,
+revisando radio.
+
+182
+00:13:00,427 --> 00:13:03,763
+A todos los Condors,
+les habla Control Onyx. Cambio.
+
+183
+00:13:04,433 --> 00:13:06,725
+Cualquier Condor, responda.
+
+184
+00:13:07,393 --> 00:13:09,733
+- Desplieguen la segunda ola.
+- Sí, Almirante.
+
+185
+00:13:09,933 --> 00:13:11,439
+¿Qué? No, arrasaron
+con la primera ola,
+
+186
+00:13:11,639 --> 00:13:14,332
+¿y quiere mandar más?
+¿Qué espera que vaya a pasar?
+
+187
+00:13:14,532 --> 00:13:16,572
+Espero que sigan órdenes.
+
+188
+00:13:17,902 --> 00:13:19,578
+Almirante.
+
+189
+00:13:19,778 --> 00:13:21,695
+No lo haga.
+
+190
+00:13:22,071 --> 00:13:24,247
+Dime en cuanto nuestros Condors
+salgan del salto espacial.
+
+191
+00:13:24,447 --> 00:13:26,100
+Esto es demente.
+
+192
+00:13:26,300 --> 00:13:28,587
+¿A cuántos Spartan-III
+está dispuesta a sacrificar?
+
+193
+00:13:28,787 --> 00:13:30,537
+A todos.
+
+194
+00:13:31,123 --> 00:13:32,991
+Esta no es otra
+batalla cualquiera.
+
+195
+00:13:33,191 --> 00:13:35,617
+¿Qué crees que hay en
+el centro de ese sistema?
+
+196
+00:13:35,817 --> 00:13:40,511
+Si el Pacto se apodera del Halo,
+no habrá más batallas.
+
+197
+00:13:40,711 --> 00:13:43,588
+No habrá más días.
+
+198
+00:13:59,508 --> 00:14:01,632
+¿A dónde vamos?
+
+199
+00:14:03,342 --> 00:14:06,119
+Nos trajeron a un
+lugar como este.
+
+200
+00:14:06,319 --> 00:14:08,164
+Éramos niños.
+
+201
+00:14:08,364 --> 00:14:10,332
+Los entrenadores...
+
+202
+00:14:10,532 --> 00:14:15,120
+nos dijeron que el objetivo
+era defender el paso.
+
+203
+00:14:15,395 --> 00:14:17,647
+Pero no era eso.
+
+204
+00:14:18,873 --> 00:14:20,384
+¿Cuál era el objetivo?
+
+205
+00:14:20,584 --> 00:14:24,998
+Aprender qué significaba
+llamarte Spartan.
+
+206
+00:14:25,198 --> 00:14:27,408
+Peleé con todas mis fuerzas.
+
+207
+00:14:27,693 --> 00:14:28,999
+Eran soldados.
+
+208
+00:14:29,199 --> 00:14:32,994
+Eran muy altos y rápidos.
+Tenían garrotes.
+
+209
+00:14:33,222 --> 00:14:37,165
+Teníamos dos opciones: Quedarnos
+parados a desangrarnos...
+
+210
+00:14:37,365 --> 00:14:39,909
+o huir.
+La mayoría huyó.
+
+211
+00:14:40,253 --> 00:14:42,794
+Hasta que estás en
+una situación así...
+
+212
+00:14:43,881 --> 00:14:46,800
+no sabes qué tipo
+de persona eres.
+
+213
+00:14:47,342 --> 00:14:49,310
+Yo no era valiente.
+
+214
+00:14:49,510 --> 00:14:55,183
+Sólo seguí avanzando
+mientras otros regresaban.
+
+215
+00:14:56,143 --> 00:14:59,403
+A la tercera noche,
+sólo quedábamos cinco.
+
+216
+00:14:59,603 --> 00:15:02,540
+Yo, Riz...
+
+217
+00:15:02,740 --> 00:15:07,201
+Vannak, Kai, John.
+
+218
+00:15:09,470 --> 00:15:11,182
+Nos defendimos...
+
+219
+00:15:12,799 --> 00:15:14,633
+juntos.
+
+220
+00:15:18,206 --> 00:15:20,875
+Y peleamos juntos.
+
+221
+00:15:24,252 --> 00:15:26,670
+Y perdimos...
+
+222
+00:15:28,220 --> 00:15:30,600
+juntos.
+
+223
+00:15:38,030 --> 00:15:40,908
+¿Qué vamos a hacer con Kessler?
+
+224
+00:15:45,160 --> 00:15:46,465
+Nada.
+
+225
+00:15:46,665 --> 00:15:47,850
+¿Qué?
+
+226
+00:15:48,050 --> 00:15:50,468
+Esta es su noche.
+
+227
+00:15:50,727 --> 00:15:51,828
+¿Qué estás diciendo?
+
+228
+00:15:52,028 --> 00:15:56,700
+Si le quitamos esto, nunca
+sabrá qué clase de persona es.
+
+229
+00:15:56,924 --> 00:15:58,152
+¿Qué diablos te hicieron?
+
+230
+00:15:58,352 --> 00:16:02,029
+¿Te refieres a quienes se quedaron
+conmigo, pasara lo que pasara?
+
+231
+00:16:02,229 --> 00:16:04,854
+¡Yo estoy contigo,
+pase lo que pase!
+
+232
+00:16:09,877 --> 00:16:13,530
+Todo ese tiempo que pasaste
+obsesionado con Halsey...
+
+233
+00:16:13,730 --> 00:16:16,676
+no era para que se
+hiciera justicia.
+
+234
+00:16:16,876 --> 00:16:19,586
+Lo que querías era volver.
+
+235
+00:16:20,654 --> 00:16:23,063
+Ser Spartan significaba algo.
+
+236
+00:16:23,263 --> 00:16:26,642
+No eres Spartan.
+
+237
+00:16:27,603 --> 00:16:31,604
+Tienes una vida.
+
+238
+00:16:31,831 --> 00:16:34,036
+Tienes un matrimonio.
+
+239
+00:16:34,236 --> 00:16:36,650
+Tienes un hijo.
+
+240
+00:16:37,387 --> 00:16:41,040
+Y ni loca voy a
+dejar que lo lastimen.
+
+241
+00:16:41,240 --> 00:16:43,001
+Él no pertenece a este lugar.
+
+242
+00:16:43,201 --> 00:16:45,362
+No dejaré que lo
+conviertan en asesino.
+
+243
+00:16:45,562 --> 00:16:46,812
+Ni siquiera tú.
+
+244
+00:16:47,012 --> 00:16:49,929
+- Laera...
+- Cállate.
+
+245
+00:17:01,242 --> 00:17:04,328
+- Relájate.
+- No siento los dedos.
+
+246
+00:17:04,528 --> 00:17:06,229
+Respira.
+
+247
+00:17:06,429 --> 00:17:08,305
+Todo está bien.
+
+248
+00:17:08,505 --> 00:17:10,720
+Voy a echarlo todo a perder.
+
+249
+00:17:11,712 --> 00:17:13,571
+Metí la pata en la
+última simulación.
+
+250
+00:17:13,771 --> 00:17:17,066
+Tranquila.
+Todo va a estar bien.
+
+251
+00:17:19,227 --> 00:17:21,561
+Estoy segura de que voy a morir.
+
+252
+00:17:23,113 --> 00:17:26,364
+Te da miedo tener miedo.
+
+253
+00:17:26,966 --> 00:17:29,020
+Cuando empiece a volar el plasma,
+
+254
+00:17:29,220 --> 00:17:32,270
+no tendrás tiempo de
+sentir miedo por ti.
+
+255
+00:17:32,470 --> 00:17:37,101
+Porque vas a sentir miedo por mí,
+y yo voy a sentir miedo por ti.
+
+256
+00:17:37,420 --> 00:17:40,280
+Te voy a cuidar las
+espaldas todo el tiempo.
+
+257
+00:17:40,480 --> 00:17:43,065
+Así que más te vale
+cuidármelas a mí.
+
+258
+00:17:45,777 --> 00:17:47,653
+¿Entendido?
+
+259
+00:17:50,237 --> 00:17:51,615
+Sí.
+
+260
+00:17:51,815 --> 00:17:54,183
+Grupo Delta: Prepárese
+para el lanzamiento.
+
+261
+00:17:54,383 --> 00:17:56,886
+Grupo Gamma: En espera.
+
+262
+00:17:57,203 --> 00:18:00,246
+- Gamma: En espera para lanzamiento.
+- John.
+
+263
+00:18:04,029 --> 00:18:06,080
+Mira, no todo es mi culpa.
+
+264
+00:18:06,280 --> 00:18:07,480
+Nos mentiste.
+
+265
+00:18:07,680 --> 00:18:10,389
+Nos pusiste en riesgo.
+Hiciste que nos desautorizaran.
+
+266
+00:18:10,589 --> 00:18:12,551
+¿Cómo...
+
+267
+00:18:12,845 --> 00:18:15,520
+Intenté ayudarte,
+pero no me escuchabas.
+
+268
+00:18:15,720 --> 00:18:17,672
+Tenía que tomar una decisión.
+
+269
+00:18:17,872 --> 00:18:20,330
+Pues elegiste mal.
+
+270
+00:18:21,334 --> 00:18:24,713
+Confiaste en personas
+que nos quieren muertos.
+
+271
+00:18:27,799 --> 00:18:30,089
+Me equivoqué.
+
+272
+00:18:30,678 --> 00:18:34,804
+Tal vez no sepas qué se siente,
+pero los humanos cometemos errores.
+
+273
+00:18:36,324 --> 00:18:38,367
+No deberíamos estar aquí.
+
+274
+00:18:40,312 --> 00:18:42,089
+¿A dónde vamos?
+
+275
+00:18:42,289 --> 00:18:44,032
+- ¿John?
+- Necesito mi traje.
+
+276
+00:18:44,232 --> 00:18:48,105
+- ¿No sabes dónde está?
+- No. Pero ella sí.
+
+277
+00:18:49,431 --> 00:18:51,563
+Incluso entonces, entendí
+lo que significaba.
+
+278
+00:18:51,763 --> 00:18:54,948
+El ADN que hallé en esa bóveda
+era humano y no era humano.
+
+279
+00:18:55,148 --> 00:18:56,867
+- ¿Una mutación?
+- Una posibilidad.
+
+280
+00:18:57,067 --> 00:19:01,481
+Una invitación a desatar todo
+el potencial de nuestra especie.
+
+281
+00:19:01,681 --> 00:19:05,050
+Así que empecé a buscar.
+Armé un equipo.
+
+282
+00:19:05,250 --> 00:19:07,061
+Buscamos a gente
+en toda la galaxia...
+
+283
+00:19:07,261 --> 00:19:10,273
+que mostrara rastros de la
+secuencia genética hallada aquí.
+
+284
+00:19:10,473 --> 00:19:12,431
+Secuestraste niños.
+
+285
+00:19:13,840 --> 00:19:16,813
+Necesitaba Spartans.
+Igual que todos.
+
+286
+00:19:17,013 --> 00:19:19,429
+¿Quién más sabe de esto?
+
+287
+00:19:22,825 --> 00:19:25,241
+Muéstrame lo que hallaste.
+
+288
+00:19:32,649 --> 00:19:35,319
+Sea lo que sea, debe ser valioso.
+
+289
+00:20:05,739 --> 00:20:10,335
+Computadora, dame los mismos
+parámetros de la simulación.
+
+290
+00:20:10,535 --> 00:20:12,339
+Expandir escala.
+
+291
+00:20:12,539 --> 00:20:14,550
+Planetaria.
+
+292
+00:20:14,750 --> 00:20:16,414
+Iniciar.
+
+293
+00:20:18,652 --> 00:20:20,485
+<i>SIMULACIÓN COMPLETA</i>
+
+294
+00:20:21,299 --> 00:20:23,098
+Expandir escala.
+
+295
+00:20:23,298 --> 00:20:25,460
+Sistema Solar.
+
+296
+00:20:25,660 --> 00:20:27,325
+Iniciar.
+
+297
+00:20:31,372 --> 00:20:33,081
+<i>SIMULACIÓN COMPLETA</i>
+
+298
+00:20:40,632 --> 00:20:41,739
+Gracias, Cortana.
+
+299
+00:20:41,939 --> 00:20:45,234
+¡Espera!
+John, no. John...
+
+300
+00:20:48,607 --> 00:20:51,611
+Dame una razón para no
+matarlo en este momento.
+
+301
+00:20:51,811 --> 00:20:53,569
+Honestamente, no se
+me ocurre nada.
+
+302
+00:20:53,769 --> 00:20:55,603
+No.
+
+303
+00:20:57,823 --> 00:21:01,654
+¿Dónde... está mi armadura?
+
+304
+00:21:01,854 --> 00:21:05,540
+Yo sé dónde está.
+Puedo traértela.
+
+305
+00:21:05,740 --> 00:21:06,656
+Dime.
+
+306
+00:21:06,856 --> 00:21:09,291
+Está asegurada biométricamente.
+
+307
+00:21:09,491 --> 00:21:11,659
+Necesitamos su cara.
+
+308
+00:21:11,944 --> 00:21:13,693
+¿Unida al cuerpo?
+
+309
+00:21:18,916 --> 00:21:21,736
+Parangosky mintió
+respecto a la espiga.
+
+310
+00:21:21,936 --> 00:21:24,507
+No hace lo que les dijimos.
+
+311
+00:21:24,707 --> 00:21:26,375
+Vamos.
+
+312
+00:21:26,900 --> 00:21:28,784
+No es una anulación.
+
+313
+00:21:28,984 --> 00:21:31,537
+El virus comprime la fusión
+del impulso de la nave,
+
+314
+00:21:31,737 --> 00:21:33,716
+creando una reacción lo
+suficientemente poderosa...
+
+315
+00:21:33,916 --> 00:21:35,873
+como para incinerar todo
+a millones de km.
+
+316
+00:21:36,073 --> 00:21:36,816
+¿Qué?
+
+317
+00:21:37,016 --> 00:21:39,129
+Su flota.
+Nuestra flota.
+
+318
+00:21:39,329 --> 00:21:41,604
+Tal vez hasta el Halo mismo.
+
+319
+00:21:41,804 --> 00:21:44,991
+Parangosky está aventando Spartan-III
+a la flota del Pacto, en manadas...
+
+320
+00:21:45,191 --> 00:21:47,370
+porque no necesita que
+todos logren su objetivo.
+
+321
+00:21:47,570 --> 00:21:51,194
+Sólo necesita a uno.
+
+322
+00:21:51,466 --> 00:21:54,269
+A un sólo equipo.
+Una sola espiga.
+
+323
+00:21:54,469 --> 00:21:56,187
+Una sola nave.
+
+324
+00:21:56,387 --> 00:21:59,729
+Los Spartans son la póliza
+de seguro de Parangosky.
+
+325
+00:21:59,929 --> 00:22:01,665
+Su plan de respaldo.
+
+326
+00:22:01,865 --> 00:22:04,995
+Si perdemos esta batalla contra
+el Pacto, perderemos el Halo.
+
+327
+00:22:05,195 --> 00:22:09,030
+Pero con la espiga de
+Parangosky, ellos también.
+
+328
+00:22:10,819 --> 00:22:14,485
+¿Desde cuándo te
+importan los Spartans?
+
+329
+00:22:15,403 --> 00:22:18,572
+Estos Spartans son el
+trabajo de toda mi vida.
+
+330
+00:22:22,200 --> 00:22:24,076
+Ya había oído eso antes.
+
+331
+00:22:31,779 --> 00:22:33,945
+¿Qué le pasó...
+
+332
+00:22:34,445 --> 00:22:36,529
+a mi papá?
+
+333
+00:22:42,053 --> 00:22:45,763
+Dijeron que se quedó.
+En Reach.
+
+334
+00:22:47,475 --> 00:22:50,017
+Ya sabes cómo es tu padre.
+
+335
+00:22:50,730 --> 00:22:53,479
+No iba a irse.
+
+336
+00:22:54,270 --> 00:22:56,920
+Hay sobrevivientes dispersados
+por toda la galaxia.
+
+337
+00:22:57,120 --> 00:22:59,119
+Podría ser uno de ellos.
+
+338
+00:23:01,353 --> 00:23:03,480
+Lo vi con mis propios ojos.
+
+339
+00:23:04,620 --> 00:23:07,785
+Miranda, lo vi.
+
+340
+00:23:08,287 --> 00:23:10,537
+Al final.
+
+341
+00:23:14,335 --> 00:23:15,844
+No.
+
+342
+00:23:16,044 --> 00:23:18,503
+Espera. Miranda.
+
+343
+00:23:50,851 --> 00:23:53,270
+Vaya, qué cosa.
+
+344
+00:23:54,020 --> 00:23:57,479
+No eran sólo Matemáticas
+y Lingüística.
+
+345
+00:23:59,735 --> 00:24:02,069
+Estas son estrellas.
+
+346
+00:24:18,328 --> 00:24:20,246
+Sector Cuatro.
+
+347
+00:25:01,339 --> 00:25:03,546
+No pude salvarlo.
+
+348
+00:25:08,011 --> 00:25:12,724
+Vannak volteó a verme.
+Y no entendía.
+
+349
+00:25:13,312 --> 00:25:15,687
+Cómo había llegado a eso.
+
+350
+00:25:16,274 --> 00:25:18,648
+No tenía miedo.
+
+351
+00:25:19,151 --> 00:25:21,526
+Sólo no lo entendía.
+
+352
+00:25:23,494 --> 00:25:25,785
+¿Qué vamos a hacer?
+
+353
+00:25:29,205 --> 00:25:32,343
+Pues yo vine a hacerte
+un agujero en el pecho.
+
+354
+00:25:32,543 --> 00:25:36,671
+A ver cómo se te iba la vida,
+como a mi amigo.
+
+355
+00:25:39,984 --> 00:25:41,771
+Yo no di las órdenes en Reach.
+
+356
+00:25:41,971 --> 00:25:44,180
+Pero las seguiste.
+
+357
+00:25:44,616 --> 00:25:47,155
+Y yo te seguí a ti.
+
+358
+00:25:52,610 --> 00:25:58,874
+Les vas a decir a todos
+lo que hizo Parangosky.
+
+359
+00:25:59,074 --> 00:26:01,367
+En Reach.
+
+360
+00:26:02,578 --> 00:26:05,714
+Y también vas a contar
+la verdad de lo que hiciste.
+
+361
+00:26:05,914 --> 00:26:08,747
+Será mi palabra contra
+la suya. No tengo pruebas.
+
+362
+00:26:08,947 --> 00:26:10,638
+Yo soy la prueba.
+
+363
+00:26:10,838 --> 00:26:13,433
+En cuanto salga de aquí
+con ese traje,
+
+364
+00:26:13,633 --> 00:26:16,958
+todo lo que Parangosky hizo,
+todo lo que dijo,
+
+365
+00:26:17,158 --> 00:26:19,198
+será una mentira.
+
+366
+00:26:21,201 --> 00:26:23,988
+Yo también quedaré destruido.
+
+367
+00:26:24,188 --> 00:26:26,451
+Todo tiene un precio.
+
+368
+00:26:26,651 --> 00:26:29,234
+Incluso si no puedes verlo.
+
+369
+00:26:29,529 --> 00:26:32,362
+Eso es lo que ustedes
+nunca entienden.
+
+370
+00:26:32,782 --> 00:26:35,877
+Alguien siempre termina
+pagando el precio.
+
+371
+00:26:36,077 --> 00:26:38,497
+Esta vez, serás tú.
+
+372
+00:27:04,530 --> 00:27:07,737
+Esa constelación
+es la Red de Veles.
+
+373
+00:27:08,366 --> 00:27:10,073
+Sí.
+
+374
+00:27:11,037 --> 00:27:13,914
+Y esa es el Ala de Loviatar.
+
+375
+00:27:17,003 --> 00:27:20,044
+Y la Gran Cruz es la pieza final.
+
+376
+00:27:26,598 --> 00:27:28,638
+No está pasando nada.
+
+377
+00:27:29,264 --> 00:27:31,136
+Debimos haber
+pasado algo por alto.
+
+378
+00:27:31,336 --> 00:27:33,671
+El código es una prueba.
+
+379
+00:27:34,064 --> 00:27:37,793
+¿Compartimos su entendimiento
+de las Matemáticas?
+
+380
+00:27:37,993 --> 00:27:39,663
+¿De la biología?
+
+381
+00:27:40,823 --> 00:27:43,159
+¿Nos comunicamos igual que ellos?
+
+382
+00:27:43,743 --> 00:27:48,245
+¿Exploramos de la misma
+forma en que ellos exploraron?
+
+383
+00:27:49,459 --> 00:27:51,835
+¿Somos curiosos?
+
+384
+00:27:52,919 --> 00:27:54,920
+No es un mapa.
+
+385
+00:27:57,000 --> 00:27:58,960
+Es un reloj.
+
+386
+00:28:01,790 --> 00:28:02,985
+¿Qué?
+
+387
+00:28:03,185 --> 00:28:06,977
+Proyecta las estrellas como son,
+como nosotros las vemos...
+
+388
+00:28:07,303 --> 00:28:10,392
+pero este no es su cielo.
+
+389
+00:28:18,892 --> 00:28:20,897
+¿Qué haces?
+
+390
+00:28:22,331 --> 00:28:23,997
+Las estrellas...
+
+391
+00:28:26,416 --> 00:28:28,599
+con el tiempo, se mueven.
+
+392
+00:28:28,799 --> 00:28:32,215
+Millones de años.
+
+393
+00:28:39,559 --> 00:28:41,604
+¿Cómo sabes dónde van?
+
+394
+00:28:41,804 --> 00:28:44,074
+Ya lo he visto.
+
+395
+00:28:44,274 --> 00:28:46,482
+¿Has visto qué?
+
+396
+00:28:47,737 --> 00:28:49,697
+Sus estrellas.
+
+397
+00:28:55,063 --> 00:28:57,271
+Era como un sueño.
+
+398
+00:29:35,713 --> 00:29:38,631
+- Espera.
+- Debe ser una broma.
+
+399
+00:30:02,382 --> 00:30:04,929
+Espera. ¿Y si...
+
+400
+00:30:12,838 --> 00:30:15,051
+¿Vienen o no?
+
+401
+00:30:17,270 --> 00:30:19,146
+Sabes qué tenemos que hacer.
+
+402
+00:30:19,346 --> 00:30:20,590
+No es tan sencillo.
+
+403
+00:30:20,790 --> 00:30:22,820
+Oíste lo que dijo Ackerson.
+
+404
+00:30:23,020 --> 00:30:25,191
+Parangosky está lanzando
+a los Spartan-III al fuego.
+
+405
+00:30:25,391 --> 00:30:28,224
+- Hay que ir con ellos.
+- No puedo acompañarte.
+
+406
+00:30:28,648 --> 00:30:29,995
+¿Por qué no?
+
+407
+00:30:30,195 --> 00:30:32,205
+Porque Parangosky
+tiene razón, Kai.
+
+408
+00:30:32,405 --> 00:30:34,843
+- ¿De qué estás hablando?
+- No digo que no importe.
+
+409
+00:30:35,043 --> 00:30:37,361
+No digo que no duela.
+Pero si perdemos el Halo...
+
+410
+00:30:37,561 --> 00:30:40,849
+Oíste lo que dijo.
+Se trata de toda una flota.
+
+411
+00:30:41,049 --> 00:30:44,467
+Se trata del fin de todo.
+
+412
+00:30:44,795 --> 00:30:46,055
+El Halo tiene más
+de un propósito,
+
+413
+00:30:46,255 --> 00:30:50,157
+pero, en las manos
+equivocadas, es un arma.
+
+414
+00:30:50,701 --> 00:30:53,123
+Yo iré con ellos.
+
+415
+00:30:53,430 --> 00:30:55,430
+Son míos.
+
+416
+00:30:55,682 --> 00:30:58,360
+No puedo dejarlos ir sólos.
+
+417
+00:30:58,560 --> 00:31:00,856
+Tengo que estar ahí.
+
+418
+00:31:01,066 --> 00:31:03,066
+Lo sé.
+
+419
+00:31:07,348 --> 00:31:09,390
+Sí, al final...
+
+420
+00:31:11,994 --> 00:31:16,621
+tú eres la que tiene
+la espiga en la mano...
+
+421
+00:31:18,837 --> 00:31:21,349
+Sólo llega al Halo.
+
+422
+00:31:21,549 --> 00:31:23,757
+Pase lo que pase.
+
+423
+00:31:34,269 --> 00:31:38,024
+Esos símbolos... ¿qué dicen?
+
+424
+00:31:38,845 --> 00:31:40,903
+Nunca había visto ese.
+
+425
+00:31:41,103 --> 00:31:42,673
+El segmento central
+se parece al ideograma...
+
+426
+00:31:42,873 --> 00:31:44,369
+de "crecimiento"
+o "renacimiento",
+
+427
+00:31:44,569 --> 00:31:47,713
+pero el símbolo de arriba suele
+tener connotaciones negativas.
+
+428
+00:31:47,913 --> 00:31:50,467
+Por su posición, tal vez
+modifique al otro símbolo.
+
+429
+00:31:50,667 --> 00:31:54,711
+Podría significar cualquier cosa:
+"Cambio", "división", "decadencia"...
+
+430
+00:32:25,651 --> 00:32:27,693
+Es una tumba.
+
+431
+00:32:27,986 --> 00:32:30,015
+No es una tumba.
+
+432
+00:32:30,215 --> 00:32:32,967
+Es un laboratorio.
+
+433
+00:32:46,833 --> 00:32:49,209
+Y ese...
+
+434
+00:32:56,521 --> 00:32:59,190
+es un científico.
+
+435
+00:33:01,568 --> 00:33:03,485
+Es casi humano.
+
+436
+00:33:07,244 --> 00:33:09,069
+No lo toques.
+
+437
+00:33:09,269 --> 00:33:11,187
+Tiene algo en la mano.
+
+438
+00:33:14,207 --> 00:33:16,042
+Esperen.
+
+439
+00:33:24,715 --> 00:33:25,532
+¡Tenemos que irnos!
+
+440
+00:33:25,732 --> 00:33:28,024
+Halsey. Vámonos.
+
+441
+00:33:29,159 --> 00:33:31,703
+- ¡Fuera!
+- Miranda...
+
+442
+00:33:34,986 --> 00:33:36,860
+¡Rápido!
+
+443
+00:33:45,246 --> 00:33:47,790
+- Miren.
+- Halsey.
+
+444
+00:33:49,109 --> 00:33:50,693
+Miren, es...
+
+445
+00:33:50,893 --> 00:33:52,386
+- ¡Halsey!
+- ¿Qué, no ven?
+
+446
+00:33:52,586 --> 00:33:55,002
+¡Tenemos que irnos!
+¡Halsey!
+
+447
+00:33:55,202 --> 00:33:57,970
+¡Vamos!
+¡Rápido, vamos!
+
+448
+00:33:58,170 --> 00:33:59,835
+¡Mamá!
+
+449
+00:34:00,111 --> 00:34:01,952
+¡Por favor!
+
+450
+00:34:14,973 --> 00:34:17,160
+Tenemos que volver.
+Era una ciudad.
+
+451
+00:34:17,360 --> 00:34:18,274
+¡Una ciudad!
+
+452
+00:34:18,474 --> 00:34:21,733
+Imagínense la tecnología,
+el ingenio requerido para...
+
+453
+00:34:21,933 --> 00:34:23,092
+¿Qué está pasando?
+
+454
+00:34:23,292 --> 00:34:24,902
+Es hermoso.
+
+455
+00:34:25,102 --> 00:34:26,388
+Se está esparciendo.
+
+456
+00:34:26,588 --> 00:34:31,436
+Es su historia. La historia
+de su Imperio en expansión.
+
+457
+00:34:31,636 --> 00:34:34,221
+Todos los mundos que conocieron.
+
+458
+00:34:36,350 --> 00:34:37,775
+"Crecimiento".
+
+459
+00:34:37,975 --> 00:34:39,470
+- ¿Qué pasa?
+- Es real.
+
+460
+00:34:39,670 --> 00:34:40,916
+- ¿Qué?
+- No podemos estar aquí.
+
+461
+00:34:41,116 --> 00:34:43,449
+- ¡Kwan!
+- Deja que se vaya.
+
+462
+00:34:44,272 --> 00:34:47,121
+Miranda. Dime.
+
+463
+00:34:47,321 --> 00:34:49,283
+Dime que lo tienes.
+
+464
+00:35:12,910 --> 00:35:18,540
+Ya está hecho. Los infieles
+del sacerdote están muertos.
+
+465
+00:35:19,434 --> 00:35:21,970
+Me defendiste.
+
+466
+00:35:22,170 --> 00:35:25,300
+Hubieras muerto por mí.
+
+467
+00:35:25,726 --> 00:35:30,398
+Hubiera muerto por la
+verdad que albergas.
+
+468
+00:35:33,627 --> 00:35:35,711
+La flota nos encontró.
+
+469
+00:35:37,881 --> 00:35:39,683
+¿Seremos destruidos?
+
+470
+00:35:39,883 --> 00:35:42,006
+¿Qué has previsto?
+
+471
+00:35:42,206 --> 00:35:44,664
+En este momento, no veo nada.
+
+472
+00:35:45,451 --> 00:35:47,948
+He sido deshonrada.
+
+473
+00:35:48,602 --> 00:35:52,925
+No sé cómo hacerme
+digna de tu fe.
+
+474
+00:35:53,125 --> 00:35:55,121
+Ya eres digna.
+
+475
+00:35:55,321 --> 00:35:59,530
+Me mostraste mi redención.
+
+476
+00:36:39,580 --> 00:36:43,833
+Estoy atado a ti.
+
+477
+00:36:44,530 --> 00:36:48,158
+Estamos atados al Anillo.
+
+478
+00:37:13,109 --> 00:37:16,107
+¡Kessler! ¡Kessler!
+
+479
+00:37:49,692 --> 00:37:51,443
+Hola.
+
+480
+00:37:54,863 --> 00:37:56,508
+Kessler.
+
+481
+00:37:56,708 --> 00:37:58,752
+Soy yo.
+
+482
+00:38:01,171 --> 00:38:02,837
+Oye.
+
+483
+00:38:06,266 --> 00:38:07,938
+¡Soren!
+
+484
+00:38:08,364 --> 00:38:09,433
+¡Mamá!
+
+485
+00:38:09,633 --> 00:38:11,800
+- ¡Suéltennos!
+- ¡Mamá!
+
+486
+00:38:20,621 --> 00:38:22,746
+¡Kessler!
+
+487
+00:38:32,311 --> 00:38:36,200
+Grupo de Ataque Gamma:
+Proceda a la bahía de lanzamiento.
+
+488
+00:38:36,400 --> 00:38:39,401
+Grupo de Ataque Gamma:
+Diríjase al lanzamiento.
+
+489
+00:38:44,391 --> 00:38:46,268
+Buen traje.
+
+490
+00:38:53,332 --> 00:38:56,293
+Grupo de Ataque Echo:
+En espera.
+
+491
+00:38:59,132 --> 00:39:00,833
+¿Cómo es que estás vivo?
+
+492
+00:39:01,033 --> 00:39:04,204
+Podría preguntarte lo mismo.
+
+493
+00:39:12,980 --> 00:39:14,936
+¿Nos acompañarás?
+
+494
+00:39:18,524 --> 00:39:20,984
+Tengo una misión diferente.
+
+495
+00:39:23,198 --> 00:39:26,109
+¿Sabes lo que significaría
+para la gente verte vivo,
+
+496
+00:39:26,309 --> 00:39:29,184
+saber que estás
+peleando a su lado?
+
+497
+00:39:29,618 --> 00:39:32,580
+¿Sabes lo que
+significaría para mí?
+
+498
+00:39:35,210 --> 00:39:38,729
+Cuando la batalla termina, no hablan
+de quienes no vuelven a casa.
+
+499
+00:39:38,929 --> 00:39:42,973
+Sólo proclaman victoria.
+
+500
+00:39:43,299 --> 00:39:47,093
+Y dicen que fue gracias a mí.
+
+501
+00:39:47,512 --> 00:39:49,397
+Por algo que yo hice.
+
+502
+00:39:49,597 --> 00:39:51,957
+O por algo que yo tenía o...
+
+503
+00:39:52,157 --> 00:39:54,285
+O por algo que eres.
+
+504
+00:39:54,811 --> 00:39:57,561
+Algo que no puedes ver.
+
+505
+00:39:57,942 --> 00:40:00,024
+Pero que sientes.
+
+506
+00:40:00,235 --> 00:40:02,900
+Sé que puedes sentirlo.
+
+507
+00:40:04,656 --> 00:40:07,280
+Moviéndose a través de ti.
+
+508
+00:40:08,699 --> 00:40:13,997
+De niño, esa mujer te hacía
+lanzar una moneda una y otra vez.
+
+509
+00:40:16,206 --> 00:40:18,009
+¿Era suerte?
+
+510
+00:40:18,209 --> 00:40:20,586
+¿Adivinabas?
+
+511
+00:40:21,211 --> 00:40:24,599
+Te dije que...
+simplemente lo sabía.
+
+512
+00:40:24,799 --> 00:40:26,718
+¿Lo sabías?
+
+513
+00:40:27,237 --> 00:40:30,195
+¿O hacías que el
+resultado fuera cara?
+
+514
+00:40:43,469 --> 00:40:45,302
+Pérez.
+
+515
+00:40:51,434 --> 00:40:53,478
+Voy a estar bien.
+
+516
+00:40:54,412 --> 00:40:57,037
+De una forma u otra.
+
+517
+00:41:06,675 --> 00:41:08,683
+¿Qué crees que haga?
+
+518
+00:41:08,883 --> 00:41:12,023
+Pues era científica y murió
+agarrándolo, así que...
+
+519
+00:41:12,223 --> 00:41:14,346
+Es su trabajo.
+
+520
+00:41:19,394 --> 00:41:21,724
+Pasé los últimos
+cinco meses en ese lugar.
+
+521
+00:41:21,924 --> 00:41:26,384
+Desvelándome, trabajando a solas,
+únicamente con tus notas.
+
+522
+00:41:26,776 --> 00:41:30,822
+De cierta forma, se sentía como
+hablar con quien solías ser.
+
+523
+00:41:32,099 --> 00:41:36,142
+Quiero conocer a la gente que
+construyó esa ciudad, tanto como tú.
+
+524
+00:41:38,249 --> 00:41:39,966
+Y no te preocupes.
+
+525
+00:41:40,166 --> 00:41:42,584
+Si tú no logras llegar ahí...
+
+526
+00:41:42,784 --> 00:41:44,535
+yo lo haré.
+
+527
+00:41:48,174 --> 00:41:50,427
+Te creo.
+
+528
+00:41:55,012 --> 00:41:57,509
+Equipo de seguridad,
+sección 7-0:
+
+529
+00:41:57,709 --> 00:42:00,751
+Posible personal no autorizado.
+
+530
+00:42:00,960 --> 00:42:02,487
+Equipo de seguridad.
+
+531
+00:42:02,687 --> 00:42:06,442
+Equipo de seguridad,
+sección 7-0.
+
+532
+00:42:18,646 --> 00:42:20,645
+¿Halsey?
+
+533
+00:42:22,623 --> 00:42:24,626
+¿Mamá?
+
+534
+00:42:31,501 --> 00:42:34,000
+Vaya, qué cosa.
+
+535
+00:42:37,822 --> 00:42:41,763
+Todos los equipos Spartan:
+Prepárense para el lanzamiento.
+
+536
+00:42:41,963 --> 00:42:44,756
+<i>TÚ ERES EL JEFE MAESTRO</i>
+
+537
+00:42:56,109 --> 00:42:58,358
+Hola, Jefe Maestro.
+
+538
+00:43:01,938 --> 00:43:04,173
+¿Sabes que llevo en esto
+mucho tiempo?
+
+539
+00:43:04,373 --> 00:43:06,331
+¿Disculpe?
+
+540
+00:43:08,421 --> 00:43:12,140
+¿Vamos a fingir que no
+analizaste el código de la espiga...
+
+541
+00:43:12,340 --> 00:43:15,602
+ni ejecutaste simulaciones
+desautorizadas?
+
+542
+00:43:15,802 --> 00:43:19,131
+Siempre me ha resultado útil
+saber lo que piensa mi gente.
+
+543
+00:43:19,331 --> 00:43:21,748
+Sobre todo, cuando no estoy.
+
+544
+00:43:22,076 --> 00:43:23,778
+¿Qué hay con los Spartan-III?
+
+545
+00:43:23,978 --> 00:43:25,746
+- ¿Qué con ellos?
+- Confiaron en mí.
+
+546
+00:43:25,946 --> 00:43:29,988
+Les dije que podían ganar.
+No puede hacerme esto.
+
+547
+00:43:30,566 --> 00:43:32,460
+Querrás decir que no
+puedo hacerte esto a ti.
+
+548
+00:43:32,660 --> 00:43:34,153
+No.
+
+549
+00:43:34,353 --> 00:43:35,563
+A ellos.
+
+550
+00:43:35,763 --> 00:43:36,316
+<i>ADVERTENCIA
+DESPEGUE NO AUTORIZADO</i>
+
+551
+00:43:36,516 --> 00:43:37,911
+Cubierta, habla Control.
+
+552
+00:43:38,111 --> 00:43:40,902
+Detectamos nube de calor
+en el Condor UBX-19.
+
+553
+00:43:41,244 --> 00:43:45,683
+Condor UBX-19, habla Control.
+No tiene un plan de vuelo aprobado.
+
+554
+00:43:45,883 --> 00:43:47,967
+No tiene autorizado despegar.
+
+555
+00:43:49,861 --> 00:43:52,039
+UBX-19, identifíquese.
+
+556
+00:43:52,239 --> 00:43:56,116
+Habla el Jefe Maestro, John-117.
+
+557
+00:43:56,509 --> 00:43:57,600
+¿Decía?
+
+558
+00:43:57,800 --> 00:43:59,247
+- Arresten a este hombre.
+- Sí, Almirante.
+
+559
+00:43:59,447 --> 00:44:01,647
+Cuando se cuente la historia
+de qué pasó en Reach,
+
+560
+00:44:01,847 --> 00:44:03,945
+cuando se cuente la
+historia de qué pasó aquí,
+
+561
+00:44:04,145 --> 00:44:06,436
+creo que lo escucharán a él, ¿no?
+
+562
+00:44:35,298 --> 00:44:37,632
+Ya no pienses en eso.
+
+563
+00:44:39,217 --> 00:44:40,929
+No va a venir.
+
+564
+00:44:46,960 --> 00:44:50,879
+Echo Sierra 3, ¿cuál es
+el rumbo, Control? Cambio.
+
+565
+00:45:33,365 --> 00:45:35,468
+Llegando a posición.
+Hostiles en rango.
+
+566
+00:45:35,668 --> 00:45:38,644
+Sesenta segundos para saltar.
+Buena suerte, Spartans.
+
+567
+00:45:38,844 --> 00:45:41,597
+¡Primer escuadrón, en la barra!
+

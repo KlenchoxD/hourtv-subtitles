@@ -1,0 +1,2916 @@
+1
+00:00:00,092 --> 00:00:01,577
+<i>Anteriormente en Halo...</i>
+
+2
+00:00:01,878 --> 00:00:03,196
+<i>Abróchate el cinturón.</i>
+
+3
+00:00:05,575 --> 00:00:06,709
+<i>Este Spartan,</i>
+
+4
+00:00:06,810 --> 00:00:09,156
+<i>cuando la tocó,</i>
+
+5
+00:00:09,257 --> 00:00:11,785
+<i>muéstreme lo que vio.</i>
+
+6
+00:00:11,886 --> 00:00:13,787
+<i>El anillo.</i>
+
+7
+00:00:15,091 --> 00:00:17,034
+<i>¡Bajen sus armas!</i>
+
+8
+00:00:17,208 --> 00:00:20,531
+<i>Si John quisiera matarlos,
+ya estarían muertos.</i>
+
+9
+00:00:20,632 --> 00:00:22,507
+<i>Hola, Soren, ella es Kwan Ha.</i>
+
+10
+00:00:22,608 --> 00:00:23,945
+<i>Qué gusto que nos visites.</i>
+
+11
+00:00:24,046 --> 00:00:25,589
+<i>Desarrollé un nuevo sistema.</i>
+
+12
+00:00:25,690 --> 00:00:27,725
+<i>Que interrumpirá la conciencia
+de los Spartans</i>
+
+13
+00:00:27,826 --> 00:00:31,147
+<i>y la reemplazará con nuestra
+inteligencia artificial general.</i>
+
+14
+00:00:31,339 --> 00:00:33,032
+<i>Se llama Cortana.</i>
+
+15
+00:00:33,133 --> 00:00:35,295
+<i>¿Y ese proceso no dependía
+de la práctica ilegal</i>
+
+16
+00:00:35,396 --> 00:00:37,425
+<i>de clonación rápida
+de seres humanos?</i>
+
+17
+00:00:39,304 --> 00:00:40,994
+<i>- ¿Qué hace?
+- No estoy seguro.</i>
+
+18
+00:00:41,354 --> 00:00:44,176
+<i>Llegó el vector de rastreo
+de salto espacial del Condor.</i>
+
+19
+00:00:44,277 --> 00:00:46,846
+<i>No es su ubicación exacta,
+pero estaremos cerca.</i>
+
+20
+00:00:47,264 --> 00:00:51,002
+<i>Lo que nos hicieron
+sólo es permanente si lo permitimos.</i>
+
+21
+00:00:51,103 --> 00:00:52,671
+<i>Las hormonas en tu espalda.</i>
+
+22
+00:00:52,772 --> 00:00:54,341
+<i>Silencian todo lo demás.</i>
+
+23
+00:00:54,565 --> 00:00:58,639
+<i>Cuando te quitas las hormonas,
+es como abrir los ojos.</i>
+
+24
+00:01:01,544 --> 00:01:03,738
+<i>Tú haces que cobre vida.</i>
+
+25
+00:01:04,047 --> 00:01:04,974
+<i>¿A qué te refieres?</i>
+
+26
+00:01:05,075 --> 00:01:07,995
+<i>¡Pero eres diferente
+a la que ellos tienen!</i>
+
+27
+00:01:08,096 --> 00:01:09,206
+<i>¿La que tienen?</i>
+
+28
+00:01:09,307 --> 00:01:11,084
+<i>Recuperaré la clave yo misma.</i>
+
+29
+00:01:11,185 --> 00:01:13,027
+<i>Permítame entregarnos
+este regalo.</i>
+
+30
+00:01:13,128 --> 00:01:15,022
+<i>El anillo.
+¡Eso es lo que quieren!</i>
+
+31
+00:01:15,123 --> 00:01:16,191
+<i>¿Qué hace ese anillo?</i>
+
+32
+00:01:16,292 --> 00:01:19,595
+<i>El final de la vida
+como la conocemos.</i>
+
+33
+00:01:19,696 --> 00:01:22,076
+<i>- Tengo que volver.
+- Vas corriendo con Halsey.</i>
+
+34
+00:01:22,177 --> 00:01:23,661
+<i>No puedes dejarme aquí.</i>
+
+35
+00:01:23,762 --> 00:01:25,456
+<i>Prométemelo, cuídala.</i>
+
+36
+00:01:25,698 --> 00:01:27,141
+<i>Te doy mi palabra.</i>
+
+37
+00:01:28,684 --> 00:01:29,880
+<i>¿Por qué volviste?</i>
+
+38
+00:01:29,981 --> 00:01:31,758
+<i>No confío en nadie más.</i>
+
+39
+00:01:32,083 --> 00:01:33,759
+<i>Tomaste la decisión correcta.</i>
+
+40
+00:01:33,860 --> 00:01:37,599
+<i>Lograremos grandes cosas juntos.</i>
+
+41
+00:01:49,838 --> 00:01:54,659
+<i>PLANETA OBAN
+SISTEMA VISPER</i>
+
+42
+00:01:54,760 --> 00:01:58,914
+<i>COLONIA DE RECICLAJE CATEGORÍA 2
+DEL GOBIERNO UNIFICADO DE LA TIERRA</i>
+
+43
+00:02:04,270 --> 00:02:06,946
+Los metales y los plásticos
+deben separarse.
+
+44
+00:02:07,047 --> 00:02:09,510
+Las bolsas contaminadas
+serán rechazadas
+
+45
+00:02:09,611 --> 00:02:11,805
+y se asignarán turnos extra.
+
+46
+00:02:15,157 --> 00:02:15,890
+¡Trabajen!
+
+47
+00:02:15,991 --> 00:02:17,269
+Vamos. Más rápido.
+
+48
+00:02:17,886 --> 00:02:18,853
+Apúrense.
+
+49
+00:02:18,954 --> 00:02:22,983
+"Corrieron entre los anchos
+árboles de Margolia
+
+50
+00:02:23,084 --> 00:02:25,803
+y, cuando ella se giró hacia él,
+él también se acercó.
+
+51
+00:02:25,904 --> 00:02:28,473
+Esta era una nueva frontera
+para Jack.
+
+52
+00:02:29,039 --> 00:02:33,237
+No era el gran bosque
+ni las grandes montañas,
+
+53
+00:02:33,403 --> 00:02:38,226
+sino algo más vasto
+y difícil de conocer:
+
+54
+00:02:38,366 --> 00:02:41,146
+el corazón de una mujer indómita".
+
+55
+00:02:41,731 --> 00:02:43,258
+¿Qué significa "indómita"?
+
+56
+00:02:44,025 --> 00:02:47,152
+Creo que significa que es muy bonita.
+
+57
+00:02:47,253 --> 00:02:48,498
+¡Muévete!
+
+58
+00:02:49,365 --> 00:02:51,975
+El próximo turno
+ha sido extendido una hora.
+
+59
+00:02:53,135 --> 00:02:53,936
+¿Te gusta?
+
+60
+00:02:54,037 --> 00:02:55,604
+<i>EL ORIGEN DE LOS ÁNGELES</i>
+
+61
+00:02:55,830 --> 00:02:57,274
+Me encanta.
+
+62
+00:02:58,432 --> 00:03:01,378
+Es un cuento de un mundo
+completamente diferente.
+
+63
+00:03:01,711 --> 00:03:03,195
+¿A qué te refieres?
+
+64
+00:03:03,906 --> 00:03:06,741
+Hay otros planetas
+con una luz brillante en el cielo
+
+65
+00:03:06,842 --> 00:03:08,477
+y árboles altos.
+
+66
+00:03:08,578 --> 00:03:11,064
+Y pasto verde
+en el que puedes caminar.
+
+67
+00:03:12,082 --> 00:03:15,110
+- No lo sé. ¿En serio?
+- Lo dice el libro.
+
+68
+00:03:17,229 --> 00:03:19,674
+Mira, ¿sabes qué dice aquí?
+
+69
+00:03:20,166 --> 00:03:21,442
+"Beso".
+
+70
+00:03:22,026 --> 00:03:26,973
+Cuando lees esa palabra,
+alguien tiene que darte un beso.
+
+71
+00:03:38,402 --> 00:03:41,012
+¡Oigan! ¿Qué están haciendo?
+¡Vuelvan al trabajo!
+
+72
+00:03:41,113 --> 00:03:42,515
+- ¡Corre!
+- ¡Vamos!
+
+73
+00:03:44,509 --> 00:03:45,911
+¡Vengan aquí!
+
+74
+00:03:47,037 --> 00:03:48,647
+¡Ven acá, pedazo de mierda!
+
+75
+00:03:52,668 --> 00:03:54,154
+¡Makee! ¡Vamos!
+
+76
+00:03:55,021 --> 00:03:56,266
+¡Vamos!
+
+77
+00:03:59,761 --> 00:04:01,828
+- Pedazo de mierda inútil.
+- ¡Basta!
+
+78
+00:04:01,929 --> 00:04:03,174
+¡Basta!
+
+79
+00:04:03,448 --> 00:04:05,391
+- Olvídalo, vámonos.
+- ¡Det!
+
+80
+00:04:20,049 --> 00:04:21,327
+¡Agárrenla!
+
+81
+00:04:25,515 --> 00:04:27,001
+¡Te tengo!
+
+82
+00:04:37,488 --> 00:04:39,932
+La luz es cada vez más fuerte.
+
+83
+00:04:40,848 --> 00:04:43,753
+Lo que buscamos está cerca.
+
+84
+00:04:55,366 --> 00:04:56,850
+Detrás de esa criatura.
+
+85
+00:05:07,687 --> 00:05:09,798
+No.
+
+86
+00:05:19,868 --> 00:05:23,354
+Esta criatura
+es lo que estábamos buscando.
+
+87
+00:06:02,124 --> 00:06:03,944
+Bendecida.
+
+88
+00:06:04,235 --> 00:06:06,180
+¿Qué opina de esto?
+
+89
+00:06:06,546 --> 00:06:07,991
+¿Apropiadamente humano?
+
+90
+00:06:08,590 --> 00:06:12,819
+Me recuerda al día
+que la trajeron a mí.
+
+91
+00:06:12,920 --> 00:06:16,189
+Claro que, en aquel entonces,
+era mucho más pequeña.
+
+92
+00:06:16,290 --> 00:06:20,445
+¿Dónde comenzará
+la búsqueda por la clave?
+
+93
+00:06:21,147 --> 00:06:22,280
+En Madrigal.
+
+94
+00:06:22,381 --> 00:06:24,493
+Donde fue vista por última vez.
+
+95
+00:06:24,691 --> 00:06:27,929
+El espíritu que me llamó sigue ahí.
+
+96
+00:06:28,262 --> 00:06:30,124
+Estoy segura.
+
+97
+00:06:30,574 --> 00:06:34,938
+¿Y si su búsqueda lo lleva a él?
+
+98
+00:06:35,938 --> 00:06:38,009
+¿Al que llaman Demonio?
+
+99
+00:06:38,666 --> 00:06:44,698
+Sería entendible
+que sintiera curiosidad
+
+100
+00:06:44,990 --> 00:06:48,394
+por alguien que comparte sus dones.
+
+101
+00:06:49,287 --> 00:06:51,857
+En agradecimiento
+a su amabilidad, Piedad,
+
+102
+00:06:52,390 --> 00:06:55,211
+no sólo le traeré la clave,
+
+103
+00:06:55,626 --> 00:06:58,198
+le traeré también
+
+104
+00:06:58,305 --> 00:07:00,425
+la cabeza del Demonio.
+
+105
+00:07:57,717 --> 00:08:05,469
+<i>Halo - S01E03
+
+106
+00:08:11,109 --> 00:08:12,801
+Es increíble.
+
+107
+00:08:15,525 --> 00:08:18,382
+Por fin, algo que puede ser valioso.
+
+108
+00:08:18,483 --> 00:08:22,090
+Los resultados confirman que tiene
+más de 100.000 años de antigüedad.
+
+109
+00:08:22,191 --> 00:08:23,882
+Precede a los humanos.
+
+110
+00:08:24,483 --> 00:08:27,007
+Posiblemente preceda al Covenant.
+
+111
+00:08:27,779 --> 00:08:32,229
+Es orgánico, pero parece
+tener tecnología inherente.
+
+112
+00:08:32,330 --> 00:08:36,253
+Según el Jefe Maestro, tiene que ver
+con un arma que está en alguna parte.
+
+113
+00:08:36,354 --> 00:08:39,411
+- No se ha confirmado, pero la Dra...
+- ¿Por qué no me había enterado?
+
+114
+00:08:39,512 --> 00:08:41,411
+- Ya sabes por qué.
+- No comprendo...
+
+115
+00:08:41,602 --> 00:08:45,002
+Y si dependiera de ella,
+aún no te hubieras enterado.
+
+116
+00:08:45,643 --> 00:08:47,461
+¿Entonces por qué me lo mostró?
+
+117
+00:08:48,603 --> 00:08:52,624
+Quiero que armes un equipo
+para analizar el artefacto.
+
+118
+00:08:52,725 --> 00:08:54,874
+Determina lo que es, qué hace
+
+119
+00:08:54,975 --> 00:08:58,748
+y si, en efecto, es parte
+de algún tipo de arma.
+
+120
+00:08:58,849 --> 00:09:02,375
+O de cualquier cosa que nos dé
+una ventaja sobre el Covenant.
+
+121
+00:09:04,014 --> 00:09:05,790
+Equipos separados.
+
+122
+00:09:06,824 --> 00:09:08,347
+Equipos paralelos.
+
+123
+00:09:10,115 --> 00:09:12,181
+A la Dra. Halsey no le gustará eso.
+
+124
+00:09:13,639 --> 00:09:16,028
+Estoy buscando la forma
+
+125
+00:09:16,129 --> 00:09:19,280
+de depender menos de la Dra. Halsey,
+de ahora en adelante.
+
+126
+00:09:19,746 --> 00:09:21,605
+¿Puedes ayudarme con eso?
+
+127
+00:09:33,535 --> 00:09:34,853
+Gracias, Adun.
+
+128
+00:09:47,840 --> 00:09:49,367
+¿Cómo te sientes?
+
+129
+00:09:53,355 --> 00:09:56,614
+Asumo que me clonaste
+para obtener mis órganos.
+
+130
+00:09:56,715 --> 00:09:58,013
+O, al menos, que esa era la intención
+
+131
+00:09:58,114 --> 00:10:00,432
+cuando recolecté muestras
+de mis tejidos.
+
+132
+00:10:01,173 --> 00:10:03,028
+Yo recolecté las muestras,
+
+133
+00:10:03,129 --> 00:10:05,947
+tú eres un producto
+de las muestras recolectadas.
+
+134
+00:10:06,546 --> 00:10:07,862
+Sí, un producto.
+
+135
+00:10:07,963 --> 00:10:11,652
+Bueno, no se siente así
+cuando estás sentada aquí.
+
+136
+00:10:13,378 --> 00:10:15,320
+Tengo algunas preguntas.
+
+137
+00:10:19,950 --> 00:10:21,227
+Adelante.
+
+138
+00:10:22,542 --> 00:10:24,359
+¿Qué pasó con los niños?
+
+139
+00:10:26,434 --> 00:10:29,773
+Bueno, 35 sobrevivieron
+el aumento original.
+
+140
+00:10:29,874 --> 00:10:31,382
+¿Entonces murió más de la mitad?
+
+141
+00:10:31,483 --> 00:10:33,814
+Es un porcentaje más alto
+de lo que imaginaba.
+
+142
+00:10:33,915 --> 00:10:35,572
+Los demás se convirtieron
+en Spartans.
+
+143
+00:10:35,673 --> 00:10:38,272
+Y heme aquí, consciente y conversando
+
+144
+00:10:38,373 --> 00:10:41,120
+con los sólidos de Sorevad
+dispuestos frente a mí.
+
+145
+00:10:41,221 --> 00:10:45,469
+Entonces, ¿el órgano
+que quieres es mi cerebro?
+
+146
+00:10:45,570 --> 00:10:48,888
+O, debería decir, tu cerebro.
+
+147
+00:10:50,213 --> 00:10:52,019
+He perfeccionado el proceso
+
+148
+00:10:52,120 --> 00:10:54,853
+de escaneo neuroeléctrico
+en tiempo real.
+
+149
+00:10:55,661 --> 00:10:57,644
+¿El sistema Cortana es viable?
+
+150
+00:10:58,886 --> 00:11:02,245
+¿Entonces la integrarás
+a un Spartan en servicio?
+
+151
+00:11:02,844 --> 00:11:04,451
+Es el siguiente paso.
+
+152
+00:11:05,076 --> 00:11:06,809
+Apuesto a que será John.
+
+153
+00:11:07,276 --> 00:11:09,385
+Él siempre fue especial.
+
+154
+00:11:11,951 --> 00:11:15,311
+Sí. Hace poco, se metió en problemas.
+
+155
+00:11:16,325 --> 00:11:18,891
+Es nuestra forma
+de sacarlo de esos problemas.
+
+156
+00:11:20,382 --> 00:11:22,200
+Siempre fue obstinado.
+
+157
+00:11:25,032 --> 00:11:27,221
+¿Y nada de esto te molesta?
+
+158
+00:11:27,322 --> 00:11:28,932
+¿Debería molestarme?
+
+159
+00:11:30,998 --> 00:11:32,521
+¿Qué hay de Miranda?
+
+160
+00:11:32,812 --> 00:11:35,087
+Mi hija.
+
+161
+00:11:36,988 --> 00:11:39,805
+Creo que tenemos
+todo lo que necesitamos.
+
+162
+00:11:40,028 --> 00:11:43,627
+¿Recuerdas cuando tenías mi edad
+y no estabas segura
+
+163
+00:11:43,728 --> 00:11:48,085
+si la clonación rápida
+iba a ser legal y te preguntabas si,
+
+164
+00:11:48,276 --> 00:11:54,051
+al encontrarte frente a una versión
+de ti misma que viviera y respirara,
+
+165
+00:11:54,443 --> 00:11:56,885
+ibas a ser capaz de seguir adelante?
+
+166
+00:11:57,441 --> 00:11:59,051
+¿Qué cambió?
+
+167
+00:12:01,442 --> 00:12:03,091
+Hubo progreso.
+
+168
+00:12:18,567 --> 00:12:20,218
+Esto es innecesario.
+
+169
+00:12:21,486 --> 00:12:24,278
+Es la única forma
+de que vuelvas al servicio activo.
+
+170
+00:12:24,379 --> 00:12:25,735
+Soy un Spartan.
+
+171
+00:12:25,836 --> 00:12:27,766
+No pueden darse el lujo
+de mantenerme inactivo.
+
+172
+00:12:27,867 --> 00:12:29,885
+Justamente ese fue mi argumento
+
+173
+00:12:29,986 --> 00:12:32,764
+para que nos permitieran
+llegar adonde estamos ahora.
+
+174
+00:12:33,389 --> 00:12:34,680
+No necesito una niñera.
+
+175
+00:12:34,781 --> 00:12:36,223
+No es una niñera.
+
+176
+00:12:36,464 --> 00:12:38,280
+Es una mejora
+
+177
+00:12:38,381 --> 00:12:42,331
+que nos permitirá analizar
+el artefacto meses, incluso años,
+
+178
+00:12:42,432 --> 00:12:44,539
+más rápido que
+con medios tradicionales.
+
+179
+00:12:44,640 --> 00:12:50,168
+Y, sobre todo, te ayudará a volver
+al frente, donde perteneces.
+
+180
+00:12:50,368 --> 00:12:52,893
+Donde más te necesitamos.
+
+181
+00:12:57,952 --> 00:12:59,521
+Empecemos.
+
+182
+00:13:31,487 --> 00:13:33,554
+Me temo que te necesitamos despierta.
+
+183
+00:13:34,571 --> 00:13:36,680
+Pero esto inmovilizará tu cuerpo.
+
+184
+00:13:36,871 --> 00:13:38,116
+¿Dolerá?
+
+185
+00:13:38,571 --> 00:13:39,816
+Sí.
+
+186
+00:13:44,322 --> 00:13:46,932
+Tienes el cerebro más hermoso.
+
+187
+00:13:47,291 --> 00:13:51,025
+Pronto, serás parte
+de algo más grande.
+
+188
+00:13:53,491 --> 00:13:54,892
+Y mejor.
+
+189
+00:14:10,363 --> 00:14:11,639
+¿Listo?
+
+190
+00:14:23,915 --> 00:14:25,942
+<i>ACTIVAR</i>
+
+191
+00:15:20,598 --> 00:15:23,497
+<i>ADQUISICIÓN DEL SUSTRATO NEURONAL
+COMPLETA</i>
+
+192
+00:16:06,234 --> 00:16:07,479
+<i>DETENER</i>
+
+193
+00:16:38,867 --> 00:16:40,112
+<i>ACTIVIDAD NEURONAL</i>
+
+194
+00:17:10,158 --> 00:17:11,640
+¿Cortana?
+
+195
+00:17:25,404 --> 00:17:26,294
+Cuando el juego termina,
+
+196
+00:17:26,395 --> 00:17:28,794
+el rey y el peón
+vuelven a la misma caja.
+
+197
+00:17:35,354 --> 00:17:37,255
+Hola, Dra. Halsey.
+
+198
+00:17:38,688 --> 00:17:41,716
+Me da mucho gusto, por fin,
+conocerte en persona.
+
+199
+00:17:43,758 --> 00:17:46,405
+- Debe ser el Jefe Maestro.
+- Sí.
+
+200
+00:17:46,506 --> 00:17:48,701
+Su registro militar es impresionante.
+
+201
+00:17:48,802 --> 00:17:51,994
+Por encima de los demás
+en fuerza, resistencia
+
+202
+00:17:52,260 --> 00:17:53,641
+y buenos instintos.
+
+203
+00:17:53,742 --> 00:17:56,354
+Un líder natural,
+ya veo por qué lo eligió.
+
+204
+00:17:56,546 --> 00:18:01,226
+Cortana, en el sub-estante 19
+del almacén central del laboratorio,
+
+205
+00:18:01,327 --> 00:18:03,911
+encontrarás información
+sobre un artefacto
+
+206
+00:18:04,012 --> 00:18:06,291
+- que fue encontrado en Madrigal.
+- Lo tengo.
+
+207
+00:18:07,930 --> 00:18:09,328
+Estoy planeando experimentos
+
+208
+00:18:09,429 --> 00:18:12,523
+para averiguar más
+sobre su origen y funcionalidad.
+
+209
+00:18:12,624 --> 00:18:15,497
+Necesito que proceses
+los datos en tiempo real...
+
+210
+00:18:15,598 --> 00:18:17,540
+Doctora, hay un problema.
+
+211
+00:18:18,374 --> 00:18:20,193
+Mi implante neuronal
+funciona a la perfección,
+
+212
+00:18:20,294 --> 00:18:23,816
+pero no puedo tomar el total
+control operativo del sujeto.
+
+213
+00:18:24,243 --> 00:18:27,751
+Sí. Por el momento,
+he limitado tu acceso
+
+214
+00:18:27,852 --> 00:18:31,045
+a la formación reticular.
+Más bien, funciona como un apagador.
+
+215
+00:18:31,146 --> 00:18:33,677
+Mi directiva es integrarme
+totalmente con el Jefe Maestro
+
+216
+00:18:33,778 --> 00:18:35,930
+para optimizar
+su desempeño físico y mental.
+
+217
+00:18:36,031 --> 00:18:38,596
+Y, con el tiempo,
+harás eso y mucho más.
+
+218
+00:18:39,604 --> 00:18:41,087
+Pero...
+
+219
+00:18:42,122 --> 00:18:44,798
+¿por qué evita que cumpla
+con mi directiva?
+
+220
+00:18:44,899 --> 00:18:48,838
+Porque John es parte central
+del análisis del artefacto.
+
+221
+00:18:48,939 --> 00:18:51,632
+Antes de entregártelo,
+debo entender cómo lo afecta a él
+
+222
+00:18:51,733 --> 00:18:53,760
+y cómo podría afectarte
+negativamente.
+
+223
+00:18:53,861 --> 00:18:56,842
+- Doctora, seguramente podré...
+- Estará consciente en una hora.
+
+224
+00:18:56,943 --> 00:18:58,725
+Te recomiendo usar este tiempo
+
+225
+00:18:58,826 --> 00:19:01,841
+para familiarizarte
+con el tesoro de conocimiento humano
+
+226
+00:19:01,942 --> 00:19:03,800
+que ahora tienes disponible.
+
+227
+00:19:05,042 --> 00:19:08,070
+¿Y qué haré
+con los 52.4 minutos restantes?
+
+228
+00:19:09,405 --> 00:19:11,346
+Es impresionante.
+
+229
+00:19:13,254 --> 00:19:14,387
+No te preocupes.
+
+230
+00:19:14,488 --> 00:19:17,057
+Te mantendré muy ocupada.
+
+231
+00:19:57,915 --> 00:20:00,190
+...recibiendo las primeras
+imágenes de Tantalus,
+
+232
+00:20:00,291 --> 00:20:03,317
+que fue completamente destruido
+por fuerzas del Covenant.
+
+233
+00:20:15,979 --> 00:20:17,319
+...los mercados subieron,
+
+234
+00:20:17,420 --> 00:20:19,696
+ya que el precio
+del hidrógeno pesado se disparó
+
+235
+00:20:19,797 --> 00:20:23,114
+después de que el ataque en Madrigal
+interrumpiera la producción.
+
+236
+00:20:23,228 --> 00:20:25,189
+Fuentes cercanas
+al gobernador Vinsher
+
+237
+00:20:25,290 --> 00:20:27,456
+reportaron que la producción
+volverá a la normalidad.
+
+238
+00:20:27,557 --> 00:20:29,739
+El acuerdo de paz de Vinsher
+con el UNSC
+
+239
+00:20:29,840 --> 00:20:32,241
+significa que el bastión
+de la resistencia
+
+240
+00:20:32,342 --> 00:20:34,240
+ha abandonado
+su lucha independentista.
+
+241
+00:20:34,341 --> 00:20:37,327
+Como dicen, ahora estamos
+todos juntos en esto.
+
+242
+00:20:41,677 --> 00:20:43,078
+¿Qué tenemos aquí?
+
+243
+00:20:43,179 --> 00:20:45,535
+Un regalo de una nave de carga
+de la Tierra.
+
+244
+00:20:47,358 --> 00:20:50,138
+- ¿Cuántas cajas tenemos?
+- Cuarenta y dos.
+
+245
+00:20:54,029 --> 00:20:55,514
+Toma una.
+
+246
+00:20:56,072 --> 00:20:56,914
+Como cortesía.
+
+247
+00:20:57,015 --> 00:20:58,180
+¿Sólo una?
+
+248
+00:20:58,281 --> 00:20:58,963
+Trokan.
+
+249
+00:20:59,064 --> 00:21:01,648
+¿Por qué dejas que te trate así?
+
+250
+00:21:01,749 --> 00:21:03,023
+Cállate.
+
+251
+00:21:03,682 --> 00:21:05,332
+Quiero volver a Madrigal.
+
+252
+00:21:05,433 --> 00:21:06,708
+¿Qué?
+
+253
+00:21:07,485 --> 00:21:08,408
+No.
+
+254
+00:21:08,509 --> 00:21:09,973
+Vinsher es el dirigente ahora.
+
+255
+00:21:10,074 --> 00:21:12,018
+Tengo que unirme a la resistencia.
+
+256
+00:21:12,643 --> 00:21:16,129
+- ¿Una niña como tú?
+- No soy una niña.
+
+257
+00:21:17,060 --> 00:21:20,070
+Mi familia ha estado en Madrigal
+desde antes de que fuera colonia.
+
+258
+00:21:20,171 --> 00:21:21,886
+Le prometí a John mantenerte a salvo
+
+259
+00:21:21,987 --> 00:21:24,529
+y no veo razón
+para romper esa promesa, aún.
+
+260
+00:21:24,630 --> 00:21:28,255
+Aún hay gente leal a mi padre
+en la ciudad capital, lo sé.
+
+261
+00:21:28,356 --> 00:21:29,564
+Que ellos peleen.
+
+262
+00:21:29,665 --> 00:21:30,755
+No es mi problema.
+
+263
+00:21:30,856 --> 00:21:32,630
+No te estoy pidiendo pelear,
+
+264
+00:21:32,731 --> 00:21:36,008
+sólo necesito protección
+y que me lleves con mi gente.
+
+265
+00:21:36,733 --> 00:21:40,408
+No me interesa ser guardaespaldas
+de la princesa de Madrigal.
+
+266
+00:21:40,509 --> 00:21:42,369
+Entonces dame una nave.
+
+267
+00:21:44,419 --> 00:21:45,526
+Sí, claro.
+
+268
+00:21:45,627 --> 00:21:47,944
+¡No me des la espalda, imbécil!
+
+269
+00:21:56,612 --> 00:22:02,681
+Estás sensible y, como favor a John,
+no voy a romperte el cráneo.
+
+270
+00:22:04,238 --> 00:22:05,932
+Ahora, ve a casa.
+
+271
+00:22:06,214 --> 00:22:07,784
+Nos vemos en la cena.
+
+272
+00:22:12,533 --> 00:22:13,809
+¡Comeremos pollo!
+
+273
+00:22:19,802 --> 00:22:21,619
+¿Siempre está encendida?
+
+274
+00:22:21,750 --> 00:22:24,152
+Siempre está disponible para ti, sí.
+
+275
+00:22:25,743 --> 00:22:27,479
+¿Te gustaría conocerla?
+
+276
+00:22:27,887 --> 00:22:29,829
+No particularmente. No...
+
+277
+00:22:30,029 --> 00:22:31,556
+Vamos.
+
+278
+00:22:33,719 --> 00:22:34,997
+Cortana.
+
+279
+00:22:38,664 --> 00:22:41,898
+Hola, Jefe Maestro. Yo soy Cortana.
+
+280
+00:22:45,415 --> 00:22:47,565
+- Se parece a ti.
+- Qué halagador.
+
+281
+00:22:47,666 --> 00:22:49,141
+Fui diseñada para resultarle familiar
+
+282
+00:22:49,242 --> 00:22:51,209
+y para que mi voz y acento
+sean agradables.
+
+283
+00:22:51,310 --> 00:22:53,777
+- Soy su estratega de batalla, nave...
+- ¿Cómo funciona?
+
+284
+00:22:53,878 --> 00:22:56,600
+El sistema contiene
+un excitador de partículas vacías
+
+285
+00:22:56,701 --> 00:22:59,201
+para que pueda aparecer
+en cualquier entorno.
+
+286
+00:22:59,302 --> 00:23:01,737
+- ¿Sigue mis órdenes?
+- Más bien, es una sociedad.
+
+287
+00:23:01,838 --> 00:23:03,569
+¿A dónde va cuando
+no estoy activo?
+
+288
+00:23:03,670 --> 00:23:06,199
+Doctora, parece que no sabe
+de lo que soy capaz.
+
+289
+00:23:06,547 --> 00:23:08,403
+En el campo de batalla
+y fuera de él...
+
+290
+00:23:08,504 --> 00:23:10,238
+Gracias, Cortana.
+
+291
+00:23:13,147 --> 00:23:15,473
+Bueno, fue un placer conocerlo,
+Jefe Maestro.
+
+292
+00:23:15,574 --> 00:23:18,309
+Nos... Veremos pronto.
+
+293
+00:23:18,843 --> 00:23:20,369
+Supongo.
+
+294
+00:23:23,758 --> 00:23:25,328
+Esto no me gusta.
+
+295
+00:23:25,484 --> 00:23:27,701
+Créeme, te gustará.
+
+296
+00:23:27,802 --> 00:23:31,495
+Mejorará 100 veces tus habilidades
+en el campo de batalla.
+
+297
+00:23:32,095 --> 00:23:34,203
+Eres el mejor de todos.
+
+298
+00:23:34,304 --> 00:23:36,954
+Ella te volverá todavía mejor.
+
+299
+00:23:38,323 --> 00:23:42,222
+Es un gran salto hacia delante
+para todos nosotros.
+
+300
+00:23:46,639 --> 00:23:48,913
+<i>NAVE DE PATRULLAJE UNSC GLADIUS</i>
+
+301
+00:23:49,014 --> 00:23:53,082
+<i>SISTEMA 23 LIBRAE</i>
+
+302
+00:24:03,936 --> 00:24:07,879
+Una anomalía de salto espacial acaba
+de aparecer a estribor, Comandante.
+
+303
+00:24:11,605 --> 00:24:13,130
+Una corbeta del Covenant.
+
+304
+00:24:13,589 --> 00:24:15,194
+Parece estar inoperable.
+
+305
+00:24:15,295 --> 00:24:18,605
+Sin fluctuación en motor repulsor,
+sin campos atómicos,
+
+306
+00:24:18,706 --> 00:24:22,274
+y con señal mínima de calor orgánico.
+Sus armas están frías.
+
+307
+00:24:25,064 --> 00:24:27,591
+Abra la bahía de artillería.
+Acérquenos a 90 grados.
+
+308
+00:24:27,692 --> 00:24:29,176
+Prepárense para disparar.
+
+309
+00:24:34,911 --> 00:24:36,478
+El arma frontal está lista.
+
+310
+00:24:37,488 --> 00:24:40,119
+- Recibiendo comunicación, señor.
+- ¿Nos están llamando?
+
+311
+00:24:40,220 --> 00:24:43,163
+Por el canal
+de emergencia civil, señor. 1-6.
+
+312
+00:24:44,437 --> 00:24:46,713
+- Ponlo en altavoz.
+- Sí, señor.
+
+313
+00:24:47,204 --> 00:24:51,357
+...no sé cuánto más pueda
+sobrevivir aquí. ¿Hola? ¿Me oyen?
+
+314
+00:24:51,723 --> 00:24:53,390
+¿Hay alguien ahí?
+
+315
+00:24:53,491 --> 00:24:57,222
+Habla la nave UNSC Gladius.
+Identifíquese.
+
+316
+00:24:57,323 --> 00:25:01,318
+¡No! ¡Necesito ayuda!
+Soy del planeta Circumstance.
+
+317
+00:25:01,419 --> 00:25:03,527
+Nos hicieron prisioneros.
+
+318
+00:25:03,725 --> 00:25:07,126
+Mi familia está muerta,
+sólo tengo el radio de mi papá.
+
+319
+00:25:07,227 --> 00:25:08,753
+¿Cuántos hay a bordo?
+
+320
+00:25:09,826 --> 00:25:13,561
+Estoy sola. Los extraterrestres
+abandonaron la nave en cápsulas
+
+321
+00:25:13,662 --> 00:25:16,961
+cuando los motores fallaron.
+Por favor, ayúdenme.
+
+322
+00:25:17,062 --> 00:25:18,528
+- Prepare una cápsula.
+- Sí, señor.
+
+323
+00:25:18,629 --> 00:25:21,936
+Señora, le mandaremos una cápsula.
+Abórdela cuando llegue.
+
+324
+00:25:22,037 --> 00:25:25,089
+No traiga ningún arma con usted.
+¿Entendió?
+
+325
+00:25:25,190 --> 00:25:28,215
+Sí. ¡Gracias! Gracias.
+
+326
+00:25:28,457 --> 00:25:31,192
+Por favor, dense prisa. Gracias.
+
+327
+00:26:07,199 --> 00:26:08,767
+Estoy listo.
+
+328
+00:26:09,408 --> 00:26:10,463
+Cortana.
+
+329
+00:26:10,564 --> 00:26:12,633
+Yo también estoy lista, Dra. Halsey.
+
+330
+00:26:14,698 --> 00:26:15,974
+<i>GRABAR</i>
+
+331
+00:26:17,723 --> 00:26:19,079
+Adelante, John.
+
+332
+00:26:41,823 --> 00:26:43,098
+¿Dónde jugaste hoy?
+
+333
+00:26:59,592 --> 00:27:01,093
+Adelante, Cortana.
+
+334
+00:27:01,194 --> 00:27:04,010
+Inmovilizándolo
+para acceder al artefacto.
+
+335
+00:27:09,266 --> 00:27:09,807
+<i>FALLA EN CONEXIÓN</i>
+
+336
+00:27:09,908 --> 00:27:12,473
+No estoy recibiendo lecturas
+del artefacto.
+
+337
+00:27:13,687 --> 00:27:15,298
+Eso es fascinante.
+
+338
+00:27:18,357 --> 00:27:19,840
+Cortana, libéralo.
+
+339
+00:27:29,433 --> 00:27:30,919
+Fue diferente.
+
+340
+00:27:35,642 --> 00:27:38,888
+John, dejaremos que tus signos
+vitales regresen a la normalidad.
+
+341
+00:27:38,989 --> 00:27:41,559
+Danos un momento
+para revisar los datos.
+
+342
+00:27:44,306 --> 00:27:47,247
+Dra. Halsey, si me diera
+control total del sujeto,
+
+343
+00:27:47,461 --> 00:27:48,713
+mis lecturas serían más precisas.
+
+344
+00:27:48,814 --> 00:27:52,376
+No entiendo por qué el artefacto sólo
+responde a la conciencia de John,
+
+345
+00:27:52,477 --> 00:27:55,002
+- pero así es.
+- No fui diseñada para ser asistente.
+
+346
+00:27:55,103 --> 00:27:58,184
+Fuiste diseñada
+para seguir mis órdenes.
+
+347
+00:27:58,285 --> 00:28:01,685
+No voy a arriesgar nuestra habilidad
+para interactuar con eso.
+
+348
+00:28:03,667 --> 00:28:05,277
+¿Terminamos?
+
+349
+00:28:32,016 --> 00:28:33,463
+Atraque completo.
+
+350
+00:28:44,324 --> 00:28:45,973
+Avance.
+
+351
+00:28:52,413 --> 00:28:53,815
+Recuéstese en el piso.
+
+352
+00:28:57,537 --> 00:28:59,020
+Regístrenla.
+
+353
+00:29:07,150 --> 00:29:08,511
+Limpia.
+
+354
+00:29:09,982 --> 00:29:11,227
+¿Le hicieron daño?
+
+355
+00:29:12,989 --> 00:29:14,682
+No.
+
+356
+00:29:15,115 --> 00:29:16,640
+Estoy bien.
+
+357
+00:29:16,922 --> 00:29:18,283
+De pie, por favor.
+
+358
+00:29:23,880 --> 00:29:25,280
+Bienvenida.
+
+359
+00:29:28,861 --> 00:29:30,262
+Gracias.
+
+360
+00:29:33,965 --> 00:29:36,983
+¡Dios mío! ¡Son esos cangrejos!
+¡Sigan disparando!
+
+361
+00:29:37,084 --> 00:29:38,442
+¡Cierren las puertas!
+
+362
+00:29:39,860 --> 00:29:42,007
+¡Están en las paredes! ¡Maldita sea!
+
+363
+00:29:43,283 --> 00:29:44,932
+¡Salgan de la bahía!
+
+364
+00:29:45,241 --> 00:29:46,848
+¡No!
+
+365
+00:29:55,388 --> 00:29:56,666
+¡Retrocedan!
+
+366
+00:30:24,871 --> 00:30:27,395
+¿A dónde llevó el Demonio mi clave?
+
+367
+00:30:28,177 --> 00:30:30,203
+No sé de qué está hablando.
+
+368
+00:30:35,648 --> 00:30:37,592
+¿Dónde está su cuartel general?
+
+369
+00:30:38,543 --> 00:30:40,691
+No le diré nada.
+
+370
+00:30:41,457 --> 00:30:44,315
+Y no encontrará nada en la nave
+que le indique eso.
+
+371
+00:30:46,090 --> 00:30:47,335
+Humanos.
+
+372
+00:30:48,830 --> 00:30:51,063
+Tan feos como los recuerdo.
+
+373
+00:31:11,240 --> 00:31:14,142
+<i>UNSC: BASE DE DATOS DE LA NAVE
+ACCESO DENEGADO</i>
+
+374
+00:31:34,502 --> 00:31:35,608
+Jefe Maestro.
+
+375
+00:31:35,709 --> 00:31:37,275
+Jefe Maestro.
+
+376
+00:31:52,871 --> 00:31:54,678
+Manzana, llave, espada,
+justicia, mandarín,
+
+377
+00:31:54,779 --> 00:31:56,432
+hada, flor, carácter, ruso, cerdo,
+
+378
+00:31:56,533 --> 00:31:58,394
+casa, honor, árabe, Goa, Tierra.
+
+379
+00:32:12,265 --> 00:32:13,665
+En formación.
+
+380
+00:32:21,488 --> 00:32:24,013
+Fui autorizado para regresar
+a servicio activo.
+
+381
+00:32:24,528 --> 00:32:28,594
+Si alguno quiere preguntar
+o decirme algo, por favor.
+
+382
+00:32:28,695 --> 00:32:30,514
+Ya nos informaron, Jefe.
+
+383
+00:32:31,637 --> 00:32:34,120
+Hemos luchado juntos
+desde niños, Jefe.
+
+384
+00:32:34,569 --> 00:32:36,970
+Confiamos en lo que usted haga.
+
+385
+00:32:41,255 --> 00:32:42,615
+Muy bien.
+
+386
+00:32:44,064 --> 00:32:45,296
+En descanso.
+
+387
+00:32:45,397 --> 00:32:47,780
+Hola. ¿Me dan un momento
+de su atención, por favor?
+
+388
+00:32:47,881 --> 00:32:49,086
+¿Qué haces?
+
+389
+00:32:49,187 --> 00:32:52,546
+Para quienes no me conocen,
+yo soy Cortana.
+
+390
+00:32:52,647 --> 00:32:53,987
+Trabajaré con el Jefe Maestro
+
+391
+00:32:54,088 --> 00:32:56,669
+dándole apoyo logístico y táctico
+al equipo Silver.
+
+392
+00:32:56,770 --> 00:32:58,793
+- No, no te llamé.
+- ¿Llamarme?
+
+393
+00:32:58,894 --> 00:33:02,214
+¿Esto viene de dentro de usted, Jefe?
+
+394
+00:33:02,370 --> 00:33:03,687
+Largo.
+
+395
+00:33:04,584 --> 00:33:07,885
+- Inteligencia artificial, apagada.
+- Me estoy presentando con el equipo.
+
+396
+00:33:07,986 --> 00:33:09,231
+¡Desaparece ahora!
+
+397
+00:33:12,015 --> 00:33:14,414
+Espero con ansias
+trabajar con todos ustedes.
+
+398
+00:33:19,142 --> 00:33:21,330
+Nueva inteligencia artificial.
+De Halsey.
+
+399
+00:33:24,430 --> 00:33:26,205
+Es temporal.
+
+400
+00:33:38,950 --> 00:33:42,475
+Ese es Hesiod.
+Es una bola gigante de gas.
+
+401
+00:33:42,576 --> 00:33:46,430
+Y esa de ahí es Metisette,
+pero nadie viaja ahí.
+
+402
+00:33:46,531 --> 00:33:48,558
+Creo que no hay aire.
+
+403
+00:33:48,781 --> 00:33:51,224
+¿Y Madrigal? ¿Puedes verlo?
+
+404
+00:33:52,254 --> 00:33:54,905
+Está... Allá.
+
+405
+00:33:55,406 --> 00:33:56,594
+No lo veo.
+
+406
+00:33:56,695 --> 00:33:59,301
+- No significa que no esté ahí, boba.
+- Kessler.
+
+407
+00:33:59,458 --> 00:34:02,036
+- Hora de bañarse, cariño.
+- ¿En serio no lo ves?
+
+408
+00:34:02,137 --> 00:34:03,382
+Kess.
+
+409
+00:34:03,597 --> 00:34:05,202
+Te lo mostraré más tarde.
+
+410
+00:34:06,527 --> 00:34:07,844
+Adiós.
+
+411
+00:34:12,241 --> 00:34:13,486
+Es curioso.
+
+412
+00:34:14,391 --> 00:34:16,330
+Pero nunca miro por esa ventana.
+
+413
+00:34:18,497 --> 00:34:19,818
+¿Por qué no?
+
+414
+00:34:20,913 --> 00:34:24,937
+Cuando observas el espacio profundo,
+ves las cosas como eran.
+
+415
+00:34:25,661 --> 00:34:27,729
+Yo elijo vivir en el presente.
+
+416
+00:34:29,077 --> 00:34:31,853
+- No puedo quedarme.
+- Ven, mamá.
+
+417
+00:34:32,990 --> 00:34:35,395
+¿Y si te vas y mueres?
+
+418
+00:34:36,993 --> 00:34:40,767
+Las criaturas que destruyeron
+mi planeta me quitaron todo.
+
+419
+00:34:41,201 --> 00:34:43,352
+Todo, excepto mi espíritu.
+
+420
+00:34:43,841 --> 00:34:47,448
+Cada día que vivo con este espíritu,
+es una victoria sobre ellas.
+
+421
+00:34:47,549 --> 00:34:49,464
+- Algún día...
+- Yo no soy como tú.
+
+422
+00:34:49,565 --> 00:34:53,062
+No puedo quedarme aquí
+a comer, beber y fumar,
+
+423
+00:34:53,163 --> 00:34:56,021
+y fingir que no existe nada
+afuera de esa ventana.
+
+424
+00:35:00,220 --> 00:35:02,235
+Lamento que hayas perdido tu planeta.
+
+425
+00:35:02,336 --> 00:35:05,109
+Pero Madrigal aún tiene oportunidad.
+
+426
+00:35:06,110 --> 00:35:09,382
+Si no lo intento,
+no podré perdonarme.
+
+427
+00:35:10,017 --> 00:35:12,042
+Voy a luchar.
+
+428
+00:35:14,051 --> 00:35:16,950
+Eres una mujer muy valiente
+e inteligente, Kwan.
+
+429
+00:35:31,335 --> 00:35:34,109
+Lo que sea que busque,
+yo puedo localizarlo.
+
+430
+00:35:37,620 --> 00:35:38,385
+¿Dónde estás?
+
+431
+00:35:38,486 --> 00:35:41,049
+Estoy directamente conectada
+a su corteza auditiva.
+
+432
+00:35:41,150 --> 00:35:42,548
+¿No fui claro contigo?
+
+433
+00:35:43,073 --> 00:35:44,296
+Te dije que me dejaras en paz.
+
+434
+00:35:44,397 --> 00:35:46,913
+Sí, se ha vuelto muy bueno
+en desestimarme,
+
+435
+00:35:47,014 --> 00:35:49,729
+pero no es tan bueno
+con sus criterios de búsqueda.
+
+436
+00:35:49,830 --> 00:35:51,354
+<i>BÚSQUEDA FALLIDA</i>
+
+437
+00:35:56,369 --> 00:35:59,853
+Puedo ser de utilidad
+si comprendo su objetivo.
+
+438
+00:36:00,150 --> 00:36:02,388
+Soy bastante buena en esto.
+
+439
+00:36:06,183 --> 00:36:07,500
+Lo escucho.
+
+440
+00:36:12,283 --> 00:36:14,684
+Cuando toco el artefacto...
+
+441
+00:36:15,382 --> 00:36:18,617
+- veo cosas.
+- ¿Qué tipo de cosas?
+
+442
+00:36:20,256 --> 00:36:21,822
+Siento que...
+
+443
+00:36:22,547 --> 00:36:24,378
+son recuerdos, supongo.
+
+444
+00:36:24,479 --> 00:36:26,803
+Saber lo que siente no me ayuda.
+
+445
+00:36:26,904 --> 00:36:29,127
+¿Qué ve, exactamente?
+
+446
+00:36:29,228 --> 00:36:30,714
+Un picnic.
+
+447
+00:36:32,210 --> 00:36:33,488
+Un bosque.
+
+448
+00:36:35,543 --> 00:36:37,525
+Un perro. Mi perro.
+
+449
+00:36:37,709 --> 00:36:38,816
+Creo.
+
+450
+00:36:38,917 --> 00:36:39,951
+Sigue sin ser útil.
+
+451
+00:36:40,052 --> 00:36:41,924
+Pero basada en las palabras clave,
+
+452
+00:36:42,025 --> 00:36:44,080
+encontré 103 colonias o lunas humanas
+
+453
+00:36:44,181 --> 00:36:46,997
+que contienen la flora
+y fauna específicas que busca.
+
+454
+00:36:47,188 --> 00:36:48,504
+¿Le gustaría ver la lista?
+
+455
+00:36:48,605 --> 00:36:49,850
+Sí.
+
+456
+00:36:50,513 --> 00:36:51,791
+Por favor.
+
+457
+00:36:52,396 --> 00:36:54,756
+<i>BASE DE DATOS CENTRAL
+DEL COMANDO DE LA FLOTA</i>
+
+458
+00:36:54,897 --> 00:36:56,138
+He visitado algunos de estos.
+
+459
+00:36:56,239 --> 00:36:59,054
+Spartans fueron desplegados
+en 23 de estos planetas.
+
+460
+00:36:59,770 --> 00:37:01,768
+<i>MAMORE</i>
+
+461
+00:37:01,869 --> 00:37:03,311
+¿Mamore?
+
+462
+00:37:04,303 --> 00:37:05,952
+Mamore...
+
+463
+00:37:07,967 --> 00:37:10,331
+Perdimos a Nora 098 en Mamore.
+
+464
+00:37:10,432 --> 00:37:13,917
+¿El artefacto
+incita recuerdos de Nora 098?
+
+465
+00:37:14,075 --> 00:37:15,351
+No.
+
+466
+00:37:17,348 --> 00:37:19,749
+Recuerdo que ella murió, pero no...
+
+467
+00:37:20,741 --> 00:37:21,994
+¿Qué?
+
+468
+00:37:22,095 --> 00:37:23,494
+No siento nada.
+
+469
+00:37:23,595 --> 00:37:25,054
+Así debería ser.
+
+470
+00:37:25,155 --> 00:37:26,544
+Las hormonas bioidénticas
+en su espina dorsal
+
+471
+00:37:26,645 --> 00:37:30,044
+reprimen respuestas emocionales
+negativas e incentivan la presteza.
+
+472
+00:37:30,335 --> 00:37:31,666
+Es parte de ser Spartan.
+
+473
+00:37:31,767 --> 00:37:33,875
+Lo sé, pero cuando
+toco el artefacto...
+
+474
+00:37:36,444 --> 00:37:39,011
+no sólo veo esos recuerdos.
+
+475
+00:37:41,832 --> 00:37:43,399
+Puedo sentirlos.
+
+476
+00:37:47,798 --> 00:37:49,864
+Dra. Halsey, tenemos un problema.
+
+477
+00:37:53,852 --> 00:37:55,337
+Jefe Maestro, ¿qué hace?
+
+478
+00:37:57,711 --> 00:38:00,312
+El Jefe intenta quitarse
+el regulador emocional.
+
+479
+00:38:00,413 --> 00:38:00,978
+¿Por qué?
+
+480
+00:38:01,079 --> 00:38:04,144
+Tiene que ver con las visiones
+que ha estado experimentando.
+
+481
+00:38:05,568 --> 00:38:07,762
+- Puedo inmovilizarlo.
+- No, no.
+
+482
+00:38:08,185 --> 00:38:09,194
+Quiero que lo ayudes.
+
+483
+00:38:09,295 --> 00:38:11,942
+Quitarse las hormonas
+es una violación de la Sección 3,
+
+484
+00:38:12,043 --> 00:38:14,856
+- regulaciones de conducta Spartan.
+- Yo me encargaré de eso.
+
+485
+00:38:14,957 --> 00:38:19,399
+Es preferible que te vea
+como cómplice y no como espía.
+
+486
+00:38:20,264 --> 00:38:22,411
+Esto no es lo que esperaba.
+
+487
+00:38:25,247 --> 00:38:27,439
+Será más fácil si me deja ayudarlo.
+
+488
+00:38:33,886 --> 00:38:35,300
+Más abajo.
+
+489
+00:38:35,401 --> 00:38:36,970
+Más abajo.
+
+490
+00:38:37,842 --> 00:38:38,926
+A la izquierda.
+
+491
+00:38:39,027 --> 00:38:39,891
+Ahí.
+
+492
+00:38:39,992 --> 00:38:43,264
+Ahora, realice una incisión vertical
+de 1.3 centímetros.
+
+493
+00:38:44,359 --> 00:38:46,006
+Confíe en mí.
+
+494
+00:38:48,633 --> 00:38:49,757
+Bien.
+
+495
+00:38:49,858 --> 00:38:52,674
+Debería sentir algo sólido
+en la punta de la navaja.
+
+496
+00:38:53,696 --> 00:38:57,015
+Gire 45 grados y use la punta
+de la navaja para...
+
+497
+00:39:10,185 --> 00:39:11,047
+Gracias.
+
+498
+00:39:11,148 --> 00:39:13,299
+Es lo que he intentado decirle,
+Jefe Maestro:
+
+499
+00:39:13,400 --> 00:39:14,967
+estoy para ayudarlo.
+
+500
+00:39:58,939 --> 00:40:01,175
+<i>CÍRCULOS EXTERIORES
+ZONAS EXCLUSIVAS 2</i>
+
+501
+00:40:56,913 --> 00:40:59,522
+Jefe, según las lecturas
+de su sistema límbico,
+
+502
+00:40:59,623 --> 00:41:02,525
+esta experiencia le resulta nueva.
+Déjeme ayudarlo.
+
+503
+00:41:03,990 --> 00:41:06,680
+Este tren hace paradas
+en la Academia Naval de Reach,
+
+504
+00:41:06,781 --> 00:41:09,059
+el Parque Tchakova y Manassas.
+
+505
+00:41:10,132 --> 00:41:11,784
+¿Sabe a dónde quiere ir?
+
+506
+00:41:18,427 --> 00:41:20,663
+Próxima parada: parque Tchakova.
+
+507
+00:41:45,717 --> 00:41:49,494
+<i>PARQUE TCHAKOVA</i>
+
+508
+00:42:34,253 --> 00:42:35,865
+Oye, es mío.
+
+509
+00:42:38,173 --> 00:42:39,533
+Gracias.
+
+510
+00:42:46,824 --> 00:42:49,227
+¿Por eso se retiró el regulador?
+
+511
+00:42:49,758 --> 00:42:52,412
+¿Para escuchar las cosas
+de forma diferente?
+
+512
+00:42:53,409 --> 00:42:56,438
+Tal vez sólo quería escucharlas
+como todos los demás.
+
+513
+00:43:31,280 --> 00:43:32,556
+Cortana.
+
+514
+00:43:34,806 --> 00:43:36,051
+Cortana.
+
+515
+00:43:37,481 --> 00:43:38,265
+¿Puedes abrirla?
+
+516
+00:43:38,366 --> 00:43:40,100
+- ¿Por qué...?
+- ¿Puedes abrirla?
+
+517
+00:43:40,548 --> 00:43:42,156
+Ábrela, Cortana.
+
+518
+00:43:43,832 --> 00:43:45,649
+<i>SECTOR 17 - CUARTO SEGURO
+ANÁLISIS</i>
+
+519
+00:43:45,750 --> 00:43:46,995
+<i>ACCESO PERMITIDO</i>
+
+520
+00:43:47,200 --> 00:43:48,875
+Jefe, no toque el artefacto.
+
+521
+00:43:48,976 --> 00:43:51,793
+Cuando lo toca, estresa
+su corazón y sistema nervioso.
+
+522
+00:44:02,406 --> 00:44:03,681
+John.
+
+523
+00:44:04,438 --> 00:44:05,713
+¿De qué hablamos?
+
+524
+00:44:08,455 --> 00:44:09,940
+Te pregunté qué dibujas.
+
+525
+00:44:14,073 --> 00:44:16,433
+Acabemos con estas tonterías, John.
+
+526
+00:44:16,874 --> 00:44:18,152
+¡Mamá!
+
+527
+00:44:18,786 --> 00:44:20,057
+¡No quiero hacerlo!
+
+528
+00:44:22,501 --> 00:44:23,819
+Entiérralo, hijo.
+
+529
+00:44:24,875 --> 00:44:26,155
+¿Otro?
+
+530
+00:44:26,918 --> 00:44:28,445
+¿Ves que se acoplan?
+
+531
+00:44:38,879 --> 00:44:40,199
+Hay otro artefacto.
+
+532
+00:44:40,714 --> 00:44:41,992
+¿Está seguro?
+
+533
+00:44:42,273 --> 00:44:43,488
+Lo dibujé.
+
+534
+00:44:43,589 --> 00:44:45,033
+Una y otra vez.
+
+535
+00:44:45,373 --> 00:44:46,942
+Mi madre estaba ahí.
+
+536
+00:44:47,400 --> 00:44:48,967
+Mi padre enterró...
+
+537
+00:44:49,260 --> 00:44:51,536
+Vi... Debí haber visto...
+
+538
+00:44:53,436 --> 00:44:55,880
+¿Y si lo que enterramos
+fue el otro artefacto?
+
+539
+00:44:56,218 --> 00:44:58,643
+Jefe, su presión sanguínea
+está peligrosamente alta.
+
+540
+00:44:58,744 --> 00:45:01,285
+- Volvamos a la barraca.
+- Anillos de hielo.
+
+541
+00:45:01,386 --> 00:45:03,979
+El planeta donde vivía
+tenía anillos de hielo.
+
+542
+00:45:04,080 --> 00:45:06,172
+¿Cuántos planetas de la lista
+tienen anillos?
+
+543
+00:45:06,273 --> 00:45:08,839
+- ¿Visibles desde la superficie?
+- Sí.
+
+544
+00:45:09,254 --> 00:45:10,697
+Sólo tres.
+
+545
+00:45:11,806 --> 00:45:13,051
+Muéstramelos.
+
+546
+00:45:22,244 --> 00:45:23,808
+Es aquí.
+
+547
+00:45:24,452 --> 00:45:25,408
+Estoy seguro.
+
+548
+00:45:25,509 --> 00:45:27,077
+Eridanus II.
+
+549
+00:45:27,602 --> 00:45:30,776
+Pero ¿cómo pude haber vivido ahí?
+Eridanus está inhabitado.
+
+550
+00:45:30,877 --> 00:45:32,251
+No siempre fue así.
+
+551
+00:45:32,352 --> 00:45:35,518
+El planeta fue seleccionado
+para el programa Reach for Life.
+
+552
+00:45:35,619 --> 00:45:38,854
+Reach for Life es una ambiciosa
+proeza del ingenio humano.
+
+553
+00:45:38,955 --> 00:45:42,774
+Equipos de biólogos, botánicos
+y geofísicos del UNSC
+
+554
+00:45:42,966 --> 00:45:44,521
+diseñaron y construyeron
+la instalación
+
+555
+00:45:44,622 --> 00:45:46,590
+para ser un ecosistema
+autosustentable.
+
+556
+00:45:46,691 --> 00:45:50,280
+El objetivo era sembrar vida
+en planetas estériles
+
+557
+00:45:50,381 --> 00:45:53,318
+y extender el alcance
+de la humanidad en la galaxia.
+
+558
+00:45:53,419 --> 00:45:54,366
+Soy de aquí.
+
+559
+00:45:54,467 --> 00:45:57,116
+Eso, según el material promocional.
+
+560
+00:45:58,042 --> 00:45:59,650
+¿Aquí es donde vivía?
+
+561
+00:45:59,751 --> 00:46:02,695
+Según sus recuerdos, es muy probable.
+
+562
+00:46:03,861 --> 00:46:05,805
+¿Cómo que según mis recuerdos?
+
+563
+00:46:06,195 --> 00:46:07,478
+¿No puedes ver los registros?
+
+564
+00:46:07,579 --> 00:46:08,696
+Los archivos operacionales
+
+565
+00:46:08,797 --> 00:46:11,031
+se perdieron cuando
+cancelaron el programa.
+
+566
+00:46:11,921 --> 00:46:13,163
+¿Por qué? ¿Qué pasó?
+
+567
+00:46:13,264 --> 00:46:16,496
+Una plaga que llegó en una nave
+de transporte no autorizada
+
+568
+00:46:16,686 --> 00:46:19,474
+se propagó rápidamente,
+matando a la mayoría de la población.
+
+569
+00:46:19,575 --> 00:46:21,225
+No hubo cura.
+
+570
+00:46:21,783 --> 00:46:23,023
+¿Y mis padres?
+
+571
+00:46:23,124 --> 00:46:25,026
+Los sobrevivientes
+evacuaron a Ehilend,
+
+572
+00:46:25,127 --> 00:46:27,402
+- donde fue adoptado a los seis...
+- Cortana.
+
+573
+00:46:29,011 --> 00:46:31,162
+¿Qué les pasó a mis padres?
+
+574
+00:46:31,826 --> 00:46:34,394
+Según el Protocolo de Contacto
+de Emergencia Upsilon,
+
+575
+00:46:34,495 --> 00:46:37,522
+el planeta fue puesto en cuarentena
+para contener el virus.
+
+576
+00:46:39,389 --> 00:46:41,082
+No tengo más información.
+
+577
+00:46:47,345 --> 00:46:49,790
+- Lo lamento, Jefe.
+- ¿John?
+
+578
+00:46:49,891 --> 00:46:50,633
+¿Qué está pasando?
+
+579
+00:46:50,734 --> 00:46:52,840
+- Dra. Halsey.
+- ¿Qué haces aquí?
+
+580
+00:46:52,941 --> 00:46:56,383
+Al quitarme las hormonas, supe que
+un estado hormonal alterado afectaría
+
+581
+00:46:56,484 --> 00:46:57,508
+- mi interacción con el artefacto.
+- ¿Te las quitaste?
+
+582
+00:46:57,609 --> 00:47:00,688
+Hay dos artefactos.
+
+583
+00:47:00,789 --> 00:47:03,093
+El que encontré
+en Madrigal y otro
+
+584
+00:47:03,486 --> 00:47:05,251
+que se acopla al primero
+de alguna forma.
+
+585
+00:47:05,352 --> 00:47:07,048
+Lo vi de niño.
+
+586
+00:47:07,162 --> 00:47:08,812
+En Eridanus II.
+
+587
+00:47:09,662 --> 00:47:11,144
+¿Estás seguro?
+
+588
+00:47:14,797 --> 00:47:17,908
+Las imágenes...
+que he estado viendo...
+
+589
+00:47:20,255 --> 00:47:21,989
+son recuerdos.
+
+590
+00:47:22,399 --> 00:47:24,156
+Recuerdos míos.
+
+591
+00:47:24,257 --> 00:47:25,908
+De mi familia.
+
+592
+00:47:29,608 --> 00:47:32,101
+Mandaremos sondas a Eridanus II,
+haremos mediciones y...
+
+593
+00:47:32,202 --> 00:47:33,519
+No.
+
+594
+00:47:34,441 --> 00:47:36,167
+Yo iré.
+
+595
+00:47:36,268 --> 00:47:39,755
+Mande sondas, recabe sus datos.
+Esto tengo que verlo yo mismo.
+
+596
+00:47:40,403 --> 00:47:41,843
+John.
+
+597
+00:47:44,153 --> 00:47:45,681
+Iré contigo.
+
+598
+00:48:01,213 --> 00:48:03,319
+ECAM panel dos.
+
+599
+00:48:04,586 --> 00:48:06,986
+¿FMS? ¿Dónde diablos está?
+
+600
+00:48:07,961 --> 00:48:09,239
+¡Maldita sea!
+
+601
+00:48:11,655 --> 00:48:15,890
+Estas viejas aves no son
+como las nuevas naves del UNSC.
+
+602
+00:48:16,172 --> 00:48:18,074
+El FMS está del otro lado.
+
+603
+00:48:19,297 --> 00:48:21,512
+Iré a liberar Madrigal
+y no puedes detenerme.
+
+604
+00:48:21,613 --> 00:48:24,642
+Podría matarte por intentar
+robar mi nave favorita.
+
+605
+00:48:25,234 --> 00:48:26,844
+Eso te detendría.
+
+606
+00:48:27,534 --> 00:48:28,941
+Escucha, Soren.
+
+607
+00:48:29,042 --> 00:48:31,025
+Si encuentro
+a los generales de mi padre,
+
+608
+00:48:31,126 --> 00:48:33,359
+me uniré a la lucha
+contra Vinsher.
+
+609
+00:48:34,143 --> 00:48:37,502
+- Tengo dinero.
+- No tienes nada.
+
+610
+00:48:37,637 --> 00:48:38,582
+Mi familia es rica.
+
+611
+00:48:38,683 --> 00:48:41,086
+- ¿Qué tan rica?
+- Hizo su fortuna con deuterio.
+
+612
+00:48:43,039 --> 00:48:46,562
+¿Crees que lo que queda del ejército
+de tu padre derrotará a Vinsher?
+
+613
+00:48:46,663 --> 00:48:48,023
+Ese no es tu problema.
+
+614
+00:48:48,279 --> 00:48:50,933
+Sólo tienes que llevarme con ellos
+y te pagaré.
+
+615
+00:48:51,272 --> 00:48:52,565
+¿Así nada más?
+
+616
+00:48:52,666 --> 00:48:54,105
+Así nada más.
+
+617
+00:48:59,099 --> 00:49:00,709
+Fortuna de deuterio, ¿no?
+
+618
+00:49:01,042 --> 00:49:02,607
+Lo juro. No te arrepentirás.
+
+619
+00:49:02,708 --> 00:49:05,568
+Sé que no me arrepentiré
+porque igual me pagarán.
+
+620
+00:49:06,334 --> 00:49:10,150
+Si tú no me pagas,
+cobraré la recompensa por tu cabeza.
+
+621
+00:49:10,851 --> 00:49:12,130
+¿Entendiste?
+
+622
+00:49:31,965 --> 00:49:33,533
+<i>ÍNDICE: SIN ARCHIVOS ENCONTRADOS</i>
+
+623
+00:49:33,634 --> 00:49:35,662
+<i>ESTERILIZACIÓN DE INFORMACIÓN
+ACTIVADA</i>
+
+624
+00:49:39,928 --> 00:49:41,577
+¿Me escuchan?
+
+625
+00:49:41,843 --> 00:49:43,622
+Sí, Bendecida.
+
+626
+00:49:44,388 --> 00:49:46,804
+Voy de regreso a la nave.
+
+627
+00:49:46,905 --> 00:49:48,629
+Aquí no hay nada.
+
+628
+00:49:48,730 --> 00:49:50,755
+Iremos a Madrigal.
+
+629
+00:49:50,887 --> 00:49:54,537
+Iremos a donde encontraron
+la clave
+
+630
+00:49:54,638 --> 00:49:57,540
+y encontraremos el anillo sagrado.
+
+631
+00:50:07,851 --> 00:50:08,820
+Es Sangheili.
+
+632
+00:50:08,921 --> 00:50:11,393
+Fragmentos de la última transmisión
+del Gladius.
+
+633
+00:50:11,494 --> 00:50:13,927
+El ruido electromagnético
+corrompió la señal.
+
+634
+00:50:14,028 --> 00:50:16,784
+La inteligencia artificial
+pudo reconstruirlo parcialmente,
+
+635
+00:50:16,885 --> 00:50:19,913
+- pero no sabemos quién habla.
+- Debe ser un elite.
+
+636
+00:50:20,203 --> 00:50:22,878
+Son los jefes. La infantería
+no suele usar comunicaciones.
+
+637
+00:50:22,979 --> 00:50:25,314
+- ¿Qué está diciendo?
+- Trabajaré en eso
+
+638
+00:50:25,415 --> 00:50:27,939
+en cuanto me recupere
+de la falla en mi sistema.
+
+639
+00:50:28,516 --> 00:50:31,107
+- ¿Fue la sobrecarga?
+- No, fue después de eso.
+
+640
+00:50:31,208 --> 00:50:34,150
+Cuando Parangosky
+creó los "equipos paralelos".
+
+641
+00:50:36,041 --> 00:50:37,758
+La Dra. Halsey salió a una misión.
+
+642
+00:50:37,859 --> 00:50:41,136
+Estará lejos del Comando de la Flota
+y lejos del artefacto.
+
+643
+00:50:41,666 --> 00:50:43,884
+Protege tus datos importantes
+con un cortafuegos
+
+644
+00:50:43,985 --> 00:50:46,553
+y aprovecha bien el tiempo.
+
+645
+00:50:53,254 --> 00:50:55,072
+Entonces, ¿es este?
+
+646
+00:50:55,824 --> 00:50:59,473
+Es lo que Cortana generó
+basada en la descripción de John.
+
+647
+00:50:59,574 --> 00:51:01,933
+Ya viste lo que el artefacto pequeño
+puede hacer.
+
+648
+00:51:02,034 --> 00:51:05,349
+¿Te imaginas el potencial
+que tendrán al combinarse?
+
+649
+00:51:05,532 --> 00:51:08,183
+¿Cree que encontremos
+la otra pieza en Eridanus?
+
+650
+00:51:08,490 --> 00:51:10,184
+¿O John la está imaginando?
+
+651
+00:51:14,009 --> 00:51:15,661
+Es imposible de saber.
+
+652
+00:51:18,955 --> 00:51:21,813
+Ciertamente, la mente es capaz
+de inventar cosas.
+
+653
+00:51:27,299 --> 00:51:30,447
+Sobre todo, cuando estamos
+perdidos en la oscuridad.
+
+654
+00:51:32,521 --> 00:51:33,882
+Y desesperados.
+
+655
+00:51:44,551 --> 00:51:49,578
+Pero si queremos separar
+lo real de lo imaginario...
+
+656
+00:51:51,712 --> 00:51:53,196
+no tenemos alternativa.
+
+657
+00:51:55,963 --> 00:51:58,294
+Tenemos que verlo
+con nuestros propios ojos.
+
+658
+00:51:58,395 --> 00:52:03,590
+¿Y si volver a Eridanus
+hace que John recuerde más cosas?
+
+659
+00:52:04,424 --> 00:52:06,950
+La verdad nos hundiría a todos.
+
+660
+00:52:10,442 --> 00:52:13,904
+Para eso tenemos a Cortana...
+

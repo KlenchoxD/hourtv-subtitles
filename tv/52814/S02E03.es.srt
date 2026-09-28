@@ -1,0 +1,3182 @@
+1
+00:00:07,742 --> 00:00:09,249
+<i>ANTERIORMENTE EN...</i>
+
+2
+00:00:09,449 --> 00:00:10,632
+<i>Vi a Makee.</i>
+
+3
+00:00:10,832 --> 00:00:11,698
+<i>En Sanctuary.</i>
+
+4
+00:00:11,898 --> 00:00:13,062
+<i>- Makee está muerta.
+- Ya lo sé.</i>
+
+5
+00:00:13,262 --> 00:00:14,896
+<i>Yo le disparé.</i>
+
+6
+00:00:15,096 --> 00:00:18,817
+<i>Tu recuento de los eventos
+ocurridos en Sanctuary es dudoso.</i>
+
+7
+00:00:19,017 --> 00:00:21,891
+<i>Sé cómo piensan ustedes, imbéciles.
+Yo era así.</i>
+
+8
+00:00:22,091 --> 00:00:25,537
+<i>Hay otras cosas que puedes ser,
+hay otras formas de vivir.</i>
+
+9
+00:00:25,737 --> 00:00:28,759
+<i>No te rindas. Levántate.</i>
+
+10
+00:00:28,959 --> 00:00:31,058
+<i>Sé dónde está Catherine Halsey.</i>
+
+11
+00:00:31,258 --> 00:00:32,807
+<i>No le interesa la recompensa, ¿no?</i>
+
+12
+00:00:33,007 --> 00:00:34,822
+<i>Le interesa lo que le hizo.</i>
+
+13
+00:00:35,022 --> 00:00:37,318
+<i>Soren no hubiera abandonado
+a ninguno de ustedes.</i>
+
+14
+00:00:37,518 --> 00:00:39,267
+<i>Estás bajo arresto.</i>
+
+15
+00:00:39,744 --> 00:00:41,274
+<i>Ruby Ann compró al equipo de Soren.</i>
+
+16
+00:00:41,474 --> 00:00:43,463
+<i>Mi papá nos va a proteger
+cuando regrese.</i>
+
+17
+00:00:43,663 --> 00:00:45,331
+<i>¡No va a volver!</i>
+
+18
+00:00:46,504 --> 00:00:48,894
+<i>Quiero presentarte a alguien.</i>
+
+19
+00:00:49,094 --> 00:00:49,994
+<i>Ella es Julia.</i>
+
+20
+00:00:50,194 --> 00:00:51,725
+<i>Ella te va a estar atendiendo.</i>
+
+21
+00:00:51,925 --> 00:00:52,608
+<i>¿Dónde está?</i>
+
+22
+00:00:52,808 --> 00:00:54,606
+<i>¿Cortana? Está segura.</i>
+
+23
+00:00:54,806 --> 00:00:58,604
+<i>¿Has podido avanzar
+con el problema que te di?</i>
+
+24
+00:00:58,804 --> 00:01:01,009
+<i>Todas mis simulaciones
+dan el mismo resultado,</i>
+
+25
+00:01:01,209 --> 00:01:03,732
+<i>sin importar qué acciones se tomen.</i>
+
+26
+00:01:03,932 --> 00:01:05,573
+<i>Entonces no hay nada que hacer.</i>
+
+27
+00:01:05,773 --> 00:01:09,812
+<i>Estaba escaneando la banda
+y oí algo en la interferencia.</i>
+
+28
+00:01:11,195 --> 00:01:14,367
+<i>Escuchaste un mensaje.
+Esto va a volver a pasar.</i>
+
+29
+00:01:14,567 --> 00:01:17,741
+<i>Quiero que busques evidencias de
+las otras actividades del Covenant.</i>
+
+30
+00:01:17,941 --> 00:01:20,280
+<i>Presiona el botón y yo te encontraré.</i>
+
+31
+00:01:20,480 --> 00:01:23,528
+<i>El nuevo nos tiene escoltando
+a un equipo de reparación.</i>
+
+32
+00:01:23,728 --> 00:01:25,583
+<i>Si envía a Cobalt a otro repetidor,</i>
+
+33
+00:01:25,783 --> 00:01:27,998
+<i>dígales que se enfrentarán
+al Covenant.</i>
+
+34
+00:01:28,198 --> 00:01:31,695
+<i>No autorizaré a Silver
+a realizar operaciones de combate.</i>
+
+35
+00:01:33,053 --> 00:01:34,760
+<i>SIN DESIGNACIÓN</i>
+
+36
+00:01:36,590 --> 00:01:37,973
+<i>¿Nos autorizaron
+para entrar en combate?</i>
+
+37
+00:01:38,173 --> 00:01:39,838
+<i>Afirmativo.</i>
+
+38
+00:01:40,963 --> 00:01:43,419
+<i>¿Cuál es la misión exactamente?</i>
+
+39
+00:01:44,461 --> 00:01:46,876
+<i>El Covenant está en Reach.</i>
+
+40
+00:01:58,122 --> 00:02:00,859
+<i>SECTOR DE VISEGRÁD</i>
+
+41
+00:02:05,843 --> 00:02:08,554
+Distancia a objetivo: 7 km.
+
+42
+00:02:14,315 --> 00:02:14,918
+Riz.
+
+43
+00:02:15,118 --> 00:02:18,872
+Cobalt-Tres-Romeo,
+habla Silver 3. Cambio.
+
+44
+00:02:20,217 --> 00:02:22,212
+Cualquier elemento Cobalt,
+habla Silver 3.
+
+45
+00:02:22,412 --> 00:02:25,958
+Estamos en camino a su posición,
+¿nos escuchan?
+
+46
+00:02:28,130 --> 00:02:29,108
+Prueba con el repetidor.
+
+47
+00:02:29,308 --> 00:02:31,252
+Repetidor de Visegrád,
+habla Silver 3.
+
+48
+00:02:31,452 --> 00:02:34,121
+Chequeo de radio. Cambio.
+
+49
+00:02:34,416 --> 00:02:35,692
+¿Tendremos apoyo aéreo?
+
+50
+00:02:35,892 --> 00:02:37,396
+Repetidor de Visegrád,
+habla Silver 3.
+
+51
+00:02:37,596 --> 00:02:38,874
+¿Dónde están los demás?
+
+52
+00:02:39,074 --> 00:02:40,867
+Estamos sólos.
+
+53
+00:02:41,111 --> 00:02:43,797
+El Mando de la Flota no cree
+que el Covenant esté en Reach.
+
+54
+00:02:43,997 --> 00:02:46,058
+Creen que el Equipo Cobalt
+desapareció.
+
+55
+00:02:46,258 --> 00:02:48,296
+Esta es una misión
+de búsqueda y rescate.
+
+56
+00:02:48,496 --> 00:02:49,758
+Pero preparémonos para la posibilidad
+
+57
+00:02:49,958 --> 00:02:51,880
+de que Cobalt
+se haya topado con algo.
+
+58
+00:02:52,080 --> 00:02:53,847
+¿Algo como el Covenant?
+
+59
+00:02:54,047 --> 00:02:56,519
+El Mando cree que Reach es intocable.
+
+60
+00:02:56,719 --> 00:03:00,392
+No han visto lo que nosotros sí.
+Ni saben lo que sabemos.
+
+61
+00:03:00,592 --> 00:03:03,447
+De algo estoy seguro:
+Haremos contacto con el Covenant.
+
+62
+00:03:03,647 --> 00:03:07,235
+Hasta entonces, estamos sólos.
+
+63
+00:03:09,658 --> 00:03:11,952
+¿Esto te parece bien?
+
+64
+00:04:36,361 --> 00:04:40,991
+<i>Halo - S02E03
+
+65
+00:05:25,662 --> 00:05:27,306
+Revisa si hay energía.
+
+66
+00:05:27,506 --> 00:05:29,507
+Sí, Jefe.
+
+67
+00:05:34,349 --> 00:05:36,142
+Se fueron de prisa.
+
+68
+00:05:36,409 --> 00:05:38,284
+No hay rastro de Cobalt.
+
+69
+00:05:39,371 --> 00:05:41,081
+No hay señales de...
+
+70
+00:05:41,305 --> 00:05:43,057
+¿Qué diablos es eso?
+
+71
+00:05:59,730 --> 00:06:01,031
+¿Qué demonios fue eso?
+
+72
+00:06:01,231 --> 00:06:03,426
+No sé, nunca había oído algo así.
+
+73
+00:06:03,626 --> 00:06:05,586
+Yo sí.
+
+74
+00:06:05,987 --> 00:06:08,073
+En Sanctuary.
+
+75
+00:06:15,684 --> 00:06:17,892
+¿Ya le crees?
+
+76
+00:06:51,738 --> 00:06:54,974
+<i>ANÁLISIS DE ONDAS</i>
+
+77
+00:07:13,598 --> 00:07:15,308
+¡En descanso!
+
+78
+00:07:16,268 --> 00:07:18,680
+Dígale a su equipo
+que baje sus armas, Jefe Maestro.
+
+79
+00:07:18,880 --> 00:07:20,509
+¿Qué está pasando?
+
+80
+00:07:20,709 --> 00:07:21,608
+Jefe.
+
+81
+00:07:21,808 --> 00:07:23,477
+Ahora.
+
+82
+00:07:23,986 --> 00:07:26,016
+Ni te imaginas
+en cuántos problemas estás.
+
+83
+00:07:26,216 --> 00:07:28,612
+Ni te imaginas la paliza
+que te voy a dar.
+
+84
+00:07:28,812 --> 00:07:29,395
+¿Quiénes son estos?
+
+85
+00:07:29,595 --> 00:07:32,007
+Traigo órdenes del Mando de la Flota.
+
+86
+00:07:32,207 --> 00:07:33,634
+- ¿Qué órdenes?
+- Detenerlos.
+
+87
+00:07:33,834 --> 00:07:36,387
+Está interfiriendo en mi misión.
+A un lado.
+
+88
+00:07:36,587 --> 00:07:38,715
+No tiene ninguna misión.
+
+89
+00:07:38,915 --> 00:07:40,415
+- Se robó un Condor.
+- ¿Qué?
+
+90
+00:07:40,615 --> 00:07:41,934
+Falsificó el plan de vuelo.
+
+91
+00:07:42,134 --> 00:07:42,944
+¿A qué se refiere?
+
+92
+00:07:43,144 --> 00:07:45,197
+No tienen ni autorización
+de usar los trajes,
+
+93
+00:07:45,397 --> 00:07:47,000
+mucho menos de encañonarme.
+
+94
+00:07:47,200 --> 00:07:49,585
+Si no se rinden,
+tendremos que enfrentarlos.
+
+95
+00:07:49,785 --> 00:07:51,080
+Buena suerte.
+
+96
+00:07:51,280 --> 00:07:52,990
+Jefe, ¿qué hacemos?
+
+97
+00:07:54,609 --> 00:07:56,871
+¿Dónde está el Equipo Cobalt?
+
+98
+00:07:57,071 --> 00:07:57,856
+Última oportunidad.
+
+99
+00:07:58,056 --> 00:07:58,657
+John.
+
+100
+00:07:58,857 --> 00:08:01,126
+Dígame dónde está Cobalt
+o voy a pasar.
+
+101
+00:08:01,326 --> 00:08:03,063
+Le acabo de dar una orden.
+
+102
+00:08:03,263 --> 00:08:05,180
+¿Qué hacemos?
+
+103
+00:08:06,016 --> 00:08:07,932
+¿Jefe?
+
+104
+00:08:12,815 --> 00:08:15,443
+¡En descanso! ¡No disparen!
+
+105
+00:08:18,306 --> 00:08:20,642
+- Jefe.
+- Estaban aquí.
+
+106
+00:08:21,785 --> 00:08:23,788
+Puedo probarlo.
+
+107
+00:08:26,734 --> 00:08:28,945
+Pero no así.
+
+108
+00:08:36,363 --> 00:08:38,423
+Estábamos a unos 300 metros
+de altura.
+
+109
+00:08:38,623 --> 00:08:42,052
+El viento azotaba
+y los cables crujían.
+
+110
+00:08:42,252 --> 00:08:44,290
+Estábamos a -15 grados.
+
+111
+00:08:44,490 --> 00:08:46,599
+- Era enero.
+- Sí.
+
+112
+00:08:46,799 --> 00:08:50,856
+Sí. Y ya no aguantaba.
+
+113
+00:08:51,056 --> 00:08:53,093
+Tenía puesto el arnés.
+
+114
+00:08:53,293 --> 00:08:56,962
+Volteé a ver a Arthur
+y le dije: "¡Ya no aguanto!".
+
+115
+00:08:57,490 --> 00:08:59,033
+Él no podía hacer nada.
+
+116
+00:08:59,233 --> 00:09:00,268
+¿Orinaste al tío Arthur?
+
+117
+00:09:00,468 --> 00:09:02,163
+¡Le oriné encima!
+
+118
+00:09:02,363 --> 00:09:04,530
+No pudo hacer nada.
+
+119
+00:09:05,368 --> 00:09:08,119
+- Levanta la barbilla.
+- Sí.
+
+120
+00:09:11,647 --> 00:09:14,787
+¿Qué diablos te pasa?
+Lo que te conté es muy gracioso.
+
+121
+00:09:14,987 --> 00:09:16,064
+Ya me lo habías contado.
+
+122
+00:09:16,264 --> 00:09:17,564
+¿Y eso qué?
+
+123
+00:09:17,764 --> 00:09:22,372
+Deberías reírte
+aunque ya te lo haya contado.
+
+124
+00:09:22,572 --> 00:09:24,291
+Yo soy el anciano.
+
+125
+00:09:24,491 --> 00:09:27,278
+- No sé de qué te quejas.
+- No me estoy quejando.
+
+126
+00:09:27,478 --> 00:09:30,364
+Digo, pero quieres quejarte.
+
+127
+00:09:30,564 --> 00:09:32,567
+¿Qué pasa?
+
+128
+00:09:32,767 --> 00:09:35,686
+Prometo guardar el secreto.
+
+129
+00:09:36,239 --> 00:09:40,017
+¿Tiene que ver con la cosa
+que no me puedes decir?
+
+130
+00:09:40,217 --> 00:09:41,636
+Se supone que no ibas a recordar eso.
+
+131
+00:09:41,836 --> 00:09:45,423
+No puedo controlar
+qué se me olvida y qué no.
+
+132
+00:09:47,644 --> 00:09:49,896
+Tal vez tenga que irme.
+
+133
+00:09:51,273 --> 00:09:52,767
+¿Cuándo?
+
+134
+00:09:52,967 --> 00:09:55,804
+Y no puedo llevarte conmigo.
+
+135
+00:09:59,227 --> 00:09:59,828
+Lo sé.
+
+136
+00:10:00,028 --> 00:10:01,739
+Quiero llevarte.
+
+137
+00:10:01,939 --> 00:10:05,274
+Pero no puedo.
+
+138
+00:10:07,321 --> 00:10:08,378
+¿Ves ese puente?
+
+139
+00:10:08,578 --> 00:10:10,047
+No puedo. Basta, papá.
+
+140
+00:10:10,247 --> 00:10:11,767
+¿Sabes quién lo construyó?
+
+141
+00:10:11,967 --> 00:10:13,752
+No depende de mí. Ya es muy tarde.
+
+142
+00:10:13,952 --> 00:10:16,121
+Yo construí ese puente.
+
+143
+00:10:16,431 --> 00:10:18,534
+Tu tío Arthur y yo.
+
+144
+00:10:18,734 --> 00:10:22,862
+Cuando lo terminamos,
+lo crucé con tu mamá.
+
+145
+00:10:23,632 --> 00:10:25,549
+Y con tu hermana.
+
+146
+00:10:26,469 --> 00:10:30,055
+Debió haber tenido unos tres años.
+
+147
+00:10:30,489 --> 00:10:32,694
+La tomé de su manita.
+
+148
+00:10:32,894 --> 00:10:33,997
+No quiso que la cargara.
+
+149
+00:10:34,197 --> 00:10:38,825
+Quiso cruzarlo...
+caminando ella sola.
+
+150
+00:10:42,044 --> 00:10:43,708
+Muy bien.
+
+151
+00:10:43,908 --> 00:10:45,867
+¿Cuándo va a venir?
+
+152
+00:10:47,371 --> 00:10:49,413
+Tu hermana.
+
+153
+00:10:51,627 --> 00:10:54,335
+Está muerta, papá.
+
+154
+00:10:54,922 --> 00:10:57,424
+Julia está muerta.
+
+155
+00:10:57,634 --> 00:10:59,885
+También mi mamá.
+
+156
+00:11:02,475 --> 00:11:04,558
+Sí.
+
+157
+00:11:05,394 --> 00:11:08,356
+- Sólo quedamos tú y yo.
+- Ya lo sé.
+
+158
+00:11:09,090 --> 00:11:13,135
+Claro que lo sé.
+No pienses que no me acuerdo.
+
+159
+00:11:16,950 --> 00:11:18,109
+Perdón.
+
+160
+00:11:18,309 --> 00:11:20,018
+Está bien.
+
+161
+00:11:21,371 --> 00:11:24,008
+Perdón. A veces...
+
+162
+00:11:24,208 --> 00:11:26,146
+A veces, me confundo.
+
+163
+00:11:26,346 --> 00:11:28,180
+Está bien.
+
+164
+00:11:30,466 --> 00:11:35,432
+Eso no significa
+que no pueda distinguir la realidad.
+
+165
+00:11:38,559 --> 00:11:40,938
+Nos vemos mañana, ¿sí?
+
+166
+00:11:41,414 --> 00:11:43,123
+Adiós.
+
+167
+00:11:44,861 --> 00:11:46,011
+Prométemelo.
+
+168
+00:11:46,211 --> 00:11:47,397
+Sí, te lo prometo.
+
+169
+00:11:47,597 --> 00:11:52,351
+No. Prométeme que no vas a dejar
+que me capturen vivo.
+
+170
+00:11:59,004 --> 00:12:00,589
+Ausencia sin autorización,
+
+171
+00:12:00,789 --> 00:12:03,551
+uso desautorizado de armas,
+
+172
+00:12:03,751 --> 00:12:05,020
+violación de...
+
+173
+00:12:05,220 --> 00:12:06,473
+<i>JUSTICIA MILITAR</i>
+
+174
+00:12:06,673 --> 00:12:09,650
+¿Cómo se le llama
+a robarse un maldito Condor?
+
+175
+00:12:09,850 --> 00:12:10,450
+Señor...
+
+176
+00:12:10,650 --> 00:12:13,179
+Quince infracciones
+del Código de Justicia Militar.
+
+177
+00:12:13,379 --> 00:12:16,876
+Entre los cuales está
+encañonar a una oficial.
+
+178
+00:12:17,076 --> 00:12:17,876
+Esa fui yo, señor.
+
+179
+00:12:18,076 --> 00:12:19,629
+Señor, tenía información fiable...
+
+180
+00:12:19,829 --> 00:12:22,082
+No tenía más que un presentimiento.
+
+181
+00:12:22,282 --> 00:12:24,283
+Un delirio.
+
+182
+00:12:24,961 --> 00:12:27,420
+Pasó por encima
+de la cadena de mando.
+
+183
+00:12:28,390 --> 00:12:30,224
+¿No es así?
+
+184
+00:12:33,230 --> 00:12:34,349
+Sí, señor.
+
+185
+00:12:34,549 --> 00:12:37,884
+<i>CÓDIGO DE UNIFORMIDAD
+DE JUSTICIA MILITAR</i>
+
+186
+00:12:38,218 --> 00:12:39,188
+Con efecto inmediato,
+
+187
+00:12:39,388 --> 00:12:41,834
+el Equipo Silver queda suspendido
+de toda operación de combate
+
+188
+00:12:42,034 --> 00:12:43,018
+hasta nuevo aviso.
+
+189
+00:12:43,218 --> 00:12:44,495
+Almirante Keyes, sé que...
+
+190
+00:12:44,695 --> 00:12:46,640
+¡No sabes nada!
+
+191
+00:12:46,840 --> 00:12:49,684
+Porque tu trabajo no es saber nada.
+Ese es mi trabajo.
+
+192
+00:12:49,884 --> 00:12:51,536
+Tu trabajo es seguir órdenes.
+
+193
+00:12:51,736 --> 00:12:54,655
+El Equipo Cobalt
+estaba en Visegrád, señor.
+
+194
+00:12:56,661 --> 00:12:57,962
+<i>MISIÓN COBALT</i>
+
+195
+00:12:59,105 --> 00:13:00,715
+¿Qué es eso?
+
+196
+00:13:00,915 --> 00:13:06,212
+Hace cuatro días,
+Cobalt fue enviado a Aktis IV.
+
+197
+00:13:09,160 --> 00:13:11,118
+No, esto está mal.
+
+198
+00:13:13,181 --> 00:13:14,716
+Yo vi el plan de vuelo de Cobalt.
+
+199
+00:13:14,916 --> 00:13:15,516
+Jefe.
+
+200
+00:13:15,716 --> 00:13:16,817
+Lo vi.
+
+201
+00:13:17,017 --> 00:13:18,893
+¡Lo cambiaron!
+
+202
+00:13:24,805 --> 00:13:26,972
+Sé lo que vi.
+
+203
+00:13:30,704 --> 00:13:33,557
+John 117 queda suspendido
+de servicio activo
+
+204
+00:13:33,757 --> 00:13:35,077
+y permanecerá acuartelado
+
+205
+00:13:35,277 --> 00:13:39,056
+hasta que apruebe
+una evaluación psiquiátrica...
+
+206
+00:13:39,256 --> 00:13:39,956
+¿Qué?
+
+207
+00:13:40,156 --> 00:13:42,795
+Su conducta y actividad neuroquímica
+serán monitoreadas...
+
+208
+00:13:42,995 --> 00:13:45,272
+- ¿Lo dice usted o Ackerson?
+- John, basta.
+
+209
+00:13:45,472 --> 00:13:48,306
+Guarden sus trajes. Retírense.
+
+210
+00:13:52,607 --> 00:13:54,826
+¿Siquiera intentó defendernos?
+
+211
+00:13:55,026 --> 00:13:58,696
+De no ser por mí,
+estarían esperando una corte marcial.
+
+212
+00:14:03,929 --> 00:14:05,324
+Nos mentiste.
+
+213
+00:14:05,524 --> 00:14:07,556
+Les dije lo necesario
+para completar la misión.
+
+214
+00:14:07,756 --> 00:14:09,928
+- No había ninguna misión.
+- Cobalt estaba en Visegrád.
+
+215
+00:14:10,128 --> 00:14:12,372
+- ¿Podemos hablar?
+- Es Inteligencia Naval.
+
+216
+00:14:12,572 --> 00:14:14,135
+- Ackerson hizo esto.
+- Jefe, por favor.
+
+217
+00:14:14,335 --> 00:14:16,302
+- ¿Qué creen que hace aquí?
+- Yo me voy.
+
+218
+00:14:16,502 --> 00:14:18,335
+¿A dónde crees que vas?
+
+219
+00:14:18,913 --> 00:14:19,940
+Vannak.
+
+220
+00:14:20,140 --> 00:14:21,785
+- Perdiste el control.
+- ¿Qué?
+
+221
+00:14:21,985 --> 00:14:23,971
+Estás comportándote
+muy erráticamente.
+
+222
+00:14:24,171 --> 00:14:26,282
+¿Desde cuándo cuestionas mi juicio?
+
+223
+00:14:26,482 --> 00:14:28,816
+Desde que empezaste a ver muertos.
+
+224
+00:14:30,363 --> 00:14:34,168
+No le conté a nadie que me dijiste
+que viste a Makee en Sanctuary.
+
+225
+00:14:34,368 --> 00:14:35,985
+John.
+
+226
+00:14:36,185 --> 00:14:38,187
+Quiero ayudarte.
+
+227
+00:14:38,540 --> 00:14:40,393
+Te lo digo como tu amiga.
+
+228
+00:14:40,593 --> 00:14:42,328
+No necesito amigos, suboficial.
+
+229
+00:14:42,528 --> 00:14:44,405
+Necesito a mis Spartans.
+
+230
+00:14:44,714 --> 00:14:47,090
+¿Por qué no se concentra en eso?
+
+231
+00:14:49,502 --> 00:14:52,505
+Oiga, 125, ¡no he dicho
+que pueda retirarse!
+
+232
+00:15:00,099 --> 00:15:03,502
+<i>LOS ESCOMBROS
+SISTEMA 23 LIBRAE</i>
+
+233
+00:15:27,770 --> 00:15:29,937
+¿Quién es esa?
+
+234
+00:15:42,435 --> 00:15:44,101
+¿Kwan?
+
+235
+00:15:48,457 --> 00:15:50,126
+¿Qué estás haciendo?
+
+236
+00:15:50,418 --> 00:15:51,571
+- Corres peligro.
+- Ya me di cuenta.
+
+237
+00:15:51,771 --> 00:15:55,272
+No me refiero a Ruby Ann.
+Me refiero a tu equipo.
+
+238
+00:15:56,904 --> 00:15:58,962
+Ruby Ann los sobornó.
+
+239
+00:15:59,162 --> 00:16:01,105
+- Traicionaron a Soren.
+- ¿Qué?
+
+240
+00:16:01,305 --> 00:16:03,266
+Y van tras de ti.
+
+241
+00:16:04,434 --> 00:16:05,636
+¿Soren está...
+
+242
+00:16:05,836 --> 00:16:09,170
+No sé. Vamos por Kessler y huyamos.
+
+243
+00:16:19,519 --> 00:16:22,421
+- Amigo, te di.
+- No es cierto.
+
+244
+00:16:22,621 --> 00:16:25,716
+¿Es broma? Estoy muy cerca.
+Por favor, amigo.
+
+245
+00:16:25,916 --> 00:16:27,058
+- Pero es el Jefe Maestro.
+- Sí.
+
+246
+00:16:27,258 --> 00:16:29,653
+Es el Jefe Maestro hecho pedazos.
+
+247
+00:16:29,853 --> 00:16:32,731
+- No, no me diste.
+- Bueno.
+
+248
+00:16:33,530 --> 00:16:35,700
+¿Qué hacen aquí?
+
+249
+00:16:35,994 --> 00:16:37,825
+Estamos jugando.
+
+250
+00:16:38,469 --> 00:16:40,272
+Buenas noticias.
+
+251
+00:16:40,472 --> 00:16:42,069
+La nave está lista.
+
+252
+00:16:42,269 --> 00:16:44,183
+Ya podemos irnos.
+
+253
+00:16:44,501 --> 00:16:46,655
+Dijiste que iba a tardar unos días.
+
+254
+00:16:46,855 --> 00:16:48,347
+Pero se trata de Soren.
+
+255
+00:16:48,547 --> 00:16:50,716
+Trabajamos toda la noche.
+
+256
+00:16:51,036 --> 00:16:52,137
+Ven.
+
+257
+00:16:52,337 --> 00:16:53,151
+No hemos terminado.
+
+258
+00:16:53,351 --> 00:16:55,020
+Kessler.
+
+259
+00:17:00,894 --> 00:17:02,645
+Ya tenemos que irnos.
+
+260
+00:17:03,980 --> 00:17:05,786
+- ¿Puedo ir con ustedes?
+- Sí.
+
+261
+00:17:05,986 --> 00:17:08,275
+- No.
+- Tenemos que ir todos.
+
+262
+00:17:09,711 --> 00:17:11,506
+Todos somos familia.
+
+263
+00:17:11,706 --> 00:17:13,140
+Adelántense, los veo en la nave.
+
+264
+00:17:13,340 --> 00:17:14,241
+Te esperamos.
+
+265
+00:17:14,441 --> 00:17:16,610
+No quiero hacerlos esperar.
+
+266
+00:17:17,451 --> 00:17:19,495
+Los alcanzo.
+
+267
+00:17:21,083 --> 00:17:21,685
+Carina.
+
+268
+00:17:21,885 --> 00:17:23,716
+No me molesta esperar.
+
+269
+00:17:25,046 --> 00:17:26,713
+Carina.
+
+270
+00:17:27,989 --> 00:17:29,781
+Vámonos.
+
+271
+00:17:52,783 --> 00:17:54,575
+Ve por tus cosas.
+
+272
+00:18:00,611 --> 00:18:02,859
+Kwan, ya puedes salir.
+
+273
+00:18:19,980 --> 00:18:22,747
+¿Esto tenían en mente cuando
+se unieron a Inteligencia Naval?
+
+274
+00:18:22,947 --> 00:18:26,116
+A nosotros tampoco
+nos gusta esto, Jefe.
+
+275
+00:18:36,062 --> 00:18:38,522
+Siento que nos conocemos íntimamente
+por lo cerca que están.
+
+276
+00:18:38,722 --> 00:18:41,599
+Es una evaluación psiquiátrica
+de rutina, Jefe.
+
+277
+00:18:50,011 --> 00:18:51,676
+Perdón.
+
+278
+00:18:51,903 --> 00:18:53,570
+¿Qué?
+
+279
+00:19:06,728 --> 00:19:07,494
+Hola.
+
+280
+00:19:07,694 --> 00:19:09,399
+Hola, Riz.
+
+281
+00:19:09,599 --> 00:19:11,332
+Nos cancelaron el entrenamiento.
+
+282
+00:19:11,532 --> 00:19:14,869
+Estaba sentada en mi litera
+sin hacer nada.
+
+283
+00:19:15,871 --> 00:19:19,206
+- Y...
+- Y decidiste venir.
+
+284
+00:19:20,328 --> 00:19:22,077
+Sí.
+
+285
+00:19:26,216 --> 00:19:27,449
+Mira quién llegó.
+
+286
+00:19:27,649 --> 00:19:29,178
+¡Hola! Quédate a cenar.
+
+287
+00:19:29,378 --> 00:19:31,251
+Adiós a nuestra cita.
+
+288
+00:19:31,520 --> 00:19:32,421
+Lo siento.
+
+289
+00:19:32,621 --> 00:19:33,966
+No, no le hagas caso.
+
+290
+00:19:34,166 --> 00:19:35,866
+Su idea de una cita
+es quedarse dormido
+
+291
+00:19:36,066 --> 00:19:38,422
+viendo el enlace satelital
+mientras yo lavo los platos.
+
+292
+00:19:38,622 --> 00:19:41,766
+Amor, la máquina
+lava los platos, no tú.
+
+293
+00:19:41,966 --> 00:19:44,227
+Yo presiono el botón.
+
+294
+00:19:44,427 --> 00:19:46,004
+Ven aquí.
+
+295
+00:19:46,204 --> 00:19:47,070
+Anímate.
+
+296
+00:19:47,270 --> 00:19:47,940
+Espero que tengas hambre.
+
+297
+00:19:48,140 --> 00:19:50,140
+Puedo darte tratamiento
+cuando acabemos.
+
+298
+00:19:50,340 --> 00:19:52,174
+No vine por eso.
+
+299
+00:19:52,411 --> 00:19:54,412
+¿Todo bien?
+
+300
+00:19:55,956 --> 00:19:59,877
+Empecé a caminar...
+
+301
+00:20:00,334 --> 00:20:03,222
+pero resulta que no tengo
+ningún lugar a dónde ir.
+
+302
+00:20:03,422 --> 00:20:06,032
+Por Dios, me estás deprimiendo.
+
+303
+00:20:06,232 --> 00:20:09,234
+Ahora vamos a tener que tomar algo.
+Siéntate.
+
+304
+00:20:13,039 --> 00:20:15,801
+Todo se ve... hermoso.
+
+305
+00:20:16,001 --> 00:20:17,669
+Gracias.
+
+306
+00:20:18,080 --> 00:20:19,869
+Louis me ayudó.
+
+307
+00:20:20,691 --> 00:20:22,385
+¿Qué vamos a tomar?
+
+308
+00:20:22,585 --> 00:20:24,752
+Lo que más te gusta.
+
+309
+00:20:38,068 --> 00:20:39,859
+Dime qué te pasa.
+
+310
+00:20:40,667 --> 00:20:42,304
+El otro día,
+
+311
+00:20:42,504 --> 00:20:46,400
+dijiste que había
+otras formas de vivir,
+
+312
+00:20:46,600 --> 00:20:50,229
+otras cosas que podía ser.
+
+313
+00:20:50,613 --> 00:20:52,573
+Así es.
+
+314
+00:20:54,002 --> 00:20:56,045
+¿Como qué?
+
+315
+00:21:00,147 --> 00:21:02,684
+No sabíamos que no habían
+autorizado la misión.
+
+316
+00:21:02,884 --> 00:21:05,453
+Ni Vannak, ni Riz, ni yo.
+
+317
+00:21:05,653 --> 00:21:07,622
+No sabíamos nada.
+
+318
+00:21:07,822 --> 00:21:11,028
+Y, para que quede claro,
+el Jefe hizo lo que creyó correcto.
+
+319
+00:21:11,228 --> 00:21:13,146
+Eso es lo que me preocupa.
+
+320
+00:21:13,346 --> 00:21:15,865
+Aprecio que vinieras
+a defender a tu Comandante.
+
+321
+00:21:16,065 --> 00:21:18,174
+El Jefe pasó por encima
+de la cadena de mando
+
+322
+00:21:18,374 --> 00:21:21,545
+y tiene que haber consecuencias.
+Eso lo entiendo.
+
+323
+00:21:21,773 --> 00:21:24,108
+Pero no estamos hechos
+para quedarnos de brazos cruzados.
+
+324
+00:21:24,308 --> 00:21:26,226
+No es bueno para nosotros.
+
+325
+00:21:26,511 --> 00:21:29,180
+Tenemos que luchar.
+
+326
+00:21:29,513 --> 00:21:31,058
+No voy a cambiar de opinión.
+
+327
+00:21:31,258 --> 00:21:33,545
+No le estoy pidiendo eso.
+
+328
+00:21:33,745 --> 00:21:35,988
+Estamos en guerra, señor.
+
+329
+00:21:36,188 --> 00:21:37,857
+Somos sus mejores armas.
+
+330
+00:21:38,057 --> 00:21:41,126
+¿Sugiere que despliegue
+al Equipo Silver sin su líder?
+
+331
+00:21:41,326 --> 00:21:42,953
+No, señor.
+
+332
+00:21:43,153 --> 00:21:45,196
+Nada más a mí.
+
+333
+00:21:45,464 --> 00:21:47,207
+Temporalmente.
+
+334
+00:21:47,407 --> 00:21:49,102
+Hasta que reautoricen a John.
+
+335
+00:21:49,302 --> 00:21:51,505
+¿Y si no lo reautorizan?
+
+336
+00:21:51,705 --> 00:21:53,997
+Él es el Jefe.
+
+337
+00:21:57,008 --> 00:21:58,443
+Hace veinte minutos,
+
+338
+00:21:58,643 --> 00:22:01,723
+John incapacitó a los soldados
+asignados a monitorearlo
+
+339
+00:22:01,923 --> 00:22:03,416
+y escapó de las instalaciones.
+
+340
+00:22:03,616 --> 00:22:05,282
+¿Qué?
+
+341
+00:22:06,093 --> 00:22:07,652
+¿Te contó sus planes?
+
+342
+00:22:07,852 --> 00:22:09,930
+¿Sus planes? ¿Qué?
+
+343
+00:22:10,130 --> 00:22:11,499
+- ¿Cuáles planes?
+- ¿Dónde está?
+
+344
+00:22:11,699 --> 00:22:12,277
+No sé.
+
+345
+00:22:12,477 --> 00:22:13,794
+La última vez que hablamos,
+
+346
+00:22:13,994 --> 00:22:17,030
+te pregunté si te preocupaba
+el estado mental de John y dijiste...
+
+347
+00:22:17,230 --> 00:22:19,400
+- Eso fue antes...
+- ¿Antes de qué?
+
+348
+00:22:20,400 --> 00:22:23,570
+- ¿Hace cuánto empezó esto?
+- No sé.
+
+349
+00:22:23,770 --> 00:22:24,823
+¿Desde que le extirparon a Cortana
+
+350
+00:22:25,023 --> 00:22:28,441
+o desde que John tuvo contacto
+con la Agente del Covenant?
+
+351
+00:22:29,178 --> 00:22:30,213
+Revisé el archivo.
+
+352
+00:22:30,413 --> 00:22:32,413
+¿Qué está insinuando?
+
+353
+00:22:33,056 --> 00:22:36,892
+Los dos sabemos
+que no está en sus cabales.
+
+354
+00:22:38,277 --> 00:22:41,491
+Mira, Kai, quiero compartirte algo.
+
+355
+00:22:41,691 --> 00:22:45,320
+No como tu superior, sino como...
+
+356
+00:22:49,198 --> 00:22:51,866
+A veces, la gente no mejora.
+
+357
+00:22:53,244 --> 00:22:55,411
+Sólo necesita tiempo.
+
+358
+00:22:56,439 --> 00:23:00,443
+A veces, lastimamos más a la gente
+cuando nos aferramos a ella.
+
+359
+00:23:01,613 --> 00:23:04,612
+No puedo verlo así
+y quedarme de brazos cruzados.
+
+360
+00:23:05,617 --> 00:23:07,657
+Lo sé.
+
+361
+00:23:08,926 --> 00:23:11,261
+Dígame qué hacer.
+
+362
+00:23:16,402 --> 00:23:18,147
+A veces, tardan semanas en llegar.
+
+363
+00:23:18,347 --> 00:23:19,580
+A veces, tardan meses.
+
+364
+00:23:19,780 --> 00:23:21,333
+Y otros nunca llegan.
+
+365
+00:23:21,533 --> 00:23:24,104
+Salimos con cuatro naves de Madrigal.
+
+366
+00:23:24,304 --> 00:23:26,511
+Sólo llegó una.
+
+367
+00:23:28,307 --> 00:23:29,750
+¿Ves eso?
+
+368
+00:23:29,950 --> 00:23:33,245
+Ahí te procesan
+antes de asignarte a una familia.
+
+369
+00:23:33,685 --> 00:23:35,936
+No es gratis.
+
+370
+00:23:36,916 --> 00:23:39,250
+Nada es gratis.
+
+371
+00:23:46,325 --> 00:23:48,370
+Lo lamento.
+
+372
+00:23:48,870 --> 00:23:51,039
+Lamento lo que te pasó.
+
+373
+00:23:51,664 --> 00:23:53,831
+No tienes que lamentarlo.
+
+374
+00:23:54,193 --> 00:23:56,525
+Hay gente a quien le va peor.
+
+375
+00:23:56,878 --> 00:23:59,666
+Y, a veces, creo que me lo merezco.
+
+376
+00:23:59,866 --> 00:24:01,067
+Es un castigo.
+
+377
+00:24:01,267 --> 00:24:02,113
+No digas eso.
+
+378
+00:24:02,313 --> 00:24:04,143
+Es la verdad.
+
+379
+00:24:04,842 --> 00:24:07,566
+No debería estar aquí.
+Esta no es mi vida.
+
+380
+00:24:07,766 --> 00:24:10,802
+Les fallé a mi gente y a mi planeta.
+
+381
+00:24:11,002 --> 00:24:12,330
+No fue tu culpa.
+
+382
+00:24:12,530 --> 00:24:14,488
+Soy Kwan Ha.
+
+383
+00:24:15,957 --> 00:24:18,166
+Mi familia...
+
+384
+00:24:18,560 --> 00:24:22,981
+llevaba protegiendo Madrigal
+generaciones tras generaciones.
+
+385
+00:24:24,265 --> 00:24:26,182
+Y cuando fue mi turno...
+
+386
+00:24:28,545 --> 00:24:30,214
+Kwan...
+
+387
+00:24:33,609 --> 00:24:36,274
+Vámonos.
+Podemos pasar desapercibidos.
+
+388
+00:24:36,878 --> 00:24:38,053
+Tenemos que irnos ya.
+
+389
+00:24:38,253 --> 00:24:41,048
+¡Rápido! No se detengan.
+
+390
+00:24:58,194 --> 00:25:00,778
+Quítate el casco
+o te van a reconocer.
+
+391
+00:25:05,351 --> 00:25:06,569
+¿Nos estamos escondiendo?
+
+392
+00:25:06,769 --> 00:25:07,863
+No.
+
+393
+00:25:08,063 --> 00:25:09,180
+¿A dónde vamos?
+
+394
+00:25:09,380 --> 00:25:11,465
+A rescatar a tu papá.
+
+395
+00:25:12,118 --> 00:25:14,034
+¿Deberíamos tener miedo?
+
+396
+00:25:16,088 --> 00:25:17,123
+No.
+
+397
+00:25:17,323 --> 00:25:19,158
+No se alejen.
+
+398
+00:25:34,405 --> 00:25:38,117
+Agachen la cabeza. No volteen.
+
+399
+00:26:07,574 --> 00:26:10,328
+- ¿Ahora sí tenemos miedo?
+- Ponte el cinturón.
+
+400
+00:26:23,726 --> 00:26:27,047
+¡Está despegando!
+
+401
+00:26:27,247 --> 00:26:29,831
+Todo va a estar bien, Kess.
+
+402
+00:26:30,610 --> 00:26:32,941
+Vamos a rescatar a tu papá.
+
+403
+00:26:33,944 --> 00:26:35,779
+Te lo dije.
+
+404
+00:26:38,674 --> 00:26:39,476
+No.
+
+405
+00:26:39,676 --> 00:26:41,509
+No...
+
+406
+00:26:42,620 --> 00:26:43,714
+Maldición.
+
+407
+00:26:43,914 --> 00:26:46,290
+- ¡No vamos a llegar!
+- ¡Agárrense!
+
+408
+00:26:53,466 --> 00:26:55,135
+Mamá.
+
+409
+00:26:56,930 --> 00:26:57,870
+¡Mamá!
+
+410
+00:26:58,070 --> 00:26:59,740
+¡Maldita sea!
+
+411
+00:27:13,754 --> 00:27:14,553
+¿Qué haces?
+
+412
+00:27:14,753 --> 00:27:16,916
+Los voy a distraer.
+Tú llévate a Kessler.
+
+413
+00:27:17,116 --> 00:27:19,452
+- Por la escotilla.
+- ¿Y tú?
+
+414
+00:27:20,302 --> 00:27:22,304
+Paguen con esto
+para subir a esa nave.
+
+415
+00:27:22,504 --> 00:27:23,106
+No.
+
+416
+00:27:23,306 --> 00:27:25,608
+Prométeme que van a subir a esa nave.
+
+417
+00:27:25,808 --> 00:27:28,227
+Prométeme que lo vas a cuidar.
+
+418
+00:27:28,605 --> 00:27:30,010
+¡Abre, Laera!
+
+419
+00:27:30,210 --> 00:27:32,581
+- No, te van a matar.
+- ¿Mamá?
+
+420
+00:27:35,302 --> 00:27:36,637
+Abre, Laera.
+
+421
+00:27:36,837 --> 00:27:39,090
+Nos vemos pronto.
+
+422
+00:27:42,348 --> 00:27:44,978
+No me obligues a quemar la puerta.
+
+423
+00:27:46,648 --> 00:27:48,524
+Eso es.
+
+424
+00:27:49,778 --> 00:27:52,362
+Qué lista.
+Esto pudo haber terminado mal.
+
+425
+00:27:52,863 --> 00:27:54,557
+Laera, lo siento. No quise...
+
+426
+00:27:54,757 --> 00:27:55,935
+Ya cállate.
+
+427
+00:27:56,135 --> 00:27:57,360
+No es nada personal.
+
+428
+00:27:57,560 --> 00:27:59,437
+¡Claro que es personal!
+
+429
+00:28:07,435 --> 00:28:10,763
+Hallamos al Equipo Cobalt
+a 80 metros del repetidor.
+
+430
+00:28:10,963 --> 00:28:13,134
+Estaban en los árboles.
+
+431
+00:28:14,151 --> 00:28:17,079
+Hallamos marcas de plasma en la zona.
+
+432
+00:28:17,279 --> 00:28:19,483
+Creo que los tomaron por sorpresa.
+
+433
+00:28:19,683 --> 00:28:21,890
+Gracias, Capitana.
+
+434
+00:28:22,535 --> 00:28:25,172
+¿Cómo quiere manejar esto?
+
+435
+00:28:25,372 --> 00:28:27,467
+Me refiero a los cuerpos, señor.
+
+436
+00:28:27,667 --> 00:28:29,461
+No hubo ningún cuerpo.
+
+437
+00:28:29,661 --> 00:28:31,577
+Repórtelos como desaparecidos.
+
+438
+00:28:31,777 --> 00:28:32,904
+Sí, señor.
+
+439
+00:28:33,104 --> 00:28:34,771
+Vámonos.
+
+440
+00:28:43,809 --> 00:28:46,436
+¿Se encuentra bien, Almirante?
+
+441
+00:28:48,189 --> 00:28:49,937
+No.
+
+442
+00:28:51,649 --> 00:28:53,818
+Lo comprendo.
+
+443
+00:28:54,653 --> 00:28:55,656
+Es una tragedia.
+
+444
+00:28:55,856 --> 00:28:57,691
+¿Usted sabía?
+
+445
+00:28:58,435 --> 00:28:59,017
+¿Disculpe?
+
+446
+00:28:59,217 --> 00:29:03,496
+¿Usted sabía que las sospechas
+del Jefe Maestro eran válidas
+
+447
+00:29:03,696 --> 00:29:06,593
+cuando envió a nuestros soldados
+a territorio hostil?
+
+448
+00:29:06,793 --> 00:29:08,569
+No me gusta lo que está insinuando.
+
+449
+00:29:08,769 --> 00:29:12,272
+Quiero que me diga lo que sabía.
+Y quiero saber cuándo se enteró.
+
+450
+00:29:12,472 --> 00:29:13,706
+Tranquilícese.
+
+451
+00:29:13,906 --> 00:29:16,199
+¿Que me tranquilice?
+
+452
+00:29:17,220 --> 00:29:18,712
+El Covenant está en Reach.
+
+453
+00:29:18,912 --> 00:29:20,563
+Era cuestión de tiempo.
+
+454
+00:29:20,763 --> 00:29:22,383
+Era inevitable que llegara este día.
+
+455
+00:29:22,583 --> 00:29:24,003
+Son matemáticas, Almirante.
+
+456
+00:29:24,203 --> 00:29:26,355
+Todo análisis y simulación
+da el mismo resultado.
+
+457
+00:29:26,555 --> 00:29:30,096
+- ¡Carajo, esto no es una simulación!
+- Tiene razón.
+
+458
+00:29:31,310 --> 00:29:34,163
+Pero mi trabajo es decidir
+cuál es el siguiente paso.
+
+459
+00:29:34,363 --> 00:29:36,239
+Tenemos que alertar al Mando.
+
+460
+00:29:36,439 --> 00:29:39,983
+Le aseguro que sus superiores
+ya están al tanto.
+
+461
+00:29:44,038 --> 00:29:46,509
+Tenemos que activar
+el Plan de Invierno,
+
+462
+00:29:46,709 --> 00:29:49,202
+empezar a evacuar a los civiles
+de inmediato.
+
+463
+00:29:49,402 --> 00:29:51,554
+Se acabó, Almirante.
+
+464
+00:29:51,754 --> 00:29:53,906
+No vamos a ganar.
+
+465
+00:29:54,106 --> 00:29:59,311
+Si lanza una alerta de evacuación,
+desataremos el caos, el pánico.
+
+466
+00:29:59,511 --> 00:30:02,191
+El escuadrón del Covenant
+atacó al Equipo Cobalt hace días.
+
+467
+00:30:02,391 --> 00:30:04,894
+Su flota ya debe estar cerca.
+
+468
+00:30:05,937 --> 00:30:07,434
+Tenemos un plan,
+
+469
+00:30:07,634 --> 00:30:11,258
+pero requiere que tomemos
+decisiones difíciles.
+
+470
+00:30:13,237 --> 00:30:15,696
+Necesito saber que cuento con usted.
+
+471
+00:30:19,742 --> 00:30:21,186
+¿No vamos a pelear?
+
+472
+00:30:21,386 --> 00:30:23,564
+Eso no fue lo que dije.
+
+473
+00:30:23,764 --> 00:30:27,351
+Vamos a pelear,
+pero no vamos a ganar.
+
+474
+00:30:29,670 --> 00:30:31,490
+- Esto es Reach.
+- Lo sé.
+
+475
+00:30:31,690 --> 00:30:33,525
+Es hogar de millones de personas.
+
+476
+00:30:33,725 --> 00:30:35,906
+- Y salvaremos a las que podamos.
+- Es mi hogar.
+
+477
+00:30:36,106 --> 00:30:38,604
+¡También es mi hogar!
+
+478
+00:30:39,514 --> 00:30:44,435
+No piense que yo
+no lo estoy perdiendo todo.
+
+479
+00:30:45,687 --> 00:30:50,775
+Esta es la realidad, Almirante.
+
+480
+00:30:51,485 --> 00:30:54,612
+Podemos enfrentarla o morir.
+
+481
+00:30:56,660 --> 00:31:00,319
+En este momento, estamos reubicando
+activos esenciales en otros planetas.
+
+482
+00:31:00,519 --> 00:31:02,394
+Empaque sus cosas.
+
+483
+00:31:02,764 --> 00:31:04,722
+No le diga nada a nadie.
+
+484
+00:31:05,668 --> 00:31:07,495
+No voy a huir.
+
+485
+00:31:07,695 --> 00:31:11,696
+Vamos a tener nuestra revancha,
+cuando podamos ganar.
+
+486
+00:31:13,677 --> 00:31:15,969
+Almirante Keyes...
+
+487
+00:31:17,138 --> 00:31:19,305
+¿cuento con usted?
+
+488
+00:31:21,350 --> 00:31:23,809
+Vete al carajo.
+
+489
+00:31:34,990 --> 00:31:37,562
+¿Dónde está mi esposo?
+¿Está vivo?
+
+490
+00:31:37,762 --> 00:31:38,511
+¡Antares!
+
+491
+00:31:38,711 --> 00:31:40,288
+Aún hay tiempo, Antares.
+
+492
+00:31:40,488 --> 00:31:43,114
+No, ya es muy tarde.
+
+493
+00:31:49,132 --> 00:31:51,299
+Vamos, Kwan.
+
+494
+00:31:58,934 --> 00:32:00,766
+Alto.
+
+495
+00:32:01,411 --> 00:32:02,180
+Esperen.
+
+496
+00:32:02,380 --> 00:32:04,171
+¿Y mi mamá?
+
+497
+00:32:09,279 --> 00:32:11,612
+¿La voy a ver pronto?
+
+498
+00:32:13,311 --> 00:32:15,310
+Dime la verdad.
+
+499
+00:32:17,715 --> 00:32:19,796
+Sí.
+
+500
+00:32:27,469 --> 00:32:30,744
+Es el mejor de la ciudad. ¿Quieres?
+
+501
+00:32:30,944 --> 00:32:32,654
+No.
+
+502
+00:32:33,306 --> 00:32:35,058
+Pruébalo.
+
+503
+00:32:35,641 --> 00:32:37,684
+No, gracias.
+
+504
+00:32:45,622 --> 00:32:47,830
+Siempre has tenido este problema.
+
+505
+00:32:48,075 --> 00:32:50,192
+No sabes controlarte.
+
+506
+00:32:50,392 --> 00:32:52,310
+Querrá decir
+que no pueden controlarme.
+
+507
+00:32:52,510 --> 00:32:54,296
+Teníamos un trato.
+
+508
+00:32:54,496 --> 00:32:56,766
+Me ibas a traer información,
+no atención.
+
+509
+00:32:56,966 --> 00:32:57,866
+Tengo información,
+
+510
+00:32:58,066 --> 00:33:00,735
+pero quiero saber
+qué va a hacer con ella.
+
+511
+00:33:02,380 --> 00:33:06,216
+Tenemos una meta en común:
+Ganar la guerra.
+
+512
+00:33:06,469 --> 00:33:09,046
+No te confundas: No soy tu amiga.
+
+513
+00:33:09,246 --> 00:33:10,913
+Está bien.
+
+514
+00:33:18,692 --> 00:33:20,700
+Creo que el Covenant está aquí.
+
+515
+00:33:20,900 --> 00:33:23,028
+¿En el ramen?
+
+516
+00:33:23,256 --> 00:33:25,171
+En Reach.
+
+517
+00:33:30,577 --> 00:33:31,652
+Lo dices en serio.
+
+518
+00:33:31,852 --> 00:33:33,307
+Un equipo de Spartans desapareció.
+
+519
+00:33:33,507 --> 00:33:35,343
+El Mando de la Flota
+está fingiendo demencia.
+
+520
+00:33:35,543 --> 00:33:39,921
+- Y crees que fue el Covenant...
+- Estoy seguro de que fue el Covenant.
+
+521
+00:33:42,216 --> 00:33:44,170
+Te pido que consideres
+lo que estás diciendo.
+
+522
+00:33:44,370 --> 00:33:45,520
+Ya lo consideré.
+
+523
+00:33:45,720 --> 00:33:49,768
+Ya lo pensé, ya lo dije,
+pero nadie me escucha.
+
+524
+00:33:49,968 --> 00:33:50,925
+Inteligencia Naval lo sabe.
+
+525
+00:33:51,125 --> 00:33:53,296
+Baja la voz.
+
+526
+00:33:53,746 --> 00:33:55,216
+Inteligencia Naval lo sabe.
+
+527
+00:33:55,416 --> 00:33:56,949
+Y lo están encubriendo.
+
+528
+00:33:57,149 --> 00:33:59,319
+¿Por qué harían eso?
+
+529
+00:33:59,526 --> 00:34:02,163
+La Oficina de Inteligencia Naval
+se cuida las espaldas.
+
+530
+00:34:02,363 --> 00:34:03,482
+Si te pones en su contra,
+
+531
+00:34:03,682 --> 00:34:06,379
+no va a importar
+que seas el Jefe Maestro.
+
+532
+00:34:06,579 --> 00:34:08,679
+Dejarás de ser útil.
+
+533
+00:34:08,879 --> 00:34:11,173
+Y si dejas de ser útil, entonces...
+
+534
+00:34:11,373 --> 00:34:12,584
+No me está escuchando.
+
+535
+00:34:12,784 --> 00:34:15,789
+¿Por qué luchas, John?
+
+536
+00:34:17,023 --> 00:34:17,834
+¿Qué?
+
+537
+00:34:18,034 --> 00:34:21,019
+¿Por qué luchas?
+
+538
+00:34:21,219 --> 00:34:23,103
+Para ganar.
+
+539
+00:34:23,303 --> 00:34:25,400
+Para defender nuestro hogar.
+
+540
+00:34:25,600 --> 00:34:27,402
+Para la preservación de la humanidad.
+
+541
+00:34:27,602 --> 00:34:29,393
+No.
+
+542
+00:34:29,743 --> 00:34:32,871
+Luchas porque yo te lo ordeno.
+
+543
+00:34:33,106 --> 00:34:37,154
+Eres soldado. Compórtate como tal.
+
+544
+00:34:38,363 --> 00:34:40,323
+Esto es lo que vas a hacer.
+
+545
+00:34:40,523 --> 00:34:42,460
+Vas a regresar.
+
+546
+00:34:42,660 --> 00:34:44,168
+Al Mando de la Flota.
+
+547
+00:34:44,368 --> 00:34:46,324
+Vas a lamer la bota
+que necesites lamer.
+
+548
+00:34:46,524 --> 00:34:49,892
+Cumple tu tiempo de castigo
+con una sonrisa.
+
+549
+00:34:50,092 --> 00:34:52,095
+Y no vuelvas a hablar de esto.
+
+550
+00:34:52,295 --> 00:34:55,130
+Probablemente te den otra medalla.
+
+551
+00:35:04,810 --> 00:35:07,854
+Necesito saber
+que tenemos un entendido.
+
+552
+00:35:08,054 --> 00:35:12,810
+¿Exactamente cuándo fue que dejó
+Inteligencia Naval, Almirante?
+
+553
+00:35:13,010 --> 00:35:15,063
+Si te vas, no podré ayudarte.
+
+554
+00:35:15,263 --> 00:35:17,055
+Nunca la dejó, ¿verdad?
+
+555
+00:35:17,423 --> 00:35:20,258
+En descanso, John.
+
+556
+00:35:21,093 --> 00:35:23,097
+No lo creo.
+
+557
+00:35:40,832 --> 00:35:44,919
+No había entendido
+lo frágiles que son.
+
+558
+00:35:47,090 --> 00:35:47,973
+¿Frágiles?
+
+559
+00:35:48,173 --> 00:35:51,469
+Sí. Porque así los hiciste.
+
+560
+00:35:52,781 --> 00:35:54,232
+Los secuestraste de niños.
+
+561
+00:35:54,432 --> 00:35:55,566
+Los condicionaste.
+
+562
+00:35:55,766 --> 00:35:58,134
+Y cuando crecieron
+y ya podían pensar por sí mismos,
+
+563
+00:35:58,334 --> 00:36:00,753
+te aseguraste de que no lo hicieran.
+
+564
+00:36:01,121 --> 00:36:03,968
+Les incrustaste esos reguladores
+
+565
+00:36:04,168 --> 00:36:09,081
+para que no sintieran deseo, ambición
+
+566
+00:36:09,281 --> 00:36:11,241
+ni preferencia.
+
+567
+00:36:11,509 --> 00:36:14,928
+Para que nunca te abandonaran.
+
+568
+00:36:17,015 --> 00:36:18,551
+Por eso lo hiciste, ¿no?
+
+569
+00:36:18,751 --> 00:36:20,026
+¿A qué viniste?
+
+570
+00:36:20,226 --> 00:36:22,822
+Vine a despedirme.
+
+571
+00:36:23,022 --> 00:36:24,869
+Estoy a punto de irme.
+
+572
+00:36:25,069 --> 00:36:29,205
+Y supongo que quería decirte
+
+573
+00:36:29,405 --> 00:36:31,771
+que tus esfuerzos
+no fueron en vano, Catherine.
+
+574
+00:36:31,971 --> 00:36:33,440
+No vas a poder verlo,
+
+575
+00:36:33,640 --> 00:36:38,896
+pero estas cosas que creaste,
+a pesar de ser inservibles,
+
+576
+00:36:39,223 --> 00:36:43,937
+van a ser la base
+de algo extraordinario.
+
+577
+00:36:45,296 --> 00:36:47,793
+Y espero que eso
+te sirva de consuelo.
+
+578
+00:36:47,993 --> 00:36:49,867
+Al final.
+
+579
+00:36:53,414 --> 00:36:56,208
+¿No te da curiosidad
+saber cómo murió?
+
+580
+00:37:01,482 --> 00:37:03,191
+¿Qué?
+
+581
+00:37:04,360 --> 00:37:05,677
+Julia.
+
+582
+00:37:05,877 --> 00:37:08,377
+¿Creíste que no sabía quién era?
+
+583
+00:37:08,654 --> 00:37:11,740
+Los recuerdo a todos.
+
+584
+00:37:12,244 --> 00:37:14,575
+Sobre todo, a tu hermana.
+
+585
+00:37:15,331 --> 00:37:17,623
+Era...
+
+586
+00:37:17,949 --> 00:37:20,261
+Era muy curiosa.
+
+587
+00:37:20,461 --> 00:37:23,130
+Preguntaba muchas cosas.
+
+588
+00:37:24,991 --> 00:37:26,369
+Pero una nunca sabe
+quién va a superar
+
+589
+00:37:26,569 --> 00:37:30,069
+las mejoras y aumentos biológicos,
+y quién no.
+
+590
+00:37:31,806 --> 00:37:33,934
+Y ella no los superó.
+
+591
+00:37:34,770 --> 00:37:36,601
+No.
+
+592
+00:37:37,330 --> 00:37:39,747
+Se estaba muriendo.
+
+593
+00:37:42,694 --> 00:37:43,754
+Y no sabía por qué.
+
+594
+00:37:43,954 --> 00:37:47,456
+No lo entendía.
+
+595
+00:37:48,410 --> 00:37:52,161
+Y le dije más o menos
+lo que tú me acabas de decir.
+
+596
+00:37:52,916 --> 00:37:57,218
+Que, a pesar de que
+no iba a poder verlo,
+
+597
+00:37:57,418 --> 00:38:01,349
+ella iba a ser
+una pequeña parte de...
+
+598
+00:38:01,549 --> 00:38:04,050
+del siguiente paso.
+
+599
+00:38:05,245 --> 00:38:08,022
+No sé si me entendió.
+
+600
+00:38:08,222 --> 00:38:11,350
+Se notaba que tenía mucho miedo.
+
+601
+00:38:12,228 --> 00:38:17,566
+Pero lo que sí sé
+es lo mucho que te amaba.
+
+602
+00:38:19,070 --> 00:38:24,825
+Y espero que eso
+te sirva de consuelo.
+
+603
+00:38:31,539 --> 00:38:33,206
+Sí.
+
+604
+00:38:48,210 --> 00:38:49,837
+¿No que ya te ibas?
+
+605
+00:38:50,037 --> 00:38:52,696
+No quería dejarte sola.
+
+606
+00:38:52,896 --> 00:38:55,234
+No soy un monstruo.
+
+607
+00:39:09,983 --> 00:39:12,986
+Los dejo para que platiquen.
+
+608
+00:39:17,661 --> 00:39:19,196
+Te quiero ayudar, pero no me dejas.
+
+609
+00:39:19,396 --> 00:39:20,763
+Jefe, estamos saliendo
+del salto espacial.
+
+610
+00:39:20,963 --> 00:39:22,632
+Ya te oí.
+
+611
+00:39:23,000 --> 00:39:25,377
+Si fuera por ellos...
+
+612
+00:39:25,742 --> 00:39:26,635
+ya estarías muerta.
+
+613
+00:39:26,835 --> 00:39:29,170
+Siempre te tratamos bien, Antares.
+
+614
+00:39:30,065 --> 00:39:34,554
+Pues gracias por dejarme
+sobrevivir a duras penas
+
+615
+00:39:34,754 --> 00:39:37,855
+y malvivir dividiendo todo
+con estos cuatro idiotas
+
+616
+00:39:38,055 --> 00:39:40,727
+mientras tu esposo y tú se gastaban
+todo el dinero de Madrigal.
+
+617
+00:39:40,927 --> 00:39:41,729
+¿De qué hablas?
+
+618
+00:39:41,929 --> 00:39:44,491
+No te hagas la tonta.
+Sé que no eres tonta.
+
+619
+00:39:44,691 --> 00:39:46,540
+Por lo general, puedo hacer
+entrar en razón a mi esposo,
+
+620
+00:39:46,740 --> 00:39:48,237
+pero cuando se entere...
+
+621
+00:39:48,437 --> 00:39:50,047
+No me preocupa.
+
+622
+00:39:50,247 --> 00:39:51,032
+La última vez que vi a Soren,
+
+623
+00:39:51,232 --> 00:39:54,234
+iba prisionero
+en una nave hacia Reach.
+
+624
+00:39:54,677 --> 00:39:56,675
+Así que acomódate.
+
+625
+00:39:57,178 --> 00:39:59,135
+No lo esperes pronto.
+
+626
+00:39:59,613 --> 00:40:00,410
+Eres un maldito imbécil.
+
+627
+00:40:00,610 --> 00:40:02,273
+No.
+
+628
+00:40:03,186 --> 00:40:05,978
+Soy un oportunista.
+
+629
+00:40:10,652 --> 00:40:13,946
+Dime ya: ¿Dónde está?
+
+630
+00:40:17,869 --> 00:40:19,220
+¿Alguien puede ir
+a revisar ese ruido?
+
+631
+00:40:19,420 --> 00:40:21,255
+No me deja concentrarme.
+
+632
+00:40:24,168 --> 00:40:26,126
+Gracias.
+
+633
+00:40:27,914 --> 00:40:29,416
+No sé qué te prometió Ruby Ann,
+
+634
+00:40:29,616 --> 00:40:32,500
+pero te está engañando, Antares,
+y aún no es demasiado tarde.
+
+635
+00:40:32,700 --> 00:40:34,534
+Ya basta.
+
+636
+00:40:35,137 --> 00:40:36,886
+Por favor.
+
+637
+00:40:37,849 --> 00:40:39,984
+Soren te cuenta todo.
+
+638
+00:40:40,184 --> 00:40:41,719
+Tú sabes dónde lo guardó.
+
+639
+00:40:41,919 --> 00:40:42,812
+¿Dónde guardó qué?
+
+640
+00:40:43,012 --> 00:40:44,679
+El tesoro.
+
+641
+00:40:46,091 --> 00:40:48,592
+¿Te parece gracioso?
+
+642
+00:40:50,706 --> 00:40:52,917
+Porque te aseguro...
+
+643
+00:40:56,703 --> 00:40:58,620
+que no lo es.
+
+644
+00:41:01,376 --> 00:41:04,261
+Eso que llamas "tesoro"
+era una caja con fichas de deuterio.
+
+645
+00:41:04,461 --> 00:41:05,212
+No valía mucho.
+
+646
+00:41:05,412 --> 00:41:07,123
+Ya oí lo suficiente.
+
+647
+00:41:11,302 --> 00:41:14,690
+Ruby Ann no quiere el dinero,
+quiere controlar Los Escombros.
+
+648
+00:41:14,890 --> 00:41:16,557
+Tranquilízate.
+
+649
+00:41:19,063 --> 00:41:20,699
+¿Por qué me obligas a hacer esto?
+
+650
+00:41:20,899 --> 00:41:23,898
+¿Crees que quiero
+dejar huérfano a Kessler?
+
+651
+00:41:24,670 --> 00:41:26,134
+Quiero mucho a ese niño.
+
+652
+00:41:26,334 --> 00:41:28,169
+Se está burlando de ti.
+
+653
+00:41:30,848 --> 00:41:32,478
+¿Escuchas ese sonido?
+
+654
+00:41:32,678 --> 00:41:34,589
+- Sí.
+- ¿Sí?
+
+655
+00:41:34,789 --> 00:41:37,122
+¿No deberías ir a revisar?
+
+656
+00:41:37,715 --> 00:41:40,008
+Estoy viendo.
+
+657
+00:41:41,044 --> 00:41:43,923
+Ve a revisar
+de dónde viene ese sonido.
+
+658
+00:41:56,479 --> 00:41:57,281
+¿Dónde lo guardó?
+
+659
+00:41:57,481 --> 00:41:59,908
+- Está ganando tiempo.
+- ¡Cállate, por favor!
+
+660
+00:42:00,108 --> 00:42:03,480
+¡No pedí la opinión de nadie!
+
+661
+00:42:03,680 --> 00:42:05,021
+Yo soy el Capitán.
+
+662
+00:42:05,221 --> 00:42:08,083
+Esta es mi nave.
+
+663
+00:42:08,283 --> 00:42:11,619
+Y esta es tu última
+oportunidad, Laera.
+
+664
+00:42:13,790 --> 00:42:16,041
+¿Dónde está?
+
+665
+00:42:17,435 --> 00:42:19,454
+No puedo decirte porque no existe.
+
+666
+00:42:19,654 --> 00:42:22,865
+Y aunque existiera, no te lo diría.
+
+667
+00:42:26,512 --> 00:42:29,430
+Ya no puedo ayudarte.
+
+668
+00:42:30,142 --> 00:42:32,185
+Sólo recuerda...
+
+669
+00:42:32,476 --> 00:42:34,936
+que yo no quería que pasara esto.
+
+670
+00:42:56,779 --> 00:42:59,574
+<i>ESCLUSA DE AIRE
+NO OBSTRUIR</i>
+
+671
+00:43:01,286 --> 00:43:03,365
+<i>ASEGURADA</i>
+
+672
+00:43:03,565 --> 00:43:08,232
+Tienes un minuto
+para reconsiderar tu postura.
+
+673
+00:43:13,723 --> 00:43:15,100
+No tiene que terminar así.
+
+674
+00:43:15,300 --> 00:43:16,959
+<i>DESCOMPRESIÓN</i>
+
+675
+00:43:18,903 --> 00:43:20,570
+Piensa en Kessler.
+
+676
+00:43:21,240 --> 00:43:25,032
+Soren está en Reach.
+¿Quién lo va a cuidar?
+
+677
+00:43:26,461 --> 00:43:28,381
+Dime lo que quiero sab...
+
+678
+00:44:09,699 --> 00:44:12,204
+¿Y Kessler?
+
+679
+00:44:13,806 --> 00:44:16,181
+Kwan.
+
+680
+00:44:18,168 --> 00:44:19,387
+¿Kwan?
+
+681
+00:44:19,587 --> 00:44:21,253
+Te estoy pregun...
+
+682
+00:44:35,252 --> 00:44:36,862
+Lo subí a una nave de transporte.
+
+683
+00:44:37,062 --> 00:44:39,256
+- Te dije que te quedaras con él.
+- No podía.
+
+684
+00:44:39,456 --> 00:44:41,289
+¿Por qué no?
+
+685
+00:44:41,958 --> 00:44:44,458
+Porque, entonces, estarías muerta.
+
+686
+00:44:52,037 --> 00:44:54,605
+Necesito hablar con la cabo Perez.
+
+687
+00:44:54,805 --> 00:44:56,888
+No está.
+
+688
+00:44:57,347 --> 00:44:59,347
+¿Dónde está?
+
+689
+00:45:01,226 --> 00:45:03,855
+Ella es buena mujer.
+
+690
+00:45:05,080 --> 00:45:07,581
+Sí, señora.
+
+691
+00:45:07,883 --> 00:45:11,551
+Pero creo que el diablo
+te está siguiendo.
+
+692
+00:45:23,135 --> 00:45:25,009
+¿Qué hora es?
+
+693
+00:45:25,835 --> 00:45:27,962
+Es tarde.
+
+694
+00:45:32,573 --> 00:45:35,244
+¿Qué hago aquí?
+
+695
+00:45:38,123 --> 00:45:41,508
+¿Te acuerdas de lo que hablamos?
+
+696
+00:45:41,708 --> 00:45:44,210
+Me pediste que...
+
+697
+00:45:46,715 --> 00:45:49,494
+Que no dejaras
+que me capturaran vivo.
+
+698
+00:45:49,694 --> 00:45:51,352
+Sí.
+
+699
+00:45:51,552 --> 00:45:53,720
+Eso mismo.
+
+700
+00:45:54,760 --> 00:45:57,390
+¿Llegó el momento?
+
+701
+00:45:59,809 --> 00:46:02,104
+Llegó el momento.
+
+702
+00:46:04,247 --> 00:46:06,455
+Gracias a Dios.
+
+703
+00:46:40,643 --> 00:46:43,353
+Alguien vino a visitarte, papá.
+
+704
+00:46:58,801 --> 00:47:00,593
+Julia.
+
+705
+00:47:04,017 --> 00:47:06,601
+Julia.
+
+706
+00:47:31,427 --> 00:47:33,095
+Cabo Perez.
+
+707
+00:48:09,562 --> 00:48:12,943
+Nunca habías entrado
+a una Iglesia, ¿verdad?
+
+708
+00:48:17,445 --> 00:48:20,408
+La gente viene aquí
+a buscar consuelo.
+
+709
+00:48:21,076 --> 00:48:23,575
+Protección.
+
+710
+00:48:25,011 --> 00:48:27,347
+Y respuestas.
+
+711
+00:48:28,515 --> 00:48:30,934
+¿Y las encuentran?
+
+712
+00:48:31,584 --> 00:48:33,669
+A veces.
+
+713
+00:48:34,589 --> 00:48:36,545
+¿Y tú?
+
+714
+00:48:42,555 --> 00:48:45,054
+En Sanctuary...
+
+715
+00:48:45,766 --> 00:48:48,194
+antes de que llegara el Covenant,
+
+716
+00:48:48,394 --> 00:48:51,213
+vi algo.
+
+717
+00:48:51,413 --> 00:48:53,872
+En la niebla.
+
+718
+00:48:58,419 --> 00:49:00,756
+¿Te refieres a esa mujer?
+
+719
+00:49:03,116 --> 00:49:06,621
+Es real. ¿Verdad?
+
+720
+00:49:07,221 --> 00:49:09,388
+Sí.
+
+721
+00:49:11,860 --> 00:49:14,445
+No puedo dormir.
+
+722
+00:49:15,646 --> 00:49:19,233
+No puedo sacarme
+ese sonido de la cabeza.
+
+723
+00:49:30,475 --> 00:49:33,647
+Aquí tengo la grabación de Sanctuary.
+
+724
+00:49:34,496 --> 00:49:36,618
+No sólo es interferencia.
+
+725
+00:49:36,818 --> 00:49:39,445
+No sólo es un ruido.
+
+726
+00:49:40,055 --> 00:49:42,513
+Se escucha algo debajo.
+
+727
+00:49:45,826 --> 00:49:47,993
+¿Qué es eso?
+
+728
+00:49:52,496 --> 00:49:54,666
+Un rezo.
+
+729
+00:50:00,841 --> 00:50:02,885
+"Les traigo bendiciones...
+
+730
+00:50:03,509 --> 00:50:06,012
+gente de Reach.
+
+731
+00:50:11,085 --> 00:50:13,588
+Sepan que no tendré piedad.
+
+732
+00:50:15,397 --> 00:50:17,607
+No tendré compasión.
+
+733
+00:50:21,276 --> 00:50:24,946
+Sepan que soy el instrumento
+de su extinción.
+
+734
+00:50:31,744 --> 00:50:34,691
+Presento este planeta...
+
+735
+00:50:34,891 --> 00:50:37,641
+como ofrenda de fuego".
+
+736
+00:50:39,838 --> 00:50:41,822
+<i>COBALT - EN ESPERA</i>
+
+737
+00:50:44,059 --> 00:50:46,577
+"En este altar...
+
+738
+00:50:46,777 --> 00:50:49,948
+coloco la cabeza del Demonio.
+
+739
+00:50:58,730 --> 00:51:03,035
+Que su sangre marque el camino
+al Anillo Sagrado
+
+740
+00:51:03,235 --> 00:51:06,906
+y consagre
+el Gran Viaje de mi pueblo.
+
+741
+00:51:11,386 --> 00:51:16,516
+Mi nombre es Var 'Gatanai.
+
+742
+00:51:21,557 --> 00:51:24,062
+Mi nombre es...
+
+743
+00:51:24,422 --> 00:51:26,466
+Muerte".
+
+744
+00:51:31,136 --> 00:51:33,679
+Ya están aquí...
+
+745
+00:51:36,035 --> 00:51:38,455
+¿verdad?
+

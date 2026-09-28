@@ -1,0 +1,3868 @@
+1
+00:00:11,764 --> 00:00:15,184
+¿Qué mierda? ¡Eso fue muy retorcido!
+
+2
+00:00:15,184 --> 00:00:16,101
+ANTERIORMENTE
+
+3
+00:00:16,101 --> 00:00:17,060
+Fuera. Se acabó.
+
+4
+00:00:17,060 --> 00:00:19,855
+Habrá una persona a la que jamás vencerás.
+
+5
+00:00:19,855 --> 00:00:20,814
+Suerte sin mí.
+
+6
+00:00:20,814 --> 00:00:22,941
+La respuesta a nuestras plegarias.
+
+7
+00:00:22,941 --> 00:00:24,526
+Un virus que mata a los Súper.
+
+8
+00:00:24,526 --> 00:00:26,862
+Un virus capaz de matar a Homelander
+
+9
+00:00:26,862 --> 00:00:29,114
+se volvería inestable.
+
+10
+00:00:29,114 --> 00:00:31,116
+Una maldita pandemia.
+
+11
+00:00:31,116 --> 00:00:32,075
+<i>Soy tú.</i>
+
+12
+00:00:32,075 --> 00:00:34,661
+Y por eso, cuando te digo
+que deseas hacer esto,
+
+13
+00:00:34,661 --> 00:00:38,624
+créeme que deseas hacer esto, carajo.
+
+14
+00:00:39,583 --> 00:00:40,626
+Kimiko.
+
+15
+00:00:41,335 --> 00:00:43,796
+Frenchie, el virus
+no se estabilizará solo.
+
+16
+00:00:43,796 --> 00:00:46,215
+Ryan no está listo, no será un agente.
+
+17
+00:00:46,215 --> 00:00:50,052
+O hallamos el modo de entrenarlo,
+o hallamos el modo de matarlo.
+
+18
+00:00:50,052 --> 00:00:52,179
+Alto, alto.
+
+19
+00:00:52,179 --> 00:00:53,847
+No dudes de tu familia.
+
+20
+00:00:53,847 --> 00:00:56,016
+<i>A mi mamá no le gustaría nada de esto.</i>
+
+21
+00:00:56,016 --> 00:00:58,435
+Y por esto tengo fe en el niño.
+
+22
+00:01:00,938 --> 00:01:03,982
+Una vez que asuma,
+debemos invocar la Enmienda 25.
+
+23
+00:01:03,982 --> 00:01:05,484
+¿Quién dirige todo esto?
+
+24
+00:01:05,484 --> 00:01:07,110
+Yo, carajo.
+
+25
+00:01:07,110 --> 00:01:09,655
+Homelander meterá
+a los Starlighters en campos,
+
+26
+00:01:09,655 --> 00:01:12,157
+¿también te parece bien?
+No sabías de los campos.
+
+27
+00:01:12,157 --> 00:01:13,784
+Concéntrate en el tirador.
+
+28
+00:01:13,784 --> 00:01:15,494
+Que esté listo para el 6.
+
+29
+00:01:15,494 --> 00:01:17,621
+-¿Te sientes bien?
+- Es como un horno.
+
+30
+00:01:20,123 --> 00:01:21,667
+<i>Malditos cambiaformas.</i>
+
+31
+00:01:22,084 --> 00:01:23,877
+<i>Pero hay que felicitar a Sage.</i>
+
+32
+00:01:24,545 --> 00:01:26,046
+<i>Es ideal para el trabajo.</i>
+
+33
+00:01:29,883 --> 00:01:30,717
+NOTICIAS DESTACADAS
+
+34
+00:01:30,717 --> 00:01:35,013
+{\an8}Buenos días, patriotas.
+Es 6 de enero y esto es <i>VNN Hoy.</i>
+
+35
+00:01:35,389 --> 00:01:37,140
+<i>Conmoción en Estudios Vought,</i>
+
+36
+00:01:37,140 --> 00:01:41,728
+{\an8}<i>que cancela la tan anticipada película</i>
+Entrenando a A-Train,
+
+37
+00:01:41,895 --> 00:01:43,438
+{\an8}<i>aunque ya está terminada.</i>
+
+38
+00:01:43,438 --> 00:01:45,524
+{\an8}Era más rentable darla por perdida.
+
+39
+00:01:45,524 --> 00:01:49,278
+{\an8}Vamos tras bambalinas
+de un impactante anuncio público.
+
+40
+00:01:49,278 --> 00:01:50,195
+{\an8}#TODASLASVIDASIMPORTAN
+
+41
+00:01:50,195 --> 00:01:51,363
+{\an8}Me hago responsable.
+
+42
+00:01:51,363 --> 00:01:52,906
+{\an8}ME HAGO RESPONSABLE
+
+43
+00:01:53,740 --> 00:01:55,617
+{\an8}Me hago responsable.
+
+44
+00:01:55,617 --> 00:01:56,660
+{\an8}Del racismo.
+
+45
+00:01:56,660 --> 00:02:01,707
+{\an8}Por último, el Congreso contará los votos
+para confirmar hoy al presidente electo.
+
+46
+00:02:01,707 --> 00:02:04,877
+<i>El extremismo antisúper
+de Dakota Bob convirtió</i>
+
+47
+00:02:04,877 --> 00:02:08,088
+{\an8}<i>esa formalidad en una instancia decisiva.</i>
+
+48
+00:02:08,088 --> 00:02:11,800
+{\an8}Contaremos los votos
+de forma ordenada, sin debate.
+
+49
+00:02:11,800 --> 00:02:13,760
+{\an8}RECUENTO DE VOTOS
+
+50
+00:02:13,760 --> 00:02:15,012
+{\an8}<i>¿Entendido?</i>
+
+51
+00:02:15,596 --> 00:02:19,600
+<i>Como decía, tras el recuento de votos...</i>
+
+52
+00:02:19,600 --> 00:02:21,518
+¿Y el maldito virus, Frenchie?
+
+53
+00:02:22,811 --> 00:02:23,770
+Me falta poco.
+
+54
+00:02:24,771 --> 00:02:26,106
+Cuando hagan el anuncio,
+
+55
+00:02:26,106 --> 00:02:28,901
+la explotacabezas
+estará a un paso de la presidencia.
+
+56
+00:02:28,901 --> 00:02:31,737
+-¿Cuánto te falta?
+- Ya casi.
+
+57
+00:02:40,203 --> 00:02:42,956
+<i>¿Alguna objeción al recuento de votos</i>
+
+58
+00:02:42,956 --> 00:02:44,625
+<i>del estado de Alabama?</i>
+
+59
+00:02:45,042 --> 00:02:46,418
+¿ENTRASTE A LA BASE DE DATOS DE LA FBSA?
+
+60
+00:02:46,418 --> 00:02:47,878
+¡DEBEMOS IDENTIFICAR A LA CAMBIAFORMAS YA!
+
+61
+00:02:47,878 --> 00:02:49,713
+No, te dije que Vicky bloqueó todo.
+
+62
+00:02:50,005 --> 00:02:51,590
+Y no me grites, por favor.
+
+63
+00:02:55,260 --> 00:02:56,553
+- Hola.
+- Hola.
+
+64
+00:02:58,430 --> 00:02:59,431
+Hola.
+
+65
+00:02:59,765 --> 00:03:01,475
+Hola. ¿Qué?
+
+66
+00:03:03,226 --> 00:03:04,478
+¿Qué te pusiste?
+
+67
+00:03:04,478 --> 00:03:05,646
+¿No te gusta?
+
+68
+00:03:05,646 --> 00:03:07,981
+No, es decir... Me encanta.
+
+69
+00:03:07,981 --> 00:03:09,942
+Pero ¿te parece el momento?
+
+70
+00:03:09,942 --> 00:03:12,694
+¿Con el país entero
+yéndose a pique a <i>1984?</i>
+
+71
+00:03:13,195 --> 00:03:16,114
+La noche antes de ir a la guerra,
+mi bisabuelo
+
+72
+00:03:16,114 --> 00:03:18,784
+se puso su uniforme de gala,
+
+73
+00:03:19,534 --> 00:03:23,705
+interrumpió la cena
+de la casa de mi bisabuela
+
+74
+00:03:23,705 --> 00:03:25,791
+y se arrodilló.
+
+75
+00:03:28,043 --> 00:03:29,086
+Está bien.
+
+76
+00:03:29,753 --> 00:03:31,588
+¿Puedes ponerte de pie?
+
+77
+00:03:34,967 --> 00:03:36,093
+Hughie Campbell.
+
+78
+00:03:42,140 --> 00:03:43,183
+Cásate conmigo.
+
+79
+00:03:46,395 --> 00:03:48,605
+Quédate aquí. No te muevas.
+
+80
+00:03:48,605 --> 00:03:50,190
+- Bueno.
+- No te muevas.
+
+81
+00:03:57,781 --> 00:03:58,782
+Oye.
+
+82
+00:04:02,536 --> 00:04:05,205
+- Vamos a hacer esto.
+- Bien, entonces, yo también.
+
+83
+00:04:05,205 --> 00:04:06,748
+- Soy la que preguntó.
+- Bien.
+
+84
+00:04:06,748 --> 00:04:09,584
+Annie January, me aterra
+
+85
+00:04:10,377 --> 00:04:13,338
+lo que está por suceder,
+pero me siento muy...
+
+86
+00:04:14,923 --> 00:04:19,636
+muy afortunado de enfrentarlo contigo.
+
+87
+00:04:22,931 --> 00:04:24,099
+Bien.
+
+88
+00:04:29,229 --> 00:04:30,230
+De acuerdo.
+
+89
+00:04:31,606 --> 00:04:32,566
+Así que...
+
+90
+00:04:33,608 --> 00:04:34,818
+Sí. Pensándolo bien,
+
+91
+00:04:35,819 --> 00:04:37,237
+sí, claro. Casémonos.
+
+92
+00:04:48,749 --> 00:04:50,834
+Eso fue... Estuvo genial.
+
+93
+00:04:52,502 --> 00:04:53,920
+Dos dedos fue mucho, pero...
+
+94
+00:04:53,920 --> 00:04:56,214
+Perdón, quise subir de nivel.
+
+95
+00:04:56,214 --> 00:04:57,215
+No. Es...
+
+96
+00:04:58,383 --> 00:04:59,718
+Está bien. Es genial.
+
+97
+00:05:13,023 --> 00:05:14,107
+¿Adónde vas?
+
+98
+00:05:15,150 --> 00:05:17,819
+Necesitamos champaña para festejar,
+
+99
+00:05:17,819 --> 00:05:22,783
+no esa porquería
+que está en el refrigerador.
+
+100
+00:05:23,617 --> 00:05:25,911
+- Enseguida vuelvo.
+- Sí. Claro.
+
+101
+00:05:36,213 --> 00:05:39,674
+{\an8}<i>Los parlamentarios me informan
+que el voto de Kansas</i>
+
+102
+00:05:39,674 --> 00:05:42,302
+<i>es el único válido del estado,</i>
+
+103
+00:05:42,302 --> 00:05:45,430
+<i>y se ha anexado un voto de la autoridad...</i>
+
+104
+00:05:45,430 --> 00:05:46,848
+Tienes 90/60.
+
+105
+00:05:47,432 --> 00:05:48,391
+Es baja.
+
+106
+00:05:50,185 --> 00:05:51,478
+No me digas, carajo.
+
+107
+00:06:00,195 --> 00:06:02,280
+Si necesitas que te ayude...
+
+108
+00:06:05,158 --> 00:06:07,410
+- No necesito que me ayudes.
+-¿En serio?
+
+109
+00:06:07,410 --> 00:06:12,374
+Porque cagas en una bacinilla
+y pronto estarás abonando geranios.
+
+110
+00:06:12,374 --> 00:06:15,252
+¿Y qué lograste?
+
+111
+00:06:15,252 --> 00:06:17,754
+Singer tiene los días contados.
+
+112
+00:06:17,754 --> 00:06:20,549
+Homelander ganó.
+
+113
+00:06:20,966 --> 00:06:23,426
+Y tú desperdiciaste el virus.
+
+114
+00:06:23,426 --> 00:06:26,179
+La única arma que podría haberlo detenido.
+
+115
+00:06:26,847 --> 00:06:31,434
+Pero vas a sonreír, amigo mío.
+
+116
+00:06:31,434 --> 00:06:32,894
+¿Sabes por qué?
+
+117
+00:06:33,854 --> 00:06:35,522
+Porque aún me tienes a mí.
+
+118
+00:06:37,274 --> 00:06:39,067
+No eres real, carajo.
+
+119
+00:06:39,067 --> 00:06:41,862
+<i>Qué cuestión filosófica tan interesante.</i>
+
+120
+00:06:41,862 --> 00:06:45,031
+Lo real son los malditos tumores del V
+
+121
+00:06:45,031 --> 00:06:48,076
+que te crecen en las tripas y la cabeza.
+
+122
+00:06:48,076 --> 00:06:49,536
+¡Cáncer Súper!
+
+123
+00:06:51,538 --> 00:06:55,500
+Lo real es esa parte de ti
+
+124
+00:06:55,917 --> 00:06:59,671
+que quiere borrar
+todos los malditos Súper de la Tierra.
+
+125
+00:06:59,671 --> 00:07:03,842
+¿Cómo crees
+que despedazaste así a Ezekiel?
+
+126
+00:07:04,342 --> 00:07:07,721
+Yo fui quien te dio
+el jugo que necesitabas.
+
+127
+00:07:07,721 --> 00:07:09,222
+Y puedo volver a hacerlo.
+
+128
+00:07:09,639 --> 00:07:14,394
+Solo tienes que respetar
+tu parte del trato.
+
+129
+00:07:14,394 --> 00:07:15,520
+¿Qué trato?
+
+130
+00:07:16,688 --> 00:07:18,023
+¿Qué maldito trato?
+
+131
+00:07:18,023 --> 00:07:19,524
+Vamos hasta el final.
+
+132
+00:07:19,524 --> 00:07:20,984
+Vamos, campeón.
+
+133
+00:07:21,735 --> 00:07:23,862
+¿Qué es un pequeño genocidio entre amigos?
+
+134
+00:07:25,780 --> 00:07:28,158
+Lárgate y déjame morir en paz.
+
+135
+00:07:28,575 --> 00:07:29,701
+Ojalá pudiera.
+
+136
+00:07:38,585 --> 00:07:39,920
+Ya que estás aquí,
+
+137
+00:07:41,671 --> 00:07:44,090
+sé buena y tráeme una cerveza.
+
+138
+00:07:45,175 --> 00:07:47,344
+Vamos. No seas cretina. Me estoy muriendo.
+
+139
+00:07:47,344 --> 00:07:50,180
+Últimamente, deseo que te mueras.
+
+140
+00:07:52,724 --> 00:07:54,559
+Te agradezco lo que haces por mí.
+
+141
+00:07:54,559 --> 00:07:56,269
+Nada de esto es por ti.
+
+142
+00:07:58,188 --> 00:07:59,231
+De acuerdo.
+
+143
+00:08:00,774 --> 00:08:01,816
+Dame mi teléfono.
+
+144
+00:08:02,275 --> 00:08:03,526
+Tenemos trabajo.
+
+145
+00:08:41,273 --> 00:08:42,190
+Qué asco.
+
+146
+00:08:47,946 --> 00:08:49,572
+Maldita sea, Ryan.
+
+147
+00:09:42,167 --> 00:09:43,126
+Ven aquí.
+
+148
+00:09:45,837 --> 00:09:47,964
+Ven aquí. Es una orden.
+
+149
+00:09:57,766 --> 00:09:58,892
+Tu padre soy yo.
+
+150
+00:10:00,769 --> 00:10:01,811
+No él.
+
+151
+00:10:04,522 --> 00:10:05,732
+Y siempre lo seré.
+
+152
+00:10:11,071 --> 00:10:15,116
+Ven aquí ya mismo.
+
+153
+00:10:18,620 --> 00:10:19,537
+Ryan.
+
+154
+00:10:21,456 --> 00:10:22,582
+¡Ryan!
+
+155
+00:10:35,470 --> 00:10:36,304
+Hola.
+
+156
+00:10:37,555 --> 00:10:39,891
+Yo que tú, tendría cuidado.
+
+157
+00:10:42,852 --> 00:10:45,188
+Esas porciones de Lean Lad Diet Lunches
+
+158
+00:10:45,814 --> 00:10:49,734
+causan cálculos renales gigantescos.
+
+159
+00:10:49,734 --> 00:10:52,362
+Hay una demanda colectiva contra ellas.
+
+160
+00:10:52,362 --> 00:10:54,989
+- Ven aquí.
+- No me toques, carajo.
+
+161
+00:10:54,989 --> 00:10:56,699
+Cálmate. ¿Sí?
+
+162
+00:10:56,699 --> 00:10:58,576
+Solo necesito recargarme un poco.
+
+163
+00:11:02,872 --> 00:11:04,833
+¿Por qué carajo mataría a tu madre?
+
+164
+00:11:05,542 --> 00:11:07,168
+Tendría que ir a Sedona.
+
+165
+00:11:07,168 --> 00:11:10,171
+Y nadie quiere ir a Sedona.
+
+166
+00:11:10,880 --> 00:11:12,424
+Fuera de mi mente.
+
+167
+00:11:15,593 --> 00:11:17,262
+¿Esto?
+
+168
+00:11:19,431 --> 00:11:21,182
+Le propuse matrimonio a Hughie.
+
+169
+00:11:21,182 --> 00:11:24,269
+Hasta le conté la historia
+de tus bisabuelos.
+
+170
+00:11:24,269 --> 00:11:27,564
+Y luego festejamos cogiendo.
+
+171
+00:11:27,564 --> 00:11:30,692
+Hicimos cosas anales. Le gustó mucho.
+
+172
+00:11:31,276 --> 00:11:32,569
+Cielos.
+
+173
+00:11:32,569 --> 00:11:34,779
+Es como un puto horno.
+
+174
+00:11:34,779 --> 00:11:35,697
+¿Por qué?
+
+175
+00:11:35,697 --> 00:11:38,074
+¿No amas las propuestas de matrimonio?
+
+176
+00:11:38,074 --> 00:11:40,577
+La dicha en el rostro de la otra persona
+
+177
+00:11:40,577 --> 00:11:43,163
+cuando, por fin, tiene su final feliz.
+
+178
+00:11:43,163 --> 00:11:45,623
+- Eres una psicópata.
+- Sociópata.
+
+179
+00:11:48,042 --> 00:11:50,879
+Y no me faltan razones.
+
+180
+00:11:50,879 --> 00:11:52,964
+Casi no recuerdo cómo me veo.
+
+181
+00:11:54,632 --> 00:11:56,843
+Pero sí recuerdo
+la primera vez que cambié.
+
+182
+00:11:57,302 --> 00:12:02,223
+En un momento era yo,
+y al siguiente, era la Srta. Jamison.
+
+183
+00:12:02,223 --> 00:12:03,850
+Mi maestra de preescolar.
+
+184
+00:12:03,850 --> 00:12:07,979
+Y vi todos los recuerdos que ella tenía.
+
+185
+00:12:07,979 --> 00:12:11,316
+La vi cogerse al mejor amigo
+de su marido, robar brillo labial.
+
+186
+00:12:11,316 --> 00:12:14,402
+Golpear a un alumno.
+Pero ¿sabes qué es lo curioso?
+
+187
+00:12:15,695 --> 00:12:20,366
+Ella justificaba
+todos esos actos horribles.
+
+188
+00:12:20,366 --> 00:12:22,118
+Igual que todos ustedes.
+
+189
+00:12:23,495 --> 00:12:27,665
+Se creen los héroes de sus historias.
+
+190
+00:12:27,665 --> 00:12:29,250
+Mírate.
+
+191
+00:12:29,250 --> 00:12:35,173
+Eres más íntegra,
+bondadosa y honesta que los demás,
+
+192
+00:12:35,924 --> 00:12:39,636
+que nos revolcamos en la mierda.
+
+193
+00:12:39,636 --> 00:12:41,554
+- No creo eso.
+- Sí.
+
+194
+00:12:41,554 --> 00:12:43,598
+Vamos. Leo la mente, ¿recuerdas?
+
+195
+00:12:43,598 --> 00:12:48,353
+Mamá tuvo la culpa de que yo fuera
+una cretina total en los desfiles.
+
+196
+00:12:48,353 --> 00:12:53,900
+O de que tuviera que chupar pitos
+como paletas para seguir en Los Seven.
+
+197
+00:12:53,900 --> 00:12:55,568
+No.
+
+198
+00:12:55,568 --> 00:12:58,696
+Soy Annie January y no es mi culpa.
+
+199
+00:12:58,696 --> 00:13:00,198
+Vamos. Repite conmigo.
+
+200
+00:13:00,198 --> 00:13:01,991
+Soy Annie January y no es mi...
+
+201
+00:13:01,991 --> 00:13:03,034
+Púdrete.
+
+202
+00:13:04,035 --> 00:13:07,789
+No sabes nada de mí o de mi vida.
+
+203
+00:13:07,789 --> 00:13:10,291
+¿No? ¿Y por qué no funcionan tus poderes?
+
+204
+00:13:14,879 --> 00:13:18,800
+Ni siquiera fuiste
+la elección original para matar a Singer,
+
+205
+00:13:18,800 --> 00:13:21,970
+pero eres un maldito desastre.
+
+206
+00:13:21,970 --> 00:13:24,264
+Lo dejaste clarísimo.
+
+207
+00:13:25,640 --> 00:13:26,599
+Oye.
+
+208
+00:13:27,684 --> 00:13:31,771
+Tendrás un par de condenas perpetuas
+y no consecutivas
+
+209
+00:13:31,771 --> 00:13:33,940
+para resolver tus problemas de identidad.
+
+210
+00:13:33,940 --> 00:13:34,941
+Por favor.
+
+211
+00:13:35,775 --> 00:13:37,318
+Pobre Annie.
+
+212
+00:13:38,111 --> 00:13:39,153
+Por favor.
+
+213
+00:13:39,153 --> 00:13:40,446
+Dios mío.
+
+214
+00:13:40,446 --> 00:13:44,409
+Soy Annie January, la única buena.
+
+215
+00:13:49,622 --> 00:13:50,498
+Ten.
+
+216
+00:13:50,498 --> 00:13:54,252
+Para bajar esa comida chatarra.
+
+217
+00:14:00,216 --> 00:14:01,301
+Bien.
+
+218
+00:14:15,189 --> 00:14:17,609
+Llamé como 15 veces. Estaba preocupado.
+
+219
+00:14:17,609 --> 00:14:19,360
+No sé, pensé que te habías...
+
+220
+00:14:19,861 --> 00:14:21,654
+Sí, yo también.
+
+221
+00:14:21,654 --> 00:14:23,364
+<i>Estamos ante un problema.</i>
+
+222
+00:14:23,364 --> 00:14:26,200
+<i>En unas horas,
+van a confirmar al presidente electo.</i>
+
+223
+00:14:26,200 --> 00:14:29,120
+<i>Y después de eso, irán por Singer.</i>
+
+224
+00:14:29,704 --> 00:14:30,788
+<i>Necesitamos tu ayuda.</i>
+
+225
+00:14:33,249 --> 00:14:34,208
+<i>¿Butcher?</i>
+
+226
+00:14:34,834 --> 00:14:36,085
+Cuando era pequeño,
+
+227
+00:14:37,545 --> 00:14:40,381
+oí hablar de un sitio en Nevada.
+
+228
+00:14:41,716 --> 00:14:43,092
+Una parrilla
+
+229
+00:14:44,385 --> 00:14:47,555
+donde las chicas muestran
+los pechos cuando te traen la carne.
+
+230
+00:14:48,264 --> 00:14:49,265
+<i>Estupendo.</i>
+
+231
+00:14:51,309 --> 00:14:53,561
+Lenny casi se mea cuando le conté.
+
+232
+00:14:54,771 --> 00:14:57,190
+Le pareció lo más gracioso que había oído.
+
+233
+00:15:01,527 --> 00:15:03,237
+Íbamos a ir algún día.
+
+234
+00:15:08,826 --> 00:15:09,869
+Bueno.
+
+235
+00:15:11,621 --> 00:15:14,791
+Es curioso lo que recuerdas
+cuando te llega la hora, ¿no?
+
+236
+00:15:14,791 --> 00:15:16,250
+<i>Butcher, ¿dónde estás?</i>
+
+237
+00:15:16,876 --> 00:15:18,044
+<i>Puedo ir a donde estés.</i>
+
+238
+00:15:18,044 --> 00:15:19,545
+<i>Encontraremos una solución.</i>
+
+239
+00:15:20,213 --> 00:15:22,090
+Hazme un favor, Hughie.
+
+240
+00:15:27,220 --> 00:15:28,346
+Ve a ese lugar.
+
+241
+00:15:30,223 --> 00:15:31,724
+Por Lenny y por mí, ¿sí?
+
+242
+00:15:32,809 --> 00:15:34,268
+<i>No puedes rendirte.</i>
+
+243
+00:15:34,977 --> 00:15:36,145
+<i>Aún puedes luchar.</i>
+
+244
+00:15:37,063 --> 00:15:38,648
+Hughie, te pedí algo.
+
+245
+00:15:40,942 --> 00:15:42,235
+<i>Bien. Voy a...</i>
+
+246
+00:15:43,611 --> 00:15:45,446
+<i>Iré a la parrilla de</i> topless <i>por ti.</i>
+
+247
+00:15:46,823 --> 00:15:47,990
+Excelente.
+
+248
+00:15:51,119 --> 00:15:52,286
+Y...
+
+249
+00:15:56,165 --> 00:15:58,084
+Diles a los demás que lo siento.
+
+250
+00:16:01,087 --> 00:16:02,672
+Diles que lo siento.
+
+251
+00:16:03,840 --> 00:16:04,924
+Que lamento...
+
+252
+00:16:09,679 --> 00:16:11,222
+Diles que lo siento y ya.
+
+253
+00:16:15,518 --> 00:16:16,811
+Adiós, Hughie.
+
+254
+00:16:28,740 --> 00:16:29,907
+Oye.
+
+255
+00:16:30,575 --> 00:16:33,619
+Pídeme un frapé
+con <i>pretzels</i> caramelizados y malvavisco.
+
+256
+00:16:34,162 --> 00:16:36,956
+Con crema doble.
+Hoy estoy demasiado cansada.
+
+257
+00:16:37,415 --> 00:16:39,709
+Por Dios. Suficiente, Amber. Gracias.
+
+258
+00:16:43,546 --> 00:16:44,922
+Buenos días.
+
+259
+00:16:46,507 --> 00:16:49,635
+¿Cómo estás en...? Dios mío.
+
+260
+00:16:49,635 --> 00:16:51,262
+Perdón.
+
+261
+00:16:51,262 --> 00:16:52,930
+¿Podemos hacerlo rápido?
+
+262
+00:16:52,930 --> 00:16:55,099
+Tengo cosas más importantes hoy.
+
+263
+00:16:56,017 --> 00:16:57,018
+Hola.
+
+264
+00:16:57,018 --> 00:16:58,352
+- Atentos.
+- Esperen.
+
+265
+00:16:58,352 --> 00:17:01,689
+Vamos en cinco, cuatro, tres.
+
+266
+00:17:03,524 --> 00:17:04,358
+{\an8}HOMELANDER Y NEUMAN
+RECUENTO DE VOTOS
+
+267
+00:17:04,358 --> 00:17:07,862
+{\an8}Bienvenidos al programa, amigos.
+Hoy tenemos una sorpresa fabulosa.
+
+268
+00:17:08,404 --> 00:17:13,367
+{\an8}¡Homelander y la vicepresidenta electa,
+Victoria Neuman!
+
+269
+00:17:13,993 --> 00:17:16,245
+{\an8}Dios los bendiga por estar aquí.
+
+270
+00:17:16,245 --> 00:17:19,332
+{\an8}Encantada de hacerme tiempo
+para mi amigo, Homelander.
+
+271
+00:17:19,332 --> 00:17:21,000
+{\an8}Sí. Vayamos al grano.
+
+272
+00:17:21,000 --> 00:17:22,668
+{\an8}Dakota Bob dice que aprobará
+
+273
+00:17:22,668 --> 00:17:25,713
+{\an8}locas leyes antisúper
+en sus primeros 100 días.
+
+274
+00:17:25,713 --> 00:17:29,091
+Como vicepresidenta,
+¿qué hará para detener esta demencia?
+
+275
+00:17:33,513 --> 00:17:36,641
+...y como férrea aliada
+de la comunidad Súper,
+
+276
+00:17:36,641 --> 00:17:38,100
+creo que es importante...
+
+277
+00:17:38,100 --> 00:17:40,061
+{\an8}¿Eres nuestra aliada, Victoria?
+
+278
+00:17:42,605 --> 00:17:44,106
+Venimos a decir la verdad.
+
+279
+00:17:44,899 --> 00:17:47,944
+Di la verdad.
+
+280
+00:17:51,781 --> 00:17:55,284
+La verdad es que el problema
+es la falta de representación.
+
+281
+00:17:55,284 --> 00:17:58,329
+- Veremos que...
+-¿No quieres hacerlo? Lo haré yo.
+
+282
+00:17:59,789 --> 00:18:02,708
+{\an8}Victoria es una superheroína.
+
+283
+00:18:06,212 --> 00:18:07,380
+{\an8}Gracias por el elogio.
+
+284
+00:18:07,380 --> 00:18:09,924
+Lo cierto es
+que todos deseamos ser héroes.
+
+285
+00:18:09,924 --> 00:18:11,551
+{\an8}Pero no soy literalmente...
+
+286
+00:18:14,220 --> 00:18:15,596
+Carajo.
+
+287
+00:18:17,515 --> 00:18:21,519
+Es verdad.
+La Srta. Neuman ha estado operando
+
+288
+00:18:21,519 --> 00:18:25,189
+como un arma secreta
+al corazón del estado profundo
+
+289
+00:18:25,189 --> 00:18:27,441
+y resistiendo
+a las fuerzas de la oscuridad
+
+290
+00:18:27,441 --> 00:18:30,278
+<i>que buscan sodomizar
+a la democracia y a nuestros bebés.</i>
+
+291
+00:18:30,278 --> 00:18:33,155
+<i>Pero es hora del gran despertar.</i>
+
+292
+00:18:33,155 --> 00:18:36,117
+¡Si uno va, vamos todos a Vought!
+
+293
+00:18:36,117 --> 00:18:37,702
+<i>Haremos una breve pausa...</i>
+
+294
+00:18:37,702 --> 00:18:39,245
+Así que se supo.
+
+295
+00:18:40,621 --> 00:18:41,956
+Se pone interesante.
+
+296
+00:18:41,956 --> 00:18:43,916
+Bien. Excelente programa.
+
+297
+00:18:46,878 --> 00:18:47,795
+Oye.
+
+298
+00:18:48,170 --> 00:18:49,213
+¡Oye!
+
+299
+00:18:52,758 --> 00:18:54,051
+Fuera. ¡Oye!
+
+300
+00:18:54,510 --> 00:18:56,429
+¡Toda la vida mantuve el secreto!
+
+301
+00:18:56,429 --> 00:18:58,472
+Los secretos envenenan el alma.
+
+302
+00:18:58,472 --> 00:19:00,391
+Te liberé. Dame las gracias.
+
+303
+00:19:00,391 --> 00:19:02,310
+- Sage dijo...
+- Al diablo Sage.
+
+304
+00:19:02,310 --> 00:19:03,895
+Se fue hace mucho. Escúchame.
+
+305
+00:19:04,270 --> 00:19:05,271
+Escúchame.
+
+306
+00:19:06,230 --> 00:19:08,858
+Vamos a cambiar el mundo, Vicky.
+
+307
+00:19:08,858 --> 00:19:10,776
+Por nuestros hijos y sus hijos.
+
+308
+00:19:11,152 --> 00:19:13,821
+La primera Súper en la presidencia.
+
+309
+00:19:16,115 --> 00:19:17,158
+Y mujer.
+
+310
+00:19:17,158 --> 00:19:19,410
+Me llevarán a juicio político.
+
+311
+00:19:19,410 --> 00:19:20,453
+¿Qué nos importa?
+
+312
+00:19:20,453 --> 00:19:23,331
+- Debo ser reelegida en cuatro años.
+-¿Quién dice?
+
+313
+00:19:23,331 --> 00:19:26,042
+- La Constitución.
+- Mundo nuevo, reglas nuevas.
+
+314
+00:19:26,042 --> 00:19:28,044
+Ahora cierra el pico y escucha.
+
+315
+00:19:28,044 --> 00:19:30,004
+Nuestros destinos están conectados.
+
+316
+00:19:30,004 --> 00:19:31,172
+Singer va a morir.
+
+317
+00:19:31,172 --> 00:19:33,382
+Y yo soy el único amigo que te queda.
+
+318
+00:19:33,758 --> 00:19:36,010
+El tren salió de la estación, hermosa.
+
+319
+00:19:36,010 --> 00:19:37,094
+Y tú estás a bordo.
+
+320
+00:19:38,095 --> 00:19:41,432
+Tendrás que encerrar a media empresa.
+A medio país.
+
+321
+00:19:45,436 --> 00:19:47,855
+¿Crees que no lo pensé? Por supuesto.
+
+322
+00:19:48,773 --> 00:19:49,857
+¡Mierda!
+
+323
+00:19:50,900 --> 00:19:52,234
+Ashley, sígueme.
+
+324
+00:19:52,234 --> 00:19:54,779
+La reacción en redes sociales es variada.
+
+325
+00:19:54,779 --> 00:19:57,698
+Haz una lista de todos los de la empresa
+
+326
+00:19:57,698 --> 00:20:01,827
+que tengan información negativa
+sobre mí o Los Seven, pero más sobre mí.
+
+327
+00:20:01,827 --> 00:20:03,955
+Cualquiera que pueda perjudicarnos.
+
+328
+00:20:03,955 --> 00:20:06,123
+- Sí.
+- Necesito esa lista para ayer.
+
+329
+00:20:06,123 --> 00:20:07,166
+Sí, señor.
+
+330
+00:20:07,166 --> 00:20:08,459
+Buena chica.
+
+331
+00:20:11,963 --> 00:20:13,673
+No suena bien, Ashley.
+
+332
+00:20:13,673 --> 00:20:15,132
+No me digas, Ashley.
+
+333
+00:20:15,132 --> 00:20:16,425
+Perdón, Ashley.
+
+334
+00:20:16,425 --> 00:20:17,969
+{\an8}PRESIDENTE DE CÁMARA CALHOUN
+DA POR TERMINADA LA SESIÓN
+
+335
+00:20:17,969 --> 00:20:21,597
+{\an8}¡Orden! Cumplido el objetivo
+de esta sesión conjunta,
+
+336
+00:20:21,597 --> 00:20:24,266
+{\an8}conforme a la 1o. resolución concurrente,
+
+337
+00:20:24,266 --> 00:20:25,851
+{\an8}Congreso ciento dieciocho,
+
+338
+00:20:25,851 --> 00:20:28,688
+{\an8}se da por terminada la sesión conjunta.
+
+339
+00:20:29,230 --> 00:20:30,064
+{\an8}ÚLTIMO MOMENTO
+SINGER/NEUMAN CONFIRMADOS
+
+340
+00:20:30,064 --> 00:20:32,650
+{\an8}...confirmada pese a la impactante noticia
+
+341
+00:20:32,650 --> 00:20:36,487
+{\an8}de que la vice electa Victoria Neuman
+es Súper.
+
+342
+00:20:36,487 --> 00:20:39,323
+{\an8}<i>Han surgido protestas en todo el país...</i>
+
+343
+00:20:39,323 --> 00:20:40,741
+Comienza el juego.
+
+344
+00:20:40,741 --> 00:20:42,159
+Saldrán a cazar a Singer.
+
+345
+00:20:42,159 --> 00:20:44,286
+- Frenchie, dime que lograste algo.
+- No.
+
+346
+00:20:44,286 --> 00:20:47,498
+¿Quieres hacerlo tú?
+¡Trabajo lo más rápido que puedo!
+
+347
+00:20:48,082 --> 00:20:49,250
+No alcanza.
+
+348
+00:20:49,709 --> 00:20:52,920
+{\an8}<i>Varios manifestantes heridos. Diez...</i>
+
+349
+00:20:52,920 --> 00:20:53,838
+¿Estás viendo?
+
+350
+00:20:53,838 --> 00:20:55,756
+Busca la información contra Neuman.
+
+351
+00:20:55,756 --> 00:20:57,258
+Espera. ¿Y el virus?
+
+352
+00:20:57,258 --> 00:20:58,968
+No hay un puto virus.
+
+353
+00:20:58,968 --> 00:20:59,969
+¿Qué?
+
+354
+00:20:59,969 --> 00:21:01,303
+¡Mierda!
+
+355
+00:21:01,303 --> 00:21:04,181
+Si filtramos esto, nos mata, ¿no?
+
+356
+00:21:04,181 --> 00:21:06,183
+Si tuviera opción, la usaría, créeme.
+
+357
+00:21:06,183 --> 00:21:07,309
+<i>Que sea lo que sea.</i>
+
+358
+00:21:08,310 --> 00:21:10,146
+Hola.
+
+359
+00:21:10,980 --> 00:21:13,190
+¡No! ¡Carajo!
+
+360
+00:21:13,190 --> 00:21:14,817
+-¿Qué pasó?
+- Desapareció todo.
+
+361
+00:21:14,817 --> 00:21:17,570
+Datos contra Neuman,
+homicidios, vínculo con Edgar.
+
+362
+00:21:17,570 --> 00:21:19,405
+Aguarda. Hay copias, ¿no?
+
+363
+00:21:19,405 --> 00:21:20,948
+¡Otra computadora, la nube!
+
+364
+00:21:20,948 --> 00:21:22,533
+No me escuchas. Desapareció.
+
+365
+00:21:22,533 --> 00:21:24,535
+¡Originales, copias, no hay nada!
+
+366
+00:21:25,411 --> 00:21:27,038
+Entonces, nada la detendrá.
+
+367
+00:21:28,247 --> 00:21:29,582
+Hay una sola posibilidad.
+
+368
+00:21:30,207 --> 00:21:33,377
+Frenchie, quédate aquí.
+Trabaja más rápido.
+
+369
+00:21:33,377 --> 00:21:34,879
+Kimiko, ven conmigo.
+
+370
+00:21:34,879 --> 00:21:37,715
+Te envío las coordenadas.
+Ve con Annie cuanto antes.
+
+371
+00:21:37,715 --> 00:21:38,758
+¿Cuál es el plan?
+
+372
+00:21:38,758 --> 00:21:40,634
+Ya echamos a perder la ofensiva.
+
+373
+00:21:41,177 --> 00:21:42,595
+Solo nos queda la defensa.
+
+374
+00:21:45,056 --> 00:21:49,769
+Estoy tan conmocionado como ustedes
+por este grave abuso de confianza.
+
+375
+00:21:49,769 --> 00:21:55,024
+En Estados Unidos, uno le dice al pueblo
+quién es antes de pedirle su voto.
+
+376
+00:21:55,024 --> 00:21:59,528
+<i>Por eso solicito nuevas elecciones,
+libres y justas.</i>
+
+377
+00:21:59,528 --> 00:22:00,988
+<i>Recuerden bien esto:</i>
+
+378
+00:22:00,988 --> 00:22:03,324
+<i>Si Neuman se convierte en vicepresidenta,</i>
+
+379
+00:22:03,324 --> 00:22:05,409
+<i>será sobre mi cadáver,</i>
+
+380
+00:22:06,285 --> 00:22:07,995
+<i>porque me habrá asesinado.</i>
+
+381
+00:22:09,580 --> 00:22:12,374
+Supongo que tendrás que ir a proteger
+al viejo, ¿no?
+
+382
+00:22:12,374 --> 00:22:14,418
+Es más importante que me quede aquí.
+
+383
+00:22:15,753 --> 00:22:17,588
+- Llegó su visita.
+- Que pase.
+
+384
+00:22:29,225 --> 00:22:30,810
+Esto no funcionará.
+
+385
+00:22:32,520 --> 00:22:33,729
+Recibiste mi mensaje.
+
+386
+00:22:34,313 --> 00:22:35,439
+Me alegra verte.
+
+387
+00:22:36,148 --> 00:22:38,734
+Ya estás casi más alto que yo.
+
+388
+00:22:38,734 --> 00:22:41,403
+No puedes salvar al niño.
+La sangre lo condena.
+
+389
+00:22:41,403 --> 00:22:42,571
+¿Qué te dan de comer?
+
+390
+00:22:42,571 --> 00:22:44,657
+Dime que comes verduras.
+
+391
+00:22:44,657 --> 00:22:46,408
+Las hamburguesas tienen lechuga.
+
+392
+00:22:46,408 --> 00:22:48,077
+Te extrañé, pequeño.
+
+393
+00:22:50,037 --> 00:22:51,413
+Escucha, Ryan.
+
+394
+00:22:52,873 --> 00:22:55,584
+Tenemos que hablar en serio.
+
+395
+00:22:55,584 --> 00:22:58,212
+Te ves muy enfermo.
+
+396
+00:22:58,712 --> 00:22:59,755
+No me digas.
+
+397
+00:23:01,549 --> 00:23:05,719
+Sí, perdí la cuenta
+de las veces que deseé morirme.
+
+398
+00:23:08,514 --> 00:23:10,015
+Y heme aquí.
+
+399
+00:23:11,058 --> 00:23:14,103
+Lo único que deseo es más tiempo
+y no lo tengo.
+
+400
+00:23:14,103 --> 00:23:16,397
+No tengo tiempo
+para que te hagas a la idea.
+
+401
+00:23:16,397 --> 00:23:18,607
+Tendrás que matarlo, Billy.
+
+402
+00:23:18,607 --> 00:23:20,609
+No puedes regresar a la Torre.
+
+403
+00:23:20,609 --> 00:23:23,112
+- Debes ir con la tía Grace.
+-¿Qué?
+
+404
+00:23:23,946 --> 00:23:25,781
+-¿Cuándo?
+- Ya mismo.
+
+405
+00:23:25,781 --> 00:23:27,283
+No puedo.
+
+406
+00:23:27,283 --> 00:23:29,827
+- Papá me encontraría.
+- Esta vez no, pequeño.
+
+407
+00:23:31,912 --> 00:23:32,746
+Bueno...
+
+408
+00:23:33,539 --> 00:23:34,915
+No sé si quiero irme.
+
+409
+00:23:35,416 --> 00:23:36,876
+Me gusta estar ahí.
+
+410
+00:23:36,876 --> 00:23:38,252
+- En parte.
+-¿Ves?
+
+411
+00:23:38,252 --> 00:23:41,005
+Tienes que meterle el virus, hoy mismo.
+
+412
+00:23:41,005 --> 00:23:42,548
+Ryan, no.
+
+413
+00:23:43,382 --> 00:23:45,050
+- Tu papá es...
+- Grace.
+
+414
+00:23:47,261 --> 00:23:48,345
+Mira.
+
+415
+00:23:49,305 --> 00:23:52,349
+Cuando murió tu mamá,
+lo cual no fue tu culpa,
+
+416
+00:23:53,767 --> 00:23:55,352
+oíste lo que dijo.
+
+417
+00:23:55,352 --> 00:23:59,440
+Me hizo jurarle que te cuidaría
+y eso es lo que intento hacer.
+
+418
+00:23:59,440 --> 00:24:03,027
+Si realmente me dices
+
+419
+00:24:04,111 --> 00:24:07,907
+que donde te sientes más seguro
+es con Homelander...
+
+420
+00:24:12,161 --> 00:24:13,621
+no te detendré.
+
+421
+00:24:26,675 --> 00:24:28,010
+¿Quieres jugar?
+
+422
+00:24:31,222 --> 00:24:32,431
+Muy bien.
+
+423
+00:24:32,431 --> 00:24:33,515
+Vamos.
+
+424
+00:24:41,065 --> 00:24:42,316
+{\an8}LA PROFUNDIDAD DEL AGUA
+POESÍAS DE THE DEEP
+
+425
+00:24:48,239 --> 00:24:49,657
+¿Viste a Ryan?
+
+426
+00:24:49,657 --> 00:24:51,867
+No, pero haré que lo busquen.
+
+427
+00:24:51,867 --> 00:24:53,118
+No.
+
+428
+00:24:53,118 --> 00:24:54,411
+Necesita su espacio.
+
+429
+00:24:54,411 --> 00:24:56,163
+-¿La lista?
+- Sí...
+
+430
+00:24:56,830 --> 00:25:00,668
+Señor, resalté a quienes deberíamos
+indemnizar en caso de querer...
+
+431
+00:25:04,296 --> 00:25:05,923
+- Despedirlos.
+- Genial.
+
+432
+00:25:05,923 --> 00:25:06,882
+Gracias. Bien.
+
+433
+00:25:07,383 --> 00:25:08,592
+Puedes retirarte.
+
+434
+00:25:15,182 --> 00:25:16,934
+No hay problema. Sí alcanzo.
+
+435
+00:25:26,694 --> 00:25:27,778
+Cilantro.
+
+436
+00:25:30,906 --> 00:25:34,660
+Caballeros, el nuestro es
+un círculo de confianza.
+
+437
+00:25:38,539 --> 00:25:41,208
+Lo que les diremos es ultraconfidencial.
+
+438
+00:25:41,208 --> 00:25:42,960
+-¿Entendido?
+- A la orden, capitán.
+
+439
+00:25:44,545 --> 00:25:48,966
+Robert Singer morirá a la brevedad.
+
+440
+00:25:48,966 --> 00:25:50,551
+Neuman asumirá su papel.
+
+441
+00:25:50,551 --> 00:25:51,677
+Cundirá el pánico.
+
+442
+00:25:51,677 --> 00:25:55,180
+Habrá revueltas, masacres, etcétera.
+
+443
+00:25:55,764 --> 00:25:59,351
+Alguien tendrá que intervenir
+e imponer el orden.
+
+444
+00:26:01,103 --> 00:26:05,357
+Convocaremos a todos
+y cada uno de los héroes de Vought.
+
+445
+00:26:05,357 --> 00:26:08,777
+Para proteger el Capitolio,
+la Casa Blanca y el Pentágono.
+
+446
+00:26:08,777 --> 00:26:11,572
+Para defender
+a la legítima presidenta Neuman.
+
+447
+00:26:11,572 --> 00:26:13,699
+Necesito que ustedes dos...
+
+448
+00:26:15,492 --> 00:26:17,369
+Por Dios, toma un jarabe.
+
+449
+00:26:17,369 --> 00:26:20,622
+Lo siento mucho, señor.
+Son los medicamentos.
+
+450
+00:26:22,541 --> 00:26:24,460
+Los medicamentos.
+
+451
+00:26:27,046 --> 00:26:29,256
+Me están provocando palpitaciones
+
+452
+00:26:29,256 --> 00:26:31,592
+y fiebre alta, pero nada grave.
+
+453
+00:26:31,592 --> 00:26:34,011
+Me estás tosiendo encima. Me das asco.
+
+454
+00:26:34,011 --> 00:26:35,929
+- Aléjate un poco.
+- Pero...
+
+455
+00:26:35,929 --> 00:26:37,014
+Muévete.
+
+456
+00:26:38,474 --> 00:26:39,433
+Está bien.
+
+457
+00:26:51,820 --> 00:26:52,654
+Más lejos.
+
+458
+00:27:02,998 --> 00:27:04,333
+Como decía...
+
+459
+00:27:06,460 --> 00:27:11,590
+Quiero a todos los de esta lista borrados
+
+460
+00:27:12,591 --> 00:27:14,343
+de forma permanente hoy.
+
+461
+00:27:16,512 --> 00:27:19,056
+Si es por quién puede hacernos más daño,
+
+462
+00:27:19,056 --> 00:27:21,350
+¿Ashley no debería encabezar esa lista?
+
+463
+00:27:23,394 --> 00:27:25,437
+Sí. Claro. Buena idea.
+
+464
+00:27:30,442 --> 00:27:32,319
+¿Cuál es el apellido de Ashley?
+
+465
+00:27:39,576 --> 00:27:40,786
+¿Qué...?
+
+466
+00:28:28,542 --> 00:28:31,920
+{\an8}DEPARTAMENTO DE OBRAS PÚBLICAS
+
+467
+00:28:40,721 --> 00:28:43,515
+¿En serio la cambiaformas
+puede atravesar eso?
+
+468
+00:28:43,515 --> 00:28:45,767
+Incluso ya podría estar ahí dentro.
+
+469
+00:28:45,767 --> 00:28:49,104
+Así que, desde ahora,
+todos se mueven en parejas
+
+470
+00:28:49,104 --> 00:28:51,857
+y se reportan
+cada cinco minutos sin falta.
+
+471
+00:28:51,857 --> 00:28:54,234
+Abran los ojos
+y sigan las malditas órdenes.
+
+472
+00:28:54,234 --> 00:28:55,611
+Vamos, de prisa.
+
+473
+00:28:56,195 --> 00:28:57,779
+Señor, va a estar bien.
+
+474
+00:28:57,779 --> 00:28:59,823
+De haber matado a Neuman como ordené,
+
+475
+00:28:59,823 --> 00:29:03,911
+no estaríamos pasando el tiempo
+cuatro pisos bajo tierra.
+
+476
+00:29:03,911 --> 00:29:05,120
+Idiota.
+
+477
+00:29:07,915 --> 00:29:08,957
+Carajo.
+
+478
+00:29:09,917 --> 00:29:11,793
+Kimiko, quédate con Singer.
+
+479
+00:29:16,965 --> 00:29:19,593
+¿Crees que la cambiaformas está aquí?
+
+480
+00:29:19,593 --> 00:29:22,763
+Espero que no, por Dios,
+pero podría ser cualquiera.
+
+481
+00:29:22,763 --> 00:29:24,473
+Así que vigila a todos.
+
+482
+00:29:24,473 --> 00:29:26,141
+Bien. Claro.
+
+483
+00:29:28,560 --> 00:29:30,145
+Cielos.
+
+484
+00:29:32,397 --> 00:29:33,649
+-¿Estás bien?
+- Sí.
+
+485
+00:29:33,649 --> 00:29:34,733
+Sí, estoy bien.
+
+486
+00:29:34,733 --> 00:29:37,152
+Solo tengo calor.
+
+487
+00:29:38,153 --> 00:29:39,988
+Es como un horno.
+
+488
+00:29:41,865 --> 00:29:43,325
+Es como un horno.
+
+489
+00:29:50,249 --> 00:29:52,125
+¿Y si vas por un poco de agua?
+
+490
+00:29:52,834 --> 00:29:55,087
+Sí. ¿Quieres?
+
+491
+00:29:55,087 --> 00:29:57,422
+- Me encantaría.
+- Enseguida vuelvo.
+
+492
+00:29:58,173 --> 00:29:59,299
+Bien.
+
+493
+00:30:06,515 --> 00:30:07,724
+Puta madre.
+
+494
+00:30:33,959 --> 00:30:35,043
+Carajo.
+
+495
+00:30:35,043 --> 00:30:38,672
+Perdón. Es un segundo, una tontería.
+
+496
+00:30:38,672 --> 00:30:40,632
+No me mires, mira hacia la sala.
+
+497
+00:30:40,632 --> 00:30:42,634
+No me mires, mira hacia adelante.
+
+498
+00:30:42,634 --> 00:30:45,429
+- No me mires, mira hacia adelante.
+- De acuerdo.
+
+499
+00:30:45,429 --> 00:30:46,513
+Mantén la calma.
+
+500
+00:30:47,264 --> 00:30:48,432
+Es Annie.
+
+501
+00:30:48,432 --> 00:30:49,391
+¿Qué es Annie?
+
+502
+00:30:49,391 --> 00:30:51,351
+La cambiaformas es Annie. Es...
+
+503
+00:30:51,351 --> 00:30:53,186
+-¿Qué?
+- No, mira hacia adelante.
+
+504
+00:30:53,186 --> 00:30:54,855
+-¿Cómo lo sabes?
+- Confía en mí.
+
+505
+00:30:54,855 --> 00:30:58,066
+No sé cómo o cuándo la reemplazó,
+pero ella no es Annie.
+
+506
+00:30:58,066 --> 00:30:59,109
+Escucha.
+
+507
+00:30:59,109 --> 00:31:02,654
+El destino del país depende
+de que sepamos manejarnos, así que...
+
+508
+00:31:02,654 --> 00:31:04,698
+-¡Hola!
+-¡Hola!
+
+509
+00:31:04,698 --> 00:31:05,866
+-¡Hola!
+-¿Agua?
+
+510
+00:31:05,866 --> 00:31:07,326
+- Gracias.
+- Ahí tienes.
+
+511
+00:31:07,326 --> 00:31:08,994
+Sí, genial.
+
+512
+00:31:18,045 --> 00:31:19,379
+¿Qué miras?
+
+513
+00:31:22,257 --> 00:31:23,216
+Ya sé.
+
+514
+00:31:28,722 --> 00:31:29,556
+Se...
+
+515
+00:31:30,849 --> 00:31:31,975
+¡Felicitaciones!
+
+516
+00:31:31,975 --> 00:31:33,977
+- Gracias.
+- Sí, lo hicimos.
+
+517
+00:31:33,977 --> 00:31:37,230
+Eso hicimos.
+
+518
+00:31:37,230 --> 00:31:38,857
+Y fue mi iniciativa.
+
+519
+00:31:38,857 --> 00:31:42,152
+Abajo el patriarcado. ¿Cierto?
+
+520
+00:31:42,152 --> 00:31:43,945
+Sí, abajo el patriarcado.
+
+521
+00:31:43,945 --> 00:31:46,323
+Sí, abajo, al infierno.
+
+522
+00:31:46,323 --> 00:31:48,909
+Casarme fue
+la mejor decisión que tomé en la vida.
+
+523
+00:31:48,909 --> 00:31:50,827
+Así que los felicito a ambos.
+
+524
+00:31:51,119 --> 00:31:53,288
+Pero tengo un llamado de la naturaleza,
+
+525
+00:31:53,288 --> 00:31:56,041
+así que voy a mear y los dejó al mando.
+
+526
+00:31:56,041 --> 00:31:57,167
+¡Sí, diablos!
+
+527
+00:31:57,167 --> 00:31:59,461
+-¡Mierda!
+- Señor, venga conmigo.
+
+528
+00:32:00,962 --> 00:32:02,089
+Señor, por aquí.
+
+529
+00:32:04,007 --> 00:32:04,966
+¡Carajo!
+
+530
+00:32:18,647 --> 00:32:19,856
+¡Maldita sea!
+
+531
+00:32:20,732 --> 00:32:21,692
+¡Muévanse!
+
+532
+00:32:40,544 --> 00:32:41,461
+¡Adelante!
+
+533
+00:33:24,713 --> 00:33:26,006
+¡Vamos!
+
+534
+00:33:26,381 --> 00:33:27,632
+¿Cuántos números hay?
+
+535
+00:33:28,425 --> 00:33:29,509
+Por Dios.
+
+536
+00:33:41,813 --> 00:33:43,899
+Lleven a Singer. ¡Vayan! ¡Ya!
+
+537
+00:33:45,025 --> 00:33:46,860
+-¡Vamos!
+-¡Adelante!
+
+538
+00:33:48,069 --> 00:33:49,196
+Hughie, vete.
+
+539
+00:33:56,495 --> 00:33:59,456
+¿En serio crees poder conmigo,
+así toda jodida?
+
+540
+00:34:00,707 --> 00:34:03,585
+Ni siquiera tienes poderes, ¿o sí?
+
+541
+00:34:31,404 --> 00:34:32,656
+Tienes razón.
+
+542
+00:34:33,532 --> 00:34:35,033
+No sé si soy una heroína.
+
+543
+00:34:37,577 --> 00:34:40,413
+No sé quién carajo soy.
+
+544
+00:34:42,082 --> 00:34:46,670
+Pero sí sé que soy la perra que te venció.
+
+545
+00:35:20,287 --> 00:35:21,288
+Victoria.
+
+546
+00:35:21,288 --> 00:35:23,790
+- Singer está vivo. Tu asesino falló.
+<i>-¿"Falló"?</i>
+
+547
+00:35:23,790 --> 00:35:26,459
+Ahora la CIA se ocupará
+de esconderlo mejor.
+
+548
+00:35:26,459 --> 00:35:28,253
+No veo nada en las noticias.
+
+549
+00:35:28,253 --> 00:35:32,173
+Vendrá por mí sigilosamente.
+Estoy segura de que tiene los medios.
+
+550
+00:35:32,173 --> 00:35:33,550
+<i>¿Dónde está Sage?</i>
+
+551
+00:35:33,550 --> 00:35:36,469
+<i>Quizá ella sepa arreglar
+esta idiotez que hiciste.</i>
+
+552
+00:35:36,469 --> 00:35:38,096
+No fallamos.
+
+553
+00:35:38,096 --> 00:35:40,515
+Si es necesario,
+yo mismo acabaré con Singer.
+
+554
+00:35:40,891 --> 00:35:45,437
+Tú serás presidenta
+y acatarás cada orden que te dé
+
+555
+00:35:45,437 --> 00:35:49,357
+como si tuvieras mi mano metida
+en ese culo fruncido tuyo,
+
+556
+00:35:49,357 --> 00:35:51,067
+como el títere que eres.
+
+557
+00:35:51,401 --> 00:35:55,780
+<i>Y, Victoria,
+si te alejas un solo milímetro del camino,</i>
+
+558
+00:35:55,780 --> 00:36:00,118
+me aseguraré
+de que Zoe sufra por el resto de su vida.
+
+559
+00:36:00,118 --> 00:36:05,332
+Y, cada año, te enviaré una parte
+de ella por el resto de la tuya.
+
+560
+00:36:05,707 --> 00:36:07,834
+<i>¡Nosotros no fallamos!</i>
+
+561
+00:36:18,929 --> 00:36:20,430
+¿Quién tiene dos pulgares
+
+562
+00:36:20,430 --> 00:36:23,808
+y es el más genio
+de todos los putos genios?
+
+563
+00:36:24,476 --> 00:36:25,518
+El virus está...
+
+564
+00:36:27,145 --> 00:36:28,480
+¿Qué les pasó?
+
+565
+00:36:38,281 --> 00:36:39,240
+Está bien.
+
+566
+00:36:58,510 --> 00:36:59,636
+Hola.
+
+567
+00:37:01,554 --> 00:37:02,514
+¿Estás bien?
+
+568
+00:37:03,056 --> 00:37:04,224
+Genial.
+
+569
+00:37:04,933 --> 00:37:06,518
+Gracias a Dios que apareciste.
+
+570
+00:37:07,769 --> 00:37:10,105
+-¿Cómo nos encontraste?
+- Rastreé el teléfono.
+
+571
+00:37:11,064 --> 00:37:14,526
+También encontré a tu prometida.
+
+572
+00:37:14,943 --> 00:37:16,236
+Felicitaciones.
+
+573
+00:37:16,236 --> 00:37:18,947
+Ella no era mi prometida. No, tú eres...
+
+574
+00:37:19,990 --> 00:37:22,617
+Le diste el anillo a ella, Hughie.
+
+575
+00:37:23,201 --> 00:37:26,538
+¡Lo sé porque se lo arranqué
+de la maldita mano muerta!
+
+576
+00:37:26,538 --> 00:37:29,499
+Pensé que me comprometía contigo.
+Era idéntica.
+
+577
+00:37:29,499 --> 00:37:32,794
+Hasta tenía esa peca de ahí abajo.
+
+578
+00:37:32,794 --> 00:37:33,920
+Te la cogiste.
+
+579
+00:37:35,714 --> 00:37:37,674
+- Sabes que...
+-¿Cuántas veces?
+
+580
+00:37:37,674 --> 00:37:39,092
+Seguro menos de...
+
+581
+00:37:40,677 --> 00:37:41,553
+Veinte.
+
+582
+00:37:41,553 --> 00:37:44,514
+Carajo, desaparecí durante diez días.
+
+583
+00:37:44,514 --> 00:37:46,182
+Ella siempre me buscaba,
+
+584
+00:37:46,182 --> 00:37:48,685
+y tengo que insistir, creí que eras tú.
+
+585
+00:37:48,685 --> 00:37:51,312
+Como te aseguraba el sexo,
+no prestaste atención.
+
+586
+00:37:51,312 --> 00:37:52,897
+Esa es la Annie que quieres.
+
+587
+00:37:52,897 --> 00:37:54,858
+Lista para la acción, la chica ideal.
+
+588
+00:37:54,858 --> 00:37:57,736
+No una chica deprimida,
+
+589
+00:37:57,736 --> 00:38:00,864
+o jodida o complicada.
+
+590
+00:38:03,450 --> 00:38:05,160
+¿Te digo cómo supe que no eras tú?
+
+591
+00:38:07,662 --> 00:38:10,623
+En el departamento,
+ella usaba ropa de diseñador.
+
+592
+00:38:10,623 --> 00:38:13,251
+Tú te quitas el sostén apenas llegas.
+
+593
+00:38:13,251 --> 00:38:15,420
+Encontraba las llaves del auto rápido
+
+594
+00:38:15,420 --> 00:38:18,590
+y a ti nunca te lleva menos de 15 minutos.
+
+595
+00:38:18,590 --> 00:38:19,549
+¿La pista final?
+
+596
+00:38:20,133 --> 00:38:22,052
+En el búnker, la vi sudar,
+
+597
+00:38:22,802 --> 00:38:26,973
+y siempre fuiste
+y siempre serás de las que usan pashmina.
+
+598
+00:38:27,807 --> 00:38:29,100
+Me encanta eso de ti.
+
+599
+00:38:29,100 --> 00:38:33,063
+Todas tus rarezas y tus complejidades
+te hacen ser quien eres.
+
+600
+00:38:34,898 --> 00:38:35,857
+Annie, por favor.
+
+601
+00:38:46,326 --> 00:38:47,368
+Carajo.
+
+602
+00:38:58,922 --> 00:38:59,798
+¿Vicky?
+
+603
+00:38:59,798 --> 00:39:00,965
+Quiero apartarme.
+
+604
+00:39:02,217 --> 00:39:03,927
+<i>Perdón... ¿Es un chiste?</i>
+
+605
+00:39:04,969 --> 00:39:05,887
+No.
+
+606
+00:39:07,347 --> 00:39:08,264
+Fue muy lejos.
+
+607
+00:39:08,264 --> 00:39:10,433
+Lo dices porque falló lo del asesinato.
+
+608
+00:39:10,433 --> 00:39:12,393
+<i>No, lo digo porque no tendrá fin.</i>
+
+609
+00:39:12,811 --> 00:39:15,939
+Homelander está loco.
+Ya ni siquiera escucha a Sage.
+
+610
+00:39:15,939 --> 00:39:19,651
+Si asumo, seré solo un títere.
+Y si me resisto, él...
+
+611
+00:39:23,196 --> 00:39:24,447
+Renunciaré sin luchar.
+
+612
+00:39:24,447 --> 00:39:27,158
+<i>Quítame de encima a la CIA
+y ayúdame a huir con Zoe.</i>
+
+613
+00:39:27,158 --> 00:39:28,368
+Vete a la mierda.
+
+614
+00:39:28,368 --> 00:39:30,161
+<i>Eres como el pastor mentiroso.</i>
+
+615
+00:39:30,161 --> 00:39:31,996
+Con las barbaridades que hiciste.
+
+616
+00:39:31,996 --> 00:39:34,999
+¿Ustedes no obligaron a Sameer
+a hacer virus para matarme?
+
+617
+00:39:34,999 --> 00:39:36,292
+¡Le cortaron la pierna!
+
+618
+00:39:38,086 --> 00:39:41,631
+Me alegra que sepas de él.
+Y lo de la pierna no fui yo.
+
+619
+00:39:41,631 --> 00:39:43,967
+Pero tampoco nos dejaste muchas opciones.
+
+620
+00:39:43,967 --> 00:39:47,929
+<i>La cuestión es que me pegan,
+yo les devuelvo el golpe, y esto no acaba.</i>
+
+621
+00:39:47,929 --> 00:39:49,305
+Son juegos de guerra.
+
+622
+00:39:51,391 --> 00:39:53,059
+Solo ganas si no juegas.
+
+623
+00:39:58,273 --> 00:39:59,649
+Creí que deseaba esto.
+
+624
+00:40:00,316 --> 00:40:03,820
+No por Zoe ni por Edgar, sino por mí.
+
+625
+00:40:04,696 --> 00:40:07,490
+<i>Solo quería sentirme a salvo.</i>
+
+626
+00:40:07,490 --> 00:40:10,201
+No como una niña traumada de Red River.
+
+627
+00:40:13,913 --> 00:40:16,374
+Pero no me siento a salvo
+y tengo mucho miedo.
+
+628
+00:40:18,459 --> 00:40:21,087
+Y no arriesgaré la vida de Zoe.
+
+629
+00:40:24,883 --> 00:40:26,092
+Es la única forma.
+
+630
+00:40:27,468 --> 00:40:29,053
+No sé cómo confiar en ti.
+
+631
+00:40:30,221 --> 00:40:31,890
+Te diré dónde está Zoe.
+
+632
+00:40:33,391 --> 00:40:34,642
+¿Se encuentra bien?
+
+633
+00:40:34,642 --> 00:40:37,562
+<i>Sí. Pero si voy por ella,
+llamaré la atención.</i>
+
+634
+00:40:37,562 --> 00:40:39,731
+Y así sabrás que puedes confiar en mí,
+
+635
+00:40:39,731 --> 00:40:41,900
+porque pongo en tus manos a mi hija.
+
+636
+00:40:43,818 --> 00:40:45,278
+<i>Por favor, Hughie.</i>
+
+637
+00:40:46,321 --> 00:40:49,782
+Eres la única persona del mundo
+a quien puedo acudir ahora.
+
+638
+00:41:01,377 --> 00:41:03,087
+Me cansé de correr.
+
+639
+00:41:17,810 --> 00:41:19,103
+Estás en la lista.
+
+640
+00:41:19,103 --> 00:41:20,396
+No me mates.
+
+641
+00:41:20,396 --> 00:41:21,522
+Puedo pagarte.
+
+642
+00:41:21,522 --> 00:41:24,067
+Eres guionista, no te pagan nada.
+
+643
+00:41:24,067 --> 00:41:25,443
+Haré lo que sea.
+
+644
+00:41:28,529 --> 00:41:29,489
+¿Lo que sea?
+
+645
+00:41:31,282 --> 00:41:33,660
+Di que soy
+el superhéroe más listo de los Seven.
+
+646
+00:41:34,953 --> 00:41:38,456
+Eres, por mucho,
+el superhéroe más listo de los Seven.
+
+647
+00:41:38,456 --> 00:41:40,166
+Eres brillante. Un genio.
+
+648
+00:41:40,166 --> 00:41:42,001
+Y que me respetas más que a nadie.
+
+649
+00:41:42,001 --> 00:41:43,503
+Sin contar a Homelander.
+
+650
+00:41:43,503 --> 00:41:45,421
+Claro que te respeto.
+
+651
+00:41:45,421 --> 00:41:46,839
+Eres sensacional.
+
+652
+00:41:48,091 --> 00:41:50,218
+Lo dices solo porque tienes miedo.
+
+653
+00:41:50,218 --> 00:41:51,844
+No.
+
+654
+00:41:52,220 --> 00:41:54,138
+- Te lo juro.
+- Sí.
+
+655
+00:41:56,015 --> 00:41:57,475
+Pero ¿sabes qué?
+
+656
+00:41:58,977 --> 00:42:00,144
+Con eso me basta.
+
+657
+00:42:14,325 --> 00:42:16,744
+¿Viste a Ashley?
+
+658
+00:42:17,495 --> 00:42:18,538
+Ella es Ashley.
+
+659
+00:42:21,541 --> 00:42:24,210
+No, hermano, la otra Ashley.
+
+660
+00:42:25,211 --> 00:42:26,713
+Esta ni estaba en la lista.
+
+661
+00:42:26,713 --> 00:42:29,424
+No sé.
+Aquí todas se llaman Ashley, carajo.
+
+662
+00:42:30,967 --> 00:42:32,051
+Hermano.
+
+663
+00:42:40,476 --> 00:42:41,602
+Erección de homicidio.
+
+664
+00:42:42,812 --> 00:42:44,022
+No lo puedo creer.
+
+665
+00:42:44,022 --> 00:42:46,399
+Si sumamos a Neuman,
+con lo poderosa que es,
+
+666
+00:42:46,399 --> 00:42:48,818
+con todo lo que sabe de Vought,
+
+667
+00:42:48,818 --> 00:42:50,695
+aun con un 5% de posibilidad...
+
+668
+00:42:50,695 --> 00:42:53,531
+¿Vamos a olvidar
+que Neuman es un monstruo?
+
+669
+00:42:53,531 --> 00:42:55,074
+No digo eso. Solo...
+
+670
+00:42:55,783 --> 00:42:57,076
+Todos actuamos mal.
+
+671
+00:42:57,577 --> 00:42:59,662
+¿Y si metió la pata, como nosotros,
+
+672
+00:42:59,662 --> 00:43:01,414
+al querer lo mejor para su hija?
+
+673
+00:43:01,414 --> 00:43:04,459
+Es una locura
+que siquiera nos planteemos esto.
+
+674
+00:43:04,459 --> 00:43:08,212
+La locura es que nuestra solución
+a cualquier problema sea matar.
+
+675
+00:43:08,796 --> 00:43:10,965
+Antes me espantaba ver sangre.
+
+676
+00:43:10,965 --> 00:43:12,467
+Ahora ni pestañeo.
+
+677
+00:43:14,093 --> 00:43:17,597
+No debería ser así.
+No estamos en una película de Vought.
+
+678
+00:43:17,597 --> 00:43:21,142
+Ser violento no es ser valiente,
+y tampoco odiar a mi mamá
+
+679
+00:43:22,018 --> 00:43:24,896
+o a A-Train o... a nadie.
+
+680
+00:43:25,646 --> 00:43:28,733
+En cambio, perdonar,
+olvidar, tener un poco de compasión.
+
+681
+00:43:29,567 --> 00:43:30,568
+Eso es ser valiente.
+
+682
+00:43:33,071 --> 00:43:35,448
+Es ser loco, pero valiente.
+
+683
+00:43:37,408 --> 00:43:39,994
+Es lo último que me enseñó
+mi papá y creo que...
+
+684
+00:43:42,080 --> 00:43:45,124
+Para vencer monstruos,
+debemos actuar como seres humanos.
+
+685
+00:43:51,714 --> 00:43:52,632
+Al carajo.
+
+686
+00:43:55,301 --> 00:43:56,427
+¿En serio?
+
+687
+00:43:56,427 --> 00:43:57,970
+¿Así como así?
+
+688
+00:43:57,970 --> 00:44:00,014
+Annie, como sea, seguramente moriremos.
+
+689
+00:44:00,932 --> 00:44:02,934
+Mejor que sea con la cabeza bien alta.
+
+690
+00:44:02,934 --> 00:44:05,144
+Al carajo.
+
+691
+00:44:05,978 --> 00:44:07,188
+Genial.
+
+692
+00:44:07,188 --> 00:44:10,066
+Arriesgarnos con A-Train
+
+693
+00:44:10,066 --> 00:44:11,401
+fue una locura.
+
+694
+00:44:12,193 --> 00:44:13,653
+Pero mira cómo resultó.
+
+695
+00:44:16,739 --> 00:44:17,907
+Mierda.
+
+696
+00:44:21,202 --> 00:44:22,036
+Al carajo.
+
+697
+00:44:22,745 --> 00:44:24,580
+Hughie, si te equivocas...
+
+698
+00:44:24,580 --> 00:44:26,040
+Confía, pero verifica.
+
+699
+00:44:26,040 --> 00:44:29,794
+Frenchie, ¿puedes meterle ese virus
+en el organismo a Neuman?
+
+700
+00:44:29,794 --> 00:44:33,089
+Un dardo
+con punta de metamaterial de carbono...
+
+701
+00:44:33,840 --> 00:44:35,800
+Y si apunto al tejido blando...
+
+702
+00:44:37,969 --> 00:44:39,595
+- Tal vez.
+- Entonces, hazlo.
+
+703
+00:44:39,595 --> 00:44:42,682
+Porque si es una trampa,
+al menos estaremos preparados.
+
+704
+00:44:42,682 --> 00:44:45,977
+Hughie, si Neuman nos despierta
+la menor sospecha...
+
+705
+00:44:47,019 --> 00:44:50,022
+- Frenchie la mata.
+- Sí, me parece bien. Entiendo.
+
+706
+00:44:52,733 --> 00:44:54,485
+- Tenemos que...
+- Cállate.
+
+707
+00:44:54,485 --> 00:44:59,532
+Te harás análisis
+para todas las enfermedades conocidas.
+
+708
+00:44:59,532 --> 00:45:00,575
+¿Está bien?
+
+709
+00:45:01,200 --> 00:45:02,827
+No quiero sífilis cambiaformas.
+
+710
+00:45:09,584 --> 00:45:10,793
+¡Vamos, Hughie!
+
+711
+00:45:10,793 --> 00:45:11,836
+¡Vamos!
+
+712
+00:45:16,757 --> 00:45:18,801
+¿En serio te parece inteligente?
+
+713
+00:45:20,344 --> 00:45:22,805
+{\an8}¿Y si Hughie tiene razón?
+
+714
+00:45:23,639 --> 00:45:29,020
+{\an8}¿Y si perdonar es lo mejor
+que podemos hacer?
+
+715
+00:45:30,271 --> 00:45:31,272
+{\an8}¿A Neuman?
+
+716
+00:45:31,481 --> 00:45:33,441
+{\an8}A Neuman.
+
+717
+00:45:33,441 --> 00:45:35,818
+{\an8}A nosotros mismos.
+
+718
+00:45:38,488 --> 00:45:40,948
+{\an8}En comparación, lo de Neuman es fácil.
+
+719
+00:45:44,118 --> 00:45:45,119
+{\an8}¿Cómo?
+
+720
+00:45:46,704 --> 00:45:51,751
+{\an8}Poco a poco, supongo.
+
+721
+00:45:58,799 --> 00:46:04,805
+{\an8}¿Recuerdas que te dije
+que estuvieras con Colin?
+
+722
+00:46:08,601 --> 00:46:10,937
+{\an8}Mentí.
+
+723
+00:46:11,771 --> 00:46:15,650
+{\an8}Pensé que merecías estar con alguien...
+
+724
+00:46:19,570 --> 00:46:23,783
+{\an8}mejor que yo.
+
+725
+00:46:29,288 --> 00:46:33,834
+No existe nadie mejor que tú.
+
+726
+00:47:13,666 --> 00:47:14,875
+Puedo oírte.
+
+727
+00:47:16,627 --> 00:47:20,256
+"Marvin dijo que atentaron contra Singer,
+pero sobrevivió".
+
+728
+00:47:20,798 --> 00:47:24,218
+Lo sabemos. Pero hay cosas
+por las que no debes preocuparte.
+
+729
+00:47:24,218 --> 00:47:25,553
+Volverán a intentarlo.
+
+730
+00:47:25,553 --> 00:47:28,097
+Y ese virus es un último recurso,
+como mucho.
+
+731
+00:47:28,097 --> 00:47:30,266
+No hay más tiempo ni mejores opciones.
+
+732
+00:47:30,266 --> 00:47:31,934
+Ryan debe saber la verdad.
+
+733
+00:47:31,934 --> 00:47:34,353
+- Ya la sabrá.
+-¿Qué verdad?
+
+734
+00:47:36,856 --> 00:47:40,776
+El intento de asesinato
+fue orden de tu padre.
+
+735
+00:47:41,944 --> 00:47:43,029
+¿Qué?
+
+736
+00:47:43,029 --> 00:47:44,655
+¿Y el vuelo 37?
+
+737
+00:47:45,781 --> 00:47:48,284
+Homelander mató a todos los pasajeros.
+
+738
+00:47:49,118 --> 00:47:49,994
+Grace.
+
+739
+00:47:49,994 --> 00:47:51,954
+- Mientes.
+- Lo tenemos grabado.
+
+740
+00:47:51,954 --> 00:47:53,914
+Asesinó a muchísimas personas más.
+
+741
+00:47:53,914 --> 00:47:55,875
+- Tu padre no es quien crees.
+- Basta.
+
+742
+00:47:55,875 --> 00:47:57,960
+No tuvo un amorío con tu madre.
+
+743
+00:47:57,960 --> 00:47:59,337
+-¡Grace!
+-¡La violó!
+
+744
+00:48:10,181 --> 00:48:11,474
+Lo lamento, hijo.
+
+745
+00:48:13,142 --> 00:48:14,101
+¿Y?
+
+746
+00:48:15,811 --> 00:48:18,648
+Tu corazón late fuerte.
+Hay algo que no me dices.
+
+747
+00:48:19,649 --> 00:48:21,651
+Eres el único que puede detenerlo.
+
+748
+00:48:22,068 --> 00:48:23,319
+¿Detenerlo?
+
+749
+00:48:24,779 --> 00:48:25,821
+¿Matarlo?
+
+750
+00:48:25,821 --> 00:48:27,323
+No puedo.
+
+751
+00:48:27,323 --> 00:48:28,699
+No me pidan eso.
+
+752
+00:48:28,699 --> 00:48:30,743
+- Ryan, eres fuerte.
+-¡Él es más fuerte!
+
+753
+00:48:30,743 --> 00:48:32,286
+Te entrenarás. Estarás listo.
+
+754
+00:48:32,286 --> 00:48:34,372
+¿Para eso quieres que vaya contigo?
+
+755
+00:48:34,789 --> 00:48:36,582
+¿Para enseñarme a matar a mi papá?
+
+756
+00:48:37,458 --> 00:48:39,418
+- Tengo que irme.
+- Quédate.
+
+757
+00:48:39,418 --> 00:48:41,837
+- Conversémoslo.
+- No quiero conversar.
+
+758
+00:48:41,837 --> 00:48:43,589
+Volveré, necesito pensar.
+
+759
+00:48:43,589 --> 00:48:45,841
+No habrá otra oportunidad.
+
+760
+00:48:45,841 --> 00:48:49,136
+- Vamos a calmarnos.
+- No puedes irte.
+
+761
+00:48:54,850 --> 00:48:55,851
+Esperen.
+
+762
+00:48:57,019 --> 00:48:58,646
+Estos muros son muy gruesos.
+
+763
+00:48:58,646 --> 00:49:02,274
+Es la casa segura de la CIA
+en Hazlet, diseñada para gente como tú.
+
+764
+00:49:02,274 --> 00:49:05,444
+Podría encerrarnos aquí,
+llenar la sala de halotano,
+
+765
+00:49:05,444 --> 00:49:07,196
+para tomar una larga siesta.
+
+766
+00:49:07,196 --> 00:49:08,906
+Pero no quiero, pequeño.
+
+767
+00:49:08,906 --> 00:49:10,408
+Este era el plan.
+
+768
+00:49:10,408 --> 00:49:12,243
+Me trajeron para atraparme.
+
+769
+00:49:12,243 --> 00:49:13,911
+No. Te trajimos para ayudarte.
+
+770
+00:49:13,911 --> 00:49:16,664
+¡Me encerrarán en una jaula
+si no acepto ser su arma!
+
+771
+00:49:17,415 --> 00:49:20,501
+- Igual que hicieron con mi papá.
+- No es así. En serio.
+
+772
+00:49:22,253 --> 00:49:24,880
+- Déjenme ir.
+- Ryan, cuando perdí a mis nietos,
+
+773
+00:49:25,548 --> 00:49:29,093
+sentí un gran agujero negro dentro de mí.
+
+774
+00:49:29,885 --> 00:49:32,054
+Entonces, llegó el mayor milagro.
+
+775
+00:49:32,555 --> 00:49:33,639
+Tú.
+
+776
+00:49:37,768 --> 00:49:39,103
+Te amo, pequeño.
+
+777
+00:49:39,603 --> 00:49:40,688
+Por favor.
+
+778
+00:49:40,688 --> 00:49:43,858
+Grace, quiero irme.
+
+779
+00:49:43,858 --> 00:49:46,068
+- Lo siento.
+- Fuera de mi camino.
+
+780
+00:49:46,777 --> 00:49:48,529
+- Grace.
+- Lo siento.
+
+781
+00:49:49,530 --> 00:49:50,448
+¡No!
+
+782
+00:50:54,512 --> 00:50:55,638
+¿Qué?
+
+783
+00:50:58,557 --> 00:50:59,725
+Hola.
+
+784
+00:51:04,605 --> 00:51:07,066
+La última vez que te vimos,
+tenías ortodoncia...
+
+785
+00:51:07,066 --> 00:51:08,067
+No hagamos eso.
+
+786
+00:51:09,193 --> 00:51:10,444
+¿Cómo será esto, Neuman?
+
+787
+00:51:11,195 --> 00:51:12,071
+Fácil.
+
+788
+00:51:12,655 --> 00:51:16,575
+Me ayudan a alejarme de Homelander
+y de la CIA de Singer...
+
+789
+00:51:17,535 --> 00:51:18,744
+Y me voy en silencio.
+
+790
+00:51:19,537 --> 00:51:22,623
+- Y nos deberás un favor.
+- Mucho más que uno.
+
+791
+00:51:25,835 --> 00:51:27,878
+Les deberé muchos.
+
+792
+00:51:28,504 --> 00:51:29,672
+Estupendo. Entonces...
+
+793
+00:51:30,714 --> 00:51:32,508
+Nos ayudarás a derrotar a Vought.
+
+794
+00:51:33,133 --> 00:51:34,176
+Y a Homelander.
+
+795
+00:51:46,105 --> 00:51:47,147
+¿Butcher?
+
+796
+00:51:49,275 --> 00:51:50,234
+Nada de tratos.
+
+797
+00:51:52,236 --> 00:51:53,237
+Puedo explicarte.
+
+798
+00:51:53,237 --> 00:51:55,614
+Está todo bien. Sé lo que parece.
+
+799
+00:51:55,614 --> 00:51:59,535
+Después de todo lo que pasamos,
+nunca te pedí que confiaras en mí.
+
+800
+00:51:59,535 --> 00:52:00,703
+Te lo pido ahora.
+
+801
+00:52:02,079 --> 00:52:03,706
+Así como confiabas en Lenny.
+
+802
+00:52:06,959 --> 00:52:08,502
+Por favor, Butcher.
+
+803
+00:52:32,735 --> 00:52:33,652
+¡Alto!
+
+804
+00:52:41,410 --> 00:52:42,286
+¡Alto!
+
+805
+00:53:22,451 --> 00:53:23,452
+¡Alto!
+
+806
+00:53:26,580 --> 00:53:27,790
+Es un suicidio.
+
+807
+00:53:30,334 --> 00:53:32,878
+Me llevo ese virus. Gracias, Frenchie.
+
+808
+00:53:32,878 --> 00:53:34,380
+De ningún modo.
+
+809
+00:53:35,673 --> 00:53:36,966
+¿Tomaste V?
+
+810
+00:53:37,633 --> 00:53:39,301
+También funcionará contigo.
+
+811
+00:53:54,984 --> 00:53:57,903
+Si fuera ustedes, no me quedaría por aquí.
+
+812
+00:54:03,033 --> 00:54:04,034
+Por cierto...
+
+813
+00:54:08,455 --> 00:54:10,290
+De nada, carajo.
+
+814
+00:54:27,641 --> 00:54:28,475
+{\an8}ÚLTIMO MOMENTO
+
+815
+00:54:28,475 --> 00:54:31,603
+{\an8}Interrumpimos por una noticia
+de último momento
+
+816
+00:54:31,603 --> 00:54:34,982
+<i>que... Perdón,
+estoy mirando a mis productores,</i>
+
+817
+00:54:34,982 --> 00:54:36,692
+<i>¿está confirmado?</i>
+
+818
+00:54:37,234 --> 00:54:39,778
+<i>Me dicen que sí.</i>
+
+819
+00:54:39,778 --> 00:54:43,407
+{\an8}<i>Ha muerto
+la vicepresidenta electa Victoria Neuman.</i>
+
+820
+00:54:43,407 --> 00:54:46,827
+<i>Fue asesinada hoy
+a horas de revelar al mundo</i>
+
+821
+00:54:46,827 --> 00:54:48,620
+<i>su condición de Súper.</i>
+
+822
+00:54:49,121 --> 00:54:50,247
+¿Dónde está Ryan?
+
+823
+00:54:51,957 --> 00:54:54,043
+Al fin y al cabo, todo esto fue por él.
+
+824
+00:54:55,127 --> 00:54:57,588
+-¿Qué haces aquí?
+- Festejo.
+
+825
+00:54:58,630 --> 00:54:59,882
+Ganamos. Ten.
+
+826
+00:55:02,384 --> 00:55:05,012
+Todo se fue al diablo. El plan se arruinó.
+
+827
+00:55:05,471 --> 00:55:07,056
+Este es el plan.
+
+828
+00:55:07,973 --> 00:55:12,352
+Hubo ciertos desvíos,
+claro, pero lo logramos.
+
+829
+00:55:13,103 --> 00:55:15,314
+Tenía que guardarme algunos detalles.
+
+830
+00:55:15,314 --> 00:55:16,774
+Los que arruinarías...
+
+831
+00:55:18,108 --> 00:55:19,443
+por ser tú.
+
+832
+00:55:20,235 --> 00:55:23,405
+Neuman habría sido un pésimo títere,
+terca, demasiadas ideas.
+
+833
+00:55:23,405 --> 00:55:25,449
+Así que elegí otro camino.
+
+834
+00:55:25,449 --> 00:55:28,368
+<i>...Bob Singer ordenó el asesinato.</i>
+
+835
+00:55:28,368 --> 00:55:30,829
+<i>De haber matado a Neuman como ordené,</i>
+
+836
+00:55:30,829 --> 00:55:34,041
+<i>no estaríamos pasando el tiempo
+cuatro pisos bajo tierra.</i>
+
+837
+00:55:34,041 --> 00:55:35,292
+<i>Ahora vamos en vivo.</i>
+
+838
+00:55:35,292 --> 00:55:37,753
+<i>El presidente electo Robert Singer</i>
+
+839
+00:55:37,753 --> 00:55:40,297
+{\an8}<i>es detenido por agentes federales,</i>
+
+840
+00:55:40,297 --> 00:55:43,634
+{\an8}<i>en un insólito giro de los acontecimientos</i>
+
+841
+00:55:43,634 --> 00:55:47,805
+<i>que ciertamente recordaremos
+como uno de los días más oscuros...</i>
+
+842
+00:55:51,183 --> 00:55:53,227
+Es para ti.
+
+843
+00:55:56,230 --> 00:55:58,774
+-¿Quién?
+- El presidente de la Cámara, Calhoun.
+
+844
+00:55:59,358 --> 00:56:02,486
+Ocupará la presidencia
+cuando se invoque la Enmienda 25.
+
+845
+00:56:02,486 --> 00:56:04,488
+Desea jurarte lealtad.
+
+846
+00:56:11,787 --> 00:56:12,704
+¿A mí?
+
+847
+00:56:14,414 --> 00:56:15,415
+Como te prometí.
+
+848
+00:56:15,415 --> 00:56:16,458
+Teníamos un trato.
+
+849
+00:56:16,458 --> 00:56:17,960
+Sí, pero yo lo rompí.
+
+850
+00:56:17,960 --> 00:56:19,044
+Yo no.
+
+851
+00:56:20,170 --> 00:56:22,881
+Te dije que podías confiar en mí.
+
+852
+00:56:23,590 --> 00:56:24,675
+Yo te cuido.
+
+853
+00:56:34,935 --> 00:56:37,312
+Pero te aparté, te traté como...
+
+854
+00:56:38,772 --> 00:56:39,857
+Como basura.
+
+855
+00:56:42,317 --> 00:56:43,443
+¿Por qué hiciste esto?
+
+856
+00:56:45,737 --> 00:56:46,822
+Para ver si podía.
+
+857
+00:56:50,284 --> 00:56:51,160
+Gracias.
+
+858
+00:56:52,327 --> 00:56:54,329
+Fue muy divertido.
+
+859
+00:56:56,373 --> 00:56:58,834
+Pero la próxima vez...
+
+860
+00:56:59,751 --> 00:57:00,878
+Hazme caso.
+
+861
+00:57:04,214 --> 00:57:05,174
+¿La próxima vez?
+
+862
+00:57:05,674 --> 00:57:07,759
+¡Ya lo creo, Ambición Rubia!
+
+863
+00:57:09,678 --> 00:57:11,180
+Prepárate para la fase dos.
+
+864
+00:57:27,321 --> 00:57:28,530
+Habla Homelander.
+
+865
+00:57:29,489 --> 00:57:32,159
+Y por eso, en mi primer acto oficial,
+
+866
+00:57:32,159 --> 00:57:35,871
+según el Artículo Primero,
+Sección Nueve de la Constitución,
+
+867
+00:57:35,871 --> 00:57:37,664
+declaro la ley marcial
+
+868
+00:57:37,664 --> 00:57:42,127
+y asigno a cientos de superhéroes
+de todo el territorio nacional,
+
+869
+00:57:42,127 --> 00:57:46,506
+que responderán directamente a Homelander.
+
+870
+00:57:47,507 --> 00:57:49,218
+- Para...
+- Gracias, Sr. Presidente.
+
+871
+00:57:54,056 --> 00:57:55,933
+Victoria Neuman.
+
+872
+00:57:55,933 --> 00:57:58,852
+Fue una gran patriota
+y una amiga muy querida.
+
+873
+00:57:59,561 --> 00:58:03,815
+Asesinada a sangre fría
+por Starlighters extremistas
+
+874
+00:58:03,815 --> 00:58:06,235
+<i>incrustados en nuestro gobierno.</i>
+
+875
+00:58:07,110 --> 00:58:09,655
+<i>Ahora que tenemos autoridad legal plena,</i>
+
+876
+00:58:09,655 --> 00:58:12,491
+convocaremos a un verdadero ejército
+de superhéroes
+
+877
+00:58:12,491 --> 00:58:16,620
+<i>para extirpar a esos traidores
+del gobierno y de las calles.</i>
+
+878
+00:58:17,621 --> 00:58:19,790
+Estados Unidos volverá a ser seguro.
+
+879
+00:58:20,499 --> 00:58:23,669
+<i>Y a los Starlighters,
+dondequiera que se oculten,</i>
+
+880
+00:58:23,669 --> 00:58:25,587
+<i>vamos por ustedes.</i>
+
+881
+00:58:26,630 --> 00:58:28,131
+Yo voy por ustedes.
+
+882
+00:58:30,342 --> 00:58:31,593
+Porque hoy...
+
+883
+00:58:33,428 --> 00:58:35,806
+nace una nueva era de superhéroes.
+
+884
+00:59:14,845 --> 00:59:17,097
+Despertamos en un mundo nuevo,
+
+885
+00:59:17,097 --> 00:59:22,728
+donde la esperanza, la pureza
+y el amor de Jesús nos iluminan a todos.
+
+886
+00:59:23,562 --> 00:59:27,482
+<i>Donde los niños pueden dormir tranquilos
+en brazos de sus madres,</i>
+
+887
+00:59:27,482 --> 00:59:30,861
+<i>sabiendo que hemos puesto fin
+a los planes pedófilos de Starlight.</i>
+
+888
+00:59:30,861 --> 00:59:31,778
+HOGAR RED RIVER
+
+889
+00:59:33,113 --> 00:59:34,823
+¡Carajo! ¡No!
+
+890
+00:59:39,244 --> 00:59:40,620
+¡Kimiko!
+
+891
+01:00:04,603 --> 01:00:09,066
+<i>Donde, por fin, el país ve
+a la multitud alerta por lo que es,</i>
+
+892
+01:00:09,066 --> 01:00:12,235
+<i>monstruos que buscan
+destruir nuestras tradiciones,</i>
+
+893
+01:00:12,235 --> 01:00:16,448
+<i>vender a nuestros hijos
+y afeminar a nuestros hombres.</i>
+
+894
+01:00:18,492 --> 01:00:21,787
+Y donde, bajo la guía de Homelander...
+
+895
+01:00:24,873 --> 01:00:27,334
+reinará la unión entre nosotros.
+
+896
+01:00:32,923 --> 01:00:33,965
+¡No!
+
+897
+01:00:34,341 --> 01:00:36,676
+¡No!
+
+898
+01:00:37,094 --> 01:00:40,472
+¡No!
+
+899
+01:00:40,847 --> 01:00:43,141
+¡No!
+
+900
+01:00:57,572 --> 01:01:02,702
+<i>Estados Unidos volverá a ser fuerte.</i>
+
+901
+01:01:03,161 --> 01:01:05,372
+<i>Glorioso.</i>
+
+902
+01:01:10,627 --> 01:01:14,965
+<i>Y sobre todo, volverá a ser Súper.</i>
+
+903
+01:01:45,704 --> 01:01:46,913
+¿Cuándo te enteraste?
+
+904
+01:01:47,456 --> 01:01:49,791
+Esta mañana, en la reunión secreta.
+
+905
+01:01:52,627 --> 01:01:53,962
+Solo lo sabe usted.
+
+906
+01:01:55,922 --> 01:01:57,299
+Se lo juro.
+
+907
+01:02:04,097 --> 01:02:05,974
+Tiene que ser una puta broma.
+
+908
+01:02:08,435 --> 01:02:09,728
+¿Todo este tiempo?
+
+909
+01:02:32,375 --> 01:02:34,336
+A LARRY KRIPKE
+

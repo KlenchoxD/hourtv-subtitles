@@ -1,0 +1,2735 @@
+1
+00:01:41,131 --> 00:01:45,221
+<b>LA CASA DEL DRAGÓN</b>
+
+2
+00:02:23,924 --> 00:02:26,011
+<i>El deber es sacrificio.</i>
+
+3
+00:02:28,011 --> 00:02:29,765
+<i>Eclipsa todas las cosas,</i>
+
+4
+00:02:30,431 --> 00:02:31,434
+<i>incluso la sangre.</i>
+
+5
+00:02:33,809 --> 00:02:36,689
+<i>Todos los hombres de honor
+deben pagar su precio.</i>
+
+6
+00:02:41,650 --> 00:02:44,697
+<i>El Norte carga con un gran deber
+a los Siete Reinos.</i>
+
+7
+00:02:45,279 --> 00:02:47,659
+<i>Uno más antiguo que cualquier juramento.</i>
+
+8
+00:02:48,575 --> 00:02:52,003
+<i>Desde los días de los Primeros Hombres
+hemos sido guardianes</i>
+
+9
+00:02:52,203 --> 00:02:54,249
+<i>en contra del frío y la oscuridad.</i>
+
+10
+00:02:55,874 --> 00:02:57,259
+<i>Durante su larga tradición,</i>
+
+11
+00:02:57,459 --> 00:03:00,804
+<i>la Guardia Nocturna ha cultivado
+su fuerza con hombres condenados</i>
+
+12
+00:03:01,004 --> 00:03:03,383
+<i>cuya vida ha sido su única posesión.</i>
+
+13
+00:03:04,006 --> 00:03:06,558
+<i>Pero mi ancestro, Torrhen Stark,</i>
+
+14
+00:03:06,758 --> 00:03:10,473
+<i>comenzó la tradición de hacer
+una ofrenda al inicio del invierno.</i>
+
+15
+00:03:11,346 --> 00:03:13,357
+<i>Uno de cada diez hombres de nuestra casa</i>
+
+16
+00:03:13,557 --> 00:03:16,562
+<i>es elegido para fortificar la guardia.</i>
+
+17
+00:03:19,521 --> 00:03:22,026
+<i>Esta no es una sentencia</i>
+
+18
+00:03:22,691 --> 00:03:23,903
+<i>sino un honor.</i>
+
+19
+00:03:24,860 --> 00:03:28,324
+<i>Un deber acogido por todos
+los que sirven al Norte.</i>
+
+20
+00:03:28,989 --> 00:03:30,951
+<i>Incluso por mis propios parientes.</i>
+
+21
+00:03:36,413 --> 00:03:38,167
+<i>El Norte debe estar listo.</i>
+
+22
+00:03:40,167 --> 00:03:41,552
+<i>El invierno se acerca.</i>
+
+23
+00:03:41,752 --> 00:03:42,838
+¿Se acerca?
+
+24
+00:03:43,337 --> 00:03:46,140
+¿Qué es esto, entonces,
+que cae del cielo y congela mis huesos?
+
+25
+00:03:46,340 --> 00:03:49,303
+Esta sólo es nieve
+del fin del verano, mi Príncipe.
+
+26
+00:03:49,885 --> 00:03:51,979
+En invierno, cubrirá todo lo que ve
+
+27
+00:03:52,179 --> 00:03:54,600
+y todos los recuerdos
+del calor se olvidarán.
+
+28
+00:03:55,807 --> 00:03:57,776
+Me agrada pensar que,
+hace más de un siglo,
+
+29
+00:03:57,976 --> 00:04:00,606
+nuestros ancestros pactaron
+en este mismo lugar.
+
+30
+00:04:02,147 --> 00:04:05,152
+El Conquistador y el Rey en el Norte.
+
+31
+00:04:05,859 --> 00:04:09,448
+Usted, al menos, tuvo la piedad
+de no amenazarme con su dragón.
+
+32
+00:04:18,287 --> 00:04:19,332
+Mi Príncipe.
+
+33
+00:04:19,914 --> 00:04:22,043
+Milord.
+
+34
+00:04:23,251 --> 00:04:24,052
+Milord.
+
+35
+00:04:24,252 --> 00:04:28,674
+De seguro el gran Torrhen Stark
+prefería morir antes que arrodillarse.
+
+36
+00:04:29,589 --> 00:04:32,970
+A menos que creyera que el Conquistador
+traería la unidad a los Siete Reinos.
+
+37
+00:04:34,344 --> 00:04:35,681
+Tiene razón en eso.
+
+38
+00:04:36,137 --> 00:04:37,849
+Esa unidad ahora es amenazada.
+
+39
+00:04:39,307 --> 00:04:41,144
+El Reino se destruirá a si mismo
+
+40
+00:04:42,018 --> 00:04:44,780
+si los hombres no recuerdan
+los juramentos hechos al Rey Viserys
+
+41
+00:04:44,980 --> 00:04:46,525
+y a su legítima heredera.
+
+42
+00:04:47,399 --> 00:04:50,529
+Los Stark no olvidamos
+los juramentos, mi Príncipe.
+
+43
+00:04:51,403 --> 00:04:52,614
+Pero debe saber
+
+44
+00:04:52,946 --> 00:04:55,993
+que mi mirada siempre está dividida
+entre el norte y el sur.
+
+45
+00:04:57,325 --> 00:04:58,293
+En invierno,
+
+46
+00:04:58,493 --> 00:05:02,292
+mi deber a la muralla es aún mayor
+que el que le debo a King's Landing.
+
+47
+00:05:02,707 --> 00:05:04,252
+Necesito a mis hombres aquí.
+
+48
+00:05:04,709 --> 00:05:07,255
+Mientras sus hombres hacen guardia
+contra salvajes y clima,
+
+49
+00:05:07,753 --> 00:05:10,133
+los Hightower planean usurpar el trono.
+
+50
+00:05:11,340 --> 00:05:13,101
+Si mi madre espera defender su reclamo
+
+51
+00:05:13,301 --> 00:05:14,602
+para mantener al Reino unido
+
+52
+00:05:14,802 --> 00:05:16,896
+necesitará un ejército.
+La guerra se aproxima.
+
+53
+00:05:17,096 --> 00:05:18,725
+Para todo el Reino, Milord.
+
+54
+00:05:19,307 --> 00:05:21,728
+No podemos librarla
+sin el apoyo del Norte.
+
+55
+00:05:30,151 --> 00:05:31,911
+Mi padre trajo al Rey Jaehaerys
+
+56
+00:05:32,111 --> 00:05:34,365
+y a la Reina Alysanne a ver la muralla.
+
+57
+00:05:34,697 --> 00:05:37,285
+Su Majestad se paró en este mismo puesto
+
+58
+00:05:37,783 --> 00:05:39,412
+y observó cómo sus dragones,
+
+59
+00:05:39,910 --> 00:05:41,956
+el poder más grande en el mundo,
+
+60
+00:05:42,496 --> 00:05:43,875
+se rehusaron a cruzarla.
+
+61
+00:05:46,334 --> 00:05:49,719
+¿Cree que mis ancestros construyeron
+un muro de hielo de doscientos metros
+
+62
+00:05:49,919 --> 00:05:52,174
+para detener al clima y a los salvajes?
+
+63
+00:05:53,131 --> 00:05:54,259
+¿Qué detiene?
+
+64
+00:05:56,926 --> 00:05:58,013
+A la muerte.
+
+65
+00:06:06,311 --> 00:06:08,190
+Tengo a miles de barbas blancas
+
+66
+00:06:08,521 --> 00:06:10,651
+que han visto demasiados inviernos.
+
+67
+00:06:11,399 --> 00:06:12,486
+Ellos están...
+
+68
+00:06:12,692 --> 00:06:13,779
+bien curtidos.
+
+69
+00:06:14,444 --> 00:06:15,656
+¿Así que son viejos?
+
+70
+00:06:16,988 --> 00:06:19,326
+Puedo alistarlos
+para marchar de inmediato.
+
+71
+00:06:19,949 --> 00:06:22,579
+Si sus barbas blancas pueden pelear,
+la Reina los aceptará.
+
+72
+00:06:23,495 --> 00:06:24,623
+Pelearán duro.
+
+73
+00:06:25,580 --> 00:06:26,667
+Son del Norte.
+
+74
+00:06:27,165 --> 00:06:28,168
+<i>¡Milord!</i>
+
+75
+00:06:29,959 --> 00:06:31,004
+Llegó un cuervo.
+
+76
+00:06:31,544 --> 00:06:33,298
+Noticias urgentes de Dragonstone.
+
+77
+00:07:16,049 --> 00:07:17,469
+Vuelve a tu montura.
+
+78
+00:07:18,260 --> 00:07:19,596
+Vamos a volar.
+
+79
+00:07:22,055 --> 00:07:25,310
+Yo sola patrullé cientos de kilómetros
+de mar abierto.
+
+80
+00:07:25,600 --> 00:07:28,021
+Sin cesar, para mantener el bloqueo.
+
+81
+00:07:29,438 --> 00:07:31,406
+Meleys debe comer y descansar.
+
+82
+00:07:31,606 --> 00:07:32,776
+También yo.
+
+83
+00:07:34,484 --> 00:07:36,662
+- Iremos a King's Landing.
+- ¿Con que fin?
+
+84
+00:07:36,862 --> 00:07:37,948
+Matar a Vhagar.
+
+85
+00:07:38,488 --> 00:07:40,826
+No puedo enfrentar
+a esa perra vieja sólo.
+
+86
+00:07:41,491 --> 00:07:44,955
+Pero con mi dragón junto al tuyo
+podemos matar a Vhagar y a su jinete.
+
+87
+00:07:45,662 --> 00:07:47,958
+Hacer que sea un hijo por un hijo.
+
+88
+00:07:49,332 --> 00:07:51,879
+- ¿Eso ordenó la Reina?
+- La Reina sigue ausente.
+
+89
+00:07:52,294 --> 00:07:55,222
+Yo debería estar en Harrenhal,
+forzando alianzas, pero debo quedarme
+
+90
+00:07:55,422 --> 00:07:56,515
+a librar su guerra.
+
+91
+00:07:56,715 --> 00:07:59,226
+O tal vez sólo a esperar su regreso.
+
+92
+00:07:59,426 --> 00:08:00,894
+Se ha ido por días.
+
+93
+00:08:01,094 --> 00:08:02,646
+Es mucho tiempo, está expuesta.
+
+94
+00:08:02,846 --> 00:08:04,022
+Está de luto.
+
+95
+00:08:04,222 --> 00:08:07,436
+La madre llora
+mientras la Reina elude sus deberes.
+
+96
+00:08:09,436 --> 00:08:12,858
+Fue un cuervo el que me trajo
+la noticia de la muerte de Laena.
+
+97
+00:08:13,732 --> 00:08:16,111
+Por semanas estuve en tormento,
+
+98
+00:08:17,027 --> 00:08:19,364
+negándome a creer
+lo que me habían dicho.
+
+99
+00:08:21,948 --> 00:08:26,497
+Fue hasta que vi los restos mortales
+de mi hija que pude comenzar mi duelo.
+
+100
+00:08:29,539 --> 00:08:32,877
+Un cuervo le dijo a Rhaenyra
+que su hijo está muerto.
+
+101
+00:08:34,251 --> 00:08:37,381
+- Necesita saberlo con certeza.
+- Fue tonta al ir sola.
+
+102
+00:08:38,631 --> 00:08:41,969
+- ¿Y si Aemond la encuentra?
+- Sería una lástima para Aemond.
+
+103
+00:08:44,678 --> 00:08:46,766
+La Reina fue lista al alejarse.
+
+104
+00:08:48,015 --> 00:08:51,896
+No ha actuado bajo el impulso
+de venganza que otros podrían tener.
+
+105
+00:08:53,437 --> 00:08:55,983
+Si hubieras actuado
+cuando tuviste la oportunidad,
+
+106
+00:08:56,690 --> 00:08:58,903
+la línea de Aegon se habría extinguido
+
+107
+00:09:00,653 --> 00:09:02,156
+y Luke seguiría vivo.
+
+108
+00:09:10,162 --> 00:09:11,206
+Vuela conmigo.
+
+109
+00:09:12,413 --> 00:09:13,506
+Es una orden.
+
+110
+00:09:13,706 --> 00:09:15,335
+Lo sería si fueras el Rey.
+
+111
+00:10:07,969 --> 00:10:09,055
+Milord.
+
+112
+00:10:09,262 --> 00:10:10,265
+Milord.
+
+113
+00:10:12,056 --> 00:10:13,059
+Milord.
+
+114
+00:10:17,145 --> 00:10:18,148
+Milord.
+
+115
+00:10:25,987 --> 00:10:26,990
+Milord.
+
+116
+00:10:30,033 --> 00:10:32,829
+Es un milagro que haya regresado
+de los Peldaños de Piedra.
+
+117
+00:10:35,371 --> 00:10:36,708
+Apenas, pero lo logró.
+
+118
+00:10:37,665 --> 00:10:41,087
+Siete barcos más zarparon esta mañana
+para fortificar el bloqueo.
+
+119
+00:10:41,461 --> 00:10:43,596
+El Gaznate es amplio
+y no tenemos los números
+
+120
+00:10:43,796 --> 00:10:45,884
+para cubrir el mar abierto.
+
+121
+00:10:48,676 --> 00:10:50,513
+Mi barco debe volver al mar
+
+122
+00:10:50,887 --> 00:10:51,771
+para dirigir la batalla.
+
+123
+00:10:51,971 --> 00:10:53,189
+Aún le faltan semanas,
+
+124
+00:10:53,389 --> 00:10:54,684
+según calculo.
+
+125
+00:10:56,684 --> 00:10:58,521
+Pero hablaré con mi hermano
+
+126
+00:10:58,978 --> 00:11:01,399
+para ver qué refuerzos
+pueden hacer los carpinteros.
+
+127
+00:11:12,158 --> 00:11:13,126
+El herrero...
+
+128
+00:11:13,326 --> 00:11:14,704
+trajo esto.
+
+129
+00:11:17,038 --> 00:11:18,040
+¿Milord?
+
+130
+00:11:26,922 --> 00:11:29,301
+La mandé hacer para el Príncipe Lucerys.
+
+131
+00:11:32,135 --> 00:11:34,933
+Lamenté la noticia
+de la muerte de su heredero.
+
+132
+00:11:35,640 --> 00:11:37,310
+Fue la más oscura de las traiciones.
+
+133
+00:11:40,979 --> 00:11:42,023
+Perdóneme, Milord,
+
+134
+00:11:42,605 --> 00:11:43,650
+si no le molesta,
+
+135
+00:11:44,190 --> 00:11:45,360
+hay mucho qué hacer.
+
+136
+00:11:45,900 --> 00:11:48,738
+Me dicen que fuiste tú
+quien arrastró mi cuerpo del mar.
+
+137
+00:11:54,575 --> 00:11:55,662
+Sólo es mi deber.
+
+138
+00:12:00,748 --> 00:12:02,168
+Estoy en deuda contigo,
+
+139
+00:12:02,667 --> 00:12:03,712
+Alyn.
+
+140
+00:12:41,039 --> 00:12:42,208
+¡Atención!
+
+141
+00:12:43,458 --> 00:12:44,968
+<i>- Mantengan su puesto.
+- Sí, sir Arryk.</i>
+
+142
+00:12:45,168 --> 00:12:46,302
+<i>¡A sus estaciones!</i>
+
+143
+00:12:46,502 --> 00:12:47,762
+<i>¡Estén preparados!</i>
+
+144
+00:12:47,962 --> 00:12:49,799
+¡Mantengan la concentración, soldados!
+
+145
+00:12:50,089 --> 00:12:51,092
+<i>¡Preparados!</i>
+
+146
+00:12:53,509 --> 00:12:55,812
+<i>¡Dragón!</i>
+
+147
+00:12:56,012 --> 00:12:57,438
+<i>¡Preparen el escorpión!</i>
+
+148
+00:12:57,638 --> 00:12:59,350
+<i>¡Escorpión listo!</i>
+
+149
+00:13:01,809 --> 00:13:03,862
+<i>¡Se aproxima por el sureste!</i>
+
+150
+00:13:04,062 --> 00:13:05,148
+<i>¡Apunten!</i>
+
+151
+00:13:05,897 --> 00:13:07,567
+<i>¡Calculen la elevación!</i>
+
+152
+00:13:09,942 --> 00:13:11,369
+<i>¡Escorpión listo!</i>
+
+153
+00:13:11,569 --> 00:13:12,745
+¡Esperen!
+
+154
+00:13:12,945 --> 00:13:14,074
+<i>¡Esperen!</i>
+
+155
+00:13:16,741 --> 00:13:18,459
+<i>¡En descanso, es Vhagar!</i>
+
+156
+00:13:18,659 --> 00:13:19,794
+<i>¡Armas abajo!</i>
+
+157
+00:13:19,994 --> 00:13:21,539
+<i>¡No disparen!</i>
+
+158
+00:13:38,179 --> 00:13:40,266
+Sólo uno, ve a ese niño ahora.
+
+159
+00:13:48,774 --> 00:13:49,944
+¿Dónde está Jaehaerys?
+
+160
+00:13:52,069 --> 00:13:53,739
+Atiende sus lecciones.
+
+161
+00:13:54,863 --> 00:13:55,950
+¿Y en dónde son?
+
+162
+00:13:56,573 --> 00:13:57,750
+¿Qué necesitas de él?
+
+163
+00:13:57,950 --> 00:13:59,745
+Lo llevaré al Pequeño Consejo.
+
+164
+00:14:00,285 --> 00:14:02,497
+Será Rey algún día,
+debe comenzar su instrucción.
+
+165
+00:14:03,621 --> 00:14:05,416
+¿Y si no quiere ser Rey?
+
+166
+00:14:07,041 --> 00:14:07,967
+¿Dónde está?
+
+167
+00:14:08,167 --> 00:14:09,254
+En la biblioteca.
+
+168
+00:14:09,876 --> 00:14:11,672
+No debes interrumpir su hábito.
+
+169
+00:14:19,136 --> 00:14:20,139
+Tengo miedo.
+
+170
+00:14:23,181 --> 00:14:24,226
+No lo tengas.
+
+171
+00:14:25,100 --> 00:14:27,354
+Serían tontos en venir,
+con Vhagar protegiendo la ciudad.
+
+172
+00:14:27,853 --> 00:14:29,106
+No los dragones.
+
+173
+00:14:30,730 --> 00:14:31,817
+Las ratas.
+
+174
+00:14:40,907 --> 00:14:42,619
+La Reina es un misterio constante,
+
+175
+00:14:44,161 --> 00:14:45,164
+¿no es cierto?
+
+176
+00:15:19,487 --> 00:15:20,991
+Hay una brisa fría.
+
+177
+00:15:25,451 --> 00:15:27,121
+El verano finalmente está acabando.
+
+178
+00:15:29,163 --> 00:15:31,250
+Nos esperan
+en el Pequeño Consejo, Majestad.
+
+179
+00:15:47,723 --> 00:15:48,726
+No podemos.
+
+180
+00:15:49,892 --> 00:15:50,895
+Otra vez.
+
+181
+00:15:54,021 --> 00:15:55,066
+Sí, Majestad.
+
+182
+00:16:00,362 --> 00:16:01,698
+Si no le molesta.
+
+183
+00:16:35,438 --> 00:16:36,900
+- Majestad.
+- Buenos días.
+
+184
+00:16:42,529 --> 00:16:46,118
+Jaehaerys debe aprender el movimiento
+de la corte, él reinará un día.
+
+185
+00:16:46,616 --> 00:16:47,618
+Ven.
+
+186
+00:16:49,827 --> 00:16:51,539
+Buenos días, mis Lores.
+
+187
+00:16:52,288 --> 00:16:53,291
+Madre.
+
+188
+00:16:55,457 --> 00:16:56,544
+¿Hay noticias?
+
+189
+00:16:57,251 --> 00:17:01,173
+Nuestras cartas a Vale y al Norte
+continúan sin respuesta.
+
+190
+00:17:02,589 --> 00:17:03,676
+Hijos de puta.
+
+191
+00:17:04,925 --> 00:17:09,188
+Y Stormlands será nuestra tras el pacto
+de matrimonio del Príncipe Aemond
+
+192
+00:17:09,388 --> 00:17:11,309
+con Lady Floris Baratheon.
+
+193
+00:17:11,682 --> 00:17:13,769
+Anticipo su declaración jurada.
+
+194
+00:17:14,810 --> 00:17:20,484
+Mi hermano está reuniendo a las fuerzas
+del oeste en Golden Tooth, pero...
+
+195
+00:17:21,817 --> 00:17:24,322
+Gracias, mi Príncipe.
+Eso es de mucha ayuda.
+
+196
+00:17:25,154 --> 00:17:29,535
+Mi sobrino, Lord Ormund, reúne
+a sus fuerzas para marchar desde Oldtown.
+
+197
+00:17:30,034 --> 00:17:31,335
+Esperan marchar rápidamente,
+
+198
+00:17:31,535 --> 00:17:34,755
+con poca resistencia,
+hasta llegar a Riverlands.
+
+199
+00:17:34,955 --> 00:17:36,966
+¿Ha habido respuesta
+a mis cartas a Rhaenyra?
+
+200
+00:17:37,166 --> 00:17:39,170
+¿Una disculpa por su hijo muerto?
+
+201
+00:17:39,668 --> 00:17:40,928
+Ninguna, Majestad.
+
+202
+00:17:41,128 --> 00:17:43,139
+Entre eso y su bloqueo del Gaznate,
+
+203
+00:17:43,339 --> 00:17:46,886
+debemos suponer que la Princesa
+ha rechazado los términos ofrecidos.
+
+204
+00:17:47,134 --> 00:17:49,513
+Y que ahora, la guerra es inevitable.
+
+205
+00:17:50,471 --> 00:17:52,731
+Su Majestad podría añadir
+su voz a la oferta.
+
+206
+00:17:52,931 --> 00:17:54,060
+¡Ya basta!
+
+207
+00:17:54,516 --> 00:17:56,694
+Esperando que se puedan negociar
+nuevos términos.
+
+208
+00:17:56,894 --> 00:17:59,613
+Suéltala, por favor.
+¿Alguien puede intervenir?
+
+209
+00:17:59,813 --> 00:18:02,777
+¿El heredero al trono
+te está molestando, Tyland?
+
+210
+00:18:04,318 --> 00:18:05,321
+No.
+
+211
+00:18:05,569 --> 00:18:07,746
+No, no. No en lo más mínimo, Majestad.
+
+212
+00:18:07,946 --> 00:18:09,744
+Creo que quiere cabalgar.
+
+213
+00:18:10,618 --> 00:18:11,544
+- Majestad.
+- ¿Cabalgar?
+
+214
+00:18:11,744 --> 00:18:13,122
+Cabalgar un poni.
+
+215
+00:18:13,788 --> 00:18:14,797
+¿No sería divertido Jaehaerys?
+
+216
+00:18:14,997 --> 00:18:17,335
+¿El Maestro de Moneda
+debería ser tu corcel real?
+
+217
+00:18:26,592 --> 00:18:27,595
+Majestad.
+
+218
+00:18:29,011 --> 00:18:31,140
+Hay asuntos importantes que discutir.
+
+219
+00:18:32,556 --> 00:18:34,727
+A pesar de las interrupciones
+de sir Tyland.
+
+220
+00:18:35,810 --> 00:18:36,896
+Muy bien.
+
+221
+00:18:38,062 --> 00:18:40,149
+No es tiempo de diversiones, Tyland.
+
+222
+00:18:41,899 --> 00:18:42,902
+Majestad.
+
+223
+00:18:44,193 --> 00:18:46,030
+Puedes irte, Jaehaerys. Buen niño.
+
+224
+00:18:49,240 --> 00:18:50,368
+¿En que estábamos?
+
+225
+00:18:52,284 --> 00:18:56,207
+El bloqueo de Rhaenyra ha puesto
+a King's Landing bajo tensión.
+
+226
+00:18:56,539 --> 00:18:58,633
+Y esa presión
+se multiplicará vertiginosamente.
+
+227
+00:18:58,833 --> 00:19:00,760
+Debimos matarla
+cuando tuvimos oportunidad.
+
+228
+00:19:00,960 --> 00:19:04,173
+Lamentable, la oportunidad
+de una sorpresa se ha perdido.
+
+229
+00:19:04,672 --> 00:19:08,136
+Y con ella, la forma de terminar
+este conflicto rápidamente.
+
+230
+00:19:09,717 --> 00:19:11,811
+Debemos jugar
+con el tablero que tenemos.
+
+231
+00:19:12,011 --> 00:19:14,105
+Para romper el bloqueo
+de la Serpiente Marina
+
+232
+00:19:14,305 --> 00:19:17,275
+debemos reforzar los navíos
+de los Lannister y Hightower.
+
+233
+00:19:17,475 --> 00:19:19,688
+Necesitamos un nuevo Maestro de Barcos.
+
+234
+00:19:20,520 --> 00:19:22,948
+Podemos ofrecerle el título
+al joven Lord Dalton Greyjoy.
+
+235
+00:19:23,148 --> 00:19:25,193
+Aemond, ¿cuál es tu asunto aquí?
+
+236
+00:19:25,442 --> 00:19:26,326
+El Rey me llamó.
+
+237
+00:19:26,526 --> 00:19:28,411
+No tienes un lugar en este consejo.
+
+238
+00:19:28,611 --> 00:19:31,538
+Aemond es mi sangre más cercana
+y nuestro mejor soldado.
+
+239
+00:19:31,738 --> 00:19:32,825
+Yo lo recibo aquí.
+
+240
+00:19:33,991 --> 00:19:36,579
+El camino a King's Landing
+es a través de Riverlands.
+
+241
+00:19:36,952 --> 00:19:39,165
+Debemos establecer un punto de apoyo ahí,
+
+242
+00:19:39,538 --> 00:19:40,381
+en Harrenhal.
+
+243
+00:19:40,581 --> 00:19:42,424
+Sus señores de los ríos
+me declararán su lealtad
+
+244
+00:19:42,624 --> 00:19:45,254
+o conocerán a Vhagar
+y a Fuegosol juntos.
+
+245
+00:19:45,669 --> 00:19:47,763
+Y podemos quemar el bloqueo
+ya estando ahí.
+
+246
+00:19:47,963 --> 00:19:49,765
+- Rhaenyra tiene dragones.
+- Los míos son grandes.
+
+247
+00:19:49,965 --> 00:19:53,102
+Si los llevamos a la guerra,
+no habrá retorno. Debemos tener cautela.
+
+248
+00:19:53,302 --> 00:19:57,725
+No. El viejo y gordo Lord Tully alzará
+mi estandarte o verá el suyo arder.
+
+249
+00:19:58,348 --> 00:19:59,768
+Debemos volar a Riverrun.
+
+250
+00:20:00,684 --> 00:20:03,570
+Usted es el Rey, Majestad.
+No debe ponerse en riesgo.
+
+251
+00:20:03,770 --> 00:20:06,323
+Y necesitamos a Vhagar aquí
+para evitar que Rhaenyra ataque
+
+252
+00:20:06,523 --> 00:20:09,069
+como venganza por la muerte de su hijo.
+
+253
+00:20:10,319 --> 00:20:14,373
+Se cometieron errores
+tras la muerte del Rey Viserys.
+
+254
+00:20:14,573 --> 00:20:16,660
+No debemos agravarlos.
+
+255
+00:20:18,577 --> 00:20:20,880
+Ya demostró su poderío, Majestad.
+
+256
+00:20:21,080 --> 00:20:24,503
+Debemos favorecer la paciencia
+y la templanza.
+
+257
+00:20:25,710 --> 00:20:27,012
+Envío cuervos cada hora.
+
+258
+00:20:27,212 --> 00:20:31,051
+Muchas casas más se declararán
+ante usted, a su tiempo.
+
+259
+00:20:31,799 --> 00:20:34,638
+La historia y el precedente
+estarán de su lado.
+
+260
+00:20:42,644 --> 00:20:43,570
+Buenos días, Majestad.
+
+261
+00:20:43,770 --> 00:20:45,065
+Buenos días, Lord Larys.
+
+262
+00:20:46,064 --> 00:20:48,950
+Vine a hablar, antes de que se reuniera
+el Pequeño Consejo.
+
+263
+00:20:49,150 --> 00:20:52,656
+Pero su doncella dijo
+que estaba indispuesta.
+
+264
+00:20:56,990 --> 00:20:58,410
+¿Qué desea discutir?
+
+265
+00:21:01,119 --> 00:21:03,874
+Terminé de interrogar
+al personal del castillo.
+
+266
+00:21:05,666 --> 00:21:07,384
+Me dieron detalles muy interesantes,
+
+267
+00:21:07,584 --> 00:21:11,632
+pero estoy satisfecho de haber expuesto
+a los traidores de nuestra confianza.
+
+268
+00:21:14,091 --> 00:21:15,094
+¿Y qué de ellos?
+
+269
+00:21:16,718 --> 00:21:18,389
+Ya no están respirando.
+
+270
+00:21:21,056 --> 00:21:23,811
+Yo mismo elegí a sus nuevos empleados.
+
+271
+00:21:43,453 --> 00:21:44,957
+Dame eso.
+
+272
+00:21:45,497 --> 00:21:46,584
+¿Majestad?
+
+273
+00:21:47,708 --> 00:21:48,752
+Sólo déjenme.
+
+274
+00:21:51,211 --> 00:21:52,548
+¡Sólo déjenme!
+
+275
+00:22:36,173 --> 00:22:37,433
+- Es el ala de un dragón.
+- Veamos.
+
+276
+00:22:37,633 --> 00:22:39,094
+Se enredó en mi red.
+
+277
+00:22:40,052 --> 00:22:41,055
+¡Es un ala!
+
+278
+00:22:42,721 --> 00:22:43,932
+¡Dragón!
+
+279
+00:24:11,392 --> 00:24:13,771
+¡Salve el Rey Aegon!
+
+280
+00:24:14,228 --> 00:24:16,405
+Aegon el Magnánimo,
+
+281
+00:24:16,605 --> 00:24:18,151
+segundo con el nombre,
+
+282
+00:24:18,482 --> 00:24:21,404
+Rey de los Andals y los Rhoynar
+y los Primeros Hombres,
+
+283
+00:24:21,777 --> 00:24:24,747
+señor de los Siete Reinos
+y protector del Reino.
+
+284
+00:24:24,947 --> 00:24:26,534
+¡Que viva el Rey Aegon!
+
+285
+00:24:27,742 --> 00:24:28,870
+¿El Magnánimo?
+
+286
+00:24:33,080 --> 00:24:34,083
+Majestad.
+
+287
+00:24:34,874 --> 00:24:37,837
+Oigamos la primera petición,
+mi buen Lord mano.
+
+288
+00:24:42,423 --> 00:24:44,135
+Buenos días, Majestad.
+
+289
+00:24:44,718 --> 00:24:47,181
+Calma, no hay por qué estar nervioso.
+
+290
+00:24:47,721 --> 00:24:48,974
+¿Cuál es tu nombre?
+
+291
+00:24:50,056 --> 00:24:50,983
+Jerard, Majestad.
+
+292
+00:24:51,183 --> 00:24:52,478
+Buenos días, Jerard.
+
+293
+00:24:53,226 --> 00:24:55,564
+¿Cómo te puede ayudar tu Rey?
+
+294
+00:24:55,937 --> 00:24:57,399
+Es mi rebaño.
+
+295
+00:24:58,648 --> 00:25:01,486
+Una porción de él la tomó...
+
+296
+00:25:04,153 --> 00:25:05,364
+la corona,
+
+297
+00:25:07,114 --> 00:25:08,451
+en el pico del invierno.
+
+298
+00:25:09,450 --> 00:25:12,205
+- De haber tenido tiempo de planear...
+- Hay que devolverlas.
+
+299
+00:25:15,414 --> 00:25:16,417
+¿Majestad?
+
+300
+00:25:16,832 --> 00:25:18,634
+Necesitas a tus cabras para el invierno.
+
+301
+00:25:18,834 --> 00:25:20,797
+- Son ovejas, Majestad.
+- Ovejas, aún mejor.
+
+302
+00:25:21,337 --> 00:25:23,633
+Yo haré que tu rebaño esté completo.
+
+303
+00:25:25,591 --> 00:25:28,352
+Ya hicimos la promesa
+a todas las tierras de la corona
+
+304
+00:25:28,552 --> 00:25:32,565
+que un diezmo del ganado sería necesario
+para mantener a los dragones
+
+305
+00:25:32,765 --> 00:25:36,729
+por el incremento de su actividad
+y ojalá no, su futuro combate.
+
+306
+00:25:37,937 --> 00:25:39,440
+Claro.
+
+307
+00:25:40,064 --> 00:25:42,825
+Tal vez podamos devolver
+sólo sus ovejas, ya vino hasta acá.
+
+308
+00:25:43,025 --> 00:25:46,954
+Si devolvemos las ovejas a un pastor,
+Majestad, pronto los tendrá a todos
+
+309
+00:25:47,154 --> 00:25:49,575
+al pie de su trono esperando lo mismo.
+
+310
+00:25:50,574 --> 00:25:51,619
+No lo sabrán.
+
+311
+00:25:52,284 --> 00:25:55,498
+Cuando el Rey habla, Majestad,
+
+312
+00:25:56,121 --> 00:25:57,667
+todos escuchan.
+
+313
+00:26:06,882 --> 00:26:08,344
+Tras considerarlo,
+
+314
+00:26:08,926 --> 00:26:11,931
+he decidido que no puedo
+devolver tus ovejas.
+
+315
+00:26:12,263 --> 00:26:15,274
+Si se desata la guerra,
+mis dragones requieren la comida.
+
+316
+00:26:15,474 --> 00:26:16,644
+Traigan al siguiente.
+
+317
+00:26:18,727 --> 00:26:22,906
+Las sales siempre se vuelven escasas
+en el invierno, Majestad.
+
+318
+00:26:23,106 --> 00:26:26,236
+Contamos con los barcos de Essos
+para nuestro suministro.
+
+319
+00:26:26,651 --> 00:26:29,663
+Pero ahora, con el bloqueo impuesto
+y la amenaza de la guerra...
+
+320
+00:26:29,863 --> 00:26:31,581
+Ese traicionero bloqueo no durará mucho.
+
+321
+00:26:31,781 --> 00:26:34,035
+Planeo enviar a Vhagar
+a convertirlo en cenizas.
+
+322
+00:26:34,367 --> 00:26:35,495
+Traigan al siguiente.
+
+323
+00:26:39,664 --> 00:26:40,750
+Hugh, Majestad.
+
+324
+00:26:44,752 --> 00:26:48,425
+Los herreros nos enorgullecemos
+de apoyarlo en contra de Rhaenyra.
+
+325
+00:26:52,135 --> 00:26:52,936
+¿Pero...
+
+326
+00:26:53,136 --> 00:26:54,222
+Pero...
+
+327
+00:26:56,223 --> 00:26:58,185
+el costo del hierro ha aumentado.
+
+328
+00:26:59,143 --> 00:27:02,148
+Se requieren semanas
+para construir un sólo escorpión.
+
+329
+00:27:03,314 --> 00:27:05,192
+Para ser breve, estamos sufriendo.
+
+330
+00:27:06,400 --> 00:27:10,579
+Si contáramos con la moneda de la corona
+antes de empezar el trabajo,
+
+331
+00:27:10,779 --> 00:27:12,199
+sería un gran alivio.
+
+332
+00:27:12,907 --> 00:27:15,661
+No sólo para mí, para todos los herreros
+que sirven a su causa.
+
+333
+00:27:20,789 --> 00:27:23,169
+Se les pagará y una buena suma.
+
+334
+00:27:24,251 --> 00:27:26,303
+Mi ejército no puede ganar
+la guerra sin sus armas,
+
+335
+00:27:26,503 --> 00:27:28,341
+deben continuar con su fabricación.
+
+336
+00:27:29,006 --> 00:27:32,303
+Nuestra victoria depende
+del esfuerzo de los plebeyos.
+
+337
+00:27:35,179 --> 00:27:37,266
+Tiene mi más sincera gratitud, Majestad.
+
+338
+00:27:38,349 --> 00:27:40,186
+Escucharé la siguiente petición.
+
+339
+00:27:47,941 --> 00:27:51,119
+Majestad, me llena el corazón
+verlo en el Trono de Hierro.
+
+340
+00:27:51,319 --> 00:27:55,540
+Yo era un niño cuando Jaehaerys dejó
+el trono, pero usted me recuerda a él.
+
+341
+00:27:55,740 --> 00:27:59,169
+Y tiene un amable tacto con los plebeyos
+como el que tenía su padre.
+
+342
+00:27:59,369 --> 00:28:00,705
+Gracias, Milord.
+
+343
+00:28:01,329 --> 00:28:02,958
+¿Tendrá un momento para hablar?
+
+344
+00:28:09,754 --> 00:28:10,805
+Es el deseo de la mano,
+
+345
+00:28:11,005 --> 00:28:12,759
+tener control de las cosas.
+
+346
+00:28:14,884 --> 00:28:17,138
+Controló a su padre de la misma forma.
+
+347
+00:28:19,055 --> 00:28:21,399
+Viserys tenía cierta reputación
+de ser maleable.
+
+348
+00:28:21,599 --> 00:28:22,769
+Estoy consciente.
+
+349
+00:28:24,686 --> 00:28:25,689
+Yo pienso...
+
+350
+00:28:26,020 --> 00:28:29,115
+ahora que estamos
+al borde de una guerra,
+
+351
+00:28:29,315 --> 00:28:32,070
+que usted desearía que lo vieran
+de una forma diferente.
+
+352
+00:28:35,530 --> 00:28:36,533
+¿Cómo?
+
+353
+00:28:37,031 --> 00:28:38,410
+Otto Hightower
+
+354
+00:28:39,951 --> 00:28:42,414
+fue la mano de su padre, Majestad.
+
+355
+00:28:59,512 --> 00:29:00,515
+Hija.
+
+356
+00:29:01,973 --> 00:29:03,935
+Solicité una audiencia hace horas.
+
+357
+00:29:06,060 --> 00:29:09,607
+Había muchas peticiones.
+
+358
+00:29:12,400 --> 00:29:13,987
+Me he estado preguntando...
+
+359
+00:29:15,403 --> 00:29:16,823
+¿Buscamos el mismo fin?
+
+360
+00:29:19,282 --> 00:29:23,204
+Debo admitir que hay días
+en que ni yo mismo estoy seguro.
+
+361
+00:29:24,495 --> 00:29:25,582
+Te diré el mío.
+
+362
+00:29:28,124 --> 00:29:29,210
+Es la victoria.
+
+363
+00:29:29,625 --> 00:29:31,713
+¿Y cómo definirías la victoria?
+
+364
+00:29:32,462 --> 00:29:33,757
+Rhaenyra arrodillándose
+
+365
+00:29:34,464 --> 00:29:37,218
+y Aegon sentado
+en el Trono de Hierro, en paz.
+
+366
+00:29:37,800 --> 00:29:39,179
+Como lo deseó Viserys.
+
+367
+00:29:39,427 --> 00:29:42,265
+Si así lo describes, estamos alineados.
+
+368
+00:29:42,889 --> 00:29:44,899
+- Pues, sé mi aliado.
+- Sí lo soy.
+
+369
+00:29:45,099 --> 00:29:48,480
+Un aliado no me sabotearía repetidamente
+en esa mesa de hombres.
+
+370
+00:29:49,062 --> 00:29:50,822
+Me siento ahí y siento tu enojo.
+
+371
+00:29:51,022 --> 00:29:52,108
+Frustración.
+
+372
+00:29:52,732 --> 00:29:55,910
+Los días críticos tras la muerte
+de Viserys no van según el plan.
+
+373
+00:29:56,110 --> 00:29:57,197
+No es mi culpa.
+
+374
+00:29:59,572 --> 00:30:01,868
+Mis hijos te ven como un gran ejemplo.
+
+375
+00:30:02,617 --> 00:30:03,995
+La mano de tres Reyes.
+
+376
+00:30:05,536 --> 00:30:08,291
+Aegon siempre busca
+probarse a sí mismo, y Aemond...
+
+377
+00:30:10,333 --> 00:30:11,544
+Aemond está enojado.
+
+378
+00:30:13,544 --> 00:30:16,097
+El hijo de Rhaenyra le quitó su ojo
+y nunca fue castigado.
+
+379
+00:30:16,297 --> 00:30:19,969
+- Lo que hizo, aunque fue violento...
+- El capricho de la juventud.
+
+380
+00:30:24,847 --> 00:30:25,934
+Es lo que espero.
+
+381
+00:30:26,724 --> 00:30:28,561
+Aemond... erró.
+
+382
+00:30:29,811 --> 00:30:31,403
+Pero es ferozmente leal.
+
+383
+00:30:31,603 --> 00:30:33,238
+Desea complacer.
+
+384
+00:30:33,438 --> 00:30:34,781
+Y Aegon aún me escucha.
+
+385
+00:30:34,981 --> 00:30:36,527
+En privado, al menos.
+
+386
+00:30:38,193 --> 00:30:41,365
+Pero si debilitas mi voz,
+ambos se volverán sordos a ella.
+
+387
+00:30:49,913 --> 00:30:51,667
+No lo había visto de esa forma.
+
+388
+00:30:52,415 --> 00:30:54,092
+Sólo debemos vigilar a Aegon
+
+389
+00:30:54,292 --> 00:30:56,421
+hasta que pase la novedad de gobernar.
+
+390
+00:30:57,546 --> 00:31:00,467
+Cuando se canse de ella,
+tú y yo nos encaminaremos a la victoria.
+
+391
+00:31:00,715 --> 00:31:02,886
+Una buena estrategia, hija.
+
+392
+00:31:04,052 --> 00:31:09,101
+Pero debes aceptar que el camino
+a la victoria, ahora es uno violento.
+
+393
+00:31:10,892 --> 00:31:11,937
+Lo sé.
+
+394
+00:31:16,022 --> 00:31:17,651
+Pero no debe ser sin sentido.
+
+395
+00:31:20,570 --> 00:31:21,573
+No.
+
+396
+00:31:36,752 --> 00:31:38,262
+<i>¡Preparen el barco!</i>
+
+397
+00:31:38,462 --> 00:31:41,467
+<i>- ¡Preparen el abordaje!
+- ¡Ríndanse!</i>
+
+398
+00:31:41,757 --> 00:31:43,101
+<i>¡Láncen las amarras!</i>
+
+399
+00:31:43,301 --> 00:31:46,181
+<i>¡Por orden de Lord Corlys Velaryon!</i>
+
+400
+00:31:46,554 --> 00:31:48,433
+<i>¡Busquen polizones!</i>
+
+401
+00:32:04,404 --> 00:32:06,700
+¡Oye, tú, de rodillas!
+
+402
+00:32:16,750 --> 00:32:17,794
+Tú.
+
+403
+00:32:20,212 --> 00:32:22,799
+La última vez que nos vimos,
+ustedes eran dos.
+
+404
+00:32:25,675 --> 00:32:26,935
+El Gusano Blanco.
+
+405
+00:32:27,135 --> 00:32:29,473
+¿Creíste que me marchitaría
+en tu ausencia?
+
+406
+00:32:29,846 --> 00:32:31,523
+No creí que te volverías una traidora.
+
+407
+00:32:31,723 --> 00:32:33,692
+Hablas de juegos de alcurnia.
+
+408
+00:32:33,892 --> 00:32:34,985
+Yo soy de cuna humilde.
+
+409
+00:32:35,185 --> 00:32:37,446
+¿Hace cuánto le vendes
+secretos a Otto Hightower?
+
+410
+00:32:37,646 --> 00:32:39,566
+Desde que tiene el oro para pagarlos.
+
+411
+00:32:42,192 --> 00:32:45,656
+¿Quién te hizo salir de King's Landing
+en tal mal estado?
+
+412
+00:32:47,864 --> 00:32:49,583
+Tú pusiste a Aegon en el trono.
+
+413
+00:32:49,783 --> 00:32:51,793
+Esa fue la conspiración
+de los Hightower.
+
+414
+00:32:51,993 --> 00:32:54,171
+Yo sólo gané por saber
+los movimientos de Aegon.
+
+415
+00:32:54,371 --> 00:32:55,832
+Pero tú lo entregaste.
+
+416
+00:32:56,164 --> 00:32:59,801
+El habría regresado en algún momento,
+por oro y descanso, como siempre hace.
+
+417
+00:33:00,001 --> 00:33:01,171
+Yo sólo...
+
+418
+00:33:01,753 --> 00:33:03,138
+aceleré el proceso.
+
+419
+00:33:03,338 --> 00:33:06,308
+Que acabó con el robo del trono
+de la Reina y la muerte de su hijo.
+
+420
+00:33:06,508 --> 00:33:09,846
+Sólo me culpas porque tus enemigos
+no están a tu alcance.
+
+421
+00:33:11,846 --> 00:33:14,690
+Mi arreglo con la mano
+fue una mera transacción.
+
+422
+00:33:14,890 --> 00:33:16,894
+No le tengo ninguna lealtad.
+
+423
+00:33:17,518 --> 00:33:18,938
+Y menos ahora.
+
+424
+00:33:19,937 --> 00:33:22,740
+Otto Hightower era para mí
+lo que yo soy para los de tu clase.
+
+425
+00:33:22,940 --> 00:33:24,492
+Forraje que se hace a un lado.
+
+426
+00:33:24,692 --> 00:33:26,118
+¿Qué más sabes de él, sus planes?
+
+427
+00:33:26,318 --> 00:33:27,697
+Menos de lo que crees.
+
+428
+00:33:31,449 --> 00:33:33,954
+No poseo nada de valor para ti, Daemon.
+
+429
+00:33:57,517 --> 00:33:58,777
+Llévenla a las celdas.
+
+430
+00:33:58,977 --> 00:34:01,398
+Debe ser tratada
+como traidora a la corona.
+
+431
+00:34:04,441 --> 00:34:05,777
+Perdóneme, mi Príncipe,
+
+432
+00:34:06,359 --> 00:34:07,827
+pero la dama dice la verdad.
+
+433
+00:34:08,027 --> 00:34:09,245
+No era Agente de los Hightower.
+
+434
+00:34:09,445 --> 00:34:10,781
+¿Por qué te importa?
+
+435
+00:34:11,780 --> 00:34:12,581
+Es cuestión de honor.
+
+436
+00:34:12,781 --> 00:34:16,746
+¿El honor evitó que hicieras algo
+cuando los Hightower usurpaban el trono?
+
+437
+00:34:17,411 --> 00:34:19,081
+¿Tú y tu traicionero gemelo?
+
+438
+00:34:20,039 --> 00:34:21,208
+No, mi Príncipe.
+
+439
+00:34:23,334 --> 00:34:24,378
+Eso me avergüenza.
+
+440
+00:34:25,377 --> 00:34:27,263
+Por eso abandoné la Guardia Real
+
+441
+00:34:27,463 --> 00:34:29,306
+y a mi hermano, y vine aquí.
+
+442
+00:34:29,506 --> 00:34:30,718
+No me importa.
+
+443
+00:34:32,051 --> 00:34:34,770
+Aegon estaba a tu alcance.
+Debiste matarlo tú mismo.
+
+444
+00:34:34,970 --> 00:34:37,641
+Arryk y yo fuimos nombrados
+a la Guardia Real a los ocho y diez.
+
+445
+00:34:38,557 --> 00:34:40,019
+E hicimos el mismo juramento.
+
+446
+00:34:40,809 --> 00:34:42,646
+Defender a toda la familia real.
+
+447
+00:34:44,313 --> 00:34:46,776
+¿Qué debemos hacer cuando se vuelven
+el uno contra el otro?
+
+448
+00:35:16,178 --> 00:35:17,932
+La Reina Rhaenyra Targaryen,
+
+449
+00:35:18,222 --> 00:35:19,683
+primera con el nombre,
+
+450
+00:35:20,599 --> 00:35:21,567
+Reina de los Andals
+
+451
+00:35:21,767 --> 00:35:24,612
+y los Rhoynar y los Primeros Hombres,
+
+452
+00:35:24,812 --> 00:35:26,155
+señora de los Siete Reinos
+
+453
+00:35:26,355 --> 00:35:28,067
+y protectora del Reino.
+
+454
+00:35:35,072 --> 00:35:36,784
+¿Encontraste lo que necesitabas?
+
+455
+00:35:45,875 --> 00:35:48,296
+Su consejo está presente
+y listo, Majestad.
+
+456
+00:35:52,632 --> 00:35:54,893
+Volaré a Harrenhal
+en cuanto lo ordenes.
+
+457
+00:35:55,093 --> 00:35:57,305
+Establecer un punto de apoyo
+en Riverlands.
+
+458
+00:35:58,054 --> 00:36:00,981
+Majestad, el bloqueo de mi esposo
+en el Gaznate está en efecto.
+
+459
+00:36:01,181 --> 00:36:04,728
+Todo el comercio y viaje por mar
+hacia King's Landing pronto cesará.
+
+460
+00:36:10,858 --> 00:36:11,825
+Quiero a...
+
+461
+00:36:12,025 --> 00:36:13,320
+Aemond Targaryen.
+
+462
+00:37:02,659 --> 00:37:04,914
+En tus años como mercader de rumores
+
+463
+00:37:05,370 --> 00:37:07,589
+de seguro acumulaste
+espías en la Fortaleza Roja.
+
+464
+00:37:07,789 --> 00:37:09,591
+Sirvientes que saben
+las cosas que pasan.
+
+465
+00:37:09,791 --> 00:37:11,844
+Conspira con alguien más, Daemon.
+
+466
+00:37:12,044 --> 00:37:14,798
+Una vez estuve bajo tu control,
+pero ya no más.
+
+467
+00:37:16,507 --> 00:37:17,927
+Una transacción, entonces.
+
+468
+00:37:19,134 --> 00:37:21,514
+Tu conocimiento a cambio de tu libertad.
+
+469
+00:37:49,664 --> 00:37:50,667
+Majestad.
+
+470
+00:37:54,711 --> 00:37:55,846
+Lady Jeyne Arryn...
+
+471
+00:37:56,046 --> 00:37:57,550
+ha prometido su apoyo,
+
+472
+00:37:58,298 --> 00:38:00,553
+a cambio de un dragón que vigile Vale.
+
+473
+00:38:03,887 --> 00:38:04,932
+Y...
+
+474
+00:38:05,138 --> 00:38:06,475
+Lord Cregan Stark...
+
+475
+00:38:09,977 --> 00:38:10,778
+ha prometido...
+
+476
+00:38:10,978 --> 00:38:12,147
+dos mil hombres.
+
+477
+00:38:58,107 --> 00:38:59,319
+Alyrie Florent.
+
+478
+00:39:29,804 --> 00:39:31,016
+Viserys Targaryen.
+
+479
+00:40:29,825 --> 00:40:31,370
+Lucerys Velaryon.
+
+480
+00:41:26,173 --> 00:41:27,176
+Un tributo.
+
+481
+00:41:36,223 --> 00:41:37,226
+Comandante.
+
+482
+00:41:37,933 --> 00:41:39,312
+Nunca me voy por mucho.
+
+483
+00:41:41,687 --> 00:41:44,317
+Me dicen que te desagradan los Hightower.
+
+484
+00:41:46,233 --> 00:41:47,779
+A la mierda los Hightower.
+
+485
+00:41:53,699 --> 00:41:54,911
+Sigue avanzando.
+
+486
+00:41:59,038 --> 00:42:00,166
+No des problemas.
+
+487
+00:42:09,089 --> 00:42:12,053
+El Gusano Blanco dice
+que eres uno de los cazarratas de Aegon.
+
+488
+00:42:12,551 --> 00:42:13,686
+Debes estar ocupado.
+
+489
+00:42:13,886 --> 00:42:16,349
+Ahora ese castillo está infestado.
+
+490
+00:42:17,681 --> 00:42:19,478
+Oí que el Gusano Blanco está muerto.
+
+491
+00:42:19,893 --> 00:42:21,695
+Su fantasma me dijo
+que te gusta apostar.
+
+492
+00:42:21,895 --> 00:42:23,649
+- ¿Las fosas de luchas?
+- Perros.
+
+493
+00:42:25,148 --> 00:42:26,318
+Y huesos.
+
+494
+00:42:27,275 --> 00:42:28,695
+¿Qué tanto debes?
+
+495
+00:42:36,451 --> 00:42:39,957
+Y sé que tienes un conocimiento especial
+de la Fortaleza Roja.
+
+496
+00:42:40,330 --> 00:42:41,667
+Los túneles de Maegor.
+
+497
+00:42:42,415 --> 00:42:44,002
+Son un enorme nido de ratas.
+
+498
+00:42:45,627 --> 00:42:48,340
+Los conozco mejor
+que la forma de mi propia verga.
+
+499
+00:42:51,298 --> 00:42:52,301
+Él es mi amigo.
+
+500
+00:42:53,759 --> 00:42:55,555
+Esta noche, va a ser tu amigo.
+
+501
+00:42:56,971 --> 00:42:59,767
+Buscarás y matarás
+al Príncipe Aemond Targaryen.
+
+502
+00:43:01,308 --> 00:43:03,020
+Tiene cabello plateado y un ojo.
+
+503
+00:43:03,853 --> 00:43:05,481
+Debe ser fácil de encontrar.
+
+504
+00:43:07,898 --> 00:43:11,028
+Pero entiendo que es bueno peleando,
+debes ser precavido.
+
+505
+00:43:13,153 --> 00:43:14,198
+La mitad.
+
+506
+00:43:14,738 --> 00:43:16,242
+Tendrás el resto cuando esté hecho.
+
+507
+00:43:28,627 --> 00:43:29,630
+Muy bien.
+
+508
+00:43:32,131 --> 00:43:33,634
+¿Y si no lo encontramos?
+
+509
+00:43:38,137 --> 00:43:41,607
+Desperdiciamos valiosos días
+en esta guerra de plumas y cuervos.
+
+510
+00:43:41,807 --> 00:43:43,352
+Las palabras son viento.
+
+511
+00:43:44,852 --> 00:43:46,230
+Deberías dirigir la carga
+
+512
+00:43:47,146 --> 00:43:48,983
+y yo debería volar con Vhagar.
+
+513
+00:43:49,690 --> 00:43:52,492
+Nadie se atrevería a alzar el estandarte
+de Rhaenyra en contra nuestra.
+
+514
+00:43:53,235 --> 00:43:55,955
+Pondríamos a todas las tierras
+de rodillas, en semanas.
+
+515
+00:43:56,155 --> 00:43:58,117
+Tal vez podríamos pedirle al Rey,
+
+516
+00:43:59,158 --> 00:44:00,244
+en privado,
+
+517
+00:44:00,492 --> 00:44:01,621
+que nos envíe allá.
+
+518
+00:44:04,121 --> 00:44:05,665
+Rosby y Stokeworth,
+
+519
+00:44:05,872 --> 00:44:08,627
+castillos pequeños,
+bajo la sombra de King's Landing.
+
+520
+00:44:09,292 --> 00:44:10,879
+No nos querrán como enemigos.
+
+521
+00:44:11,252 --> 00:44:13,089
+Añadimos sus tropas a las nuestras.
+
+522
+00:44:14,338 --> 00:44:16,592
+El ejército crecerá al avanzar.
+
+523
+00:44:19,301 --> 00:44:20,971
+Es un plan astuto.
+
+524
+00:44:21,929 --> 00:44:22,932
+Pero inútil.
+
+525
+00:44:23,639 --> 00:44:26,310
+Mi hermano es rehén
+de mi abuelo y mi madre.
+
+526
+00:44:26,642 --> 00:44:29,313
+Le dicen que aún se puede evitar
+una guerra de dragones.
+
+527
+00:44:30,229 --> 00:44:31,483
+Es inevitable.
+
+528
+00:44:31,689 --> 00:44:33,026
+Deben darse cuenta.
+
+529
+00:44:33,399 --> 00:44:35,987
+Otto teme alterar el orden de las cosas.
+
+530
+00:44:36,819 --> 00:44:38,406
+Y Alicent sólo está...
+
+531
+00:44:40,156 --> 00:44:41,201
+enojada.
+
+532
+00:44:42,450 --> 00:44:45,330
+- ¿Enojada?
+- Me culpa por comenzar esta guerra.
+
+533
+00:44:45,870 --> 00:44:49,167
+Después de conspirar con el consejo
+de mi padre para usurpar el trono.
+
+534
+00:44:51,793 --> 00:44:52,921
+Su Majestad...
+
+535
+00:44:53,252 --> 00:44:54,798
+habla con dos lenguas.
+
+536
+00:44:58,841 --> 00:45:00,220
+Tiene un corazón gentil.
+
+537
+00:45:01,678 --> 00:45:04,015
+Y Rhaenyra es una araña astuta.
+
+538
+00:45:04,639 --> 00:45:06,893
+Hace tiempo atrajo a Alicent a su red.
+
+539
+00:45:08,768 --> 00:45:09,938
+Intoxicándola.
+
+540
+00:45:12,230 --> 00:45:13,817
+No es culpa de tu madre.
+
+541
+00:45:15,566 --> 00:45:17,612
+Ella siente amor por nuestro enemigo.
+
+542
+00:45:19,737 --> 00:45:21,282
+Eso la hace una tonta.
+
+543
+00:45:38,256 --> 00:45:39,259
+Lord mano.
+
+544
+00:45:49,350 --> 00:45:53,314
+Regrese a su puesto, Lord comandante.
+Debo hablar con el Príncipe.
+
+545
+00:46:07,493 --> 00:46:10,630
+Me preocuparía, nieto,
+que se consideren planes
+
+546
+00:46:10,830 --> 00:46:14,127
+más allá de los oídos
+de tu Rey y su mano.
+
+547
+00:46:15,084 --> 00:46:18,429
+Tienes deseo de actuar, y entiendo.
+Yo mismo fui joven, alguna vez.
+
+548
+00:46:18,629 --> 00:46:21,009
+Sólo deseo servir a mi Rey y a mi casa.
+
+549
+00:46:27,889 --> 00:46:29,315
+Tú y Vhagar
+
+550
+00:46:29,515 --> 00:46:31,936
+son el poder más grande en el Reino.
+
+551
+00:46:34,729 --> 00:46:37,442
+Si no era obvio antes,
+ahora ha quedado claro.
+
+552
+00:46:43,197 --> 00:46:45,618
+Pero hay muchas piezas en juego aquí,
+
+553
+00:46:47,409 --> 00:46:49,455
+algunas que aún no puedes ver.
+
+554
+00:46:51,205 --> 00:46:54,466
+Te lo prometo, Aemond,
+tendrás toda la venganza que buscas,
+
+555
+00:46:54,666 --> 00:46:58,213
+pero debes controlar tus impulsos.
+
+556
+00:47:01,005 --> 00:47:03,218
+Ambos sabemos que tu hermano no puede.
+
+557
+00:47:21,484 --> 00:47:22,487
+Muy bien.
+
+558
+00:47:55,935 --> 00:47:56,938
+Tómala.
+
+559
+00:48:02,692 --> 00:48:03,820
+Trae al perro.
+
+560
+00:48:31,303 --> 00:48:35,100
+<i>Necesito ser un símbolo para los plebeyos
+tanto como para la nobleza.</i>
+
+561
+00:48:35,515 --> 00:48:37,936
+<i>- Espera.
+- Siempre podrías ser Aegon el Fuerte.</i>
+
+562
+00:48:38,727 --> 00:48:40,529
+<i>Mi sobrino ya ha adoptado ese.</i>
+
+563
+00:48:40,729 --> 00:48:42,656
+<i>- ¿Qué preferiría su alteza?
+- Es el Rey.</i>
+
+564
+00:48:42,856 --> 00:48:45,367
+<i>- ¿Ser amado o temido?
+- Necesito ser ambos.</i>
+
+565
+00:48:45,567 --> 00:48:50,372
+Mi madre y mi abuelo me ven
+como un patito indefenso.
+
+566
+00:48:50,572 --> 00:48:52,201
+Pero eres el Rey.
+
+567
+00:48:52,449 --> 00:48:53,626
+¿Qué carajos importa lo que digan?
+
+568
+00:48:53,826 --> 00:48:56,247
+Mi hermano, al menos, conoce su lugar.
+
+569
+00:48:56,662 --> 00:48:58,124
+Es leal como un sabueso.
+
+570
+00:48:58,748 --> 00:49:02,045
+Puedo usarlo a él y a su dragón
+con mis enemigos a voluntad.
+
+571
+00:49:03,669 --> 00:49:05,429
+<i>- Mantén la mirada abajo.
+- Necesito un estilo...</i>
+
+572
+00:49:05,629 --> 00:49:09,134
+<i>que demuestre poder e imponga respeto.</i>
+
+573
+00:49:09,507 --> 00:49:12,304
+<i>Nadie sabe lo que significa "magnánimo".</i>
+
+574
+00:49:13,011 --> 00:49:14,896
+Podrías ser Aegon el Generoso, entonces.
+
+575
+00:49:15,096 --> 00:49:16,481
+A los plebeyos les encantará.
+
+576
+00:49:16,681 --> 00:49:18,483
+<i>- Ese me agrada.
+- ¿Hay más vino?</i>
+
+577
+00:49:18,683 --> 00:49:20,771
+<i>- "Aegon el Corazón de Dragón".
+- Mejor.</i>
+
+578
+00:49:21,937 --> 00:49:23,238
+<i>"Aegon la Verga de Dragón".</i>
+
+579
+00:49:23,438 --> 00:49:25,198
+<i>¡Sí!</i>
+
+580
+00:49:25,398 --> 00:49:27,527
+<i>La bestia indomable.</i>
+
+581
+00:49:50,798 --> 00:49:52,760
+¿Cómo llegamos arriba?
+
+582
+00:49:53,676 --> 00:49:54,845
+La realeza vive ahí.
+
+583
+00:49:56,595 --> 00:49:57,640
+Claro.
+
+584
+00:49:57,930 --> 00:49:59,350
+Está prohibido.
+
+585
+00:49:59,890 --> 00:50:01,901
+Otro grupo de cazarratas trabaja arriba.
+
+586
+00:50:02,101 --> 00:50:06,399
+Si vamos a matar a un puto Príncipe,
+¿dónde crees que vamos a encontrarlo?
+
+587
+00:50:07,273 --> 00:50:08,818
+Yo te metí al castillo.
+
+588
+00:50:09,066 --> 00:50:10,778
+Pensé que el resto te tocaba a ti.
+
+589
+00:50:13,654 --> 00:50:15,081
+Podría acabar contigo aquí.
+
+590
+00:50:15,281 --> 00:50:17,076
+Tomar el resto del oro para mí.
+
+591
+00:50:20,286 --> 00:50:21,831
+Sé una forma de subir.
+
+592
+00:50:22,037 --> 00:50:24,417
+Sólo que no conozco el lugar.
+
+593
+00:50:27,710 --> 00:50:28,713
+Muéstrame.
+
+594
+00:50:31,088 --> 00:50:32,091
+No jodas.
+
+595
+00:50:39,638 --> 00:50:40,641
+Por aquí.
+
+596
+00:51:01,744 --> 00:51:03,456
+La realeza vive en este nivel.
+
+597
+00:51:22,558 --> 00:51:23,686
+Aquí no hay nadie.
+
+598
+00:51:24,852 --> 00:51:26,237
+Tenemos que seguir buscando.
+
+599
+00:51:26,437 --> 00:51:29,025
+Te dije que no debería estar aquí.
+
+600
+00:51:29,357 --> 00:51:30,943
+¿No escuchaste al Príncipe?
+
+601
+00:51:32,109 --> 00:51:33,279
+Sin una cabeza,
+
+602
+00:51:33,736 --> 00:51:34,864
+no hay oro.
+
+603
+00:51:41,660 --> 00:51:42,663
+Pon una trampa.
+
+604
+00:51:44,663 --> 00:51:45,958
+Para las apariencias.
+
+605
+00:51:47,041 --> 00:51:48,544
+Buscaré en la otra habitación.
+
+606
+00:52:22,118 --> 00:52:23,246
+Para las ratas.
+
+607
+00:52:56,526 --> 00:52:57,654
+<i>¡No te muevas!</i>
+
+608
+00:52:59,070 --> 00:53:00,073
+<i>¡Cállate!</i>
+
+609
+00:53:03,658 --> 00:53:04,828
+¡Quédate quieta!
+
+610
+00:53:09,497 --> 00:53:11,042
+¿Quién carajos es ella?
+
+611
+00:53:12,917 --> 00:53:14,379
+Ella es la Reina.
+
+612
+00:53:15,420 --> 00:53:17,383
+"Un hijo por un hijo", él dijo.
+
+613
+00:53:18,257 --> 00:53:20,511
+¿Te parece que ella
+es un maldito hijo?
+
+614
+00:53:22,595 --> 00:53:23,598
+Por allá.
+
+615
+00:53:33,439 --> 00:53:35,276
+Consigamos la cabeza y salgamos.
+
+616
+00:53:43,073 --> 00:53:44,452
+Ambos se ven iguales.
+
+617
+00:53:44,825 --> 00:53:46,078
+¿Cuál es el niño?
+
+618
+00:53:46,327 --> 00:53:47,538
+Tal vez es ese.
+
+619
+00:53:48,120 --> 00:53:49,623
+Busca una verga.
+
+620
+00:53:54,042 --> 00:53:55,212
+La madre lo sabe.
+
+621
+00:53:57,545 --> 00:53:59,508
+Si no haces lo que pido,
+
+622
+00:53:59,797 --> 00:54:02,010
+voy a degollarte.
+
+623
+00:54:09,598 --> 00:54:10,601
+¿Cuál?
+
+624
+00:54:13,685 --> 00:54:15,481
+Tengo un collar.
+
+625
+00:54:17,564 --> 00:54:18,776
+Es de gran valor.
+
+626
+00:54:22,945 --> 00:54:24,156
+Esto no es un hijo.
+
+627
+00:54:48,178 --> 00:54:49,223
+Espera.
+
+628
+00:54:50,556 --> 00:54:51,398
+Es el otro.
+
+629
+00:54:51,598 --> 00:54:54,019
+No va a entregar
+al heredero del Rey así de fácil.
+
+630
+00:55:04,111 --> 00:55:05,155
+No.
+
+631
+00:55:06,780 --> 00:55:07,866
+Dice la verdad.
+
+632
+00:55:12,034 --> 00:55:13,037
+Sujétalo.
+
+633
+00:55:17,164 --> 00:55:18,167
+No.
+
+634
+00:56:21,772 --> 00:56:22,900
+¡Helaena!
+
+635
+00:56:28,111 --> 00:56:29,198
+¿Qué pasó?
+
+636
+00:56:34,034 --> 00:56:35,329
+Mataron al niño.
+

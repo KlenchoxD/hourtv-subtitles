@@ -1,0 +1,2685 @@
+1
+00:00:22,708 --> 00:00:24,708
+<i>Nada es malvado al principio.</i>
+
+2
+00:00:24,708 --> 00:00:25,625
+¡Por aquí!
+
+3
+00:00:29,833 --> 00:00:33,916
+<i>Y hubo un tiempo
+en que el mundo era tan joven</i>
+
+4
+00:00:34,041 --> 00:00:37,041
+<i>que aún no existía el amanecer.</i>
+
+5
+00:00:37,125 --> 00:00:41,416
+<i>Pero incluso entonces había luz.</i>
+
+6
+00:01:02,958 --> 00:01:05,875
+¿Y bien, ya lo terminaste?
+
+7
+00:01:17,666 --> 00:01:21,208
+No creerás
+que ese pedazo de chatarra podrá flotar.
+
+8
+00:01:22,666 --> 00:01:24,208
+No va a flotar.
+
+9
+00:01:25,958 --> 00:01:29,000
+Va a navegar.
+
+10
+00:01:48,666 --> 00:01:49,750
+¡Alto!
+
+11
+00:01:50,333 --> 00:01:51,166
+¡Basta, no!
+
+12
+00:01:52,500 --> 00:01:54,041
+¡Basta, lo romperán!
+
+13
+00:01:54,125 --> 00:01:56,083
+¡Basta! ¡No!
+
+14
+00:01:56,083 --> 00:01:58,500
+- Vamos.
+-¡Basta, no lo rompan! ¡Alto!
+
+15
+00:02:02,208 --> 00:02:04,000
+Te dije que no iba a flotar.
+
+16
+00:02:07,708 --> 00:02:09,166
+¡Suéltame!
+
+17
+00:02:09,291 --> 00:02:11,541
+¿Perdiste el equilibrio
+otra vez, Galadriel?
+
+18
+00:02:19,625 --> 00:02:21,833
+Era un buen barco, hermana.
+
+19
+00:02:21,833 --> 00:02:23,833
+Lo hice tal como me enseñaste.
+
+20
+00:02:25,208 --> 00:02:29,791
+¿Sabes por qué un barco flota
+pero una piedra no?
+
+21
+00:02:31,041 --> 00:02:35,416
+Porque la piedra solo ve hacia abajo.
+
+22
+00:02:36,583 --> 00:02:40,250
+La oscuridad al fondo
+es vasta e irresistible.
+
+23
+00:02:41,708 --> 00:02:43,750
+El barco también nota la oscuridad,
+
+24
+00:02:43,750 --> 00:02:47,666
+ansiando poder dominarlo y hundirlo.
+
+25
+00:02:49,458 --> 00:02:51,750
+Pero el barco tiene un secreto.
+
+26
+00:02:53,375 --> 00:02:57,291
+A diferencia de la piedra,
+el barco siempre mira hacia arriba.
+
+27
+00:02:58,666 --> 00:03:00,875
+Fijo en la luz que lo guía
+
+28
+00:03:01,750 --> 00:03:04,833
+y que le ofrece mayor grandeza
+que la oscuridad.
+
+29
+00:03:06,958 --> 00:03:10,500
+Pero a veces la luz brilla
+con el mismo fulgor
+
+30
+00:03:10,500 --> 00:03:13,250
+en el reflejo del agua, como en el cielo.
+
+31
+00:03:13,250 --> 00:03:16,541
+Es difícil saber dónde es arriba
+y dónde es abajo.
+
+32
+00:03:18,333 --> 00:03:20,875
+¿Cómo sabré qué luz seguir?
+
+33
+00:03:33,375 --> 00:03:34,875
+Eso parece tan simple.
+
+34
+00:03:34,875 --> 00:03:37,166
+Las verdades más importantes
+a menudo lo son.
+
+35
+00:03:38,041 --> 00:03:40,458
+Pero debes aprender a discernirlas
+por ti misma.
+
+36
+00:03:40,458 --> 00:03:43,375
+No siempre estaré aquí para decírtelas.
+
+37
+00:03:43,375 --> 00:03:44,875
+¿No?
+
+38
+00:03:46,250 --> 00:03:48,750
+Ven. Nuestros padres nos esperan.
+
+39
+00:03:59,333 --> 00:04:01,458
+<i>No teníamos una palabra para la muerte.</i>
+
+40
+00:04:02,583 --> 00:04:05,541
+<i>Pues nuestra dicha parecía eterna.</i>
+
+41
+00:04:20,833 --> 00:04:23,833
+<i>Creíamos que nuestra luz
+jamás se apagaría.</i>
+
+42
+00:04:28,666 --> 00:04:31,791
+<i>Así que cuando el Enemigo Oscuro, Morgoth,</i>
+
+43
+00:04:31,875 --> 00:04:34,916
+<i>destruyó la luz de nuestro hogar...</i>
+
+44
+00:04:37,958 --> 00:04:39,791
+<i>Nos resistimos.</i>
+
+45
+00:04:43,583 --> 00:04:47,250
+<i>Y una legión de elfos fue a la guerra.</i>
+
+46
+00:04:53,000 --> 00:04:58,708
+<i>Dejamos Valinor, nuestro hogar,
+y viajamos hacia un reino distante.</i>
+
+47
+00:04:58,708 --> 00:04:59,833
+MAR CIRCUNDANTE
+
+48
+00:04:59,833 --> 00:05:05,250
+<i>Uno lleno de peligros desconocidos
+e incontables criaturas extrañas.</i>
+
+49
+00:05:05,875 --> 00:05:09,375
+<i>Un lugar conocido como Tierra Media.</i>
+
+50
+00:05:32,291 --> 00:05:34,875
+<i>¡Valaron kalanen!</i>
+
+51
+00:05:34,875 --> 00:05:35,791
+<i>¡Firuvantë!</i>
+
+52
+00:05:44,083 --> 00:05:46,500
+<i>Dijeron que acabaría rápido,</i>
+
+53
+00:05:48,041 --> 00:05:52,458
+<i>pero la guerra
+dejó Tierra Media en ruinas.</i>
+
+54
+00:05:55,666 --> 00:05:59,250
+<i>Y se prolongaría por siglos.</i>
+
+55
+00:06:20,083 --> 00:06:23,666
+<i>Aprendimos muchos nombres para la muerte.</i>
+
+56
+00:06:28,916 --> 00:06:31,875
+<i>Al final, Morgoth sería derrotado.</i>
+
+57
+00:06:32,875 --> 00:06:35,625
+<i>Pero no sin antes causar
+mucho sufrimiento.</i>
+
+58
+00:06:38,125 --> 00:06:42,833
+<i>Pues sus orcos se habían extendido
+por cada rincón de Tierra Media,</i>
+
+59
+00:06:44,125 --> 00:06:46,583
+<i>multiplicándose cada vez más</i>
+
+60
+00:06:46,583 --> 00:06:50,166
+<i>bajo el mando de su sirviente más devoto,</i>
+
+61
+00:06:50,250 --> 00:06:54,083
+<i>un hechicero astuto y cruel.</i>
+
+62
+00:06:54,083 --> 00:06:57,000
+<i>Lo llamaron Sauron.</i>
+
+63
+00:06:58,708 --> 00:07:02,291
+<i>Mi hermano juró encontrarlo y destruirlo.</i>
+
+64
+00:07:05,000 --> 00:07:07,208
+<i>Pero Sauron lo encontró primero</i>
+
+65
+00:07:09,291 --> 00:07:11,625
+<i>y marcó su carne con un símbolo.</i>
+
+66
+00:07:14,416 --> 00:07:17,875
+<i>Uno que ni siquiera
+los más sabios pudieron descifrar.</i>
+
+67
+00:07:22,375 --> 00:07:25,208
+<i>Y ahí, en la oscuridad,</i>
+
+68
+00:07:25,875 --> 00:07:29,041
+<i>su juramento se convirtió en el mío.</i>
+
+69
+00:07:31,083 --> 00:07:33,625
+<i>Y entonces, lo perseguimos.</i>
+
+70
+00:07:35,875 --> 00:07:38,750
+<i>Hasta los confines de la Tierra
+perseguimos a Sauron.</i>
+
+71
+00:07:41,291 --> 00:07:43,833
+<i>Pero su rastro fue desapareciendo.</i>
+
+72
+00:07:46,416 --> 00:07:48,208
+<i>Pasaron los años.</i>
+
+73
+00:07:48,958 --> 00:07:51,166
+<i>Pasaron los siglos.</i>
+
+74
+00:07:51,708 --> 00:07:55,375
+<i>Y para muchos elfos,
+el dolor de aquellos días</i>
+
+75
+00:07:55,375 --> 00:07:58,458
+<i>se disipó de sus pensamientos y su mente.</i>
+
+76
+00:07:59,500 --> 00:08:02,000
+{\an8}<i>Cada vez más de los nuestros</i>
+
+77
+00:08:02,000 --> 00:08:05,125
+{\an8}<i>empezaron a creer
+que Sauron no era más que un recuerdo.</i>
+
+78
+00:08:05,125 --> 00:08:06,666
+{\an8}FORODWAITH
+PÁRAMO DEL NORTE
+
+79
+00:08:06,750 --> 00:08:10,750
+{\an8}<i>Y que la amenaza se había esfumado.</i>
+
+80
+00:08:14,000 --> 00:08:16,333
+<i>Ojalá pudiera creer lo mismo.</i>
+
+81
+00:09:13,333 --> 00:09:14,833
+Comandante Galadriel.
+
+82
+00:09:16,916 --> 00:09:20,000
+Esta compañía la ha seguido
+hasta el mismo fin del mundo.
+
+83
+00:09:20,000 --> 00:09:22,875
+Pero nadie que haya buscado
+este último bastión
+
+84
+00:09:22,875 --> 00:09:24,375
+ha encontrado nada.
+
+85
+00:09:25,916 --> 00:09:28,916
+Han pasado años
+desde que se vio al último orco.
+
+86
+00:09:29,750 --> 00:09:34,250
+¿No será que los otros comandantes
+tienen razón y el enemigo ya no existe?
+
+87
+00:09:34,250 --> 00:09:35,541
+Se acerca la noche.
+
+88
+00:09:36,291 --> 00:09:40,291
+¿Cuánto puede resistir la carne
+donde hasta la luz del sol teme pisar?
+
+89
+00:09:44,916 --> 00:09:47,250
+Tal vez sería más prudente acampar aquí.
+
+90
+00:09:48,041 --> 00:09:50,250
+Y mañana, regresar a casa.
+
+91
+00:09:54,750 --> 00:09:56,166
+Nos quedamos sin luz.
+
+92
+00:10:11,000 --> 00:10:12,291
+Comandante, ¡espere!
+
+93
+00:10:12,375 --> 00:10:14,875
+No. Seguiremos adelante.
+
+94
+00:10:14,875 --> 00:10:16,416
+Galadriel, ¡detente!
+
+95
+00:10:39,000 --> 00:10:42,416
+No hay nada aquí.
+Ya deberíamos haber llegado.
+
+96
+00:10:50,666 --> 00:10:51,875
+Ya llegamos.
+
+97
+00:11:13,333 --> 00:11:14,750
+Es aquí.
+
+98
+00:11:14,750 --> 00:11:18,041
+Aquí se reunieron los orcos
+tras la caída de Morgoth.
+
+99
+00:11:19,125 --> 00:11:22,041
+Deben haber escapado más
+de los que imaginamos.
+
+100
+00:11:23,000 --> 00:11:25,416
+No siento la mano.
+
+101
+00:11:27,458 --> 00:11:28,541
+No.
+
+102
+00:11:30,083 --> 00:11:33,500
+La maldad del lugar roba el calor
+de las antorchas.
+
+103
+00:11:34,250 --> 00:11:35,416
+Por aquí.
+
+104
+00:11:36,000 --> 00:11:37,500
+¿Cómo puede estar segura?
+
+105
+00:11:38,041 --> 00:11:39,666
+Está más frío que el resto.
+
+106
+00:12:09,291 --> 00:12:10,875
+Aquí taparon una puerta.
+
+107
+00:12:12,083 --> 00:12:13,083
+Derríbenla.
+
+108
+00:12:48,833 --> 00:12:50,625
+¿Qué brujería es esta?
+
+109
+00:12:53,375 --> 00:12:56,916
+Estos orcos estaban practicando
+poderes del Mundo Invisible.
+
+110
+00:12:57,666 --> 00:12:59,583
+Es magia oscura antigua.
+
+111
+00:13:03,833 --> 00:13:05,458
+Pero ¿con qué propósito?
+
+112
+00:13:06,416 --> 00:13:09,250
+Sin duda,
+ahora se ha perdido en el tiempo.
+
+113
+00:13:09,250 --> 00:13:11,500
+Lo que pasó aquí fue hace mucho.
+
+114
+00:13:19,125 --> 00:13:20,208
+Agua.
+
+115
+00:13:30,291 --> 00:13:32,291
+Ni la roca puede ocultar la marca
+
+116
+00:13:32,375 --> 00:13:34,958
+de alguien cuya mano
+es una llama inextinguible.
+
+117
+00:13:42,708 --> 00:13:43,791
+Estuvo aquí.
+
+118
+00:13:44,916 --> 00:13:46,666
+Sauron estuvo aquí.
+
+119
+00:13:47,125 --> 00:13:49,458
+Diles a los demás que descansen.
+
+120
+00:13:49,458 --> 00:13:52,750
+Saldremos al amanecer.
+Buscaremos más al norte.
+
+121
+00:13:52,750 --> 00:13:53,916
+¿Más al norte?
+
+122
+00:13:54,000 --> 00:13:56,916
+Esta marca
+es un rastro para que los orcos lo sigan.
+
+123
+00:13:57,833 --> 00:14:00,333
+La última vez que la vi fue en mi hermano.
+
+124
+00:14:00,916 --> 00:14:02,041
+Debemos seguirla.
+
+125
+00:14:02,541 --> 00:14:04,583
+La marca es de hace siglos.
+
+126
+00:14:04,583 --> 00:14:06,500
+Su autor podría estar muerto.
+
+127
+00:14:06,500 --> 00:14:08,458
+O esperando, acumulando fuerzas,
+
+128
+00:14:08,458 --> 00:14:10,875
+perfeccionando su arte oscuro.
+
+129
+00:14:10,875 --> 00:14:12,958
+Excedimos nuestras órdenes hace meses.
+
+130
+00:14:12,958 --> 00:14:17,083
+Debemos volver a casa
+para consultarlo con el alto rey.
+
+131
+00:14:17,583 --> 00:14:20,666
+Te prometo que no hay un alma
+en nuestra compañía
+
+132
+00:14:21,791 --> 00:14:23,708
+que añore el hogar más que yo.
+
+133
+00:14:25,791 --> 00:14:28,791
+Aún siento la luz de los Árboles
+en el rostro.
+
+134
+00:14:30,791 --> 00:14:32,208
+Todavía puedo verla.
+
+135
+00:14:34,208 --> 00:14:36,375
+Y hasta que estemos seguros
+
+136
+00:14:36,875 --> 00:14:40,458
+de que todo rastro del enemigo
+ha sido derrotado,
+
+137
+00:14:42,958 --> 00:14:44,458
+no puedo volver.
+
+138
+00:15:17,583 --> 00:15:19,541
+{\an8}¡Troll de las nieves!
+
+139
+00:16:35,833 --> 00:16:37,375
+No debimos haber venido.
+
+140
+00:16:37,375 --> 00:16:38,833
+Nos iremos pronto.
+
+141
+00:16:40,416 --> 00:16:41,875
+Es una orden.
+
+142
+00:16:41,875 --> 00:16:43,458
+Partiremos al alba.
+
+143
+00:16:50,750 --> 00:16:52,500
+Tendrá que hacerlo sola.
+
+144
+00:17:27,958 --> 00:17:33,958
+EL SEÑOR DE LOS ANILLOS:
+LOS ANILLOS DE PODER
+
+145
+00:17:40,791 --> 00:17:45,083
+RHOVANION
+LAS TIERRAS ÁSPERAS AL ESTE DEL ANDUIN
+
+146
+00:17:55,666 --> 00:17:57,875
+Algo está mal. No hay nada que cazar.
+
+147
+00:17:57,875 --> 00:17:59,791
+Hay lobos en cada matorral.
+
+148
+00:18:00,166 --> 00:18:02,541
+¿No te parece un poco extraño?
+
+149
+00:18:02,625 --> 00:18:04,375
+El mundo es extraño.
+
+150
+00:18:04,708 --> 00:18:06,416
+Si dejara que todo me asustara,
+
+151
+00:18:06,500 --> 00:18:08,791
+jamás saldría de casa.
+
+152
+00:18:09,333 --> 00:18:10,166
+¡Oye!
+
+153
+00:18:13,250 --> 00:18:14,833
+Sigue caminando.
+
+154
+00:18:14,833 --> 00:18:16,000
+¿Por qué?
+
+155
+00:18:17,750 --> 00:18:20,333
+Parecía un tejón. Tal vez un zorro.
+
+156
+00:18:20,333 --> 00:18:21,750
+Más bien un peloso.
+
+157
+00:18:21,750 --> 00:18:23,083
+¿Un peloso?
+
+158
+00:18:23,083 --> 00:18:25,000
+Esperemos no ver ninguno,
+
+159
+00:18:25,000 --> 00:18:28,125
+pero si ves uno, cuídate.
+
+160
+00:18:28,125 --> 00:18:30,541
+Son criaturas peligrosas.
+
+161
+00:18:31,958 --> 00:18:32,958
+Lo estás inventando.
+
+162
+00:18:35,250 --> 00:18:37,375
+Vamos. ¡Mueve los pies!
+
+163
+00:18:38,083 --> 00:18:41,250
+Lleguemos al lago antes de que oscurezca.
+
+164
+00:19:09,541 --> 00:19:11,208
+Ya no hay riesgo.
+
+165
+00:19:25,791 --> 00:19:26,791
+¡Nori!
+
+166
+00:19:28,291 --> 00:19:29,375
+¡Nori!
+
+167
+00:19:30,500 --> 00:19:31,666
+¡Nori!
+
+168
+00:19:37,166 --> 00:19:38,333
+¡Nori!
+
+169
+00:19:57,791 --> 00:20:00,416
+¿Viajeros? ¿En esta época del año?
+
+170
+00:20:00,500 --> 00:20:03,375
+- Es un augurio, estoy segura.
+- Y malo.
+
+171
+00:20:03,375 --> 00:20:05,458
+- De los peores.
+- No creo, Malva.
+
+172
+00:20:05,458 --> 00:20:08,791
+La última vez que hubo viajeros
+tan pronto, fue la Gran Helada.
+
+173
+00:20:08,875 --> 00:20:12,250
+Y bien sabemos
+lo sombría que fue esa temporada.
+
+174
+00:20:12,250 --> 00:20:15,833
+Solo deben estar perdidos,
+es todo. Debe ser por eso.
+
+175
+00:20:15,833 --> 00:20:17,250
+Vas a arruinar la cena.
+
+176
+00:20:17,250 --> 00:20:19,208
+Busqué por todas partes.
+
+177
+00:20:19,208 --> 00:20:20,958
+Los niños siguen allá afuera.
+
+178
+00:20:20,958 --> 00:20:23,583
+Van a estar bien, Mari.
+
+179
+00:20:23,583 --> 00:20:26,375
+Nori está con ellos.
+Ya sabes cómo es ella.
+
+180
+00:20:26,375 --> 00:20:28,291
+Sí. Por eso.
+
+181
+00:20:30,708 --> 00:20:32,291
+¿Podemos volver ahora?
+
+182
+00:20:32,375 --> 00:20:34,875
+Hay 110 cosas aquí que podrían matarnos.
+
+183
+00:20:34,875 --> 00:20:38,250
+Ciento once si cuentas
+morirte de preocupación.
+
+184
+00:20:38,250 --> 00:20:40,833
+No debemos alejarnos tanto.
+
+185
+00:20:40,833 --> 00:20:43,541
+Si solo hiciéramos lo que debemos,
+
+186
+00:20:43,625 --> 00:20:45,250
+casi nunca haríamos nada.
+
+187
+00:20:45,375 --> 00:20:46,208
+¡Yo primero!
+
+188
+00:20:48,541 --> 00:20:50,750
+Vamos. Cuidado con el charco.
+
+189
+00:20:51,875 --> 00:20:53,375
+Y con la cabeza.
+
+190
+00:20:55,291 --> 00:20:56,125
+¡Por aquí!
+
+191
+00:20:56,625 --> 00:20:57,750
+¡Nori!
+
+192
+00:20:58,625 --> 00:20:59,916
+Te tengo.
+
+193
+00:21:00,333 --> 00:21:01,166
+Está...
+
+194
+00:21:01,625 --> 00:21:02,708
+¡Nori!
+
+195
+00:21:07,916 --> 00:21:09,000
+¡Qué encantador!
+
+196
+00:21:11,875 --> 00:21:13,125
+Vamos.
+
+197
+00:21:13,125 --> 00:21:14,958
+¿Podemos volver ahora?
+
+198
+00:21:14,958 --> 00:21:17,750
+- Pero ni siquiera lo has visto.
+-¿Ver qué?
+
+199
+00:21:17,750 --> 00:21:20,750
+De seguro aquí se esconde
+un troll de las colinas.
+
+200
+00:21:21,916 --> 00:21:23,541
+O gloria y esplendor.
+
+201
+00:21:34,083 --> 00:21:35,250
+¡Nori!
+
+202
+00:21:55,000 --> 00:21:56,166
+¡Nori!
+
+203
+00:21:57,375 --> 00:21:58,541
+Encontré algo.
+
+204
+00:22:00,000 --> 00:22:01,708
+Hay algo en el lodo.
+
+205
+00:22:02,583 --> 00:22:03,750
+¿Qué es?
+
+206
+00:22:05,833 --> 00:22:07,250
+Parece una huella.
+
+207
+00:22:09,500 --> 00:22:10,541
+De un perro.
+
+208
+00:22:11,250 --> 00:22:14,166
+Ya sabes que los perros adoran las bayas.
+
+209
+00:22:20,916 --> 00:22:23,000
+¿Se va a comer nuestras bayas?
+
+210
+00:22:23,000 --> 00:22:25,166
+No si no nos ve.
+
+211
+00:22:25,916 --> 00:22:29,250
+Oigan. Tómense de las manos.
+Hora de irnos.
+
+212
+00:22:29,250 --> 00:22:31,791
+-¿Por qué la prisa?
+- Lobo.
+
+213
+00:22:34,125 --> 00:22:35,875
+Ya la oyeron. Hora de irse.
+
+214
+00:22:35,875 --> 00:22:37,791
+Adelante. Vamos.
+
+215
+00:22:37,875 --> 00:22:40,750
+El primero en llegar se come
+el primer pastel.
+
+216
+00:22:40,750 --> 00:22:43,041
+Vamos. Podemos llegar hasta la cerca.
+
+217
+00:22:43,125 --> 00:22:47,333
+Recuerden, si alguien pregunta,
+estábamos buscando caracoles.
+
+218
+00:22:57,125 --> 00:23:01,083
+<i>"I Palannúmen... I Alfirimë Nóri...</i>
+
+219
+00:23:01,083 --> 00:23:02,916
+<i>"Na metta avantë...</i>
+
+220
+00:23:03,875 --> 00:23:05,083
+"A casa.
+
+221
+00:23:07,625 --> 00:23:11,458
+"Durante siglos,
+han buscado en cada rincón,
+
+222
+00:23:11,458 --> 00:23:14,166
+"acabando con los últimos restos
+de nuestro enemigo.
+
+223
+00:23:14,750 --> 00:23:17,416
+"Como lluvia primaveral
+sobre los huesos de un...
+
+224
+00:23:18,375 --> 00:23:19,458
+"Animal muerto".
+
+225
+00:23:21,583 --> 00:23:24,916
+"Lluvia primaveral
+sobre los huesos de un...".
+
+226
+00:23:26,708 --> 00:23:28,041
+Heraldo Elrond.
+
+227
+00:23:30,500 --> 00:23:31,666
+Al fin.
+
+228
+00:23:32,833 --> 00:23:35,666
+Sí. Es como si no quisiera
+que me encontraran.
+
+229
+00:23:35,958 --> 00:23:37,250
+¿Qué noticias traes?
+
+230
+00:23:37,250 --> 00:23:39,083
+El Consejo lamenta informarle
+
+231
+00:23:39,083 --> 00:23:41,750
+que no podrá asistir a la próxima sesión.
+
+232
+00:23:44,000 --> 00:23:45,375
+Solo señores elfos.
+
+233
+00:23:48,375 --> 00:23:49,791
+¿Algo más?
+
+234
+00:23:49,875 --> 00:23:52,000
+Sí. Llegó su amiga.
+
+235
+00:23:52,916 --> 00:23:55,333
+¿Está aquí? ¿Por qué no lo dijiste?
+
+236
+00:24:02,250 --> 00:24:03,458
+Para la ceremonia.
+
+237
+00:24:05,500 --> 00:24:11,500
+LINDON
+CAPITAL DE LOS ALTOS ELFOS
+
+238
+00:24:21,500 --> 00:24:22,666
+Galadriel.
+
+239
+00:24:24,666 --> 00:24:25,625
+Elrond.
+
+240
+00:24:27,041 --> 00:24:29,041
+{\an8}Lindon te recibe con gracia.
+
+241
+00:24:29,125 --> 00:24:30,791
+{\an8}Con gracia, soy recibida.
+
+242
+00:24:36,291 --> 00:24:40,208
+Oí que se dice que cuando cruzas,
+escuchas una canción.
+
+243
+00:24:40,208 --> 00:24:42,416
+Cuyo recuerdo llevamos todos.
+
+244
+00:24:43,625 --> 00:24:45,083
+Te sumerges en una luz,
+
+245
+00:24:45,083 --> 00:24:48,875
+más embriagante que cualquier sensación
+en toda Tierra Media.
+
+246
+00:24:48,875 --> 00:24:53,208
+Cuando era niña,
+era la única sensación que conocía.
+
+247
+00:24:53,208 --> 00:24:55,000
+Y mírate ahora.
+
+248
+00:24:55,000 --> 00:24:58,083
+Comandante de los ejércitos del norte.
+Guerrera del páramo.
+
+249
+00:24:58,750 --> 00:25:03,041
+En parte esperaba
+que llegaras cubierta de suciedad y barro.
+
+250
+00:25:03,125 --> 00:25:06,166
+Esta vez, con nieve y sangre de troll.
+
+251
+00:25:07,166 --> 00:25:08,250
+Y sin ejército.
+
+252
+00:25:09,375 --> 00:25:10,791
+Cuéntamelo todo.
+
+253
+00:25:11,458 --> 00:25:14,791
+La existencia de esta marca prueba
+que Sauron escapó.
+
+254
+00:25:14,875 --> 00:25:16,125
+Sigue estando ahí.
+
+255
+00:25:16,541 --> 00:25:18,166
+La pregunta es ¿dónde?
+
+256
+00:25:19,250 --> 00:25:22,125
+Mi intención es pedirle al rey
+una nueva compañía.
+
+257
+00:25:22,125 --> 00:25:25,208
+- Si me lo permite...
+- Acabas de llegar.
+
+258
+00:25:25,208 --> 00:25:27,500
+¿Y hablas de volver a irte?
+
+259
+00:25:27,500 --> 00:25:29,416
+Sabes bien por qué debo hacerlo.
+
+260
+00:25:30,250 --> 00:25:33,666
+Habrá mucho tiempo luego
+para discutir asuntos oficiales.
+
+261
+00:25:34,708 --> 00:25:36,291
+Quiero saber de ti.
+
+262
+00:25:37,708 --> 00:25:39,291
+De tu arduo viaje.
+
+263
+00:25:40,000 --> 00:25:41,083
+Vaya, Elrond.
+
+264
+00:25:41,083 --> 00:25:43,291
+Te has vuelto un político.
+
+265
+00:25:43,375 --> 00:25:45,125
+Lo haces sonar muy sombrío.
+
+266
+00:25:45,125 --> 00:25:48,541
+No soy una cortesana
+a quien aplacar con halagos vacíos.
+
+267
+00:25:49,875 --> 00:25:52,291
+Exijo hablar directamente con el rey.
+
+268
+00:25:54,708 --> 00:25:56,416
+Lo has dejado claro.
+
+269
+00:25:57,750 --> 00:25:59,708
+Así que también yo seré claro.
+
+270
+00:26:02,750 --> 00:26:05,583
+No fue tu compañía la que te desafió allá,
+
+271
+00:26:06,083 --> 00:26:08,416
+fuiste tú quien desafió al alto rey,
+
+272
+00:26:09,291 --> 00:26:12,041
+al negarte a respetar
+los límites impuestos.
+
+273
+00:26:13,750 --> 00:26:15,333
+En un acto de magnanimidad,
+
+274
+00:26:15,333 --> 00:26:18,125
+el rey eligió honrar tus logros...
+
+275
+00:26:18,958 --> 00:26:21,291
+En vez de concentrarse en tu insolencia.
+
+276
+00:26:23,750 --> 00:26:25,416
+Rétalo de nuevo,
+
+277
+00:26:25,500 --> 00:26:28,916
+y tal vez sea menos receptivo
+de lo que deseas.
+
+278
+00:26:35,416 --> 00:26:38,458
+¿Vas a arreglar una audiencia o no?
+
+279
+00:26:40,583 --> 00:26:43,541
+Si después de la ceremonia aún la deseas,
+
+280
+00:26:43,625 --> 00:26:45,041
+la tendrás.
+
+281
+00:26:57,333 --> 00:26:58,833
+Ha vuelto.
+
+282
+00:26:58,833 --> 00:27:01,500
+-¿Cómo estás?
+- Muy bien, padre.
+
+283
+00:27:01,500 --> 00:27:03,041
+¡Y mírenla!
+
+284
+00:27:03,125 --> 00:27:06,125
+¿Encontraste todo eso
+en la orilla del río?
+
+285
+00:27:06,958 --> 00:27:08,916
+¿Te enteraste de los viajeros?
+
+286
+00:27:09,000 --> 00:27:11,416
+-¿Viajeros?
+- Cazadores.
+
+287
+00:27:12,000 --> 00:27:13,333
+Dos.
+
+288
+00:27:13,333 --> 00:27:15,500
+Grandes como peñascos.
+
+289
+00:27:15,500 --> 00:27:17,041
+En esa colina de allá.
+
+290
+00:27:17,125 --> 00:27:18,625
+No puede ser, me los perdí.
+
+291
+00:27:18,625 --> 00:27:22,375
+Quizá deberías quedarte más cerca de casa,
+así no te perderías nada.
+
+292
+00:27:31,208 --> 00:27:33,416
+Fuiste a la vieja granja otra vez.
+
+293
+00:27:34,125 --> 00:27:35,291
+¿No es así?
+
+294
+00:27:36,416 --> 00:27:37,416
+Tuve cuidado.
+
+295
+00:27:37,500 --> 00:27:39,416
+Pero los niños tal vez no.
+
+296
+00:27:39,500 --> 00:27:41,083
+Lo siento, no sabía.
+
+297
+00:27:41,083 --> 00:27:43,750
+Nunca hay cazadores aquí
+antes de la cosecha.
+
+298
+00:27:44,416 --> 00:27:45,625
+Ni lobos.
+
+299
+00:27:48,500 --> 00:27:51,041
+Me pregunto si habrá problemas en el sur.
+
+300
+00:27:51,125 --> 00:27:54,208
+¿Y a ti por qué te preocupa,
+Elanor Brandipie?
+
+301
+00:27:58,666 --> 00:28:00,375
+¿Nunca te lo has preguntado?
+
+302
+00:28:01,416 --> 00:28:02,916
+¿Qué más hay ahí afuera?
+
+303
+00:28:03,541 --> 00:28:04,875
+¿Hasta dónde fluye el río
+
+304
+00:28:04,875 --> 00:28:08,583
+o dónde aprenden los gorriones
+sus nuevas canciones de primavera?
+
+305
+00:28:09,166 --> 00:28:13,333
+No puedo evitar sentir
+que hay maravillas en este mundo.
+
+306
+00:28:13,875 --> 00:28:15,500
+Más allá de nuestro alcance.
+
+307
+00:28:16,458 --> 00:28:18,000
+Ya te lo he dicho.
+
+308
+00:28:18,750 --> 00:28:20,583
+Cientos de veces.
+
+309
+00:28:22,500 --> 00:28:24,916
+Los elfos protegen sus bosques.
+
+310
+00:28:25,000 --> 00:28:28,250
+Los enanos, sus minas.
+Los hombres, sus cultivos.
+
+311
+00:28:29,166 --> 00:28:32,833
+Hasta los árboles protegen
+el suelo con sus raíces.
+
+312
+00:28:33,458 --> 00:28:37,291
+Pero los pelosos somos libres
+de las preocupaciones del mundo.
+
+313
+00:28:37,375 --> 00:28:41,125
+No somos más que ondas
+en un larguísimo río.
+
+314
+00:28:41,541 --> 00:28:43,958
+Las estaciones marcan nuestro camino.
+
+315
+00:28:44,833 --> 00:28:47,708
+Nadie sale del sendero
+y nadie camina solo.
+
+316
+00:28:49,708 --> 00:28:52,416
+Nos apoyamos y nos cuidamos unos a otros.
+
+317
+00:28:53,875 --> 00:28:55,375
+Y así sobrevivimos.
+
+318
+00:28:58,750 --> 00:29:00,875
+Vamos. Ayuda a tu padre.
+
+319
+00:29:03,583 --> 00:29:07,000
+Ese es tu problema.
+Las ruedas deben ser redondas.
+
+320
+00:29:40,708 --> 00:29:44,666
+Los guerreros más valientes
+
+321
+00:29:44,750 --> 00:29:49,291
+se arrodillan aquí
+ante nosotros, victoriosos.
+
+322
+00:29:50,958 --> 00:29:53,708
+Pues aunque Morgoth cayó hace una Era,
+
+323
+00:29:54,416 --> 00:29:58,208
+algunos temían que un nuevo mal
+pudiera surgir de su sombra.
+
+324
+00:29:58,208 --> 00:30:00,125
+Así que por siglos,
+
+325
+00:30:00,125 --> 00:30:04,291
+estos soldados han buscado en cada rincón,
+
+326
+00:30:04,375 --> 00:30:07,625
+acabando con los últimos restos
+de nuestro enemigo
+
+327
+00:30:07,625 --> 00:30:11,416
+como lluvia primaveral
+sobre los huesos de un pútrido cadáver.
+
+328
+00:30:14,125 --> 00:30:15,458
+Y ahora, por fin,
+
+329
+00:30:16,666 --> 00:30:20,041
+vuelven a nosotros triunfantes,
+
+330
+00:30:20,125 --> 00:30:23,250
+ya que han probado más allá de toda duda
+
+331
+00:30:23,250 --> 00:30:27,458
+que nuestros días de guerra han terminado.
+
+332
+00:30:29,791 --> 00:30:30,875
+Y que hoy...
+
+333
+00:30:32,708 --> 00:30:35,541
+Comienzan los días de paz.
+
+334
+00:31:01,541 --> 00:31:04,958
+Y como muestra de nuestra gratitud,
+
+335
+00:31:06,041 --> 00:31:08,583
+a estos héroes se les concederá un honor
+
+336
+00:31:08,583 --> 00:31:11,416
+sin igual en toda nuestra historia.
+
+337
+00:31:11,500 --> 00:31:14,791
+Serán escoltados a los Puertos Grises
+
+338
+00:31:14,875 --> 00:31:19,208
+y viajarán a través del mar
+para vivir por toda la eternidad
+
+339
+00:31:20,291 --> 00:31:24,000
+en el Reino Bendecido, el Extremo Oeste.
+
+340
+00:31:24,000 --> 00:31:27,250
+Las Tierras Imperecederas de Valinor.
+
+341
+00:31:28,083 --> 00:31:31,916
+Por fin, se irán a casa.
+
+342
+00:32:34,041 --> 00:32:37,375
+¿Vas a quedarte ahí,
+jadeando como un orco?
+
+343
+00:32:40,583 --> 00:32:44,000
+Se dice que el vino de la victoria
+es más dulce
+
+344
+00:32:44,000 --> 00:32:46,666
+cuando se fermentó en amargas pruebas.
+
+345
+00:32:47,416 --> 00:32:49,250
+No me siento victoriosa.
+
+346
+00:32:49,250 --> 00:32:52,375
+Te mereces los honores de este día.
+
+347
+00:32:53,250 --> 00:32:54,916
+Tu hermano estaría orgulloso.
+
+348
+00:33:01,208 --> 00:33:03,958
+Recuerdo cuando se tallaron
+los primeros de estos.
+
+349
+00:33:05,291 --> 00:33:08,708
+La imagen de un caído
+preservada en algo vivo.
+
+350
+00:33:08,708 --> 00:33:12,541
+Supongo que en parte siempre creí
+que descansaría aquí,
+
+351
+00:33:12,625 --> 00:33:13,916
+con ellos.
+
+352
+00:33:14,958 --> 00:33:16,875
+Pero, en cambio, debo dejarlos.
+
+353
+00:33:18,458 --> 00:33:22,458
+Es un obsequio de tu rey.
+
+354
+00:33:26,000 --> 00:33:28,000
+El cual he decidido rechazar.
+
+355
+00:33:29,125 --> 00:33:30,125
+Galadriel, tú...
+
+356
+00:33:30,125 --> 00:33:32,916
+Mi hermano dio su vida cazando a Sauron.
+
+357
+00:33:34,416 --> 00:33:36,416
+Su tarea ahora es mía.
+
+358
+00:33:39,250 --> 00:33:42,458
+Voy a buscar al enemigo
+que se nos escapó en el norte.
+
+359
+00:33:44,083 --> 00:33:46,125
+Sola, si es necesario.
+
+360
+00:33:48,291 --> 00:33:51,291
+Cierto. Tu símbolo misterioso.
+
+361
+00:33:51,375 --> 00:33:53,208
+Lo compartí con el alto rey.
+
+362
+00:33:53,208 --> 00:33:55,083
+-¿Y por qué...?
+- Ver un símbolo
+
+363
+00:33:55,083 --> 00:33:57,708
+no implica estar más cerca
+de hallar a Sauron.
+
+364
+00:33:57,708 --> 00:34:01,166
+Se acabó. El mal se ha ido.
+
+365
+00:34:01,250 --> 00:34:03,625
+¿Y por qué no se ha ido de aquí dentro?
+
+366
+00:34:05,041 --> 00:34:07,041
+Luego de lo que soportaste,
+
+367
+00:34:08,416 --> 00:34:10,666
+es natural sentirse en conflicto.
+
+368
+00:34:11,666 --> 00:34:13,125
+¿En conflicto?
+
+369
+00:34:16,750 --> 00:34:19,666
+Agradezco que no conozcas el mal como yo.
+
+370
+00:34:20,875 --> 00:34:23,125
+Pues no has visto lo que yo he visto.
+
+371
+00:34:23,125 --> 00:34:24,250
+He visto suficiente.
+
+372
+00:34:24,250 --> 00:34:27,958
+No has visto lo que yo he visto.
+
+373
+00:34:28,791 --> 00:34:30,916
+El mal no descansa, Elrond.
+
+374
+00:34:32,250 --> 00:34:33,458
+Espera.
+
+375
+00:34:34,125 --> 00:34:36,958
+Y en el momento de nuestra complacencia,
+
+376
+00:34:36,958 --> 00:34:38,458
+nos ciega.
+
+377
+00:34:40,416 --> 00:34:43,041
+Digamos que todo es como temes,
+
+378
+00:34:43,125 --> 00:34:46,458
+y ese enemigo está
+en algún lugar, al acecho.
+
+379
+00:34:47,125 --> 00:34:50,291
+¿De verdad crees que buscarlo te saciará?
+
+380
+00:34:50,375 --> 00:34:54,041
+¿Que un orco más
+atravesado por tu espada te traerá paz?
+
+381
+00:34:54,125 --> 00:34:56,041
+- Si te equivocas...
+- No me equivoco.
+
+382
+00:34:56,125 --> 00:34:57,583
+Si te equivocas,
+
+383
+00:34:58,458 --> 00:35:01,625
+¿llevarás a más elfos a morir
+en tierras lejanas?
+
+384
+00:35:03,458 --> 00:35:05,583
+Para convencerte
+de que hiciste lo suficiente,
+
+385
+00:35:05,583 --> 00:35:08,500
+¿cuántas estatuas más
+agregarías a este camino?
+
+386
+00:35:09,333 --> 00:35:11,958
+Nadie en la historia
+ha rechazado el llamado.
+
+387
+00:35:12,791 --> 00:35:14,875
+Si lo haces ahora, quizá no se repita.
+
+388
+00:35:15,750 --> 00:35:18,750
+Te quedarás aquí, marginada,
+
+389
+00:35:18,750 --> 00:35:21,083
+envenenada por susurros y sueños oscuros.
+
+390
+00:35:21,083 --> 00:35:24,333
+Y en el Oeste,
+¿crees que mi destino sería mejor?
+
+391
+00:35:25,458 --> 00:35:28,916
+¿Ignorando con canciones
+la batalla en mi oído?
+
+392
+00:35:30,916 --> 00:35:34,833
+Dices que obtuve la victoria
+sobre los horrores de Tierra Media.
+
+393
+00:35:36,375 --> 00:35:38,583
+Pero ¿los dejarías vivos en mí?
+
+394
+00:35:39,666 --> 00:35:41,000
+¿Para llevármelos?
+
+395
+00:35:42,000 --> 00:35:45,916
+Inmortales, inmutables, inquebrantables,
+
+396
+00:35:46,958 --> 00:35:49,333
+a la tierra de la primavera sin invierno.
+
+397
+00:35:49,333 --> 00:35:51,833
+Solo en el Reino Bendecido
+
+398
+00:35:51,833 --> 00:35:54,416
+puede sanarse lo que está roto en ti.
+
+399
+00:35:55,250 --> 00:35:56,333
+Ve.
+
+400
+00:35:56,833 --> 00:35:58,625
+Ve, y te prometo...
+
+401
+00:35:59,333 --> 00:36:03,250
+Que si tan solo un susurro de la amenaza
+que percibes resulta ser cierto,
+
+402
+00:36:03,750 --> 00:36:06,125
+no descansaré hasta remediarlo.
+
+403
+00:36:08,000 --> 00:36:10,416
+Ya peleaste suficiente, Galadriel.
+
+404
+00:36:13,000 --> 00:36:14,541
+Baja tu espada.
+
+405
+00:36:15,291 --> 00:36:17,208
+¿Quién soy sin mi espada?
+
+406
+00:36:17,208 --> 00:36:18,916
+Lo que siempre has sido.
+
+407
+00:36:21,875 --> 00:36:23,125
+Mi amiga.
+
+408
+00:36:42,083 --> 00:36:43,541
+TIERRAS DEL SUR
+LAS TIERRAS DE LOS HOMBRES
+
+409
+00:37:20,291 --> 00:37:21,708
+Buenas tardes.
+
+410
+00:37:21,708 --> 00:37:23,333
+<i>Caraes</i> en tres movimientos.
+
+411
+00:37:28,166 --> 00:37:29,625
+Envenenado seguramente.
+
+412
+00:37:29,625 --> 00:37:31,625
+¿Envenenado? ¿Por quién?
+
+413
+00:37:32,166 --> 00:37:35,250
+Hasta donde sabemos,
+tal vez lo hizo él mismo.
+
+414
+00:37:47,375 --> 00:37:48,583
+Arondir.
+
+415
+00:37:49,916 --> 00:37:52,250
+¿En serio ya pasaron quince días?
+
+416
+00:37:53,458 --> 00:37:54,583
+Sí.
+
+417
+00:37:56,416 --> 00:38:00,083
+Temo que hay muy poco
+que informar esta vez.
+
+418
+00:38:00,083 --> 00:38:03,583
+Un par de disputas lamentables,
+trampa en los dados.
+
+419
+00:38:04,166 --> 00:38:06,291
+Y... ¡Cierto!
+
+420
+00:38:06,375 --> 00:38:08,833
+Hubo algo emocionante,
+el martesdei pasado.
+
+421
+00:38:08,833 --> 00:38:10,833
+Una pelea por una chica.
+
+422
+00:38:11,250 --> 00:38:14,666
+Él tonto, ella muy lista, si me entiendes.
+
+423
+00:38:16,875 --> 00:38:19,000
+¿Te apetece un trago, soldado?
+
+424
+00:38:19,000 --> 00:38:21,291
+Bueno, mi pozo es tuyo, como siempre.
+
+425
+00:38:21,375 --> 00:38:22,875
+¿Y el envenenamiento?
+
+426
+00:38:23,375 --> 00:38:24,416
+¿Qué envenenamiento?
+
+427
+00:38:24,500 --> 00:38:26,291
+El que comentaban recién.
+
+428
+00:38:26,375 --> 00:38:27,500
+No...
+
+429
+00:38:27,500 --> 00:38:30,625
+Solo hablaba de hierba envenenada.
+
+430
+00:38:32,125 --> 00:38:34,958
+Pasó un tipo,
+dijo que su pasto se había podrido.
+
+431
+00:38:34,958 --> 00:38:37,208
+Que solo crece maleza.
+
+432
+00:38:37,208 --> 00:38:40,000
+Ese tipo, ¿de dónde era?
+
+433
+00:38:40,500 --> 00:38:42,000
+No dijo. Del este, creo.
+
+434
+00:38:42,750 --> 00:38:44,166
+¿Cuándo estuvo aquí?
+
+435
+00:38:44,625 --> 00:38:47,291
+No es nada, orejas picudas.
+
+436
+00:38:48,208 --> 00:38:50,250
+Es un maldito trozo de hierba.
+
+437
+00:38:51,333 --> 00:38:55,625
+La gente con la que nos juzgan
+murió hace mil años.
+
+438
+00:38:55,625 --> 00:38:58,541
+¿Cuándo van a olvidar el pasado?
+
+439
+00:39:02,416 --> 00:39:05,958
+El pasado nos acompaña a todos,
+nos guste o no.
+
+440
+00:39:06,833 --> 00:39:10,833
+Un día, nuestro verdadero rey regresará.
+
+441
+00:39:11,958 --> 00:39:16,458
+Y nos sacará de debajo
+de sus botas puntiagudas.
+
+442
+00:39:16,458 --> 00:39:18,208
+Tranquilo, muchacho. Calma.
+
+443
+00:39:31,083 --> 00:39:31,916
+Vamos, muchacho.
+
+444
+00:39:35,208 --> 00:39:37,208
+¿Algo más, entonces?
+
+445
+00:40:00,791 --> 00:40:02,208
+Dame la mano.
+
+446
+00:40:20,833 --> 00:40:22,000
+Semillas de <i>alfirin.</i>
+
+447
+00:40:25,000 --> 00:40:27,666
+No había visto esta flor
+desde que era niño.
+
+448
+00:40:28,416 --> 00:40:29,916
+¿Dónde las encontraste?
+
+449
+00:40:30,583 --> 00:40:34,041
+Tuve que negociarlas con otro curandero
+que estaba de paso.
+
+450
+00:40:34,125 --> 00:40:36,250
+Aplastamos los pétalos para un ungüento.
+
+451
+00:40:36,250 --> 00:40:37,958
+¿Los aplastan?
+
+452
+00:40:37,958 --> 00:40:39,500
+Suavemente.
+
+453
+00:40:42,958 --> 00:40:44,958
+¿Hay curanderos de tu raza?
+
+454
+00:40:44,958 --> 00:40:46,416
+Sí.
+
+455
+00:40:46,500 --> 00:40:48,333
+Pero los llamamos artífices.
+
+456
+00:40:49,291 --> 00:40:53,333
+La mayoría de nuestras heridas físicas
+se curan por sí solas,
+
+457
+00:40:53,333 --> 00:40:57,833
+así que su trabajo es convertir
+verdades ocultas en obras bellas.
+
+458
+00:40:58,791 --> 00:41:01,458
+Pues la belleza tiene el poder
+de sanar el alma.
+
+459
+00:41:03,750 --> 00:41:06,458
+Ojalá las flores de <i>alfirin</i>
+te resulten bellas.
+
+460
+00:41:13,750 --> 00:41:15,416
+Hasta la próxima, entonces.
+
+461
+00:41:15,500 --> 00:41:16,583
+Soldado.
+
+462
+00:41:27,291 --> 00:41:28,916
+¿Algo que informar?
+
+463
+00:41:30,208 --> 00:41:31,875
+Nada fuera de lo común.
+
+464
+00:41:34,458 --> 00:41:35,666
+Y el pozo...
+
+465
+00:41:37,083 --> 00:41:38,333
+¿Cómo estuvo?
+
+466
+00:41:39,875 --> 00:41:41,291
+¿Sacaste algo de agua?
+
+467
+00:41:42,208 --> 00:41:43,958
+Nos esperan en Ostirith.
+
+468
+00:41:46,083 --> 00:41:48,916
+¿Pensaste en las consecuencias
+que enfrentaría yo
+
+469
+00:41:49,000 --> 00:41:51,916
+si el guardián descubriera
+lo que estás haciendo?
+
+470
+00:41:52,000 --> 00:41:53,666
+Me temo que no te entiendo.
+
+471
+00:41:53,750 --> 00:41:55,250
+Es difícil vigilarlos
+
+472
+00:41:55,250 --> 00:41:57,416
+sin perderte de vista.
+
+473
+00:41:57,500 --> 00:41:58,750
+¿O crees que soy ciego?
+
+474
+00:41:58,750 --> 00:42:02,000
+No. Creo que hablas demasiado.
+
+475
+00:42:02,708 --> 00:42:04,625
+Y que hueles a hojas podridas.
+
+476
+00:42:04,625 --> 00:42:06,208
+No es cierto.
+
+477
+00:42:06,208 --> 00:42:07,458
+Sí, es cierto.
+
+478
+00:42:15,291 --> 00:42:18,291
+Lo que quiero decir
+es que solo dos veces en la historia
+
+479
+00:42:18,375 --> 00:42:21,500
+se ha intentado la unión
+entre elfos y humanos.
+
+480
+00:42:21,500 --> 00:42:24,083
+Y en cada ocasión, terminó en tragedia.
+
+481
+00:42:24,083 --> 00:42:25,250
+Terminó en muerte.
+
+482
+00:42:25,250 --> 00:42:27,250
+No hace falta que me lo recuerdes.
+
+483
+00:42:28,833 --> 00:42:30,416
+¿Y por qué insistes?
+
+484
+00:42:31,208 --> 00:42:32,916
+Dame una razón. Una.
+
+485
+00:42:33,000 --> 00:42:34,833
+¡Arondir! ¡Médhor!
+
+486
+00:42:36,291 --> 00:42:39,208
+El alto rey ha declarado
+el fin de la guerra.
+
+487
+00:42:40,666 --> 00:42:43,083
+Están disolviendo los puestos lejanos.
+
+488
+00:42:44,541 --> 00:42:45,625
+Nos vamos.
+
+489
+00:43:12,791 --> 00:43:14,375
+¿Echas un último vistazo?
+
+490
+00:43:16,500 --> 00:43:19,000
+Hace 79 años que estoy apostado aquí.
+
+491
+00:43:21,125 --> 00:43:23,791
+Supongo que me he acostumbrado.
+
+492
+00:43:25,458 --> 00:43:29,000
+¿Puedes creer que alguna vez fue
+un pedazo de roca estéril?
+
+493
+00:43:29,000 --> 00:43:31,083
+Ha cambiado mucho, guardián.
+
+494
+00:43:31,958 --> 00:43:34,041
+Pero los hombres que viven aquí no.
+
+495
+00:43:34,541 --> 00:43:38,541
+La sangre de los que apoyaron a Morgoth
+aún oscurece sus venas.
+
+496
+00:43:40,958 --> 00:43:42,833
+Eso fue hace mucho, guardián.
+
+497
+00:43:47,833 --> 00:43:49,541
+¿Qué eras antes de la guerra?
+
+498
+00:43:50,458 --> 00:43:51,583
+Un cultivador.
+
+499
+00:43:51,583 --> 00:43:55,333
+Entonces regresarás a casa
+con mucho más que cuando te fuiste.
+
+500
+00:43:55,333 --> 00:43:58,208
+Honores, título.
+
+501
+00:43:59,500 --> 00:44:01,166
+Tu vida comenzará de nuevo.
+
+502
+00:44:02,166 --> 00:44:04,208
+Pero recuerda esto, Arondir.
+
+503
+00:44:04,833 --> 00:44:08,416
+Durante 79 años has vigilado
+a los hombres y mujeres de Tir Harad,
+
+504
+00:44:08,500 --> 00:44:11,416
+no por lo que hicieron
+sus antepasados una vez,
+
+505
+00:44:12,875 --> 00:44:14,875
+sino por lo que aún son.
+
+506
+00:44:20,416 --> 00:44:21,625
+Y agradece.
+
+507
+00:44:23,166 --> 00:44:25,333
+Que no debes volver a verlos jamás.
+
+508
+00:45:03,958 --> 00:45:07,166
+Cuidado. Es polvo de raíz de fuego.
+Debes hacerlo lento.
+
+509
+00:45:07,250 --> 00:45:09,333
+Así estaré aquí todo el día.
+
+510
+00:45:09,333 --> 00:45:11,291
+Estás irritable esta mañana.
+
+511
+00:45:11,375 --> 00:45:14,000
+Apenas dormí.
+Los ratones hacían un escándalo
+
+512
+00:45:14,000 --> 00:45:16,125
+- bajo el suelo.
+-¿Otra vez?
+
+513
+00:45:16,125 --> 00:45:18,916
+Las últimas tres noches. Rascan y arañan.
+
+514
+00:45:22,416 --> 00:45:24,250
+¿Qué hace uno de ellos aquí?
+
+515
+00:45:35,250 --> 00:45:36,750
+Oí que ya se iban.
+
+516
+00:45:37,791 --> 00:45:38,958
+Así es.
+
+517
+00:45:41,166 --> 00:45:43,166
+¿Y el resto de tu compañía?
+
+518
+00:45:44,458 --> 00:45:48,000
+Probablemente buscándome
+en este mismo instante.
+
+519
+00:45:48,708 --> 00:45:50,375
+¿Y por qué estás en mi casa?
+
+520
+00:46:03,750 --> 00:46:05,583
+Di lo que quieras decir.
+
+521
+00:46:05,583 --> 00:46:07,166
+Ya lo he dicho.
+
+522
+00:46:08,041 --> 00:46:11,583
+Cien veces, de todas las formas,
+menos con palabras.
+
+523
+00:46:13,583 --> 00:46:14,708
+Madre.
+
+524
+00:46:16,250 --> 00:46:17,916
+Un hombre quiere verte.
+
+525
+00:46:26,875 --> 00:46:27,958
+Mamá.
+
+526
+00:46:31,291 --> 00:46:33,125
+¿También curas animales?
+
+527
+00:46:35,583 --> 00:46:37,583
+Si pudieras echarle un vistazo.
+
+528
+00:46:38,500 --> 00:46:41,541
+Tiene algún tipo de enfermedad.
+
+529
+00:46:42,291 --> 00:46:43,708
+¿Qué clase de enfermedad?
+
+530
+00:46:51,041 --> 00:46:52,541
+No es fiebre.
+
+531
+00:46:54,541 --> 00:46:57,166
+Y no parece tener llagas.
+
+532
+00:46:58,375 --> 00:47:00,000
+¿Dónde ha estado pastando?
+
+533
+00:47:00,000 --> 00:47:01,833
+Se fue al este hace unos días.
+
+534
+00:47:03,125 --> 00:47:04,416
+¿Crees que comió algo?
+
+535
+00:47:09,208 --> 00:47:12,041
+¿Qué fue eso que le salió de adentro?
+
+536
+00:47:13,333 --> 00:47:14,916
+¿Qué tan lejos al este?
+
+537
+00:47:15,000 --> 00:47:17,375
+Podría haber llegado hasta Hordern.
+
+538
+00:47:24,625 --> 00:47:25,833
+¿Adónde vas?
+
+539
+00:47:25,833 --> 00:47:29,166
+Hordern está a un día de viaje.
+Puedo llegar al anochecer.
+
+540
+00:47:29,250 --> 00:47:30,583
+Voy contigo.
+
+541
+00:47:43,083 --> 00:47:44,833
+Apúrate.
+
+542
+00:47:44,833 --> 00:47:47,666
+Si nos encuentra aquí,
+nos romperá la cara.
+
+543
+00:47:50,875 --> 00:47:53,000
+Lo descubrí por error.
+
+544
+00:47:53,000 --> 00:47:54,375
+Pisé una tabla floja.
+
+545
+00:47:56,916 --> 00:47:58,083
+Entonces, dime,
+
+546
+00:47:59,083 --> 00:48:01,625
+¿es verdad? ¿Lo de tu mamá?
+
+547
+00:48:02,583 --> 00:48:04,000
+¿Qué cosa?
+
+548
+00:48:04,708 --> 00:48:08,500
+Oí que Waldreg los vio
+a ella y a uno de los puntiagudos
+
+549
+00:48:08,625 --> 00:48:11,125
+muy cariñosos junto a su pozo el otro día.
+
+550
+00:48:11,125 --> 00:48:12,333
+¿Quién te dijo eso?
+
+551
+00:48:12,333 --> 00:48:13,666
+Todos.
+
+552
+00:48:14,125 --> 00:48:15,291
+Es mentira.
+
+553
+00:48:15,833 --> 00:48:18,375
+Tal vez por eso se fue tu padre.
+
+554
+00:48:18,375 --> 00:48:19,791
+Mi padre no se fue.
+
+555
+00:48:19,875 --> 00:48:21,708
+Entonces, ¿qué le pasó?
+
+556
+00:48:21,708 --> 00:48:23,458
+Ni siquiera lo sabes, ¿o sí?
+
+557
+00:48:27,000 --> 00:48:29,833
+El desgraciado
+tiene una fortuna ahí abajo.
+
+558
+00:48:31,416 --> 00:48:32,916
+Este es el verdadero botín.
+
+559
+00:48:53,125 --> 00:48:54,125
+¡Cuidado!
+
+560
+00:48:56,625 --> 00:48:57,708
+Anda, rápido.
+
+561
+00:49:36,541 --> 00:49:38,541
+Ya no logro verla.
+
+562
+00:49:39,750 --> 00:49:42,833
+Galadriel estaba segura
+de que debía seguir buscando.
+
+563
+00:49:44,083 --> 00:49:47,083
+Previmos que si lo hubiera hecho,
+
+564
+00:49:47,083 --> 00:49:52,541
+podría haber mantenido vivo el mismo mal
+que buscaba derrotar sin darse cuenta.
+
+565
+00:49:54,583 --> 00:49:57,666
+Ya que el mismo viento
+que busca apagar un fuego
+
+566
+00:49:57,750 --> 00:50:00,166
+también puede causar que se propague.
+
+567
+00:50:02,000 --> 00:50:03,750
+Entonces, la sombra que buscaba...
+
+568
+00:50:06,583 --> 00:50:08,166
+¿Cree que existe?
+
+569
+00:50:08,791 --> 00:50:11,416
+Puedes estar tranquilo con eso.
+
+570
+00:50:12,750 --> 00:50:14,958
+Hiciste lo correcto.
+
+571
+00:50:14,958 --> 00:50:18,333
+Para Galadriel y para Tierra Media.
+
+572
+00:50:20,291 --> 00:50:22,291
+Es difícil ver qué es correcto...
+
+573
+00:50:24,208 --> 00:50:26,416
+Al mezclar la amistad y el deber.
+
+574
+00:50:28,416 --> 00:50:31,083
+Esa es la carga de los que lideran
+
+575
+00:50:32,000 --> 00:50:34,208
+y los que buscan hacerlo.
+
+576
+00:50:35,958 --> 00:50:38,250
+Galadriel navega hacia el atardecer.
+
+577
+00:50:38,250 --> 00:50:43,166
+Tú y yo debemos mirar
+hacia el nuevo amanecer.
+
+578
+00:50:45,291 --> 00:50:46,458
+En ese sentido,
+
+579
+00:50:48,041 --> 00:50:51,625
+¿conoces el trabajo de lord Celebrimbor?
+
+580
+00:50:52,666 --> 00:50:55,083
+El mejor herrero élfico, por supuesto.
+
+581
+00:50:55,500 --> 00:50:59,166
+Admiro su arte desde que era niño.
+¿Por qué lo pregunta?
+
+582
+00:50:59,250 --> 00:51:04,000
+Va a embarcarse en un nuevo proyecto.
+Uno de singular importancia.
+
+583
+00:51:05,083 --> 00:51:08,208
+Y hemos decidido que trabajarás con él.
+
+584
+00:51:11,166 --> 00:51:14,666
+Pero lo dejaré explicar los detalles,
+lord Celebrimbor.
+
+585
+00:51:30,250 --> 00:51:33,291
+Primero la gente grande,
+ahora las estrellas.
+
+586
+00:51:35,000 --> 00:51:37,333
+Ojos abiertos
+cuando deberían estar durmiendo.
+
+587
+00:51:41,291 --> 00:51:42,583
+Casi como...
+
+588
+00:51:44,208 --> 00:51:46,375
+Como si estuvieran buscando algo.
+
+589
+00:51:46,875 --> 00:51:47,958
+¿Buscando qué?
+
+590
+00:51:48,875 --> 00:51:51,833
+Una reprimenda,
+si no te concentras en lo tuyo.
+
+591
+00:51:51,833 --> 00:51:53,750
+¿Qué es? ¿Qué ve allá arriba?
+
+592
+00:51:53,750 --> 00:51:56,041
+Elanor Brandipie,
+con la nariz de tu padre,
+
+593
+00:51:56,125 --> 00:51:57,958
+y siempre metida en problemas.
+
+594
+00:51:57,958 --> 00:52:02,250
+Eres demasiado curiosa y entrometida
+para haber nacido pelosa.
+
+595
+00:52:02,250 --> 00:52:05,041
+¿Seguro que no eres mitad ardilla?
+
+596
+00:52:06,458 --> 00:52:09,208
+Sadoc. Sadoc, por favor.
+
+597
+00:52:10,000 --> 00:52:11,208
+Cuénteme.
+
+598
+00:52:13,958 --> 00:52:16,541
+El cielo está extraño.
+
+599
+00:52:19,000 --> 00:52:20,208
+Extraño...
+
+600
+00:52:20,208 --> 00:52:21,375
+¿En qué sentido?
+
+601
+00:52:21,375 --> 00:52:23,333
+¡Nori! ¿Tienes el aceite?
+
+602
+00:52:23,333 --> 00:52:24,666
+Ya voy.
+
+603
+00:52:33,416 --> 00:52:35,958
+¿Qué tan bien conoces
+a la gente de Hordern?
+
+604
+00:52:35,958 --> 00:52:38,875
+Muy bien, espero. Nací ahí.
+
+605
+00:52:40,875 --> 00:52:42,041
+¿Por qué?
+
+606
+00:52:42,125 --> 00:52:45,583
+La gente de Hordern era conocida
+por haber sido
+
+607
+00:52:45,583 --> 00:52:47,333
+especialmente leal a Morgoth.
+
+608
+00:52:48,458 --> 00:52:49,875
+¿Qué acabas de decir?
+
+609
+00:52:53,916 --> 00:52:55,166
+La verdad.
+
+610
+00:52:56,416 --> 00:52:58,416
+Estás hablando de mis amigos.
+
+611
+00:52:58,500 --> 00:53:01,083
+Parientes cercanos, los conozco.
+Hay gente buena.
+
+612
+00:53:05,250 --> 00:53:07,041
+Por eso estoy aquí contigo.
+
+613
+00:53:09,500 --> 00:53:11,125
+En vez de con el guardián.
+
+614
+00:53:12,166 --> 00:53:13,416
+Bronwyn.
+
+615
+00:53:20,125 --> 00:53:24,041
+Solo tú fuiste amable conmigo
+en todos mis días en esta tierra.
+
+616
+00:53:40,708 --> 00:53:41,958
+Hordern.
+
+617
+00:53:47,000 --> 00:53:48,083
+TIERRAS DEL SUR
+
+618
+00:53:51,083 --> 00:53:52,708
+TIERRA MEDIA
+
+619
+00:53:52,708 --> 00:53:54,791
+MAR CIRCUNDANTE
+
+620
+00:56:11,250 --> 00:56:16,916
+<i>¿Sabes por qué un barco flota
+pero una piedra no?</i>
+
+621
+00:56:51,958 --> 00:56:53,125
+Galadriel.
+
+622
+00:57:09,041 --> 00:57:10,458
+Dame la mano.
+
+623
+00:57:23,208 --> 00:57:26,208
+<i>Pero a veces la luz brilla
+con el mismo fulgor</i>
+
+624
+00:57:26,208 --> 00:57:28,958
+<i>en el reflejo del agua, como en el cielo.</i>
+
+625
+00:57:30,666 --> 00:57:33,083
+<i>¿Cómo sabré qué luz seguir?</i>
+
+626
+00:57:34,750 --> 00:57:36,750
+A veces no puedes saberlo
+
+627
+00:57:38,500 --> 00:57:40,500
+hasta tocar la oscuridad.
+
+628
+00:57:52,125 --> 00:57:53,208
+¡Galadriel!
+
+629
+01:02:39,666 --> 01:02:41,666
+Subtítulos: Martina Solari
+
+630
+01:02:41,750 --> 01:02:43,750
+Supervisión creativa
+Rebeca Rambal
+
