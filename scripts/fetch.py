@@ -27,6 +27,11 @@ import zipfile
 API = "https://api.subdl.com/api/v1/subtitles"
 # Búsqueda en TMDB (en español) del panel de HourTV: las series del catálogo
 # no traen tmdb_id y su nombre está en español.
+# Catálogo principal de la app (el mismo JSON que descarga): trae tmdbId.
+CATALOG_JSON = os.environ.get(
+    "CATALOG_JSON_URL",
+    "https://raw.githubusercontent.com/KlenchoxD/hourtv-adming/master/catalog.json",
+)
 TMDB_SEARCH = os.environ.get("TMDB_SEARCH_URL", "https://hourtv-adming.vercel.app/api/tmdb")
 DL = "https://dl.subdl.com"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -206,8 +211,21 @@ def main():
     seasons = catalog("seasons", "id,title_id,season_number")
     episodes = catalog("episodes", "season_id,episode_number")
     by_id = {t["id"]: t for t in titles}
+    app = json.loads(get(CATALOG_JSON))
 
-    jobs = [("movie", t, None) for t in titles if t["media_type"] == "movie" and t.get("tmdb_id")]
+    # Series primero: son pocas y valen por muchos episodios.
+    jobs = []
+    # catalog.json: por tmdb -> tv/<tmdb>/...
+    for serie in app.get("series") or []:
+        tmdb = serie.get("tmdbId")
+        if not tmdb:
+            continue
+        for i, season in enumerate(serie.get("seasons") or []):
+            number = int(season.get("number") or i + 1)
+            eps = sorted({int(e.get("number") or j + 1) for j, e in enumerate(season.get("episodes") or [])})
+            if eps:
+                jobs.append(("tv", {"id": str(tmdb), "tmdb_id": tmdb, "title": serie.get("title", "")}, (number, eps, 0)))
+    # Supabase (casi sin tmdb_id): por id del catálogo -> tv/<uuid>/...
     per_title = {}
     for s in seasons:
         per_title[s["title_id"]] = per_title.get(s["title_id"], 0) + 1
@@ -217,6 +235,12 @@ def main():
             eps = sorted({e["episode_number"] for e in episodes if e["season_id"] == s["id"]})
             if eps:
                 jobs.append(("tv", t, (s["season_number"], eps, per_title[s["title_id"]])))
+    movie_ids = {t["tmdb_id"] for t in titles if t["media_type"] == "movie" and t.get("tmdb_id")}
+    movie_ids |= {
+        m["tmdbId"] for m in app.get("movies") or []
+        if m.get("tmdbId") and m.get("tmdbType", "movie") == "movie"
+    }
+    jobs += [("movie", {"tmdb_id": i, "title": str(i)}, None) for i in sorted(movie_ids)]
 
     found = 0
     for kind, t, season in jobs:
