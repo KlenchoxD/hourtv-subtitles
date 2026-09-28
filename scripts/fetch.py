@@ -4,7 +4,10 @@ Lee el catálogo publicado (Supabase, clave anónima), busca cada película y
 temporada en SubDL por tmdb_id y guarda:
 
   movie/<tmdb>.es.srt
-  tv/<tmdb>/S01E02.es.srt
+  tv/<id del título en el catálogo>/S01E02.es.srt
+
+Las series se guardan por id del catálogo: muchas no tienen tmdb_id y cada
+temporada suele ser un título aparte ("Loki - Temporada 2 (2023)").
 
 La app los lee directo de raw.githubusercontent.com. Solo usa la biblioteca
 estándar de Python. Variables: SUBDL_API_KEY, SUPABASE_URL, SUPABASE_ANON_KEY.
@@ -22,6 +25,9 @@ import urllib.request
 import zipfile
 
 API = "https://api.subdl.com/api/v1/subtitles"
+# Búsqueda en TMDB (en español) del panel de HourTV: las series del catálogo
+# no traen tmdb_id y su nombre está en español.
+TMDB_SEARCH = os.environ.get("TMDB_SEARCH_URL", "https://hourtv-adming.vercel.app/api/tmdb")
 DL = "https://dl.subdl.com"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE = os.path.join(ROOT, "state.json")
@@ -117,10 +123,46 @@ def fetch_movie(tmdb):
     return False
 
 
-def fetch_season(tmdb, season, wanted):
+SEASON_IN_NAME = re.compile(r"\s*[-–:]?\s*temporada\s*(\d+).*$", re.I)
+
+
+def series_query(title, db_season, seasons_in_title):
+    """(parámetros de búsqueda en SubDL, temporada real) de una temporada."""
+    name = title["title"].split("|")[0].strip()
+    m = SEASON_IN_NAME.search(name)
+    real = db_season
+    if m:
+        name = name[: m.start()].strip()
+        # "Loki - Temporada 2" con una sola temporada cargada: es la 2.
+        if seasons_in_title == 1:
+            real = int(m.group(1))
+    year = re.search(r"\((\d{4})\)", title["title"])
+    name = re.sub(r"\s*\(\d{4}\)\s*$", "", name).strip()
+    tmdb = title.get("tmdb_id") or tmdb_tv_id(name, int(year.group(1)) if year else None)
+    return ({"tmdb_id": tmdb} if tmdb else None), real
+
+
+def norm(text):
+    return re.sub(r"[^a-z0-9]", "", text.lower())
+
+
+def tmdb_tv_id(name, year):
+    """TMDB id de la serie [name]. [year] es el de la temporada: se elige la
+    serie más reciente que ya existía ese año (Avatar 2024, no la de 2005)."""
+    data = json.loads(get(f"{TMDB_SEARCH}?action=search&q={urllib.parse.quote(name)}"))
+    shows = [r for r in data.get("results", []) if r.get("tmdbType") == "tv"]
+    exact = [r for r in shows if norm(name) in (norm(r["title"]), norm(r["originalTitle"]))]
+    candidates = exact or shows[:1]
+    if year:
+        before = [r for r in candidates if r.get("year") and r["year"] <= year]
+        candidates = sorted(before, key=lambda r: r["year"], reverse=True) or candidates
+    return candidates[0]["tmdbId"] if candidates else None
+
+
+def fetch_season(query, season, wanted, out_dir, db_season):
     """Guarda los episodios [wanted] de una temporada; devuelve los que faltan."""
     missing = set(wanted)
-    for sub in ranked(search(tmdb_id=tmdb, type="tv", season_number=season)):
+    for sub in ranked(search(type="tv", season_number=season, **query)):
         if not missing:
             break
         if sub.get("season") not in (None, season):
@@ -143,7 +185,7 @@ def fetch_season(tmdb, season, wanted):
             else:
                 continue
             if s == season and ep in missing:
-                write(f"tv/{tmdb}/S{season:02d}E{ep:02d}.es.srt", text)
+                write(f"{out_dir}/S{db_season:02d}E{ep:02d}.es.srt", text)
                 missing.discard(ep)
     return missing
 
@@ -163,22 +205,25 @@ def main():
     titles = catalog("titles", "id,tmdb_id,media_type,title")
     seasons = catalog("seasons", "id,title_id,season_number")
     episodes = catalog("episodes", "season_id,episode_number")
-    by_id = {t["id"]: t for t in titles if t.get("tmdb_id")}
+    by_id = {t["id"]: t for t in titles}
 
-    jobs = [("movie", t, None) for t in by_id.values() if t["media_type"] == "movie"]
+    jobs = [("movie", t, None) for t in titles if t["media_type"] == "movie" and t.get("tmdb_id")]
+    per_title = {}
+    for s in seasons:
+        per_title[s["title_id"]] = per_title.get(s["title_id"], 0) + 1
     for s in seasons:
         t = by_id.get(s["title_id"])
         if t and t["media_type"] == "series":
             eps = sorted({e["episode_number"] for e in episodes if e["season_id"] == s["id"]})
             if eps:
-                jobs.append(("tv", t, (s["season_number"], eps)))
+                jobs.append(("tv", t, (s["season_number"], eps, per_title[s["title_id"]])))
 
     found = 0
     for kind, t, season in jobs:
         if searches >= MAX_SEARCHES:
             print("límite diario alcanzado; sigue mañana")
             break
-        tmdb = t["tmdb_id"]
+        tmdb = t.get("tmdb_id")
         try:
             if kind == "movie":
                 key = f"movie/{tmdb}"
@@ -186,15 +231,17 @@ def main():
                     continue
                 ok = fetch_movie(tmdb)
             else:
-                number, eps = season
-                key = f"tv/{tmdb}/S{number:02d}"
-                eps = [e for e in eps if not os.path.exists(os.path.join(ROOT, f"tv/{tmdb}/S{number:02d}E{e:02d}.es.srt"))]
+                number, eps, count = season
+                out_dir = f"tv/{t['id']}"
+                key = f"{out_dir}/S{number:02d}"
+                eps = [e for e in eps if not os.path.exists(os.path.join(ROOT, f"{out_dir}/S{number:02d}E{e:02d}.es.srt"))]
                 entry = state.get(key)
                 # Una temporada completa vuelve a buscarse si el catálogo sumó
                 # episodios; una incompleta, cada RETRY_DAYS.
                 if not eps or (entry and not entry["ok"] and not due(key)):
                     continue
-                ok = not fetch_season(tmdb, number, eps)
+                query, real = series_query(t, number, count)
+                ok = bool(query) and not fetch_season(query, real, eps, out_dir, number)
         except Exception as e:  # la API falló con este título: se reintenta otro día
             print(f"{t['title']}: error {e}")
             continue

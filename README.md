@@ -5,7 +5,8 @@ Subtítulos en español para el catálogo de HourTV. Una tarea diaria
 TMDB id y guarda:
 
 - `movie/<tmdb>.es.srt`
-- `tv/<tmdb>/S01E02.es.srt`
+- `tv/<id de la serie en el catálogo>/S01E02.es.srt` (las series del catálogo
+  casi no traen tmdb_id; el TMDB real se busca por nombre con el panel)
 
 La app los lee de `raw.githubusercontent.com`. `state.json` recuerda qué ya se
 buscó; lo que no se encontró se reintenta a la semana.
