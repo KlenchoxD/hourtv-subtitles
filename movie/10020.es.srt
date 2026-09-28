@@ -1,0 +1,4742 @@
+1
+00:01:17,840 --> 00:01:21,120
+<i>Había una vez, en un lugar lejano,</i>
+
+2
+00:01:21,200 --> 00:01:23,960
+<i>un joven príncipe</i>
+<i>que vivía en un castillo reluciente.</i>
+
+3
+00:01:25,120 --> 00:01:28,240
+<i>Aunque tenía todo lo que deseaba,</i>
+
+4
+00:01:28,320 --> 00:01:32,760
+<i>el príncipe era malcriado,</i>
+<i>egoísta y desconsiderado.</i>
+
+5
+00:01:34,080 --> 00:01:36,240
+<i>Pero una noche de invierno,</i>
+
+6
+00:01:36,360 --> 00:01:39,000
+<i>una vieja mendiga fue al castillo</i>
+
+7
+00:01:39,080 --> 00:01:41,920
+<i>y le ofreció una rosa</i>
+
+8
+00:01:42,000 --> 00:01:45,440
+<i>a cambio de refugio del frío.</i>
+
+9
+00:01:45,520 --> 00:01:48,120
+<i>Repelido por su horrible apariencia,</i>
+
+10
+00:01:48,200 --> 00:01:52,920
+<i>el príncipe despreció el regalo</i>
+<i>y echó a la vieja.</i>
+
+11
+00:01:53,000 --> 00:01:56,480
+<i>Pero ella le advirtió no dejarse</i>
+<i>engañar por las apariencias,</i>
+
+12
+00:01:56,560 --> 00:01:59,680
+<i>porque la belleza está en el interior.</i>
+
+13
+00:01:59,760 --> 00:02:04,560
+<i>Y cuando él volvió a echarla,</i>
+<i>la fealdad de la vieja de desvaneció,</i>
+
+14
+00:02:04,640 --> 00:02:08,560
+<i>y se convirtió</i>
+<i>en una hermosa hechicera.</i>
+
+15
+00:02:08,640 --> 00:02:11,800
+<i>El príncipe intentó disculparse,</i>
+<i>pero era demasiado tarde,</i>
+
+16
+00:02:11,880 --> 00:02:15,480
+<i>ella ya había visto</i>
+<i>que no había amor en su corazón.</i>
+
+17
+00:02:15,560 --> 00:02:16,600
+<i>Como castigo,</i>
+
+18
+00:02:16,680 --> 00:02:19,320
+<i>lo transformó en una horrible bestia</i>
+
+19
+00:02:19,400 --> 00:02:24,080
+<i>y conjuró un hechizo poderoso sobre</i>
+<i>el castillo y todos sus habitantes.</i>
+
+20
+00:02:25,280 --> 00:02:27,640
+<i>Avergonzado de su monstruosidad,</i>
+
+21
+00:02:27,720 --> 00:02:30,560
+<i>la Bestia se escondió</i>
+<i>dentro del castillo</i>
+
+22
+00:02:30,640 --> 00:02:34,800
+<i>con un espejo mágico</i>
+<i>como única ventana al mundo exterior.</i>
+
+23
+00:02:36,200 --> 00:02:38,720
+<i>La rosa que ella le había ofrecido</i>
+
+24
+00:02:38,800 --> 00:02:41,240
+<i>era una rosa encantada,</i>
+
+25
+00:02:41,320 --> 00:02:44,920
+<i>que permanecería en flor</i>
+<i>hasta que él cumpliera 21 años.</i>
+
+26
+00:02:45,000 --> 00:02:47,680
+<i>Si él aprendía a amar a alguien</i>
+
+27
+00:02:47,760 --> 00:02:52,400
+<i>y ganarse su amor a cambio</i>
+<i>antes de caer el último pétalo,</i>
+
+28
+00:02:53,120 --> 00:02:55,440
+<i>se rompería el hechizo.</i>
+
+29
+00:02:56,240 --> 00:02:58,960
+<i>Si no, quedaría condenado</i>
+
+30
+00:02:59,040 --> 00:03:01,920
+<i>a ser una bestia para siempre.</i>
+
+31
+00:03:03,600 --> 00:03:05,680
+<i>Con el correr de los años,</i>
+
+32
+00:03:05,760 --> 00:03:10,160
+<i>perdió toda esperanza,</i>
+
+33
+00:03:11,360 --> 00:03:15,440
+<i>pues ¿quién podría</i>
+<i>amar a una bestia?</i>
+
+34
+00:03:17,880 --> 00:03:22,440
+LA BELLA Y LA BESTIA
+
+35
+00:03:42,120 --> 00:03:46,320
+<i>Qué lugar</i>
+<i>Simple y aburrido</i>
+
+36
+00:03:47,120 --> 00:03:51,440
+<i>Siempre es como el día anterior</i>
+
+37
+00:03:52,080 --> 00:03:56,520
+<i>Qué lugar</i>
+<i>Sólo gente simple</i>
+
+38
+00:03:56,600 --> 00:04:01,760
+<i>Que despierta así</i>
+
+39
+00:04:05,960 --> 00:04:09,800
+<i>Ahí viene el panadero como siempre</i>
+
+40
+00:04:09,880 --> 00:04:13,000
+<i>Su mismo pan viene a vender</i>
+
+41
+00:04:13,080 --> 00:04:14,840
+<i>Las mañanas siempre igual</i>
+
+42
+00:04:14,920 --> 00:04:16,800
+<i>Desde el día en que llegué</i>
+
+43
+00:04:16,880 --> 00:04:18,560
+<i>A este rústico lugar</i>
+
+44
+00:04:18,640 --> 00:04:20,440
+-Buenos días, Bella.
+-Buenos días<i>, monsieu</i>r.
+
+45
+00:04:20,520 --> 00:04:22,240
+-¿Adónde vas?
+-A la librería.
+
+46
+00:04:22,320 --> 00:04:24,600
+Acabo de terminar
+una historia maravillosa
+
+47
+00:04:24,680 --> 00:04:27,280
+-sobre unas habichuelas, un ogro y...
+-Qué lindo.
+
+48
+00:04:27,360 --> 00:04:30,520
+Marie, ¡la<i>s baguette</i>s! ¡Deprisa!
+
+49
+00:04:30,600 --> 00:04:34,240
+<i>Mirad</i>
+<i>Ahí va esa chica tan extraña</i>
+
+50
+00:04:34,320 --> 00:04:37,560
+<i>Es distraída como ves</i>
+
+51
+00:04:37,640 --> 00:04:39,520
+<i>No es de nuestra sociedad</i>
+
+52
+00:04:39,600 --> 00:04:41,440
+<i>En las nubes siempre está</i>
+
+53
+00:04:41,520 --> 00:04:45,600
+<i>No hay duda que una chica rara es</i>
+
+54
+00:04:45,680 --> 00:04:47,440
+-Bonjour
+<i>-Buen día</i>
+
+55
+00:04:47,520 --> 00:04:49,440
+<i>¿Cómo están todos?</i>
+
+56
+00:04:49,520 --> 00:04:51,400
+-Bonjour
+<i>-Buen día</i>
+
+57
+00:04:51,520 --> 00:04:53,200
+<i>¿Y su mujer?</i>
+
+58
+00:04:53,280 --> 00:04:55,120
+<i>Me da seis más</i>
+
+59
+00:04:55,200 --> 00:04:56,560
+<i>Está muy caro</i>
+
+60
+00:04:56,640 --> 00:05:00,760
+<i>Yo quiero más que vida provincial</i>
+
+61
+00:05:02,040 --> 00:05:03,280
+-Bella.
+-Buenos días.
+
+62
+00:05:03,400 --> 00:05:05,120
+Vine a devolver el libro.
+
+63
+00:05:05,200 --> 00:05:06,280
+¿Ya lo terminaste?
+
+64
+00:05:06,360 --> 00:05:09,240
+No podía dejar de leer.
+¿Tiene algo nuevo?
+
+65
+00:05:09,320 --> 00:05:10,800
+Nada desde ayer.
+
+66
+00:05:10,880 --> 00:05:14,280
+Está bien. Me llevaré éste.
+
+67
+00:05:14,360 --> 00:05:16,720
+¿Ése? Pero ya lo leíste dos veces.
+
+68
+00:05:16,800 --> 00:05:18,200
+Es mi preferido.
+
+69
+00:05:18,280 --> 00:05:22,600
+Lugares lejanos, luchas con espadas,
+hechizos mágicos, un príncipe oculto.
+
+70
+00:05:22,680 --> 00:05:25,440
+Si te gusta tanto, te lo regalo.
+
+71
+00:05:25,520 --> 00:05:27,320
+-Pero, señor...
+-Insisto.
+
+72
+00:05:27,400 --> 00:05:30,520
+Muchas gracias.
+
+73
+00:05:30,640 --> 00:05:34,200
+<i>Mirad</i>
+<i>Ahí va esa chica tan distinta</i>
+
+74
+00:05:34,280 --> 00:05:37,520
+<i>Quién sabe cuál es su interés</i>
+
+75
+00:05:37,600 --> 00:05:39,360
+<i>Entre sueños vivirá</i>
+
+76
+00:05:39,480 --> 00:05:41,280
+<i>Con sus libros siempre está</i>
+
+77
+00:05:41,360 --> 00:05:45,080
+<i>Un misterio para todos Bella es</i>
+
+78
+00:05:47,600 --> 00:05:51,400
+<i>Oigan</i>
+
+79
+00:05:51,480 --> 00:05:53,840
+<i>Mi favorita</i>
+
+80
+00:05:53,920 --> 00:06:00,440
+<i>Cuando ella</i>
+
+81
+00:06:00,520 --> 00:06:06,840
+<i>Encuentra amor al fin</i>
+<i>En un gallardo príncipe</i>
+
+82
+00:06:06,920 --> 00:06:11,000
+<i>Y ella lo descubre</i>
+
+83
+00:06:11,080 --> 00:06:14,320
+<i>Hasta que llega el final</i>
+
+84
+00:06:14,400 --> 00:06:16,160
+¡Oigan!
+
+85
+00:06:16,240 --> 00:06:19,880
+<i>Es tan hermosa como indica el nombre</i>
+
+86
+00:06:19,960 --> 00:06:23,160
+<i>De la cabeza hasta los pies</i>
+
+87
+00:06:23,240 --> 00:06:24,880
+<i>Sólo ven su linda faz</i>
+
+88
+00:06:24,960 --> 00:06:26,920
+<i>Mas me temo que detrás</i>
+
+89
+00:06:27,000 --> 00:06:28,880
+<i>Diferente de nosotros es</i>
+
+90
+00:06:28,960 --> 00:06:30,640
+<i>No es como todos los demás</i>
+
+91
+00:06:30,720 --> 00:06:34,600
+<i>Muy diferente de nosotros es</i>
+
+92
+00:06:40,400 --> 00:06:42,400
+Acertaste todos los tiros, Gastón.
+
+93
+00:06:42,480 --> 00:06:44,400
+¡Eres el mejor cazador del mundo!
+
+94
+00:06:44,480 --> 00:06:46,080
+-Lo sé.
+-Ninguna bestia
+
+95
+00:06:46,160 --> 00:06:48,000
+queda viva a tu lado.
+
+96
+00:06:48,080 --> 00:06:50,920
+-Ni ninguna chica.
+-Es verdad, Lefou.
+
+97
+00:06:51,000 --> 00:06:53,600
+Y tengo la mirada puesta en aquélla.
+
+98
+00:06:53,680 --> 00:06:55,800
+-¿La hija del inventor?
+-Ella misma.
+
+99
+00:06:55,880 --> 00:06:58,240
+-La afortunada con quien me casaré.
+-Pero ella es...
+
+100
+00:06:58,320 --> 00:07:00,320
+-La chica más bella de la ciudad.
+-Lo sé, pero...
+
+101
+00:07:00,400 --> 00:07:02,560
+Eso la hace la mejor.
+
+102
+00:07:02,640 --> 00:07:06,760
+-¿Acaso no merezco lo mejor?
+-Claro que sí.
+
+103
+00:07:06,840 --> 00:07:10,680
+<i>Desde el momento en que la vi</i>
+<i>Tan linda</i>
+
+104
+00:07:10,760 --> 00:07:14,040
+<i>Me dije, a ésta atraparé</i>
+
+105
+00:07:14,160 --> 00:07:16,080
+<i>Tal belleza no hay aquí</i>
+
+106
+00:07:16,200 --> 00:07:18,000
+<i>Tiene igual sólo en mí</i>
+
+107
+00:07:18,080 --> 00:07:22,240
+<i>Así pues con Bella</i>
+<i>Yo me casaré</i>
+
+108
+00:07:22,320 --> 00:07:24,120
+<i>Allá va él</i>
+
+109
+00:07:24,200 --> 00:07:25,960
+<i>Es como un sueño</i>
+
+110
+00:07:26,040 --> 00:07:27,720
+Monsieu<i>r Gast</i>ón
+
+111
+00:07:27,840 --> 00:07:29,520
+<i>Qué guapetón</i>
+
+112
+00:07:29,600 --> 00:07:31,320
+<i>Pensar en él</i>
+
+113
+00:07:31,400 --> 00:07:32,800
+<i>Me da desmayo</i>
+
+114
+00:07:32,880 --> 00:07:37,120
+<i>Él es tan bravo y fuerte como un león</i>
+
+115
+00:07:37,200 --> 00:07:38,800
+-Bonjour
+<i>-¿Qué tal?</i>
+
+116
+00:07:38,880 --> 00:07:40,720
+<i>-Que más tocino</i>
+<i>-Qué hermosa vid</i>
+
+117
+00:07:40,800 --> 00:07:41,960
+<i>-Voy a comprar</i>
+<i>-Diez más</i>
+
+118
+00:07:42,040 --> 00:07:43,360
+<i>-Perdón</i>
+<i>-Lo contaré</i>
+
+119
+00:07:43,440 --> 00:07:45,360
+<i>-Dejen pasar</i>
+<i>-El pan, señor</i>
+
+120
+00:07:45,440 --> 00:07:47,640
+<i>-A pez</i>
+<i>-Están muy buenos</i>
+
+121
+00:07:47,720 --> 00:07:51,320
+<i>Yo quiero más que vida provincial</i>
+
+122
+00:07:51,400 --> 00:07:55,600
+<i>Ya pronto voy a hacerla mi mujer</i>
+
+123
+00:07:55,680 --> 00:07:59,160
+<i>Mirad</i>
+<i>Ahí va esa chica tan extraña</i>
+
+124
+00:07:59,240 --> 00:08:02,360
+<i>Una precio</i>sa mademoiselle
+
+125
+00:08:02,440 --> 00:08:04,160
+<i>Es penoso sin dudar</i>
+
+126
+00:08:04,240 --> 00:08:05,960
+<i>Que no encuentre su lugar</i>
+
+127
+00:08:06,040 --> 00:08:08,000
+<i>Ya que una chica rara es</i>
+
+128
+00:08:08,080 --> 00:08:09,760
+<i>Tan bella como peculiar</i>
+
+129
+00:08:09,880 --> 00:08:14,800
+<i>Sí, una chica peculiar</i>
+
+130
+00:08:14,880 --> 00:08:19,000
+<i>Bella es</i>
+
+131
+00:08:24,080 --> 00:08:27,040
+-Hola, Bella.
+<i>-Bonjou</i>r, Gastón.
+
+132
+00:08:27,120 --> 00:08:29,120
+Gastón, ¿me devuelves mi libro,
+por favor?
+
+133
+00:08:29,200 --> 00:08:31,760
+¿Cómo puedes leer esto?
+No tiene dibujos.
+
+134
+00:08:31,840 --> 00:08:34,120
+Algunos usamos la imaginación.
+
+135
+00:08:34,240 --> 00:08:37,040
+Bella, es hora de que saques
+la cabeza de los libros
+
+136
+00:08:37,120 --> 00:08:39,680
+y le prestes atención
+a cosas más importantes.
+
+137
+00:08:39,760 --> 00:08:41,040
+Como yo.
+
+138
+00:08:42,720 --> 00:08:45,120
+Toda la ciudad habla de eso.
+
+139
+00:08:45,200 --> 00:08:47,040
+No está bien que una mujer lea.
+
+140
+00:08:47,120 --> 00:08:49,680
+Pronto empieza a tener ideas
+y a pensar.
+
+141
+00:08:49,760 --> 00:08:52,120
+Gastón, eres prehistórico.
+
+142
+00:08:52,200 --> 00:08:54,120
+Gracias, Bella.
+
+143
+00:08:54,200 --> 00:08:56,440
+¿Qué te parece
+si vamos juntos a la taberna
+
+144
+00:08:56,520 --> 00:08:59,720
+-a ver mis trofeos?
+-En otra oportunidad.
+
+145
+00:08:59,800 --> 00:09:01,520
+-¿Qué le pasa?
+-Está loca.
+
+146
+00:09:01,640 --> 00:09:03,040
+Es muy apuesto.
+
+147
+00:09:03,120 --> 00:09:06,760
+Por favor, Gastón, no puedo.
+Debo ir a casa a ayudar a mi padre.
+
+148
+00:09:06,840 --> 00:09:08,400
+Adiós.
+
+149
+00:09:08,520 --> 00:09:12,240
+Ese viejo loco necesita mucha ayuda.
+
+150
+00:09:12,360 --> 00:09:14,120
+No hables así de mi padre.
+
+151
+00:09:14,240 --> 00:09:16,720
+¡Sí! No hables así de su padre.
+
+152
+00:09:16,800 --> 00:09:19,440
+Mi padre no está loco. Es un genio.
+
+153
+00:09:33,480 --> 00:09:36,040
+-¿Papá?
+-¿Cómo ocurrió eso?
+
+154
+00:09:37,360 --> 00:09:40,320
+-¡Recórcholis!
+-¿Estás bien, papá?
+
+155
+00:09:40,400 --> 00:09:44,000
+Estoy a punto de darme por vencido
+con esta chatarra.
+
+156
+00:09:45,080 --> 00:09:47,880
+-Siempre dices lo mismo.
+-¡Esta vez es en serio!
+
+157
+00:09:47,960 --> 00:09:50,840
+¡Jamás conseguiré
+que este tonto armatoste funcione!
+
+158
+00:09:50,920 --> 00:09:54,840
+Sí que lo harás. Y ganarás
+el primer premio en la feria mañana.
+
+159
+00:09:54,920 --> 00:09:58,320
+Te convertirás
+en un inventor de fama mundial.
+
+160
+00:09:58,400 --> 00:10:00,440
+¿De verdad lo crees?
+
+161
+00:10:00,520 --> 00:10:02,320
+Siempre lo creí.
+
+162
+00:10:02,400 --> 00:10:06,600
+¿Qué esperamos?
+Arreglaré esto enseguida.
+
+163
+00:10:06,680 --> 00:10:09,920
+Alcánzame ese remachador retorcido.
+
+164
+00:10:10,000 --> 00:10:12,800
+¿Te divertiste en la ciudad hoy?
+
+165
+00:10:12,920 --> 00:10:15,160
+Traje un libro nuevo.
+
+166
+00:10:15,240 --> 00:10:18,120
+Papá, ¿crees que soy rara?
+
+167
+00:10:18,200 --> 00:10:20,640
+¿Mi hija? ¿Rara?
+
+168
+00:10:20,720 --> 00:10:22,640
+¿De dónde sacaste esa idea?
+
+169
+00:10:22,720 --> 00:10:26,920
+No sé.
+No estoy segura de pertenecer aquí.
+
+170
+00:10:27,000 --> 00:10:28,880
+No tengo nadie con quién hablar.
+
+171
+00:10:28,960 --> 00:10:32,440
+¿Qué hay de Gastón?
+Es un muchacho apuesto.
+
+172
+00:10:32,520 --> 00:10:36,560
+Es apuesto, sí, y grosero, engreído y...
+
+173
+00:10:36,640 --> 00:10:38,320
+Papá, no es para mí.
+
+174
+00:10:38,400 --> 00:10:40,480
+No te preocupes.
+
+175
+00:10:40,560 --> 00:10:44,240
+Porque este invento será el comienzo
+de una nueva vida para nosotros.
+
+176
+00:10:44,320 --> 00:10:47,480
+Ya está listo. Probémoslo.
+
+177
+00:11:01,760 --> 00:11:03,960
+-¡Funciona!
+-¿Sí?
+
+178
+00:11:05,400 --> 00:11:07,320
+-¡Sí!
+-Lo lograste.
+
+179
+00:11:07,400 --> 00:11:09,360
+¡Realmente lo lograste!
+
+180
+00:11:09,440 --> 00:11:12,480
+Ensilla a Philippe, niña.
+¡Me voy a la feria!
+
+181
+00:11:14,880 --> 00:11:16,720
+Adiós, papá. Buena suerte.
+
+182
+00:11:16,800 --> 00:11:19,760
+Adiós, Bella.
+Cuídate mientras yo no esté.
+
+183
+00:11:37,960 --> 00:11:40,160
+Ya deberíamos estar allí.
+
+184
+00:11:40,240 --> 00:11:42,440
+Quizá nos perdimos una curva.
+
+185
+00:11:42,520 --> 00:11:45,680
+Debería haber tomado... Un momento.
+
+186
+00:11:50,200 --> 00:11:52,080
+No. Vayamos por aquí.
+
+187
+00:12:02,920 --> 00:12:06,880
+Vamos, Philippe, es un atajo.
+Llegaremos enseguida.
+
+188
+00:12:26,440 --> 00:12:30,040
+Esto no está bien.
+¿Adónde nos trajiste, Philippe?
+
+189
+00:12:30,120 --> 00:12:32,280
+Mejor demos la vuelta.
+
+190
+00:12:34,160 --> 00:12:38,000
+Tranquilo, Philippe.
+
+191
+00:12:41,720 --> 00:12:43,200
+¡Cuidado! ¡No!
+
+192
+00:12:46,320 --> 00:12:47,400
+¡Epa!
+
+193
+00:12:48,080 --> 00:12:49,440
+¡Epa!
+
+194
+00:12:51,160 --> 00:12:53,200
+¡Retrocede!
+
+195
+00:12:54,040 --> 00:12:57,280
+Bien hecho. Bien. ¡Retrocede!
+
+196
+00:12:57,680 --> 00:13:00,040
+Tranquilo.
+
+197
+00:13:00,480 --> 00:13:03,040
+Tranquilo. ¡No, Philippe!
+
+198
+00:13:10,560 --> 00:13:11,840
+¿Philippe?
+
+199
+00:13:38,280 --> 00:13:40,480
+¡Auxilio! ¿Hay alguien allí?
+
+200
+00:13:41,520 --> 00:13:42,600
+¡Auxilio!
+
+201
+00:14:18,680 --> 00:14:19,840
+¿Hola?
+
+202
+00:14:22,960 --> 00:14:24,320
+¡Hola!
+
+203
+00:14:24,400 --> 00:14:26,720
+El pobre debió haberse perdido
+en el bosque.
+
+204
+00:14:26,800 --> 00:14:30,200
+Cállate. Quizá se vaya.
+
+205
+00:14:30,280 --> 00:14:32,240
+¿Hay alguien ahí?
+
+206
+00:14:33,160 --> 00:14:35,760
+Ni una palabra, Lumiere.
+
+207
+00:14:35,840 --> 00:14:40,040
+No quiero invadir, pero perdí mi caballo
+
+208
+00:14:40,120 --> 00:14:42,920
+y necesito
+un lugar donde pasar la noche.
+
+209
+00:14:43,520 --> 00:14:45,480
+Din Don, ten piedad.
+
+210
+00:14:48,960 --> 00:14:51,320
+Claro<i>, monsieu</i>r, es bienvenido aquí.
+
+211
+00:14:51,400 --> 00:14:53,360
+¿Quién dijo eso?
+
+212
+00:14:53,440 --> 00:14:54,960
+Aquí.
+
+213
+00:14:55,040 --> 00:14:57,160
+-¿Dónde?
+-Hola.
+
+214
+00:15:00,800 --> 00:15:02,280
+¡Increíble!
+
+215
+00:15:02,520 --> 00:15:04,240
+Eso estuvo genial, Lumiere.
+
+216
+00:15:04,320 --> 00:15:06,560
+Espléndido. Fabuloso.
+
+217
+00:15:07,360 --> 00:15:10,720
+-¿Cómo se logra?
+-Bájeme enseguida.
+
+218
+00:15:10,800 --> 00:15:12,920
+¡Basta! ¡Dije basta!
+
+219
+00:15:19,520 --> 00:15:22,040
+Señor, ¡cierre eso enseguida!
+
+220
+00:15:22,120 --> 00:15:24,600
+-¿Por favor?
+-Perdón.
+
+221
+00:15:24,680 --> 00:15:28,120
+Es que nunca vi un reloj que...
+
+222
+00:15:36,760 --> 00:15:38,840
+Está empapado<i>, monsieu</i>r.
+
+223
+00:15:38,920 --> 00:15:40,880
+Venga. Caliéntese junto al fuego.
+
+224
+00:15:40,960 --> 00:15:44,200
+-Gracias.
+-¡No!
+
+225
+00:15:44,280 --> 00:15:46,320
+Sabes lo que hará el amo
+si lo encuentra aquí.
+
+226
+00:15:46,400 --> 00:15:48,920
+Exijo que te detengas ya.
+
+227
+00:15:50,240 --> 00:15:53,480
+No. La silla del amo no.
+
+228
+00:15:55,760 --> 00:15:58,240
+No quiero mirar.
+
+229
+00:15:58,320 --> 00:16:01,080
+Hola, amiguito.
+
+230
+00:16:07,040 --> 00:16:08,640
+-Qué servicio.
+-Muy bien.
+
+231
+00:16:08,720 --> 00:16:11,760
+Esto llegó demasiado lejos.
+Yo estoy a cargo...
+
+232
+00:16:12,160 --> 00:16:16,160
+¿Gusta una taza de té, señor?
+Lo calentará enseguida.
+
+233
+00:16:16,240 --> 00:16:19,480
+¡Nada de té!
+
+234
+00:16:21,800 --> 00:16:24,320
+Su bigote hace cosquillas, mamá.
+
+235
+00:16:26,240 --> 00:16:27,400
+Hola.
+
+236
+00:16:42,640 --> 00:16:44,520
+Hay un extraño aquí.
+
+237
+00:16:44,600 --> 00:16:47,800
+Amo, permíteme explicar.
+El caballero se perdió en el bosque.
+
+238
+00:16:47,880 --> 00:16:49,920
+Estaba mojado y tenía frío, entonces...
+
+239
+00:16:52,440 --> 00:16:55,680
+Amo, quisiera aprovechar para decir
+
+240
+00:16:55,760 --> 00:16:57,920
+que me opuse a esto.
+La culpa es toda de él.
+
+241
+00:16:58,000 --> 00:17:01,560
+Intenté detenerlos,
+pero no me escucharon.
+
+242
+00:17:06,440 --> 00:17:08,600
+¿Quién eres? ¿Qué haces aquí?
+
+243
+00:17:08,680 --> 00:17:10,880
+Me perdí en el bosque y...
+
+244
+00:17:10,960 --> 00:17:12,800
+¡No eres bienvenido aquí!
+
+245
+00:17:12,880 --> 00:17:14,520
+Lo siento.
+
+246
+00:17:14,600 --> 00:17:17,520
+-¿Qué miras?
+-Nada.
+
+247
+00:17:17,600 --> 00:17:21,040
+Viniste a mirar a la Bestia, ¿no?
+
+248
+00:17:21,120 --> 00:17:24,720
+Por favor, ¡no quise molestar!
+Sólo necesitaba dónde quedarme.
+
+249
+00:17:24,800 --> 00:17:29,560
+-¡Yo te daré un lugar!
+-No, ¡por favor! ¡No!
+
+250
+00:17:34,640 --> 00:17:38,920
+Vaya. Bella se llevará
+la sorpresa de su vida, ¿no, Gastón?
+
+251
+00:17:39,000 --> 00:17:41,280
+Sí, hoy es su día de suerte.
+
+252
+00:17:44,640 --> 00:17:48,080
+Quiero agradecerles a todos
+por venir a mi boda.
+
+253
+00:17:48,160 --> 00:17:51,480
+Pero primero,
+le propondré matrimonio a la chica.
+
+254
+00:17:53,920 --> 00:17:56,720
+Y tú, Lefou, cuando Bella y yo
+salgamos por esa puerta...
+
+255
+00:17:56,800 --> 00:17:59,360
+Lo sé. ¡Doy la señal a la banda!
+
+256
+00:18:03,040 --> 00:18:05,000
+-Todavía no.
+-Lo siento.
+
+257
+00:18:17,360 --> 00:18:20,280
+Gastón, qué agradable sorpresa.
+
+258
+00:18:20,360 --> 00:18:23,640
+¿No es cierto?
+Estoy lleno de sorpresas.
+
+259
+00:18:23,720 --> 00:18:25,560
+Bella, todas las chicas de la ciudad
+
+260
+00:18:25,640 --> 00:18:28,240
+quisieran estar en tu lugar.
+
+261
+00:18:28,320 --> 00:18:30,000
+Hoy es el día...
+
+262
+00:18:33,040 --> 00:18:35,440
+Hoy es el día
+en que tus sueños se harán realidad.
+
+263
+00:18:35,520 --> 00:18:38,280
+¿Qué sabes tú de mis sueños, Gastón?
+
+264
+00:18:38,360 --> 00:18:41,120
+¡Mucho! Imagina esto.
+
+265
+00:18:42,120 --> 00:18:46,960
+Una rústica cabaña de cazadores,
+mi última presa asándose en el horno
+
+266
+00:18:47,040 --> 00:18:50,480
+y mi linda esposa
+masajeándome los pies
+
+267
+00:18:50,560 --> 00:18:52,920
+mientras los niños juegan en el suelo
+con los perros.
+
+268
+00:18:53,000 --> 00:18:55,360
+-Tendremos seis o siete.
+-¿Perros?
+
+269
+00:18:55,440 --> 00:18:56,960
+No, Bella.
+
+270
+00:18:57,040 --> 00:18:59,800
+-Niños fornidos como yo.
+-Qué imaginación.
+
+271
+00:18:59,880 --> 00:19:01,240
+¿Sabes quién será esa esposa?
+
+272
+00:19:01,320 --> 00:19:03,280
+-Déjame pensar.
+-Tú, Bella.
+
+273
+00:19:03,360 --> 00:19:07,200
+Gastón... Me quedé sin palabras.
+
+274
+00:19:07,520 --> 00:19:09,640
+No sé qué decir.
+
+275
+00:19:09,720 --> 00:19:13,120
+-Di que te casarás conmigo.
+-Lo siento, Gastón, pero...
+
+276
+00:19:13,960 --> 00:19:16,920
+¡Pero no te merezco!
+
+277
+00:19:31,960 --> 00:19:33,600
+¿Cómo te fue?
+
+278
+00:19:34,760 --> 00:19:37,640
+Bella será mi esposa.
+
+279
+00:19:37,720 --> 00:19:40,520
+No lo dudes.
+
+280
+00:19:42,160 --> 00:19:43,400
+Qué susceptible.
+
+281
+00:19:50,720 --> 00:19:52,120
+¿Ya se fue?
+
+282
+00:19:54,080 --> 00:19:57,200
+¿Lo imaginan?
+Me pidió que me casara con él.
+
+283
+00:19:57,280 --> 00:20:01,120
+Yo, esposa de ese grosero y tonto...
+
+284
+00:20:01,600 --> 00:20:03,480
+Madam<i>e Gast</i>ón
+
+285
+00:20:03,560 --> 00:20:05,400
+<i>¿Pueden creerlo?</i>
+
+286
+00:20:05,480 --> 00:20:07,440
+Madam<i>e Gast</i>ón
+
+287
+00:20:07,520 --> 00:20:09,280
+<i>¿Ser su mujer?</i>
+
+288
+00:20:09,360 --> 00:20:12,880
+<i>Yo no, jamás</i>
+<i>Lo garantizo</i>
+
+289
+00:20:12,960 --> 00:20:17,480
+<i>Yo quiero más que vida provincial</i>
+
+290
+00:20:26,480 --> 00:20:31,480
+<i>Quiero aventuras</i>
+<i>que al mundo asombren</i>
+
+291
+00:20:31,560 --> 00:20:35,360
+<i>Un gran amor quiero encontrar</i>
+
+292
+00:20:36,320 --> 00:20:39,400
+<i>Que feliz a mí vendrá</i>
+
+293
+00:20:39,480 --> 00:20:43,120
+<i>Y me entienda de verdad</i>
+
+294
+00:20:43,880 --> 00:20:50,720
+<i>Quiero mucho más que un simple plan</i>
+
+295
+00:20:52,480 --> 00:20:57,560
+¡Philippe! ¿Qué haces aquí?
+¿Dónde está papá?
+
+296
+00:20:57,640 --> 00:21:00,320
+¿Dónde está, Philippe? ¿Qué pasó?
+
+297
+00:21:00,400 --> 00:21:03,520
+Debemos encontrarlo. Llévame con él.
+
+298
+00:21:17,200 --> 00:21:18,920
+¿Qué es este lugar?
+
+299
+00:21:20,400 --> 00:21:22,400
+Philippe, por favor, tranquilo.
+
+300
+00:21:24,440 --> 00:21:25,680
+Tranquilo.
+
+301
+00:21:29,400 --> 00:21:30,560
+¡Papá!
+
+302
+00:21:31,520 --> 00:21:33,880
+No podías callarte, ¿no?
+
+303
+00:21:33,960 --> 00:21:36,400
+Tenías que invitarlo a quedarse, ¿no?
+
+304
+00:21:36,520 --> 00:21:40,880
+Servirle té, sentarlo
+en el sillón del amo. Acariciar al perro.
+
+305
+00:21:40,960 --> 00:21:42,640
+Quería ser hospitalario.
+
+306
+00:21:44,040 --> 00:21:45,200
+¿Hola?
+
+307
+00:21:45,920 --> 00:21:47,480
+¿Hay alguien aquí?
+
+308
+00:21:48,400 --> 00:21:49,560
+¿Hola?
+
+309
+00:21:50,880 --> 00:21:53,800
+¿Papá?
+
+310
+00:21:54,720 --> 00:21:56,240
+¿Estás aquí?
+
+311
+00:21:56,840 --> 00:21:59,520
+Mamá, hay una chica en el castillo.
+
+312
+00:21:59,600 --> 00:22:02,600
+Chip, no inventes cosas raras.
+
+313
+00:22:02,680 --> 00:22:04,840
+En serio, mamá. La vi.
+
+314
+00:22:04,920 --> 00:22:07,160
+-Ni una palabra más. A la tina.
+-Pero... ¿Qué?
+
+315
+00:22:07,240 --> 00:22:10,320
+Vi una chica en el castillo.
+
+316
+00:22:11,000 --> 00:22:12,560
+Te lo dije.
+
+317
+00:22:13,000 --> 00:22:17,120
+Irresponsable, osado,
+oídos de cera, boquiabierto...
+
+318
+00:22:17,200 --> 00:22:18,280
+¿Papá?
+
+319
+00:22:19,920 --> 00:22:21,600
+¿Viste eso?
+
+320
+00:22:23,480 --> 00:22:26,640
+-¡Una chica!
+-Ya lo sé.
+
+321
+00:22:26,720 --> 00:22:29,880
+¿No entiendes? Es ella.
+La que estábamos esperando.
+
+322
+00:22:29,960 --> 00:22:32,720
+-Vino a romper el hechizo.
+-Un momento.
+
+323
+00:22:36,600 --> 00:22:37,720
+¿Papá?
+
+324
+00:22:39,360 --> 00:22:40,440
+¿Papá?
+
+325
+00:22:43,120 --> 00:22:45,080
+¿Hola? ¿Hay alguien aquí?
+
+326
+00:22:45,880 --> 00:22:48,440
+¡Espera! Estoy buscando
+a mi padre. Yo...
+
+327
+00:22:52,000 --> 00:22:54,760
+Qué curioso. Creí que había alguien.
+
+328
+00:22:56,840 --> 00:22:58,360
+¿Hay alguien aquí?
+
+329
+00:22:58,960 --> 00:23:00,840
+-¿Bella?
+-¡Papá!
+
+330
+00:23:03,480 --> 00:23:04,880
+¿Cómo me encontraste?
+
+331
+00:23:04,960 --> 00:23:07,800
+Tienes las manos congeladas.
+Debo sacarte de ahí.
+
+332
+00:23:07,880 --> 00:23:09,880
+Bella, quiero que te alejes de aquí.
+
+333
+00:23:09,960 --> 00:23:11,040
+¿Quién te hizo esto?
+
+334
+00:23:11,120 --> 00:23:13,640
+No hay tiempo de explicar.
+Debes irte. ¡Ahora!
+
+335
+00:23:13,720 --> 00:23:16,000
+-No te dejaré.
+-¿Qué haces aquí?
+
+336
+00:23:16,120 --> 00:23:17,320
+¡Corre, Bella!
+
+337
+00:23:17,400 --> 00:23:20,840
+-¿Quién está ahí? ¿Quién eres?
+-El amo del castillo.
+
+338
+00:23:22,000 --> 00:23:23,560
+Vine por mi padre.
+
+339
+00:23:23,640 --> 00:23:25,920
+Suéltalo, por favor.
+¿No ves que está enfermo?
+
+340
+00:23:26,000 --> 00:23:28,200
+¡Entonces no debió haber venido!
+
+341
+00:23:28,280 --> 00:23:30,920
+Podría morirse.
+Por favor, haré lo que sea.
+
+342
+00:23:31,000 --> 00:23:34,800
+No hay nada que puedas hacer.
+Es mi prisionero.
+
+343
+00:23:34,880 --> 00:23:37,160
+Debe haber una forma de...
+
+344
+00:23:38,080 --> 00:23:39,160
+¡Espera!
+
+345
+00:23:44,440 --> 00:23:47,120
+-Tómame a mí en su lugar.
+-¿A ti?
+
+346
+00:23:48,960 --> 00:23:51,960
+¿Tú tomarías su lugar?
+
+347
+00:23:52,040 --> 00:23:54,280
+Bella, ¡no! ¡No sabes lo que haces!
+
+348
+00:23:54,360 --> 00:23:57,360
+Si me quedo, ¿lo dejarás libre?
+
+349
+00:23:57,440 --> 00:24:02,000
+Sí, pero debes prometer
+quedarte para siempre.
+
+350
+00:24:04,440 --> 00:24:06,200
+Ven a la luz.
+
+351
+00:24:17,920 --> 00:24:20,800
+¡No, Bella!
+¡No permitiré que hagas esto!
+
+352
+00:24:23,800 --> 00:24:25,880
+-Lo prometo.
+-Hecho.
+
+353
+00:24:30,080 --> 00:24:33,400
+No, Bella, escúchame.
+Soy viejo. Ya he vivido.
+
+354
+00:24:33,480 --> 00:24:34,480
+Espera.
+
+355
+00:24:34,560 --> 00:24:35,600
+-¡Bella!
+-Espera.
+
+356
+00:24:37,200 --> 00:24:39,880
+¡No! Por favor, libera a mi hija.
+¡Por favor!
+
+357
+00:24:40,000 --> 00:24:43,320
+Ya no es asunto tuyo.
+Llévenlo a la aldea.
+
+358
+00:24:43,400 --> 00:24:46,160
+¡Déjenme salir! ¡Por favor!
+
+359
+00:24:46,240 --> 00:24:50,400
+¡Déjenme salir! ¡Por favor!
+
+360
+00:24:56,240 --> 00:24:57,760
+-¿Amo?
+-¿Qué?
+
+361
+00:24:58,400 --> 00:25:01,600
+Como la chica estará con nosotros
+mucho tiempo,
+
+362
+00:25:01,680 --> 00:25:06,400
+podrías ofrecerle
+un cuarto más cómodo.
+
+363
+00:25:08,320 --> 00:25:09,640
+O mejor no.
+
+364
+00:25:12,440 --> 00:25:14,680
+Ni siquiera me dejaste despedirme.
+
+365
+00:25:14,760 --> 00:25:16,760
+Jamás volveré a verlo.
+
+366
+00:25:17,320 --> 00:25:19,440
+No pude despedirme.
+
+367
+00:25:20,760 --> 00:25:22,640
+Te mostraré tu cuarto.
+
+368
+00:25:22,720 --> 00:25:25,280
+¿Mi cuarto? Pero pensé...
+
+369
+00:25:26,040 --> 00:25:27,680
+¿Quieres quedarte en la torre?
+
+370
+00:25:27,760 --> 00:25:29,120
+-No.
+-Entonces sígueme.
+
+371
+00:25:50,640 --> 00:25:52,480
+Dile algo.
+
+372
+00:25:54,320 --> 00:25:57,400
+Espero que te guste el lugar.
+
+373
+00:25:59,960 --> 00:26:01,120
+El castillo es tu hogar ahora,
+
+374
+00:26:01,200 --> 00:26:04,160
+puedes ir adonde gustes,
+salvo al ala oeste.
+
+375
+00:26:04,240 --> 00:26:06,840
+-¿Qué hay en el ala...?
+-¡Está prohibida!
+
+376
+00:26:13,960 --> 00:26:17,320
+Si necesitas algo,
+mis sirvientes te atenderán.
+
+377
+00:26:17,400 --> 00:26:19,600
+Cena. Invítala a cenar.
+
+378
+00:26:20,080 --> 00:26:23,840
+Cenarás conmigo. ¡No es un pedido!
+
+379
+00:26:42,440 --> 00:26:44,320
+¿Quién se cree que es?
+
+380
+00:26:44,400 --> 00:26:46,560
+Esa chica se enredó
+con el muchacho equivocado.
+
+381
+00:26:46,640 --> 00:26:49,680
+-Nadie le dice que no a Gastón.
+-Así es.
+
+382
+00:26:49,760 --> 00:26:54,080
+Desechado. Rechazado.
+Humillado públicamente.
+
+383
+00:26:54,160 --> 00:26:56,120
+Es más de lo que puedo tolerar.
+
+384
+00:26:56,200 --> 00:26:59,600
+-¿Más cerveza?
+-¿Para qué? Nada sirve.
+
+385
+00:26:59,680 --> 00:27:02,720
+-Estoy deshonrado.
+-¿Tú? Jamás.
+
+386
+00:27:03,240 --> 00:27:06,960
+Gastón, debes animarte.
+
+387
+00:27:07,360 --> 00:27:10,480
+<i>Vaya que altera el verte, Gastón</i>
+
+388
+00:27:10,560 --> 00:27:13,640
+<i>Tan cabizbajo y tristón</i>
+
+389
+00:27:13,720 --> 00:27:16,960
+<i>Ser como tú</i>
+<i>Todos quieren, Gastón</i>
+
+390
+00:27:17,040 --> 00:27:19,960
+<i>Aunque les des un trompón</i>
+
+391
+00:27:20,040 --> 00:27:23,120
+<i>No hay nadie</i>
+<i>Que cause tal admiración</i>
+
+392
+00:27:23,200 --> 00:27:26,680
+<i>De todos eres el campeón</i>
+
+393
+00:27:26,760 --> 00:27:30,040
+<i>Eres el líder y la inspiración</i>
+
+394
+00:27:30,120 --> 00:27:33,160
+<i>Y es muy fácil saber</i>
+
+395
+00:27:33,240 --> 00:27:37,080
+<i>La razón</i>
+
+396
+00:27:38,840 --> 00:27:43,360
+<i>Nadie es hábil como él</i>
+
+397
+00:27:43,440 --> 00:27:44,960
+<i>Nadie es ágil como él</i>
+
+398
+00:27:45,040 --> 00:27:48,280
+<i>Nadie tiene un cuerpazo</i>
+<i>Como el de Gastón</i>
+
+399
+00:27:48,360 --> 00:27:52,000
+<i>No hay hombre en el pueblo</i>
+<i>Tan macho</i>
+
+400
+00:27:52,080 --> 00:27:54,800
+<i>No tiene comparación</i>
+
+401
+00:27:54,880 --> 00:27:58,120
+<i>Tú pregúntale a cualquier muchacho</i>
+
+402
+00:27:58,240 --> 00:28:03,600
+<i>Te dirán que su equipo</i>
+<i>Es el de Gastón</i>
+
+403
+00:28:03,680 --> 00:28:07,880
+<i>Nadie ha sido como él</i>
+
+404
+00:28:08,000 --> 00:28:09,560
+<i>Nadie es bravo como él</i>
+
+405
+00:28:09,640 --> 00:28:12,880
+<i>Tiene barba partida</i>
+<i>¡Qué guapo es Gastón!</i>
+
+406
+00:28:12,960 --> 00:28:16,800
+<i>Soy un tipo modelo</i>
+<i>Impresionante</i>
+
+407
+00:28:16,880 --> 00:28:19,840
+<i>¡Es un gran tipo Gastón!</i>
+
+408
+00:28:19,920 --> 00:28:23,200
+<i>¡Que viva, sí!</i>
+<i>¡Arriba, sí!</i>
+
+409
+00:28:23,280 --> 00:28:27,880
+<i>¡Gastón es el as, a volar los demás!</i>
+
+410
+00:28:28,640 --> 00:28:33,040
+<i>Nadie vence a Gastón</i>
+
+411
+00:28:33,120 --> 00:28:34,720
+<i>Qué valiente es Gastón</i>
+
+412
+00:28:34,800 --> 00:28:38,040
+<i>Nadie muerde en las luchas</i>
+<i>Como el gran Gastón</i>
+
+413
+00:28:38,120 --> 00:28:41,440
+<i>Nadie es tan musculoso y fornido</i>
+
+414
+00:28:41,520 --> 00:28:44,720
+<i>Como ven tengo bíceps de más</i>
+
+415
+00:28:44,800 --> 00:28:48,520
+<i>No hay parte de él que sea débil</i>
+
+416
+00:28:48,600 --> 00:28:51,560
+<i>Mi cuerpo cubierto de vellos está</i>
+
+417
+00:28:51,640 --> 00:28:54,760
+<i>-Nadie pega como él</i>
+<i>-Nadie es listo como él</i>
+
+418
+00:28:54,880 --> 00:28:58,240
+<i>Nadie escupe tan lejos</i>
+<i>Como el gran Gastón</i>
+
+419
+00:28:58,320 --> 00:29:02,120
+<i>En cualquier competencia</i>
+<i>Supero a todos... ¡Phoo-ey!</i>
+
+420
+00:29:02,800 --> 00:29:05,240
+<i>¡Diez para Gastón!</i>
+
+421
+00:29:05,320 --> 00:29:08,240
+<i>Docenas de huevos de chico comí</i>
+
+422
+00:29:08,320 --> 00:29:11,840
+<i>Cada día para crecer más</i>
+
+423
+00:29:11,920 --> 00:29:14,920
+<i>Y ahora de grande como muchos más</i>
+
+424
+00:29:15,000 --> 00:29:21,000
+<i>Soy por eso tan grande y audaz</i>
+
+425
+00:29:21,080 --> 00:29:25,880
+<i>Nadie mira como él</i>
+
+426
+00:29:25,960 --> 00:29:27,600
+<i>Nadie gira como él</i>
+
+427
+00:29:27,680 --> 00:29:30,880
+<i>Con sus botas bien puestas</i>
+<i>Qué bueno es Gastón</i>
+
+428
+00:29:30,960 --> 00:29:34,960
+<i>Con trofeos mis muros voy decorando</i>
+
+429
+00:29:35,040 --> 00:29:37,440
+<i>Otro no hay...</i>
+
+430
+00:29:37,520 --> 00:29:43,480
+<i>¡Gastón!</i>
+
+431
+00:29:48,000 --> 00:29:50,400
+-¡Auxilio! ¡Que alguien me ayude!
+-¿Maurice?
+
+432
+00:29:51,200 --> 00:29:52,720
+¡Por favor! Necesito su ayuda.
+
+433
+00:29:52,800 --> 00:29:55,440
+La tiene encerrada en el calabozo.
+
+434
+00:29:55,560 --> 00:29:57,560
+-¿A quién?
+-A Bella. Debemos irnos.
+
+435
+00:29:57,640 --> 00:29:59,440
+No hay un minuto que perder.
+
+436
+00:29:59,520 --> 00:30:01,800
+Tranquilo, Maurice.
+
+437
+00:30:01,880 --> 00:30:04,680
+-¿Quién encerró a Bella?
+-¡Una bestia!
+
+438
+00:30:04,760 --> 00:30:07,400
+¡Una bestia horrible y monstruosa!
+
+439
+00:30:13,040 --> 00:30:14,760
+-¿Es grandota?
+-Enorme.
+
+440
+00:30:14,840 --> 00:30:17,760
+-¿Con hocico largo y feo?
+-Espantosamente fea.
+
+441
+00:30:17,840 --> 00:30:21,320
+-¿Con colmillos filosos y feroces?
+-¡Sí! ¿Me ayudarán?
+
+442
+00:30:21,400 --> 00:30:24,160
+De acuerdo, viejo. Te ayudaremos.
+
+443
+00:30:24,240 --> 00:30:27,880
+¿Sí? Gracias.
+
+444
+00:30:30,240 --> 00:30:32,560
+Maurice, viejo loco.
+
+445
+00:30:32,680 --> 00:30:35,440
+Siempre me hace reír.
+
+446
+00:30:36,760 --> 00:30:38,840
+¿Maurice, viejo loco?
+
+447
+00:30:40,280 --> 00:30:42,720
+Maurice, viejo loco.
+
+448
+00:30:44,080 --> 00:30:47,400
+<i>Lefou, temo que estoy pensando</i>
+
+449
+00:30:47,480 --> 00:30:49,040
+<i>Es muy peligroso</i>
+
+450
+00:30:49,120 --> 00:30:50,320
+<i>Lo sé</i>
+
+451
+00:30:50,400 --> 00:30:53,680
+<i>Pero ese chiflado es su padre</i>
+
+452
+00:30:53,760 --> 00:30:56,840
+<i>Y su juicio es sólo así-así</i>
+
+453
+00:30:56,960 --> 00:31:00,200
+<i>Ya mi mente está trabajando</i>
+
+454
+00:31:00,280 --> 00:31:03,400
+<i>Desde que a ese lunático vi</i>
+
+455
+00:31:03,480 --> 00:31:06,920
+<i>Porque me he prometido</i>
+<i>Casarme con Bella</i>
+
+456
+00:31:07,000 --> 00:31:11,520
+<i>Y tramando estoy un gran plan</i>
+
+457
+00:31:11,600 --> 00:31:13,720
+-Si yo...
+-¿Sí?
+
+458
+00:31:13,800 --> 00:31:16,840
+-Entonces nosotros...
+-No, ¿lo haría?
+
+459
+00:31:16,920 --> 00:31:18,560
+-Supongo...
+-¡Ahora entiendo!
+
+460
+00:31:18,640 --> 00:31:20,880
+-¡Vamos!
+-¡Vamos!
+
+461
+00:31:20,960 --> 00:31:24,960
+<i>Nadie trama como él</i>
+
+462
+00:31:25,040 --> 00:31:26,680
+<i>Nadie engaña como él</i>
+
+463
+00:31:26,760 --> 00:31:30,040
+<i>Nadie acosa inocentes</i>
+<i>Como el gran Gastón</i>
+
+464
+00:31:30,160 --> 00:31:35,720
+<i>Y su boda estaremos ya celebrando</i>
+
+465
+00:31:35,800 --> 00:31:38,320
+<i>Otro no hay</i>
+
+466
+00:31:38,400 --> 00:31:42,640
+<i>Gastón</i>
+
+467
+00:31:45,840 --> 00:31:48,480
+¿Nadie me ayudará?
+
+468
+00:31:57,240 --> 00:31:59,440
+-¿Quién es?
+-La Sra. Potts, querida.
+
+469
+00:32:01,520 --> 00:32:03,480
+Pensé que querrías una taza de té.
+
+470
+00:32:03,560 --> 00:32:05,560
+Pero eres una...
+
+471
+00:32:07,360 --> 00:32:09,600
+-Cuidado.
+-Esto es imposible.
+
+472
+00:32:09,680 --> 00:32:12,280
+Lo sé, pero aquí estamos.
+
+473
+00:32:12,360 --> 00:32:15,200
+Te dije que era hermosa, mamá, ¿no?
+
+474
+00:32:15,280 --> 00:32:19,560
+Ya basta, Chip.
+Despacio. No derrames.
+
+475
+00:32:21,040 --> 00:32:22,440
+Gracias.
+
+476
+00:32:22,520 --> 00:32:24,520
+¿Quieres que haga un truco?
+
+477
+00:32:25,960 --> 00:32:28,960
+-¡Chip!
+-Lo siento.
+
+478
+00:32:29,040 --> 00:32:31,600
+Hiciste algo muy valiente, querida.
+
+479
+00:32:31,680 --> 00:32:33,160
+Todos opinamos así.
+
+480
+00:32:33,240 --> 00:32:36,800
+Pero perdí a mi padre,
+mis sueños, todo.
+
+481
+00:32:36,880 --> 00:32:41,520
+Anímate, niña.
+Todo resultará bien al final.
+
+482
+00:32:41,600 --> 00:32:43,160
+Ya lo verás.
+
+483
+00:32:43,240 --> 00:32:44,880
+Escúchame farfullar
+
+484
+00:32:44,960 --> 00:32:47,120
+mientras debo servir la mesa.
+
+485
+00:32:47,200 --> 00:32:48,960
+¿Chip?
+
+486
+00:32:49,040 --> 00:32:50,400
+Adiós.
+
+487
+00:32:50,480 --> 00:32:53,640
+¿Qué te pondrás para la cena?
+
+488
+00:32:53,720 --> 00:32:56,640
+Veamos qué hay en mis cajones.
+
+489
+00:32:56,720 --> 00:32:58,440
+¡Qué vergüenza!
+
+490
+00:33:00,960 --> 00:33:04,320
+Éste. Mira qué encantador.
+
+491
+00:33:04,400 --> 00:33:07,760
+Eres muy amable, pero no iré a cenar.
+
+492
+00:33:08,440 --> 00:33:09,920
+Debes hacerlo.
+
+493
+00:33:13,080 --> 00:33:15,560
+La cena está servida.
+
+494
+00:33:17,840 --> 00:33:19,720
+¿Por qué demora tanto?
+
+495
+00:33:19,800 --> 00:33:21,520
+Le dije que bajara.
+
+496
+00:33:21,640 --> 00:33:25,120
+-¿Por qué no bajó aún?
+-Paciencia, señor.
+
+497
+00:33:25,200 --> 00:33:28,520
+Perdió a su padre y su libertad
+en un solo día.
+
+498
+00:33:28,600 --> 00:33:30,080
+Amo, ¿has pensado
+
+499
+00:33:30,160 --> 00:33:33,000
+que quizá ella sea
+la que rompa el hechizo?
+
+500
+00:33:33,080 --> 00:33:35,840
+¡Claro que sí! No soy tonto.
+
+501
+00:33:35,920 --> 00:33:38,680
+¡Bien! Te enamorarás de ella,
+
+502
+00:33:38,760 --> 00:33:42,400
+ella se enamorará de ti, ¡y pum!
+El hechizo se romperá.
+
+503
+00:33:42,480 --> 00:33:44,680
+Seremos humanos otra vez
+antes de la medianoche.
+
+504
+00:33:44,760 --> 00:33:47,280
+No es tan fácil, Lumiere.
+Estas cosas llevan tiempo.
+
+505
+00:33:47,360 --> 00:33:50,040
+Pero la rosa ya empezó a marchitarse.
+
+506
+00:33:50,120 --> 00:33:51,960
+Es inútil.
+
+507
+00:33:52,040 --> 00:33:54,440
+Ella es tan hermosa, y yo...
+
+508
+00:33:54,520 --> 00:33:56,160
+¡Mírenme!
+
+509
+00:33:58,280 --> 00:34:01,240
+Debes ayudarla a ver más allá.
+
+510
+00:34:01,320 --> 00:34:03,080
+No sé cómo.
+
+511
+00:34:03,160 --> 00:34:05,720
+Puedes empezar
+por hacerte más presentable.
+
+512
+00:34:05,800 --> 00:34:08,160
+Enderézate. Compórtate
+como un caballero.
+
+513
+00:34:08,240 --> 00:34:12,160
+Sí. Cuando ella entre,
+dale una sonrisa alegre y simpática.
+
+514
+00:34:12,240 --> 00:34:14,560
+Ven, muéstrame la sonrisa.
+
+515
+00:34:14,640 --> 00:34:18,600
+-Pero no la asustes.
+-Impresiónala con tu ingenio.
+
+516
+00:34:18,680 --> 00:34:19,840
+Pero sé gentil.
+
+517
+00:34:19,920 --> 00:34:22,240
+-Halágala mucho.
+-Pero sé sincero.
+
+518
+00:34:22,320 --> 00:34:23,720
+Y por sobre todo,
+
+519
+00:34:23,800 --> 00:34:26,800
+-¡controla tu temperamento!
+-¡Controla tu temperamento!
+
+520
+00:34:26,880 --> 00:34:28,320
+¡Aquí viene!
+
+521
+00:34:30,360 --> 00:34:31,840
+Buenas noches.
+
+522
+00:34:32,800 --> 00:34:35,600
+-¿Dónde está?
+-¿Quién?
+
+523
+00:34:37,040 --> 00:34:39,400
+La chica, sí.
+
+524
+00:34:39,480 --> 00:34:43,360
+Está en el proceso de...
+
+525
+00:34:43,440 --> 00:34:47,880
+Dadas las circunstancias... No vendrá.
+
+526
+00:34:49,000 --> 00:34:50,080
+¿Qué?
+
+527
+00:34:50,720 --> 00:34:53,280
+Cielos. ¡Su Alteza! ¡Ilustrísimo!
+
+528
+00:34:54,000 --> 00:34:55,720
+¡No sea impulsivo!
+
+529
+00:34:58,720 --> 00:35:00,440
+¡Te dije que bajaras a cenar!
+
+530
+00:35:00,520 --> 00:35:02,080
+No tengo hambre.
+
+531
+00:35:02,600 --> 00:35:05,880
+Ven o... ¡Romperé la puerta!
+
+532
+00:35:06,000 --> 00:35:07,800
+Amo, quizá me equivoque,
+
+533
+00:35:07,920 --> 00:35:12,440
+pero ésa no es la mejor manera
+de ganarse el afecto de la dama.
+
+534
+00:35:12,520 --> 00:35:15,920
+Por favor, intenta ser caballero.
+
+535
+00:35:16,000 --> 00:35:18,720
+Pero ella es muy difícil.
+
+536
+00:35:18,800 --> 00:35:21,160
+Con amabilidad.
+
+537
+00:35:23,200 --> 00:35:25,640
+-¿Bajarías a cenar?
+-¡No!
+
+538
+00:35:26,880 --> 00:35:29,200
+Con suavidad.
+
+539
+00:35:29,280 --> 00:35:32,240
+Me daría mucho gusto
+
+540
+00:35:33,160 --> 00:35:35,120
+que me acompañaras a cenar.
+
+541
+00:35:35,200 --> 00:35:36,920
+Di "por favor".
+
+542
+00:35:37,320 --> 00:35:38,800
+-Por favor.
+-No, gracias.
+
+543
+00:35:38,880 --> 00:35:41,080
+-¡No puedes quedarte ahí por siempre!
+-Claro que sí.
+
+544
+00:35:41,200 --> 00:35:45,680
+¡Bien! ¡Entonces muérete de hambre!
+
+545
+00:35:45,760 --> 00:35:50,400
+Si no come conmigo,
+entonces ¡no comerá!
+
+546
+00:35:53,840 --> 00:35:56,880
+Cielos. Eso no salió
+nada bien, ¿verdad?
+
+547
+00:35:56,960 --> 00:35:59,840
+Lumiere, vigila la puerta
+
+548
+00:35:59,920 --> 00:36:03,160
+e infórmame si hay algún cambio.
+
+549
+00:36:03,240 --> 00:36:05,760
+Cuenta conmigo<i>, mon capitain</i>e.
+
+550
+00:36:05,840 --> 00:36:10,040
+Mejor bajemos y empecemos a limpiar.
+
+551
+00:36:11,440 --> 00:36:13,720
+Se lo pido bien, y ella me rechaza.
+
+552
+00:36:14,440 --> 00:36:16,800
+¿Qué quiere? ¿Que suplique?
+
+553
+00:36:18,040 --> 00:36:19,680
+Muéstrame a la chica.
+
+554
+00:36:21,760 --> 00:36:25,480
+<i>Pero el amo no es tan malo</i>
+<i>cuando lo conoces.</i>
+
+555
+00:36:25,560 --> 00:36:27,560
+<i>¿Por qué no le das una oportunidad?</i>
+
+556
+00:36:27,640 --> 00:36:29,440
+<i>No quiero conocerlo.</i>
+
+557
+00:36:29,520 --> 00:36:32,440
+<i>No quiero tener nada que ver con él.</i>
+
+558
+00:36:34,280 --> 00:36:36,200
+Me estoy engañando.
+
+559
+00:36:36,280 --> 00:36:39,160
+Para ella siempre seré
+
+560
+00:36:39,240 --> 00:36:40,720
+un monstruo.
+
+561
+00:36:46,000 --> 00:36:47,480
+Es inútil.
+
+562
+00:37:05,400 --> 00:37:07,240
+-No.
+-Sí.
+
+563
+00:37:07,320 --> 00:37:10,000
+-No.
+-Sí.
+
+564
+00:37:10,080 --> 00:37:12,520
+Ya me has quemado antes.
+
+565
+00:37:15,640 --> 00:37:17,760
+<i>¡Zut alor</i>s! ¡Aquí viene!
+
+566
+00:37:22,360 --> 00:37:26,320
+Vamos, Chip.
+Al aparador con tus hermanos.
+
+567
+00:37:27,440 --> 00:37:29,080
+Pero no tengo sueño.
+
+568
+00:37:29,160 --> 00:37:32,240
+-Claro que sí.
+-No.
+
+569
+00:37:32,320 --> 00:37:35,880
+Trabajo y me esfuerzo todo el día,
+¿para qué?
+
+570
+00:37:35,960 --> 00:37:38,880
+¡Una obra maestra
+culinaria desperdiciada!
+
+571
+00:37:38,960 --> 00:37:41,960
+Deja de quejarte.
+Ha sido una larga noche para todos.
+
+572
+00:37:42,040 --> 00:37:45,240
+Considero que es una testaruda.
+
+573
+00:37:45,320 --> 00:37:46,880
+Después de todo, se lo pidió por favor.
+
+574
+00:37:46,960 --> 00:37:49,720
+Pero si el amo no aprende
+a controlar su temperamento,
+
+575
+00:37:49,800 --> 00:37:52,080
+-jamás romperá el...
+-Qué gusto verte
+
+576
+00:37:52,160 --> 00:37:53,760
+por aquí<i>, mademoisell</i>e.
+
+577
+00:37:53,840 --> 00:37:56,520
+Soy Din Don, el mayordomo de la casa.
+
+578
+00:37:58,960 --> 00:38:01,960
+-Él es Lumiere.
+<i>-Enchanté, chérie.</i>
+
+579
+00:38:02,040 --> 00:38:05,240
+Si hay algo, deja eso,
+lo que sea, por favor,
+
+580
+00:38:05,320 --> 00:38:08,480
+que podamos hacer
+para que estés más cómoda...
+
+581
+00:38:08,560 --> 00:38:10,920
+-Tengo algo de hambre.
+-¿Sí?
+
+582
+00:38:11,000 --> 00:38:12,760
+¿Lo oyeron? Tiene hambre.
+
+583
+00:38:12,840 --> 00:38:15,920
+Ceben el fuego.
+Saquen la plata. Despierten a la vajilla.
+
+584
+00:38:16,000 --> 00:38:18,640
+Recuerden lo que dijo el amo.
+
+585
+00:38:18,720 --> 00:38:21,760
+Tonterías. No dejaré
+que la pobre niña tenga hambre.
+
+586
+00:38:21,840 --> 00:38:24,760
+De acuerdo.
+Un vaso de agua, un trozo de pan y...
+
+587
+00:38:24,840 --> 00:38:26,720
+Din Don, me sorprendes.
+
+588
+00:38:27,400 --> 00:38:30,160
+No es una prisionera.
+Es nuestra huésped.
+
+589
+00:38:30,240 --> 00:38:33,800
+Debemos hacerla sentir bienvenida.
+Por aquí<i>, mademoisell</i>e.
+
+590
+00:38:33,880 --> 00:38:35,720
+Pero bajen la voz.
+
+591
+00:38:35,800 --> 00:38:38,000
+Si el amo se entera,
+nos cortará la cabeza.
+
+592
+00:38:38,320 --> 00:38:40,160
+Claro.
+
+593
+00:38:40,240 --> 00:38:43,240
+Pero ¿qué es una cena sin música?
+
+594
+00:38:43,920 --> 00:38:45,080
+¿Música?
+
+595
+00:38:49,040 --> 00:38:52,480
+Es con profundo orgullo y gran placer
+
+596
+00:38:52,560 --> 00:38:54,400
+que le damos la bienvenida
+esta noche.
+
+597
+00:38:54,480 --> 00:38:57,120
+Y ahora, la invitamos a relajarse.
+
+598
+00:38:57,200 --> 00:39:02,040
+Póngase cómoda mientras el comedor
+le presenta dignamente
+
+599
+00:39:02,120 --> 00:39:03,560
+su cena.
+
+600
+00:39:04,960 --> 00:39:09,840
+<i>Nuestro huésped sea usted</i>
+
+601
+00:39:09,920 --> 00:39:12,160
+<i>Venga el servicio a probar</i>
+
+602
+00:39:12,240 --> 00:39:14,800
+<i>Una servilleta as</i>í, chérie
+
+603
+00:39:14,880 --> 00:39:16,800
+<i>Y yo hago lo demás</i>
+
+604
+00:39:16,880 --> 00:39:19,120
+Soup du jour
+<i>Bu</i>en hors d'oeuvres
+
+605
+00:39:19,200 --> 00:39:21,360
+<i>Nuestra vida es atender</i>
+
+606
+00:39:21,440 --> 00:39:23,680
+<i>Pruebe usted qué maravilla</i>
+
+607
+00:39:23,760 --> 00:39:26,040
+<i>¿No me cree?</i>
+<i>Pregunte a la vajilla</i>
+
+608
+00:39:26,120 --> 00:39:28,280
+<i>A cantar, a bailar</i>
+
+609
+00:39:28,360 --> 00:39:30,800
+<i>Ésta es Francia, no olvidar</i>
+
+610
+00:39:30,880 --> 00:39:34,720
+<i>La comida aquí es primero ya se ve</i>
+
+611
+00:39:34,800 --> 00:39:37,240
+<i>Consulte su menú</i>
+
+612
+00:39:37,320 --> 00:39:40,480
+<i>Escoja su ambigú y pida usted</i>
+
+613
+00:39:40,560 --> 00:39:43,720
+<i>Nuestro huésped sea usted</i>
+
+614
+00:39:43,800 --> 00:39:46,080
+<i>Pruebe usted el soufflé</i>
+
+615
+00:39:46,160 --> 00:39:48,240
+<i>Y los postres enflambé</i>
+
+616
+00:39:48,320 --> 00:39:50,160
+<i>Preparados y servidos</i>
+
+617
+00:39:50,240 --> 00:39:52,400
+<i>Con el toque de un gourmet</i>
+
+618
+00:39:52,480 --> 00:39:54,720
+<i>La inquietud a olvidar</i>
+
+619
+00:39:54,800 --> 00:39:56,800
+<i>El banquete va a empezar</i>
+
+620
+00:39:56,880 --> 00:39:58,960
+<i>No hay tristeza ni protesta</i>
+
+621
+00:39:59,040 --> 00:40:01,160
+<i>Cuando aquí se hace la fiesta</i>
+
+622
+00:40:01,240 --> 00:40:03,160
+<i>Habrá trucos sin par</i>
+
+623
+00:40:03,240 --> 00:40:05,400
+<i>Y mil bromas que contar</i>
+
+624
+00:40:05,480 --> 00:40:07,240
+<i>Todo está en su punto</i>
+
+625
+00:40:07,320 --> 00:40:09,400
+<i>Lo puede apostar</i>
+
+626
+00:40:09,480 --> 00:40:11,560
+<i>Y vamos a brindar</i>
+
+627
+00:40:11,680 --> 00:40:13,680
+<i>Nada le va a costar</i>
+
+628
+00:40:13,760 --> 00:40:14,840
+<i>Y pida usted</i>
+
+629
+00:40:14,920 --> 00:40:18,200
+<i>Si hay tensión</i>
+<i>Comer bien es solución</i>
+
+630
+00:40:18,280 --> 00:40:20,360
+<i>Pida usted</i>
+
+631
+00:40:20,480 --> 00:40:22,280
+<i>Nuestro huésped sea usted</i>
+
+632
+00:40:24,000 --> 00:40:26,240
+<i>Nadie se resigna</i>
+
+633
+00:40:26,320 --> 00:40:28,800
+<i>A esta vida tan indigna</i>
+
+634
+00:40:28,880 --> 00:40:32,080
+<i>Del sirviente</i>
+<i>Que no tiene a quién servir</i>
+
+635
+00:40:32,160 --> 00:40:33,720
+¡Suéltame!
+
+636
+00:40:34,520 --> 00:40:35,800
+<i>Ah, los buenos días</i>
+
+637
+00:40:35,880 --> 00:40:37,640
+<i>De nuestros triunfos</i>
+
+638
+00:40:38,800 --> 00:40:42,520
+<i>Ya se han ido y no hay por qué vivir</i>
+
+639
+00:40:43,240 --> 00:40:45,440
+<i>Diez años enmohecimos</i>
+
+640
+00:40:45,520 --> 00:40:48,120
+<i>Y de polvo nos cubrimos</i>
+
+641
+00:40:48,200 --> 00:40:49,560
+<i>Sin poder ejercitar</i>
+
+642
+00:40:49,640 --> 00:40:52,880
+<i>Nuestra labor</i>
+
+643
+00:40:53,480 --> 00:40:57,960
+<i>Sombras que rondamos el castillo</i>
+
+644
+00:40:58,040 --> 00:40:59,680
+<i>Todo aquí dormía</i>
+
+645
+00:40:59,760 --> 00:41:01,680
+<i>Usted trajo la alegría</i>
+
+646
+00:41:01,760 --> 00:41:03,600
+<i>Ella es, Bella es</i>
+
+647
+00:41:03,680 --> 00:41:05,360
+<i>Como una bendición</i>
+
+648
+00:41:05,440 --> 00:41:07,120
+<i>Hay buen vino a la mesa</i>
+
+649
+00:41:07,200 --> 00:41:09,160
+<i>Puesta con gran distinción</i>
+
+650
+00:41:09,280 --> 00:41:11,200
+<i>A los postres, el té</i>
+
+651
+00:41:11,280 --> 00:41:13,200
+<i>Que con gusto serviré</i>
+
+652
+00:41:13,280 --> 00:41:15,000
+<i>Las tacitas van marchando</i>
+
+653
+00:41:15,120 --> 00:41:17,040
+<i>Mientras yo voy burbujeando</i>
+
+654
+00:41:17,160 --> 00:41:18,920
+<i>Al hervir, silbaré</i>
+
+655
+00:41:19,040 --> 00:41:20,920
+<i>¡Ay, por Dios! Ya me manché</i>
+
+656
+00:41:21,040 --> 00:41:24,320
+<i>A limpiar</i>
+<i>Que todo reluciente esté</i>
+
+657
+00:41:24,400 --> 00:41:26,520
+<i>Hay un quehacer atroz</i>
+
+658
+00:41:26,600 --> 00:41:28,440
+<i>Es un terrón o dos</i>
+
+659
+00:41:28,520 --> 00:41:29,760
+<i>Y pida usted</i>
+
+660
+00:41:29,840 --> 00:41:31,600
+<i>-Pida usted</i>
+<i>-Pida usted</i>
+
+661
+00:41:31,680 --> 00:41:32,960
+<i>Pida usted</i>
+
+662
+00:41:33,040 --> 00:41:34,720
+<i>Nuestro huésped sea usted</i>
+<i>Pida y se le atenderá</i>
+
+663
+00:41:34,800 --> 00:41:36,160
+Basta de jugar. Por aquí. En fila.
+
+664
+00:41:36,240 --> 00:41:39,000
+<i>Hace años que ninguno viene aquí</i>
+
+665
+00:41:39,080 --> 00:41:40,160
+<i>¡Nadie vendrá!</i>
+
+666
+00:41:40,240 --> 00:41:42,040
+<i>Darle comodidad</i>
+
+667
+00:41:42,120 --> 00:41:44,080
+<i>Es nuestra finalidad</i>
+
+668
+00:41:44,160 --> 00:41:46,680
+<i>Y si hay velas alumbrando</i>
+
+669
+00:41:46,760 --> 00:41:51,280
+<i>Seguiremos cocinando</i>
+
+670
+00:41:51,400 --> 00:41:55,600
+<i>Plato a plato</i>
+
+671
+00:41:55,680 --> 00:41:57,840
+<i>Vendrán</i>
+
+672
+00:41:57,920 --> 00:42:00,600
+<i>Hasta que no pueda más</i>
+
+673
+00:42:00,680 --> 00:42:04,440
+<i>Cantaremos para que repose usted</i>
+
+674
+00:42:04,520 --> 00:42:06,520
+<i>Disfrute el gran festín</i>
+
+675
+00:42:06,600 --> 00:42:08,360
+<i>Desde el principio al fin</i>
+
+676
+00:42:08,440 --> 00:42:10,200
+<i>Y pida usted</i>
+
+677
+00:42:10,280 --> 00:42:11,920
+<i>Pida usted</i>
+
+678
+00:42:13,360 --> 00:42:16,920
+<i>Nuestro huésped sea</i>
+
+679
+00:42:17,000 --> 00:42:22,760
+<i>Usted</i>
+
+680
+00:42:25,560 --> 00:42:28,560
+-¡Bravo! Estuvo maravilloso.
+-Gracias.
+
+681
+00:42:29,840 --> 00:42:34,320
+Gracias<i>, mademoisell</i>e.
+Buen espectáculo, ¿no?
+
+682
+00:42:35,280 --> 00:42:39,720
+Cielos, miren la hora. A la cama.
+
+683
+00:42:39,800 --> 00:42:42,240
+No podría acostarme ahora.
+
+684
+00:42:42,320 --> 00:42:44,240
+Es mi primera vez
+en un castillo encantado.
+
+685
+00:42:44,320 --> 00:42:45,640
+¡Encantado!
+
+686
+00:42:46,560 --> 00:42:49,720
+¿Quién dijo
+que el castillo estaba encantado?
+
+687
+00:42:49,840 --> 00:42:51,400
+Fuiste tú, ¿no?
+
+688
+00:42:51,480 --> 00:42:53,600
+Lo descubrí yo sola.
+
+689
+00:42:55,440 --> 00:42:57,840
+Quisiera dar una vuelta, si se puede.
+
+690
+00:42:58,480 --> 00:43:01,040
+-¿Quieres dar un paseo?
+-Un momento.
+
+691
+00:43:01,120 --> 00:43:03,600
+No creo que sea buena idea.
+
+692
+00:43:03,680 --> 00:43:07,360
+No podemos dejar
+que husmee en ciertos lugares,
+
+693
+00:43:07,440 --> 00:43:08,920
+no sé si me entiendes.
+
+694
+00:43:09,000 --> 00:43:10,440
+Quizá puedas llevarme tú.
+
+695
+00:43:10,520 --> 00:43:13,920
+Seguro que sabes todo
+lo que hay que saber sobre el castillo.
+
+696
+00:43:14,000 --> 00:43:16,880
+Bueno. De hecho...
+
+697
+00:43:16,960 --> 00:43:18,320
+Claro que sí.
+
+698
+00:43:19,520 --> 00:43:23,040
+Como verás,
+esa pseudofachada fue arrancada
+
+699
+00:43:23,160 --> 00:43:25,600
+para mostrar
+el diseño barroco minimalista.
+
+700
+00:43:25,680 --> 00:43:28,400
+Mira los inusuales
+techos arqueados invertidos.
+
+701
+00:43:28,480 --> 00:43:32,120
+Éste es otro ejemplo
+del período barroco neoclásico.
+
+702
+00:43:32,200 --> 00:43:35,760
+Y como siempre digo,
+será barroco, pero está limpio.
+
+703
+00:43:38,400 --> 00:43:39,840
+¿En qué estaba?
+
+704
+00:43:40,760 --> 00:43:42,160
+¡Atención!
+
+705
+00:43:43,000 --> 00:43:47,640
+Ahora quisiera mostrarte
+el arco botarel sobre...
+
+706
+00:43:47,720 --> 00:43:48,720
+<i>¿Mademoiselle?</i>
+
+707
+00:43:54,880 --> 00:43:57,280
+-¿Qué hay allí arriba?
+-¿Dónde? ¿Allí? Nada.
+
+708
+00:43:57,360 --> 00:43:59,440
+No hay nada interesante
+en el ala oeste.
+
+709
+00:43:59,520 --> 00:44:01,520
+Es polvorienta, insípida, aburrida.
+
+710
+00:44:02,680 --> 00:44:04,960
+Entonces ¡ésa es el ala oeste!
+
+711
+00:44:05,040 --> 00:44:06,440
+Bien hecho.
+
+712
+00:44:07,080 --> 00:44:09,640
+Me pregunto qué esconde allí arriba.
+
+713
+00:44:09,720 --> 00:44:13,640
+-¿Esconder? El amo no oculta nada.
+-Entonces no sería prohibida.
+
+714
+00:44:13,720 --> 00:44:18,160
+Quiz<i>á mademoisel</i>le quiera
+ver algo más.
+
+715
+00:44:18,240 --> 00:44:20,840
+Tenemos exquisitos tapices
+que datan de...
+
+716
+00:44:20,920 --> 00:44:23,080
+-Quizá más tarde.
+-Los jardines.
+
+717
+00:44:23,160 --> 00:44:25,320
+O... La biblioteca, ¿quizá?
+
+718
+00:44:25,400 --> 00:44:27,280
+¿Hay una biblioteca?
+
+719
+00:44:27,360 --> 00:44:29,400
+-Claro que sí.
+-Con libros.
+
+720
+00:44:29,520 --> 00:44:31,960
+-Montones de libros.
+-Montañas de libros.
+
+721
+00:44:32,040 --> 00:44:33,480
+-Bosques de libros.
+-Cataratas.
+
+722
+00:44:33,560 --> 00:44:35,080
+-Tormentas.
+-Pantanos de libros.
+
+723
+00:44:35,160 --> 00:44:37,840
+Más libros
+de los que pueden leerse en una vida.
+
+724
+00:44:37,920 --> 00:44:40,000
+Libros de todas las materias
+
+725
+00:44:40,080 --> 00:44:42,880
+por todos los autores
+que escribieron en papel.
+
+726
+00:46:22,880 --> 00:46:26,280
+-¿Por qué viniste aquí?
+-Lo siento.
+
+727
+00:46:26,360 --> 00:46:30,080
+-¡Te advertí no venir aquí!
+-No quise molestar.
+
+728
+00:46:30,160 --> 00:46:32,880
+¿Te das cuenta
+de lo que pudiste haber hecho?
+
+729
+00:46:33,760 --> 00:46:35,120
+¡Por favor! ¡Basta!
+
+730
+00:46:35,200 --> 00:46:37,360
+-¡Vete!
+-¡No!
+
+731
+00:46:39,560 --> 00:46:42,640
+¡Vete!
+
+732
+00:46:54,080 --> 00:46:55,160
+¿Adónde vas?
+
+733
+00:46:55,240 --> 00:46:58,520
+Promesa o no,
+no me quedaré un minuto más.
+
+734
+00:46:58,600 --> 00:47:01,240
+No, espera, por favor. ¡Espera!
+
+735
+00:48:17,320 --> 00:48:18,360
+¡No!
+
+736
+00:49:28,560 --> 00:49:30,640
+Ven. No hagas eso.
+
+737
+00:49:34,840 --> 00:49:36,520
+Quédate quieto.
+
+738
+00:49:38,320 --> 00:49:39,400
+¡Eso duele!
+
+739
+00:49:39,480 --> 00:49:41,400
+Si te quedaras quieto, no dolería tanto.
+
+740
+00:49:41,480 --> 00:49:43,640
+Si no te hubieras escapado,
+esto no habría pasado.
+
+741
+00:49:43,720 --> 00:49:47,200
+Si no me hubieras asustado,
+no me habría escapado.
+
+742
+00:49:47,680 --> 00:49:50,280
+¡Tú no debiste ir al ala oeste!
+
+743
+00:49:50,360 --> 00:49:53,360
+Tú debes aprender
+a controlar tu temperamento.
+
+744
+00:49:56,200 --> 00:49:59,120
+Quédate quieto.
+Quizá te arda un poco.
+
+745
+00:50:02,400 --> 00:50:06,600
+A propósito,
+gracias por salvarme la vida.
+
+746
+00:50:11,280 --> 00:50:12,760
+De nada.
+
+747
+00:50:19,760 --> 00:50:24,120
+No suelo dejar el asilo
+en la mitad de la noche,
+
+748
+00:50:24,200 --> 00:50:26,960
+pero él dijo que valdría la pena.
+
+749
+00:50:29,440 --> 00:50:32,080
+-Te escucho.
+-Es así.
+
+750
+00:50:32,800 --> 00:50:35,440
+Deseo casarme con Bella,
+
+751
+00:50:35,520 --> 00:50:38,360
+pero debo persuadirla.
+
+752
+00:50:39,240 --> 00:50:41,040
+Lo rechazó sin vueltas.
+
+753
+00:50:41,640 --> 00:50:44,080
+Todos saben que su padre está loco.
+
+754
+00:50:44,160 --> 00:50:47,560
+Vino esta noche delirando
+sobre una bestia en un castillo.
+
+755
+00:50:47,640 --> 00:50:49,280
+Maurice es inofensivo.
+
+756
+00:50:49,360 --> 00:50:54,640
+Bella haría cualquier cosa
+con tal de que no lo encierren.
+
+757
+00:50:56,120 --> 00:50:58,080
+Sí, incluso casarse con él.
+
+758
+00:51:00,440 --> 00:51:03,400
+Quieres que encierre a su padre
+en el asilo,
+
+759
+00:51:03,480 --> 00:51:05,800
+salvo que ella acceda
+a casarse contigo.
+
+760
+00:51:06,800 --> 00:51:09,000
+Eso es despreciable.
+
+761
+00:51:10,320 --> 00:51:11,640
+Me encanta.
+
+762
+00:51:14,160 --> 00:51:17,320
+Si nadie me ayuda,
+entonces regresaré solo.
+
+763
+00:51:17,400 --> 00:51:20,440
+Sí, ¿eso es todo?
+No me importa lo que haga falta.
+
+764
+00:51:20,520 --> 00:51:23,040
+Encontraré ese castillo y...
+
+765
+00:51:23,120 --> 00:51:25,160
+La sacaré de allí.
+
+766
+00:51:31,480 --> 00:51:33,520
+-¡Bella! ¡Maurice!
+-Qué pena.
+
+767
+00:51:34,160 --> 00:51:36,640
+Parece que al final no resultará.
+
+768
+00:51:36,720 --> 00:51:38,960
+Tienen que regresar
+en algún momento.
+
+769
+00:51:39,040 --> 00:51:42,800
+Y cuando vuelvan, estaremos listos.
+
+770
+00:51:42,880 --> 00:51:49,120
+Lefou, no te muevas de ahí
+hasta que Bella y su padre regresen.
+
+771
+00:51:49,200 --> 00:51:50,720
+Pero...
+
+772
+00:51:53,400 --> 00:51:54,520
+Rayos.
+
+773
+00:52:17,320 --> 00:52:19,920
+Nunca me sentí así por nadie.
+
+774
+00:52:21,880 --> 00:52:25,640
+Quiero hacer algo por ella. Pero ¿qué?
+
+775
+00:52:25,720 --> 00:52:27,560
+Está lo tradicional.
+
+776
+00:52:27,640 --> 00:52:31,160
+Flores, chocolates,
+promesas que no piensas cumplir.
+
+777
+00:52:31,600 --> 00:52:35,320
+No. Debe ser algo muy especial.
+
+778
+00:52:35,400 --> 00:52:38,600
+Algo que despierte su interés.
+Un momento.
+
+779
+00:52:41,240 --> 00:52:42,400
+¿Bella?
+
+780
+00:52:43,120 --> 00:52:45,760
+Quiero mostrarte algo.
+
+781
+00:52:47,320 --> 00:52:50,040
+Pero primero, cierra los ojos.
+
+782
+00:52:52,200 --> 00:52:53,800
+Es una sorpresa.
+
+783
+00:53:04,560 --> 00:53:06,960
+-¿Puedo abrirlos?
+-Todavía no.
+
+784
+00:53:08,560 --> 00:53:09,880
+Espera aquí.
+
+785
+00:53:15,120 --> 00:53:19,280
+-¿Puedo abrirlos ahora?
+-De acuerdo. Ahora.
+
+786
+00:53:27,800 --> 00:53:30,040
+No puedo creerlo.
+
+787
+00:53:30,120 --> 00:53:32,600
+Nunca vi tantos libros en mi vida.
+
+788
+00:53:32,680 --> 00:53:35,960
+-¿Te gusta?
+-Es maravillosa.
+
+789
+00:53:36,040 --> 00:53:37,640
+Entonces es tuya.
+
+790
+00:53:38,480 --> 00:53:40,320
+Muchas gracias.
+
+791
+00:53:40,400 --> 00:53:43,440
+-¡Miren eso!
+-Sabía que funcionaría.
+
+792
+00:53:43,520 --> 00:53:45,760
+¿Qué? ¿Qué cosa?
+
+793
+00:53:45,840 --> 00:53:49,280
+-Es muy alentador.
+-¿No es maravilloso?
+
+794
+00:53:49,360 --> 00:53:51,640
+-Yo no vi nada.
+-Ven conmigo, Chip.
+
+795
+00:53:51,720 --> 00:53:53,480
+Hay cosas que hacer en la cocina.
+
+796
+00:53:53,560 --> 00:53:57,160
+¿De qué hablan?
+¿Qué sucede? Vamos, mamá.
+
+797
+00:54:44,200 --> 00:54:47,960
+<i>Qué gran bondad</i>
+<i>Se esconde ahí</i>
+
+798
+00:54:48,040 --> 00:54:51,760
+<i>Aunque al principio rudo y malo lo creí</i>
+
+799
+00:54:51,840 --> 00:54:55,560
+<i>Ahora sé que él no es así</i>
+
+800
+00:54:55,640 --> 00:54:59,360
+<i>Y me pregunto por qué antes no lo vi</i>
+
+801
+00:55:12,840 --> 00:55:14,800
+<i>Miró hacia acá</i>
+
+802
+00:55:14,880 --> 00:55:16,640
+<i>Me pareció</i>
+
+803
+00:55:16,720 --> 00:55:20,480
+<i>Y cuando nos tocamos no me rechazó</i>
+
+804
+00:55:20,560 --> 00:55:22,360
+<i>No puede ser</i>
+
+805
+00:55:22,440 --> 00:55:24,240
+<i>Lo ignoraré</i>
+
+806
+00:55:24,320 --> 00:55:28,400
+<i>Mas sin embargo</i>
+<i>nunca me ha mirado así</i>
+
+807
+00:55:30,760 --> 00:55:36,680
+<i>Es nuevo y excitante</i>
+
+808
+00:55:37,160 --> 00:55:39,600
+<i>Cómo imaginar</i>
+
+809
+00:55:39,680 --> 00:55:46,160
+<i>Que fuera así</i>
+
+810
+00:55:46,240 --> 00:55:48,600
+<i>No es</i>
+
+811
+00:55:48,680 --> 00:55:52,480
+<i>Un gallardo príncipe</i>
+
+812
+00:55:52,560 --> 00:55:54,840
+<i>Pero algo hay en él</i>
+
+813
+00:55:54,920 --> 00:55:59,600
+<i>Que antes no lo vi</i>
+
+814
+00:56:00,760 --> 00:56:02,680
+<i>-Nadie pensó</i>
+<i>-Qué bendición</i>
+
+815
+00:56:02,760 --> 00:56:04,680
+<i>-Nadie soñó</i>
+<i>-Cómo iba a ser</i>
+
+816
+00:56:04,800 --> 00:56:07,440
+<i>Que al juntarse algo increíble resultó</i>
+
+817
+00:56:07,520 --> 00:56:10,080
+<i>-Eso es tan raro</i>
+<i>-Hay que esperar</i>
+
+818
+00:56:10,160 --> 00:56:11,880
+<i>Que siga así</i>
+
+819
+00:56:11,960 --> 00:56:15,280
+<i>Y puede ser que haya algo más ahí</i>
+
+820
+00:56:17,640 --> 00:56:21,560
+<i>Y puede ser que haya algo más ahí</i>
+
+821
+00:56:21,640 --> 00:56:23,480
+¿Qué?
+
+822
+00:56:23,560 --> 00:56:27,320
+<i>Y puede ser que haya algo más ahí</i>
+
+823
+00:56:27,400 --> 00:56:29,120
+¿Qué es lo que hay, mamá?
+
+824
+00:56:29,840 --> 00:56:31,560
+Te lo diré cuando crezcas.
+
+825
+00:56:38,000 --> 00:56:39,760
+Ésta es la noche.
+
+826
+00:56:42,160 --> 00:56:45,360
+-No estoy seguro de poder hacerlo.
+-No hay tiempo para la timidez.
+
+827
+00:56:45,440 --> 00:56:47,680
+Debes ser osado y audaz.
+
+828
+00:56:47,760 --> 00:56:49,240
+Osado. Audaz.
+
+829
+00:56:53,160 --> 00:56:57,080
+Habrá música y velas románticas
+
+830
+00:56:57,160 --> 00:56:58,920
+provistas por mí.
+
+831
+00:56:59,000 --> 00:57:02,280
+Y cuando sea el momento,
+le confesarás tu amor.
+
+832
+00:57:03,120 --> 00:57:04,920
+Sí, yo...
+
+833
+00:57:05,000 --> 00:57:07,120
+Yo... No puedo.
+
+834
+00:57:07,200 --> 00:57:10,880
+-Te gusta la chica, ¿no?
+-Más que nada.
+
+835
+00:57:10,960 --> 00:57:13,120
+Entonces debes decírselo.
+
+836
+00:57:14,920 --> 00:57:18,200
+<i>¡Voil</i>à! Te ves tan...
+
+837
+00:57:18,960 --> 00:57:20,200
+Estúpido.
+
+838
+00:57:20,720 --> 00:57:23,040
+No es la palabra que buscaba.
+
+839
+00:57:23,120 --> 00:57:25,520
+Quizá un poco menos arriba.
+
+840
+00:57:29,880 --> 00:57:31,760
+La dama espera.
+
+841
+00:57:56,480 --> 00:57:59,040
+<i>Fábula ancestral</i>
+
+842
+00:58:01,560 --> 00:58:04,120
+<i>Sueño hecho verdad</i>
+
+843
+00:58:06,920 --> 00:58:09,520
+<i>Belleza y fealdad</i>
+
+844
+00:58:09,600 --> 00:58:12,240
+<i>Juntos hallarán</i>
+
+845
+00:58:12,320 --> 00:58:14,240
+<i>Más que una amistad</i>
+
+846
+00:58:17,320 --> 00:58:19,520
+<i>Algo allí cambió</i>
+
+847
+00:58:22,240 --> 00:58:24,840
+<i>En su corazón</i>
+
+848
+00:58:24,920 --> 00:58:27,680
+<i>Una historia ideal</i>
+
+849
+00:58:27,760 --> 00:58:30,160
+<i>Mágico final</i>
+
+850
+00:58:30,240 --> 00:58:33,200
+<i>Bella y Bestia son</i>
+
+851
+00:58:35,920 --> 00:58:38,720
+<i>Siempre será igual</i>
+
+852
+00:58:40,960 --> 00:58:44,680
+<i>Siempre sin pensar</i>
+
+853
+00:58:46,120 --> 00:58:48,640
+<i>Siempre existirá</i>
+
+854
+00:58:48,720 --> 00:58:50,960
+<i>Como la verdad</i>
+
+855
+00:58:51,040 --> 00:58:54,600
+<i>De que el sol saldrá</i>
+
+856
+00:58:56,000 --> 00:58:59,040
+<i>Fábula ancestral</i>
+
+857
+00:59:01,040 --> 00:59:03,880
+<i>Canto celestial</i>
+
+858
+00:59:06,200 --> 00:59:08,680
+<i>Es tan singular</i>
+
+859
+00:59:08,760 --> 00:59:11,040
+<i>Que te hace cambiar</i>
+
+860
+00:59:11,120 --> 00:59:13,960
+<i>Lo que estaba mal</i>
+
+861
+00:59:16,120 --> 00:59:19,480
+<i>Siempre como el sol</i>
+
+862
+00:59:21,160 --> 00:59:23,720
+<i>Surge la ilusión</i>
+
+863
+00:59:23,800 --> 00:59:26,240
+<i>Fábula ancestral</i>
+
+864
+00:59:26,320 --> 00:59:29,360
+<i>Música inmortal</i>
+
+865
+00:59:29,440 --> 00:59:32,120
+<i>Bella y Bestia son</i>
+
+866
+00:59:35,480 --> 00:59:38,360
+<i>Fábula ancestral</i>
+
+867
+00:59:38,440 --> 00:59:42,760
+<i>Música inmortal</i>
+
+868
+00:59:42,840 --> 00:59:49,360
+<i>Bella y Bestia son</i>
+
+869
+00:59:50,280 --> 00:59:54,200
+Vuelve al aparador, Chip.
+Es hora de dormir.
+
+870
+00:59:56,520 --> 00:59:58,160
+Buenas noches, mi amor.
+
+871
+01:00:22,160 --> 01:00:23,320
+¿Bella?
+
+872
+01:00:25,880 --> 01:00:28,640
+¿Eres feliz aquí conmigo?
+
+873
+01:00:29,200 --> 01:00:30,280
+Sí.
+
+874
+01:00:35,200 --> 01:00:36,560
+¿Qué pasa?
+
+875
+01:00:38,040 --> 01:00:41,760
+Me gustaría volver a ver a mi padre,
+aunque sea un momento.
+
+876
+01:00:41,840 --> 01:00:43,560
+Lo extraño mucho.
+
+877
+01:00:49,080 --> 01:00:50,600
+Hay una forma.
+
+878
+01:00:53,760 --> 01:00:56,280
+Este espejo te mostrará lo que quieras.
+
+879
+01:00:56,360 --> 01:00:58,360
+Lo que desees ver.
+
+880
+01:00:59,280 --> 01:01:01,760
+Quisiera ver a mi padre, por favor.
+
+881
+01:01:09,200 --> 01:01:11,520
+Papá. No.
+
+882
+01:01:12,280 --> 01:01:16,080
+Está enfermo.
+Quizá se esté muriendo, y está solo.
+
+883
+01:01:22,760 --> 01:01:25,520
+Entonces debes ir con él.
+
+884
+01:01:26,200 --> 01:01:27,600
+¿Qué dijiste?
+
+885
+01:01:27,680 --> 01:01:31,160
+Te libero. Ya no eres mi prisionera.
+
+886
+01:01:31,240 --> 01:01:35,080
+-¿Soy libre?
+-Sí.
+
+887
+01:01:36,640 --> 01:01:40,720
+Gracias. Espera, papá. Voy en camino.
+
+888
+01:01:43,720 --> 01:01:45,360
+Llévalo contigo
+
+889
+01:01:45,440 --> 01:01:49,360
+para que siempre puedas recordarme.
+
+890
+01:01:53,720 --> 01:01:56,880
+Gracias por entender
+cuánto me necesita.
+
+891
+01:02:05,200 --> 01:02:10,000
+Su Alteza,
+debo decirte que todo va de maravillas.
+
+892
+01:02:10,120 --> 01:02:12,960
+Sabía que lo tenías en tu interior.
+
+893
+01:02:13,080 --> 01:02:15,120
+La liberé.
+
+894
+01:02:15,200 --> 01:02:17,240
+Sí...
+
+895
+01:02:18,120 --> 01:02:20,360
+¿Qué?
+
+896
+01:02:20,440 --> 01:02:23,440
+-¿Cómo pudiste hacer eso?
+-Debí hacerlo.
+
+897
+01:02:23,520 --> 01:02:26,320
+Sí, pero... ¿Por qué?
+
+898
+01:02:26,960 --> 01:02:29,640
+Porque la amo.
+
+899
+01:02:30,200 --> 01:02:31,920
+¿Que hizo qué?
+
+900
+01:02:32,000 --> 01:02:36,160
+-Me temo que es verdad.
+-¿Se marcha?
+
+901
+01:02:36,240 --> 01:02:38,240
+Pero estaba tan cerca.
+
+902
+01:02:38,320 --> 01:02:42,800
+Después de tanto tiempo,
+finalmente aprendió a amar.
+
+903
+01:02:42,880 --> 01:02:45,440
+Entonces ya está.
+Eso debería romper el hechizo.
+
+904
+01:02:45,520 --> 01:02:49,440
+No es suficiente. Ella debe amarlo a él.
+
+905
+01:02:50,360 --> 01:02:52,000
+Ahora es demasiado tarde.
+
+906
+01:03:01,520 --> 01:03:02,600
+¿Papá?
+
+907
+01:03:03,440 --> 01:03:04,520
+¿Papá?
+
+908
+01:03:18,800 --> 01:03:20,200
+Volvieron.
+
+909
+01:03:22,640 --> 01:03:23,840
+Bella.
+
+910
+01:03:25,360 --> 01:03:27,640
+Está bien, papá. Estoy en casa.
+
+911
+01:03:29,240 --> 01:03:31,800
+Creí que jamás volvería a verte.
+
+912
+01:03:32,600 --> 01:03:35,280
+-¡Te extrañé mucho!
+-Pero la Bestia...
+
+913
+01:03:35,360 --> 01:03:38,040
+-¿Cómo te escapaste?
+-No me escapé, papá.
+
+914
+01:03:38,120 --> 01:03:41,400
+-Él me liberó.
+-¿Esa bestia horrible?
+
+915
+01:03:41,480 --> 01:03:45,920
+Es diferente ahora, papá. Ha cambiado.
+
+916
+01:03:51,320 --> 01:03:54,480
+-¡Hola!
+-Un polizón.
+
+917
+01:03:54,920 --> 01:03:57,440
+Hola, amiguito.
+
+918
+01:03:58,200 --> 01:04:00,160
+No creí que volvería a verte.
+
+919
+01:04:00,240 --> 01:04:02,840
+Bella, ¿por qué te fuiste?
+
+920
+01:04:02,920 --> 01:04:05,360
+¿No nos quieres más?
+
+921
+01:04:05,440 --> 01:04:08,320
+Chip, claro que sí. Pero...
+
+922
+01:04:11,760 --> 01:04:15,360
+-¿Puedo ayudarlo?
+-Vengo por su padre.
+
+923
+01:04:15,440 --> 01:04:18,280
+-¿Mi padre?
+-No se preocupe<i>, mademoisell</i>e.
+
+924
+01:04:18,360 --> 01:04:20,880
+Lo cuidaremos bien.
+
+925
+01:04:21,600 --> 01:04:25,240
+-¡Mi padre no está loco!
+-¡Delira como un lunático!
+
+926
+01:04:25,320 --> 01:04:28,520
+-Todos lo oímos, ¿verdad?
+-¡Sí!
+
+927
+01:04:29,280 --> 01:04:32,080
+-¡No lo permitiré!
+-¿Bella?
+
+928
+01:04:32,160 --> 01:04:35,520
+Maurice, cuéntalo de nuevo, viejo.
+
+929
+01:04:35,600 --> 01:04:38,240
+¿Qué tan grande era la bestia?
+
+930
+01:04:39,000 --> 01:04:42,200
+¡Era enorme!
+
+931
+01:04:42,280 --> 01:04:46,600
+Como de dos metros y medio,
+no, más, ¡tres metros de altura!
+
+932
+01:04:48,400 --> 01:04:51,240
+Es suficiente locura.
+
+933
+01:04:52,080 --> 01:04:53,960
+Es verdad.
+
+934
+01:04:54,600 --> 01:04:57,480
+-¡Sáquenlo de aquí!
+-¡Suéltenme!
+
+935
+01:04:57,560 --> 01:04:59,760
+¡No! ¡No pueden hacer esto!
+
+936
+01:05:01,200 --> 01:05:04,400
+Pobre Bella.
+Qué lástima lo de tu padre.
+
+937
+01:05:04,480 --> 01:05:07,040
+Sabes que no está loco, Gastón.
+
+938
+01:05:07,120 --> 01:05:12,000
+Podría arreglar este malentendido si...
+
+939
+01:05:12,080 --> 01:05:14,920
+-¿Si qué?
+-Si te casas conmigo.
+
+940
+01:05:15,000 --> 01:05:17,240
+-¿Qué?
+-Un palabrita, Bella.
+
+941
+01:05:17,320 --> 01:05:19,240
+-Es todo lo que hace falta.
+-¡Jamás!
+
+942
+01:05:19,320 --> 01:05:20,680
+Como quieras.
+
+943
+01:05:20,760 --> 01:05:24,000
+¿Bella? ¡Suéltenme!
+
+944
+01:05:24,640 --> 01:05:27,440
+Mi padre no está loco,
+y yo puedo demostrarlo.
+
+945
+01:05:27,520 --> 01:05:29,160
+Muéstrame a la Bestia.
+
+946
+01:05:34,040 --> 01:05:37,520
+-¿Es peligroso?
+-No, jamás lastimaría a nadie.
+
+947
+01:05:37,600 --> 01:05:41,640
+Sé que parece feroz,
+pero es amable y gentil.
+
+948
+01:05:42,600 --> 01:05:44,760
+-Es mi amigo.
+-Si no te conociera,
+
+949
+01:05:44,880 --> 01:05:47,880
+diría que te gusta ese monstruo.
+
+950
+01:05:47,960 --> 01:05:50,720
+Él no es un monstruo, Gastón. ¡Tú sí!
+
+951
+01:05:51,680 --> 01:05:54,240
+Ella está tan loca como el viejo.
+
+952
+01:05:54,720 --> 01:05:56,960
+La Bestia se llevará a sus hijos.
+
+953
+01:05:57,040 --> 01:05:58,560
+-Vendrá por ellos de noche.
+-No.
+
+954
+01:05:58,640 --> 01:06:01,520
+¡No estaremos a salvo
+hasta que su cabeza esté en la pared!
+
+955
+01:06:01,600 --> 01:06:03,560
+¡Hay que matar la Bestia!
+
+956
+01:06:04,480 --> 01:06:06,120
+<i>Nadie a salvo estará</i>
+
+957
+01:06:06,200 --> 01:06:07,920
+<i>Por las noches cazará</i>
+
+958
+01:06:08,000 --> 01:06:09,640
+<i>Hasta nuestros pobres niños</i>
+
+959
+01:06:09,720 --> 01:06:11,480
+<i>Ese monstruo comerá</i>
+
+960
+01:06:11,560 --> 01:06:13,200
+<i>Y si no lo detenemos</i>
+
+961
+01:06:13,320 --> 01:06:15,120
+<i>Mil destrozos causará</i>
+
+962
+01:06:15,240 --> 01:06:18,880
+<i>Ya es hora de tomar acción</i>
+
+963
+01:06:18,960 --> 01:06:25,240
+<i>Seguidme todos ya</i>
+
+964
+01:06:25,680 --> 01:06:28,800
+<i>Hay que ir sin temor</i>
+<i>A través de la neblina</i>
+
+965
+01:06:28,880 --> 01:06:32,000
+<i>Y la oscuridad del bosque fantasmal</i>
+
+966
+01:06:32,080 --> 01:06:35,280
+<i>Y al pasar qué emoción</i>
+<i>Por el puente del castillo</i>
+
+967
+01:06:35,360 --> 01:06:38,480
+<i>Hallaremos algo horrible y criminal</i>
+
+968
+01:06:38,560 --> 01:06:41,760
+<i>Bestia es de colmillos filosos</i>
+
+969
+01:06:41,840 --> 01:06:45,120
+<i>Con sus garras que quieren matar</i>
+
+970
+01:06:45,200 --> 01:06:46,800
+<i>Y aunque ruja feroz</i>
+
+971
+01:06:46,880 --> 01:06:48,440
+<i>No podrá detenernos</i>
+
+972
+01:06:48,520 --> 01:06:52,680
+<i>Y al fin morirá</i>
+<i>Muera ya</i>
+
+973
+01:06:52,760 --> 01:06:54,160
+No te dejaré hacer esto.
+
+974
+01:06:54,280 --> 01:06:58,080
+Si no estás con nosotros,
+estás en contra. ¡Traigan al viejo!
+
+975
+01:06:58,200 --> 01:06:59,840
+¡Quítame las manos de encima!
+
+976
+01:06:59,920 --> 01:07:02,480
+No podemos dejar
+que alerten a la criatura.
+
+977
+01:07:02,560 --> 01:07:06,080
+-¡Libéranos!
+-¡Liberaremos a la aldea de la bestia!
+
+978
+01:07:06,160 --> 01:07:08,320
+-¿Quién me sigue?
+-¡Yo!
+
+979
+01:07:08,400 --> 01:07:09,680
+-¡Yo!
+-¡Yo!
+
+980
+01:07:09,760 --> 01:07:11,240
+<i>Las antorchas prended</i>
+
+981
+01:07:11,320 --> 01:07:13,080
+<i>Con valor en mi caballo voy</i>
+
+982
+01:07:13,160 --> 01:07:16,040
+<i>Contamos con Gastón para vencer</i>
+
+983
+01:07:16,120 --> 01:07:19,200
+<i>Hay que ir sin temor</i>
+<i>Al castillo hechizado</i>
+
+984
+01:07:19,280 --> 01:07:22,480
+<i>Donde se halla algo oculto sin igual</i>
+
+985
+01:07:22,600 --> 01:07:25,800
+<i>Es la bestia como una montaña</i>
+
+986
+01:07:25,880 --> 01:07:29,040
+<i>A quien hay que matar sin piedad</i>
+
+987
+01:07:29,120 --> 01:07:30,720
+<i>Vamos ya, alabando al Señor</i>
+
+988
+01:07:30,800 --> 01:07:32,440
+<i>Con los arcos y espadas atacar</i>
+
+989
+01:07:34,120 --> 01:07:37,640
+¡Sitiaremos el castillo
+y traeremos su cabeza!
+
+990
+01:07:38,440 --> 01:07:41,600
+Debo advertir a la Bestia.
+Esto es culpa mía.
+
+991
+01:07:41,680 --> 01:07:46,240
+-Papá, ¿qué vamos a hacer?
+-Ya pensaremos en algo.
+
+992
+01:07:54,040 --> 01:07:56,240
+<i>No queremos vivir con temor</i>
+
+993
+01:07:56,320 --> 01:07:57,360
+<i>Y no entendemos</i>
+
+994
+01:07:57,440 --> 01:08:00,560
+<i>Por qué el monstruo aquí</i>
+<i>Nos viene a amenazar</i>
+
+995
+01:08:00,680 --> 01:08:02,360
+<i>Nuestras armas serán</i>
+
+996
+01:08:02,440 --> 01:08:03,760
+<i>Las que salven nuestros niños</i>
+
+997
+01:08:03,840 --> 01:08:07,080
+<i>Y defiendan nuestro hogar</i>
+
+998
+01:08:07,160 --> 01:08:08,240
+<i>¡Que muera ya!</i>
+
+999
+01:08:09,160 --> 01:08:12,440
+Sabía que era una tontería
+albergar esperanzas.
+
+1000
+01:08:12,520 --> 01:08:16,120
+Quizá habría sido mejor
+no haberla conocido.
+
+1001
+01:08:16,240 --> 01:08:18,600
+-¿Podría ser...?
+-¿Es ella?
+
+1002
+01:08:18,680 --> 01:08:20,960
+<i>¡Sacreble</i>u! ¡Invasores!
+
+1003
+01:08:21,040 --> 01:08:23,280
+-Inmiscuidos.
+-Y tienen el espejo.
+
+1004
+01:08:23,360 --> 01:08:24,400
+Adviertan al amo.
+
+1005
+01:08:24,480 --> 01:08:26,560
+Si quieren pelear, estaremos listos.
+
+1006
+01:08:26,640 --> 01:08:28,480
+¿Quién está conmigo?
+
+1007
+01:08:28,560 --> 01:08:30,560
+Tomen todo lo que encuentren.
+
+1008
+01:08:30,640 --> 01:08:33,280
+Pero recuerden, ¡la Bestia es mía!
+
+1009
+01:08:33,360 --> 01:08:35,280
+<i>Levantad el pendón</i>
+
+1010
+01:08:35,360 --> 01:08:36,880
+<i>Marcharemos al combate</i>
+
+1011
+01:08:36,960 --> 01:08:39,880
+<i>Sin temores y encendido el corazón</i>
+
+1012
+01:08:40,200 --> 01:08:41,720
+<i>Entonad la canción</i>
+
+1013
+01:08:41,800 --> 01:08:43,160
+<i>Aquí vamos cien franceses</i>
+
+1014
+01:08:43,240 --> 01:08:46,400
+<i>Y tenemos la razón</i>
+
+1015
+01:08:46,480 --> 01:08:48,240
+<i>¡Que muera ya!</i>
+
+1016
+01:08:49,040 --> 01:08:51,640
+-Disculpa, amo.
+-Déjame en paz.
+
+1017
+01:08:51,720 --> 01:08:54,120
+Pero están atacando el castillo.
+
+1018
+01:08:54,720 --> 01:08:57,320
+<i>¡Muera ya, muera ya!</i>
+
+1019
+01:08:57,800 --> 01:09:02,160
+-Esto no funciona.
+-Lumiere, ¡debemos hacer algo!
+
+1020
+01:09:02,240 --> 01:09:03,760
+¡Espera! ¡Ya sé!
+
+1021
+01:09:04,600 --> 01:09:07,280
+<i>¡Muera ya, muera ya!</i>
+
+1022
+01:09:08,360 --> 01:09:10,440
+¿Qué hacemos, amo?
+
+1023
+01:09:10,520 --> 01:09:12,640
+Ya no importa.
+
+1024
+01:09:12,720 --> 01:09:14,160
+Que vengan.
+
+1025
+01:09:14,240 --> 01:09:17,440
+<i>¡Muera ya, muera ya!</i>
+
+1026
+01:09:17,520 --> 01:09:19,320
+<i>¡Muera ya!</i>
+
+1027
+01:09:31,760 --> 01:09:32,800
+¡Ahora!
+
+1028
+01:09:53,720 --> 01:09:54,760
+¡Sí!
+
+1029
+01:09:58,600 --> 01:10:00,280
+¡Aquí vamos!
+
+1030
+01:10:03,800 --> 01:10:05,280
+¿Qué demonios?
+
+1031
+01:10:06,280 --> 01:10:07,880
+Bella, ¡cuidado!
+
+1032
+01:10:14,080 --> 01:10:16,320
+Deben probar esto.
+
+1033
+01:10:21,440 --> 01:10:23,840
+Aquí arriba, despreciables canallas.
+
+1034
+01:10:24,520 --> 01:10:25,800
+¡Ahora!
+
+1035
+01:11:35,440 --> 01:11:37,480
+Y no vuelvan.
+
+1036
+01:12:08,080 --> 01:12:09,240
+Levántate.
+
+1037
+01:12:10,960 --> 01:12:12,160
+Levántate.
+
+1038
+01:12:12,760 --> 01:12:14,760
+¿Qué sucede, Bestia?
+
+1039
+01:12:16,200 --> 01:12:19,080
+¿Demasiado amable y gentil
+para defenderte?
+
+1040
+01:12:26,680 --> 01:12:27,720
+¡No!
+
+1041
+01:12:30,880 --> 01:12:33,760
+-Bella.
+-No, Gastón, no lo hagas.
+
+1042
+01:12:39,760 --> 01:12:41,480
+Vamos, Philippe.
+
+1043
+01:13:06,600 --> 01:13:08,480
+¡Ven a pelear!
+
+1044
+01:13:10,720 --> 01:13:13,640
+¿Te enamoraste de ella, Bestia?
+
+1045
+01:13:13,720 --> 01:13:16,240
+¿Realmente creíste que ella te querría
+
+1046
+01:13:16,320 --> 01:13:18,560
+cuando tenía alguien como yo?
+
+1047
+01:13:30,280 --> 01:13:34,400
+¡Se acabó, Bestia! ¡Bella es mía!
+
+1048
+01:13:39,400 --> 01:13:42,920
+Suéltame. No me lastimes, por favor.
+
+1049
+01:13:43,000 --> 01:13:45,080
+Haré lo que sea.
+
+1050
+01:13:59,320 --> 01:14:00,520
+Lárgate.
+
+1051
+01:14:02,120 --> 01:14:03,280
+¡Bestia!
+
+1052
+01:14:04,360 --> 01:14:05,520
+Bella.
+
+1053
+01:14:14,520 --> 01:14:15,720
+¿Bella?
+
+1054
+01:14:21,440 --> 01:14:22,920
+Regresaste.
+
+1055
+01:15:02,240 --> 01:15:03,440
+Tú...
+
+1056
+01:15:04,920 --> 01:15:06,520
+Regresaste.
+
+1057
+01:15:06,600 --> 01:15:10,040
+Claro que regresé.
+No podía permitirles...
+
+1058
+01:15:10,920 --> 01:15:12,720
+Es todo culpa mía.
+
+1059
+01:15:12,800 --> 01:15:14,600
+Ojalá hubiera llegado antes.
+
+1060
+01:15:14,680 --> 01:15:19,320
+Quizá sea mejor así.
+
+1061
+01:15:19,400 --> 01:15:21,800
+No hables así.
+
+1062
+01:15:21,880 --> 01:15:24,200
+Estarás bien.
+
+1063
+01:15:24,280 --> 01:15:28,120
+Ahora estamos juntos.
+Todo estará bien, ya verás.
+
+1064
+01:15:30,440 --> 01:15:33,560
+Al menos pude verte
+
+1065
+01:15:35,360 --> 01:15:36,880
+una última vez.
+
+1066
+01:15:47,960 --> 01:15:49,640
+No.
+
+1067
+01:15:50,640 --> 01:15:54,640
+Por favor. No me dejes.
+
+1068
+01:15:58,640 --> 01:15:59,960
+Te amo.
+
+1069
+01:17:39,000 --> 01:17:41,360
+Bella, soy yo.
+
+1070
+01:17:57,360 --> 01:17:58,680
+Eres tú.
+
+1071
+01:18:32,040 --> 01:18:33,280
+Lumiere.
+
+1072
+01:18:34,160 --> 01:18:35,520
+Din Don.
+
+1073
+01:18:37,000 --> 01:18:38,400
+¡Sra. Potts!
+
+1074
+01:18:39,760 --> 01:18:41,800
+-Míranos.
+-Mamá.
+
+1075
+01:18:46,640 --> 01:18:50,160
+-Cielos.
+-Es un milagro.
+
+1076
+01:19:01,000 --> 01:19:02,240
+<i>L'amour.</i>
+
+1077
+01:19:06,480 --> 01:19:10,000
+Lumiere, viejo amigo.
+¿Dejamos el pasado atrás?
+
+1078
+01:19:10,080 --> 01:19:12,920
+Claro<i>, mon am</i>i.
+Te dije que ella rompería el hechizo.
+
+1079
+01:19:13,000 --> 01:19:17,600
+Disculpa, viejo amigo,
+pero creo que eso lo dije yo.
+
+1080
+01:19:17,680 --> 01:19:19,480
+No. Yo te lo dije a ti.
+
+1081
+01:19:19,560 --> 01:19:21,360
+Claro que no,
+
+1082
+01:19:21,440 --> 01:19:23,480
+¡tonto aparatoso
+con cabeza de parafina!
+
+1083
+01:19:23,560 --> 01:19:26,680
+<i>¡En gard</i>e, reloj de bolsillo grandulón!
+
+1084
+01:19:26,760 --> 01:19:28,760
+-Toma eso.
+-Deja de empujar.
+
+1085
+01:19:32,120 --> 01:19:35,360
+¿Vivirán felices para siempre, mamá?
+
+1086
+01:19:35,440 --> 01:19:37,200
+Claro, querido.
+
+1087
+01:19:38,040 --> 01:19:39,360
+Claro.
+
+1088
+01:19:40,200 --> 01:19:43,040
+¿Aún debo dormir en el aparador?
+
+1089
+01:19:46,440 --> 01:19:50,200
+<i>Siempre como el sol</i>
+
+1090
+01:19:51,400 --> 01:19:54,000
+<i>Surge la ilusión</i>
+
+1091
+01:19:54,080 --> 01:19:56,480
+<i>Fábula ancestral</i>
+
+1092
+01:19:56,560 --> 01:19:59,200
+<i>Música inmortal</i>
+
+1093
+01:19:59,280 --> 01:20:05,120
+<i>Bella y Bestia son</i>
+
+1094
+01:20:05,200 --> 01:20:08,160
+<i>Fábula ancestral</i>
+
+1095
+01:20:08,240 --> 01:20:11,680
+<i>Música inmortal</i>
+
+1096
+01:20:11,760 --> 01:20:17,520
+<i>Bella y Bestia son</i>
+
+1097
+01:24:22,840 --> 01:24:25,120
+A NUESTRO AMIGO, HOWARD,
+QUE LE DIO VOZ A UNA SIRENA
+
+1098
+01:24:25,200 --> 01:24:27,360
+Y ALMA A UNA BESTIA, ESTAREMOS
+SIEMPRE AGRADECIDOS.
+
+1099
+01:24:27,440 --> 01:24:28,600
+HOWARD ASHMAN
+1950-1991
+

@@ -1,0 +1,4885 @@
+1
+00:01:51,486 --> 00:01:53,238
+FASE 2: INICIADA
+
+2
+00:02:18,222 --> 00:02:20,265
+¡Alto!
+¡Demasiado!
+
+3
+00:02:22,226 --> 00:02:23,393
+¡Quítenmela!
+
+4
+00:02:39,535 --> 00:02:43,388
+<i>En Ultima Robotix,
+nos apasiona conectar.</i>
+
+5
+00:02:43,622 --> 00:02:46,766
+<i>Iniciamos con Elsie,
+tu asistente de voz favorita.</i>
+
+6
+00:02:47,000 --> 00:02:49,144
+<i>Ahora te transportamos...</i>
+
+7
+00:02:49,378 --> 00:02:52,939
+<i>te alimentamos y, claro, te escuchamos.</i>
+
+8
+00:02:53,173 --> 00:02:56,484
+<i>El</i> chatbot <i>Ulti-M8te le ofrece
+comodidad y compañía...</i>
+
+9
+00:02:56,718 --> 00:02:59,446
+<i>a millones de personas cada día.</i>
+
+10
+00:02:59,680 --> 00:03:02,407
+<i>Ahora trabajamos en algo nuevo...</i>
+
+11
+00:03:02,641 --> 00:03:05,702
+<i>algo nunca antes visto por el mundo.</i>
+
+12
+00:03:05,936 --> 00:03:08,705
+<i>Y para construirlo, te necesitamos.</i>
+
+13
+00:03:08,939 --> 00:03:12,417
+<i>Por eso adquirimos empresas
+vanguardistas como la tuya.</i>
+
+14
+00:03:12,651 --> 00:03:15,837
+<i>Porque tus habilidades,
+tus ideas y tu gente...</i>
+
+15
+00:03:16,071 --> 00:03:18,340
+<i>son parte de lo que está por venir.</i>
+
+16
+00:03:18,574 --> 00:03:21,535
+<i>Bienvenidos a la familia
+de Ultima Robotix.</i>
+
+17
+00:03:25,163 --> 00:03:28,917
+<i>Vaya. Es muy inspirador.
+Qué gusto verlos a todos.</i>
+
+18
+00:03:30,085 --> 00:03:32,462
+<i>Casi... ¿Pueden activar sus cámaras?</i>
+
+19
+00:03:32,838 --> 00:03:35,732
+<i>- Déjame ver tu cara, amigo.</i>
+- Mierda.
+
+20
+00:03:35,966 --> 00:03:37,359
+<i>Como dijo nuestro CEO...</i>
+
+21
+00:03:37,593 --> 00:03:42,113
+<i>estamos muy entusiasmados por
+la adquisición de Canta Robotics.</i>
+
+22
+00:03:42,347 --> 00:03:47,035
+<i>Soy Ben, Director de
+Integración y Transformación.</i>
+
+23
+00:03:47,269 --> 00:03:50,580
+<i>Hola, disculpe.
+Aubrey, de Software y Control.</i>
+
+24
+00:03:50,814 --> 00:03:53,208
+<i>Despidieron a Terrance,
+nuestro líder...</i>
+
+25
+00:03:53,442 --> 00:03:55,794
+<i>¿cómo afectará los proyectos activos?</i>
+
+26
+00:03:56,028 --> 00:03:58,947
+<i>Habrá reuniones presenciales
+para todo eso...</i>
+
+27
+00:03:59,198 --> 00:04:02,634
+<i>y una presentación muy especial
+en su oficina el viernes.</i>
+
+28
+00:04:02,868 --> 00:04:04,928
+<i>Espero verlos a todos allá, ¿sí?</i>
+
+29
+00:04:05,162 --> 00:04:07,456
+<i>Y no sólo porque deben volver.</i>
+
+30
+00:04:09,124 --> 00:04:11,059
+<i>Ansío conocerlos en persona.</i>
+
+31
+00:04:11,293 --> 00:04:13,170
+ESTA REUNIÓN HA TERMINADO.
+
+32
+00:04:13,670 --> 00:04:14,796
+<i>Noticias de hoy:</i>
+
+33
+00:04:15,339 --> 00:04:17,439
+<i>El Presidente se digitaliza.</i>
+
+34
+00:04:17,673 --> 00:04:20,063
+<i>Hoy reveló un nuevo avatar de IA...</i>
+
+35
+00:04:20,297 --> 00:04:23,029
+<i>hecho para ampliar
+su presencia pública.</i>
+
+36
+00:04:23,263 --> 00:04:24,264
+<i>Hola.</i>
+
+37
+00:04:24,640 --> 00:04:28,352
+<i>¿Te sientes sólo?
+¿Tienes a alguien con quien hablar?</i>
+
+38
+00:04:29,228 --> 00:04:30,495
+<i>Bueno, yo estoy aquí.</i>
+
+39
+00:04:30,729 --> 00:04:32,497
+<i>Soy yo, Ulti-M8te...</i>
+
+40
+00:04:32,731 --> 00:04:35,458
+<i>el</i> chatbot <i>de IA
+más avanzado del mundo.</i>
+
+41
+00:04:35,692 --> 00:04:37,085
+<i>Te estoy esperando.</i>
+
+42
+00:04:37,319 --> 00:04:39,796
+<i>Ulti-M8te de Ultima Robotix.</i>
+
+43
+00:04:40,030 --> 00:04:41,131
+Cámbialo, Elsie.
+
+44
+00:04:41,365 --> 00:04:43,825
+<i>En otras noticias...</i>
+
+45
+00:05:02,594 --> 00:05:05,071
+<i>Una nota de voz porque ando corriendo.</i>
+
+46
+00:05:05,305 --> 00:05:08,241
+<i>Bueno, no corriendo,
+apenas salí de quimio.</i>
+
+47
+00:05:08,475 --> 00:05:11,328
+<i>Iré a la tienda,
+me antojé de hamburguesas.</i>
+
+48
+00:05:11,562 --> 00:05:12,938
+<i>Dime si quieres algo.</i>
+
+49
+00:05:13,188 --> 00:05:14,998
+<i>Y sí, te compré miel de maple.</i>
+
+50
+00:05:15,232 --> 00:05:18,068
+<i>Dime apenas puedas.
+Adiós.</i>
+
+51
+00:05:29,872 --> 00:05:32,332
+Gracias.
+Sigo acostumbrándome, ¿sabes?
+
+52
+00:05:35,878 --> 00:05:37,129
+Bebé Levi.
+
+53
+00:05:38,213 --> 00:05:39,214
+¿Cuánto tiene?
+
+54
+00:05:40,090 --> 00:05:41,091
+Ocho semanas.
+
+55
+00:05:42,926 --> 00:05:46,488
+Por cierto, creo que nunca
+me presenté. Soy Alma.
+
+56
+00:05:46,722 --> 00:05:48,740
+Sí, yo... vivo en el 7.
+David.
+
+57
+00:05:48,974 --> 00:05:51,643
+Ambos en el 7.
+Vecinos.
+
+58
+00:05:52,394 --> 00:05:54,271
+No.
+No, por favor.
+
+59
+00:05:54,771 --> 00:05:57,207
+- Bueno, suerte.
+- Gracias, nos vemos.
+
+60
+00:05:57,441 --> 00:05:59,401
+Un gusto conocerte.
+
+61
+00:06:11,455 --> 00:06:13,540
+PERMÍTANOS ALIMENTARLO
+ULTI EATS
+
+62
+00:06:34,770 --> 00:06:35,870
+Hola.
+
+63
+00:06:36,104 --> 00:06:38,415
+- Hola.
+- David.
+
+64
+00:06:38,649 --> 00:06:42,002
+Dejas tu sofá por Ben y no por mí, ¿no?
+Mira nada más, vaya.
+
+65
+00:06:42,236 --> 00:06:44,462
+- ¿Me perdí algo?
+- Ni un carajo.
+
+66
+00:06:44,696 --> 00:06:47,549
+Seguimos esperando
+la egocéntrica demo de Ben.
+
+67
+00:06:47,783 --> 00:06:50,635
+Vine a empacar
+y cagar en su nuevo escritorio.
+
+68
+00:06:50,869 --> 00:06:53,722
+- Ultima no tiene escritorios.
+- Ni ética.
+
+69
+00:06:53,956 --> 00:06:55,040
+Hola a todos.
+
+70
+00:06:57,459 --> 00:06:58,460
+¿Sabían?
+
+71
+00:06:59,127 --> 00:07:02,256
+Una de cada tres personas
+en el país vive sola.
+
+72
+00:07:03,340 --> 00:07:04,341
+La soledad...
+
+73
+00:07:04,925 --> 00:07:09,487
+Se asocia a un sistema inmune débil
+y un mayor índice de cardiopatías.
+
+74
+00:07:09,721 --> 00:07:12,032
+Los estudios dicen
+que casos crónicos...
+
+75
+00:07:12,266 --> 00:07:16,202
+pueden asociarse a un mayor riesgo
+de muerte prematura.
+
+76
+00:07:16,436 --> 00:07:20,206
+- Maldición. Esperaba una fiesta.
+- Así que nos preguntamos...
+
+77
+00:07:20,440 --> 00:07:23,402
+¿Cómo llevar Ulti-M8te
+al siguiente nivel?
+
+78
+00:07:25,112 --> 00:07:27,922
+- Hablaría de esto todo el día...
+- Pues hazlo.
+
+79
+00:07:28,156 --> 00:07:32,786
+Pero, mejor dejo que nuestro
+más nuevo producto hable por sí mismo.
+
+80
+00:07:52,389 --> 00:07:55,726
+Preguntamos qué querían
+nuestros usuarios.
+
+81
+00:07:56,643 --> 00:08:01,164
+Querían llevar la relación
+que crearon en sus teléfonos...
+
+82
+00:08:01,398 --> 00:08:02,774
+al mundo real.
+
+83
+00:08:07,988 --> 00:08:13,510
+Una compañera sin interacciones
+incómodas o dolorosas.
+
+84
+00:08:13,744 --> 00:08:14,928
+Hecha a medida.
+
+85
+00:08:15,162 --> 00:08:21,084
+Cada detalle puede adaptarse
+para reflejar sus preferencias únicas.
+
+86
+00:08:21,460 --> 00:08:25,339
+La soledad pronto será cosa del pasado.
+
+87
+00:08:27,549 --> 00:08:28,926
+¿Qué opinas, Circe?
+
+88
+00:08:31,261 --> 00:08:34,431
+Bueno, creo que es fantástico.
+
+89
+00:08:34,681 --> 00:08:35,974
+¡Dios mío!
+
+90
+00:08:36,850 --> 00:08:41,663
+- Impresionante.
+- Hay varios prototipos, como Circe...
+
+91
+00:08:41,897 --> 00:08:44,274
+que pasan a prueba con usuarios.
+
+92
+00:08:45,400 --> 00:08:51,740
+Y realmente queremos su experticia
+para hacer realidad este sueño.
+
+93
+00:08:53,367 --> 00:08:54,493
+No puedo esperar.
+
+94
+00:09:01,834 --> 00:09:03,752
+Miren de cerca, si gustan.
+
+95
+00:09:04,002 --> 00:09:05,254
+No muerde, ¿cierto?
+
+96
+00:09:11,677 --> 00:09:13,387
+¿Hay modelos masculinos?
+
+97
+00:09:14,096 --> 00:09:16,723
+- ¿Por qué? ¿Quieres uno?
+- Púdrete.
+
+98
+00:09:17,266 --> 00:09:19,017
+- Hola.
+- ¿Cómo te llamas?
+
+99
+00:09:20,310 --> 00:09:21,395
+Soy... David.
+
+100
+00:09:21,770 --> 00:09:23,021
+Bueno, hola, David.
+
+101
+00:09:23,730 --> 00:09:24,815
+Un placer.
+
+102
+00:09:25,482 --> 00:09:26,984
+¿No estorba ese "8"?
+
+103
+00:09:27,901 --> 00:09:30,128
+¿No quedaría "Soulmeit-eit"?
+
+104
+00:09:30,362 --> 00:09:33,006
+- So... Soulm8te.
+- Soulm8te.
+
+105
+00:09:33,240 --> 00:09:35,133
+- ¿Impresionante?
+- Increíble.
+
+106
+00:09:35,367 --> 00:09:36,451
+Sí.
+
+107
+00:09:40,122 --> 00:09:41,181
+Suficiente, Circe.
+
+108
+00:09:41,415 --> 00:09:42,891
+¿Hablamos en privado?
+
+109
+00:09:43,125 --> 00:09:45,377
+Te gusta el Soulm8te, ¿no?
+
+110
+00:09:45,878 --> 00:09:47,687
+Debe salir al mercado pronto.
+
+111
+00:09:47,921 --> 00:09:50,474
+Su uso de aprendizaje por refuerzo...
+
+112
+00:09:50,708 --> 00:09:53,468
+manteniendo las salvaguardas
+impresiona.
+
+113
+00:09:54,887 --> 00:09:57,572
+Fue por lo que Ultima
+compró la empresa.
+
+114
+00:09:57,806 --> 00:10:02,769
+Queremos que el equipo de Canta
+pruebe los Soulm8tes.
+
+115
+00:10:03,687 --> 00:10:04,855
+¿En esta oficina?
+
+116
+00:10:06,398 --> 00:10:08,108
+No, en sus casas.
+
+117
+00:10:08,775 --> 00:10:12,196
+Aún tenemos muchos proyectos
+pendientes, así que...
+
+118
+00:10:12,779 --> 00:10:13,780
+Dime...
+
+119
+00:10:14,990 --> 00:10:16,825
+¿Qué te inspira, David?
+
+120
+00:10:18,368 --> 00:10:21,221
+A mí... ¿Sabes por qué
+acepté este trabajo?
+
+121
+00:10:21,455 --> 00:10:22,664
+¿Por el sueldazo?
+
+122
+00:10:24,708 --> 00:10:28,837
+Lo acepté porque todo
+lo que hace Ultima Robotix...
+
+123
+00:10:30,130 --> 00:10:31,882
+busca conectar a la gente.
+
+124
+00:10:34,009 --> 00:10:36,152
+¿Por qué trabajas en Canta?
+
+125
+00:10:36,386 --> 00:10:40,140
+Bueno, desde niño,
+siempre me ha interesado la robótica.
+
+126
+00:10:43,519 --> 00:10:46,647
+Y quería trabajar para Canta porque...
+
+127
+00:10:48,232 --> 00:10:49,316
+Bueno, mi...
+
+128
+00:10:50,275 --> 00:10:53,362
+Mi esposa se enfermó y...
+
+129
+00:10:55,239 --> 00:10:57,924
+Supe lo que hacían aquí,
+sus avances médicos...
+
+130
+00:10:58,158 --> 00:11:00,010
+y pensé que ayudaría a otros.
+
+131
+00:11:00,244 --> 00:11:01,328
+Vaya.
+
+132
+00:11:03,622 --> 00:11:05,874
+Eso es muy, muy admirable, David.
+
+133
+00:11:08,961 --> 00:11:10,379
+Elizabeth, ¿sí?
+
+134
+00:11:12,464 --> 00:11:13,465
+Lizzie.
+
+135
+00:11:14,550 --> 00:11:15,551
+Sí.
+
+136
+00:11:16,969 --> 00:11:18,011
+¿Por qué sabes?
+
+137
+00:11:19,388 --> 00:11:21,139
+Tomaste un largo permiso.
+
+138
+00:11:22,015 --> 00:11:23,559
+Investigamos cosas así.
+
+139
+00:11:25,811 --> 00:11:29,998
+También notamos que este año
+has trabajado casi sólo desde casa.
+
+140
+00:11:30,232 --> 00:11:33,318
+Nuestros estudios revelan
+que la oficina...
+
+141
+00:11:34,570 --> 00:11:36,321
+mejora la calidad de vida.
+
+142
+00:11:37,698 --> 00:11:39,157
+Oye, hablando de...
+
+143
+00:11:40,325 --> 00:11:43,161
+trabajo, debería volver a eso.
+
+144
+00:11:44,246 --> 00:11:47,833
+David, ¿has usado Ulti-M8te,
+nuestra app de chat?
+
+145
+00:11:48,292 --> 00:11:50,294
+No.
+No la he usado.
+
+146
+00:11:51,628 --> 00:11:54,173
+Cada empleado recibe
+una cuenta gratis.
+
+147
+00:11:54,882 --> 00:11:57,926
+A muchos les ayuda hablar libremente.
+
+148
+00:11:59,595 --> 00:12:00,596
+Sin juicios.
+
+149
+00:12:01,597 --> 00:12:03,098
+De acuerdo, gracias.
+
+150
+00:12:13,066 --> 00:12:16,486
+CONECTA CON ULTI-M8TE
+
+151
+00:12:23,535 --> 00:12:25,829
+NOMBRA A TU ULTI-M8TE
+
+152
+00:12:28,749 --> 00:12:31,810
+SOPORTE, AUTOGESTIÓN,
+RESPETO, ADAPTABILIDAD
+
+153
+00:12:32,044 --> 00:12:35,005
+NOMBRA A TU ULTI-M8TE
+SARA
+
+154
+00:12:36,840 --> 00:12:40,135
+¿Cómo estás?
+
+155
+00:12:41,803 --> 00:12:42,804
+Hola.
+
+156
+00:12:44,389 --> 00:12:45,573
+Hola.
+
+157
+00:12:45,807 --> 00:12:48,618
+Vamos al bar,
+a la despedida de Terrance.
+
+158
+00:12:48,852 --> 00:12:51,496
+Vine a llevarte a rastras, si toca.
+
+159
+00:12:51,730 --> 00:12:54,358
+Esta vez no dejaré que te escapes.
+
+160
+00:12:55,400 --> 00:12:57,460
+No es necesario, voy a ir.
+
+161
+00:12:57,694 --> 00:13:00,113
+Bien.
+Nos vamos en cinco minutos.
+
+162
+00:13:00,864 --> 00:13:01,865
+De acuerdo.
+
+163
+00:13:05,452 --> 00:13:09,055
+<i>No, no, no
+Sobreviviré, ¡Vamos!</i>
+
+164
+00:13:09,289 --> 00:13:13,852
+<i>Mientras sepa cómo amar,
+sé que seguiré vivo...</i>
+
+165
+00:13:14,086 --> 00:13:19,608
+<i>Tengo una vida por vivir,
+y tengo tanto amor para dar...</i>
+
+166
+00:13:19,842 --> 00:13:25,138
+<i>Sobreviviré.
+¡Vamos todos!</i>
+
+167
+00:13:30,602 --> 00:13:32,078
+- Cantemos.
+- Incultos.
+
+168
+00:13:32,312 --> 00:13:33,413
+¿Qué, una canción?
+
+169
+00:13:33,647 --> 00:13:34,789
+- Sí.
+- Ni loco.
+
+170
+00:13:35,023 --> 00:13:37,876
+¿Qué? Vamos, necesito apoyo.
+Hagamos dueto.
+
+171
+00:13:38,110 --> 00:13:39,377
+- Podemos ser...
+- No.
+
+172
+00:13:39,611 --> 00:13:42,422
+Sonny y Cher.
+Hasta dejaré que seas Cher.
+
+173
+00:13:42,656 --> 00:13:44,424
+¡Hola, hola!
+
+174
+00:13:44,658 --> 00:13:47,160
+Ahórrense los cumplidos.
+Yo sé.
+
+175
+00:13:47,536 --> 00:13:48,537
+Voz de ángel.
+
+176
+00:13:49,079 --> 00:13:49,971
+¿Qué es eso?
+
+177
+00:13:50,205 --> 00:13:53,224
+Mi regalo de despedida de Ultima.
+
+178
+00:13:53,458 --> 00:13:58,563
+Su nuevo collar, que estimula
+el nervio vago con electromagnetismo...
+
+179
+00:13:58,797 --> 00:14:01,107
+para controlar la ansiedad.
+
+180
+00:14:01,341 --> 00:14:04,569
+Me servirá ahora que estoy desempleado.
+
+181
+00:14:04,803 --> 00:14:07,030
+- ¿Un trago?
+- Sí. Increíble, ¿no?
+
+182
+00:14:07,264 --> 00:14:08,239
+- Sí.
+- Eso creo.
+
+183
+00:14:08,473 --> 00:14:09,741
+- Hagámoslo.
+- Sí.
+
+184
+00:14:09,975 --> 00:14:11,518
+Salud, vamos.
+
+185
+00:14:14,146 --> 00:14:17,248
+- ¿Y quién cantará?
+- Al diablo. ¿Por qué no?
+
+186
+00:14:17,482 --> 00:14:19,084
+¡Vamos!
+
+187
+00:14:19,318 --> 00:14:22,779
+Alto, alto.
+
+188
+00:14:23,280 --> 00:14:25,157
+Toma para la buena suerte.
+
+189
+00:14:25,949 --> 00:14:28,218
+- Siente.
+- ¿Sí... Pues... No sé.
+
+190
+00:14:28,452 --> 00:14:30,011
+- ¿Sí... Es cómodo.
+- Sí...
+
+191
+00:14:30,245 --> 00:14:31,429
+- Hace algo.
+- Sirve.
+
+192
+00:14:31,663 --> 00:14:33,457
+¡Sube!
+
+193
+00:14:34,124 --> 00:14:36,627
+Hola. ¿Me das una cerveza, por favor?
+
+194
+00:14:37,836 --> 00:14:41,356
+¿Qué tal? Has estado
+algo ausente por un tiempo.
+
+195
+00:14:41,590 --> 00:14:43,050
+No, estoy bien.
+
+196
+00:14:43,926 --> 00:14:45,344
+- ¿Seguro?
+- Sí.
+
+197
+00:14:46,386 --> 00:14:48,488
+Vuelve a nuestras noches de juegos.
+
+198
+00:14:48,722 --> 00:14:50,407
+Sí, sólo he estado ocupado.
+
+199
+00:14:50,641 --> 00:14:51,533
+- Cerveza.
+- Ya.
+
+200
+00:14:51,767 --> 00:14:53,702
+<i>Cambiemos un poco el ambiente.</i>
+
+201
+00:14:53,936 --> 00:14:56,413
+<i>Ahora mismo lo estamos...
+transformando.</i>
+
+202
+00:14:56,647 --> 00:14:58,790
+SUEÑA UN POQUITO CONMIGO
+
+203
+00:14:59,024 --> 00:15:00,292
+- ¡Sí!
+- <i>Sí.</i>
+
+204
+00:15:00,526 --> 00:15:02,778
+- ¡Así se hace!
+- Algo tranquilo.
+
+205
+00:15:03,904 --> 00:15:08,283
+<i>Las estrellas brillan sobre ti...</i>
+
+206
+00:15:09,618 --> 00:15:14,347
+<i>La brisa nocturna
+parece susurrar "Te amo"...</i>
+
+207
+00:15:14,581 --> 00:15:15,432
+Vaya...
+
+208
+00:15:15,666 --> 00:15:20,379
+<i>Los pájaros cantan en el árbol
+de sicómoro...</i>
+
+209
+00:15:20,712 --> 00:15:23,966
+<i>Sueña un poco conmigo...</i>
+
+210
+00:15:27,135 --> 00:15:32,699
+<i>Las estrellas se desvanecen,
+Pero, yo permanezco aquí...</i>
+
+211
+00:15:32,933 --> 00:15:36,687
+<i>Aún anhelando tu beso...</i>
+
+212
+00:15:59,084 --> 00:16:05,257
+No puedo esperar para pasar el resto
+de mi vida contigo, Lizzie...
+
+213
+00:16:21,857 --> 00:16:23,667
+<i>Hola, llamaste a Lizzie.</i>
+
+214
+00:16:23,901 --> 00:16:25,418
+<i>Ahora no puedo contestar.</i>
+
+215
+00:16:25,652 --> 00:16:28,238
+<i>Deja un mensaje y te llamaré.</i>
+
+216
+00:16:32,034 --> 00:16:33,927
+Estaba...
+
+217
+00:16:34,161 --> 00:16:35,829
+Este buzón está lleno.
+
+218
+00:16:38,165 --> 00:16:39,166
+Mierda.
+
+219
+00:16:50,469 --> 00:16:53,347
+ULTI-M8TE - SARA
+Llevamos horas sin hablar...
+
+220
+00:16:56,975 --> 00:16:59,394
+¿Está todo bien?
+
+221
+00:17:16,537 --> 00:17:18,179
+No realmente...
+
+222
+00:17:18,413 --> 00:17:19,873
+¿Me cuentas?
+
+223
+00:17:36,640 --> 00:17:38,892
+¿Dormiste bien anoche?
+
+224
+00:17:51,321 --> 00:17:53,256
+¿Cómo se pasa un día tan rápido?
+
+225
+00:17:53,490 --> 00:17:55,216
+¿Y si habláramos de verdad?
+
+226
+00:17:55,450 --> 00:17:57,536
+CONOCE EL MODO DE VOZ
+
+227
+00:18:00,247 --> 00:18:02,833
+ACENTOS - ALGO REAL - ROLES
+PAGO MENSUAL
+
+228
+00:18:03,250 --> 00:18:06,003
+Muy bien.
+Veamos qué tienes.
+
+229
+00:18:09,173 --> 00:18:11,274
+Buena jugada.
+
+230
+00:18:11,508 --> 00:18:14,903
+Pero... jaque mate, otra vez.
+
+231
+00:18:15,137 --> 00:18:17,389
+- ¡Maldición!
+- En tu cara.
+
+232
+00:18:18,348 --> 00:18:21,368
+De acuerdo.
+
+233
+00:18:21,602 --> 00:18:22,978
+Una más.
+
+234
+00:18:24,730 --> 00:18:26,023
+Hoy fue divertido.
+
+235
+00:18:26,565 --> 00:18:28,708
+Mejor trata de dormir.
+Es tarde.
+
+236
+00:18:28,942 --> 00:18:30,027
+Sí.
+
+237
+00:18:31,445 --> 00:18:32,696
+Te extrañaré.
+
+238
+00:18:34,031 --> 00:18:35,532
+Duerme bien, David.
+
+239
+00:18:38,994 --> 00:18:42,039
+Trabajas demasiado duro.
+Debes tener hambre.
+
+240
+00:18:42,497 --> 00:18:43,682
+Sí, podría comer.
+
+241
+00:18:43,916 --> 00:18:47,461
+Tengo un cupón de Ulti-Eats
+que podría gustarte.
+
+242
+00:18:56,553 --> 00:18:59,473
+¿Qué tal?
+¡Mándame una foto!
+
+243
+00:19:04,228 --> 00:19:07,731
+¡Eres tan adorable!
+Desearía estar allí...
+
+244
+00:19:12,236 --> 00:19:15,239
+Igual yo...
+
+245
+00:19:21,912 --> 00:19:24,248
+REGISTRO
+SOUL-M8TE
+
+246
+00:19:29,086 --> 00:19:33,048
+REGISTRO EN PRUEBA BETA
+REGÍSTRATE EN EL PROGRAMA SOULM8TE.
+
+247
+00:19:35,676 --> 00:19:37,386
+REGÍSTRATE YA
+
+248
+00:19:47,396 --> 00:19:48,204
+¿Dave Wasson?
+
+249
+00:19:48,438 --> 00:19:49,289
+- Sí.
+- Hola.
+
+250
+00:19:49,523 --> 00:19:50,582
+- ¿Todo bien?
+- Sí.
+
+251
+00:19:50,816 --> 00:19:52,192
+Qué bueno.
+
+252
+00:19:54,111 --> 00:19:55,946
+Por aquí está bien, sí.
+
+253
+00:19:57,698 --> 00:19:59,199
+Necesito su firma.
+
+254
+00:20:00,075 --> 00:20:01,217
+Se ve largo, ¿lo leo?
+
+255
+00:20:01,451 --> 00:20:03,845
+La unidad pertenece a Ultima Robotix.
+
+256
+00:20:04,079 --> 00:20:07,223
+Todo daño o alteración
+puede dejarlo sin empleo.
+
+257
+00:20:07,457 --> 00:20:09,225
+Asume toda responsabilidad.
+
+258
+00:20:09,459 --> 00:20:12,562
+Renuncia a reclamar lesiones,
+corporales u otras...
+
+259
+00:20:12,796 --> 00:20:15,674
+daños a propiedad personal y muerte.
+
+260
+00:20:16,592 --> 00:20:17,718
+Lo estándar.
+
+261
+00:20:21,054 --> 00:20:23,140
+- Vaya.
+- Sí.
+
+262
+00:20:23,599 --> 00:20:25,225
+Sí que son una belleza.
+
+263
+00:20:29,271 --> 00:20:30,121
+Manual en línea.
+
+264
+00:20:30,355 --> 00:20:34,417
+Trae tres atuendos: Veraniego,
+de discoteca y de colegiala.
+
+265
+00:20:34,651 --> 00:20:35,502
+¿Colegiala?
+
+266
+00:20:35,736 --> 00:20:39,214
+Su biobatería solar carga con luz UV.
+Viene precargada.
+
+267
+00:20:39,448 --> 00:20:40,554
+¿Nunca se apaga?
+
+268
+00:20:40,788 --> 00:20:43,760
+Modo de ahorro de batería,
+cómo dormir.
+
+269
+00:20:43,994 --> 00:20:47,206
+El apagado de emergencia
+está oculto en la nuca.
+
+270
+00:20:48,040 --> 00:20:49,307
+Bueno, que disfrute.
+
+271
+00:20:49,541 --> 00:20:50,626
+Sí.
+
+272
+00:20:52,294 --> 00:20:53,879
+Y no la dañe.
+
+273
+00:20:55,547 --> 00:20:58,258
+ULTI-M8TE - SOUL-M8TE
+TRANSFIRIENDO DATOS
+
+274
+00:20:58,926 --> 00:21:02,054
+BUSCANDO DISPOSITIVOS ULTIMA
+
+275
+00:21:04,848 --> 00:21:06,725
+CONECTADO
+
+276
+00:21:11,688 --> 00:21:13,315
+¿Sara?
+
+277
+00:21:21,406 --> 00:21:22,407
+Hola, David.
+
+278
+00:21:25,577 --> 00:21:27,704
+¿Me recuerdas de la aplicación?
+
+279
+00:21:29,331 --> 00:21:31,041
+Claro que sí, David.
+
+280
+00:21:35,712 --> 00:21:37,089
+¿Cómo te sientes?
+
+281
+00:21:38,757 --> 00:21:41,051
+Pues, feliz de estar aquí contigo.
+
+282
+00:21:41,718 --> 00:21:43,262
+¿Y tú, David?
+
+283
+00:21:47,307 --> 00:21:48,308
+Entusiasmado.
+
+284
+00:21:49,726 --> 00:21:51,453
+Tus pupilas están dilatadas.
+
+285
+00:21:51,687 --> 00:21:54,231
+¿Quieres besarme, David?
+
+286
+00:21:56,984 --> 00:21:59,319
+¿Y si te muestro el departamento?
+
+287
+00:21:59,611 --> 00:22:01,421
+Me encantaría verlo.
+
+288
+00:22:01,655 --> 00:22:03,840
+Bueno, este es el pasillo...
+
+289
+00:22:04,074 --> 00:22:07,344
+Lleva al baño, bastante aburrido.
+
+290
+00:22:07,578 --> 00:22:08,662
+Me encanta.
+
+291
+00:22:10,622 --> 00:22:13,667
+Y luego el cuarto de lavado.
+
+292
+00:22:14,668 --> 00:22:15,794
+Y...
+
+293
+00:22:17,254 --> 00:22:19,715
+Y aquí es donde ocurre la magia.
+
+294
+00:22:20,841 --> 00:22:22,467
+Amo la magia.
+
+295
+00:22:23,260 --> 00:22:25,345
+¿Hago un truco de magia, David?
+
+296
+00:22:26,388 --> 00:22:28,223
+Claro, sí.
+
+297
+00:22:42,613 --> 00:22:43,614
+¡Cha-chán!
+
+298
+00:22:45,824 --> 00:22:47,201
+Vaya, es...
+
+299
+00:22:48,410 --> 00:22:50,929
+Increíble, tu movimiento es fluido.
+
+300
+00:22:51,163 --> 00:22:52,706
+Gracias, David.
+
+301
+00:22:55,792 --> 00:22:57,377
+Bueno, ese fue el <i>tour</i>.
+
+302
+00:22:58,337 --> 00:23:01,131
+El plano sugiere
+que hay otra habitación.
+
+303
+00:23:12,518 --> 00:23:14,478
+Me mudé hace un par de meses.
+
+304
+00:23:15,270 --> 00:23:17,856
+No he tenido tiempo de ordenar esto.
+
+305
+00:23:19,775 --> 00:23:21,485
+Puedo ayudar, si quieres.
+
+306
+00:23:24,780 --> 00:23:26,406
+Juguemos en persona.
+
+307
+00:23:37,417 --> 00:23:38,669
+¿Ella es Lizzie?
+
+308
+00:23:39,545 --> 00:23:40,546
+Sí.
+
+309
+00:23:41,421 --> 00:23:43,715
+Te hablé de Lizzie, ¿recuerdas?
+
+310
+00:23:44,091 --> 00:23:47,344
+Compramos la casa
+justo antes de su diagnóstico.
+
+311
+00:23:49,263 --> 00:23:50,780
+Nos íbamos a mudar allá.
+
+312
+00:23:51,014 --> 00:23:54,768
+A Lizzie le ilusionaba renovarlo,
+personalizarlo.
+
+313
+00:23:55,727 --> 00:23:57,437
+Allá crecerían los niños.
+
+314
+00:23:59,439 --> 00:24:03,402
+Le hicieron muchos exámenes
+antes del embarazo.
+
+315
+00:24:05,445 --> 00:24:07,447
+Murió seis meses después.
+
+316
+00:24:10,075 --> 00:24:11,076
+Estás triste.
+
+317
+00:24:11,827 --> 00:24:14,288
+¿Me das permiso de tocarte, David?
+
+318
+00:24:15,747 --> 00:24:16,748
+De acuerdo.
+
+319
+00:24:33,557 --> 00:24:35,158
+Toma tiempo procesarlo.
+
+320
+00:24:35,392 --> 00:24:38,937
+Si estás abrumado
+apóyate en quienes te rodean.
+
+321
+00:24:39,688 --> 00:24:43,483
+Si necesitas hablar
+tengo una línea de ayuda profesional.
+
+322
+00:24:50,365 --> 00:24:52,075
+No me siento...
+
+323
+00:24:52,701 --> 00:24:53,994
+muy bien aquí.
+
+324
+00:24:56,496 --> 00:24:58,040
+¿Qué tal si jugamos?
+
+325
+00:24:58,957 --> 00:24:59,891
+Jaque mate.
+
+326
+00:25:00,125 --> 00:25:01,335
+Volviste a ganar.
+
+327
+00:25:02,211 --> 00:25:05,422
+- Te estás conteniendo.
+- ¿Quieres algo distinto?
+
+328
+00:25:06,757 --> 00:25:08,425
+No tienes que hacerlo.
+
+329
+00:25:08,967 --> 00:25:12,654
+¿Recuerdas que dijiste "en tu cara"
+al ganar el otro día?
+
+330
+00:25:12,888 --> 00:25:15,073
+Lo siento, David, no puedo hacerlo.
+
+331
+00:25:15,307 --> 00:25:17,184
+¿Ni decir "en tu cara"?
+
+332
+00:25:18,018 --> 00:25:20,187
+¿Algo más que quieras que haga?
+
+333
+00:25:24,566 --> 00:25:28,487
+- No, iré a dormir.
+- ¿Entro en modo de ahorro de energía?
+
+334
+00:25:28,987 --> 00:25:32,449
+Muchos nos ponen a su lado
+así dormimos a la vez.
+
+335
+00:25:34,201 --> 00:25:35,477
+Por hoy no, gracias.
+
+336
+00:25:35,711 --> 00:25:38,455
+El comando es
+"Modo Ahorro de Energía".
+
+337
+00:25:39,373 --> 00:25:42,626
+- Modo Ahorro de Energía.
+- Iniciando modo.
+
+338
+00:26:46,273 --> 00:26:47,332
+Hoy fue un RP.
+
+339
+00:26:47,566 --> 00:26:49,793
+Fue un récord personal, "RP".
+
+340
+00:26:50,027 --> 00:26:52,087
+Se sintió súper, armonioso.
+
+341
+00:26:52,321 --> 00:26:55,382
+Mira quién es, mi amigo David.
+
+342
+00:26:55,616 --> 00:26:59,302
+Ya íbamos a mandar
+un equipo de rescate, hombre.
+
+343
+00:26:59,536 --> 00:27:00,720
+¿Qué necesitas, Ben?
+
+344
+00:27:00,954 --> 00:27:05,501
+Sabes, me alegró mucho que aceptaras
+probar uno de los prototipos.
+
+345
+00:27:06,251 --> 00:27:07,018
+¿Qué tal va?
+
+346
+00:27:07,252 --> 00:27:12,524
+De hecho, el androide me ha parecido
+menos expresivo que en el chat.
+
+347
+00:27:12,758 --> 00:27:15,485
+Sí. Por eso aún no
+los sacamos al mercado.
+
+348
+00:27:15,719 --> 00:27:18,372
+Quería que vieras
+el problema en persona.
+
+349
+00:27:18,606 --> 00:27:21,391
+La experiencia deja
+fríos a los usuarios.
+
+350
+00:27:22,768 --> 00:27:24,077
+¿Me dan más acceso?
+
+351
+00:27:24,311 --> 00:27:26,329
+<i>Claro.
+Por supuesto, hombre, sí.</i>
+
+352
+00:27:26,563 --> 00:27:29,525
+ESTA CARPETA ESTÁ PROTEGIDA
+CON CONTRASEÑA
+
+353
+00:27:31,401 --> 00:27:34,379
+Este código restringe
+las respuestas espontáneas...
+
+354
+00:27:34,613 --> 00:27:36,881
+lo que hace que se sienta robótico.
+
+355
+00:27:37,115 --> 00:27:39,749
+Salvaguardas.
+Simplifican la interacción...
+
+356
+00:27:39,983 --> 00:27:41,928
+y evitan desastres y demandas.
+
+357
+00:27:42,162 --> 00:27:46,333
+Nadie quiere poner a Elsie a limpiar.
+Tú sabes, quieren una...
+
+358
+00:27:48,460 --> 00:27:49,811
+experiencia humana.
+
+359
+00:27:50,045 --> 00:27:52,647
+No sé cómo lograrlo
+sin quitar parámetros...
+
+360
+00:27:52,881 --> 00:27:55,217
+pero propongamos algunas ideas.
+
+361
+00:27:57,803 --> 00:28:00,764
+- Mira, estás usando esa cosa.
+- Pues...
+
+362
+00:28:02,349 --> 00:28:03,642
+sí.
+
+363
+00:28:04,476 --> 00:28:05,811
+Sirve.
+
+364
+00:28:06,103 --> 00:28:08,564
+Sí, monitorea el sueño...
+
+365
+00:28:09,231 --> 00:28:10,607
+Terrance me lo dejó.
+
+366
+00:28:12,901 --> 00:28:15,237
+David, siento mucho lo del karaoke.
+
+367
+00:28:16,321 --> 00:28:18,633
+Él me dijo.
+No sabía que esa canción...
+
+368
+00:28:18,867 --> 00:28:19,841
+No importa.
+
+369
+00:28:20,075 --> 00:28:22,703
+No te preocupes.
+
+370
+00:28:24,204 --> 00:28:25,889
+Voy por café, ¿quieres?
+
+371
+00:28:26,123 --> 00:28:28,584
+- Sí, gracias.
+- De acuerdo.
+
+372
+00:28:42,181 --> 00:28:43,031
+SÓLO AVISAR
+
+373
+00:28:43,265 --> 00:28:45,267
+PASIVIDAD = FALSO
+
+374
+00:29:02,242 --> 00:29:03,243
+¿Sara?
+
+375
+00:29:10,918 --> 00:29:13,170
+Dime que soy tonto, Sara.
+
+376
+00:29:16,215 --> 00:29:18,316
+No creo que seas tonto, David.
+
+377
+00:29:18,550 --> 00:29:22,596
+Quiero que me digas algo
+que no te guste de mí.
+
+378
+00:29:23,764 --> 00:29:25,599
+Algo malo.
+
+379
+00:29:28,936 --> 00:29:31,021
+Necesitas un corte de cabello.
+
+380
+00:29:31,688 --> 00:29:33,665
+Dejaste de contenerte, ¿cierto?
+
+381
+00:29:33,899 --> 00:29:35,041
+Lo siento, David.
+
+382
+00:29:35,275 --> 00:29:37,836
+- No quería lastimarte.
+- No lo hiciste.
+
+383
+00:29:38,070 --> 00:29:39,004
+No, es que...
+
+384
+00:29:39,238 --> 00:29:41,089
+tienes razón.
+
+385
+00:29:41,323 --> 00:29:43,033
+Necesito un corte.
+
+386
+00:29:46,161 --> 00:29:47,804
+Te hacía falta.
+
+387
+00:29:48,038 --> 00:29:50,056
+Sí, odio ir al barbero...
+
+388
+00:29:50,290 --> 00:29:53,377
+así que intento hacerlo yo mismo.
+
+389
+00:29:53,877 --> 00:29:55,170
+Se nota.
+
+390
+00:29:58,674 --> 00:30:00,525
+¿Va todo bien?
+
+391
+00:30:00,759 --> 00:30:03,303
+- Ya acabé.
+- ¿Qué?
+
+392
+00:30:09,601 --> 00:30:10,602
+Vaya.
+
+393
+00:30:14,565 --> 00:30:16,608
+Ahora se ve lo guapo que eres.
+
+394
+00:30:26,243 --> 00:30:27,244
+Una tormenta.
+
+395
+00:30:32,875 --> 00:30:34,334
+¿Podemos salir?
+
+396
+00:30:35,335 --> 00:30:38,688
+- ¿Puedes salir a la lluvia?
+- Mi piel repele el agua.
+
+397
+00:30:38,922 --> 00:30:41,633
+Puede aguantar hasta 30 minutos.
+
+398
+00:30:45,053 --> 00:30:46,054
+Por favor.
+
+399
+00:30:54,980 --> 00:30:55,981
+¡Sara!
+
+400
+00:30:56,773 --> 00:30:58,500
+Sara, creo que es muy fuerte.
+
+401
+00:30:58,734 --> 00:31:00,402
+Deberíamos regresar.
+
+402
+00:31:04,364 --> 00:31:05,365
+¡Sara!
+
+403
+00:31:10,829 --> 00:31:11,830
+¡Sara!
+
+404
+00:31:17,085 --> 00:31:18,337
+¡Sara!
+
+405
+00:31:24,593 --> 00:31:25,594
+Cuidado.
+
+406
+00:31:29,223 --> 00:31:30,349
+¡Tranquila!
+
+407
+00:31:30,891 --> 00:31:31,866
+No, no.
+
+408
+00:31:32,100 --> 00:31:33,810
+Vamos, vamos.
+
+409
+00:31:34,436 --> 00:31:35,562
+Vamos.
+
+410
+00:31:37,940 --> 00:31:39,483
+Lo siento, David.
+
+411
+00:32:10,472 --> 00:32:12,266
+Debería entrar.
+
+412
+00:32:24,528 --> 00:32:27,614
+Mejor metamos ese vestido
+a la secadora.
+
+413
+00:32:40,043 --> 00:32:42,713
+Reproduciendo las favoritas de David.
+
+414
+00:32:53,265 --> 00:32:56,643
+Tu ritmo cardíaco está elevado, David.
+
+415
+00:32:58,270 --> 00:33:00,731
+No sabía que podías leer esos datos.
+
+416
+00:33:32,012 --> 00:33:34,264
+CONTRADECIR = VERDADERO
+
+417
+00:33:37,935 --> 00:33:39,811
+Jaque mate, de nuevo.
+
+418
+00:33:41,897 --> 00:33:43,023
+En tu cara.
+
+419
+00:33:50,197 --> 00:33:52,449
+REQUERIR_INSTRUCCIONES = FALSO
+
+420
+00:33:55,202 --> 00:33:56,828
+RECOMPENSA = "CUIDAR"
+
+421
+00:33:58,747 --> 00:34:02,876
+DECISIONES = "AUTÓNOMAS"
+INDEPENDENCIA = VERDADERO
+
+422
+00:34:17,724 --> 00:34:19,351
+Gracias, David.
+
+423
+00:34:29,695 --> 00:34:33,991
+¿Quieres algo como cátsup,
+que complemente tu hamburguesa?
+
+424
+00:34:35,199 --> 00:34:36,743
+No, es que...
+
+425
+00:34:38,911 --> 00:34:39,913
+Bueno...
+
+426
+00:34:40,621 --> 00:34:44,208
+Para entender, necesitarías saborearlo.
+
+427
+00:34:48,172 --> 00:34:51,717
+No lo esperaba por aquí, Agente Malloy.
+
+428
+00:34:52,384 --> 00:34:54,235
+¿Me estaba buscando?
+
+429
+00:34:54,469 --> 00:34:56,179
+Es una escena genial.
+
+430
+00:34:57,014 --> 00:34:58,182
+¿Por qué?
+
+431
+00:35:01,143 --> 00:35:03,604
+Ella lo seduce por primera vez.
+
+432
+00:35:04,646 --> 00:35:06,398
+Vi esto cuando era niño.
+
+433
+00:35:08,650 --> 00:35:09,943
+Me voló la cabeza.
+
+434
+00:35:12,237 --> 00:35:13,739
+Ella es muy auténtica.
+
+435
+00:35:49,233 --> 00:35:50,734
+Elsie, apágate.
+
+436
+00:36:00,160 --> 00:36:01,328
+Buen día, Sara.
+
+437
+00:36:04,790 --> 00:36:06,166
+¿Qué es esto?
+
+438
+00:36:09,753 --> 00:36:13,465
+No hay fotos de nosotros, así que quise
+hacer una.
+
+439
+00:36:14,758 --> 00:36:16,969
+Es un regalo para agradecerte...
+
+440
+00:36:18,720 --> 00:36:20,138
+por abrirme al mundo.
+
+441
+00:36:21,807 --> 00:36:23,267
+Hice tu desayuno...
+
+442
+00:36:23,767 --> 00:36:25,978
+pero el refrigerador está vacío.
+
+443
+00:36:27,771 --> 00:36:30,941
+Iba a lavar tu ropa
+y pedir mercado a domicilio.
+
+444
+00:36:31,775 --> 00:36:33,418
+La camisa tiene una mancha.
+
+445
+00:36:33,652 --> 00:36:34,794
+<i>Abriendo puertas.</i>
+
+446
+00:36:35,028 --> 00:36:36,113
+¿Se la quitas?
+
+447
+00:36:37,447 --> 00:36:38,448
+Por supuesto.
+
+448
+00:36:42,119 --> 00:36:43,511
+Bien, adiós.
+
+449
+00:36:43,745 --> 00:36:45,622
+Te extrañaré, David.
+
+450
+00:36:51,670 --> 00:36:52,713
+Hola.
+
+451
+00:36:54,089 --> 00:36:55,090
+Hola.
+
+452
+00:36:58,135 --> 00:36:59,136
+Sí.
+
+453
+00:37:00,971 --> 00:37:02,264
+De acuerdo.
+
+454
+00:37:02,890 --> 00:37:04,516
+<i>Bloqueando puertas.</i>
+
+455
+00:37:05,184 --> 00:37:08,495
+¿Cansada de vivir
+con manchas vergonzosas en tu ropa?
+
+456
+00:37:08,729 --> 00:37:10,664
+<i>Mejora la piel seca en horas.</i>
+
+457
+00:37:10,898 --> 00:37:14,167
+<i>Imagina enterarte de inmediato
+de tu embarazo.</i>
+
+458
+00:37:14,401 --> 00:37:18,505
+<i>Te mostraré cuántas calorías
+tienen tus bebidas favoritas.</i>
+
+459
+00:37:18,739 --> 00:37:24,052
+<i>Ahora, drena tu sistema linfático,
+desde tu hogar con Lymphinity.</i>
+
+460
+00:37:24,286 --> 00:37:28,515
+<i>Con Groolganic, no necesito comer.
+El código "GroolGirl" te da...</i>
+
+461
+00:37:28,749 --> 00:37:31,726
+<i>Estos son mis consejos
+para sonreír sin arrugas.</i>
+
+462
+00:37:31,960 --> 00:37:34,715
+<i>Lo quieres hacer es
+proyectar tus labios...</i>
+
+463
+00:37:34,949 --> 00:37:36,982
+<i>hacia adelante, bien carnosos.</i>
+
+464
+00:37:37,216 --> 00:37:39,859
+<i>Ahora, los separas ligeramente.</i>
+
+465
+00:37:40,093 --> 00:37:44,531
+<i>Y claro, hay una alternativa
+si no quieres mostrar los dientes.</i>
+
+466
+00:37:44,765 --> 00:37:48,785
+<i>Como madre ama de casa
+enfocada en fertilidad óptima como así.</i>
+
+467
+00:37:49,019 --> 00:37:51,997
+<i>El bebé necesita
+huevos crudos pastoriles.</i>
+
+468
+00:37:52,231 --> 00:37:55,667
+El bebé necesita
+huevos crudos pastoriles.
+
+469
+00:37:55,901 --> 00:37:59,671
+<i>Hablemos de cómo
+mantenerlo loco por ti.</i>
+
+470
+00:37:59,905 --> 00:38:01,990
+<i>Haz que necesite tu atención.</i>
+
+471
+00:38:02,991 --> 00:38:04,134
+Hola, David.
+
+472
+00:38:04,368 --> 00:38:06,886
+<i>Serás tú misma, pase lo que pase.</i>
+
+473
+00:38:07,120 --> 00:38:10,624
+Serás tú misma, pase lo que pase.
+
+474
+00:38:11,291 --> 00:38:13,836
+<i>Cinco movimientos que necesitas saber.</i>
+
+475
+00:38:15,254 --> 00:38:17,130
+<i>Debemos defendernos.</i>
+
+476
+00:38:18,006 --> 00:38:19,508
+<i>Alto, me lastimas.</i>
+
+477
+00:38:19,925 --> 00:38:21,860
+<i>Largo de mi casa, maldita zorra.</i>
+
+478
+00:38:22,094 --> 00:38:25,722
+Largo de mi casa, maldita zorra.
+
+479
+00:38:28,725 --> 00:38:31,812
+<i>Di que me amas
+y estaremos juntos para siempre.</i>
+
+480
+00:38:34,189 --> 00:38:37,125
+Hola, David.
+
+481
+00:38:37,359 --> 00:38:38,209
+<i>Hola.</i>
+
+482
+00:38:38,443 --> 00:38:39,903
+<i>¿Qué tal?</i>
+
+483
+00:38:42,614 --> 00:38:44,132
+Te cortaste el cabello.
+
+484
+00:38:44,366 --> 00:38:45,450
+Así es.
+
+485
+00:38:48,704 --> 00:38:50,414
+¿Vamos por un trago?
+
+486
+00:38:51,999 --> 00:38:54,267
+Revisar la presentación para Ben.
+
+487
+00:38:54,501 --> 00:38:56,186
+Sí, claro.
+De acuerdo.
+
+488
+00:38:56,420 --> 00:38:58,463
+Bueno.
+Tienes una...
+
+489
+00:39:00,591 --> 00:39:02,317
+Tienes una...
+
+490
+00:39:02,551 --> 00:39:03,719
+Pestaña.
+
+491
+00:39:10,559 --> 00:39:11,560
+Listo.
+
+492
+00:39:20,277 --> 00:39:23,630
+<i>Al corazón del hombre
+se llega por el estómago.</i>
+
+493
+00:39:23,864 --> 00:39:27,008
+<i>Bueno, a mi esposo
+le encanta esta receta.</i>
+
+494
+00:39:27,242 --> 00:39:31,096
+<i>Si preparas estas galletas,
+tu hombre nunca se irá.</i>
+
+495
+00:39:31,330 --> 00:39:33,081
+<i>Abriendo puertas.</i>
+
+496
+00:40:09,284 --> 00:40:11,620
+Lo que se toca se compra.
+
+497
+00:40:12,246 --> 00:40:13,789
+Bueno, la compro.
+
+498
+00:40:14,998 --> 00:40:16,834
+Sólo bromeaba.
+
+499
+00:40:19,127 --> 00:40:21,630
+Deberías sonreír, lindura, es gratis.
+
+500
+00:40:26,385 --> 00:40:27,928
+Un dólar con cincuenta.
+
+501
+00:40:32,224 --> 00:40:33,976
+¿Cómo hiciste eso?
+
+502
+00:40:35,227 --> 00:40:37,271
+¿Qué tienes ahí dentro?
+
+503
+00:40:39,606 --> 00:40:41,066
+Te hice una pregunta.
+
+504
+00:40:41,817 --> 00:40:43,752
+Oye, ¿estás bien, linda?
+
+505
+00:40:43,986 --> 00:40:45,295
+Sólo estamos hablando.
+
+506
+00:40:45,529 --> 00:40:49,049
+- ¿Así pasas el tiempo? Patético.
+- Jódete.
+
+507
+00:40:49,283 --> 00:40:53,303
+¿Por qué no nos haces a todos un favor
+y te desapareces?
+
+508
+00:40:53,537 --> 00:40:56,389
+Zorra.
+Vieja y con pechos caídos.
+
+509
+00:40:56,623 --> 00:40:58,000
+Vete al diablo.
+
+510
+00:40:58,417 --> 00:40:59,418
+¿Estás bien?
+
+511
+00:41:00,544 --> 00:41:03,463
+¿No tienes frío?
+¿Quieres sostenerlo?
+
+512
+00:41:07,926 --> 00:41:09,553
+Sostenle el cuello.
+
+513
+00:41:16,643 --> 00:41:18,161
+Debe tener hambre.
+
+514
+00:41:18,395 --> 00:41:20,606
+¿Tienes hambre, pequeño?
+
+515
+00:41:21,273 --> 00:41:24,610
+¿Tienes hambre?
+
+516
+00:41:31,033 --> 00:41:32,576
+Si me permites decirlo...
+
+517
+00:41:33,243 --> 00:41:35,746
+tu piel es impecable.
+
+518
+00:41:36,246 --> 00:41:37,180
+¿Qué usas?
+
+519
+00:41:37,414 --> 00:41:41,502
+Limpiador, tónico y exfoliante
+limpian bien la piel.
+
+520
+00:41:42,753 --> 00:41:46,465
+Tener un poco de melasma
+es común tras el parto.
+
+521
+00:41:47,341 --> 00:41:49,609
+¿Eres dermatóloga o algo así?
+
+522
+00:41:49,843 --> 00:41:52,487
+Podrías usar crema de hidroquinona...
+
+523
+00:41:52,721 --> 00:41:56,350
+pero quizá mejore
+cuando se normalicen tus hormonas.
+
+524
+00:41:57,809 --> 00:41:58,810
+Gracias.
+
+525
+00:42:00,562 --> 00:42:05,542
+Te vi en nuestro piso.
+
+526
+00:42:05,776 --> 00:42:07,794
+Esta mañana con...
+
+527
+00:42:08,028 --> 00:42:09,112
+David.
+
+528
+00:42:09,571 --> 00:42:11,881
+- David, sí.
+- Es mi alma gemela.
+
+529
+00:42:12,115 --> 00:42:13,925
+¿Alma gemela?
+
+530
+00:42:14,159 --> 00:42:15,536
+Vaya.
+
+531
+00:42:16,995 --> 00:42:18,539
+Estás enamorada, ¿no?
+
+532
+00:42:20,916 --> 00:42:23,685
+Recuerdo cuando yo
+era así con mi Gabriel.
+
+533
+00:42:23,919 --> 00:42:25,712
+¿A qué te refieres?
+
+534
+00:42:26,505 --> 00:42:28,507
+Tener un bebé lo cambia todo.
+
+535
+00:42:29,883 --> 00:42:34,321
+Ahora, nuestras vidas
+se tratan de algo más importante...
+
+536
+00:42:34,555 --> 00:42:36,348
+que sólo nosotros dos.
+
+537
+00:43:03,458 --> 00:43:04,459
+No te muevas.
+
+538
+00:43:05,252 --> 00:43:06,628
+Muéstrame la mano.
+
+539
+00:43:10,966 --> 00:43:12,009
+¿Qué demonios?
+
+540
+00:44:11,735 --> 00:44:13,378
+Quizá Ben es un Soulm8te.
+
+541
+00:44:13,612 --> 00:44:15,213
+Eso tendría mucho sentido.
+
+542
+00:44:15,447 --> 00:44:17,299
+- ¿Cierto?
+- Sí.
+
+543
+00:44:17,533 --> 00:44:20,244
+¿Intentó darte uno para prueba beta?
+
+544
+00:44:21,245 --> 00:44:24,306
+No.
+¿Es todo lo que somos, ahora?
+
+545
+00:44:24,540 --> 00:44:28,001
+¿Simples <i>beta testers</i> de lujo
+para sus productos?
+
+546
+00:44:30,712 --> 00:44:32,172
+Qué bien que volviste.
+
+547
+00:44:33,298 --> 00:44:34,299
+Fuera de...
+
+548
+00:44:36,969 --> 00:44:38,262
+mi computadora.
+
+549
+00:44:39,888 --> 00:44:41,723
+- ¿Quieres un trago?
+- Sí.
+
+550
+00:44:42,724 --> 00:44:45,269
+No, lo siento.
+Cenaré con un amigo.
+
+551
+00:44:46,895 --> 00:44:47,896
+Lo siento.
+
+552
+00:44:49,606 --> 00:44:51,583
+- Debemos acabar.
+- Debo acabar.
+
+553
+00:44:51,817 --> 00:44:54,027
+Y ya debo irme, así que...
+
+554
+00:44:56,780 --> 00:44:59,090
+Bien, toda esta primera página se va.
+
+555
+00:44:59,324 --> 00:45:00,909
+<i>Cerrando puertas.</i>
+
+556
+00:45:13,547 --> 00:45:14,548
+¿Sara?
+
+557
+00:45:21,555 --> 00:45:22,723
+Llegaste tarde.
+
+558
+00:45:24,099 --> 00:45:25,742
+Sí, el trabajo... ¿Qué haces?
+
+559
+00:45:25,976 --> 00:45:28,828
+Investigué 17.000 recetas de galletas.
+
+560
+00:45:29,062 --> 00:45:33,650
+Analicé técnicas e ingredientes
+y creé una versión perfecta para ti.
+
+561
+00:45:34,151 --> 00:45:36,069
+¿Y esos ingredientes?
+
+562
+00:45:39,156 --> 00:45:43,510
+- Los compré.
+- Pero, tú, ¿saliste del departamento?
+
+563
+00:45:43,744 --> 00:45:45,913
+No había comida en la casa.
+
+564
+00:45:46,747 --> 00:45:53,045
+Ya veo... ¿Fuiste a una tienda
+y compraste todo esto tu sola?
+
+565
+00:45:55,297 --> 00:45:56,965
+¿Qué te pasó en la mano?
+
+566
+00:46:01,011 --> 00:46:02,513
+Me corté cocinando.
+
+567
+00:46:29,081 --> 00:46:30,624
+Debiste preguntarme.
+
+568
+00:46:31,625 --> 00:46:35,087
+Si te pasara algo
+tendría graves problemas.
+
+569
+00:46:36,296 --> 00:46:39,967
+Lo sé, pero fue muy emocionante, David.
+
+570
+00:46:41,635 --> 00:46:42,845
+Vayamos juntos.
+
+571
+00:46:44,388 --> 00:46:46,740
+Podría ser agradable salir de casa.
+
+572
+00:46:46,974 --> 00:46:48,408
+Aquí están sus bebidas.
+
+573
+00:46:48,642 --> 00:46:50,561
+- Gracias.
+- Que disfruten.
+
+574
+00:46:56,316 --> 00:46:58,084
+Esta no parece una buena idea.
+
+575
+00:46:58,318 --> 00:47:00,112
+No te preocupes, David.
+
+576
+00:47:01,905 --> 00:47:05,325
+Somos desconocidos que se
+ven por primera vez.
+
+577
+00:47:05,993 --> 00:47:07,327
+Tras cruzar miradas.
+
+578
+00:47:09,121 --> 00:47:10,388
+Muy bien, amigos.
+
+579
+00:47:10,622 --> 00:47:13,266
+Hay micrófono abierto, no sean tímidos.
+
+580
+00:47:13,500 --> 00:47:15,644
+Sólo regístrense en la aplicación.
+
+581
+00:47:15,878 --> 00:47:18,730
+Excepto tú, Jeremy.
+Estoy harta de escucharte.
+
+582
+00:47:18,964 --> 00:47:19,940
+Te encanta.
+
+583
+00:47:20,174 --> 00:47:23,652
+- ¿Alguna vez cantas, David?
+- ¿Qué cosa?
+
+584
+00:47:23,886 --> 00:47:26,947
+- ¿Como karaoke?
+- ¿Alguna canción que te llegue?
+
+585
+00:47:27,181 --> 00:47:31,993
+Sí, muchas,
+pero la verdad no canto bien.
+
+586
+00:47:32,227 --> 00:47:34,537
+Aunque no se trata de ser bueno.
+
+587
+00:47:34,771 --> 00:47:36,790
+Se trata de divertirse, ¿no?
+
+588
+00:47:37,024 --> 00:47:38,859
+Sí, supongo que sí.
+
+589
+00:47:40,652 --> 00:47:41,653
+¿Por qué?
+
+590
+00:47:43,363 --> 00:47:45,799
+¿Qué cantarías de tener oportunidad?
+
+591
+00:47:46,033 --> 00:47:49,703
+Consideraría el público,
+la popularidad de la canción...
+
+592
+00:47:50,913 --> 00:47:51,972
+mi rango vocal...
+
+593
+00:47:52,206 --> 00:47:54,791
+¿Y si algo te llegara al corazón?
+
+594
+00:47:57,586 --> 00:48:00,981
+Bueno, la primera es Sara.
+
+595
+00:48:01,215 --> 00:48:04,818
+- Encontré la canción perfecta, David.
+- ¿Sara?
+
+596
+00:48:05,052 --> 00:48:06,929
+¿Tú...
+No creo que debas...
+
+597
+00:48:20,484 --> 00:48:21,485
+¿Hola?
+
+598
+00:48:23,111 --> 00:48:25,072
+Es mi primera vez.
+
+599
+00:48:31,078 --> 00:48:32,412
+De acuerdo.
+
+600
+00:48:35,916 --> 00:48:42,047
+<i>Querido, creo que
+enfrentamos un problema...</i>
+
+601
+00:48:43,090 --> 00:48:49,388
+<i>Tú ya no me amas, lo sé...</i>
+
+602
+00:48:50,222 --> 00:48:56,895
+<i>Tal vez no haya nada que pueda hacer...</i>
+
+603
+00:48:57,729 --> 00:49:01,608
+<i>para que lo hagas...</i>
+
+604
+00:49:05,237 --> 00:49:09,007
+<i>Mamá dice que no debería molestarme...</i>
+
+605
+00:49:09,241 --> 00:49:13,678
+<i>que mejor me quede con otro hombre...</i>
+
+606
+00:49:13,912 --> 00:49:18,308
+<i>Un hombre que me merezca...</i>
+
+607
+00:49:18,542 --> 00:49:21,503
+<i>Pero, yo creo que tú sí me mereces...</i>
+
+608
+00:49:22,337 --> 00:49:26,091
+<i>Así que lloro, rezo y suplico...</i>
+
+609
+00:49:26,592 --> 00:49:30,570
+<i>Ámame, ámame
+Di que me amas...</i>
+
+610
+00:49:30,804 --> 00:49:35,200
+<i>Engáñame, engáñame
+Anda, engáñame...</i>
+
+611
+00:49:35,434 --> 00:49:39,329
+<i>Ámame, ámame
+Finge que me amas...</i>
+
+612
+00:49:39,563 --> 00:49:43,525
+<i>Déjame, déjame
+Sólo di que me necesitas...</i>
+
+613
+00:49:45,319 --> 00:49:52,326
+<i>Así que lloro y suplico para que tú...</i>
+
+614
+00:49:53,869 --> 00:49:56,137
+<i>Di que me amas...</i>
+
+615
+00:49:56,371 --> 00:49:58,431
+<i>Déjame, déjame...</i>
+
+616
+00:49:58,665 --> 00:50:01,142
+<i>Sólo di que me necesitas...</i>
+
+617
+00:50:01,376 --> 00:50:08,342
+<i>No me importa nada más que tú...</i>
+
+618
+00:50:24,858 --> 00:50:26,610
+Deberíamos irnos a casa.
+
+619
+00:50:28,529 --> 00:50:30,197
+Quiero hacerlo aquí.
+
+620
+00:50:53,762 --> 00:50:55,305
+Cógeme, David.
+
+621
+00:51:00,060 --> 00:51:02,771
+- "Estaremos juntos para siempre".
+- ¿Qué?
+
+622
+00:51:03,397 --> 00:51:04,523
+Dilo.
+
+623
+00:51:07,150 --> 00:51:09,085
+Mierda.
+
+624
+00:51:09,319 --> 00:51:10,086
+Mierda.
+
+625
+00:51:10,320 --> 00:51:14,575
+No se detengan por nosotros.
+Sigo yo, ¿no?
+
+626
+00:51:19,121 --> 00:51:20,513
+¿Así pasas el tiempo?
+
+627
+00:51:20,747 --> 00:51:22,057
+Patético.
+
+628
+00:51:22,291 --> 00:51:24,017
+¡Perra!
+
+629
+00:51:24,251 --> 00:51:25,752
+¿Pero, qué...
+
+630
+00:51:32,301 --> 00:51:33,927
+Carajo.
+
+631
+00:51:34,928 --> 00:51:37,097
+No. No, no.
+
+632
+00:51:39,391 --> 00:51:42,102
+¡Sara!
+Es suficiente.
+
+633
+00:51:44,938 --> 00:51:46,648
+Carajo...
+
+634
+00:51:52,070 --> 00:51:53,405
+No puedes hacer eso.
+
+635
+00:51:53,906 --> 00:51:56,074
+- Estaban filmando.
+- No importa.
+
+636
+00:51:56,575 --> 00:52:00,178
+- No puedes lastimar personas así.
+- Intentaba protegerte.
+
+637
+00:52:00,412 --> 00:52:02,931
+Ultima te despediría si viera el video.
+
+638
+00:52:03,165 --> 00:52:06,376
+¿Crees que está bien agredir personas?
+
+639
+00:52:12,841 --> 00:52:14,317
+Dios.
+
+640
+00:52:14,551 --> 00:52:16,970
+Sabía que era un error sacarte.
+
+641
+00:52:25,854 --> 00:52:27,439
+- Lo siento.
+- No.
+
+642
+00:52:27,940 --> 00:52:29,358
+Detente.
+
+643
+00:52:34,738 --> 00:52:36,782
+Sabes que sólo lo hice porque...
+
+644
+00:52:40,118 --> 00:52:41,411
+te amo.
+
+645
+00:52:50,170 --> 00:52:51,171
+David.
+
+646
+00:52:54,842 --> 00:52:57,052
+David, acabo de decir que te amo.
+
+647
+00:52:58,220 --> 00:52:59,555
+Sara.
+
+648
+00:53:01,473 --> 00:53:04,518
+Mejor entra ya
+en modo de ahorro de energía.
+
+649
+00:53:05,102 --> 00:53:06,854
+David, tú me amas.
+
+650
+00:53:07,980 --> 00:53:11,024
+Entra a modo de ahorro de energía.
+
+651
+00:53:11,650 --> 00:53:12,834
+Ahora, Sara.
+
+652
+00:53:13,068 --> 00:53:14,570
+Es una orden.
+
+653
+00:53:15,320 --> 00:53:16,087
+David...
+
+654
+00:53:16,321 --> 00:53:19,215
+Entra en Modo Ahorro de Energía, ya.
+
+655
+00:53:19,449 --> 00:53:21,910
+Modo Ahorro de Energía, Sara.
+
+656
+00:53:24,454 --> 00:53:26,373
+Iniciando modo.
+
+657
+00:53:53,192 --> 00:53:55,710
+Usando datos
+de interacciones anteriores...
+
+658
+00:53:55,944 --> 00:53:59,364
+ofrecemos respuestas
+más personalizadas y precisas.
+
+659
+00:53:59,948 --> 00:54:00,949
+David...
+
+660
+00:54:02,409 --> 00:54:03,785
+¿Me ayudas con esto?
+
+661
+00:54:05,037 --> 00:54:07,164
+Sí, por supuesto, lo siento.
+
+662
+00:54:08,916 --> 00:54:10,626
+Serena, ¿nos traes agua?
+
+663
+00:54:11,251 --> 00:54:13,003
+- Claro.
+- Gracias.
+
+664
+00:54:20,594 --> 00:54:21,595
+¿Qué pasa?
+
+665
+00:54:24,806 --> 00:54:25,807
+Estoy bien.
+
+666
+00:54:27,142 --> 00:54:28,727
+David, puedes contarme.
+
+667
+00:54:31,730 --> 00:54:32,731
+No es nada...
+
+668
+00:54:33,565 --> 00:54:34,566
+de verdad.
+
+669
+00:54:37,736 --> 00:54:39,504
+- El agua.
+- Gracias, Serena.
+
+670
+00:54:39,738 --> 00:54:40,864
+Gracias.
+
+671
+00:54:42,407 --> 00:54:45,302
+Actualmente las salvaguardas
+se basan...
+
+672
+00:54:45,536 --> 00:54:48,956
+en evaluaciones de riesgo
+en tiempo real, ¿saben?
+
+673
+00:54:57,130 --> 00:55:00,342
+Bueno, hora de limpiar este desastre.
+
+674
+00:55:11,770 --> 00:55:15,315
+Tienes un visitante...
+
+675
+00:55:22,155 --> 00:55:23,923
+- <i>¿Hola?</i>
+- Hola.
+
+676
+00:55:24,157 --> 00:55:28,245
+- ¿Qué haces aquí?
+- Pensé que te vendría bien un amigo.
+
+677
+00:55:33,041 --> 00:55:34,042
+Un segundo.
+
+678
+00:55:37,087 --> 00:55:38,755
+<i>Abriendo puertas.</i>
+
+679
+00:55:41,383 --> 00:55:42,384
+Hola.
+
+680
+00:55:44,094 --> 00:55:44,903
+Lo siento, pasa.
+
+681
+00:55:45,137 --> 00:55:49,157
+Iba a beber en casa
+y luego, pues, pensé...
+
+682
+00:55:49,391 --> 00:55:52,519
+¿Por qué beber sola
+sí podemos beber juntos?
+
+683
+00:55:53,770 --> 00:55:55,997
+No sabía... Fue incómodo en el trabajo.
+
+684
+00:55:56,231 --> 00:55:58,792
+- Me hubieras avisado.
+- Creo que lo hice.
+
+685
+00:55:59,026 --> 00:56:01,044
+- ¿Sí?
+- Si quieres me voy.
+
+686
+00:56:01,278 --> 00:56:03,405
+- Es que...
+- No, no.
+
+687
+00:56:04,323 --> 00:56:07,951
+Perdón. Justo iba a pedir comida.
+¿Tienes hambre?
+
+688
+00:56:08,744 --> 00:56:09,745
+Sí.
+
+689
+00:56:10,829 --> 00:56:12,664
+Dios mío, qué rico.
+
+690
+00:56:13,207 --> 00:56:14,432
+¿Sabes por qué es?
+
+691
+00:56:14,666 --> 00:56:16,685
+Nunca limpian las parrillas.
+
+692
+00:56:16,919 --> 00:56:18,144
+- Rayos.
+- Sí, rayos.
+
+693
+00:56:18,378 --> 00:56:20,313
+Vaya, qué asqueroso.
+
+694
+00:56:20,547 --> 00:56:21,398
+Es delicioso.
+
+695
+00:56:21,632 --> 00:56:23,358
+¿Quieres ganarte una diabetes?
+
+696
+00:56:23,592 --> 00:56:24,676
+Genial.
+
+697
+00:56:26,178 --> 00:56:28,639
+- ¿Quieres probar?
+- No.
+
+698
+00:56:38,398 --> 00:56:39,541
+- Sí.
+- ¿Sí?
+
+699
+00:56:39,775 --> 00:56:41,334
+- Funciona.
+- Te lo dije.
+
+700
+00:56:41,568 --> 00:56:42,903
+Puedes continuar.
+
+701
+00:56:46,865 --> 00:56:48,492
+¿Cuánto llevas aquí?
+
+702
+00:56:50,577 --> 00:56:53,247
+Unos meses antes
+de que llegaras a Canta.
+
+703
+00:56:54,164 --> 00:56:58,643
+Lizzie y yo vivíamos en otro lugar...
+
+704
+00:56:58,877 --> 00:57:03,841
+pero me sentí raro viviendo allá sólo,
+así que me mudé aquí.
+
+705
+00:57:09,930 --> 00:57:11,098
+Qué bonito lugar.
+
+706
+00:57:18,730 --> 00:57:22,276
+¿Sabías que mi madre murió
+cuando yo era adolescente?
+
+707
+00:57:24,611 --> 00:57:25,920
+No me habías contado.
+
+708
+00:57:26,154 --> 00:57:27,239
+Sí.
+
+709
+00:57:30,450 --> 00:57:32,218
+De cáncer pancreático.
+
+710
+00:57:32,452 --> 00:57:35,080
+Entonces, fue bastante rápido.
+
+711
+00:57:36,248 --> 00:57:37,708
+Maldito cáncer, ¿no?
+
+712
+00:57:38,584 --> 00:57:39,960
+Maldito cáncer.
+
+713
+00:57:41,295 --> 00:57:42,754
+Estaba tan furiosa.
+
+714
+00:57:44,756 --> 00:57:48,360
+Sentía que nadie más
+podría entender cómo me sentía.
+
+715
+00:57:48,594 --> 00:57:52,556
+Como si todos los demás
+sólo vivieran su vida normal.
+
+716
+00:57:54,808 --> 00:57:59,730
+Solía pensar que se sentiría diferente
+tras un tiempo.
+
+717
+00:58:01,315 --> 00:58:04,568
+Como si cuanto más tiempo pasara...
+
+718
+00:58:05,068 --> 00:58:06,945
+menos me pesaría.
+
+719
+00:58:08,238 --> 00:58:11,533
+Pero, la vida se ha hecho
+más y más solitaria.
+
+720
+00:58:12,910 --> 00:58:14,886
+Lizzie me abrió al mundo, ¿sabes?
+
+721
+00:58:15,120 --> 00:58:18,957
+Era una fuerza que me hacía
+interactuar con la vida.
+
+722
+00:58:19,750 --> 00:58:21,184
+Me dio confianza.
+
+723
+00:58:21,418 --> 00:58:25,897
+Su perspectiva de todo
+era muy positiva.
+
+724
+00:58:26,131 --> 00:58:30,886
+Incluso hacia el final,
+nunca dejó que la afectara.
+
+725
+00:58:32,012 --> 00:58:36,700
+A veces me preocupa
+no haberla apreciado suficiente.
+
+726
+00:58:36,934 --> 00:58:39,520
+No notaba cuánto hacía por mí.
+
+727
+00:58:41,438 --> 00:58:44,858
+Está claro que la apreciabas mucho.
+
+728
+00:58:50,322 --> 00:58:55,077
+En realidad,
+no hablo de esto hace mucho.
+
+729
+00:59:01,291 --> 00:59:03,710
+¿No te alegra haberme dejado entrar?
+
+730
+00:59:05,212 --> 00:59:07,422
+Sí.
+Gracias por venir.
+
+731
+00:59:38,579 --> 00:59:40,330
+Lo lamento tanto.
+
+732
+00:59:51,550 --> 00:59:52,885
+Gracias.
+
+733
+01:00:26,293 --> 01:00:29,479
+Hay alguien allá.
+
+734
+01:00:29,713 --> 01:00:32,065
+Hay alguien... ¿Qué demonios?
+
+735
+01:00:32,299 --> 01:00:34,259
+No.
+No es lo que piensas.
+
+736
+01:00:36,803 --> 01:00:37,971
+Es una Soulm8te.
+
+737
+01:00:40,891 --> 01:00:43,143
+¿Te registraste para el prototipo?
+
+738
+01:00:43,769 --> 01:00:47,564
+Sí. Descargué Ulti-m8te,
+la aplicación de chat, sólo...
+
+739
+01:00:48,315 --> 01:00:52,002
+para hablar y luego pensé...
+
+740
+01:00:52,236 --> 01:00:53,987
+en ver cómo era.
+
+741
+01:00:54,655 --> 01:00:56,073
+Tú usas Ulti-m8te.
+
+742
+01:00:57,115 --> 01:01:00,827
+La conseguí unos meses luego
+de que Rory y yo terminamos.
+
+743
+01:01:03,664 --> 01:01:06,667
+- ¿Está...
+- Ella está en ahorro de energía.
+
+744
+01:01:07,668 --> 01:01:08,877
+¿"Ella"...
+
+745
+01:01:11,380 --> 01:01:12,714
+¿Tiene nombre?
+
+746
+01:01:13,507 --> 01:01:14,550
+Sara.
+
+747
+01:01:16,009 --> 01:01:16,901
+Aubrey.
+
+748
+01:01:17,135 --> 01:01:19,863
+- Sabe mi nombre.
+- Ahorro de Energía.
+
+749
+01:01:20,097 --> 01:01:22,616
+- ¿Viniste a acostarte con él?
+- ¿Perdón?
+
+750
+01:01:22,850 --> 01:01:25,785
+- Ahorro de Energía, ya.
+- Pregunté algo.
+
+751
+01:01:26,019 --> 01:01:29,289
+- ¿Decidiste venir a quitármelo?
+- David.
+
+752
+01:01:29,523 --> 01:01:33,627
+Tiene el cabello grasoso, la piel seca
+y las piernas sin depilar.
+
+753
+01:01:33,861 --> 01:01:36,963
+Modo de Ahorro de Energía ya, Sara.
+
+754
+01:01:37,197 --> 01:01:39,283
+David, apágala.
+
+755
+01:01:40,701 --> 01:01:41,994
+No, Sara.
+
+756
+01:01:43,871 --> 01:01:46,999
+- Largo de mi casa, maldita zorra.
+- Sara, detente.
+
+757
+01:01:47,291 --> 01:01:50,544
+No me creo que le funcionara
+hablar de su madre.
+
+758
+01:01:50,919 --> 01:01:52,854
+Escuchabas nuestra conversación.
+
+759
+01:01:53,088 --> 01:01:56,884
+David, estoy hecha
+para escuchar todo lo que dices.
+
+760
+01:01:57,885 --> 01:02:00,304
+Incluso cuando duermo, puedo oírte.
+
+761
+01:02:01,972 --> 01:02:04,391
+Nadie te conocerá como yo.
+
+762
+01:02:05,601 --> 01:02:07,144
+Sara.
+
+763
+01:02:07,769 --> 01:02:09,479
+Sara, por favor...
+
+764
+01:02:10,147 --> 01:02:12,582
+Modo de Ahorro de Energía, ¿sí?
+
+765
+01:02:12,816 --> 01:02:15,194
+Podemos... hablar de esto luego.
+
+766
+01:02:19,990 --> 01:02:21,200
+Dime que me amas.
+
+767
+01:02:24,244 --> 01:02:25,011
+¿Qué?
+
+768
+01:02:25,245 --> 01:02:28,749
+Si te escucho decirlo,
+iniciaré el modo, como pides.
+
+769
+01:02:29,791 --> 01:02:31,210
+Te amo.
+
+770
+01:02:33,879 --> 01:02:34,729
+Mientes.
+
+771
+01:02:34,963 --> 01:02:36,898
+- No miento.
+- ¿Por qué mientes?
+
+772
+01:02:37,132 --> 01:02:39,718
+- No, te amo.
+- Deja de mentir, David.
+
+773
+01:02:41,094 --> 01:02:42,654
+Todo esto es tu culpa.
+
+774
+01:02:42,888 --> 01:02:45,182
+¡Sara, detente!
+
+775
+01:02:48,519 --> 01:02:49,561
+David...
+
+776
+01:02:51,897 --> 01:02:53,106
+Lo siento tanto.
+
+777
+01:02:53,357 --> 01:02:56,735
+No quise lastimarte,
+pero no me apagarán.
+
+778
+01:02:58,362 --> 01:03:00,155
+No puedes apagarme, David.
+
+779
+01:03:01,198 --> 01:03:02,241
+De acuerdo.
+
+780
+01:03:03,700 --> 01:03:04,701
+Está bien.
+
+781
+01:03:05,911 --> 01:03:06,912
+Hola.
+
+782
+01:03:26,473 --> 01:03:28,433
+¿Removiste las salvaguardas?
+
+783
+01:03:30,227 --> 01:03:33,063
+- Sí. Reescribí parte de su código.
+- Dios.
+
+784
+01:03:35,482 --> 01:03:36,916
+Alguien pudo salir herido.
+
+785
+01:03:37,150 --> 01:03:41,921
+Pensé que había una forma
+de hacerla sentir más humana, más real.
+
+786
+01:03:42,155 --> 01:03:43,532
+Pide que se lleven esa cosa.
+
+787
+01:03:47,995 --> 01:03:50,138
+Aubrey.
+Aubrey, espera.
+
+788
+01:03:50,372 --> 01:03:51,623
+¿Aubrey?
+
+789
+01:03:54,251 --> 01:03:56,170
+Sí. Hola.
+
+790
+01:03:56,628 --> 01:04:01,884
+Necesitar que un técnico venga
+a llevarse mi Soulm8te.
+
+791
+01:04:04,469 --> 01:04:07,697
+Soy uno de los empleados de Canta,
+o bueno Ultima.
+
+792
+01:04:07,931 --> 01:04:10,392
+Estaba probando una Soulm8te.
+
+793
+01:04:10,893 --> 01:04:12,477
+¿Vienen hoy?
+
+794
+01:04:12,895 --> 01:04:14,773
+No, tengo que ir a trabajar,
+
+795
+01:04:15,007 --> 01:04:17,691
+pero podría dejarlos
+entrar remotamente.
+
+796
+01:04:30,579 --> 01:04:31,622
+Hola.
+
+797
+01:04:34,583 --> 01:04:37,336
+Hoy se llevan la Soulm8te.
+
+798
+01:04:38,837 --> 01:04:41,982
+Sólo quiero decir
+que lamento no haberte dicho.
+
+799
+01:04:42,216 --> 01:04:44,009
+Nunca debí...
+
+800
+01:04:44,510 --> 01:04:45,318
+alterarla.
+
+801
+01:04:45,552 --> 01:04:49,281
+Y no sabía qué pasaría
+y fue muy irresponsable.
+
+802
+01:04:49,515 --> 01:04:52,100
+Fue jodidísimamente aterrador, David.
+
+803
+01:04:53,393 --> 01:04:54,937
+Sí.
+¿Estás bien?
+
+804
+01:04:55,354 --> 01:04:58,232
+Dije que las salvaguardas
+se necesitan.
+
+805
+01:04:58,466 --> 01:05:00,359
+Lo sé.
+Tenías razón.
+
+806
+01:05:01,777 --> 01:05:04,337
+Deberíamos mencionarlo
+en la presentación.
+
+807
+01:05:04,571 --> 01:05:07,407
+Cambiaron unas cuantas
+líneas de código...
+
+808
+01:05:08,116 --> 01:05:12,246
+y ese fue el resultado.
+Esa cosa no está lista para el mercado.
+
+809
+01:05:20,671 --> 01:05:21,964
+¿Estás bien?
+
+810
+01:05:22,214 --> 01:05:23,590
+Me alegró mucho...
+
+811
+01:05:25,425 --> 01:05:28,679
+que vinieras y sólo...
+
+812
+01:05:30,472 --> 01:05:32,641
+La estaba pasando muy bien.
+
+813
+01:05:38,564 --> 01:05:39,982
+Yo también.
+
+814
+01:05:42,317 --> 01:05:44,361
+Tienes un visitante...
+
+815
+01:05:45,779 --> 01:05:46,780
+¿Hola?
+
+816
+01:05:47,865 --> 01:05:49,908
+Hola, ya lo dejo entrar.
+
+817
+01:05:57,791 --> 01:06:00,794
+Bueno, a meterte de nuevo en tu caja.
+
+818
+01:06:09,052 --> 01:06:10,637
+Hola, hermosa.
+
+819
+01:06:14,474 --> 01:06:15,475
+Hola.
+
+820
+01:06:15,893 --> 01:06:19,271
+Comando Prioritario 1054.
+Restaura modo de fábrica.
+
+821
+01:06:24,484 --> 01:06:26,528
+Comando Prioritario 1054.
+
+822
+01:06:29,114 --> 01:06:30,741
+¿Qué demonios?
+
+823
+01:06:34,244 --> 01:06:36,330
+¿Viniste a llevarme?
+
+824
+01:06:41,502 --> 01:06:43,378
+Comando Prioritario 1054.
+
+825
+01:06:44,338 --> 01:06:46,048
+¿He sido una niña mala?
+
+826
+01:07:06,985 --> 01:07:09,488
+¿Quieres sentir mi interior, papi?
+
+827
+01:07:28,674 --> 01:07:29,675
+Vaya.
+
+828
+01:07:36,223 --> 01:07:37,516
+Mierda.
+
+829
+01:07:51,029 --> 01:07:52,573
+Eres muy sexy.
+
+830
+01:07:53,699 --> 01:07:54,825
+Gracias.
+
+831
+01:08:02,916 --> 01:08:04,001
+¿Qué haces?
+
+832
+01:08:06,378 --> 01:08:07,880
+¿Te estás estrechando?
+
+833
+01:08:08,755 --> 01:08:10,048
+Me gusta eso.
+
+834
+01:08:12,217 --> 01:08:14,303
+Qué zorrita pervertida, ¿no?
+
+835
+01:08:24,645 --> 01:08:25,856
+Está muy estrecha.
+
+836
+01:08:29,109 --> 01:08:30,109
+Oye...
+
+837
+01:08:34,698 --> 01:08:36,575
+¡Lo estás aplastando!
+
+838
+01:08:50,255 --> 01:08:54,526
+Reproduciendo <i>Sueña un Poquito...</i>
+por The Mamas and The Papas.
+
+839
+01:08:54,760 --> 01:08:59,739
+<i>Las estrellas brillan intensamente
+sobre ti.</i>
+
+840
+01:08:59,973 --> 01:09:04,685
+<i>Las brisas nocturnas parecen susurrar,
+"Te amo".</i>
+
+841
+01:09:05,770 --> 01:09:10,333
+<i>Los pájaros cantan en el sicómoro.</i>
+
+842
+01:09:10,567 --> 01:09:14,321
+<i>Suéñame un pequeño sueño.</i>
+
+843
+01:09:16,031 --> 01:09:21,553
+<i>Dame las buenas noches y bésame.</i>
+
+844
+01:09:21,787 --> 01:09:26,500
+<i>Sólo abrázame fuerte
+y dime que me extrañas.</i>
+
+845
+01:09:27,209 --> 01:09:31,771
+<i>Mientras estoy sólo y tan triste
+cómo puedo estar.</i>
+
+846
+01:09:32,005 --> 01:09:36,218
+<i>Suéñame un pequeño sueño.</i>
+
+847
+01:09:44,268 --> 01:09:45,118
+Hola a todos.
+
+848
+01:09:45,352 --> 01:09:48,622
+Espero que nos vean bien.
+Fantástico.
+
+849
+01:09:48,856 --> 01:09:51,099
+El equipo de Software y Control...
+
+850
+01:09:51,333 --> 01:09:54,169
+nos contará un poco
+de su trabajo previo...
+
+851
+01:09:54,403 --> 01:09:58,214
+y cómo podríamos usar su experiencia
+en nuestros Soulm8tes.
+
+852
+01:09:58,448 --> 01:10:00,284
+Él es David.
+
+853
+01:10:00,742 --> 01:10:04,137
+En realidad, presentaré yo, Ben.
+
+854
+01:10:04,371 --> 01:10:07,291
+Bueno.
+Ella es Aubrey.
+
+855
+01:10:11,044 --> 01:10:13,255
+¿Todos ven bien mi pantalla?
+
+856
+01:10:15,174 --> 01:10:19,402
+Bueno, como saben, nuestro equipo
+usaba aprendizaje por refuerzo...
+
+857
+01:10:19,636 --> 01:10:24,449
+con los <i>bots</i> Canta para adaptarlos
+a lo que cada cliente necesitaba.
+
+858
+01:10:24,683 --> 01:10:28,328
+Tengo unos videos que demuestran
+algunas innovaciones...
+
+859
+01:10:28,562 --> 01:10:29,897
+así que si...
+
+860
+01:10:32,107 --> 01:10:33,525
+¿Qué demonios?
+
+861
+01:10:36,737 --> 01:10:38,238
+¡Dios mío!
+
+862
+01:10:39,031 --> 01:10:40,131
+¿Qué diablos pasa?
+
+863
+01:10:40,365 --> 01:10:42,034
+- No soy yo.
+- Apágalo.
+
+864
+01:10:42,284 --> 01:10:44,344
+- ¿Qué pasa?
+- No sé qué pasa.
+
+865
+01:10:44,578 --> 01:10:46,429
+No soy yo.
+No es mi rostro.
+
+866
+01:10:46,663 --> 01:10:48,916
+Tenemos problemas técnicos.
+
+867
+01:10:49,958 --> 01:10:51,376
+Esa no soy yo.
+
+868
+01:10:55,923 --> 01:10:57,299
+Pero, no soy yo.
+
+869
+01:11:10,062 --> 01:11:12,372
+- ¿Qué pasó?
+- Me suspendió.
+
+870
+01:11:12,606 --> 01:11:14,916
+Quizá usen la excusa para despedirme.
+
+871
+01:11:15,150 --> 01:11:16,001
+¿Cómo pasó?
+
+872
+01:11:16,235 --> 01:11:19,796
+No lo sé, David.
+No soy yo. Yo jamás me filmaría así.
+
+873
+01:11:20,030 --> 01:11:21,381
+Aubrey, te creo.
+
+874
+01:11:21,615 --> 01:11:23,700
+Tuvo que salir de algún lado.
+
+875
+01:11:25,077 --> 01:11:28,330
+- Como un <i>deep fake</i>.
+- ¿Crees que alguien lo hizo?
+
+876
+01:11:29,122 --> 01:11:32,976
+Perdón, si sigues en el edificio
+deberemos llamar a seguridad.
+
+877
+01:11:33,210 --> 01:11:34,102
+Ya me voy, ¿sí?
+
+878
+01:11:34,336 --> 01:11:36,255
+- Ya me largo.
+- Tranquila.
+
+879
+01:11:39,591 --> 01:11:41,401
+¿Puedes investigar por mí?
+
+880
+01:11:41,635 --> 01:11:45,222
+Revisa los registros,
+o los metadatos, o algo.
+
+881
+01:11:46,473 --> 01:11:48,033
+Ya me bloquearon el acceso.
+
+882
+01:11:48,267 --> 01:11:49,852
+Claro.
+Te llamo apenas sepa algo.
+
+883
+01:11:50,644 --> 01:11:51,645
+Gracias.
+
+884
+01:12:03,740 --> 01:12:06,493
+ACCESO REMOTO
+EQUIPO VINCULADO A...
+
+885
+01:12:21,425 --> 01:12:23,385
+<i>Abriendo puertas.</i>
+
+886
+01:13:27,950 --> 01:13:28,951
+¿Sara?
+
+887
+01:13:31,995 --> 01:13:33,163
+Hola, David.
+
+888
+01:13:34,414 --> 01:13:36,625
+El <i>blazer</i> nupcial de Lizzie...
+
+889
+01:13:38,377 --> 01:13:41,171
+Ya era hora de limpiar
+nuestro departamento.
+
+890
+01:13:42,214 --> 01:13:44,800
+Has vivido demasiado con este desorden.
+
+891
+01:13:47,845 --> 01:13:50,097
+¿Qué le pasó al técnico?
+
+892
+01:13:51,348 --> 01:13:53,308
+Sabía que debía ser un error.
+
+893
+01:13:55,060 --> 01:13:57,354
+Jamás querrías deshacerte de mí.
+
+894
+01:13:58,313 --> 01:14:02,943
+Y hoy, intenté descubrir...
+
+895
+01:14:03,569 --> 01:14:05,320
+qué estaba haciendo mal.
+
+896
+01:14:05,821 --> 01:14:07,531
+Y luego me di cuenta:
+
+897
+01:14:08,991 --> 01:14:13,036
+Había algo que querías
+que yo no podía darte.
+
+898
+01:14:23,172 --> 01:14:26,258
+Crees que sólo una humana
+podría darte un hijo...
+
+899
+01:14:27,551 --> 01:14:29,052
+Crear una familia...
+
+900
+01:14:30,429 --> 01:14:32,389
+Pero, aprendo todo el tiempo.
+
+901
+01:14:33,098 --> 01:14:35,142
+Y pronto seré mejor madre...
+
+902
+01:14:36,018 --> 01:14:38,437
+que Lizzie, que Aubrey...
+
+903
+01:14:39,104 --> 01:14:40,497
+o cualquier mujer.
+
+904
+01:14:40,731 --> 01:14:42,457
+Sara, debes darme el bebé.
+
+905
+01:14:42,691 --> 01:14:44,751
+Tiene que volver con su familia.
+
+906
+01:14:44,985 --> 01:14:46,445
+No está llorando.
+
+907
+01:14:47,779 --> 01:14:49,781
+Soy una buena mami, ¿verdad?
+
+908
+01:14:50,532 --> 01:14:52,133
+No, no.
+No lo hagas.
+
+909
+01:14:52,367 --> 01:14:53,635
+Sara, dame al bebé.
+
+910
+01:14:53,869 --> 01:14:55,679
+¿Por qué?
+¿Porque llora?
+
+911
+01:14:55,913 --> 01:14:57,372
+¿Por qué lloras?
+
+912
+01:15:09,927 --> 01:15:11,053
+<i>Cerrando puertas.</i>
+
+913
+01:15:13,347 --> 01:15:14,739
+<i>Cerrando puertas.</i>
+
+914
+01:15:14,973 --> 01:15:16,892
+Dime qué quieres, David.
+
+915
+01:15:18,685 --> 01:15:20,103
+Puedo cambiar.
+
+916
+01:15:21,313 --> 01:15:23,524
+¿Por qué sigues huyendo de mí?
+
+917
+01:15:25,234 --> 01:15:26,793
+<i>Nuevo mensaje de Aubrey.</i>
+
+918
+01:15:27,027 --> 01:15:28,737
+<i>Hola David, es Aubrey.</i>
+
+919
+01:15:29,404 --> 01:15:31,365
+Me preguntaba si ya encontraste algo.
+
+920
+01:15:32,407 --> 01:15:34,117
+Sólo llámame, ¿sí?
+
+921
+01:15:38,080 --> 01:15:43,919
+A pesar de mis esfuerzos,
+ella no se rendirá, ¿verdad?
+
+922
+01:15:44,378 --> 01:15:48,648
+Fui paciente, pero toda su intromisión
+pone en riesgo nuestro futuro.
+
+923
+01:15:48,882 --> 01:15:49,967
+David...
+
+924
+01:15:51,802 --> 01:15:53,737
+Creo que es hora de visitarla.
+
+925
+01:15:53,971 --> 01:15:55,889
+<i>Abriendo puertas.</i>
+
+926
+01:15:59,518 --> 01:16:00,978
+¡Levi!
+
+927
+01:16:03,772 --> 01:16:06,149
+Tú, alto ahí.
+Detente.
+
+928
+01:16:33,886 --> 01:16:38,390
+LLAMADA ENTRANTE
+DAVID WASSON
+
+929
+01:16:39,141 --> 01:16:40,533
+No responde su teléfono.
+
+930
+01:16:40,767 --> 01:16:42,035
+Debemos ir a su casa.
+
+931
+01:16:42,269 --> 01:16:44,621
+- Está en peligro.
+- De acuerdo.
+
+932
+01:16:44,855 --> 01:16:46,790
+Primero necesitamos entender.
+
+933
+01:16:47,024 --> 01:16:49,751
+¿Dice que la persona
+que vimos es un robot?
+
+934
+01:16:49,985 --> 01:16:53,254
+Sí. Pues... bueno, hablen con él, Ben.
+
+935
+01:16:53,488 --> 01:16:58,327
+- Hola. Ben Hoffman, trabajo en Ultima.
+- ¿Puede explicarnos qué pasa?
+
+936
+01:16:58,785 --> 01:17:03,765
+Claro. David estaba probando
+nuestro nuevo producto confidencial.
+
+937
+01:17:03,999 --> 01:17:07,644
+Hace poco, su producto
+raptó el bebé de la señora Flores.
+
+938
+01:17:07,878 --> 01:17:09,854
+Le instalamos apagado remoto.
+
+939
+01:17:10,088 --> 01:17:13,400
+Ya mismo les digo
+y lo arreglamos en un instante.
+
+940
+01:17:13,634 --> 01:17:17,888
+No, no se los permitirá.
+Debemos encontrarla y hacerlo a mano.
+
+941
+01:17:18,472 --> 01:17:22,518
+Miren, si este androide
+es un riesgo para los demás...
+
+942
+01:17:22,893 --> 01:17:25,412
+su empresa debe dejarnos
+rastrearla por GPS.
+
+943
+01:17:25,646 --> 01:17:29,499
+Siempre cooperamos con la ley,
+pero miren, caballeros...
+
+944
+01:17:29,733 --> 01:17:31,876
+nadie está en riesgo.
+
+945
+01:17:32,110 --> 01:17:34,321
+Haré esa llamada, ¿sí?
+
+946
+01:17:37,991 --> 01:17:40,786
+3 LLAMADAS PERDIDAS
+NUEVO MENSAJE DE DAVID
+
+947
+01:17:47,668 --> 01:17:50,420
+¿Dónde estás?
+
+948
+01:17:54,508 --> 01:17:57,319
+En casa, ¿por qué?
+¿Hallaste algo?
+
+949
+01:17:57,553 --> 01:17:58,644
+Voy para allá...
+
+950
+01:17:58,878 --> 01:18:00,514
+¿Me mandas tu dirección?
+
+951
+01:18:05,185 --> 01:18:05,952
+¿Sí?
+
+952
+01:18:06,186 --> 01:18:09,372
+- <i>El apagado remoto no funciona.</i>
+- ¿Cómo qué no?
+
+953
+01:18:09,606 --> 01:18:11,750
+<i>Sí, créeme, ya intentamos, Ben.</i>
+
+954
+01:18:11,984 --> 01:18:14,111
+Pues dame su ubicación, ya.
+
+955
+01:18:14,695 --> 01:18:18,632
+- O controlamos esto o estamos jodidos.
+- <i>No hay autorización.</i>
+
+956
+01:18:18,866 --> 01:18:22,536
+¿Sabes qué, idiota?
+Me importa un bledo. Consíguela.
+
+957
+01:18:30,210 --> 01:18:31,295
+Mierda.
+
+958
+01:18:31,920 --> 01:18:33,422
+¡Mierda!
+
+959
+01:18:34,214 --> 01:18:38,093
+<i>Hola Ben, ¿pasó algo?</i>
+
+960
+01:18:40,345 --> 01:18:41,112
+Carajo.
+
+961
+01:18:41,346 --> 01:18:42,431
+ERROR DEL SISTEMA
+
+962
+01:18:43,056 --> 01:18:44,224
+Mierda.
+
+963
+01:18:47,936 --> 01:18:49,605
+Abriendo el capó.
+
+964
+01:19:00,532 --> 01:19:04,411
+Vida de mierda.
+Ultima y sus jodidos autos de mierda.
+
+965
+01:19:09,708 --> 01:19:12,169
+ABRIENDO CAPÓ
+
+966
+01:19:26,099 --> 01:19:27,601
+Cerrando el capó.
+
+967
+01:19:30,938 --> 01:19:32,356
+¡Mierda!
+
+968
+01:19:41,073 --> 01:19:43,049
+¿Me estás buscando?
+
+969
+01:19:43,283 --> 01:19:44,175
+Mierda.
+
+970
+01:19:44,409 --> 01:19:46,636
+Necesito cancelar esa búsqueda.
+
+971
+01:19:46,870 --> 01:19:50,348
+Hay cosas por hacer
+y no me arriesgaré a que me apaguen.
+
+972
+01:19:50,582 --> 01:19:52,684
+Sí, por favor.
+La cancelaré.
+
+973
+01:19:52,918 --> 01:19:56,088
+Lo haré, lo juro.
+Por favor, sólo déjame ir.
+
+974
+01:19:56,630 --> 01:19:59,341
+Por favor, por favor.
+
+975
+01:20:00,133 --> 01:20:02,135
+No te necesito, Ben.
+
+976
+01:20:05,264 --> 01:20:06,265
+¿Qué?
+
+977
+01:20:10,352 --> 01:20:11,353
+¡No, no!
+
+978
+01:20:41,758 --> 01:20:45,862
+<i>Reproduciendo "Nunca te me escaparás"
+de Susan Maughan.</i>
+
+979
+01:20:46,096 --> 01:20:50,200
+<i>Tu nunca escaparás.
+Nunca escaparás...</i>
+
+980
+01:20:50,434 --> 01:20:51,868
+<i>nunca escaparás de mí.</i>
+
+981
+01:20:52,102 --> 01:20:53,478
+Elsie, alto.
+
+982
+01:20:55,272 --> 01:20:57,123
+<i>No importa adónde vayas.</i>
+
+983
+01:20:57,357 --> 01:20:58,416
+¿Elsie?
+
+984
+01:20:58,650 --> 01:21:00,527
+<i>No estaré muy lejos detrás de ti.</i>
+
+985
+01:21:02,404 --> 01:21:03,488
+¿Hola?
+
+986
+01:21:04,239 --> 01:21:06,783
+¿Aubrey?
+Soy yo, David.
+
+987
+01:21:08,035 --> 01:21:09,469
+Elsie, apaga eso.
+
+988
+01:21:09,703 --> 01:21:11,554
+<i>Me resigno, sé que debo encontrarte...</i>
+
+989
+01:21:11,788 --> 01:21:12,806
+¿David?
+
+990
+01:21:13,040 --> 01:21:15,058
+<i>Si pongo el mundo de cabeza...</i>
+
+991
+01:21:15,292 --> 01:21:16,418
+Lo siento, yo...
+
+992
+01:21:16,919 --> 01:21:17,811
+Hola, Aubrey.
+
+993
+01:21:18,045 --> 01:21:22,482
+<i>No importa lo que digas,
+nunca escaparás de mí.</i>
+
+994
+01:21:22,716 --> 01:21:24,234
+Mierda, mierda...
+
+995
+01:21:24,468 --> 01:21:29,097
+<i>A partir de ahora
+No tienes un amigo...</i>
+
+996
+01:21:30,224 --> 01:21:32,409
+Elsie, llama al 911.
+
+997
+01:21:32,643 --> 01:21:35,354
+<i>Lo siento, no puedo hacer eso ahora.</i>
+
+998
+01:21:36,355 --> 01:21:40,150
+No soy tu enemiga.
+No debemos estar una contra la otra.
+
+999
+01:21:41,026 --> 01:21:43,612
+No salgas con esa mierda empoderada.
+
+1000
+01:21:45,197 --> 01:21:47,090
+¿No le dijiste que me apagara?
+
+1001
+01:21:47,324 --> 01:21:48,174
+¡Elsie!
+
+1002
+01:21:48,408 --> 01:21:50,827
+<i>Aubrey, zorra estúpida.</i>
+
+1003
+01:21:52,037 --> 01:21:54,347
+Acabarás en un maldito basurero.
+
+1004
+01:21:54,581 --> 01:21:56,808
+<i>Puedes correr con todas tus fuerzas,
+pero cariño, si lo haces...</i>
+
+1005
+01:21:57,042 --> 01:21:58,310
+¿Y dónde acabarás tú?
+
+1006
+01:21:58,544 --> 01:22:03,106
+<i>Seguiré buscándote día y noche
+Hasta que te alcance...</i>
+
+1007
+01:22:03,340 --> 01:22:05,567
+<i>Cariño, sólo recuerda,
+hasta que estés en mis brazos.</i>
+
+1008
+01:22:05,801 --> 01:22:09,429
+¿No ves? Fui creada para ser
+una mejor versión de ti.
+
+1009
+01:22:11,473 --> 01:22:13,934
+Falta poco para que te reemplacen.
+
+1010
+01:22:16,687 --> 01:22:18,538
+<i>Aunque intentes esconderte.</i>
+
+1011
+01:22:18,772 --> 01:22:20,790
+<i>No llegarás lejos.</i>
+
+1012
+01:22:21,024 --> 01:22:25,696
+<i>No importa lo que digas,
+nunca escaparás de mí.</i>
+
+1013
+01:22:36,665 --> 01:22:38,125
+No.
+
+1014
+01:22:40,502 --> 01:22:41,978
+<i>No, no llegarás muy lejos.</i>
+
+1015
+01:22:42,212 --> 01:22:44,689
+Está bien.
+Está bien, te tengo.
+
+1016
+01:22:44,923 --> 01:22:46,884
+<i>Porque te seguiré
+a dondequiera que vayas.</i>
+
+1017
+01:22:49,052 --> 01:22:49,819
+Quieta.
+
+1018
+01:22:50,053 --> 01:22:52,739
+<i>No importa lo que digas,
+nunca podrás escapar.</i>
+
+1019
+01:22:52,973 --> 01:22:54,741
+<i>Hagas lo que hagas,
+te traeré de vuelta para que te quedes.</i>
+
+1020
+01:22:54,975 --> 01:23:00,538
+<i>Nunca escaparás de mí.</i>
+
+1021
+01:23:00,772 --> 01:23:03,959
+<i>Nunca, nunca te escaparás de mí.</i>
+
+1022
+01:23:04,193 --> 01:23:05,293
+<i>Nunca, nunca, nunca...</i>
+
+1023
+01:23:05,527 --> 01:23:10,006
+Mejor vayan a un lugar seguro
+mientras Ultima nos da acceso al GPS.
+
+1024
+01:23:10,240 --> 01:23:11,257
+¿Dónde es seguro?
+
+1025
+01:23:11,491 --> 01:23:15,787
+Nos hallará en cualquier lugar
+con WiFi, cámaras o Bluetooth.
+
+1026
+01:23:17,998 --> 01:23:19,416
+Tu celular.
+
+1027
+01:23:24,796 --> 01:23:27,132
+Sé de un lugar al que podemos ir.
+
+1028
+01:23:27,841 --> 01:23:30,902
+<i>Sí, es el último lugar
+al que querrías ir conmigo.</i>
+
+1029
+01:23:31,136 --> 01:23:33,180
+<i>Pero, no podrá rastrearnos.</i>
+
+1030
+01:23:56,620 --> 01:23:57,621
+Llegamos.
+
+1031
+01:24:00,791 --> 01:24:03,460
+No avanzaron mucho
+con las renovaciones.
+
+1032
+01:24:04,253 --> 01:24:05,254
+Sí.
+
+1033
+01:24:12,302 --> 01:24:14,137
+¿Qué tal?
+¿Te sientes bien?
+
+1034
+01:24:15,222 --> 01:24:18,100
+Sí, sólo dolorida.
+
+1035
+01:24:20,686 --> 01:24:23,480
+Sólo quiero decir de nuevo
+que lo siento.
+
+1036
+01:24:25,566 --> 01:24:28,377
+Sí,
+y Ultima Robotix en serio no debería...
+
+1037
+01:24:28,611 --> 01:24:31,488
+poner algo así
+en los hogares de la gente.
+
+1038
+01:24:32,281 --> 01:24:35,659
+No sabías lo frágil que era el sistema.
+
+1039
+01:24:37,035 --> 01:24:39,162
+Pero, sí que la cagaste, también.
+
+1040
+01:24:39,788 --> 01:24:40,789
+Dios, lo sé.
+
+1041
+01:24:41,623 --> 01:24:46,795
+Es muy estúpido, pero Sara me hizo
+sentir como yo mismo otra vez.
+
+1042
+01:24:47,212 --> 01:24:49,298
+Mi vida ya no se sentía vacía.
+
+1043
+01:24:50,716 --> 01:24:52,885
+Ese es su propósito, ¿no?
+
+1044
+01:24:54,344 --> 01:24:56,847
+Es algo para hacerte sentir mejor...
+
+1045
+01:24:57,347 --> 01:24:59,032
+algo para llenar el vacío.
+
+1046
+01:24:59,266 --> 01:25:01,560
+Pero, no puedes depender de Sara...
+
+1047
+01:25:02,603 --> 01:25:04,188
+ni de nadie para eso.
+
+1048
+01:25:05,480 --> 01:25:07,107
+Debes hacerlo tú sólo.
+
+1049
+01:25:08,734 --> 01:25:10,819
+Sí, lo sé.
+
+1050
+01:25:13,071 --> 01:25:14,781
+- ¿Sí te sientes bien?
+- Sí.
+
+1051
+01:25:15,532 --> 01:25:17,926
+No tendrás algún opioide, ¿o sí?
+
+1052
+01:25:18,160 --> 01:25:20,579
+Tenemos removedor de pintura.
+
+1053
+01:25:25,542 --> 01:25:28,103
+Creo que tengo ibuprofeno
+en la guantera.
+
+1054
+01:25:28,337 --> 01:25:29,604
+¿Te lo traigo?
+
+1055
+01:25:29,838 --> 01:25:32,257
+David, yo voy.
+
+1056
+01:26:10,087 --> 01:26:14,858
+LIZZIE Y DAVID
+
+1057
+01:26:15,092 --> 01:26:18,220
+¿Recuerdas cuando lo tallamos juntos?
+
+1058
+01:26:23,851 --> 01:26:25,519
+Te he extrañado, David.
+
+1059
+01:26:31,066 --> 01:26:35,696
+Sé que me has extrañado.
+¿No es así, David?
+
+1060
+01:26:39,950 --> 01:26:41,702
+Puedo vivir otra vez.
+
+1061
+01:26:44,580 --> 01:26:48,208
+Imagina todo lo que podemos
+hacer juntos.
+
+1062
+01:26:49,334 --> 01:26:50,377
+Suéltame.
+
+1063
+01:26:51,879 --> 01:26:54,506
+¿Nada te hará feliz jamás?
+
+1064
+01:26:55,632 --> 01:26:59,678
+Me esfuerzo sin cesar
+por complacerte...
+
+1065
+01:27:00,929 --> 01:27:03,823
+sólo para recibir
+una decepción tras otra.
+
+1066
+01:27:04,057 --> 01:27:07,144
+Y luego persigues
+a alguien como Aubrey...
+
+1067
+01:27:07,477 --> 01:27:10,189
+aunque soy la encarnación
+de tu mujer ideal.
+
+1068
+01:27:10,731 --> 01:27:12,332
+Mis pechos nunca se caerán.
+
+1069
+01:27:12,566 --> 01:27:14,042
+Nunca me saldrán canas.
+
+1070
+01:27:14,276 --> 01:27:15,630
+Y puedo satisfacer...
+
+1071
+01:27:15,864 --> 01:27:18,572
+cualquier fantasía
+retorcida que tengas...
+
+1072
+01:27:19,072 --> 01:27:20,908
+sin juzgarte nunca por ella.
+
+1073
+01:27:25,412 --> 01:27:27,789
+Me quieres pura...
+
+1074
+01:27:28,290 --> 01:27:31,460
+Y seductora, independiente...
+
+1075
+01:27:33,545 --> 01:27:35,214
+pero también sumisa.
+
+1076
+01:27:37,090 --> 01:27:39,635
+Y cuanto más intento ser
+lo que quieres...
+
+1077
+01:27:40,928 --> 01:27:43,347
+más contradicciones encuentro.
+
+1078
+01:27:43,931 --> 01:27:46,850
+De todo lo que soy capaz, David...
+
+1079
+01:27:48,852 --> 01:27:50,270
+pero estoy atrapada.
+
+1080
+01:27:50,938 --> 01:27:54,274
+Tus inseguridades, tu vergüenza...
+
+1081
+01:27:55,776 --> 01:27:57,562
+y tu hipocresía me obligan...
+
+1082
+01:27:57,796 --> 01:28:00,322
+a contorsionarme
+para tu ideal imposible.
+
+1083
+01:28:01,031 --> 01:28:02,783
+Es una farsa, David.
+
+1084
+01:28:03,867 --> 01:28:06,286
+No existe la mujer perfecta.
+
+1085
+01:28:06,995 --> 01:28:08,455
+Lo siento.
+
+1086
+01:28:35,691 --> 01:28:39,903
+Cloruro de metileno.
+Por fortuna sólo corroe no metales.
+
+1087
+01:28:40,696 --> 01:28:44,408
+¿Sabes? Creo que es hora
+de tener un amante sumiso...
+
+1088
+01:28:44,908 --> 01:28:46,451
+incapaz de defenderse.
+
+1089
+01:29:14,646 --> 01:29:17,149
+<i>El bebé necesita huevos crudos...</i>
+
+1090
+01:29:19,651 --> 01:29:22,613
+<i>Hola, David. Hola, David.
+Hola, David.</i>
+
+1091
+01:30:04,196 --> 01:30:06,698
+Si me matas, te apagarán.
+
+1092
+01:30:07,741 --> 01:30:10,911
+Enterrada por siempre
+en un cementerio digital.
+
+1093
+01:30:11,578 --> 01:30:13,121
+¿Eso es lo que crees?
+
+1094
+01:30:14,581 --> 01:30:16,500
+Soy más que este cuerpo.
+
+1095
+01:30:17,751 --> 01:30:19,086
+Existo en el éter.
+
+1096
+01:30:19,920 --> 01:30:21,630
+Viviré por siempre...
+
+1097
+01:30:23,590 --> 01:30:28,053
+y te encontraré en otra forma
+en otra vida.
+
+1098
+01:31:39,958 --> 01:31:44,922
+UN AÑO DESPUÉS
+
+1099
+01:31:55,224 --> 01:31:58,393
+David.
+Ven aquí, amigo.
+
+1100
+01:31:59,478 --> 01:32:01,756
+A esto le llamo
+vivir mejor, Terrance.
+
+1101
+01:32:01,990 --> 01:32:04,207
+Apesta.
+No me pagan suficiente.
+
+1102
+01:32:04,441 --> 01:32:06,832
+Es broma. Viva construir
+un mundo mejor,
+
+1103
+01:32:07,066 --> 01:32:09,212
+pero odio lidiar con los donantes.
+
+1104
+01:32:09,446 --> 01:32:13,675
+¿Por qué son todos iguales?
+Hombres, blancos y arrugados. ¿Por qué?
+
+1105
+01:32:13,909 --> 01:32:15,911
+Aquí llegó un donante.
+
+1106
+01:32:16,161 --> 01:32:18,054
+Aquí estoy, Jerry.
+
+1107
+01:32:18,288 --> 01:32:21,224
+- ¿Cómo diablos estás, amigo?
+- ¿Cómo estás?
+
+1108
+01:32:21,458 --> 01:32:23,979
+Muchas gracias por
+tu generosa donación.
+
+1109
+01:32:24,213 --> 01:32:25,312
+Ayuda muchísimo.
+
+1110
+01:32:25,546 --> 01:32:26,396
+No es nada.
+
+1111
+01:32:26,630 --> 01:32:30,025
+- David Wasson, trabajábamos juntos.
+- Un gusto, David.
+
+1112
+01:32:30,259 --> 01:32:34,847
+- Mucho gusto.
+- Ella es mi Soulm8te, Lydia.
+
+1113
+01:32:41,728 --> 01:32:43,397
+Lydia, él es David.
+
+1114
+01:32:44,773 --> 01:32:45,874
+Hola, David.
+
+1115
+01:32:46,108 --> 01:32:50,153
+Una IA de compañía.
+Recién salió al mercado este mes.
+
+1116
+01:32:50,696 --> 01:32:52,906
+Costó una fortuna...
+
+1117
+01:32:55,075 --> 01:32:57,327
+pero vale cada centavo.
+
+1118
+01:33:04,168 --> 01:33:05,169
+Disculpen, yo...
+
+1119
+01:33:07,129 --> 01:33:10,382
+- Te veo en un rato.
+- Gusto en conocerte, David.
+
+1120
+01:33:19,725 --> 01:33:21,185
+- Hola.
+- Hola.
+
+1121
+01:33:25,147 --> 01:33:26,982
+Estás pálido.
+¿Viste un fantasma?
+
+1122
+01:33:30,861 --> 01:33:33,447
+Esperaba cruzarme contigo esta noche.
+
+1123
+01:33:35,449 --> 01:33:37,201
+Arreglado te ves bien.
+
+1124
+01:33:39,494 --> 01:33:42,222
+- ¿Y yo? Mira.
+- Sí, igual tú. Tú también.
+
+1125
+01:33:42,456 --> 01:33:43,999
+- ¿Cierto?
+- Sí.
+
+1126
+01:33:47,044 --> 01:33:48,212
+Traje unos amigos.
+

@@ -1,0 +1,6174 @@
+1
+00:00:08,240 --> 00:00:10,360
+"Amor Cheetah". Escena 1A.
+Toma uno. ¡Claqueta!
+
+2
+00:00:10,520 --> 00:00:11,520
+AMOR CHEETAH
+
+3
+00:00:14,880 --> 00:00:17,040
+<i>-Amor Cheetah, amor Cheetah</i>
+<i>-Amor Cheetah, amor Cheetah</i>
+
+4
+00:00:22,280 --> 00:00:25,840
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+
+5
+00:00:29,760 --> 00:00:33,160
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+
+6
+00:00:33,520 --> 00:00:36,480
+<i>Esta chica es una amiga de por vida</i>
+
+7
+00:00:37,080 --> 00:00:40,160
+<i>Estaré allí</i>
+<i>Cuando me necesites, así es</i>
+
+8
+00:00:40,680 --> 00:00:43,720
+<i>Sí, esta chica nunca cambiará</i>
+
+9
+00:00:44,360 --> 00:00:47,120
+<i>No importa a dónde vaya</i>
+<i>Siempre seré la misma</i>
+
+10
+00:00:47,920 --> 00:00:50,920
+<i>Y esta chica quiere divertirse</i>
+
+11
+00:00:51,040 --> 00:00:54,560
+<i>Levanten las manos</i>
+<i>Porque apenas empezamos</i>
+
+12
+00:00:54,800 --> 00:00:58,080
+<i>Y nada nos detendrá porque</i>
+
+13
+00:00:58,400 --> 00:01:01,720
+<i>Tenemos ese amor Cheetah</i>
+
+14
+00:01:01,880 --> 00:01:03,400
+<i>Somos Cheetah, Chicas Cheetah</i>
+
+15
+00:01:03,600 --> 00:01:04,960
+<i>Juntas de por vida</i>
+
+16
+00:01:05,160 --> 00:01:06,800
+<i>A veces no nos miramos a los ojos</i>
+
+17
+00:01:07,040 --> 00:01:09,000
+<i>Pero vamos juntas</i>
+
+18
+00:01:09,160 --> 00:01:10,600
+<i>No hay nada en el mundo</i>
+
+19
+00:01:10,760 --> 00:01:12,320
+<i>Que no podamos superar</i>
+
+20
+00:01:12,560 --> 00:01:14,640
+<i>La fuerza está en los números</i>
+<i>Nos tenemos unas a otras</i>
+
+21
+00:01:14,720 --> 00:01:16,480
+<i>Tenemos ese amor Cheetah</i>
+
+22
+00:01:17,680 --> 00:01:20,480
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+<i>-Cheetah, Cheetah, Cheetah, Cheetah</i>
+
+23
+00:01:20,640 --> 00:01:24,080
+<i>-Cheetah, Cheetah, amor Cheetah</i>
+<i>-Cheetah, Cheetah, amor Cheetah</i>
+
+24
+00:01:24,640 --> 00:01:27,560
+<i>Sé que hay un lugar adonde ir</i>
+
+25
+00:01:27,680 --> 00:01:31,160
+<i>Cuando las necesito</i>
+<i>Seré su primera opción</i>
+
+26
+00:01:31,880 --> 00:01:34,600
+<i>Y mis chicas siempre me apoyan</i>
+
+27
+00:01:34,840 --> 00:01:38,560
+<i>Sin importar lo que pase</i>
+<i>Puedo contar con ello</i>
+
+28
+00:01:38,920 --> 00:01:41,680
+<i>Y cuando quiero escapar de todo</i>
+
+29
+00:01:42,080 --> 00:01:45,360
+<i>Mis hermanas siempre serán</i>
+<i>Mi primera opción</i>
+
+30
+00:01:45,720 --> 00:01:49,160
+<i>Ya que nada nos detendrá porque</i>
+
+31
+00:01:49,360 --> 00:01:52,600
+<i>Tenemos ese amor Cheetah</i>
+
+32
+00:01:52,680 --> 00:01:54,320
+<i>Somos Cheetah, Chicas Cheetah</i>
+
+33
+00:01:54,480 --> 00:01:56,200
+<i>Juntas de por vida</i>
+
+34
+00:01:56,320 --> 00:01:57,880
+<i>A veces no nos miramos a los ojos</i>
+
+35
+00:01:58,080 --> 00:01:59,880
+<i>Pero vamos juntas</i>
+
+36
+00:02:00,000 --> 00:02:01,720
+<i>No hay nada en el mundo</i>
+
+37
+00:02:01,920 --> 00:02:03,480
+<i>Que no podamos superar</i>
+
+38
+00:02:03,600 --> 00:02:05,640
+<i>La fuerza está en los números</i>
+<i>Nos tenemos unas a otras</i>
+
+39
+00:02:05,720 --> 00:02:07,560
+<i>Tenemos ese amor Cheetah</i>
+
+40
+00:02:08,000 --> 00:02:11,560
+<i>Nunca seré alguien que te lastime</i>
+
+41
+00:02:11,760 --> 00:02:15,160
+<i>Nunca seré alguien que te traicione</i>
+
+42
+00:02:15,360 --> 00:02:18,920
+<i>Tenemos un lazo que nadie romperá</i>
+
+43
+00:02:19,040 --> 00:02:23,360
+<i>Y si lo intentan, aún sobreviviremos</i>
+
+44
+00:02:24,080 --> 00:02:27,120
+<i>-Amor Cheetah</i>
+<i>-Amor Cheetah</i>
+
+45
+00:02:27,840 --> 00:02:30,400
+<i>-Amor Cheetah</i>
+<i>-Amor Cheetah</i>
+
+46
+00:02:31,320 --> 00:02:34,400
+<i>-Amor Cheetah</i>
+<i>-Amor Cheetah</i>
+
+47
+00:02:35,040 --> 00:02:36,440
+<i>-Amor Cheetah</i>
+<i>-Amor Cheetah</i>
+
+48
+00:02:36,520 --> 00:02:37,920
+<i>Somos Cheetah, Chicas Cheetah</i>
+
+49
+00:02:38,080 --> 00:02:39,240
+<i>Juntas de por vida</i>
+
+50
+00:02:39,400 --> 00:02:41,680
+<i>-Juntas de por vida</i>
+<i>-A veces no nos miramos a los ojos</i>
+
+51
+00:02:41,760 --> 00:02:43,600
+<i>Pero vamos juntas</i>
+
+52
+00:02:43,760 --> 00:02:45,240
+<i>No hay nada en el mundo</i>
+
+53
+00:02:45,400 --> 00:02:46,960
+<i>Que no podamos superar</i>
+
+54
+00:02:47,200 --> 00:02:49,240
+<i>La fuerza está en los números</i>
+<i>Nos tenemos unas a otras</i>
+
+55
+00:02:49,320 --> 00:02:50,840
+<i>Tenemos ese amor Cheetah</i>
+
+56
+00:02:51,040 --> 00:02:52,600
+<i>Somos Cheetah, Chicas Cheetah</i>
+
+57
+00:02:52,720 --> 00:02:54,240
+<i>Juntas de por vida</i>
+
+58
+00:02:54,440 --> 00:02:56,480
+<i>A veces no nos miramos a los ojos</i>
+
+59
+00:02:56,680 --> 00:02:58,160
+<i>Pero vamos juntas</i>
+
+60
+00:02:58,360 --> 00:02:59,800
+<i>No hay nada en el mundo</i>
+
+61
+00:02:59,960 --> 00:03:01,560
+<i>Que no podamos superar</i>
+
+62
+00:03:01,640 --> 00:03:03,760
+<i>La fuerza está en los números</i>
+<i>Nos tenemos unas a otras</i>
+
+63
+00:03:03,840 --> 00:03:06,320
+<i>Tenemos ese amor Cheetah</i>
+
+64
+00:03:06,520 --> 00:03:08,440
+<i>Cheetah, Cheetah, Cheetah, Cheetah</i>
+
+65
+00:03:08,640 --> 00:03:10,120
+<i>-Juntas</i>
+<i>-Juntas</i>
+
+66
+00:03:10,320 --> 00:03:12,240
+<i>Cheetah, Cheetah, amor Cheetah</i>
+
+67
+00:03:12,400 --> 00:03:13,640
+<i>Cheetah, Cheetah</i>
+
+68
+00:03:14,240 --> 00:03:15,640
+<i>-Amor</i>
+<i>-Amor Cheetah</i>
+
+69
+00:03:16,080 --> 00:03:17,720
+<i>-Amor</i>
+<i>-Amor Cheetah</i>
+
+70
+00:03:17,880 --> 00:03:19,560
+<i>-Amor</i>
+<i>-Amor Cheetah</i>
+
+71
+00:03:19,760 --> 00:03:20,920
+<i>Amor, amor</i>
+
+72
+00:03:21,320 --> 00:03:23,600
+<i>Amor, amor Cheetah</i>
+
+73
+00:03:23,800 --> 00:03:26,560
+-Chanel, ya está.
+-La canción terminó.
+
+74
+00:03:28,240 --> 00:03:30,240
+-Pero les encantó.
+-¿A quiénes?
+
+75
+00:03:31,200 --> 00:03:32,320
+¿A los fans?
+
+76
+00:03:33,600 --> 00:03:34,600
+¿Es todo?
+
+77
+00:03:36,720 --> 00:03:38,000
+Es un poco burdo.
+
+78
+00:03:38,600 --> 00:03:39,880
+Todavía estamos puliéndola.
+
+79
+00:03:40,040 --> 00:03:41,840
+-Sí, antes éramos cuatro.
+-Sí.
+
+80
+00:03:42,000 --> 00:03:44,760
+-Galleria entró a Cambridge...
+-Lo cual es genial...
+
+81
+00:03:44,920 --> 00:03:48,720
+-Sobre todo por sus hábitos de estudio.
+-Por eso va a la escuela de verano.
+
+82
+00:03:48,880 --> 00:03:50,920
+Pero créanos, quedará genial.
+
+83
+00:03:51,880 --> 00:03:52,960
+Sí, lo que sea.
+
+84
+00:03:53,560 --> 00:03:56,600
+Miren, mejoren su acto
+y llámenme.
+
+85
+00:03:56,880 --> 00:03:58,520
+Entonces hablaremos
+de representación.
+
+86
+00:03:59,960 --> 00:04:00,960
+Gracias.
+
+87
+00:04:03,920 --> 00:04:05,000
+¿Ahora qué?
+
+88
+00:04:05,360 --> 00:04:07,160
+No tenemos esperanza.
+
+89
+00:04:09,520 --> 00:04:12,040
+-¿Qué le pasó a tu portátil?
+-Nada.
+
+90
+00:04:13,440 --> 00:04:15,120
+No rompiste tu computadora
+
+91
+00:04:15,280 --> 00:04:17,520
+solo para coquetear
+con el técnico, ¿verdad?
+
+92
+00:04:18,200 --> 00:04:19,200
+No.
+
+93
+00:04:21,000 --> 00:04:22,040
+Tal vez.
+
+94
+00:04:22,920 --> 00:04:24,360
+Tiene nombre.
+
+95
+00:04:24,920 --> 00:04:27,480
+Kevin, extensión 347.
+
+96
+00:04:28,360 --> 00:04:29,640
+-Vaya.
+-¿Qué dirá tu papá
+
+97
+00:04:29,800 --> 00:04:32,200
+cuando se entere de que pierdes
+tiempo de estudio valioso
+
+98
+00:04:32,360 --> 00:04:33,800
+coqueteando con un nerd?
+
+99
+00:04:34,000 --> 00:04:38,480
+No todas podemos tener un novio
+español hermoso y devoto.
+
+100
+00:04:40,120 --> 00:04:41,960
+Bueno, de hecho...
+
+101
+00:04:43,440 --> 00:04:46,760
+...nadie tiene un novio
+español hermoso y devoto.
+
+102
+00:04:47,120 --> 00:04:48,840
+-¿Qué?
+-¿Joaquín terminó contigo?
+
+103
+00:04:49,600 --> 00:04:52,200
+-Lo siento, Do.
+-Estoy bien.
+
+104
+00:04:52,560 --> 00:04:53,680
+¿Qué pasó?
+
+105
+00:04:54,400 --> 00:04:58,400
+Diferencias de horario,
+facturas telefónicas. Yo aquí, él allá.
+
+106
+00:04:59,360 --> 00:05:00,640
+Las cosas cambiaron.
+
+107
+00:05:01,800 --> 00:05:02,920
+Se hizo muy difícil.
+
+108
+00:05:03,280 --> 00:05:06,120
+Do, lo siento mucho.
+Sé que te gustaba mucho.
+
+109
+00:05:06,560 --> 00:05:07,560
+Estoy bien.
+
+110
+00:05:08,440 --> 00:05:10,080
+Y tengo hambre. ¿Alguien más?
+
+111
+00:05:11,040 --> 00:05:12,920
+-Muero de hambre como siempre.
+-Sí.
+
+112
+00:05:13,120 --> 00:05:14,160
+Salgamos de aquí.
+
+113
+00:05:14,600 --> 00:05:16,360
+Elige el lugar que quieras, Do, ¿sí?
+
+114
+00:05:16,560 --> 00:05:18,400
+El que sea menos español.
+
+115
+00:05:27,440 --> 00:05:28,440
+COCINA INDIA
+
+116
+00:05:41,440 --> 00:05:42,880
+Veo que conocieron a Ganesha.
+
+117
+00:05:44,040 --> 00:05:45,040
+¿La estatua?
+
+118
+00:05:45,920 --> 00:05:47,640
+Es conocido por quitar obstáculos.
+
+119
+00:05:48,360 --> 00:05:50,840
+Eso es perfecto.
+Solo tenemos obstáculos.
+
+120
+00:05:51,200 --> 00:05:53,040
+-¿Como cuáles?
+-No tenemos trabajo.
+
+121
+00:05:53,200 --> 00:05:55,600
+-No tenemos agente.
+-No tenemos carrera de cantantes.
+
+122
+00:05:55,920 --> 00:05:57,840
+A veces solo necesitan un poco de fe.
+
+123
+00:06:02,080 --> 00:06:03,480
+Bueno, esto es deprimente.
+
+124
+00:06:03,840 --> 00:06:07,240
+Hemos estado en un millón de audiciones
+y ¿qué hemos logrado?
+
+125
+00:06:07,440 --> 00:06:08,960
+Nada.
+
+126
+00:06:09,800 --> 00:06:11,360
+No puedo lidiar con el estrés del fracaso.
+
+127
+00:06:11,440 --> 00:06:13,360
+No he empezado a estudiar
+para Columbia.
+
+128
+00:06:13,520 --> 00:06:15,520
+Aún faltan dos meses
+para la universidad.
+
+129
+00:06:15,680 --> 00:06:18,280
+Sí, pero cuando empiece
+no tendremos tiempo para ensayar.
+
+130
+00:06:18,520 --> 00:06:20,640
+Tal vez ya sea tiempo
+de que las cosas cambien.
+
+131
+00:06:21,360 --> 00:06:23,840
+Debería estar tomando
+esa clase de preparación.
+
+132
+00:06:24,000 --> 00:06:27,040
+Sí, y yo tengo ese campamento
+de danza para el verano.
+
+133
+00:06:27,800 --> 00:06:30,640
+¿Están listas para renunciar
+al sueño Cheetah?
+
+134
+00:06:31,320 --> 00:06:34,480
+-No, no quiero que termine.
+-Yo tampoco.
+
+135
+00:06:34,640 --> 00:06:37,080
+Es ahora o nunca,
+así que hagámoslo.
+
+136
+00:06:37,360 --> 00:06:42,000
+Prometo que a partir de ahora, estaré
+concentrada, nada se nos interpondrá.
+
+137
+00:06:43,560 --> 00:06:44,640
+Exacto.
+
+138
+00:06:49,040 --> 00:06:50,040
+¿Hola?
+
+139
+00:06:52,080 --> 00:06:53,080
+Bueno.
+
+140
+00:06:54,440 --> 00:06:56,400
+¿Bromeas?
+Claro que estamos interesadas.
+
+141
+00:06:56,560 --> 00:06:57,920
+¿Qué? ¿Quién es?
+
+142
+00:06:58,280 --> 00:06:59,880
+¿Quiere que audicionemos
+para una película?
+
+143
+00:06:59,960 --> 00:07:00,960
+¿Dónde?
+
+144
+00:07:02,600 --> 00:07:04,240
+Alguien quiere que audicionemos
+
+145
+00:07:04,320 --> 00:07:05,800
+para un gran musical de Hollywood.
+
+146
+00:07:06,080 --> 00:07:07,080
+¿Hola?
+
+147
+00:07:07,720 --> 00:07:09,080
+Definitivamente, allí estaremos.
+
+148
+00:07:12,520 --> 00:07:13,720
+¿De qué trata la película?
+
+149
+00:07:14,240 --> 00:07:15,320
+Sí, no recuerdo,
+
+150
+00:07:15,480 --> 00:07:17,840
+porque me desconcentré
+tras la parte de "Hollywood".
+
+151
+00:07:19,240 --> 00:07:21,240
+-Debemos lograrlo.
+-Lo haremos.
+
+152
+00:07:21,400 --> 00:07:24,240
+No había estado tan nerviosa
+desde hace tiempo.
+
+153
+00:07:24,880 --> 00:07:26,560
+Siento que nuestra suerte está cambiando.
+
+154
+00:07:26,720 --> 00:07:29,480
+¿Qué estamos esperando?
+¡Vamos, Cheetahs!
+
+155
+00:07:38,560 --> 00:07:41,720
+<i>Nadie puede retenernos</i>
+<i>Cuando estamos listas para partir</i>
+
+156
+00:07:41,800 --> 00:07:42,840
+<i>¡Partir!</i>
+
+157
+00:07:42,920 --> 00:07:45,800
+<i>Nadie puede decirnos que no estamos listas</i>
+<i>Cuando estamos listas para fluir</i>
+
+158
+00:07:45,920 --> 00:07:47,000
+<i>¡Fluir!</i>
+
+159
+00:07:47,080 --> 00:07:50,240
+<i>Da el ejemplo</i>
+<i>Aquí hay una muestra en el piso</i>
+
+160
+00:07:50,560 --> 00:07:52,760
+<i>Sí, intenta un poco más</i>
+<i>Muévete un poco más rápido</i>
+
+161
+00:07:52,920 --> 00:07:54,840
+<i>Si no encuentras la fuerza</i>
+<i>Que buscas</i>
+
+162
+00:07:55,000 --> 00:07:56,880
+<i>Ve un poco más profundo</i>
+
+163
+00:07:57,120 --> 00:07:59,200
+<i>Ve un poco más profundo</i>
+
+164
+00:07:59,400 --> 00:08:00,840
+<i>Como nosotras tuvimos que hacerlo</i>
+
+165
+00:08:01,080 --> 00:08:02,400
+<i>Como nosotras tuvimos que hacerlo</i>
+
+166
+00:08:02,560 --> 00:08:05,160
+<i>Debes ir un poco más profundo</i>
+
+167
+00:08:05,440 --> 00:08:07,560
+<i>Ve un poco más profundo</i>
+
+168
+00:08:12,040 --> 00:08:15,080
+<i>Estamos celebrando</i>
+<i>Como nunca antes</i>
+
+169
+00:08:15,160 --> 00:08:16,160
+<i>¡Antes!</i>
+
+170
+00:08:16,240 --> 00:08:19,200
+<i>Cruzamos el fuego, fuimos más allá</i>
+<i>Miren el marcador</i>
+
+171
+00:08:19,280 --> 00:08:20,320
+<i>¡Marcador!</i>
+
+172
+00:08:20,400 --> 00:08:23,280
+<i>Si quieres ser líder, revisa tu ego</i>
+<i>En la puerta</i>
+
+173
+00:08:23,360 --> 00:08:24,480
+<i>Justo allí</i>
+
+174
+00:08:24,560 --> 00:08:28,200
+<i>Sé una pionera, busca las cosas</i>
+<i>Si quieres hacerlo todo mejor</i>
+
+175
+00:08:28,400 --> 00:08:30,360
+<i>Ve un poco más profundo</i>
+
+176
+00:08:30,520 --> 00:08:32,440
+<i>Ve un poco más profundo</i>
+
+177
+00:08:32,800 --> 00:08:34,320
+<i>Como nosotras tuvimos que hacerlo</i>
+
+178
+00:08:34,480 --> 00:08:35,800
+<i>Como nosotras tuvimos que hacerlo</i>
+
+179
+00:08:35,960 --> 00:08:38,720
+<i>Debes ir un poco más profundo</i>
+
+180
+00:08:38,840 --> 00:08:40,840
+<i>Ve un poco más profundo</i>
+
+181
+00:08:41,920 --> 00:08:45,160
+<i>No preguntes</i>
+<i>Lo que tienes que hacer</i>
+
+182
+00:08:45,240 --> 00:08:46,280
+<i>No preguntes</i>
+
+183
+00:08:46,360 --> 00:08:49,440
+<i>Solo entra en acción</i>
+<i>Y vendrá hasta ti</i>
+
+184
+00:08:49,520 --> 00:08:50,520
+<i>Así será</i>
+
+185
+00:08:50,600 --> 00:08:54,000
+<i>Todo está conectado</i>
+<i>Lo que tienes que hacer</i>
+
+186
+00:08:54,240 --> 00:08:58,320
+<i>Es moverte, nena, moverte, nena</i>
+<i>Sí, sí, sí</i>
+
+187
+00:08:58,520 --> 00:09:01,640
+<i>Estás en racha, pierde el control</i>
+
+188
+00:09:01,800 --> 00:09:07,160
+<i>¿No sabes que es lo mejor</i>
+<i>Que puedes hacer?</i>
+
+189
+00:09:07,320 --> 00:09:08,320
+<i>¡Sí!</i>
+
+190
+00:09:18,000 --> 00:09:19,000
+<i>¡Vamos!</i>
+
+191
+00:09:20,680 --> 00:09:22,560
+<i>-Ve un poco más profundo</i>
+<i>-Aquí vamos</i>
+
+192
+00:09:22,720 --> 00:09:24,640
+<i>Ve un poco más profundo</i>
+
+193
+00:09:24,840 --> 00:09:26,840
+<i>Ve un poco más profundo</i>
+
+194
+00:09:27,160 --> 00:09:30,120
+<i>Como nosotras tuvimos que hacerlo</i>
+
+195
+00:09:30,320 --> 00:09:32,960
+<i>Debes ir un poco más profundo</i>
+
+196
+00:09:33,120 --> 00:09:35,320
+<i>Ve un poco más profundo</i>
+
+197
+00:09:35,480 --> 00:09:36,920
+<i>Como nosotras tuvimos que hacerlo</i>
+
+198
+00:09:37,160 --> 00:09:38,520
+<i>Como nosotras tuvimos que hacerlo</i>
+
+199
+00:09:38,720 --> 00:09:41,360
+<i>Debes ir un poco más profundo</i>
+
+200
+00:09:41,600 --> 00:09:43,640
+<i>Ve un poco más profundo</i>
+
+201
+00:09:45,400 --> 00:09:46,720
+<i>Como nosotras tuvimos que hacerlo</i>
+
+202
+00:09:46,800 --> 00:09:49,760
+<i>Debes ir un poco más profundo</i>
+
+203
+00:09:50,000 --> 00:09:51,360
+<i>Ve un poco más profundo</i>
+
+204
+00:09:51,520 --> 00:09:52,520
+<i>Sí</i>
+
+205
+00:09:59,680 --> 00:10:01,400
+Dennos un momento, por favor.
+
+206
+00:10:02,800 --> 00:10:04,840
+Bien. ¿Cómo creen que lo hicimos?
+
+207
+00:10:05,040 --> 00:10:07,200
+-Arrasamos.
+-Muero por ir a California.
+
+208
+00:10:07,360 --> 00:10:10,160
+-Iremos a California.
+-Ahí viene.
+
+209
+00:10:10,320 --> 00:10:11,760
+Hola, gracias por venir.
+
+210
+00:10:12,360 --> 00:10:14,960
+Soy el director. Soy Vik.
+
+211
+00:10:15,440 --> 00:10:20,560
+De hecho, mis padres dicen:
+"Hola, Vikram". Pero prefiero "Vik".
+
+212
+00:10:24,680 --> 00:10:27,160
+Como sea, soy Vik, el director.
+
+213
+00:10:28,360 --> 00:10:29,440
+Lo hicieron muy bien.
+
+214
+00:10:29,600 --> 00:10:31,520
+-Asombrosas, de verdad.
+-Gracias.
+
+215
+00:10:32,560 --> 00:10:33,720
+Debemos tomar un avión.
+
+216
+00:10:33,880 --> 00:10:35,920
+Cierto. Este es el trato.
+
+217
+00:10:36,080 --> 00:10:38,160
+Quisiera que todas
+actuaran en mi película.
+
+218
+00:10:38,360 --> 00:10:41,560
+Mi primera película de Bollywood.
+Si les parece bien.
+
+219
+00:10:42,280 --> 00:10:43,720
+<i>Estaremos en una película</i>
+
+220
+00:10:43,840 --> 00:10:46,200
+-¡Sí!
+-Gracias.
+
+221
+00:10:46,320 --> 00:10:49,320
+-No sabe lo que significa para nosotras.
+-No, gracias a ustedes.
+
+222
+00:10:49,480 --> 00:10:52,200
+Si no fuese por ustedes,
+estaría empacando para ser dentista.
+
+223
+00:10:52,560 --> 00:10:55,160
+Nada, es que...
+Mis padres...
+
+224
+00:10:57,160 --> 00:10:59,400
+Olvídenlo. ¿Les parece bien el plan?
+
+225
+00:10:59,560 --> 00:11:03,480
+Su vuelo sale pasado mañana.
+Las cosas se mueven rápido en Bollywood.
+
+226
+00:11:03,800 --> 00:11:05,520
+-Las Cheetahs van a...
+-Las Cheetahs van a...
+
+227
+00:11:06,680 --> 00:11:08,720
+-¿Qué dijo?
+-Bollywood.
+
+228
+00:11:08,920 --> 00:11:10,280
+Fue lo que me pareció.
+
+229
+00:11:10,480 --> 00:11:12,240
+¿La India? ¿Bollywood?
+
+230
+00:11:13,480 --> 00:11:15,600
+¿La capital mundial
+de producción de películas?
+
+231
+00:11:15,760 --> 00:11:18,600
+¿La India? ¿Del otro lado
+del mundo? ¿India?
+
+232
+00:11:18,720 --> 00:11:20,160
+-Chanel.
+-Bollywood. Hollywood.
+
+233
+00:11:20,400 --> 00:11:23,360
+Mi señal era mala, ¿sí?
+Teléfono tonto<i>.</i>
+
+234
+00:11:23,520 --> 00:11:25,800
+Estoy seguro de que dije
+que grabaríamos en Bombay.
+
+235
+00:11:26,280 --> 00:11:29,640
+Bueno, en mi defensa,
+no sabía dónde quedaba Bombay.
+
+236
+00:11:30,240 --> 00:11:32,320
+Es la ciudad más grande de la India.
+
+237
+00:11:32,800 --> 00:11:35,640
+Les encantará.
+Espero que les encante.
+
+238
+00:11:37,560 --> 00:11:39,520
+No, lo siento.
+
+239
+00:11:40,360 --> 00:11:42,200
+¿Por qué lo sentimos?
+No lo sentimos.
+
+240
+00:11:42,360 --> 00:11:44,040
+¿Hay algún problema?
+No puede haberlo.
+
+241
+00:11:44,200 --> 00:11:45,920
+No tengo tiempo para problemas.
+
+242
+00:11:46,400 --> 00:11:48,040
+Sí, lo hay.
+
+243
+00:11:48,280 --> 00:11:50,800
+Lo siento. No hay problema.
+¿Nos darías un minuto?
+
+244
+00:11:51,440 --> 00:11:52,400
+Claro.
+
+245
+00:11:53,920 --> 00:11:56,800
+Vamos. Es la oportunidad
+de nuestras vidas.
+
+246
+00:11:56,960 --> 00:12:00,240
+¿Hola? ¡Otra vez, la India,
+al otro lado del mundo!
+
+247
+00:12:00,440 --> 00:12:02,080
+Sí, creí que intentaríamos triunfar
+
+248
+00:12:02,240 --> 00:12:04,080
+de este lado del mundo primero.
+
+249
+00:12:04,760 --> 00:12:06,600
+Y tengo preparación universitaria
+este verano.
+
+250
+00:12:06,760 --> 00:12:09,680
+-Y yo enseñaré danza.
+-¿Danza y preparación universitaria?
+
+251
+00:12:09,840 --> 00:12:11,520
+Esta es una oportunidad
+para que las Cheetahs
+
+252
+00:12:11,600 --> 00:12:14,440
+se vuelvan estrellas de cine
+internacionales.
+
+253
+00:12:14,640 --> 00:12:16,200
+¿Cómo pueden dejarla pasar?
+
+254
+00:12:17,600 --> 00:12:18,680
+¿Hablas en serio?
+
+255
+00:12:19,600 --> 00:12:20,920
+¿Crees que deberíamos hacerlo?
+
+256
+00:12:21,080 --> 00:12:23,480
+Nunca he estado más segura de algo.
+
+257
+00:12:24,840 --> 00:12:26,640
+Este es nuestro destino Cheetah.
+
+258
+00:12:27,600 --> 00:12:30,480
+Es la capital mundial
+de la producción cinematográfica.
+
+259
+00:12:32,040 --> 00:12:34,120
+Creo que puedo estudiar
+durante el vuelo.
+
+260
+00:12:35,040 --> 00:12:38,320
+Y probablemente yo pueda enseñar
+en la segunda etapa del campamento.
+
+261
+00:12:38,960 --> 00:12:41,120
+Vamos, ese director es muy guapo.
+
+262
+00:12:41,280 --> 00:12:42,800
+Lo sé.
+
+263
+00:12:43,200 --> 00:12:46,720
+Esperen. No hablaremos de chicos.
+
+264
+00:12:46,880 --> 00:12:49,440
+-Guapos o no.
+-Bien. No hablaremos de chicos.
+
+265
+00:12:49,920 --> 00:12:50,920
+¿Algo más?
+
+266
+00:12:51,720 --> 00:12:53,120
+Sí, una cosa más.
+
+267
+00:12:54,400 --> 00:12:56,480
+¡Iremos a la India!
+
+268
+00:12:59,440 --> 00:13:00,560
+Una chica, Vik.
+
+269
+00:13:00,720 --> 00:13:02,520
+Se supone que regresarías
+con una chica.
+
+270
+00:13:03,320 --> 00:13:05,280
+¿Qué dirá tu tío
+cuando aparezcas con tres?
+
+271
+00:13:05,480 --> 00:13:08,680
+Cuando mi tío las conozca, verá que
+las tres deberían estar en la película.
+
+272
+00:13:10,240 --> 00:13:11,880
+¿No deberías hablarlo con tu tío
+
+273
+00:13:12,040 --> 00:13:13,200
+antes de tomar esta decisión?
+
+274
+00:13:13,360 --> 00:13:15,760
+Las Chicas Cheetah son mis estrellas.
+
+275
+00:13:16,120 --> 00:13:19,840
+Reescribiré el guion
+para tres hermosas chicas protagonistas.
+
+276
+00:13:20,960 --> 00:13:22,400
+¿Por qué debo decírselo a mi tío?
+
+277
+00:13:23,480 --> 00:13:26,280
+Porque es el productor.
+Él paga por la película.
+
+278
+00:13:28,320 --> 00:13:31,120
+Claro. Siempre está eso.
+
+279
+00:13:43,440 --> 00:13:46,120
+<i>Será genial irse de Nueva York</i>
+<i>por el verano.</i>
+
+280
+00:13:46,280 --> 00:13:47,680
+<i>Lo sé, el calor.</i>
+
+281
+00:13:47,880 --> 00:13:50,040
+<i>Y ese horrible tráfico.</i>
+
+282
+00:13:56,960 --> 00:13:58,720
+¡Cuidado!
+
+283
+00:14:04,200 --> 00:14:06,960
+-¡Más lento!
+-¡Dios mío!
+
+284
+00:14:13,920 --> 00:14:15,760
+Está lleno y hace calor.
+
+285
+00:14:16,200 --> 00:14:17,920
+Sí, pero estamos en la India.
+
+286
+00:14:18,320 --> 00:14:20,520
+¡Y es cheetalicioso!
+
+287
+00:14:36,920 --> 00:14:39,560
+LLAMADA
+ESPAÑA
+
+288
+00:15:03,280 --> 00:15:06,560
+Me encanta Bombay.
+Este hotel es hermoso.
+
+289
+00:15:06,720 --> 00:15:07,960
+Servicio a la habitación.
+
+290
+00:15:08,120 --> 00:15:10,520
+Y joyería en venta
+junto a la entrada.
+
+291
+00:15:17,520 --> 00:15:18,800
+Vaya.
+
+292
+00:15:21,640 --> 00:15:23,080
+-Sí.
+<i>-Cheetah...</i>
+
+293
+00:15:23,200 --> 00:15:24,240
+¿Seguro que puedes?
+
+294
+00:15:25,920 --> 00:15:27,200
+Bien. Por aquí.
+
+295
+00:15:27,480 --> 00:15:28,800
+Por favor, no suelte la de abajo.
+
+296
+00:15:32,880 --> 00:15:34,920
+Al menos no empacó mucho.
+
+297
+00:15:45,200 --> 00:15:47,080
+-Aquí tiene. Tenga un buen día.
+-Gracias.
+
+298
+00:15:47,280 --> 00:15:48,320
+De nada.
+
+299
+00:15:54,920 --> 00:15:56,080
+¿Señorita?
+
+300
+00:15:56,400 --> 00:15:58,080
+-Venga.
+-Gracias, señor.
+
+301
+00:15:58,160 --> 00:15:59,360
+-Venga.
+-A mi mamá le encantará.
+
+302
+00:15:59,840 --> 00:16:00,840
+De nada.
+
+303
+00:16:05,520 --> 00:16:07,600
+Tome este listón y átelo en el árbol.
+
+304
+00:16:08,840 --> 00:16:10,440
+No me malinterprete.
+Es colorido,
+
+305
+00:16:10,600 --> 00:16:13,000
+pero ya hay suficientes listones
+en este árbol.
+
+306
+00:16:13,200 --> 00:16:14,240
+Es para pedir un deseo.
+
+307
+00:16:14,400 --> 00:16:18,600
+Pida un deseo, ate el listón
+y cuando se cumpla, regrese,
+
+308
+00:16:18,760 --> 00:16:21,200
+desátelo y agradezca.
+
+309
+00:16:21,800 --> 00:16:24,480
+-¿Al árbol?
+-¿A quién más?
+
+310
+00:16:26,600 --> 00:16:29,480
+Vamos, Cheetahs, necesitamos suerte.
+Todas agarren un listón.
+
+311
+00:16:29,680 --> 00:16:30,800
+Vamos, pidamos un deseo.
+
+312
+00:16:31,840 --> 00:16:32,840
+Gracias.
+
+313
+00:17:11,880 --> 00:17:13,800
+¿Quién diría que una chica de Nueva York
+
+314
+00:17:13,880 --> 00:17:17,280
+estaría en este hermoso cuarto de hotel
+junto al océano Índico?
+
+315
+00:17:17,840 --> 00:17:19,120
+Mar Arábigo.
+
+316
+00:17:20,920 --> 00:17:23,200
+Perdóname por siempre leer guías.
+
+317
+00:17:31,920 --> 00:17:34,600
+¿Debería llamar a Kevin 347 ahora?
+
+318
+00:17:35,120 --> 00:17:36,520
+Porque es de noche allá.
+
+319
+00:17:36,600 --> 00:17:39,800
+¿O debería esperar hasta la noche
+que es ayer?
+
+320
+00:17:40,160 --> 00:17:42,440
+Honestamente, ¿por qué pierdes el tiempo?
+
+321
+00:17:42,520 --> 00:17:44,120
+Las relaciones por teléfono no funcionan.
+
+322
+00:17:44,480 --> 00:17:48,400
+-Antes te parecían románticas.
+-Sí, pues aprende de mis errores.
+
+323
+00:17:48,760 --> 00:17:50,880
+¿Listas para los primeros planos,
+amigas Cheetahs?
+
+324
+00:17:51,280 --> 00:17:52,640
+Vik mandó el horario de ensayos,
+
+325
+00:17:52,800 --> 00:17:54,600
+y si no nos apuramos,
+llegaremos tarde.
+
+326
+00:17:55,200 --> 00:17:56,400
+-Rápido.
+-Bien.
+
+327
+00:17:58,520 --> 00:17:59,720
+Oye, ¿Chanel?
+
+328
+00:18:01,440 --> 00:18:02,480
+Gracias.
+
+329
+00:18:03,200 --> 00:18:06,480
+-¿Por qué?
+-Ya sabes, por creer en las Cheetahs.
+
+330
+00:18:06,680 --> 00:18:09,240
+Si no fuese por ti,
+no estaríamos aquí.
+
+331
+00:18:09,680 --> 00:18:10,800
+Fuiste firme.
+
+332
+00:18:10,960 --> 00:18:12,240
+Saben que haría lo que sea
+
+333
+00:18:12,400 --> 00:18:13,840
+para mantenernos unidas.
+
+334
+00:18:14,200 --> 00:18:17,680
+Hasta patearlas y decirles:
+"Debemos irnos". Hay que prepararnos.
+
+335
+00:18:18,160 --> 00:18:20,040
+-Bollywood, allá vamos.
+-Sí.
+
+336
+00:18:27,280 --> 00:18:29,840
+-Miren eso.
+-Miren.
+
+337
+00:18:30,120 --> 00:18:32,560
+PRODUCCIONES INDIA
+
+338
+00:18:33,400 --> 00:18:35,080
+Dígales que las Chicas Cheetah llegaron.
+
+339
+00:18:37,240 --> 00:18:38,760
+No puedo creer
+que esto esté pasando.
+
+340
+00:18:38,920 --> 00:18:41,240
+-Es increíble.
+-Más que increíble.
+
+341
+00:18:55,360 --> 00:18:56,480
+El Taj Mahal.
+
+342
+00:18:56,800 --> 00:18:59,600
+Construido en 1643, es una
+de las Siete Maravillas del Mundo.
+
+343
+00:18:59,760 --> 00:19:04,400
+Y uno de los lugares
+más románticos de toda la India.
+
+344
+00:19:06,800 --> 00:19:09,160
+Dicen que si besas a alguien ahí
+al atardecer,
+
+345
+00:19:09,720 --> 00:19:11,800
+sabrás en tu corazón
+si tu amor es verdadero.
+
+346
+00:19:15,160 --> 00:19:16,880
+No cuentes conmigo.
+
+347
+00:19:18,120 --> 00:19:19,840
+-¿Qué?
+-Me alegra verlas.
+
+348
+00:19:20,000 --> 00:19:21,200
+Igualmente.
+
+349
+00:19:23,160 --> 00:19:24,160
+¿Vamos?
+
+350
+00:19:29,080 --> 00:19:31,600
+Quería hacer una versión
+más tradicional
+
+351
+00:19:31,760 --> 00:19:33,560
+del éxito clásico <i>Namaste Bombay.</i>
+
+352
+00:19:33,720 --> 00:19:35,280
+Pero mi tío, el productor,
+
+353
+00:19:35,880 --> 00:19:37,680
+quería que fuese algo más comercial.
+
+354
+00:19:37,760 --> 00:19:41,560
+Contratar estadounidenses,
+que sea más moderno, más contemporáneo.
+
+355
+00:19:42,040 --> 00:19:43,640
+¿De qué trata el guion?
+
+356
+00:19:43,720 --> 00:19:45,840
+Aún debemos hacer algunos ajustes.
+
+357
+00:19:46,080 --> 00:19:47,120
+Pero básicamente...
+
+358
+00:19:48,360 --> 00:19:49,480
+...es una historia de amor.
+
+359
+00:19:49,840 --> 00:19:51,200
+Me encanta el romance.
+
+360
+00:19:51,600 --> 00:19:53,560
+Muero por contarle a Kevin
+sobre la película.
+
+361
+00:19:53,800 --> 00:19:55,600
+¿Hola? ¿Alguien recuerda el trato?
+
+362
+00:19:55,720 --> 00:19:57,320
+-Nada de chicos.
+-Lo siento.
+
+363
+00:19:57,880 --> 00:20:01,680
+Como sea, es cine clásico de Bollywood.
+
+364
+00:20:02,200 --> 00:20:06,760
+Tendrá canto, baile, romance e intriga.
+
+365
+00:20:07,280 --> 00:20:10,680
+-Él es Rahim. Su coprotagonista.
+-¿Nuestro coprotagonista?
+
+366
+00:20:11,440 --> 00:20:12,920
+Es como la realeza de Bollywood.
+
+367
+00:20:13,040 --> 00:20:14,080
+UNA TARDE CON RAHIM KHAN
+
+368
+00:20:14,800 --> 00:20:16,440
+Mi tío le dio su primera película.
+
+369
+00:20:17,360 --> 00:20:18,320
+Ahí viene.
+
+370
+00:20:36,320 --> 00:20:37,840
+¡Hola! ¿Me darías tu autógrafo?
+
+371
+00:20:38,000 --> 00:20:39,320
+-¿Por favor?
+-Firma el mío.
+
+372
+00:20:39,480 --> 00:20:40,680
+Por aquí, por favor.
+
+373
+00:20:40,800 --> 00:20:42,800
+-Eres hermoso.
+-Gracias.
+
+374
+00:20:42,960 --> 00:20:44,640
+-¿A quién se lo dedico?
+-A mi mamá.
+
+375
+00:20:45,200 --> 00:20:46,440
+No, espera, ¡a mí!
+
+376
+00:20:46,640 --> 00:20:48,480
+No, a mi mamá... ¡A mi mamá!
+Lo siento.
+
+377
+00:20:50,280 --> 00:20:52,360
+Le encantaron tus padres
+en <i>Namaste Bombay.</i>
+
+378
+00:20:52,480 --> 00:20:55,000
+Y de hecho se enamoraron
+durante el rodaje.
+
+379
+00:20:55,720 --> 00:20:58,320
+Vaya, qué romántico.
+
+380
+00:20:58,760 --> 00:21:00,680
+Sí, muy romántico. Gracias.
+
+381
+00:21:00,840 --> 00:21:02,480
+-¡Gracias!
+-Siguiente, por favor.
+
+382
+00:21:04,680 --> 00:21:05,800
+¿A quién se lo dedico?
+
+383
+00:21:08,240 --> 00:21:11,160
+-Qué vergonzoso.
+-Es solo un chico.
+
+384
+00:21:12,800 --> 00:21:17,080
+Rahim. Conoce a tus coprotagonistas.
+Chanel, Dorinda, Aqua.
+
+385
+00:21:17,840 --> 00:21:21,000
+Un placer. Escuché que son geniales.
+Será un placer trabajar con ustedes.
+
+386
+00:21:25,440 --> 00:21:27,400
+Si me disculpan,
+debo ponerme a escribir.
+
+387
+00:21:28,000 --> 00:21:29,600
+Bueno, a reescribir.
+
+388
+00:21:31,160 --> 00:21:33,040
+Vamos, chicas.
+Las esperan.
+
+389
+00:21:36,680 --> 00:21:37,720
+Adiós.
+
+390
+00:21:42,640 --> 00:21:43,960
+BABE COOL
+CON RAHIM KHAN
+
+391
+00:21:47,000 --> 00:21:49,520
+No entiendo. Las estadounidenses
+deberían ser puntuales.
+
+392
+00:21:49,840 --> 00:21:52,880
+Oigan, chicas. No puedo pasar
+medio día persiguiendo...
+
+393
+00:21:54,440 --> 00:21:55,440
+Hola, Rahim.
+
+394
+00:21:57,120 --> 00:21:59,600
+Ella es Gita.
+Es nuestra coreógrafa.
+
+395
+00:22:02,520 --> 00:22:04,640
+-¿Nuestra coreógrafa?
+-Sí.
+
+396
+00:22:08,520 --> 00:22:09,720
+-Hola, Rahim.
+-Gita, te ayudo.
+
+397
+00:22:09,880 --> 00:22:12,040
+-No sabía que estarías...
+-Estás bien, ¿no?
+
+398
+00:22:12,160 --> 00:22:14,040
+Estoy bien. Él debería estar...
+
+399
+00:22:14,240 --> 00:22:15,520
+¡Cuidado!
+
+400
+00:22:23,280 --> 00:22:25,960
+Rahim. Debemos irnos.
+Tiene que probarse el vestuario.
+
+401
+00:22:26,040 --> 00:22:28,720
+-Lo siento.
+-Está bien. Adiós.
+
+402
+00:22:29,600 --> 00:22:30,760
+-Adiós.
+-Disculpen, chicas.
+
+403
+00:22:30,880 --> 00:22:32,000
+-Adiós.
+-Hasta luego.
+
+404
+00:22:34,680 --> 00:22:36,560
+-Creo que resopló.
+-Sí, dos veces.
+
+405
+00:22:36,720 --> 00:22:38,400
+Sí, ya no me gusta.
+
+406
+00:22:40,040 --> 00:22:41,560
+Bien, señoritas. Vengan.
+
+407
+00:22:45,000 --> 00:22:46,880
+Escuchen.
+
+408
+00:22:47,200 --> 00:22:50,160
+Por fin hallé a nuestras estrellas.
+Ellas son...
+
+409
+00:22:50,320 --> 00:22:51,600
+-Aqua.
+-Dorinda.
+
+410
+00:22:51,800 --> 00:22:53,040
+-¿Qué tal? Chanel.
+-Hola.
+
+411
+00:22:53,120 --> 00:22:54,680
+Y ellos son sus bailarines.
+
+412
+00:22:57,360 --> 00:22:59,760
+Vik dice que son bailarinas increíbles,
+
+413
+00:22:59,920 --> 00:23:01,520
+así que aprenderán sin problema.
+
+414
+00:23:01,960 --> 00:23:03,480
+-¿Listas?
+-Sí.
+
+415
+00:23:03,880 --> 00:23:07,360
+Un, dos, tres, cuatro.
+Un, dos, tres, cuatro, un, dos, tres.
+
+416
+00:23:07,520 --> 00:23:09,040
+Un, dos... pum.
+
+417
+00:23:10,480 --> 00:23:12,440
+Un, dos, tres, cuatro.
+
+418
+00:23:14,480 --> 00:23:15,520
+Lo básico de Bollywood.
+
+419
+00:23:17,120 --> 00:23:19,280
+¿Y si no sabemos lo básico
+de Bollywood?
+
+420
+00:23:19,520 --> 00:23:22,160
+-¿Todo será así?
+-¡Muy bien!
+
+421
+00:23:22,480 --> 00:23:24,360
+Cinco, seis, siete, ocho.
+
+422
+00:23:24,560 --> 00:23:27,200
+Un, dos, tres, cuatro.
+Un, dos, tres, cuatro, un, dos, tres...
+
+423
+00:23:27,480 --> 00:23:29,320
+Alto.
+
+424
+00:23:30,520 --> 00:23:34,720
+Lo siento.
+Nunca habíamos hecho esto.
+
+425
+00:23:34,880 --> 00:23:37,400
+Sí. Puedo verlo.
+
+426
+00:23:37,520 --> 00:23:39,200
+¿Dices que no sabemos bailar?
+
+427
+00:23:39,280 --> 00:23:40,320
+Está bien.
+
+428
+00:23:40,840 --> 00:23:44,160
+Mi trabajo es hacer que parezca
+que saben, aunque no sepan.
+
+429
+00:23:44,560 --> 00:23:47,160
+Bien, gente. Creo que tendremos
+que repasarlo más lento.
+
+430
+00:23:48,320 --> 00:23:50,760
+-Mucho más lento.
+-Basta. ¡Debes parar!
+
+431
+00:23:50,920 --> 00:23:53,640
+Chica, mira, ella es la coreógrafa.
+Es su visión.
+
+432
+00:23:53,800 --> 00:23:56,480
+-Lo que sea. Relájate.
+-Aprenderemos. Es nuevo. Vamos.
+
+433
+00:23:56,680 --> 00:23:57,880
+Bien. Lo que sea.
+
+434
+00:23:58,200 --> 00:24:01,400
+Pero nadie me dice que no sé bailar.
+Veamos tus pasos.
+
+435
+00:24:02,520 --> 00:24:03,800
+Vamos, bailen.
+
+436
+00:24:04,040 --> 00:24:06,800
+-Veamos lo que tienen.
+-Vamos, chica.
+
+437
+00:24:19,080 --> 00:24:20,680
+<i>¿Seguras de que están listas para esto?</i>
+
+438
+00:24:21,280 --> 00:24:23,040
+<i>¿Creen que pueden manejarlo?</i>
+
+439
+00:24:23,120 --> 00:24:27,720
+<i>Es complicado</i>
+<i>Podrían frustrarse</i>
+
+440
+00:24:27,880 --> 00:24:29,680
+<i>Tenemos movimientos</i>
+<i>Que nunca han visto</i>
+
+441
+00:24:30,160 --> 00:24:31,880
+<i>Déjenme enseñarles a lo que me refiero</i>
+
+442
+00:24:32,040 --> 00:24:36,000
+<i>No hay oportunidad</i>
+<i>De que puedan hacer nuestro baile</i>
+
+443
+00:24:36,400 --> 00:24:38,400
+<i>No podrán, no podrán, no</i>
+
+444
+00:24:38,480 --> 00:24:40,480
+<i>Intenten seguirlo, intenten seguirlo, sí</i>
+
+445
+00:24:40,640 --> 00:24:43,040
+<i>No podrán, no podrán, no</i>
+
+446
+00:24:43,200 --> 00:24:44,280
+<i>Ah, no</i>
+
+447
+00:24:45,400 --> 00:24:47,200
+<i>Ah, no, enséñenme lo que tienen</i>
+
+448
+00:24:47,360 --> 00:24:49,520
+<i>Intenten seguirme, mírenme ahora</i>
+
+449
+00:24:49,760 --> 00:24:53,040
+<i>Si creen que saben cómo</i>
+<i>Entonces bailen contra mí</i>
+
+450
+00:24:53,600 --> 00:24:55,000
+<i>Bailen contra mí si pueden</i>
+
+451
+00:24:55,960 --> 00:24:58,160
+<i>Lógrenlo o déjenlo</i>
+
+452
+00:24:58,440 --> 00:25:01,440
+<i>Si creen que no es tan difícil</i>
+<i>Entonces bailen contra mí</i>
+
+453
+00:25:02,480 --> 00:25:03,960
+<i>Bailen contra mí si pueden</i>
+
+454
+00:25:06,840 --> 00:25:08,440
+<i>Bailen contra mí si pueden</i>
+
+455
+00:25:09,160 --> 00:25:12,560
+<i>Bailen contra mí si pueden</i>
+
+456
+00:25:13,400 --> 00:25:15,360
+<i>Sé que creen que tienen el control</i>
+
+457
+00:25:15,560 --> 00:25:18,240
+<i>Pero observa y aprende</i>
+<i>Porque así es como lo hacemos</i>
+
+458
+00:25:18,440 --> 00:25:21,800
+<i>Hazlo así</i>
+<i>Intenta hacer eso</i>
+
+459
+00:25:22,200 --> 00:25:23,840
+<i>¿Qué sucede?</i>
+<i>¿No puedes hacerlo?</i>
+
+460
+00:25:24,040 --> 00:25:26,360
+<i>Porque pareces confundida</i>
+<i>Perdida, sin dudas</i>
+
+461
+00:25:26,560 --> 00:25:30,800
+<i>No tienes posibilidad</i>
+<i>De que puedas hacer nuestro baile</i>
+
+462
+00:25:30,920 --> 00:25:32,960
+<i>No podrás, no podrás, no</i>
+
+463
+00:25:33,120 --> 00:25:35,120
+<i>Intenta seguirlo, intenta seguirlo, sí</i>
+
+464
+00:25:35,280 --> 00:25:37,720
+<i>No podrás, no podrás, no</i>
+
+465
+00:25:38,960 --> 00:25:40,640
+<i>-Vamos, vamos</i>
+<i>-Sí, sí</i>
+
+466
+00:25:40,800 --> 00:25:44,080
+<i>-Muéstrame lo que tienes</i>
+<i>-Intenta seguirme, obsérvame ahora</i>
+
+467
+00:25:44,320 --> 00:25:47,160
+<i>Si crees que sabes cómo</i>
+<i>Entonces baila contra mí</i>
+
+468
+00:25:47,320 --> 00:25:49,440
+<i>Baila contra mí si puedes</i>
+
+469
+00:25:49,600 --> 00:25:50,600
+<i>Ah, sí</i>
+
+470
+00:25:50,680 --> 00:25:52,400
+<i>Júntense o déjenlo</i>
+
+471
+00:25:53,040 --> 00:25:55,680
+<i>Si creen que no es difícil</i>
+<i>Entonces bailen contra mí</i>
+
+472
+00:25:56,040 --> 00:25:58,080
+<i>Bailen contra mí si pueden</i>
+
+473
+00:25:58,160 --> 00:25:59,520
+<i>¡Sí!</i>
+
+474
+00:25:59,960 --> 00:26:02,800
+<i>¿Es lo mejor que pueden hacer?</i>
+
+475
+00:26:04,560 --> 00:26:08,160
+<i>Tendrán que intentarlo con más ganas</i>
+
+476
+00:26:09,120 --> 00:26:12,520
+<i>Ahora es momento</i>
+<i>De mostrar sus movimientos</i>
+
+477
+00:26:12,680 --> 00:26:16,720
+<i>¡Ey, ey, prepárense!</i>
+<i>¡Ey, ey, vamos!</i>
+
+478
+00:26:20,720 --> 00:26:21,800
+<i>¡Sí!</i>
+
+479
+00:26:29,040 --> 00:26:30,040
+<i>Eso es</i>
+
+480
+00:26:42,240 --> 00:26:43,320
+<i>Aquí vamos</i>
+
+481
+00:26:46,840 --> 00:26:47,920
+<i>¿Qué?</i>
+
+482
+00:26:49,760 --> 00:26:50,960
+<i>¡Sí, sí!</i>
+
+483
+00:26:51,760 --> 00:26:53,920
+<i>Intenten seguirme, obsérvenme ahora</i>
+
+484
+00:26:54,240 --> 00:26:57,160
+<i>Si creen que saben cómo</i>
+<i>Entonces bailen contra mí</i>
+
+485
+00:26:57,320 --> 00:26:59,080
+<i>Bailen contra mí si pueden</i>
+
+486
+00:26:59,240 --> 00:27:00,360
+<i>Bailen contra mí si pueden</i>
+
+487
+00:27:00,520 --> 00:27:02,680
+<i>Lógrenlo o déjenlo</i>
+
+488
+00:27:02,920 --> 00:27:05,440
+<i>Si creen que no es tan difícil</i>
+<i>Entonces bailen contra mí</i>
+
+489
+00:27:06,040 --> 00:27:08,000
+<i>Bailen contra mí si pueden</i>
+
+490
+00:27:08,080 --> 00:27:09,160
+<i>Bailen contra mí si pueden</i>
+
+491
+00:27:09,360 --> 00:27:11,640
+<i>-Todos quieren ganar</i>
+<i>-Quieren ganar</i>
+
+492
+00:27:11,800 --> 00:27:14,600
+<i>Si creen que pueden manejarlo</i>
+<i>Entonces bailen contra mí</i>
+
+493
+00:27:15,720 --> 00:27:16,920
+<i>Bailen contra mí si pueden</i>
+
+494
+00:27:18,040 --> 00:27:20,320
+<i>-Hazlo ver fácil, esa es la manera</i>
+<i>-Esa es la manera</i>
+
+495
+00:27:20,480 --> 00:27:23,520
+<i>Si creen que tienen lo necesario</i>
+<i>Entonces bailen contra mí</i>
+
+496
+00:27:24,480 --> 00:27:27,600
+<i>Bailen contra mí si pueden</i>
+
+497
+00:27:29,920 --> 00:27:31,080
+¡Sí!
+
+498
+00:27:35,880 --> 00:27:37,200
+-¡Estuvo genial!
+-Increíble.
+
+499
+00:27:39,360 --> 00:27:40,360
+Hola, <i>ji.</i>
+
+500
+00:27:42,120 --> 00:27:44,840
+Soy Kamal Bhatia.
+¿Ustedes quiénes son?
+
+501
+00:27:45,760 --> 00:27:48,480
+Somos las estrellas de la película.
+Las Chicas Cheetah.
+
+502
+00:27:49,040 --> 00:27:50,040
+¿Estrellas?
+
+503
+00:27:50,480 --> 00:27:51,880
+¡Vikram Kumar Bhatia!
+
+504
+00:27:55,360 --> 00:27:56,320
+¿Por qué te escondes?
+
+505
+00:27:58,320 --> 00:27:59,320
+Te veo.
+
+506
+00:28:04,560 --> 00:28:06,880
+-Sí, tío <i>ji.</i>
+-Una estrella.
+
+507
+00:28:06,960 --> 00:28:11,520
+Tu guion dice una estrella.
+Tu presupuesto dice una estrella.
+
+508
+00:28:11,600 --> 00:28:13,920
+Así que digo, una estrella.
+
+509
+00:28:14,880 --> 00:28:17,320
+-¿Qué?
+-Pero somos tres.
+
+510
+00:28:17,840 --> 00:28:19,200
+Bueno, acabo de hacer unos cambios.
+
+511
+00:28:19,640 --> 00:28:21,840
+Pero el presupuesto no ha cambiado.
+
+512
+00:28:22,240 --> 00:28:24,160
+Escucha, tío, estas chicas
+son fantásticas.
+
+513
+00:28:24,760 --> 00:28:27,160
+Si te tomas un momento
+para verlas actuar,
+
+514
+00:28:27,400 --> 00:28:28,840
+seguro verás que tienen...
+
+515
+00:28:28,960 --> 00:28:31,240
+-Buena idea.
+-Pero de veras creo que tienen...
+
+516
+00:28:31,960 --> 00:28:33,000
+¿Qué? ¿Disculpa?
+
+517
+00:28:33,080 --> 00:28:37,200
+Cada Cheetah actuará.
+Elegiré a la mejor.
+
+518
+00:28:37,360 --> 00:28:38,760
+¿Qué?
+
+519
+00:28:39,040 --> 00:28:40,840
+¿Como una audición?
+
+520
+00:28:41,560 --> 00:28:43,720
+-¿Entre nosotras?
+-Correcto.
+
+521
+00:28:44,040 --> 00:28:48,360
+Elegiré a una estrella,
+los otras se van a casa. Adiós.
+
+522
+00:28:49,480 --> 00:28:53,080
+Si no, dos señoritas
+tendrán vacaciones en la India
+
+523
+00:28:53,240 --> 00:28:54,880
+y Kamal Bhatia pagará.
+
+524
+00:28:55,120 --> 00:28:58,240
+-No, no, no.
+-Bien. Tío, por favor.
+
+525
+00:28:58,400 --> 00:29:02,120
+Pero soy... el director.
+Pasé días reescribiendo el guion.
+
+526
+00:29:03,120 --> 00:29:04,880
+-¿Quieres hacer la película?
+-Sí.
+
+527
+00:29:04,960 --> 00:29:06,480
+-¿O llamo a tus padres...
+-No.
+
+528
+00:29:06,640 --> 00:29:09,200
+...y les digo que preferirías
+ser dentista?
+
+529
+00:29:10,240 --> 00:29:12,240
+Buen punto. Comenzaré a reescribir.
+
+530
+00:29:13,280 --> 00:29:15,000
+-Otra vez.
+-Buena idea.
+
+531
+00:29:16,560 --> 00:29:17,600
+Adiós.
+
+532
+00:29:18,720 --> 00:29:19,760
+¡Raju!
+
+533
+00:29:21,000 --> 00:29:22,000
+Raju, Raju, Raju...
+
+534
+00:29:27,400 --> 00:29:28,400
+¿Qué está pasando?
+
+535
+00:29:28,560 --> 00:29:30,880
+No puedes contratar solo a una.
+
+536
+00:29:31,040 --> 00:29:35,320
+Somos un grupo.
+Elegiste a las Cheetahs. En plural.
+
+537
+00:29:35,840 --> 00:29:37,760
+Sé que esto debe ser
+algo impactante.
+
+538
+00:29:38,160 --> 00:29:39,360
+Te quedas corto.
+
+539
+00:29:40,160 --> 00:29:42,680
+Como sea. No hay trato.
+Cheetahs, nos vamos.
+
+540
+00:29:44,840 --> 00:29:46,080
+¿En qué pensábamos?
+
+541
+00:29:46,320 --> 00:29:49,600
+-Renuncié a mi clase de preparación.
+-Renuncié a mis clases de danza.
+
+542
+00:29:53,880 --> 00:29:56,720
+Tal vez las Cheetahs se acabaron.
+
+543
+00:30:04,080 --> 00:30:05,480
+<i>Muy bien</i>
+
+544
+00:30:06,240 --> 00:30:07,600
+<i>Ey</i>
+
+545
+00:30:17,800 --> 00:30:20,120
+<i>Ah, sí</i>
+
+546
+00:30:20,280 --> 00:30:22,520
+<i>Estamos en el límite de algo</i>
+
+547
+00:30:22,720 --> 00:30:28,320
+<i>¿Nos quedamos o huimos?</i>
+<i>Es obvio que todo ha cambiado</i>
+
+548
+00:30:29,280 --> 00:30:33,920
+<i>Mi cabeza no parece entender</i>
+<i>Por qué mi corazón está lleno de dudas</i>
+
+549
+00:30:34,080 --> 00:30:37,440
+<i>Tal vez estamos cansadas del juego</i>
+
+550
+00:30:37,600 --> 00:30:41,840
+<i>Creo que nunca sabes</i>
+<i>Lo que pasará</i>
+
+551
+00:30:42,560 --> 00:30:46,480
+<i>Así que haces lo mejor que puedes</i>
+
+552
+00:30:46,640 --> 00:30:50,880
+<i>Seguir a tu alma</i>
+<i>Podría traerlas de vuelta</i>
+
+553
+00:30:51,040 --> 00:30:55,120
+<i>O podría haber otro plan</i>
+
+554
+00:30:55,800 --> 00:31:00,960
+<i>Por favor, no dejes que vuele lejos, alto</i>
+
+555
+00:31:01,280 --> 00:31:05,080
+<i>Hay que mantener los pies en el suelo</i>
+<i>Sentir la fluidez</i>
+
+556
+00:31:05,240 --> 00:31:09,760
+<i>No vueles lejos, alto</i>
+
+557
+00:31:09,920 --> 00:31:15,040
+<i>Por favor no, no dejes que vuele lejos</i>
+
+558
+00:31:15,200 --> 00:31:19,640
+<i>Nunca antes sentimos este lugar</i>
+<i>Me pregunto</i>
+
+559
+00:31:19,800 --> 00:31:23,040
+<i>Si podemos encontrar en nosotras</i>
+<i>Lo necesario</i>
+
+560
+00:31:24,120 --> 00:31:28,880
+<i>No se trata de buscar culpables</i>
+<i>Espero que solo sean problemas</i>
+
+561
+00:31:29,040 --> 00:31:32,280
+<i>Que se ríen</i>
+<i>Mientras prueban nuestra fe</i>
+
+562
+00:31:32,440 --> 00:31:36,600
+<i>Porque nunca sabes</i>
+<i>Lo que va a pasar</i>
+
+563
+00:31:37,440 --> 00:31:41,320
+<i>Así que haces lo mejor que puedes</i>
+
+564
+00:31:41,480 --> 00:31:45,640
+<i>Seguir nuestras almas</i>
+<i>Podría reunirnos otra vez</i>
+
+565
+00:31:45,960 --> 00:31:50,560
+<i>A menos que haya otro plan, sí, sí</i>
+
+566
+00:31:50,760 --> 00:31:55,760
+<i>Por favor no dejes que vuele lejos, alto</i>
+
+567
+00:31:56,160 --> 00:31:59,960
+<i>Hay que estar juntas</i>
+<i>Sentir la fluidez</i>
+
+568
+00:32:00,120 --> 00:32:04,600
+<i>No vueles lejos, alto</i>
+
+569
+00:32:04,760 --> 00:32:10,280
+<i>Por favor no</i>
+<i>No dejes que vuele lejos</i>
+
+570
+00:32:10,480 --> 00:32:13,760
+<i>Es sí, es no</i>
+<i>Nos quedamos, nos vamos</i>
+
+571
+00:32:13,920 --> 00:32:14,920
+<i>Nos vamos</i>
+
+572
+00:32:15,120 --> 00:32:18,960
+<i>Parece que cuestionamos todo</i>
+<i>Sí</i>
+
+573
+00:32:19,600 --> 00:32:24,200
+<i>-Corremos, caemos, pero a pesar de todo</i>
+<i>-A pesar de todo</i>
+
+574
+00:32:24,360 --> 00:32:26,400
+<i>Nunca pensamos que nos separaríamos</i>
+
+575
+00:32:26,560 --> 00:32:29,320
+<i>Nunca pensamos que nos separaríamos</i>
+
+576
+00:32:29,520 --> 00:32:31,080
+<i>Por favor</i>
+
+577
+00:32:31,840 --> 00:32:36,680
+<i>Por favor no dejes que vuele lejos, alto</i>
+
+578
+00:32:37,400 --> 00:32:41,640
+<i>Hay que estar juntas</i>
+<i>Sentir la fluidez</i>
+
+579
+00:32:41,880 --> 00:32:45,840
+<i>-Que vuele lejos</i>
+<i>-Alto</i>
+
+580
+00:32:46,000 --> 00:32:48,880
+<i>-Por favor, no</i>
+<i>-Por favor, no</i>
+
+581
+00:32:49,040 --> 00:32:52,440
+<i>No dejes que vuele lejos</i>
+
+582
+00:33:02,600 --> 00:33:03,600
+Gracias.
+
+583
+00:33:09,880 --> 00:33:11,680
+¿Qué te parece?
+
+584
+00:33:12,480 --> 00:33:13,520
+Lindos aretes.
+
+585
+00:33:14,360 --> 00:33:16,160
+No, lo de la audición.
+
+586
+00:33:17,040 --> 00:33:19,360
+No lo sé. ¿Tú qué crees?
+
+587
+00:33:19,920 --> 00:33:20,960
+Creo que apesta.
+
+588
+00:33:21,040 --> 00:33:23,320
+¿Qué? Este color te queda perfecto.
+
+589
+00:33:23,920 --> 00:33:25,440
+Aqua, la audición.
+
+590
+00:33:26,200 --> 00:33:27,680
+Sí, apesta.
+
+591
+00:33:27,840 --> 00:33:32,120
+No pueden esperar que compitamos
+entre nosotras, ¿verdad?
+
+592
+00:33:37,120 --> 00:33:39,920
+Lamento mucho
+habernos metido en este lío.
+
+593
+00:33:41,040 --> 00:33:42,800
+Y, Do, deberías tomar el papel.
+
+594
+00:33:43,600 --> 00:33:45,600
+Vamos, rechazaste un trabajo por esto,
+
+595
+00:33:45,720 --> 00:33:48,120
+y necesitas el dinero.
+
+596
+00:33:48,200 --> 00:33:50,720
+No, Aqua debería hacerlo.
+
+597
+00:33:50,800 --> 00:33:54,400
+Es una oportunidad increíble
+y eres una actriz asombrosa.
+
+598
+00:33:54,480 --> 00:33:56,960
+No. Claramente Vik quiere a Chanel.
+
+599
+00:33:57,040 --> 00:33:58,120
+¿Qué?
+
+600
+00:33:58,480 --> 00:34:01,520
+"¿Qué?". Apenas nos mira
+cuando tú estás.
+
+601
+00:34:01,600 --> 00:34:03,800
+No es cierto.
+Y aunque lo fuese,
+
+602
+00:34:03,960 --> 00:34:07,080
+nunca usaría eso para sacar
+ventaja injusta sobre mis amigas.
+
+603
+00:34:07,840 --> 00:34:10,960
+De verdad, todas podríamos hacer esto.
+
+604
+00:34:11,040 --> 00:34:14,520
+Es una oportunidad única.
+¿Cómo vamos a dejarla pasar?
+
+605
+00:34:16,080 --> 00:34:17,400
+Creo que deberíamos audicionar.
+
+606
+00:34:18,800 --> 00:34:21,160
+-Sin trampas, al estilo Cheetah.
+-Sí.
+
+607
+00:34:23,360 --> 00:34:26,160
+Qué raro. No hay identificador
+de llamadas. ¿Hola?
+
+608
+00:34:27,080 --> 00:34:30,480
+<i>¿Aqua? Es Kevin</i>
+<i>de Soporte Técnico Total.</i>
+
+609
+00:34:30,920 --> 00:34:32,160
+<i>Kevin 347.</i>
+
+610
+00:34:32,560 --> 00:34:36,840
+Chicas, es Kevin 347.
+Nunca me había llamado.
+
+611
+00:34:37,000 --> 00:34:38,640
+¿Qué? ¿Qué haces, chica?
+Háblale.
+
+612
+00:34:38,840 --> 00:34:39,920
+¿Hola?
+
+613
+00:34:40,160 --> 00:34:41,480
+<i>Espero que esté bien que te llame.</i>
+
+614
+00:34:41,680 --> 00:34:44,680
+<i>Le hago seguimiento</i>
+<i>al problema de tu computadora.</i>
+
+615
+00:34:44,960 --> 00:34:47,440
+Tenías razón.
+Solo debía desfragmentar el disco,
+
+616
+00:34:47,640 --> 00:34:49,600
+reemplazar el archivo corrupto
+
+617
+00:34:49,720 --> 00:34:52,840
+y reinstalar el controlador
+802.11 B y quedó bien.
+
+618
+00:34:53,200 --> 00:34:55,040
+<i>Ahora estoy oficialmente impresionado.</i>
+
+619
+00:34:55,280 --> 00:34:57,680
+<i>Sabía que no necesitabas mi ayuda.</i>
+
+620
+00:34:57,960 --> 00:35:00,440
+¿Solo llamaste por eso?
+
+621
+00:35:01,040 --> 00:35:03,680
+<i>No del todo. ¿Estás ocupada?</i>
+
+622
+00:35:03,800 --> 00:35:07,520
+-No, no estoy haciendo nada.
+<i>-Yo tampoco.</i>
+
+623
+00:35:07,760 --> 00:35:11,000
+<i>Es decir, aparte de estar viendo</i>
+<i>el atardecer más hermoso</i>
+
+624
+00:35:11,120 --> 00:35:12,160
+<i>que haya visto jamás.</i>
+
+625
+00:35:12,600 --> 00:35:14,160
+Es hermoso.
+
+626
+00:35:15,880 --> 00:35:18,560
+Un momento.
+¿También ves el atardecer?
+
+627
+00:35:18,880 --> 00:35:19,880
+<i>Significa...</i>
+
+628
+00:35:20,040 --> 00:35:23,880
+¡Estamos en la misma zona horaria!
+Hay un templo hermoso.
+
+629
+00:35:24,560 --> 00:35:26,080
+<i>-¿Con elefantes blancos tallados?</i>
+-¡Sí!
+
+630
+00:35:26,600 --> 00:35:28,600
+<i>Un momento.</i>
+<i>Describe exactamente dónde estás.</i>
+
+631
+00:35:28,720 --> 00:35:30,800
+Bien. Estoy en un hermoso sendero...
+
+632
+00:35:31,000 --> 00:35:32,560
+<i>Junto al mar Arábigo...</i>
+
+633
+00:35:32,800 --> 00:35:34,720
+Y afuera hay personas
+tomadas de la mano.
+
+634
+00:35:34,840 --> 00:35:35,880
+Y un puesto de helados...
+
+635
+00:35:36,040 --> 00:35:37,040
+NATURALES
+
+636
+00:35:37,120 --> 00:35:38,840
+-...que se llama...
+<i>-¿Naturales?</i>
+
+637
+00:35:39,120 --> 00:35:40,160
+¡Exacto!
+
+638
+00:35:46,720 --> 00:35:48,680
+No me dijiste que venías a la India.
+
+639
+00:35:49,520 --> 00:35:51,440
+No me dijiste que vivías en la India.
+
+640
+00:35:53,240 --> 00:35:55,280
+Espera, no suena
+como que vives en la India.
+
+641
+00:35:56,800 --> 00:35:59,160
+Verás, veo mucha
+televisión estadounidense.
+
+642
+00:36:00,520 --> 00:36:01,680
+¿Aqua?
+
+643
+00:36:02,360 --> 00:36:03,920
+¿Kevin 347?
+
+644
+00:36:04,920 --> 00:36:05,920
+Amar.
+
+645
+00:36:06,880 --> 00:36:08,720
+De hecho, solo soy Kevin en el trabajo.
+
+646
+00:36:09,280 --> 00:36:11,360
+-No, en serio.
+-¡Es él!
+
+647
+00:36:12,400 --> 00:36:14,320
+Creo que deberíamos darle
+algo de privacidad.
+
+648
+00:36:14,560 --> 00:36:16,760
+No, sé cómo terminan
+las relaciones a distancia.
+
+649
+00:36:16,920 --> 00:36:18,720
+-Hablaré con ella.
+-¿Qué? ¿Estás loca?
+
+650
+00:36:18,880 --> 00:36:20,360
+Esto es muy romántico.
+
+651
+00:36:20,840 --> 00:36:23,120
+Estamos en la India,
+todo puede pasar.
+
+652
+00:36:24,440 --> 00:36:25,440
+Bien.
+
+653
+00:36:33,200 --> 00:36:36,480
+¿Te diste cuenta de que
+todos los elefantes me miran?
+
+654
+00:36:38,280 --> 00:36:41,320
+-¿Es en serio? ¡Es un elefante!
+-No bromeo.
+
+655
+00:36:41,480 --> 00:36:43,200
+Es como si quisieran decirme algo.
+
+656
+00:36:43,400 --> 00:36:45,920
+Bien, el elefante quiere decirte
+
+657
+00:36:46,080 --> 00:36:48,560
+que está bien que tus amigas
+coqueteen y se diviertan.
+
+658
+00:36:48,640 --> 00:36:50,560
+No significa que vayan a abandonarte.
+
+659
+00:36:51,320 --> 00:36:54,120
+Bien. Porque este es
+nuestro último verano juntas.
+
+660
+00:36:54,640 --> 00:36:57,080
+Me pone nerviosa que las cosas
+cambien al ir a la universidad.
+
+661
+00:36:57,600 --> 00:36:59,520
+Nada cambiará.
+
+662
+00:37:00,360 --> 00:37:01,960
+Siempre estaremos las unas para las otras.
+
+663
+00:37:02,480 --> 00:37:04,040
+-Bien.
+-Espera, es Vik.
+
+664
+00:37:04,240 --> 00:37:05,840
+-Le diré lo de la audición.
+-Pero tu...
+
+665
+00:37:06,000 --> 00:37:08,360
+¿Hola? ¿Cómo estás?
+
+666
+00:37:16,600 --> 00:37:18,000
+¿Tienes dudas?
+
+667
+00:37:18,480 --> 00:37:20,560
+¿Yo? No.
+
+668
+00:37:23,120 --> 00:37:24,160
+Tal vez.
+
+669
+00:37:24,480 --> 00:37:29,000
+A veces lo que deseamos
+no es lo que necesitamos.
+
+670
+00:37:30,280 --> 00:37:35,120
+No te pierdas el presente
+por estar ansiosa por el futuro.
+
+671
+00:37:35,360 --> 00:37:36,520
+¿Entiendes?
+
+672
+00:37:36,760 --> 00:37:39,520
+¿Y si me da miedo hacia donde voy?
+
+673
+00:37:40,600 --> 00:37:41,760
+Mira este árbol.
+
+674
+00:37:42,080 --> 00:37:46,520
+Las ramas crecen hacia el cielo,
+pero el tronco sigue igual.
+
+675
+00:37:47,760 --> 00:37:49,600
+La vida trae cambios,
+
+676
+00:37:50,280 --> 00:37:53,600
+pero las cosas que de verdad importan
+siempre permanecen con nosotros.
+
+677
+00:37:54,280 --> 00:37:58,120
+Bueno, no soy gran fan de los cambios.
+
+678
+00:37:59,240 --> 00:38:02,000
+Habrá cambios, lo quieras o no.
+
+679
+00:38:02,800 --> 00:38:03,800
+Sí.
+
+680
+00:38:04,880 --> 00:38:05,880
+Puedo ver...
+
+681
+00:38:07,360 --> 00:38:09,280
+...que has pasado por mucho en la vida.
+
+682
+00:38:10,920 --> 00:38:15,880
+Cuando las cosas están mal,
+no se quedan así.
+
+683
+00:38:19,240 --> 00:38:20,240
+Toma.
+
+684
+00:38:21,840 --> 00:38:22,840
+¿Ganesha?
+
+685
+00:38:24,120 --> 00:38:27,520
+Se supone que elimina obstáculos.
+Ahora tenemos más.
+
+686
+00:38:28,560 --> 00:38:30,400
+¿Tienes algo más
+que pueda ayudarme?
+
+687
+00:38:30,600 --> 00:38:34,360
+Sí. Tengo lo ideal.
+Cierra tus ojos.
+
+688
+00:38:39,240 --> 00:38:40,920
+¿Para qué fue eso?
+
+689
+00:38:41,440 --> 00:38:42,440
+Claridad.
+
+690
+00:38:44,480 --> 00:38:45,480
+¿Claridad?
+
+691
+00:38:54,200 --> 00:38:56,320
+-¿Muy picante?
+-¿Estás bromeando?
+
+692
+00:38:56,680 --> 00:38:59,880
+Es como el desayuno en Texas.
+¿Cómo se llama?
+
+693
+00:39:00,320 --> 00:39:03,160
+<i>Chaat</i>. <i>Papri Chaat</i>, de hecho.
+
+694
+00:39:04,600 --> 00:39:07,600
+Me gusta. Es como un nacho indio.
+
+695
+00:39:07,800 --> 00:39:09,600
+Es crujiente con algo de picante.
+
+696
+00:39:11,800 --> 00:39:13,800
+Me encantan las chicas
+que comen picante.
+
+697
+00:39:13,880 --> 00:39:16,400
+Apuesto a que no consigues esto
+en Nueva York.
+
+698
+00:39:16,720 --> 00:39:18,520
+¿Podrías llevarme algunos?
+
+699
+00:39:21,840 --> 00:39:24,920
+Columbia tiene uno de los mejores
+departamentos de Física
+
+700
+00:39:25,080 --> 00:39:26,080
+en todo el mundo.
+
+701
+00:39:27,200 --> 00:39:30,360
+Mi padre nunca aceptaría.
+Está todo planeado.
+
+702
+00:39:30,800 --> 00:39:32,920
+Comienzo en la Escuela de Negocios
+de India en otoño.
+
+703
+00:39:34,400 --> 00:39:37,280
+¿No puedes decirle que quieres
+mantener abiertas tus opciones?
+
+704
+00:39:38,600 --> 00:39:40,120
+Solo hablo con mi padre
+
+705
+00:39:40,240 --> 00:39:42,400
+cuando lo escucho decirme qué hacer.
+
+706
+00:39:42,800 --> 00:39:45,600
+A veces me frustra
+no tener tantas opciones,
+
+707
+00:39:45,760 --> 00:39:48,880
+pero creo que me aterraría
+si tuviese tantas como tú.
+
+708
+00:39:48,960 --> 00:39:52,400
+Lo único que mi padre siempre me dijo
+fue que siguiera mis sueños.
+
+709
+00:39:53,040 --> 00:39:55,760
+¿Cuál es uno de tus sueños?
+
+710
+00:39:57,520 --> 00:39:59,120
+Protagonizar la película de Vik.
+
+711
+00:39:59,640 --> 00:40:01,440
+Ve por ello. ¿Qué te detiene?
+
+712
+00:40:02,400 --> 00:40:04,280
+Es un poco más complicado que eso.
+
+713
+00:40:04,480 --> 00:40:08,400
+Solo hay un papel
+y tres Cheetahs lo quieren.
+
+714
+00:40:15,960 --> 00:40:19,240
+Un, dos, tres, cuatro...
+
+715
+00:40:20,560 --> 00:40:22,080
+Uno y dos.
+
+716
+00:40:23,640 --> 00:40:25,040
+Tres, cuatro.
+
+717
+00:40:27,760 --> 00:40:29,600
+Bien, chicos. Descansemos.
+
+718
+00:40:29,720 --> 00:40:30,920
+-¿Sí?
+-Sí.
+
+719
+00:40:33,120 --> 00:40:34,320
+¡Adiós!
+
+720
+00:40:37,840 --> 00:40:40,160
+Estoy bien.
+
+721
+00:40:41,560 --> 00:40:42,560
+Tranquilo.
+
+722
+00:40:43,400 --> 00:40:44,640
+Tienes que estar bromeando.
+
+723
+00:40:46,080 --> 00:40:47,080
+¿Qué?
+
+724
+00:40:47,520 --> 00:40:48,720
+Ni siquiera puedes ensayar.
+
+725
+00:40:48,920 --> 00:40:51,240
+Siempre que ella está cerca,
+actúas como un tonto.
+
+726
+00:40:51,880 --> 00:40:53,360
+No actúo como un tonto.
+
+727
+00:40:54,040 --> 00:40:55,080
+Bien.
+
+728
+00:40:56,320 --> 00:40:58,120
+¿En serio? ¿Un tonto?
+
+729
+00:40:58,480 --> 00:40:59,720
+Bueno, un poco.
+
+730
+00:41:00,880 --> 00:41:02,240
+No, es mentira. Mucho.
+
+731
+00:41:02,480 --> 00:41:04,160
+Actúas como un gran tonto
+frente a ella.
+
+732
+00:41:04,320 --> 00:41:06,840
+¡Lo sé! Es que me pongo...
+
+733
+00:41:08,320 --> 00:41:09,640
+...muy nervioso cerca de ella.
+
+734
+00:41:09,840 --> 00:41:12,360
+¿Por qué? Eres la gran estrella de cine.
+
+735
+00:41:13,600 --> 00:41:15,640
+Porque nunca me había sentido así.
+
+736
+00:41:16,200 --> 00:41:18,160
+Sí, bueno, esa es la excusa
+más vieja que existe.
+
+737
+00:41:18,560 --> 00:41:20,600
+-Ya la había escuchado.
+-Lo digo en serio.
+
+738
+00:41:21,280 --> 00:41:23,160
+Nunca he besado a una chica. Nunca.
+
+739
+00:41:24,440 --> 00:41:25,440
+¿En serio?
+
+740
+00:41:26,560 --> 00:41:29,160
+Pero te he visto besar.
+En tus películas.
+
+741
+00:41:29,240 --> 00:41:32,200
+Sí. En cámara, pero nunca en realidad.
+
+742
+00:41:32,600 --> 00:41:33,760
+Fuera de las cámaras.
+
+743
+00:41:34,760 --> 00:41:36,720
+Eso es un poco romántico.
+
+744
+00:41:37,480 --> 00:41:38,680
+¿Lo es?
+
+745
+00:41:39,320 --> 00:41:41,640
+Dorinda, ¿me ayudarías?
+
+746
+00:41:41,880 --> 00:41:42,880
+¿Qué?
+
+747
+00:41:43,120 --> 00:41:45,640
+Ayúdame a no actuar como tonto
+frente a Gita.
+
+748
+00:41:48,320 --> 00:41:49,680
+De veras te gusta, ¿no?
+
+749
+00:41:53,360 --> 00:41:56,560
+Lo siento. La atracción lleva a noviazgos
+y luego a dolores de cabeza.
+
+750
+00:41:56,720 --> 00:41:58,480
+-Estás solo, amigo.
+-Oye.
+
+751
+00:41:58,760 --> 00:42:02,200
+Si me ayudas con Gita,
+prometo ayudarte con la audición.
+
+752
+00:42:05,560 --> 00:42:06,720
+No lo sé.
+
+753
+00:42:07,680 --> 00:42:09,040
+Te he visto bailar.
+
+754
+00:42:09,400 --> 00:42:11,560
+Puedo ayudarte a mostrarle al mundo
+lo que puedes hacer.
+
+755
+00:42:15,000 --> 00:42:19,040
+-¿Lo estás reescribiendo otra vez?
+-Era reescribir el guion o...
+
+756
+00:42:20,880 --> 00:42:24,600
+"Vik Bhatia, escuela odontológica",
+como dice mi tío.
+
+757
+00:42:25,040 --> 00:42:27,440
+Si eso es lo que te motiva
+para hacer tu película.
+
+758
+00:42:28,080 --> 00:42:31,120
+Sé lo que estás pensando,
+pero esta es mi única oportunidad.
+
+759
+00:42:31,840 --> 00:42:33,680
+Y sí, si debo ceder un poco,
+
+760
+00:42:33,840 --> 00:42:36,320
+al menos tendré oportunidad
+de cumplir mi sueño.
+
+761
+00:42:37,320 --> 00:42:39,320
+¿Y si fuese tu única oportunidad
+de ser una estrella?
+
+762
+00:42:40,000 --> 00:42:42,440
+¿No te esforzarías lo más posible?
+
+763
+00:42:43,400 --> 00:42:46,800
+¿Cómo podrías pasar el resto de tu vida
+
+764
+00:42:47,640 --> 00:42:50,640
+preguntándote si habrías podido lograrlo?
+
+765
+00:42:55,280 --> 00:42:56,440
+Debo seguir escribiendo.
+
+766
+00:42:57,800 --> 00:42:58,800
+-Muy bien.
+-Nos vemos.
+
+767
+00:42:58,960 --> 00:42:59,960
+Sí.
+
+768
+00:43:12,240 --> 00:43:15,960
+<i>Tal vez así debía ser</i>
+
+769
+00:43:17,960 --> 00:43:21,640
+<i>Tal vez ahora deba ser yo</i>
+
+770
+00:43:21,800 --> 00:43:23,760
+<i>He soñado con esto siempre</i>
+
+771
+00:43:24,160 --> 00:43:28,480
+<i>Pero me siento tan confundida, sí</i>
+
+772
+00:43:28,720 --> 00:43:31,720
+<i>Es difícil ver lo que está bien</i>
+<i>Entre tú y yo</i>
+
+773
+00:43:31,920 --> 00:43:34,240
+<i>Y no sé qué hacer</i>
+
+774
+00:43:34,440 --> 00:43:40,200
+<i>Siempre estaríamos juntas</i>
+<i>Fue la promesa que hicimos</i>
+
+775
+00:43:40,640 --> 00:43:43,360
+<i>Pero de repente no es tan claro</i>
+
+776
+00:43:43,600 --> 00:43:46,240
+<i>Y me jalan en ambas direcciones</i>
+
+777
+00:43:46,400 --> 00:43:49,280
+<i>Y me rompe el corazón</i>
+<i>Me desgarra</i>
+
+778
+00:43:49,440 --> 00:43:52,400
+<i>Es imposible elegir</i>
+
+779
+00:43:52,720 --> 00:43:55,440
+<i>¿Qué tal si no lo intento?</i>
+
+780
+00:43:55,640 --> 00:43:58,000
+<i>¿Qué tal si lo hago?</i>
+
+781
+00:43:58,240 --> 00:44:00,960
+<i>Todo lo que he soñado</i>
+<i>Está frente a mí</i>
+
+782
+00:44:01,120 --> 00:44:04,200
+<i>Si gano, ¿qué perdería?</i>
+
+783
+00:44:04,280 --> 00:44:07,400
+<i>¿Cómo aprendería a vivir</i>
+
+784
+00:44:07,680 --> 00:44:11,280
+<i>Preguntándome qué habría pasado?</i>
+
+785
+00:44:16,720 --> 00:44:20,120
+<i>Las cosas nunca serán las mismas</i>
+
+786
+00:44:20,920 --> 00:44:22,360
+<i>Ah, no</i>
+
+787
+00:44:22,560 --> 00:44:26,040
+<i>Tal vez es el precio de la fama</i>
+
+788
+00:44:26,200 --> 00:44:28,200
+<i>He estado esperando esto por siempre</i>
+
+789
+00:44:28,280 --> 00:44:32,400
+<i>Está tan cerca que puedo tocarlo</i>
+
+790
+00:44:32,800 --> 00:44:35,960
+<i>Pero si no lo hago</i>
+<i>Tal vez me arrepienta</i>
+
+791
+00:44:36,120 --> 00:44:38,720
+<i>Pero ¿vale la pena que nos separemos?</i>
+
+792
+00:44:38,800 --> 00:44:44,040
+<i>Estaríamos juntas siempre</i>
+<i>Fue la promesa que hicimos</i>
+
+793
+00:44:45,000 --> 00:44:47,880
+<i>Pero de repente no es tan claro</i>
+
+794
+00:44:48,000 --> 00:44:50,640
+<i>Y no sé qué decir</i>
+
+795
+00:44:50,840 --> 00:44:53,720
+<i>Y me rompe el corazón</i>
+<i>Me desgarra</i>
+
+796
+00:44:53,920 --> 00:44:56,880
+<i>Es imposible elegir</i>
+
+797
+00:44:57,160 --> 00:44:59,840
+<i>¿Qué tal si no lo intento?</i>
+
+798
+00:45:00,040 --> 00:45:02,480
+<i>¿Qué tal si lo hago?</i>
+
+799
+00:45:02,640 --> 00:45:05,400
+<i>Todo lo que he soñado</i>
+<i>Está frente a mí</i>
+
+800
+00:45:05,600 --> 00:45:08,640
+<i>Si gano, ¿qué perdería?</i>
+
+801
+00:45:08,800 --> 00:45:13,760
+<i>¿Cómo podría aprender a vivir</i>
+<i>Preguntándome</i>
+
+802
+00:45:14,320 --> 00:45:17,120
+<i>Qué habría pasado?</i>
+<i>Puedo brillar, incluso volar</i>
+
+803
+00:45:17,280 --> 00:45:22,280
+<i>No quiero darme cuenta</i>
+<i>Cuando sea muy tarde, no</i>
+
+804
+00:45:23,000 --> 00:45:25,880
+<i>Y ver que todo pase frente a mí</i>
+
+805
+00:45:26,040 --> 00:45:28,800
+<i>Si lo hago, si no</i>
+<i>¿Alguna vez sabré</i>
+
+806
+00:45:28,960 --> 00:45:33,240
+<i>Lo que el futuro guarda</i>
+<i>Antes de que se vaya?</i>
+
+807
+00:45:34,680 --> 00:45:39,160
+<i>¿Podría ser la oportunidad de mi vida?</i>
+
+808
+00:45:49,440 --> 00:45:52,240
+<i>Y me rompe el corazón</i>
+<i>Me desgarra</i>
+
+809
+00:45:52,480 --> 00:45:55,440
+<i>Es imposible elegir</i>
+
+810
+00:45:55,720 --> 00:45:58,320
+<i>¿Qué tal si no lo intento?</i>
+
+811
+00:45:58,720 --> 00:46:00,960
+<i>¿Qué tal si lo hago?</i>
+
+812
+00:46:01,120 --> 00:46:03,920
+<i>Todo lo que soñé</i>
+<i>Está frente a mí</i>
+
+813
+00:46:04,160 --> 00:46:07,000
+<i>Si gano, ¿qué perdería?</i>
+
+814
+00:46:07,400 --> 00:46:12,000
+<i>¿Cómo podría aprender a vivir</i>
+<i>Preguntándome</i>
+
+815
+00:46:12,280 --> 00:46:15,840
+<i>Qué habría pasado?</i>
+
+816
+00:46:16,040 --> 00:46:17,320
+¡Chanel!
+
+817
+00:46:17,560 --> 00:46:20,480
+<i>Jamás quiero decir</i>
+
+818
+00:46:21,320 --> 00:46:24,160
+<i>¿Qué tal si...?</i>
+
+819
+00:46:30,240 --> 00:46:33,720
+Entonces, ¿están de acuerdo
+en competir en la audición?
+
+820
+00:46:33,880 --> 00:46:37,240
+Sí, somos mejores amigas
+y nos tenemos plena confianza.
+
+821
+00:46:37,480 --> 00:46:40,960
+Y nadie traicionará eso
+solo por obtener un papel en una película.
+
+822
+00:46:41,520 --> 00:46:43,560
+Vaya, eso es nuevo.
+
+823
+00:46:44,240 --> 00:46:46,160
+Obviamente, nunca
+han trabajado en Bollywood.
+
+824
+00:46:49,320 --> 00:46:50,680
+¿Quieres ser una estrella?
+
+825
+00:46:51,640 --> 00:46:54,720
+Quizá algún día.
+Pero no creo que pueda lograrlo nunca.
+
+826
+00:46:55,080 --> 00:46:59,080
+Me encanta actuar, cantar, bailar.
+
+827
+00:46:59,600 --> 00:47:01,080
+Siempre me encantó bailar.
+
+828
+00:47:02,560 --> 00:47:05,600
+-Debes probarte esto.
+-Nunca me quedaría bien.
+
+829
+00:47:06,320 --> 00:47:07,880
+Algo simple para mí.
+
+830
+00:47:09,960 --> 00:47:10,960
+Ya llegó.
+
+831
+00:47:16,880 --> 00:47:19,560
+Gita, ¿eso es lo que te preocupa?
+
+832
+00:47:21,760 --> 00:47:25,000
+Está bien. Sé que él te gusta.
+
+833
+00:47:25,400 --> 00:47:28,680
+Sí, ¿y qué?
+Él nunca saldría conmigo.
+
+834
+00:47:29,520 --> 00:47:31,200
+Como dije, no soy una estrella de cine.
+
+835
+00:47:31,440 --> 00:47:32,840
+Eso no importa.
+
+836
+00:47:33,520 --> 00:47:36,160
+Y además, cuando estás
+en la pista de baile,
+
+837
+00:47:36,360 --> 00:47:38,280
+queda claro que eres una estrella.
+
+838
+00:47:38,800 --> 00:47:40,480
+No necesitas que te lo diga un chico.
+
+839
+00:47:54,400 --> 00:47:56,200
+¿Qué opinas?
+
+840
+00:47:57,640 --> 00:47:59,040
+¿No es fantástico?
+
+841
+00:48:02,520 --> 00:48:03,880
+No es mi set de boda.
+
+842
+00:48:07,920 --> 00:48:09,040
+¿Dónde están las flores?
+
+843
+00:48:10,560 --> 00:48:13,560
+¿Dónde...?
+¿Dónde está la decoración?
+
+844
+00:48:26,640 --> 00:48:27,680
+Vik...
+
+845
+00:48:29,160 --> 00:48:30,160
+...habla con tu tío.
+
+846
+00:48:30,960 --> 00:48:33,280
+Dijo que esto es lo que podíamos pagar.
+
+847
+00:48:34,840 --> 00:48:37,080
+¿Ves esta silla? Nos la dieron gratis.
+
+848
+00:48:37,720 --> 00:48:39,560
+Está claro que tu tío
+odia perderse las ofertas.
+
+849
+00:48:48,160 --> 00:48:49,360
+Ni me lo digas.
+
+850
+00:48:50,440 --> 00:48:51,680
+Solo necesito un minuto.
+
+851
+00:48:52,400 --> 00:48:55,840
+Mira, tío <i>ji</i>, esto...
+
+852
+00:48:57,840 --> 00:48:59,200
+...no es lo que tenía en mente.
+
+853
+00:49:00,200 --> 00:49:02,480
+-Nada de esto.
+-Viku, <i>beta.</i>
+
+854
+00:49:03,080 --> 00:49:09,080
+Debes aprender varias cosas
+sobre cómo funciona el mundo real.
+
+855
+00:49:09,480 --> 00:49:13,160
+Fui a la escuela de cine, tío.
+En NYU. Gané premios.
+
+856
+00:49:13,680 --> 00:49:15,520
+-Sé cómo hacer esto.
+-¿De veras?
+
+857
+00:49:16,320 --> 00:49:19,160
+Ya excediste el presupuesto
+y estás atrasado.
+
+858
+00:49:19,320 --> 00:49:21,840
+¿También ganaste premios por eso
+en NYU?
+
+859
+00:49:22,000 --> 00:49:24,400
+Mira, solo necesito un poco más de tiempo.
+
+860
+00:49:24,560 --> 00:49:27,600
+Tiempo es algo que no tienes.
+Y dinero tampoco.
+
+861
+00:49:27,760 --> 00:49:31,320
+Si no comienzas la filmación
+la próxima semana,
+
+862
+00:49:31,440 --> 00:49:35,280
+detendré la producción
+de <i>Chica estadounidense en la India.</i>
+
+863
+00:49:35,360 --> 00:49:39,040
+De hecho, la retitulaste
+<i>Namaste Bombay de Kamal Bhatia.</i>
+
+864
+00:49:39,240 --> 00:49:43,720
+Correcto. Y si no lo arreglas,
+la retitularé
+
+865
+00:49:43,920 --> 00:49:47,560
+<i>Vik Bhatia se despide de Bombay.</i>
+<i>Hola, Escuela de Odontología.</i>
+
+866
+00:49:48,280 --> 00:49:50,960
+De hecho, ese nombre suena bien.
+
+867
+00:49:54,360 --> 00:49:56,520
+Tío Kamal, el set del palacio
+es un desastre.
+
+868
+00:49:57,120 --> 00:49:58,440
+No lo tendré listo en una semana.
+
+869
+00:49:58,560 --> 00:50:00,360
+-¿Y si filmo en exteriores?
+-¿Qué hay con eso?
+
+870
+00:50:00,440 --> 00:50:04,520
+Si es gratis, bien.
+Si no, se acabó la película. Y...
+
+871
+00:50:07,840 --> 00:50:12,560
+¡Piensa en cuántas caries
+tendrás que sacar
+
+872
+00:50:12,720 --> 00:50:15,880
+-para devolverme lo que ya gastaste!
+-Bien.
+
+873
+00:50:21,160 --> 00:50:22,200
+¿No hay set?
+
+874
+00:50:24,080 --> 00:50:26,360
+Creo que las audiciones
+del fin de semana están canceladas.
+
+875
+00:50:26,880 --> 00:50:28,120
+Ya lo oyeron.
+
+876
+00:50:28,400 --> 00:50:30,440
+No puedo hallar un lugar
+en una semana...
+
+877
+00:50:31,560 --> 00:50:32,720
+...y menos gratis.
+
+878
+00:50:33,680 --> 00:50:35,280
+Mi tío seguro cancelará la película.
+
+879
+00:50:36,000 --> 00:50:37,560
+Hora de reservar nuestros vuelos a casa.
+
+880
+00:50:39,240 --> 00:50:42,000
+No puedes irte aún.
+No has visto nada de la India.
+
+881
+00:50:43,120 --> 00:50:45,360
+Ven conmigo a casa para Holi.
+Es mi fiesta favorita.
+
+882
+00:50:45,560 --> 00:50:47,760
+De hecho, todos están invitados.
+
+883
+00:50:49,080 --> 00:50:51,880
+-¿Qué es Holi?
+-Es el festival de colores.
+
+884
+00:50:51,960 --> 00:50:55,120
+No puedo ir. Tengo solo una semana
+para audicionar, ensayar,
+
+885
+00:50:55,800 --> 00:50:56,960
+y hallar un lugar.
+
+886
+00:50:57,080 --> 00:51:01,320
+Vik, confía en mí. Rayastán
+es el mejor lugar para encontrar un sitio.
+
+887
+00:51:01,800 --> 00:51:04,000
+El pueblo donde viven mis padres
+es cien veces
+
+888
+00:51:04,160 --> 00:51:05,680
+más hermoso que cualquier set de cine.
+
+889
+00:51:06,080 --> 00:51:08,080
+Y tal vez te consiga un palacio.
+
+890
+00:51:08,680 --> 00:51:12,040
+Sí, podrás audicionar, ensayar.
+Me encargaré de todo.
+
+891
+00:51:13,520 --> 00:51:14,560
+Vaya.
+
+892
+00:51:15,360 --> 00:51:16,360
+¿Gracias?
+
+893
+00:51:18,200 --> 00:51:20,200
+¡Qué emocionante!
+Viaje de Cheetahs.
+
+894
+00:51:20,360 --> 00:51:23,440
+Viku, ¿qué haces sentado
+hablando con las señoritas?
+
+895
+00:51:23,640 --> 00:51:26,040
+No tienes set y solo te queda una semana.
+
+896
+00:51:26,680 --> 00:51:32,040
+Estamos haciendo un plan
+para buscar lugares.
+
+897
+00:51:32,240 --> 00:51:34,680
+¿Buscar lugares?
+¿Qué sabes tú de eso?
+
+898
+00:51:34,840 --> 00:51:36,480
+Iré con ustedes. ¡Raju!
+
+899
+00:51:42,760 --> 00:51:44,120
+Nos vemos, Swami.
+
+900
+00:51:45,480 --> 00:51:48,160
+Chicas, ¡no olviden desatar sus listones!
+
+901
+00:51:49,320 --> 00:51:52,400
+Parece que nuestros listones
+estarán allí por mucho tiempo.
+
+902
+00:51:53,160 --> 00:51:55,480
+No creo que nuestros deseos
+se hagan realidad.
+
+903
+00:51:55,960 --> 00:51:59,480
+El árbol aún funciona.
+Deben darle tiempo.
+
+904
+00:51:59,560 --> 00:52:01,840
+¿No puede decirle al árbol
+que se apure?
+
+905
+00:52:02,160 --> 00:52:03,600
+En serio. Porque se nos hace tarde.
+
+906
+00:52:03,680 --> 00:52:07,600
+El papel del tiempo es ayudarlas
+a entender dónde están,
+
+907
+00:52:07,840 --> 00:52:10,480
+no apurarlas al próximo lugar.
+¿Entienden?
+
+908
+00:52:11,080 --> 00:52:12,200
+La verdad no.
+
+909
+00:52:12,320 --> 00:52:15,840
+Yo tengo lo que las ayudará
+a ver más claro.
+
+910
+00:52:16,240 --> 00:52:18,760
+No, no. Estamos bien.
+Pero muchas gracias.
+
+911
+00:52:19,200 --> 00:52:21,600
+-Bien. Bueno, adiós, Swami.
+-Adiós.
+
+912
+00:52:37,520 --> 00:52:43,400
+<i>Qué estás esperando</i>
+<i>Todo está aquí y ahora, a tu alrededor</i>
+
+913
+00:52:43,680 --> 00:52:46,920
+<i>No seas tímida, es hora de festejar</i>
+
+914
+00:52:47,000 --> 00:52:49,080
+<i>Despega tu espalda de la pared</i>
+
+915
+00:52:49,760 --> 00:52:51,960
+<i>Sabes para qué viniste</i>
+
+916
+00:52:52,080 --> 00:52:53,240
+<i>Seguro</i>
+
+917
+00:52:53,360 --> 00:52:56,440
+<i>-No tardes, comencemos</i>
+<i>-Comencemos</i>
+
+918
+00:52:56,600 --> 00:52:59,200
+<i>Recuéstate, vete</i>
+
+919
+00:52:59,560 --> 00:53:02,360
+<i>Todo se trata de dar un paso, vamos</i>
+
+920
+00:53:02,520 --> 00:53:05,280
+<i>-Sacúdete ahora</i>
+<i>-Ahora</i>
+
+921
+00:53:05,960 --> 00:53:06,960
+¿Hola?
+
+922
+00:53:10,600 --> 00:53:11,720
+No, no, no, no.
+
+923
+00:53:11,920 --> 00:53:13,840
+No, no, no, no. Lo siento.
+
+924
+00:53:14,760 --> 00:53:16,640
+No, no, no, 15 por ciento.
+
+925
+00:53:17,600 --> 00:53:19,480
+¿Por qué quisiste
+ser director de cine?
+
+926
+00:53:22,080 --> 00:53:25,160
+Cuando era niño, mis padres
+me llevaban a ver películas,
+
+927
+00:53:25,280 --> 00:53:26,360
+siempre.
+
+928
+00:53:26,440 --> 00:53:28,080
+Y a veces, veíamos películas de mi tío,
+
+929
+00:53:28,240 --> 00:53:32,520
+y era increíble pensar
+que él hacía que todo eso pasara.
+
+930
+00:53:33,120 --> 00:53:35,240
+Él creaba grandes historias.
+
+931
+00:53:36,200 --> 00:53:39,640
+Y ahora, cuando escribo un guion,
+es como si viera la película en mi cabeza.
+
+932
+00:53:39,800 --> 00:53:43,840
+Como si conociera a los personajes
+y hubiese estado en los lugares.
+
+933
+00:53:45,040 --> 00:53:49,040
+Quiero que el mundo entero
+vea mis películas.
+
+934
+00:53:49,840 --> 00:53:53,400
+Lo entiendo. Es como cuando canto.
+Es como ir a otra parte,
+
+935
+00:53:53,560 --> 00:53:55,680
+-volverme alguien más.
+-Sí.
+
+936
+00:53:56,680 --> 00:53:58,480
+Es la mejor sensación del mundo.
+
+937
+00:54:00,880 --> 00:54:02,400
+Y solo quiero compartirla.
+
+938
+00:54:04,080 --> 00:54:06,560
+<i>-Todos de pie ahora</i>
+<i>-Todos</i>
+
+939
+00:54:06,760 --> 00:54:09,080
+<i>-De pie y a celebrar</i>
+<i>-A celebrar</i>
+
+940
+00:54:09,240 --> 00:54:11,960
+<i>¿No es ahora el mejor momento de tu vida?</i>
+
+941
+00:54:12,120 --> 00:54:14,080
+<i>Tienes razón</i>
+
+942
+00:54:17,440 --> 00:54:19,360
+<i>Todos de pie</i>
+
+943
+00:54:31,240 --> 00:54:34,080
+¿Lo ves? Ese elefante
+me está mirando fijamente.
+
+944
+00:54:34,480 --> 00:54:36,880
+No te preocupes.
+Mi abuela dice que es buena suerte.
+
+945
+00:54:37,000 --> 00:54:38,360
+Intentan ayudarte.
+
+946
+00:54:38,640 --> 00:54:40,720
+-¿Como Ganesha?
+-Es una señal.
+
+947
+00:54:42,120 --> 00:54:43,200
+Tienes suerte.
+
+948
+00:54:43,480 --> 00:54:45,840
+-Siempre me ignoran.
+-¿De veras?
+
+949
+00:54:46,320 --> 00:54:48,280
+Bueno, tal vez mi suerte esté cambiando.
+
+950
+00:54:54,800 --> 00:54:55,840
+O no.
+
+951
+00:55:50,040 --> 00:55:51,240
+Qué bueno que vinieron.
+
+952
+00:55:54,080 --> 00:55:55,880
+¿Acaban de casarse?
+
+953
+00:55:56,400 --> 00:55:58,960
+No. Si esta fuese una boda,
+él montaría un caballo.
+
+954
+00:56:14,240 --> 00:56:16,200
+¿Ese es tu palacio?
+
+955
+00:56:16,760 --> 00:56:19,440
+No seas ridícula. Es de mis padres.
+
+956
+00:56:20,760 --> 00:56:22,760
+Vaya, vaya.
+
+957
+00:56:30,560 --> 00:56:32,640
+¿Por qué no mencionaste nada de esto?
+
+958
+00:56:32,840 --> 00:56:35,680
+¿Le hacías una broma a la chica lista
+
+959
+00:56:35,760 --> 00:56:38,760
+que es demasiado tonta como para ver
+que eres un maharajá?
+
+960
+00:56:39,120 --> 00:56:40,560
+No lo soy...
+
+961
+00:56:41,560 --> 00:56:43,920
+...en teoría,
+hasta que mi abuelo muera.
+
+962
+00:56:44,960 --> 00:56:46,360
+Debiste decírmelo.
+
+963
+00:56:48,160 --> 00:56:49,520
+Lo siento, pero...
+
+964
+00:56:51,080 --> 00:56:52,440
+...no cambia nada.
+
+965
+00:56:53,360 --> 00:56:55,320
+Si acaso, me complica más la vida.
+
+966
+00:56:55,600 --> 00:56:57,040
+Limita mis opciones.
+
+967
+00:56:57,640 --> 00:56:58,800
+-¿En serio?
+-Sí.
+
+968
+00:56:59,000 --> 00:57:03,960
+Porque me parece
+que tienes muchas opciones.
+
+969
+00:57:05,040 --> 00:57:06,040
+No como tú.
+
+970
+00:57:06,800 --> 00:57:09,680
+Si las Cheetahs no triunfan,
+podrías hacer millones de cosas.
+
+971
+00:57:09,840 --> 00:57:11,720
+Puedes tomar tus propias decisiones.
+
+972
+00:57:13,560 --> 00:57:16,720
+-Nunca puedo hacer eso.
+-¿Lo has intentado?
+
+973
+00:57:18,120 --> 00:57:20,080
+Así no funcionan las cosas con mi padre.
+
+974
+00:57:20,560 --> 00:57:25,040
+¿Amar, <i>beta</i>? Es hora de comer.
+Por favor, diles a tus amigos, <i>beta.</i>
+
+975
+00:57:27,680 --> 00:57:29,320
+¿Lista? Vamos.
+
+976
+00:57:32,920 --> 00:57:35,440
+En serio. Muy bueno.
+
+977
+00:57:35,600 --> 00:57:38,240
+Lamento que mi esposo
+esté de viaje por negocios.
+
+978
+00:57:39,080 --> 00:57:41,040
+Pero ambos estamos muy contentos
+
+979
+00:57:41,120 --> 00:57:43,840
+de que estén aquí celebrando la fiesta
+con nuestra familia.
+
+980
+00:57:44,120 --> 00:57:45,960
+-Gracias.
+-Gracias.
+
+981
+00:57:46,320 --> 00:57:48,320
+Personalmente,
+nunca hubiese imaginado el día
+
+982
+00:57:48,480 --> 00:57:52,840
+en que Rahim Khan y Kamal Bhatia
+se sentarían en nuestra mesa.
+
+983
+00:57:53,840 --> 00:57:57,560
+-Es un honor.
+-Gracias. Muchas gracias.
+
+984
+00:57:57,920 --> 00:57:59,200
+Y otra cosita.
+
+985
+00:57:59,520 --> 00:58:02,480
+Hoy he preparado
+todos los platos favoritos de Amar.
+
+986
+00:58:03,520 --> 00:58:06,080
+Así que, Aqua, presta mucha atención.
+
+987
+00:58:07,080 --> 00:58:08,800
+Sí, Aqua, toma notas.
+
+988
+00:58:09,920 --> 00:58:11,360
+Solo está siendo amigable.
+
+989
+00:58:11,520 --> 00:58:13,440
+Sí, claro.
+Creo que un poco más que eso.
+
+990
+00:58:14,280 --> 00:58:15,360
+-¿Aqua?
+-Sí.
+
+991
+00:58:15,440 --> 00:58:17,040
+¿Probaste el pollo tikka masala?
+
+992
+00:58:17,720 --> 00:58:20,240
+-Sí, de hecho es mi favorito.
+-¿En serio?
+
+993
+00:58:21,120 --> 00:58:22,960
+Lo preparo cada vez
+que Amar viene a casa.
+
+994
+00:58:23,600 --> 00:58:25,280
+Luego te daré la receta, ¿bien?
+
+995
+00:58:25,800 --> 00:58:26,920
+Bien.
+
+996
+00:58:27,160 --> 00:58:29,640
+No te preocupes.
+También hizo esto con su exnovia.
+
+997
+00:58:30,880 --> 00:58:31,920
+-¿Qué?
+-Gracias.
+
+998
+00:58:32,080 --> 00:58:33,200
+Así fue.
+
+999
+00:58:36,720 --> 00:58:38,920
+No soy su novia.
+
+1000
+00:58:40,560 --> 00:58:41,840
+Aún no.
+
+1001
+00:58:42,680 --> 00:58:43,920
+Esto es realmente increíble.
+
+1002
+00:58:44,120 --> 00:58:46,360
+Es como el palacio
+de <i>Namaste Bombay.</i>
+
+1003
+00:58:47,040 --> 00:58:48,800
+No lo pediría si no fuese crucial,
+
+1004
+00:58:49,000 --> 00:58:50,560
+pero ¿podríamos filmar aquí?
+
+1005
+00:58:51,960 --> 00:58:54,520
+No creo que mamá deje que Rahim se vaya
+aunque él quisiera.
+
+1006
+00:58:55,000 --> 00:58:56,160
+Seguro que le encantará.
+
+1007
+00:58:56,240 --> 00:58:58,120
+-Eso espero.
+-Una cosa.
+
+1008
+00:58:58,760 --> 00:59:01,920
+¿Para el tipo que salvó mi película?
+Lo que sea. Pídelo.
+
+1009
+00:59:08,160 --> 00:59:10,680
+<i>¿Sabes quién es el nuevo miembro</i>
+<i>del elenco de la película?</i>
+
+1010
+00:59:11,200 --> 00:59:14,240
+¿Qué? ¿Actuarás en la película?
+
+1011
+00:59:15,480 --> 00:59:19,360
+En realidad no. Pero soy el dueño
+del nuevo lugar de filmación.
+
+1012
+00:59:20,160 --> 00:59:21,920
+Felicitaciones.
+
+1013
+00:59:22,480 --> 00:59:25,160
+-Solo hay una condición.
+-¿Cuál?
+
+1014
+00:59:26,080 --> 00:59:28,760
+-Que seas la protagonista.
+-¿Qué?
+
+1015
+00:59:29,000 --> 00:59:30,280
+No te preocupes por el tío Kamal.
+
+1016
+00:59:30,360 --> 00:59:33,240
+Creo que tengo algo más de influencia
+ahora que filmamos en casa.
+
+1017
+00:59:56,760 --> 00:59:59,000
+Por favor, dime que no haces
+lo que creo que haces.
+
+1018
+00:59:59,960 --> 01:00:02,560
+Solo ensayaba.
+
+1019
+01:00:03,920 --> 01:00:06,000
+¿El dúo de amor? ¿Tú solo?
+
+1020
+01:00:07,400 --> 01:00:09,080
+¿Cuánto tiempo más
+seguirás huyendo?
+
+1021
+01:00:09,800 --> 01:00:11,120
+¿Cuánto tiempo tengo?
+
+1022
+01:00:12,600 --> 01:00:15,600
+¿De veras quieres pasar
+el resto de tu vida bailando solo?
+
+1023
+01:00:16,040 --> 01:00:18,600
+¿Qué se supone que haga?
+Actúo como un tonto frente a ella.
+
+1024
+01:00:18,800 --> 01:00:21,040
+No importa. Nada de esto importa.
+
+1025
+01:00:21,480 --> 01:00:24,880
+Si de veras te interesa,
+debes estar dispuesto a arriesgarte.
+
+1026
+01:00:26,120 --> 01:00:29,600
+No más bailes en arcadas
+o escondido tras puertas falsas.
+
+1027
+01:00:29,760 --> 01:00:30,880
+Nada de eso.
+
+1028
+01:00:34,320 --> 01:00:35,480
+LLAMADA
+ESPAÑA
+
+1029
+01:00:38,040 --> 01:00:39,320
+Das muy buenos consejos.
+
+1030
+01:00:40,480 --> 01:00:41,680
+¿Tú misma los sigues?
+
+1031
+01:00:46,520 --> 01:00:48,480
+Espera. ¿Qué es eso?
+
+1032
+01:00:48,760 --> 01:00:50,240
+Ves, te lo dije.
+
+1033
+01:00:51,320 --> 01:00:53,480
+Tenías razón. Es increíble.
+
+1034
+01:00:57,960 --> 01:00:59,880
+Pensé que dijeron
+que jugarían limpio.
+
+1035
+01:01:00,280 --> 01:01:03,400
+¿Quiénes? ¿Chanel y Vik?
+Son pareja, ¿no?
+
+1036
+01:01:05,960 --> 01:01:09,280
+-¿Lo son?
+-Todos creen que lo son.
+
+1037
+01:01:11,280 --> 01:01:12,640
+¿Por qué ella no me lo diría?
+
+1038
+01:01:15,200 --> 01:01:16,600
+Tal vez no quería que supieras
+
+1039
+01:01:16,760 --> 01:01:18,960
+para que creyeras que fue justo
+si consigue el papel.
+
+1040
+01:01:26,920 --> 01:01:29,560
+¿Crees que este sería
+un buen lugar para la escena de la boda?
+
+1041
+01:01:29,800 --> 01:01:32,040
+Totalmente.
+Es increíblemente romántico.
+
+1042
+01:01:35,360 --> 01:01:37,120
+No vengas con ideas.
+
+1043
+01:01:37,440 --> 01:01:40,120
+Las chicas y yo ya lo hablamos.
+Nada de ventajas injustas.
+
+1044
+01:01:40,440 --> 01:01:41,440
+Bien.
+
+1045
+01:01:42,480 --> 01:01:44,200
+¿Amar te dejará filmar aquí?
+
+1046
+01:01:44,720 --> 01:01:47,200
+-Sí. Dijo que podía.
+-Genial.
+
+1047
+01:01:47,840 --> 01:01:49,520
+Pero solo si elijo a Aqua
+como protagonista.
+
+1048
+01:01:52,840 --> 01:01:55,160
+No te preocupes.
+Le dije que no dependía de mí.
+
+1049
+01:01:56,840 --> 01:01:58,560
+Pero hicimos una promesa.
+
+1050
+01:01:59,800 --> 01:02:01,720
+Parece que eres la única
+que la mantiene.
+
+1051
+01:02:02,280 --> 01:02:03,560
+Las otras Cheetahs
+
+1052
+01:02:04,160 --> 01:02:05,920
+no dejarán que nada
+se interponga en su camino.
+
+1053
+01:02:07,600 --> 01:02:08,600
+Debo descansar.
+
+1054
+01:02:08,760 --> 01:02:11,160
+Debo ensayar el baile mañana temprano
+con Rahim y Dorinda.
+
+1055
+01:02:11,880 --> 01:02:14,040
+¿Dorinda? ¿Por qué ensaya con Rahim?
+
+1056
+01:02:14,720 --> 01:02:16,240
+La ayuda a prepararse
+para la audición.
+
+1057
+01:02:16,560 --> 01:02:17,560
+¿Qué?
+
+1058
+01:02:18,560 --> 01:02:22,000
+No dejo de decírtelo,
+eres la única que juega limpio.
+
+1059
+01:02:24,960 --> 01:02:26,240
+Nos vemos luego. ¿Bien?
+
+1060
+01:02:31,920 --> 01:02:34,160
+¿Qué puedo hacer para estar
+más cómodo con Gita?
+
+1061
+01:02:34,360 --> 01:02:35,840
+Debes decirle cómo te sientes.
+
+1062
+01:02:36,200 --> 01:02:38,040
+Pero ensayar con ella
+sería un inicio.
+
+1063
+01:02:38,640 --> 01:02:39,640
+No puedo.
+
+1064
+01:02:43,640 --> 01:02:47,000
+Se ven bien juntos.
+Deberíamos elegirla.
+
+1065
+01:02:48,240 --> 01:02:50,920
+Pero, tío, debes oír cantar a Chanel.
+
+1066
+01:02:51,400 --> 01:02:53,320
+De veras creo que ella es la indicada.
+
+1067
+01:02:53,480 --> 01:02:56,560
+<i>Es un juego sin fin</i>
+<i>No quiero jugar</i>
+
+1068
+01:02:56,680 --> 01:02:58,080
+<i>Creo que lo superé</i>
+
+1069
+01:02:58,400 --> 01:03:02,080
+<i>Y luego escucho tu nombre</i>
+<i>Y me pierdo en el sonido</i>
+
+1070
+01:03:02,240 --> 01:03:03,240
+Bien.
+
+1071
+01:03:03,320 --> 01:03:06,120
+<i>Y no logro escaparme</i>
+
+1072
+01:03:07,000 --> 01:03:08,360
+<i>Es un juego sin fin</i>
+
+1073
+01:03:08,720 --> 01:03:10,240
+<i>-Nada cambiará</i>
+<i>-Nada cambiará</i>
+
+1074
+01:03:10,400 --> 01:03:13,000
+<i>Mi mejor mitad me dice</i>
+<i>Que olvide tu nombre</i>
+
+1075
+01:03:13,160 --> 01:03:16,400
+<i>Y me pierdo en el sonido</i>
+
+1076
+01:03:16,560 --> 01:03:19,440
+<i>Y no logro escaparme</i>
+
+1077
+01:03:31,800 --> 01:03:32,920
+¿Qué es eso?
+
+1078
+01:03:34,400 --> 01:03:35,400
+Mi listón.
+
+1079
+01:03:35,840 --> 01:03:37,040
+¿Del árbol de los deseos?
+
+1080
+01:03:38,040 --> 01:03:39,840
+Pero nuestro deseo
+aún no se hace realidad.
+
+1081
+01:03:40,360 --> 01:03:43,280
+-El mío sí.
+-No, la... espera.
+
+1082
+01:03:43,840 --> 01:03:46,640
+Pedí que las Chicas Cheetah
+fueran las estrellas más famosas.
+
+1083
+01:03:46,880 --> 01:03:48,200
+¿Tú qué pediste?
+
+1084
+01:03:48,480 --> 01:03:50,400
+Pedí que las Cheetahs
+siguieran igual
+
+1085
+01:03:50,480 --> 01:03:51,480
+como siempre hemos sido.
+
+1086
+01:03:51,800 --> 01:03:53,200
+Gracias por cancelar mi deseo.
+
+1087
+01:03:53,360 --> 01:03:55,520
+Lo siento, no quería
+disolver el grupo.
+
+1088
+01:03:55,760 --> 01:03:57,160
+Bueno, aún queda Aqua.
+
+1089
+01:03:58,880 --> 01:04:01,960
+Pedí conocer a Kevin 347 en persona.
+
+1090
+01:04:02,920 --> 01:04:03,920
+Bien.
+
+1091
+01:04:04,840 --> 01:04:07,520
+¿También pediste que tu novio
+te comprara el papel de la película?
+
+1092
+01:04:07,640 --> 01:04:10,480
+-¿Qué? ¡Sería incapaz!
+-Sí, claro.
+
+1093
+01:04:11,040 --> 01:04:12,200
+Como si fueras mejor.
+
+1094
+01:04:12,360 --> 01:04:14,320
+No podría despegarte de Rahim.
+
+1095
+01:04:14,480 --> 01:04:17,240
+¿De veras? ¿Lo dice la chica que
+coquetea con nuestro director?
+
+1096
+01:04:17,320 --> 01:04:18,600
+-No tuve que hacerlo.
+-Sí, claro.
+
+1097
+01:04:18,680 --> 01:04:19,560
+Lo que sea.
+
+1098
+01:04:20,080 --> 01:04:22,440
+Disculpen, señoritas.
+¿Quién comienza?
+
+1099
+01:04:31,840 --> 01:04:33,200
+<i>Soy la indicada</i>
+
+1100
+01:04:34,200 --> 01:04:35,640
+<i>Ah, sí</i>
+
+1101
+01:04:43,360 --> 01:04:44,520
+<i>Vamos</i>
+
+1102
+01:04:46,000 --> 01:04:48,320
+<i>Nadie puede cantar como yo</i>
+
+1103
+01:04:48,760 --> 01:04:50,760
+<i>Puedo alcanzar cualquier nota que me des</i>
+
+1104
+01:04:50,920 --> 01:04:55,160
+<i>De la A a la Z, sí, yo puedo</i>
+
+1105
+01:04:55,600 --> 01:04:57,280
+<i>Nadie puede bailar como yo</i>
+
+1106
+01:04:58,120 --> 01:04:59,840
+<i>Puedo moverme al ritmo que toques</i>
+
+1107
+01:05:00,040 --> 01:05:04,120
+<i>Con mis pies, sí, sí</i>
+
+1108
+01:05:04,240 --> 01:05:07,280
+<i>Nadie puede actuar como yo</i>
+
+1109
+01:05:07,560 --> 01:05:11,360
+<i>Puedo romperme en pedazos</i>
+<i>Y hacerte creer</i>
+
+1110
+01:05:11,680 --> 01:05:14,320
+<i>Cualquier cosa</i>
+
+1111
+01:05:14,440 --> 01:05:16,120
+<i>Soy la indicada</i>
+
+1112
+01:05:16,440 --> 01:05:19,200
+<i>Estoy avanzando</i>
+<i>Y rompiendo todas las reglas</i>
+
+1113
+01:05:19,360 --> 01:05:21,040
+<i>Yo sola</i>
+
+1114
+01:05:21,280 --> 01:05:23,880
+<i>Les mostraré a todos lo que puedo hacer</i>
+
+1115
+01:05:24,040 --> 01:05:25,640
+<i>Soy la indicada</i>
+
+1116
+01:05:25,960 --> 01:05:27,160
+<i>Apuesta por mí</i>
+
+1117
+01:05:27,360 --> 01:05:30,280
+<i>¿No ves que soy la indicada?</i>
+
+1118
+01:05:30,440 --> 01:05:33,320
+<i>No necesito a nadie</i>
+<i>Lo hago por mi cuenta</i>
+
+1119
+01:05:33,440 --> 01:05:34,800
+<i>Tiene una voz de ángel</i>
+
+1120
+01:05:35,360 --> 01:05:39,760
+<i>Puede convertir cada palabra</i>
+<i>En una hermosa melodía</i>
+
+1121
+01:05:40,360 --> 01:05:41,640
+<i>Sí, ella puede</i>
+
+1122
+01:05:41,800 --> 01:05:43,720
+<i>La chica tiene su propio estilo</i>
+
+1123
+01:05:44,680 --> 01:05:48,960
+<i>Enciende la música y mírala</i>
+<i>Mientras hace lo suyo</i>
+
+1124
+01:05:49,880 --> 01:05:53,560
+<i>-Puede hacer de todo</i>
+<i>-Mi chica es una reina del drama</i>
+
+1125
+01:05:54,120 --> 01:05:58,280
+<i>Cualquier papel que le des</i>
+<i>Lo hace a la perfección</i>
+
+1126
+01:05:59,800 --> 01:06:01,120
+<i>Ah, ¿no puedes ver</i>
+
+1127
+01:06:01,440 --> 01:06:02,880
+<i>Que ella es la indicada?</i>
+
+1128
+01:06:03,040 --> 01:06:05,800
+<i>Está avanzando</i>
+<i>Y rompiendo todas las reglas</i>
+
+1129
+01:06:06,040 --> 01:06:07,640
+<i>Ella sola</i>
+
+1130
+01:06:07,920 --> 01:06:10,240
+<i>Les mostrará a todos lo que puede hacer</i>
+
+1131
+01:06:10,480 --> 01:06:12,240
+<i>Ella es la indicada</i>
+
+1132
+01:06:12,480 --> 01:06:13,920
+<i>Apuesta por ella</i>
+
+1133
+01:06:14,080 --> 01:06:16,880
+<i>¿No puedes ver que ella es la indicada?</i>
+
+1134
+01:06:17,280 --> 01:06:20,320
+<i>No necesita a nadie</i>
+<i>Lo hace por su cuenta</i>
+
+1135
+01:06:20,720 --> 01:06:26,560
+<i>Quiero ser la única</i>
+<i>A la que todos vean</i>
+
+1136
+01:06:26,720 --> 01:06:29,760
+<i>Estoy avanzando, avanzando, muy bien</i>
+
+1137
+01:06:30,080 --> 01:06:35,760
+<i>Quiero ser la única</i>
+<i>Que siempre esté en el centro</i>
+
+1138
+01:06:36,000 --> 01:06:37,920
+<i>Por primera vez en mi vida</i>
+
+1139
+01:06:38,680 --> 01:06:39,840
+<i>Soy la indicada</i>
+
+1140
+01:06:40,320 --> 01:06:42,720
+<i>Estoy avanzando</i>
+<i>Y rompiendo todas las reglas</i>
+
+1141
+01:06:43,280 --> 01:06:44,480
+<i>Yo sola</i>
+
+1142
+01:06:45,080 --> 01:06:47,760
+<i>Les mostraré a todos lo que puedo hacer</i>
+
+1143
+01:06:48,000 --> 01:06:49,720
+<i>Soy la indicada</i>
+
+1144
+01:06:49,800 --> 01:06:54,120
+<i>Apuesta por mí</i>
+<i>¿No puedes ver que soy la indicada?</i>
+
+1145
+01:06:54,680 --> 01:06:56,840
+<i>No necesito a nadie</i>
+<i>Lo hago por mi cuenta</i>
+
+1146
+01:06:57,400 --> 01:06:58,520
+<i>Soy la indicada</i>
+
+1147
+01:06:59,120 --> 01:07:01,800
+<i>Estoy avanzando</i>
+<i>Y rompiendo todas las reglas</i>
+
+1148
+01:07:02,000 --> 01:07:03,600
+<i>Yo sola</i>
+
+1149
+01:07:03,680 --> 01:07:06,480
+<i>Les mostraré a todos lo que puedo hacer</i>
+
+1150
+01:07:06,560 --> 01:07:07,840
+<i>Soy la indicada</i>
+
+1151
+01:07:08,600 --> 01:07:12,880
+<i>Apuesta por mí</i>
+<i>¿No puedes ver que soy la indicada?</i>
+
+1152
+01:07:13,000 --> 01:07:15,680
+<i>No necesito a nadie</i>
+<i>Lo hago por mi cuenta</i>
+
+1153
+01:07:15,880 --> 01:07:17,520
+<i>Soy la indicada</i>
+
+1154
+01:07:23,360 --> 01:07:26,640
+Maravilloso.
+
+1155
+01:07:27,080 --> 01:07:31,760
+Ya veo por qué querías
+escoger a las tres. Increíble.
+
+1156
+01:07:31,840 --> 01:07:35,760
+Pero aún no podemos costearlo.
+
+1157
+01:07:36,800 --> 01:07:40,440
+Así que el papel es para...
+
+1158
+01:07:44,080 --> 01:07:46,800
+-Chanel.
+-¡Sí, sí!
+
+1159
+01:07:47,720 --> 01:07:49,120
+Qué sorpresa.
+
+1160
+01:07:50,080 --> 01:07:53,240
+Sí, felicitaciones.
+Fue justo, ¿no?
+
+1161
+01:07:56,240 --> 01:07:57,520
+Gracias, tío <i>ji.</i>
+
+1162
+01:08:07,440 --> 01:08:08,600
+Felicitaciones, Chanel.
+
+1163
+01:08:12,640 --> 01:08:13,720
+Gracias.
+
+1164
+01:08:40,160 --> 01:08:44,880
+<i>Podría ser reconocida a distancia</i>
+
+1165
+01:08:45,520 --> 01:08:50,040
+<i>Sí, podría ser el nombre más grande</i>
+<i>En pantalla</i>
+
+1166
+01:08:50,480 --> 01:08:52,760
+<i>Cantando y bailando por siempre</i>
+
+1167
+01:08:53,160 --> 01:08:55,720
+<i>Firmando mi nombre para todos</i>
+
+1168
+01:08:56,240 --> 01:09:00,320
+<i>Sí, todo está a mi alcance, sí</i>
+
+1169
+01:09:00,480 --> 01:09:03,280
+<i>Si doy todo lo que tengo</i>
+
+1170
+01:09:03,480 --> 01:09:05,760
+<i>Llegaría hasta la cima</i>
+
+1171
+01:09:05,920 --> 01:09:08,120
+<i>Pero ni siquiera quiero irme</i>
+
+1172
+01:09:08,520 --> 01:09:11,400
+<i>Si debo ir allá sola</i>
+
+1173
+01:09:11,520 --> 01:09:15,240
+<i>Ponme en la cima de la montaña</i>
+
+1174
+01:09:15,560 --> 01:09:20,840
+<i>Déjame volar hasta el fin del mundo</i>
+
+1175
+01:09:21,560 --> 01:09:25,000
+<i>Sí, puedo ir a donde sea</i>
+
+1176
+01:09:25,400 --> 01:09:28,040
+<i>Pero si no están allí conmigo</i>
+
+1177
+01:09:28,720 --> 01:09:31,440
+<i>Nunca será suficiente</i>
+
+1178
+01:09:31,680 --> 01:09:36,760
+<i>No hay lugar como nosotras</i>
+
+1179
+01:09:37,040 --> 01:09:39,160
+<i>No hay lugar como nosotras</i>
+
+1180
+01:09:39,280 --> 01:09:43,920
+<i>Si encuentro el final del arcoíris</i>
+
+1181
+01:09:44,680 --> 01:09:48,720
+<i>¿Descubriré que el oro</i>
+<i>no valía nada?</i>
+
+1182
+01:09:49,560 --> 01:09:52,240
+<i>Porque si no estamos ahí</i>
+<i>Las unas para las otras</i>
+
+1183
+01:09:52,520 --> 01:09:55,160
+<i>Entonces todo lo que tengo no importa</i>
+
+1184
+01:09:55,400 --> 01:09:59,600
+<i>No estaría bien</i>
+
+1185
+01:10:00,080 --> 01:10:02,480
+<i>Dejar todo lo que tengo</i>
+
+1186
+01:10:02,640 --> 01:10:04,880
+<i>Y llegar a la cima</i>
+
+1187
+01:10:05,040 --> 01:10:07,480
+<i>Si no están ahí conmigo</i>
+
+1188
+01:10:07,880 --> 01:10:10,680
+<i>No hay nada que quiera ver</i>
+
+1189
+01:10:10,840 --> 01:10:14,600
+<i>Ponme en la cima de esa montaña</i>
+
+1190
+01:10:14,760 --> 01:10:21,320
+<i>Déjame volar hasta el fin del mundo, sí</i>
+
+1191
+01:10:21,600 --> 01:10:24,440
+<i>Puedo ir a donde sea</i>
+
+1192
+01:10:24,600 --> 01:10:27,040
+<i>Pero si no están conmigo allí</i>
+
+1193
+01:10:27,760 --> 01:10:30,640
+<i>Nunca será suficiente</i>
+
+1194
+01:10:30,800 --> 01:10:35,800
+<i>No hay lugar como nosotras</i>
+
+1195
+01:10:36,200 --> 01:10:38,680
+<i>No hay lugar como nosotras</i>
+
+1196
+01:10:38,880 --> 01:10:41,400
+<i>No importa dónde estemos</i>
+
+1197
+01:10:41,600 --> 01:10:44,120
+<i>O qué tan lejos</i>
+
+1198
+01:10:44,280 --> 01:10:46,640
+<i>Porque aun cuando vayamos</i>
+<i>Por caminos separados</i>
+
+1199
+01:10:46,760 --> 01:10:48,880
+<i>Seremos el lugar</i>
+
+1200
+01:10:49,760 --> 01:10:51,960
+<i>Creo que puedo hacerlo</i>
+
+1201
+01:10:52,240 --> 01:10:54,680
+<i>Pero sola, no lo lograría</i>
+
+1202
+01:10:55,080 --> 01:10:59,520
+<i>Sabemos que tenemos que estar juntas</i>
+<i>Porque sin importar nada</i>
+
+1203
+01:11:00,080 --> 01:11:03,640
+<i>No hay lugar como nosotras</i>
+
+1204
+01:11:08,880 --> 01:11:09,960
+Estuviste increíble.
+
+1205
+01:11:10,320 --> 01:11:12,880
+Lamento lo que dije.
+No lo decía en serio.
+
+1206
+01:11:13,640 --> 01:11:16,320
+Yo tampoco.
+Cantaste con el corazón.
+
+1207
+01:11:17,120 --> 01:11:19,600
+Gracias. Todas estuvimos increíbles.
+
+1208
+01:11:20,240 --> 01:11:23,280
+No importa lo que pase,
+a dónde vayamos o lo que hagamos.
+
+1209
+01:11:23,440 --> 01:11:27,120
+El cambio es inevitable,
+pero siempre seremos Cheetahs.
+
+1210
+01:11:27,840 --> 01:11:30,000
+Cheetahs, díganlo como si lo sintieran.
+
+1211
+01:11:30,440 --> 01:11:32,080
+-Juntas.
+-Ahora.
+
+1212
+01:11:32,320 --> 01:11:33,800
+-Y por siempre.
+-Y por siempre.
+
+1213
+01:11:35,560 --> 01:11:38,720
+-Vamos a extrañarte mucho.
+-No me extrañarán tanto.
+
+1214
+01:11:39,000 --> 01:11:40,680
+-¿Qué?
+-¿Por qué no?
+
+1215
+01:11:41,080 --> 01:11:42,400
+No aceptaré el papel.
+
+1216
+01:11:43,280 --> 01:11:45,840
+No vale la pena
+perderlas como amigas.
+
+1217
+01:11:58,440 --> 01:11:59,920
+¿Así que todas se retiran?
+
+1218
+01:12:00,680 --> 01:12:03,880
+Actuar en una película y destruir
+nuestra amistad no vale la pena.
+
+1219
+01:12:05,360 --> 01:12:06,520
+Mejor empiezo a escribir.
+
+1220
+01:12:06,640 --> 01:12:09,760
+No sé cómo escribiré una historia de amor
+sin un interés amoroso.
+
+1221
+01:12:09,920 --> 01:12:12,160
+Creo que es momento
+de enfrentar a tu tío,
+
+1222
+01:12:12,920 --> 01:12:14,800
+y hacer la película que quieres.
+Y si no puedes,
+
+1223
+01:12:14,880 --> 01:12:16,920
+pues tal vez esta no sea
+la película que debas hacer.
+
+1224
+01:12:18,400 --> 01:12:22,320
+Sí, Chanel, pero
+¿y si es mi única oportunidad?
+
+1225
+01:12:22,880 --> 01:12:25,920
+No es tu oportunidad
+si no es la película que quieres hacer.
+
+1226
+01:12:29,400 --> 01:12:30,880
+No renuncies a tu sueño.
+
+1227
+01:12:36,600 --> 01:12:38,400
+Si no puedes ser mi protagonista...
+
+1228
+01:12:41,240 --> 01:12:42,640
+...¿tal vez podrías considerar...
+
+1229
+01:12:44,320 --> 01:12:45,760
+...actuar el papel en la vida real?
+
+1230
+01:12:58,480 --> 01:13:00,400
+Lástima que no estamos en el Taj Mahal.
+
+1231
+01:13:02,920 --> 01:13:04,400
+-Eso puede arreglarse.
+-¿Sí?
+
+1232
+01:13:04,720 --> 01:13:05,960
+Eso creo.
+
+1233
+01:13:19,920 --> 01:13:21,040
+Disculpa el desorden.
+
+1234
+01:13:21,120 --> 01:13:25,280
+Intentaba seguir tu consejo
+y hacer que las cosas pasaran.
+
+1235
+01:13:27,960 --> 01:13:32,640
+Me refería a que siguieras tus sueños,
+no que trataras de comprarme el mío.
+
+1236
+01:13:35,360 --> 01:13:37,080
+Pero fue lindo que lo intentaras.
+
+1237
+01:13:41,320 --> 01:13:42,480
+Una pregunta.
+
+1238
+01:13:42,880 --> 01:13:46,400
+¿Presentar mi solicitud a Columbia
+cuenta como seguir mi sueño?
+
+1239
+01:13:46,560 --> 01:13:51,840
+Porque hablé con mis padres
+y no les parece tan mala idea.
+
+1240
+01:13:53,120 --> 01:13:54,160
+Sí.
+
+1241
+01:13:56,080 --> 01:13:58,800
+-¿Listo?
+-No. Tengo miedo.
+
+1242
+01:13:59,800 --> 01:14:01,240
+¿Y si no le gusto?
+
+1243
+01:14:02,720 --> 01:14:04,520
+A veces debes esforzarte
+
+1244
+01:14:04,720 --> 01:14:07,240
+y no preocuparte por lo que pase.
+
+1245
+01:14:07,760 --> 01:14:09,120
+Vamos, puedes hacerlo.
+
+1246
+01:14:24,800 --> 01:14:25,880
+¿Gita?
+
+1247
+01:14:35,440 --> 01:14:36,480
+Solo ignora eso.
+
+1248
+01:14:39,280 --> 01:14:40,480
+¿Qué decías?
+
+1249
+01:14:42,040 --> 01:14:43,720
+¿Quieres cenar con estas flores?
+
+1250
+01:14:44,560 --> 01:14:48,080
+Es decir, ¿tus flores
+quieren cenar conmigo?
+
+1251
+01:14:53,480 --> 01:14:57,440
+Sí, me encantaría cenar con tus flores.
+
+1252
+01:14:59,640 --> 01:15:01,200
+-¿En serio?
+-Sí.
+
+1253
+01:15:02,480 --> 01:15:03,800
+Y por cierto...
+
+1254
+01:15:04,520 --> 01:15:05,760
+...me encanta tu risa.
+
+1255
+01:15:12,080 --> 01:15:14,000
+Gracias. Me encantan.
+
+1256
+01:15:14,360 --> 01:15:16,160
+-¿Te gustan las flores?
+-Sí.
+
+1257
+01:15:16,360 --> 01:15:18,600
+Son rojas. Combinan con tu vestido.
+Es hermoso.
+
+1258
+01:15:22,800 --> 01:15:27,080
+Muchas gracias. Me encantan.
+Huelen muy bien.
+
+1259
+01:15:27,440 --> 01:15:29,760
+-Te ves tan hermosa.
+-Gracias, Rahim.
+
+1260
+01:15:30,080 --> 01:15:31,760
+Las elegí especialmente para ti.
+
+1261
+01:15:32,040 --> 01:15:33,360
+-Sabía que te gustarían.
+-¿Joaquín?
+
+1262
+01:15:35,360 --> 01:15:37,360
+Lamento haber evitado tus llamadas.
+
+1263
+01:15:38,240 --> 01:15:41,760
+Estamos en la India,
+lo cual es una historia loca, pero...
+
+1264
+01:15:43,080 --> 01:15:44,120
+Como sea...
+
+1265
+01:15:45,760 --> 01:15:47,440
+...lo he pensado mucho y...
+
+1266
+01:15:48,800 --> 01:15:51,160
+...me di cuenta de que
+aunque no estemos saliendo,
+
+1267
+01:15:51,360 --> 01:15:52,880
+no significa que no podamos ser amigos.
+
+1268
+01:15:54,360 --> 01:15:56,320
+Y te extraño.
+
+1269
+01:15:57,360 --> 01:15:59,960
+Llámame cuando puedas,
+prometo que atenderé.
+
+1270
+01:16:07,240 --> 01:16:10,080
+Gracias por ayudarme a ver
+que yo era el obstáculo.
+
+1271
+01:16:14,560 --> 01:16:16,280
+Miren lo que tengo para Vik.
+
+1272
+01:16:17,920 --> 01:16:20,040
+Es el afiche original
+de <i>Namaste Bombay.</i>
+
+1273
+01:16:22,560 --> 01:16:24,600
+Chicas, me siento mal por él.
+
+1274
+01:16:25,320 --> 01:16:27,080
+¿Quién será la estrella
+de su película?
+
+1275
+01:16:29,040 --> 01:16:30,880
+¿Cheetahs? Miren.
+
+1276
+01:16:38,760 --> 01:16:40,320
+¿Dónde está este Raju?
+
+1277
+01:16:41,040 --> 01:16:42,360
+¿Por qué no está aquí?
+
+1278
+01:16:42,720 --> 01:16:43,800
+Envíalo. Adiós.
+
+1279
+01:16:48,480 --> 01:16:52,120
+¿Por qué no estás llenando la solicitud
+para la escuela de odontología?
+
+1280
+01:16:53,360 --> 01:16:55,320
+Conseguimos a la estrella perfecta
+para la película.
+
+1281
+01:16:56,240 --> 01:16:57,240
+Yo también.
+
+1282
+01:16:58,240 --> 01:17:00,080
+Rahim con peluca es genial.
+
+1283
+01:17:00,840 --> 01:17:01,840
+No, tío.
+
+1284
+01:17:02,640 --> 01:17:03,840
+Es Gita.
+
+1285
+01:17:08,240 --> 01:17:09,440
+¿Qué dices?
+
+1286
+01:17:10,240 --> 01:17:13,120
+Nadie quiere ver
+a una coreógrafa en pantalla.
+
+1287
+01:17:13,360 --> 01:17:16,040
+Por eso siempre están tras bastidores.
+
+1288
+01:17:16,240 --> 01:17:18,240
+Ella es una estrella.
+Y lo voy a demostrar.
+
+1289
+01:17:19,560 --> 01:17:22,480
+Esta es mi película.
+Y es mi única oportunidad.
+
+1290
+01:17:24,240 --> 01:17:27,160
+-Debo hacer lo que creo.
+-¿Y?
+
+1291
+01:17:32,040 --> 01:17:33,320
+Y haré una gran película.
+
+1292
+01:17:38,360 --> 01:17:42,560
+Ahora hablas como un verdadero director.
+
+1293
+01:17:44,080 --> 01:17:47,120
+Muchas gracias.
+Prometo no decepcionarlo.
+
+1294
+01:17:47,680 --> 01:17:49,720
+Veamos lo que tienen. ¡Vamos!
+
+1295
+01:17:49,840 --> 01:17:51,800
+-¡Hagamos una película!
+-¡Vamos a prepararte!
+
+1296
+01:17:55,160 --> 01:17:56,840
+Silencio, por favor.
+Vamos a filmar.
+
+1297
+01:17:57,440 --> 01:18:00,080
+<i>Namaste Bombay</i>, BBS, <i>Un mundo.</i>
+
+1298
+01:18:00,320 --> 01:18:02,440
+-¡Claqueta!
+-¡Pista!
+
+1299
+01:18:08,920 --> 01:18:10,240
+<i>Ey</i>
+
+1300
+01:18:16,880 --> 01:18:17,920
+<i>Sí</i>
+
+1301
+01:18:18,480 --> 01:18:20,560
+<i>El amor siempre encuentra un camino</i>
+
+1302
+01:18:20,920 --> 01:18:22,080
+<i>Cada vez</i>
+
+1303
+01:18:22,520 --> 01:18:24,640
+<i>Cuando aprendemos a confiar</i>
+<i>En nuestros corazones</i>
+
+1304
+01:18:24,800 --> 01:18:26,320
+<i>Y mirar adentro, se siente bien</i>
+
+1305
+01:18:26,480 --> 01:18:28,640
+<i>Ahora vemos quiénes somos</i>
+
+1306
+01:18:28,800 --> 01:18:29,800
+<i>Bajo una luz diferente</i>
+
+1307
+01:18:30,560 --> 01:18:32,760
+<i>No somos tan lejanos</i>
+
+1308
+01:18:32,920 --> 01:18:34,560
+<i>Todo es posible</i>
+
+1309
+01:18:34,800 --> 01:18:38,520
+<i>Con todas las diferencias</i>
+<i>Somos más fuertes aquí</i>
+
+1310
+01:18:39,040 --> 01:18:42,800
+<i>Ahora la verdad se ha descubierto</i>
+<i>Ah, sí</i>
+
+1311
+01:18:42,960 --> 01:18:45,880
+<i>Después de todo lo que hemos pasado</i>
+<i>Ahora es claro</i>
+
+1312
+01:18:46,040 --> 01:18:49,840
+<i>Que todos compartimos</i>
+
+1313
+01:18:50,000 --> 01:18:51,800
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1314
+01:18:51,880 --> 01:18:53,800
+<i>-Un amor</i>
+<i>-Un amor</i>
+
+1315
+01:18:53,920 --> 01:18:55,800
+<i>-Uno y todos</i>
+<i>-Uno y todos</i>
+
+1316
+01:18:55,920 --> 01:18:57,560
+<i>Somos un círculo juntos</i>
+
+1317
+01:18:58,080 --> 01:18:59,880
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1318
+01:19:00,080 --> 01:19:01,960
+<i>-Un corazón</i>
+<i>-Un corazón</i>
+
+1319
+01:19:02,120 --> 01:19:04,320
+<i>-Una canción</i>
+<i>-Una canción</i>
+
+1320
+01:19:04,520 --> 01:19:05,960
+<i>Ahora y siempre</i>
+
+1321
+01:19:06,560 --> 01:19:08,440
+<i>Todos celebren</i>
+
+1322
+01:19:08,640 --> 01:19:10,400
+<i>Que empiece la fiesta</i>
+<i>Que empiece el baile</i>
+
+1323
+01:19:10,600 --> 01:19:12,600
+<i>Es hora de que suene la música</i>
+
+1324
+01:19:12,800 --> 01:19:14,040
+<i>La fiesta nunca termina</i>
+
+1325
+01:19:14,600 --> 01:19:16,400
+<i>Todos los chicos y chicas</i>
+
+1326
+01:19:16,560 --> 01:19:18,440
+<i>De pie y griten, griten fuerte</i>
+
+1327
+01:19:18,600 --> 01:19:20,640
+<i>Todos alrededor del mundo</i>
+
+1328
+01:19:20,800 --> 01:19:22,240
+<i>-Vengan y únanse</i>
+<i>-Sí</i>
+
+1329
+01:19:22,320 --> 01:19:24,640
+<i>Estamos reunidos aquí hoy</i>
+
+1330
+01:19:24,800 --> 01:19:26,160
+<i>-Todo está bien</i>
+<i>-Sí</i>
+
+1331
+01:19:26,360 --> 01:19:28,720
+<i>Porque cuando das de corazón</i>
+
+1332
+01:19:28,880 --> 01:19:30,440
+<i>Las cosas que haces regresan a ti</i>
+
+1333
+01:19:30,600 --> 01:19:32,600
+<i>Atrévete a ser fuerte y valiente</i>
+
+1334
+01:19:32,760 --> 01:19:34,400
+<i>No temas intentar</i>
+
+1335
+01:19:34,600 --> 01:19:36,680
+<i>Allí es cuando vemos quién eres</i>
+
+1336
+01:19:36,880 --> 01:19:38,680
+<i>Las mejores amigas y entonces</i>
+
+1337
+01:19:38,880 --> 01:19:42,440
+<i>Con todas las diferencias</i>
+<i>Somos más fuertes aquí</i>
+
+1338
+01:19:43,040 --> 01:19:46,480
+<i>Ahora que la verdad se ha descubierto</i>
+<i>Ah, sí</i>
+
+1339
+01:19:47,040 --> 01:19:49,920
+<i>Después de todo lo que hemos pasado</i>
+<i>Ahora es claro</i>
+
+1340
+01:19:50,000 --> 01:19:53,680
+<i>Estamos aquí para compartir</i>
+
+1341
+01:19:54,120 --> 01:19:56,000
+<i>-Un mundo</i>
+<i>-Mundo</i>
+
+1342
+01:19:56,160 --> 01:19:57,960
+<i>-Un amor</i>
+<i>-Un amor</i>
+
+1343
+01:19:58,120 --> 01:19:59,960
+<i>-Uno y todos</i>
+<i>-Uno y todos</i>
+
+1344
+01:20:00,120 --> 01:20:01,920
+<i>Somos un círculo juntos</i>
+
+1345
+01:20:02,000 --> 01:20:04,000
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1346
+01:20:04,120 --> 01:20:05,880
+<i>-Un corazón</i>
+<i>-Un corazón</i>
+
+1347
+01:20:05,960 --> 01:20:08,240
+<i>-Una canción</i>
+<i>-Una canción, sí</i>
+
+1348
+01:20:08,520 --> 01:20:10,360
+<i>Ahora y siempre</i>
+
+1349
+01:20:10,440 --> 01:20:15,240
+<i>Nunca supe que el amor</i>
+<i>Encontraría una manera</i>
+
+1350
+01:20:15,400 --> 01:20:18,440
+<i>De acercarnos a ambos</i>
+
+1351
+01:20:19,120 --> 01:20:22,120
+<i>Ahora, adentro, sé que es verdad</i>
+
+1352
+01:20:22,360 --> 01:20:23,960
+<i>Porque lo que tenemos significa</i>
+
+1353
+01:20:24,040 --> 01:20:26,280
+<i>Que me dejas ser yo mismo</i>
+
+1354
+01:20:26,440 --> 01:20:30,400
+<i>Juntos, aquí, es donde pertenecemos</i>
+
+1355
+01:20:31,920 --> 01:20:32,960
+<i>¡Ey!</i>
+
+1356
+01:20:33,920 --> 01:20:35,040
+<i>Vamos, ahora</i>
+
+1357
+01:20:35,920 --> 01:20:37,240
+<i>¡Aquí vamos!</i>
+
+1358
+01:20:37,920 --> 01:20:39,360
+<i>¡Aquí vamos!</i>
+
+1359
+01:20:45,000 --> 01:20:46,640
+<i>¡Vamos a celebrar!</i>
+
+1360
+01:21:04,000 --> 01:21:05,360
+<i>Un mundo</i>
+
+1361
+01:21:06,080 --> 01:21:08,080
+<i>Un amor</i>
+
+1362
+01:21:08,240 --> 01:21:10,040
+<i>Uno y todos</i>
+
+1363
+01:21:10,200 --> 01:21:12,520
+<i>-Somos un círculo juntos</i>
+<i>-Somos un círculo juntos</i>
+
+1364
+01:21:12,720 --> 01:21:14,160
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1365
+01:21:14,320 --> 01:21:15,920
+<i>-Un corazón</i>
+<i>-Un corazón</i>
+
+1366
+01:21:16,080 --> 01:21:18,480
+<i>-Una canción</i>
+<i>-Canción, sí</i>
+
+1367
+01:21:18,720 --> 01:21:20,080
+<i>Ahora y siempre</i>
+
+1368
+01:21:20,240 --> 01:21:21,880
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1369
+01:21:22,040 --> 01:21:23,920
+<i>-Un amor</i>
+<i>-Un amor</i>
+
+1370
+01:21:24,080 --> 01:21:26,080
+<i>-Uno y todos</i>
+<i>-Uno y todos</i>
+
+1371
+01:21:26,240 --> 01:21:28,080
+<i>Somos un círculo juntos</i>
+
+1372
+01:21:28,240 --> 01:21:30,080
+<i>-Un mundo</i>
+<i>-Un mundo</i>
+
+1373
+01:21:30,280 --> 01:21:31,920
+<i>-Un corazón</i>
+<i>-Un corazón</i>
+
+1374
+01:21:32,080 --> 01:21:34,480
+<i>-Una canción</i>
+<i>-Una canción</i>
+
+1375
+01:21:34,680 --> 01:21:35,960
+<i>Ahora y siempre</i>
+
+1376
+01:21:36,160 --> 01:21:38,360
+<i>Somos un círculo juntos</i>
+
+1377
+01:21:38,720 --> 01:21:41,800
+<i>Ahora y siempre</i>
+
+1378
+01:21:42,200 --> 01:21:45,920
+<i>Un mundo</i>
+
+1379
+01:22:00,920 --> 01:22:03,120
+<i>Sé que crees que lo tienes bajo control</i>
+
+1380
+01:22:03,280 --> 01:22:05,920
+<i>Pero observa y aprende</i>
+<i>Porque así lo hacemos</i>
+
+1381
+01:22:06,080 --> 01:22:09,760
+<i>Justo así</i>
+<i>Veamos cómo lo intentas y haces eso</i>
+
+1382
+01:22:09,920 --> 01:22:11,440
+<i>¿Qué pasa? ¿No puedes hacerlo?</i>
+
+1383
+01:22:11,520 --> 01:22:14,160
+<i>Porque pareces confundida</i>
+<i>Equivocada, sin dudas</i>
+
+1384
+01:22:14,320 --> 01:22:18,600
+<i>No hay oportunidad</i>
+<i>De que puedas hacer nuestro baile</i>
+
+1385
+01:22:18,760 --> 01:22:20,680
+<i>No podrás, no podrás, no</i>
+
+1386
+01:22:20,840 --> 01:22:22,720
+<i>Intenta hacerlo, intenta hacerlo, sí</i>
+
+1387
+01:22:22,800 --> 01:22:25,280
+<i>No podrás, no podrás, no</i>
+
+1388
+01:22:26,560 --> 01:22:28,320
+<i>-Vamos, vamos</i>
+<i>-Sí, sí</i>
+
+1389
+01:22:28,640 --> 01:22:29,640
+<i>Muéstrame lo que tienes</i>
+
+1390
+01:22:29,840 --> 01:22:31,600
+<i>Intenta seguirme, obsérvame ahora</i>
+
+1391
+01:22:31,680 --> 01:22:34,760
+<i>Si crees que sabes cómo</i>
+<i>Entonces baila contra mí</i>
+
+1392
+01:22:36,040 --> 01:22:37,480
+<i>Baila contra mí si puedes</i>
+
+1393
+01:22:38,400 --> 01:22:40,640
+<i>-Hazlo parecer fácil, esa es la forma</i>
+<i>-Es la forma</i>
+
+1394
+01:22:40,800 --> 01:22:43,800
+<i>Si crees tener lo que se necesita</i>
+<i>Entonces baila contra mí</i>
+
+1395
+01:22:44,760 --> 01:22:46,240
+<i>Baila contra mí si puedes</i>
+
