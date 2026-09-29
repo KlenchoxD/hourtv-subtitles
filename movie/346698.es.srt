@@ -1,0 +1,830 @@
+1
+00:03:25,455 --> 00:03:27,791
+MUNDO REAL
+
+2
+00:03:57,571 --> 00:04:01,992
+<i>En mi mundo rosa al despertar</i>
+
+3
+00:04:02,075 --> 00:04:06,079
+<i>A todas a mis amigas voy a saludar</i>
+
+4
+00:04:06,163 --> 00:04:08,415
+<i>Hey, Barbie, hey</i>
+
+5
+00:04:08,498 --> 00:04:10,542
+<i>Es tan cool</i>
+
+6
+00:04:10,626 --> 00:04:14,505
+<i>Qué muñeca, que disfruta del sol</i>
+
+7
+00:04:15,923 --> 00:04:18,675
+<i>Hay cosas importantes que hacer</i>
+
+8
+00:04:18,759 --> 00:04:22,930
+<i>Es ella, y ella y tú y yo</i>
+
+9
+00:04:23,013 --> 00:04:27,184
+<i>El rosa, un color ideal</i>
+
+10
+00:04:27,267 --> 00:04:29,186
+<i>Bella de cabeza a pies</i>
+
+11
+00:04:29,269 --> 00:04:31,313
+<i>Ya lista estoy, lo ves, lo ves</i>
+
+12
+00:04:31,396 --> 00:04:35,400
+<i>Es rosa, y en todo está</i>
+
+13
+00:04:35,692 --> 00:04:40,030
+<i>Hay otros colores
+Pero el rosa se nos ve tan bien</i>
+
+14
+00:04:41,406 --> 00:04:44,785
+<i>¿Qué usarás? ¿Vestido o traje?</i>
+
+15
+00:04:45,160 --> 00:04:48,914
+<i>Da igual, lo que te queda es el poder</i>
+
+16
+00:04:48,997 --> 00:04:53,168
+<i>Hey, Barbie, tu estilo es tal</i>
+
+17
+00:04:53,252 --> 00:04:57,464
+<i>Que tu sonrisa no se tiene que reflejar</i>
+
+18
+00:04:57,548 --> 00:05:01,969
+<i>Vueltas, vueltas, vueltas, vueltas</i>
+
+19
+00:05:04,471 --> 00:05:05,973
+<i>Es mi Barbie</i>
+
+20
+00:05:06,056 --> 00:05:08,517
+<i>Sí, Barbie; sí, Barbie</i>
+
+21
+00:05:08,600 --> 00:05:10,060
+<i>Es mi Barbie</i>
+
+22
+00:05:12,813 --> 00:05:14,356
+<i>Es mi Barbie</i>
+
+23
+00:05:14,648 --> 00:05:16,984
+<i>Sí, Barbie; sí, Barbie</i>
+
+24
+00:05:17,067 --> 00:05:18,485
+<i>Es mi Barbie</i>
+
+25
+00:05:21,405 --> 00:05:23,866
+<i>Hay cosas importantes que hacer</i>
+
+26
+00:05:24,658 --> 00:05:28,662
+<i>Es ella, y ella y tú y yo</i>
+
+27
+00:05:28,745 --> 00:05:33,292
+<i>El rosa, un color ideal</i>
+
+28
+00:05:33,375 --> 00:05:35,043
+<i>Bella de cabeza a pies</i>
+
+29
+00:05:35,127 --> 00:05:37,004
+<i>Ya lista estoy, lo ves, lo ves</i>
+
+30
+00:05:37,087 --> 00:05:39,381
+<i>-Es rosa
+-Lindo es</i>
+
+31
+00:05:39,464 --> 00:05:41,341
+<i>-Y en todo está
+-Oh sí</i>
+
+32
+00:05:41,425 --> 00:05:45,846
+<i>Hay otros colores
+Pero el rosa se nos ve tan bien</i>
+
+33
+00:05:45,929 --> 00:05:47,890
+<i>R, racional</i>
+
+34
+00:05:47,973 --> 00:05:49,808
+<i>O, optimista</i>
+
+35
+00:05:49,892 --> 00:05:51,935
+<i>S, con estilo</i>
+
+36
+00:05:52,019 --> 00:05:53,979
+<i>A, atractiva</i>
+
+37
+00:06:03,739 --> 00:06:06,450
+<i>Hay que volar, sí, sí, sí</i>
+
+38
+00:06:08,410 --> 00:06:09,912
+<i>Sigo cantando</i>
+
+39
+00:06:26,261 --> 00:06:29,806
+<i>El rosa, un color ideal…</i>
+
+40
+00:06:31,016 --> 00:06:31,934
+CENTRO DE BARBIE LAND
+
+41
+00:07:40,502 --> 00:07:42,880
+<i>Oh, oh, oh, rosa</i>
+
+42
+00:07:44,965 --> 00:07:46,633
+<i>Todo puede hacer</i>
+
+43
+00:07:55,642 --> 00:07:58,145
+<i>Nos veremos</i>
+
+44
+00:16:02,462 --> 00:16:06,717
+<i>En mi mundo rosa, al despertar,</i>
+
+45
+00:16:06,800 --> 00:16:10,762
+<i>A todas mis amigas voy a saludar</i>
+
+46
+00:16:10,846 --> 00:16:12,973
+<i>-Hey, Barbie
+-Hey</i>
+
+47
+00:16:13,348 --> 00:16:15,225
+<i>Qué ansiedad</i>
+
+48
+00:16:15,309 --> 00:16:19,730
+<i>Son tus pensamientos
+sobre la muerte, quizá</i>
+
+49
+00:16:20,397 --> 00:16:23,525
+<i>Hay cosas importantes que ha… oh</i>
+
+50
+00:16:23,609 --> 00:16:27,613
+<i>Es ella y ella y tú y yo</i>
+
+51
+00:16:27,696 --> 00:16:32,201
+<i>-El rosa, un color…
+-¡Qué frío está!</i>
+
+52
+00:16:32,284 --> 00:16:33,952
+<i>Bella de cabeza a pies</i>
+
+53
+00:16:34,036 --> 00:16:35,996
+<i>Ya lista estoy, lo ves, lo ves</i>
+
+54
+00:16:36,079 --> 00:16:38,373
+<i>Es rosa…
+Todo va a estar bien</i>
+
+55
+00:16:38,457 --> 00:16:40,334
+<i>…y en todo está</i>
+
+56
+00:16:40,417 --> 00:16:44,713
+<i>Mil colores
+Pero el rosa se nos ve tan bien</i>
+
+57
+00:16:44,796 --> 00:16:46,757
+<i>R, horror</i>
+
+58
+00:16:46,840 --> 00:16:48,800
+<i>O, obsesión</i>
+
+59
+00:16:48,884 --> 00:16:50,302
+<i>S, sucio</i>
+
+60
+00:16:50,385 --> 00:16:51,386
+LECHE DE VACA
+¡CADUCADA!
+
+61
+00:16:51,470 --> 00:16:52,513
+<i>A, muerte</i>
+
+62
+00:16:53,639 --> 00:16:55,349
+<i>Es mi Barbie</i>
+
+63
+00:16:55,432 --> 00:16:57,643
+<i>Sí, Barbie; sí, Barbie</i>
+
+64
+00:16:57,726 --> 00:16:59,186
+<i>Es mi Barbie</i>
+
+65
+00:17:01,230 --> 00:17:03,315
+<i>Niña, ¿estás bien?</i>
+
+66
+00:25:39,498 --> 00:25:44,419
+<i>Yo fui con doctores
+Yo fui a las montañas</i>
+
+67
+00:25:44,503 --> 00:25:48,757
+<i>Miré a los niños
+Bebí de las fuentes</i>
+
+68
+00:25:49,216 --> 00:25:53,262
+<i>Hay más de una respuesta a las preguntas</i>
+
+69
+00:25:53,345 --> 00:25:56,348
+<i>Y no es recta la dirección</i>
+
+70
+00:25:56,431 --> 00:26:00,394
+<i>Mientras menos busco
+La verdad perfecta</i>
+
+71
+00:26:00,477 --> 00:26:05,399
+<i>Más me acerco a estar bien</i>
+
+72
+00:26:05,482 --> 00:26:07,693
+<i>Más me acerco a estar bien</i>
+
+73
+00:26:48,609 --> 00:26:53,697
+MUNDO REAL
+HACIA ALLÁ
+
+74
+00:29:20,552 --> 00:29:23,263
+MISS UNIVERSO
+
+75
+00:29:27,935 --> 00:29:29,061
+DEPARTAMENTO DE POLICÍA DE LOS ÁNGELES
+
+76
+00:30:38,213 --> 00:30:40,966
+CENTRO CENTURY CITY
+
+77
+00:32:17,813 --> 00:32:19,648
+DONACIONES
+
+78
+00:34:25,482 --> 00:34:28,610
+Sede mundial de Mattel,
+Los Ángeles, California
+
+79
+00:45:48,123 --> 00:45:51,043
+¡ESTÁ TENIENDO EL MEJOR DÍA!
+¡LA BARBIE ESTEROTÍPICA ORIGINAL!
+
+80
+00:48:19,983 --> 00:48:23,028
+SOLO PARA EJECUTIVOS
+
+81
+00:56:23,133 --> 00:56:27,930
+<i>Más me acerco a estar bien, sí</i>
+
+82
+00:56:28,013 --> 00:56:31,517
+<i>Más me acerco a estar bien</i>
+
+83
+00:59:19,852 --> 00:59:21,937
+TAVERNA KENDOM
+
+84
+00:59:50,382 --> 00:59:52,509
+JUGUETES KEN
+
+85
+01:03:12,960 --> 01:03:16,463
+¡LOS KENS MEJORAN LAS COSAS!
+
+86
+01:05:04,905 --> 01:05:05,822
+PANTALÓN ACAMPANADO
+“VIVA LA MODA DISCO”
+
+87
+01:05:08,242 --> 01:05:09,243
+TRAJE DE ENTRENAMIENTO
+DE PATINAJE SOBRE HIELO
+
+88
+01:05:09,326 --> 01:05:10,244
+Y SU FALDA DESLUMBRANTE
+
+89
+01:05:15,582 --> 01:05:16,959
+JUEGO PARA PIYAMADA EN ÁMSTERDAM
+
+90
+01:05:19,086 --> 01:05:19,962
+PRECIOSOS PANTALONES
+PALAZZO ESTAMPADOS
+
+91
+01:07:51,154 --> 01:07:53,740
+<i>…de nuestras familias es tal,
+que toda unión entre ambos</i>
+
+92
+01:07:53,824 --> 01:07:56,451
+<i>deberá ser considerada
+sumamente reprobable.</i>
+
+93
+01:07:58,787 --> 01:07:59,872
+BARBIE TÚ PUEDES SER LO QUE QUIERAS
+
+94
+01:08:24,479 --> 01:08:26,439
+<i>Él dijo conocerme</i>
+
+95
+01:08:26,523 --> 01:08:30,194
+<i>Cuatro años de rodillas frente a él</i>
+
+96
+01:08:30,277 --> 01:08:33,071
+<i>Me gradué y me liberé</i>
+
+97
+01:08:34,363 --> 01:08:39,036
+<i>Yo fui con doctores
+Yo fui a las montañas</i>
+
+98
+01:08:39,118 --> 01:08:43,707
+<i>Miré a los niños
+Bebí de las fuentes</i>
+
+99
+01:09:14,738 --> 01:09:18,075
+KENS TRABAJANDO
+
+100
+01:18:44,099 --> 01:18:45,684
+<i>Ni siquiera me llamas "Padrino".</i>
+
+101
+01:18:45,767 --> 01:18:49,479
+<i>Pero te presentas en mi casa
+el día de la boda de mi hija</i>
+
+102
+01:18:49,563 --> 01:18:51,690
+<i>y me pides que mate por dinero.</i>
+
+103
+01:22:58,353 --> 01:23:02,065
+<i>No sé si he sido suficiente para ti</i>
+
+104
+01:23:02,691 --> 01:23:08,197
+<i>Estoy un poco oxidado
+Y mi mente va a colapsar</i>
+
+105
+01:23:10,240 --> 01:23:11,158
+CUATRO HORAS MÁS TARDE…
+
+106
+01:23:11,241 --> 01:23:13,952
+<i>No sé si he sido amado en realidad</i>
+
+107
+01:23:14,036 --> 01:23:15,871
+<i>Por quien me acaricia</i>
+
+108
+01:23:15,954 --> 01:23:19,208
+<i>Siento que algo tiene que ceder</i>
+
+109
+01:23:19,750 --> 01:23:22,961
+<i>Y estoy un poco enojado y, pues…</i>
+
+110
+01:23:23,420 --> 01:23:28,342
+<i>No se acaba, aquí, no, no</i>
+
+111
+01:23:30,511 --> 01:23:33,388
+<i>Pues yo te necesito aún</i>
+
+112
+01:23:34,890 --> 01:23:36,767
+<i>No me debes</i>
+
+113
+01:23:37,768 --> 01:23:39,937
+<i>Quizá cambie</i>
+
+114
+01:23:41,230 --> 01:23:44,775
+<i>Sí, aún puede ser</i>
+
+115
+01:23:44,858 --> 01:23:47,611
+<i>Te quiero amedrentar</i>
+
+116
+01:23:47,694 --> 01:23:50,322
+<i>Y lo haré y lo haré</i>
+
+117
+01:23:50,405 --> 01:23:53,158
+<i>Te quiero intimidar</i>
+
+118
+01:23:53,242 --> 01:23:55,577
+<i>Sí, sí, bien, lo haré</i>
+
+119
+01:24:12,261 --> 01:24:14,805
+<i>Lo haré</i>
+
+120
+01:24:46,420 --> 01:24:48,630
+<i>Nena</i>
+
+121
+01:24:48,714 --> 01:24:51,216
+<i>Te quiero amedrentar</i>
+
+122
+01:24:51,300 --> 01:24:56,513
+<i>Y lo haré y lo haré…</i>
+
+123
+01:26:00,160 --> 01:26:03,956
+<i>Siento que no importa qué haga yo</i>
+
+124
+01:26:04,998 --> 01:26:07,459
+<i>Segundo siempre soy</i>
+
+125
+01:26:08,585 --> 01:26:12,089
+<i>Y en verdad que lo intenté</i>
+
+126
+01:26:12,965 --> 01:26:17,761
+<i>Oh, oh, y cómo explico lo que siento hoy</i>
+
+127
+01:26:18,887 --> 01:26:21,306
+<i>Creo enloquecer</i>
+
+128
+01:26:22,349 --> 01:26:25,644
+<i>Porque siempre respeté</i>
+
+129
+01:26:25,727 --> 01:26:28,689
+<i>Pero duermo solo hoy</i>
+
+130
+01:26:29,106 --> 01:26:30,899
+<i>Pues solo soy Ken</i>
+
+131
+01:26:30,983 --> 01:26:34,027
+<i>En otro lugar sería un rey</i>
+
+132
+01:26:34,403 --> 01:26:38,323
+<i>Es mi destino ser un frágil rubio</i>
+
+133
+01:26:38,407 --> 01:26:42,119
+<i>Y nada más, y así vivir</i>
+
+134
+01:26:42,995 --> 01:26:44,580
+<i>Solo soy Ken</i>
+
+135
+01:26:44,663 --> 01:26:48,000
+<i>Yo veo amor y, ella, amistad</i>
+
+136
+01:26:48,083 --> 01:26:53,547
+<i>Cómo lograr
+Que vea al hombre real tras el galán</i>
+
+137
+01:26:53,630 --> 01:26:55,549
+<i>Y luche por mí</i>
+
+138
+01:27:28,916 --> 01:27:32,878
+<i>Tú puedes, Ken, Tú puedes, Ken,
+Tú puedes, Ken.</i>
+
+139
+01:28:24,680 --> 01:28:27,683
+<i>Quiero saber qué es el amor</i>
+
+140
+01:28:27,766 --> 01:28:29,726
+<i>Y ser verdadero</i>
+
+141
+01:28:30,978 --> 01:28:37,234
+<i>¿Es que está mal
+Y no soy sensual si digo qué siento?</i>
+
+142
+01:28:37,317 --> 01:28:43,740
+<i>Y mi momento ya llegó o estoy soñando</i>
+
+143
+01:28:44,867 --> 01:28:48,161
+<i>No soy un soñador</i>
+
+144
+01:29:29,745 --> 01:29:30,871
+<i>Ken</i>
+
+145
+01:29:35,542 --> 01:29:36,460
+<i>Ken</i>
+
+146
+01:29:41,089 --> 01:29:44,134
+<i>¿Sientes la Kenergía?</i>
+
+147
+01:29:46,512 --> 01:29:47,721
+<i>Ken</i>
+
+148
+01:29:51,808 --> 01:29:55,062
+<i>Lo son, lo eres, lo somos</i>
+
+149
+01:29:55,437 --> 01:29:57,189
+<i>Solo soy Ken</i>
+
+150
+01:29:57,272 --> 01:30:00,150
+<i>En otro lugar sería un rey</i>
+
+151
+01:30:00,609 --> 01:30:04,404
+<i>Es mi destino ser un frágil rubio</i>
+
+152
+01:30:04,488 --> 01:30:08,200
+<i>Y nada más, y así vivir</i>
+
+153
+01:30:09,117 --> 01:30:10,869
+<i>Solo soy Ken</i>
+
+154
+01:30:10,953 --> 01:30:14,331
+<i>Yo veo amor, y ella, amistad</i>
+
+155
+01:30:14,414 --> 01:30:16,375
+<i>Cómo lograr</i>
+
+156
+01:30:16,458 --> 01:30:19,962
+<i>Que vea al hombre real tras el galán</i>
+
+157
+01:30:20,045 --> 01:30:22,589
+<i>Y luche por mí</i>
+
+158
+01:30:23,006 --> 01:30:24,049
+<i>Solo soy Ken</i>
+
+159
+01:30:24,341 --> 01:30:26,260
+<i>Soy suficiente</i>
+
+160
+01:30:26,343 --> 01:30:29,513
+<i>Tanto hay que puedo hacer</i>
+
+161
+01:30:30,305 --> 01:30:32,599
+<i>Obsérvame bien</i>
+
+162
+01:30:32,683 --> 01:30:34,810
+<i>Sí, solo soy Ken</i>
+
+163
+01:30:36,728 --> 01:30:38,021
+<i>Me llamo Ken</i>
+
+164
+01:30:38,105 --> 01:30:40,023
+<i>Y yo también</i>
+
+165
+01:30:40,107 --> 01:30:43,861
+<i>Tu mano de hombre dame ya</i>
+
+166
+01:30:43,944 --> 01:30:46,196
+<i>Que el mundo vea que soy solo Ken</i>
+
+167
+01:30:46,280 --> 01:30:48,782
+<i>Solo soy Ken</i>
+
+168
+01:30:50,784 --> 01:30:54,079
+<i>No soy nadie más</i>
+
+169
+01:30:54,162 --> 01:30:57,165
+<i>Solo soy Ken</i>
+
+170
+01:36:33,460 --> 01:36:35,087
+IMITACIÓN MOJO-MINK DE KEN
+
+171
+01:41:31,842 --> 01:41:35,304
+SOY SUFICIENKEN
+
+172
+01:47:32,035 --> 01:47:33,203
+MODELO ADOLESCENTE
+
+173
+01:47:33,287 --> 01:47:35,247
+ES RUBIO
+
+174
+01:47:35,330 --> 01:47:36,456
+ES NOVIO DE BARBIE
+
+175
+01:47:36,540 --> 01:47:37,791
+ES UN MUÑECO
+
+176
+01:47:38,083 --> 01:47:39,751
+KEN ES UN MUÑECO
+
+177
+01:47:42,171 --> 01:47:44,381
+PIERNAS FLEXIBLES - PESTAÑAS DE VERDAD
+
+178
+01:47:44,464 --> 01:47:45,924
+¡HABLO!
+
+179
+01:47:47,342 --> 01:47:48,385
+ALLAN DE MATTEL®
+
+180
+01:47:48,468 --> 01:47:50,262
+ES AMIGO DE KEN
+
+181
+01:47:50,762 --> 01:47:53,223
+¡VISTE LA ROPA DE KEN!
+
+182
+01:47:54,057 --> 01:47:55,684
+Familia Feliz
+Midge y bebé
+
+183
+01:47:55,767 --> 01:47:57,394
+¡Pronto nacerá su bebé!
+
+184
+01:47:57,477 --> 01:47:59,646
+Hoy llevaremos a la bebé
+con la Doctora Barbie
+
+185
+01:48:00,772 --> 01:48:03,066
+Barbie® y Tanner perro
+
+186
+01:48:04,151 --> 01:48:06,195
+Jálale la cola… ¡Oh, oh!
+
+187
+01:48:07,487 --> 01:48:10,782
+Ken Sugar Daddy
+Ken Arete Mágico
+
+188
+01:48:10,866 --> 01:48:11,950
+ESTE PRODUCTO FUE CANCELADO
+Y NO ESTÁ DISPONIBLE PARA ORDENAR
+
+189
+01:48:12,034 --> 01:48:13,327
+DESCONTINUADO
+¡Ken se ve moderno con su arete!
+
+190
+01:48:14,077 --> 01:48:16,622
+Barbie Mermaid Power
+Muñeca Sirena
+
+191
+01:48:23,545 --> 01:48:25,422
+Pequeña hermana de Barbie®
+
+192
+01:48:27,049 --> 01:48:33,055
+Skipper® Niñera
+¡Le encanta abrazar!
+
+193
+01:48:33,972 --> 01:48:36,767
+Barbie Día y Noche
+
+194
+01:48:40,103 --> 01:48:43,524
+Teresa California Dream
+
+195
+01:48:47,528 --> 01:48:52,324
+Totalmente Yoyo Nikki
+
+196
+01:48:53,408 --> 01:48:56,995
+Skipper en Crecimiento
+Es joven y linda.
+
+197
+01:48:57,079 --> 01:49:00,082
+¡Dos muñecas en una!
+¡Alta y curvilínea adolescente!
+
+198
+01:49:01,291 --> 01:49:03,836
+BARBIE VIDEO
+SOY UNA VIDEOCÁMARA
+

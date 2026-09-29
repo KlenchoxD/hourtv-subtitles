@@ -1,0 +1,6304 @@
+1
+00:01:20,109 --> 00:01:22,193
+<i>CONTRASEÑA</i>
+
+2
+00:01:31,788 --> 00:01:33,204
+<i>CONTRASEÑA123</i>
+
+3
+00:01:33,539 --> 00:01:34,788
+<i>CONTRASEÑA1234</i>
+
+4
+00:01:40,796 --> 00:01:42,504
+<i>QWERTY</i>
+
+5
+00:01:42,589 --> 00:01:43,630
+<i>2018</i>
+
+6
+00:01:44,758 --> 00:01:45,758
+<i>LOGIN</i>
+
+7
+00:02:16,665 --> 00:02:18,790
+<i>ENCONTRAR Y UNIRSE
+A UNA RED WI-FI</i>
+
+8
+00:02:27,758 --> 00:02:29,550
+<i>CONECTARSE CON FACEBOOK</i>
+
+9
+00:02:34,724 --> 00:02:35,890
+<i>No.</i>
+
+10
+00:02:35,933 --> 00:02:37,808
+<i>Vete. Vete de aquí.</i>
+
+11
+00:02:53,284 --> 00:02:55,284
+<i>PLAYLIST
+AMAYA</i>
+
+12
+00:03:46,836 --> 00:03:48,127
+<i>COMENZAR PAPAYA</i>
+
+13
+00:03:48,671 --> 00:03:51,255
+<i>ESCUCHANDO...</i>
+
+14
+00:03:52,258 --> 00:03:54,675
+<i>Muy bien. Prueba.</i>
+
+15
+00:03:57,721 --> 00:04:00,013
+<i>A Amaya le va a encantar esto.</i>
+
+16
+00:04:01,642 --> 00:04:03,767
+<i>Bien, eso fue rápido.</i>
+
+17
+00:04:05,271 --> 00:04:06,645
+<i>Bien, veamos aquí.</i>
+
+18
+00:04:06,647 --> 00:04:08,605
+<i>Esta cosa corre mucho más rápido...</i>
+
+19
+00:04:08,607 --> 00:04:11,150
+<i>que mi viejo pedazo de mierda.</i>
+
+20
+00:04:11,152 --> 00:04:13,734
+<i>"MIERDA"
+VOCABULARIO NO ESPECIFICADO</i>
+
+21
+00:04:14,154 --> 00:04:15,528
+<i>De acuerdo.</i>
+
+22
+00:04:16,614 --> 00:04:19,657
+<i>LENGUAJE DE SEÑAS ESTADOUNIDENSE:
+"MIERDA"</i>
+
+23
+00:04:19,659 --> 00:04:20,992
+<i>¿LISTO PARA GRABAR?</i>
+
+24
+00:04:21,161 --> 00:04:24,203
+<i>¡PREPÁRESE!</i>
+
+25
+00:04:24,330 --> 00:04:28,542
+<i>GRABANDO...</i>
+
+26
+00:04:31,213 --> 00:04:32,963
+<i>¡AGREGADA AL DICCIONARIO!</i>
+
+27
+00:04:34,008 --> 00:04:35,674
+<i>Santo cielo.</i>
+
+28
+00:04:49,022 --> 00:04:50,897
+<i>¡Oye! ¿Ya volviste?</i>
+
+29
+00:04:56,321 --> 00:04:57,403
+<i>Sí, iba a tomar una ducha.</i>
+
+30
+00:04:57,489 --> 00:04:59,030
+<i>Te llamaba.</i>
+
+31
+00:04:59,073 --> 00:05:00,948
+<i>Porque quiero mostrarte algo.</i>
+
+32
+00:05:02,076 --> 00:05:04,452
+<i>¿No me puedes enseñar con AJ?</i>
+
+33
+00:05:04,454 --> 00:05:07,370
+<i>Confía en mí.
+Tomará 1 minuto.</i>
+
+34
+00:05:07,414 --> 00:05:11,458
+<i>AMAYA DESOTO ESTÁ LLAMANDO.</i>
+
+35
+00:05:19,385 --> 00:05:21,636
+<i>Ahí estás.</i>
+
+36
+00:05:21,638 --> 00:05:22,929
+<i>Es bueno ver tu cara.</i>
+
+37
+00:05:23,848 --> 00:05:24,639
+<i>¿ENTONCES, ME EXTRAÑASTE?</i>
+
+38
+00:05:24,641 --> 00:05:27,328
+<i>LA PRESENTACIÓN ES LA OTRA SEMANA.
+HICE MI SOLO 5 VECES ESTA NOCHE.
+LOS PIES ME ESTÁN MATANDO.</i>
+
+39
+00:05:27,352 --> 00:05:29,936
+<i>Lo sé, lo sé.</i>
+
+40
+00:05:29,938 --> 00:05:31,686
+<i>Sólo recuerda quién
+tiene dos pulgares...</i>
+
+41
+00:05:31,688 --> 00:05:33,772
+<i>y da los mejores masajes del mundo.</i>
+
+42
+00:05:34,608 --> 00:05:35,565
+<i>TAN TRAVIESO.</i>
+
+43
+00:05:35,567 --> 00:05:38,235
+<i>ENTONCES... ¿QUE QUERÍAS MOSTRARME?</i>
+
+44
+00:05:39,029 --> 00:05:40,195
+<i>Espera.</i>
+
+45
+00:05:41,240 --> 00:05:43,198
+<i>¿REANUDAR LA ESCUCHA?</i>
+
+46
+00:05:43,283 --> 00:05:45,700
+<i>De acuerdo.</i>
+
+47
+00:05:45,702 --> 00:05:47,744
+<i>Así que aún no he
+eliminado todos los bichos.</i>
+
+48
+00:05:47,746 --> 00:05:50,247
+<i>Pero, de acuerdo,
+sabes qué, sólo...</i>
+
+49
+00:05:50,249 --> 00:05:51,331
+<i>¿Estás preparada?</i>
+
+50
+00:05:52,501 --> 00:05:53,583
+<i>De acuerdo.</i>
+
+51
+00:05:53,585 --> 00:05:54,668
+<i>ESCUCHANDO...</i>
+
+52
+00:05:54,670 --> 00:05:56,837
+<i>Tengo una computadora nueva hoy.</i>
+
+53
+00:05:56,839 --> 00:05:59,130
+<i>Es mucho más rápida
+que la anterior.</i>
+
+54
+00:06:03,761 --> 00:06:05,302
+<i>¿Puedes, lo entiendes?</i>
+
+55
+00:06:09,142 --> 00:06:11,143
+<i>Acabo de...
+Acabo de añadir una nueva función.</i>
+
+56
+00:06:11,145 --> 00:06:14,104
+<i>Entonces, cuando la aplicación
+no entiende una palabra,</i>
+
+57
+00:06:14,106 --> 00:06:15,814
+<i>sólo... Sólo tienes que escribirla...</i>
+
+58
+00:06:15,816 --> 00:06:18,024
+<i>y automáticamente te
+conecta con el sitio de ASL,</i>
+
+59
+00:06:18,026 --> 00:06:21,153
+<i>y luego hay un video tutorial
+sobre cómo hacerlo.</i>
+
+60
+00:06:22,739 --> 00:06:24,280
+<i>Maldita sea, maldita sea.
+Espera, espera.</i>
+
+61
+00:06:24,282 --> 00:06:25,322
+<i>Un segundo, lo siento.</i>
+
+62
+00:06:27,869 --> 00:06:29,869
+<i>De todos modos, saqué la idea,</i>
+
+63
+00:06:29,871 --> 00:06:31,745
+<i>de cuando me dijiste
+lo difícil que era...</i>
+
+64
+00:06:31,747 --> 00:06:33,122
+<i>el que me entendieras...</i>
+
+65
+00:06:33,124 --> 00:06:34,623
+<i>cuando estoy en Skype.</i>
+
+66
+00:06:38,754 --> 00:06:40,045
+<i>Entonces, ¿qué te parece?</i>
+
+67
+00:06:45,761 --> 00:06:47,636
+<i>Amaya, ¿puedes...
+Teclear algo?</i>
+
+68
+00:06:49,056 --> 00:06:50,680
+<i>Sabes que no puedo...</i>
+
+69
+00:06:55,228 --> 00:06:59,105
+<i>LO SIENTO, DESEARÍA PODER
+HACER MEJOR LAS SEÑAS.</i>
+
+70
+00:07:12,205 --> 00:07:14,079
+<i>Amaya... Más despacio,</i>
+
+71
+00:07:14,081 --> 00:07:15,956
+<i>hay en tu puerta...</i>
+
+72
+00:07:22,798 --> 00:07:25,215
+<i>Lo siento, sí,
+es la puerta, la puerta.</i>
+
+73
+00:07:27,260 --> 00:07:28,260
+<i>Yo...</i>
+
+74
+00:07:30,972 --> 00:07:33,097
+<i>De acuerdo. Está bien, está bien,
+está bien, está bien.</i>
+
+75
+00:07:33,099 --> 00:07:35,099
+<i>No me voy a mover.</i>
+
+76
+00:07:53,117 --> 00:07:55,493
+<i>No, no, no. Vamos.</i>
+
+77
+00:07:55,495 --> 00:07:56,870
+<i>No, no, no.</i>
+
+78
+00:07:58,249 --> 00:08:00,833
+<i>Vamos... Vamos.
+Ay, mierda...</i>
+
+79
+00:08:00,835 --> 00:08:04,253
+<i>¿Qué te pasa? ¡Arranca, vamos!</i>
+
+80
+00:08:08,175 --> 00:08:12,093
+<i>LA NUEVA LAPTOP ESTÁ FALLANDO.</i>
+
+81
+00:08:14,514 --> 00:08:16,180
+<i>HOLAAAAAAA...</i>
+
+82
+00:08:16,850 --> 00:08:19,559
+<i>Vamos, vamos, vamos, vamos,
+vamos.</i>
+
+83
+00:08:19,644 --> 00:08:24,772
+<i>- LLAMANDO A AMAYA DESOTO.
+- SIN RESPUESTA</i>
+
+84
+00:08:34,701 --> 00:08:36,366
+<i>NARI ACABA DE VOLVER DEL TRABAJO.</i>
+
+85
+00:08:37,327 --> 00:08:38,785
+<i>ESTUVO EN EL TRÁFICO POR 2 HORAS.</i>
+
+86
+00:08:38,787 --> 00:08:41,079
+<i>NARI ESTÁ ENOJADA.</i>
+
+87
+00:08:42,249 --> 00:08:44,207
+<i>PARECE SE ACABO LA NOCHE DE JUEGOS
+POR SKYPE.</i>
+
+88
+00:08:44,209 --> 00:08:47,502
+<i>BUENA SUERTE CONVENCIENDO
+A AJ.</i>
+
+89
+00:08:47,629 --> 00:08:49,255
+<i>CÁLLATE Y CONECTATE.</i>
+
+90
+00:08:49,466 --> 00:08:51,632
+<i>HAREMOS LA NOCHE DE
+JUEGOS EN SKYPE.</i>
+
+91
+00:08:52,051 --> 00:08:55,094
+<i>ASÍ QUE NO TENDRÉ
+QUE USAR PANTALONES.</i>
+
+92
+00:09:02,895 --> 00:09:06,605
+<i>SI QUIERES UNIRTE, A TODOS
+LES ENCANTARÍA VERTE.</i>
+
+93
+00:09:41,641 --> 00:09:43,036
+<i>NUEVO MENSAJE PARA NORAH C. IV
+- TE HE ESPERADO MUCHO TIEMPO.</i>
+
+94
+00:09:43,060 --> 00:09:46,478
+<i>NUEVO MENSAJE PARA NORAH C. IV
+- ¿CUANDO VAMOS FINALMENTE
+A CONOCERNOS?</i>
+
+95
+00:10:31,356 --> 00:10:37,444
+<i>¿QUIÉN ES NORAH C. IV?</i>
+
+96
+00:10:40,533 --> 00:10:42,992
+<i>FINALMENTE ESTÁS EN LÍNEA.</i>
+
+97
+00:11:01,678 --> 00:11:04,846
+<i>¿MANDASTE BOLETOS
+DE AVIÓN?</i>
+
+98
+00:11:04,973 --> 00:11:07,307
+<i>HOLA SEXY,
+¿DÓNDE HAS ESTADO?</i>
+
+99
+00:11:07,517 --> 00:11:09,142
+<i>TENGO MUCHO QUE MOSTRARTE.</i>
+
+100
+00:11:09,186 --> 00:11:12,312
+<i>LOS BOLETOS NO HAN LLEGADO,
+ERES UN BROMISTA.</i>
+
+101
+00:11:20,362 --> 00:11:23,697
+<i>De acuerdo, ¿qué tal...
+Si vamos a lo analógico?</i>
+
+102
+00:11:23,699 --> 00:11:25,699
+<i>- Pequeño doo-doo-doo.
+- Hay un...</i>
+
+103
+00:11:25,701 --> 00:11:27,744
+<i>¿Hay una ronda de calentamiento
+antes de la de AJ?</i>
+
+104
+00:11:27,746 --> 00:11:29,454
+<i>Chicos, le compré esto a
+Nari por su cumpleaños.</i>
+
+105
+00:11:29,456 --> 00:11:32,040
+<i>Porque supongo que estoy
+tratando de compensar.</i>
+
+106
+00:11:32,042 --> 00:11:34,459
+<i>LA CAJA MÁS GRANDE Y NEGRA.
+- Rodando por el suelo
+riéndose de mi trasero.</i>
+
+107
+00:11:34,461 --> 00:11:36,044
+<i>Muy bien...</i>
+
+108
+00:11:36,046 --> 00:11:38,296
+<i>Hola, MTV. Me llamo Kendra.</i>
+
+109
+00:11:38,298 --> 00:11:40,673
+<i>Vivo en Malibú. Me gusta el blanco.</i>
+
+110
+00:11:40,675 --> 00:11:42,508
+<i>Y me encanta pasar un buen rato.</i>
+
+111
+00:11:42,510 --> 00:11:44,718
+<i>Bien, Matias,
+¿quieres ir primero y luego...</i>
+
+112
+00:11:44,720 --> 00:11:48,055
+<i>- Matias.
+- Hola, me llamo Kendra.</i>
+
+113
+00:11:48,057 --> 00:11:50,223
+<i>Soy de Malibú.</i>
+
+114
+00:11:50,225 --> 00:11:53,226
+<i>Me gusta tener sexo
+encima de una pizza.</i>
+
+115
+00:11:53,228 --> 00:11:56,395
+<i>Y me encanta pasar un buen rato.</i>
+
+116
+00:11:56,397 --> 00:11:58,356
+<i>Hola, me llamo Kendra.
+Soy de Malibú.</i>
+
+117
+00:11:58,358 --> 00:12:00,358
+<i>Estoy realmente metida en
+la destrucción sistemática...</i>
+
+118
+00:12:00,360 --> 00:12:02,443
+<i>de todo un pueblo y
+su forma de vida...</i>
+
+119
+00:12:06,741 --> 00:12:09,407
+<i>y estoy lista para
+pasar un buen rato.</i>
+
+120
+00:12:11,620 --> 00:12:13,745
+<i>Hola, mi nombre es Kendra.</i>
+
+121
+00:12:13,747 --> 00:12:15,580
+<i>Soy de Malibú,</i>
+
+122
+00:12:15,582 --> 00:12:19,292
+<i>y me gusta inhalar coca de
+la erección de un payaso y...</i>
+
+123
+00:12:19,294 --> 00:12:21,504
+<i>- ¿Qué?
+- Me encanta pasar un buen rato.</i>
+
+124
+00:12:21,506 --> 00:12:26,259
+<i>Matias,
+puedo ver los poros de tu cara.</i>
+
+125
+00:12:26,261 --> 00:12:29,428
+<i>- ¿Qué está pasando allí?
+- Pero en el buen sentido.</i>
+
+126
+00:12:29,430 --> 00:12:32,515
+<i>Eso parece como si estuvieras
+llamando desde el año 2018.</i>
+
+127
+00:12:32,517 --> 00:12:34,516
+<i>Quiero decir,
+son 30 cuadros por segundo.</i>
+
+128
+00:12:34,518 --> 00:12:36,143
+<i>No creo que estén listos para esto.</i>
+
+129
+00:12:36,145 --> 00:12:37,602
+<i>Dios mío, y hasta en estéreo.</i>
+
+130
+00:12:37,604 --> 00:12:39,771
+<i>Tengo una nueva laptop.</i>
+
+131
+00:12:39,773 --> 00:12:41,106
+<i>¿Qué, realmente nueva?</i>
+
+132
+00:12:41,108 --> 00:12:43,108
+<i>Es como nueva, sí.</i>
+
+133
+00:12:43,110 --> 00:12:45,277
+<i>Sí, Craigslist.</i>
+
+134
+00:12:45,279 --> 00:12:46,945
+<i>Pero desafortunadamente,
+todo el mundo ahora,</i>
+
+135
+00:12:46,947 --> 00:12:48,405
+<i>porque pueden ver
+cómo eres realmente,</i>
+
+136
+00:12:48,407 --> 00:12:51,533
+<i>todo el mundo en Facebook, es como,
+blup, removerlo a él como amigo.</i>
+
+137
+00:12:51,535 --> 00:12:54,661
+<i>¿Y qué? ¿Van a venir o qué?</i>
+
+138
+00:12:54,663 --> 00:12:56,538
+<i>Íbamos a ir...</i>
+
+139
+00:12:56,540 --> 00:12:58,290
+<i>- pero entonces...
+- ¡No!</i>
+
+140
+00:12:58,292 --> 00:13:00,666
+<i>Empecé a tener algunos
+problemas severos...</i>
+
+141
+00:13:00,668 --> 00:13:02,376
+<i>- ¡No!
+- Acidez estomacal y...</i>
+
+142
+00:13:02,378 --> 00:13:04,253
+<i>Te dije que iba a hacer esto.</i>
+
+143
+00:13:04,255 --> 00:13:05,754
+<i>Nunca me rindo cuando
+es en uno de los tuyos.</i>
+
+144
+00:13:05,756 --> 00:13:06,839
+<i>Lexx, vamos, ayúdame.</i>
+
+145
+00:13:06,841 --> 00:13:08,132
+<i>Quiero decir,
+estoy bien con Skype.</i>
+
+146
+00:13:08,134 --> 00:13:10,551
+<i>Es el metro y el autobús
+de mi casa, así que...</i>
+
+147
+00:13:10,553 --> 00:13:11,635
+<i>Skype claramente
+funciona para mí...</i>
+
+148
+00:13:11,637 --> 00:13:14,222
+<i>Ustedes son tan viejos.</i>
+
+149
+00:13:14,224 --> 00:13:16,850
+<i>AJ, es... AJ, son las 3:00
+de la mañana en Londres.</i>
+
+150
+00:13:16,852 --> 00:13:18,643
+<i>Damon se quedó
+despierto sólo por ti.</i>
+
+151
+00:13:18,645 --> 00:13:20,520
+<i>Vamos, chicos, chicos,</i>
+
+152
+00:13:20,522 --> 00:13:22,647
+<i>tengo patatas fritas y salsas.</i>
+
+153
+00:13:22,649 --> 00:13:24,775
+<i>Y yo,</i>
+
+154
+00:13:24,777 --> 00:13:25,817
+<i>tengo a un asesino...</i>
+
+155
+00:13:25,819 --> 00:13:27,234
+<i>Tengo algunos amigos asesinos.</i>
+
+156
+00:13:27,236 --> 00:13:29,236
+<i>¿Algo de qué? Dilo más alto.</i>
+
+157
+00:13:29,238 --> 00:13:30,654
+<i>¿Qué?</i>
+
+158
+00:13:30,656 --> 00:13:32,656
+<i>¿Qué? ¿Qué?</i>
+
+159
+00:13:32,658 --> 00:13:34,492
+<i>Tengo un amigo asesino.</i>
+
+160
+00:13:34,494 --> 00:13:37,703
+<i>Sí, lo sé. Te oí. Sólo quería
+que Linda también lo oyera.</i>
+
+161
+00:13:37,705 --> 00:13:39,330
+<i>Ella no va a...</i>
+
+162
+00:13:39,332 --> 00:13:42,166
+<i>Todavía cree que la
+marihuana es ilegal aquí.</i>
+
+163
+00:13:42,877 --> 00:13:45,336
+<i>Y también, Serena, hola,</i>
+
+164
+00:13:45,338 --> 00:13:46,670
+<i>te corté un tazón de conejo.</i>
+
+165
+00:13:49,592 --> 00:13:50,592
+<i>¿En serio?</i>
+
+166
+00:14:23,166 --> 00:14:25,542
+<i>¡NO PUEDO ESPERAR A VERTE!</i>
+
+167
+00:14:25,544 --> 00:14:28,962
+<i>¿CUANDO ENVIARÁS
+EL BOLETO DE AVIÓN?</i>
+
+168
+00:14:28,964 --> 00:14:31,339
+<i>¡DIJISTE QUE LO PAGARÍAS!</i>
+
+169
+00:14:47,273 --> 00:14:49,857
+<i>Y tercero, chicos,
+¿cuántas veces tengo que decirlo?</i>
+
+170
+00:14:49,859 --> 00:14:51,942
+<i>No es sólo el Gobierno.</i>
+
+171
+00:14:51,944 --> 00:14:54,903
+<i>Son los circadianos
+y los Bilderberg.</i>
+
+172
+00:14:54,905 --> 00:14:57,322
+<i>Y los Iluminati y
+las corporaciones.</i>
+
+173
+00:14:57,324 --> 00:14:59,909
+<i>¿Por qué creen que Facebook
+y Twitter son gratuitos?</i>
+
+174
+00:14:59,911 --> 00:15:02,579
+<i>- Porque ustedes son el producto.
+- Porque nosotros somos el producto.</i>
+
+175
+00:15:02,581 --> 00:15:05,790
+<i>¡Sí! ¡Son dueños de
+todo lo que publican!</i>
+
+176
+00:15:05,792 --> 00:15:07,459
+<i>Y todo el mundo lo asume,</i>
+
+177
+00:15:07,461 --> 00:15:09,752
+<i>"son sólo...
+Son sólo fotos y esa mierda".</i>
+
+178
+00:15:09,754 --> 00:15:12,114
+<i>Todo lo que realmente les importa
+es la publicidad dirigida.</i>
+
+179
+00:15:13,215 --> 00:15:14,465
+<i>NO ES PARANOIA SI TODO
+EL MUNDO QUIERE ATRAPARLO.</i>
+
+180
+00:15:14,467 --> 00:15:17,009
+<i>SI DICE CAMBRIDGE ANALYTICA
+UNA VEZ MÁS...</i>
+
+181
+00:15:17,470 --> 00:15:18,677
+<i>¿TE ESTRELLASTE O ALGO?</i>
+
+182
+00:15:18,721 --> 00:15:20,401
+<i>RECIBIENDO LA PELOTA
+DE PLAYA DE LA MUERTE.</i>
+
+183
+00:15:20,848 --> 00:15:22,389
+<i>YA HA PASADO ALGUNAS VECES.</i>
+
+184
+00:15:22,600 --> 00:15:24,600
+<i>ESO ME PASA POR COMPRAR
+EN CRAIGLIST.</i>
+
+185
+00:15:26,187 --> 00:15:29,772
+<i>POR LO GENERAL SIGNIFICA QUE EL
+DISCO DURO ESTARÁ LLENO.</i>
+
+186
+00:15:30,983 --> 00:15:35,444
+<i>Y ellos sólo... ¡¿Hola?!</i>
+
+187
+00:15:35,446 --> 00:15:37,321
+<i>No, no, estoy aquí.
+Quiero decir, sigue adelante.</i>
+
+188
+00:15:37,323 --> 00:15:39,322
+<i>Bueno, van a venir,
+los van a atrapar,</i>
+
+189
+00:15:39,324 --> 00:15:41,324
+<i>y luego es sólo sayonara, ya saben.</i>
+
+190
+00:15:41,326 --> 00:15:42,867
+<i>Es... ¡Eso es!</i>
+
+191
+00:15:42,869 --> 00:15:44,577
+<i>No son sólo tiburones ahí abajo,
+chicos.</i>
+
+192
+00:15:44,579 --> 00:15:48,331
+<i>Hay leviatanes y Krakens y colosos.</i>
+
+193
+00:15:48,333 --> 00:15:50,708
+<i>Bien, creo que el plural
+apropiado es "colossi", amigo.</i>
+
+194
+00:15:50,919 --> 00:15:51,877
+<i>BINGO</i>
+
+195
+00:15:51,921 --> 00:15:54,129
+<i>EL DISCO DURO DEFINITIVAMENTE
+ESTÁ LLENO.</i>
+
+196
+00:15:54,173 --> 00:15:56,507
+<i>PERO NO VEO NINGÚN ARCHIVO.</i>
+
+197
+00:15:58,719 --> 00:16:00,613
+<i>PUEDE SER EL CACHÉ DEL NAVEGADOR
+MEMORIA VIRTUAL, ARCHIVOS OCULTOS.</i>
+
+198
+00:16:00,637 --> 00:16:02,804
+<i>CORRE ESTA APP.</i>
+
+199
+00:16:03,348 --> 00:16:05,430
+<i>(EN SERIO, A AJ LE FALTAN
+SUS MEDICAMENTOS.:)</i>
+
+200
+00:16:05,432 --> 00:16:06,848
+<i>con las que les gusta andar,</i>
+
+201
+00:16:06,850 --> 00:16:08,809
+<i>pueden rastrearte a través de eso.</i>
+
+202
+00:16:08,811 --> 00:16:10,477
+<i>¿Qué estás haciendo, Lexx?</i>
+
+203
+00:16:10,479 --> 00:16:11,853
+<i>Vamos.</i>
+
+204
+00:16:11,855 --> 00:16:13,355
+<i>Basta. No tiene gracia.</i>
+
+205
+00:16:13,357 --> 00:16:14,523
+<i>Bien jugado. Bien jugado.</i>
+
+206
+00:16:14,525 --> 00:16:18,819
+<i>No es gracioso, Serena.</i>
+
+207
+00:16:18,821 --> 00:16:20,028
+<i>¡Ayúdenme!</i>
+
+208
+00:16:20,030 --> 00:16:22,489
+<i>Sólo quiero...</i>
+
+209
+00:16:22,491 --> 00:16:24,699
+<i>¡qué se lo metan en la cabeza!</i>
+
+210
+00:16:28,622 --> 00:16:29,663
+<i>Algún día.</i>
+
+211
+00:16:29,665 --> 00:16:30,747
+<i>¿Algún día qué?</i>
+
+212
+00:16:30,749 --> 00:16:33,040
+<i>¿Esperas que nos coman?</i>
+
+213
+00:16:33,042 --> 00:16:35,000
+<i>No, en realidad,
+espero que no lo hagan.</i>
+
+214
+00:16:35,002 --> 00:16:36,627
+<i>¡Estás preocupado!</i>
+
+215
+00:16:36,629 --> 00:16:38,087
+<i>¿PODEMOS HABLAR?</i>
+
+216
+00:16:40,883 --> 00:16:42,925
+<i>QUIERO ARREGLAR ESTO.</i>
+
+217
+00:16:42,927 --> 00:16:44,761
+<i>QUIERO QUE FUNCIONEMOS.</i>
+
+218
+00:16:49,476 --> 00:16:52,394
+<i>¡No! ¡No!</i>
+
+219
+00:16:52,396 --> 00:16:54,688
+<i>No...</i>
+
+220
+00:16:54,690 --> 00:16:57,441
+<i>- ¿Qué fue eso?
+- Ese fue mi...</i>
+
+221
+00:16:57,443 --> 00:17:01,819
+<i>Esa es mi impresión de Nari
+siendo atacada por un idiota.</i>
+
+222
+00:17:01,821 --> 00:17:03,571
+<i>Cierto.</i>
+
+223
+00:17:07,577 --> 00:17:09,076
+<i>Sí.</i>
+
+224
+00:17:09,787 --> 00:17:11,704
+<i>¿SABES COMO REVELAR
+CARPETAS OCULTAS?</i>
+
+225
+00:17:14,834 --> 00:17:15,583
+<i>ESCRIBE POR DEFAULT...</i>
+
+226
+00:17:15,585 --> 00:17:17,877
+<i>LUEGO ENTER.
+SACAR LO QUE ENCUENTRE.
+USA LA TERMINAL.</i>
+
+227
+00:17:29,473 --> 00:17:30,763
+<i>¿Nadie se ofende por...</i>
+
+228
+00:17:31,558 --> 00:17:33,266
+<i>SIN TÍTULO</i>
+
+229
+00:18:26,862 --> 00:18:28,695
+<i>¡Esperen, esperen! ¡Esperen!
+Aguarden.</i>
+
+230
+00:18:28,697 --> 00:18:30,197
+<i>Voy a pasarlo ahora, ¿de acuerdo?
+Miren esto.</i>
+
+231
+00:18:30,199 --> 00:18:32,158
+<i>Acabo de recibir estos
+nuevos altavoces.</i>
+
+232
+00:18:34,704 --> 00:18:36,496
+<i>¡Bájale el volumen!</i>
+
+233
+00:18:36,498 --> 00:18:38,957
+<i>- AJ, ¡bájale!
+- Está bien. Está bien.</i>
+
+234
+00:18:38,959 --> 00:18:40,834
+<i>Está bien. Está bien.
+Esperen, esperen. Esperen.</i>
+
+235
+00:18:40,836 --> 00:18:42,877
+<i>¿Vieron eso?
+Miren mi nueva caja.</i>
+
+236
+00:18:42,879 --> 00:18:44,169
+<i>¡Bam! ¡Bam!</i>
+
+237
+00:18:44,171 --> 00:18:46,588
+<i>¡Bam! ¿Sí, verdad?</i>
+
+238
+00:18:46,590 --> 00:18:49,091
+<i>Te encantaría cómo suena
+tu mierda de cerca, Lexx,</i>
+
+239
+00:18:49,093 --> 00:18:51,593
+<i>o lo harías, si fueras a venir,
+pero no lo harás.</i>
+
+240
+00:18:51,595 --> 00:18:54,096
+<i>No puedo. El metro y el autobús
+desde mi casa, ¿recuerdas?</i>
+
+241
+00:18:54,098 --> 00:18:56,890
+<i>Antes de empezar, hay algo...</i>
+
+242
+00:18:56,892 --> 00:18:59,017
+<i>que queremos decirles.</i>
+
+243
+00:18:59,019 --> 00:19:00,561
+<i>¡Espera, espera, espera!</i>
+
+244
+00:19:00,563 --> 00:19:01,728
+<i>¿Esperamos a Amaya?</i>
+
+245
+00:19:01,730 --> 00:19:03,730
+<i>No creo que Amaya vaya a venir.</i>
+
+246
+00:19:06,235 --> 00:19:10,111
+<i>- ¡Bam!
+- ¡Sí!</i>
+
+247
+00:19:10,113 --> 00:19:13,865
+<i>¡Bam!</i>
+
+248
+00:19:13,867 --> 00:19:15,658
+<i>- Eso es increíble.
+- ¿Puedo...? ¿Puedo verlo?</i>
+
+249
+00:19:15,660 --> 00:19:18,077
+<i>- Más cerca. Más cerca.
+- ¡Más cerca, más cerca, más cerca!</i>
+
+250
+00:19:18,079 --> 00:19:19,537
+<i>Quiero verlo.</i>
+
+251
+00:19:19,539 --> 00:19:21,164
+<i>Es grandioso.</i>
+
+252
+00:19:21,166 --> 00:19:22,790
+<i>Estoy tan feliz por ustedes.</i>
+
+253
+00:19:22,792 --> 00:19:24,460
+<i>- Ella me lo pidió.
+- De acuerdo, no, no, no, no, no, espera,</i>
+
+254
+00:19:24,462 --> 00:19:26,462
+<i>tienes que contarnos todo.</i>
+
+255
+00:19:26,464 --> 00:19:29,548
+<i>Estaba tomando mi taza
+matutina de té inspirador...</i>
+
+256
+00:19:29,550 --> 00:19:32,134
+<i>y me tomé hasta la última parte.</i>
+
+257
+00:19:32,136 --> 00:19:34,178
+<i>Básicamente,
+casi me atraganto con esto.</i>
+
+258
+00:19:34,180 --> 00:19:35,471
+<i>Porque estaba en la taza.</i>
+
+259
+00:19:35,473 --> 00:19:37,930
+<i>¿Estabas viéndola
+beber todo el tiempo,</i>
+
+260
+00:19:37,932 --> 00:19:39,849
+<i>pensando,
+"lo va a encontrar pronto"?</i>
+
+261
+00:19:39,851 --> 00:19:42,518
+<i>Bueno, sí. Pero...
+Ella pone leche en su té, ya sabes.</i>
+
+262
+00:19:42,520 --> 00:19:44,562
+<i>- Así que está pañoso.
+- Genial, chicas.</i>
+
+263
+00:19:44,564 --> 00:19:46,063
+<i>Es el anillo de mi madre.</i>
+
+264
+00:19:46,065 --> 00:19:48,107
+<i>- ¿Es el anillo de tu madre?
+- Eso es, eso es...</i>
+
+265
+00:19:48,109 --> 00:19:49,901
+<i>¡Dios mío! ¿Tú...? Espera, tú,</i>
+
+266
+00:19:49,903 --> 00:19:52,612
+<i>¿le pediste permiso al
+padre de Nari y lo filmaste?</i>
+
+267
+00:19:52,614 --> 00:19:54,864
+<i>Por favor, dí que lo hiciste,
+porque Dios mío, yo sólo...</i>
+
+268
+00:19:54,866 --> 00:19:57,116
+<i>Me encantó la expresión de
+su cara cuando se enteró...</i>
+
+269
+00:19:57,118 --> 00:19:59,744
+<i>que ustedes dos no eran
+compañeras de piso y yo...</i>
+
+270
+00:19:59,746 --> 00:20:01,496
+<i>Me encantaría ver eso.</i>
+
+271
+00:20:01,498 --> 00:20:02,871
+<i>AJ, no es el momento.</i>
+
+272
+00:20:02,873 --> 00:20:04,122
+<i>Fue genial cuando
+te enfrentaste a él,</i>
+
+273
+00:20:04,124 --> 00:20:07,501
+<i>eso es todo lo que digo. Fue dulce.</i>
+
+274
+00:20:07,503 --> 00:20:10,045
+<i>Serena, ¿está tu...?
+¿Está tu madre emocionada?</i>
+
+275
+00:20:11,632 --> 00:20:15,257
+<i>- Sí, está muy emocionada.
+- Genial.</i>
+
+276
+00:20:15,259 --> 00:20:18,595
+<i>Yo sólo... Ya saben...</i>
+
+277
+00:20:21,767 --> 00:20:24,810
+<i>El cáncer ha progresado, así que...</i>
+
+278
+00:20:24,812 --> 00:20:27,729
+<i>Es...</i>
+
+279
+00:20:27,731 --> 00:20:29,688
+<i>se ha movido a su cerebro y,</i>
+
+280
+00:20:29,690 --> 00:20:31,607
+<i>la tienen con soporte vital,
+sin embargo,</i>
+
+281
+00:20:31,609 --> 00:20:33,943
+<i>y realmente están intentando
+un tratamiento agresivo,</i>
+
+282
+00:20:33,945 --> 00:20:34,985
+<i>así que es...</i>
+
+283
+00:20:37,073 --> 00:20:38,614
+<i>Ojalá se lo hubiera pedido antes.</i>
+
+284
+00:20:38,616 --> 00:20:40,950
+<i>Para tener más tiempo, ya saben.</i>
+
+285
+00:20:42,870 --> 00:20:45,788
+<i>Recuerdo cuando tuve que
+sacrificar a mi perro.</i>
+
+286
+00:20:54,632 --> 00:20:57,090
+<i>¡Dios mío! Eres tan malo en esto.</i>
+
+287
+00:20:57,092 --> 00:21:00,176
+<i>Estoy tan... No, estoy tan emocionado
+por ustedes, no tienen idea.</i>
+
+288
+00:21:00,178 --> 00:21:03,972
+<i>Siempre pensé que Matias y Amaya
+serían los primeros en...</i>
+
+289
+00:21:06,226 --> 00:21:09,311
+<i>Buena recuperación, amigo,
+pero aún así apesta.</i>
+
+290
+00:21:09,313 --> 00:21:12,440
+<i>POR FAVOR, AMAYA,
+¿PODEMOS HABLAR?</i>
+
+291
+00:21:16,028 --> 00:21:17,153
+<i>¿Qué es ese sonido?</i>
+
+292
+00:21:17,155 --> 00:21:18,737
+<i>Iglesia Vida Universal,</i>
+
+293
+00:21:18,739 --> 00:21:20,322
+<i>completamente certificada,
+tomó cinco minutos en línea,</i>
+
+294
+00:21:20,324 --> 00:21:22,115
+<i>puedo casarlas a ustedes,
+es cierto.</i>
+
+295
+00:21:22,117 --> 00:21:23,908
+<i>¿Eso dice "oficiante de bodas"?</i>
+
+296
+00:21:23,910 --> 00:21:25,702
+<i>- Sí.
+- Sí, no hay nada...</i>
+
+297
+00:21:25,704 --> 00:21:27,370
+<i>más romántico, que ser casada...</i>
+
+298
+00:21:27,372 --> 00:21:29,289
+<i>por el último tipo con
+el que te acostaste.</i>
+
+299
+00:21:29,291 --> 00:21:31,916
+<i>Sería el único tipo, Lexx.</i>
+
+300
+00:21:34,254 --> 00:21:35,962
+<i>¿Nari?</i>
+
+301
+00:21:37,841 --> 00:21:38,840
+<i>¿Nari?</i>
+
+302
+00:21:38,842 --> 00:21:40,133
+<i>LA CAMINATA QUE LO
+CAMBIÓ TODO</i>
+
+303
+00:21:40,135 --> 00:21:41,801
+<i>Nari...</i>
+
+304
+00:21:45,390 --> 00:21:46,931
+<i>No, no.</i>
+
+305
+00:21:56,150 --> 00:21:59,318
+<i>Este es el lugar favorito
+de Amaya para el atardecer.</i>
+
+306
+00:22:09,372 --> 00:22:10,914
+<i>¿Qué?</i>
+
+307
+00:22:42,362 --> 00:22:46,948
+<i>AMAYA DESOTO ESTÁ LLAMANDO.</i>
+
+308
+00:22:51,412 --> 00:22:53,955
+<i>Hola.</i>
+
+309
+00:22:53,957 --> 00:22:56,834
+<i>Mira, sé que estás enfadada
+conmigo, y sé que ambos...</i>
+
+310
+00:22:56,836 --> 00:22:58,752
+<i>ambos hemos estado ocupados,
+pero siento que...</i>
+
+311
+00:22:58,754 --> 00:23:00,963
+<i>MÁS DESPACIO, NO PUEDO
+LEERTE LOS LABIOS.</i>
+
+312
+00:23:01,841 --> 00:23:04,299
+<i>Lo sé, yo... He estado pasando...</i>
+
+313
+00:23:04,301 --> 00:23:05,426
+<i>mucho tiempo en esta aplicación,</i>
+
+314
+00:23:05,428 --> 00:23:07,219
+<i>pero lo he estado haciendo...</i>
+
+315
+00:23:07,221 --> 00:23:08,886
+<i>para que podamos...</i>
+
+316
+00:23:08,888 --> 00:23:10,638
+<i>Para que podamos
+comunicarnos mejor.</i>
+
+317
+00:23:10,640 --> 00:23:13,891
+<i>NO AYUDARÁ A COMUNICARSE MEJOR.</i>
+
+318
+00:23:16,354 --> 00:23:17,937
+<i>Amaya.</i>
+
+319
+00:23:17,939 --> 00:23:19,897
+<i>ME AYUDA A ENTENDERTE.</i>
+
+320
+00:23:21,734 --> 00:23:24,735
+<i>NO TE AYUDA A
+ENTENDERME A MÍ.</i>
+
+321
+00:23:29,117 --> 00:23:31,742
+<i>TE INSCRIBÍ PARA ESAS CLASES DE...</i>
+
+322
+00:23:31,744 --> 00:23:35,120
+<i>LENGUAJE DE SEÑAS
+Y NI SIQUIERA FUISTE.</i>
+
+323
+00:23:35,122 --> 00:23:38,707
+<i>Fuí... Fuí a la clase de ASL...</i>
+
+324
+00:23:45,924 --> 00:23:47,675
+<i>No. No, sólo estoy...</i>
+
+325
+00:23:55,393 --> 00:23:57,101
+<i>¡Amaya!</i>
+
+326
+00:24:08,197 --> 00:24:09,446
+<i>¿QUIÉN COJONES ERES?</i>
+
+327
+00:24:09,740 --> 00:24:10,947
+<i>Maldita sea.</i>
+
+328
+00:24:12,493 --> 00:24:17,329
+<i>LA PERSONA A LA QUE LE
+ROBASTE SU LAPTOP.</i>
+
+329
+00:24:33,136 --> 00:24:37,222
+<i>NO LA ROBÉ.
+LA COMPRÉ.</i>
+
+330
+00:24:37,265 --> 00:24:39,307
+<i>¡MENTIRA!</i>
+
+331
+00:24:39,351 --> 00:24:43,145
+<i>NO MIENTO ERICA,
+LA COMPRÉ.</i>
+
+332
+00:24:43,189 --> 00:24:45,106
+<i>NO SOY ERICA.</i>
+
+333
+00:24:45,358 --> 00:24:47,858
+<i>ERICA ES MI AMIGA.</i>
+
+334
+00:24:47,902 --> 00:24:50,444
+<i>ESTOY CON ELLA AHORA.</i>
+
+335
+00:24:50,446 --> 00:24:52,780
+<i>SOY NORAH C.</i>
+
+336
+00:24:52,824 --> 00:24:54,781
+<i>LA CONSEGUÍ EN CRAIGSLIST.</i>
+
+337
+00:24:54,783 --> 00:24:56,950
+<i>EL TIPO ME LA VENDIÓ BARATA,</i>
+
+338
+00:24:56,993 --> 00:25:00,537
+<i>QUIZÁS ÉL LA ROBO.</i>
+
+339
+00:25:02,082 --> 00:25:07,335
+<i>MÁNDAME EL LINK DE LA VENTA.</i>
+
+340
+00:25:09,756 --> 00:25:11,840
+<i>SÍ, ESO PENSÉ.</i>
+
+341
+00:25:11,883 --> 00:25:16,970
+<i>¡ERES UN LADRÓN!</i>
+
+342
+00:25:34,448 --> 00:25:40,994
+<i>LA DEJARÉ, DONDE LA ENCONTRÉ.</i>
+
+343
+00:25:41,037 --> 00:25:43,913
+<i>ME IRÉ AHORA.</i>
+
+344
+00:25:47,585 --> 00:25:49,001
+<i>MOVER A PAPELERA</i>
+
+345
+00:25:50,671 --> 00:25:53,630
+<i>VACIAR PAPELERA</i>
+
+346
+00:25:57,386 --> 00:26:00,304
+<i>BORRAR HISTORIAL</i>
+
+347
+00:26:04,059 --> 00:26:05,934
+<i>Oigan, chicos,
+voy a salir muy rápido.</i>
+
+348
+00:26:05,936 --> 00:26:08,020
+<i>¿Qué pasa? ¿Adónde vas?</i>
+
+349
+00:26:08,022 --> 00:26:10,981
+<i>Sí, sí.
+Sí, se los explicaré más tarde.</i>
+
+350
+00:26:10,983 --> 00:26:12,357
+<i>Muy bien. Adiós, entonces.</i>
+
+351
+00:26:12,359 --> 00:26:14,609
+<i>¿Está todo bien, Matias?</i>
+
+352
+00:26:14,611 --> 00:26:17,361
+<i>A veces ese tipo...</i>
+
+353
+00:26:17,363 --> 00:26:21,324
+<i>Yo creo en la verdad y
+Damon cree en las mentiras.</i>
+
+354
+00:26:22,786 --> 00:26:27,247
+<i>ME GUSTA LO QUE HAS
+CONTRIBUIDO ESTA SEMANA, NORAH.</i>
+
+355
+00:26:27,291 --> 00:26:30,125
+<i>¿AÚN HACES TRABAJOS POR ENCARGO?</i>
+
+356
+00:26:30,127 --> 00:26:33,670
+<i>DUPLICARÉ TU PAGA.
+QUIERO ALGO ESPECIAL.</i>
+
+357
+00:26:33,672 --> 00:26:38,425
+<i>ACABO DE PROCESAR LA TRANSFERENCIA,
+LO TENDRÁS PRONTO.</i>
+
+358
+00:26:55,485 --> 00:26:57,735
+<i>¿QUÉ DESEAS?</i>
+
+359
+00:27:04,285 --> 00:27:09,037
+<i>NO POR FACEBOOK.
+HABLAREMOS EN THE RIVER.</i>
+
+360
+00:27:14,753 --> 00:27:17,587
+<i>THE RIVER</i>
+
+361
+00:27:20,844 --> 00:27:23,219
+<i>¿ALGUNA VEZ HAS OÍDO
+DE THE RIVER?</i>
+
+362
+00:27:27,100 --> 00:27:29,892
+<i>NO, ¿QUÉ ES ESO?</i>
+
+363
+00:27:37,568 --> 00:27:40,861
+<i>CONECTANDO A THE RIVER</i>
+
+364
+00:27:46,326 --> 00:27:48,160
+<i>Está bien. No, no, no es imposible,</i>
+
+365
+00:27:48,162 --> 00:27:49,619
+<i>es sólo... Es improbable, pero...</i>
+
+366
+00:27:49,621 --> 00:27:51,997
+<i>Gracias, Capitán Spock.</i>
+
+367
+00:27:51,999 --> 00:27:54,040
+<i>Es el Embajador Spock.</i>
+
+368
+00:27:54,042 --> 00:27:55,751
+<i>Y no somos nada sin
+nuestra cadena de mando.</i>
+
+369
+00:27:55,753 --> 00:28:00,004
+<i>Eres un nerd, amigo.</i>
+
+370
+00:28:00,006 --> 00:28:02,423
+<i>Oye, ¿qué pasa?</i>
+
+371
+00:28:02,425 --> 00:28:05,134
+<i>Suena como si alguien
+estuviera meditando o algo así.</i>
+
+372
+00:28:05,136 --> 00:28:07,261
+<i>Matias, ¿estás bien?</i>
+
+373
+00:28:07,263 --> 00:28:09,054
+<i>Pensé que ibas a ir a algún lado.</i>
+
+374
+00:28:09,056 --> 00:28:10,473
+<i>¿Qué está pasando?</i>
+
+375
+00:28:19,234 --> 00:28:22,110
+<i>ALGO RARO ACABA DE PASAR.</i>
+
+376
+00:28:23,113 --> 00:28:25,362
+<i>Amigo, Matias, ¿qué pasa?</i>
+
+377
+00:28:25,364 --> 00:28:28,032
+<i>¿Quieres compartir...
+Compartir tu pantalla, amigo?</i>
+
+378
+00:28:32,038 --> 00:28:35,371
+<i>Parece que el wallpaper
+se está moviendo.</i>
+
+379
+00:28:35,415 --> 00:28:37,707
+<i>Sí, lo hace.
+Cambió cuando me conecté.</i>
+
+380
+00:28:37,709 --> 00:28:39,459
+<i>¿Conectado a qué?</i>
+
+381
+00:28:39,461 --> 00:28:42,462
+<i>No tengo ni idea, una cosa
+llamada The River.</i>
+
+382
+00:28:44,216 --> 00:28:46,382
+<i>Muy bien.
+Es una red de superposición.</i>
+
+383
+00:28:46,384 --> 00:28:48,218
+<i>La has estado haciendo
+rebotar por todas partes.</i>
+
+384
+00:28:48,220 --> 00:28:50,386
+<i>- ¿Qué es una red de superposición?
+- Oye, Damon,</i>
+
+385
+00:28:50,430 --> 00:28:52,429
+<i>Damon, tienes que traducir eso,
+hombre.</i>
+
+386
+00:28:52,431 --> 00:28:54,556
+<i>Lo siento,</i>
+
+387
+00:28:54,600 --> 00:28:56,725
+<i>es para que nadie pueda rastrearte.</i>
+
+388
+00:28:56,769 --> 00:28:58,393
+<i>¡Mierda! Esto es...</i>
+
+389
+00:28:58,437 --> 00:29:01,396
+<i>- Amigo, esto es la Web Oscura.
+- Sí, probablemente.</i>
+
+390
+00:29:01,398 --> 00:29:03,585
+<i>- Damon, ¿qué es la Web Oscura?
+- Es parte de la Internet.</i>
+
+391
+00:29:03,609 --> 00:29:06,569
+<i>Que no es o no puede ser indexada
+por un motor de búsqueda.</i>
+
+392
+00:29:06,613 --> 00:29:09,155
+<i>Es donde se encuentran los mercados
+para la mierda mala, básicamente,</i>
+
+393
+00:29:09,157 --> 00:29:11,407
+<i>como, Silk Road.
+Damon, tú lo sabes.</i>
+
+394
+00:29:11,451 --> 00:29:13,096
+<i>Todo era sobre drogas,
+identificaciones ilegales,</i>
+
+395
+00:29:13,120 --> 00:29:14,452
+<i>tarjetas de crédito robadas,
+exploits,</i>
+
+396
+00:29:14,454 --> 00:29:16,079
+<i>incluso un asesinato por encargo.</i>
+
+397
+00:29:16,081 --> 00:29:17,330
+<i>Lolita City, que es todo
+sobre pornografía infantil...</i>
+
+398
+00:29:17,332 --> 00:29:19,456
+<i>- y, como, ficción de fans...
+- De acuerdo, AJ, lo entendemos.</i>
+
+399
+00:29:19,458 --> 00:29:21,542
+<i>- Sí, definitivamente... Sí.
+- Sí, tal vez deberías...</i>
+
+400
+00:29:21,544 --> 00:29:24,086
+<i>dejar eso en paz, Matias.</i>
+
+401
+00:29:28,843 --> 00:29:30,300
+<i>De acuerdo.</i>
+
+402
+00:29:30,302 --> 00:29:32,428
+<i>Parece un PBS a la vieja escuela.</i>
+
+403
+00:29:32,430 --> 00:29:35,180
+<i>Caronte es el barquero
+de los muertos.</i>
+
+404
+00:29:41,147 --> 00:29:43,522
+<i>"El barquero de
+Hades que lleva almas...</i>
+
+405
+00:29:43,524 --> 00:29:46,357
+<i>de los recién fallecidos al
+otro lado del río Estiga"...</i>
+
+406
+00:29:46,359 --> 00:29:48,484
+<i>Estigia, lo siento.</i>
+
+407
+00:29:48,486 --> 00:29:50,319
+<i>"... y el Aqueronte que divide...</i>
+
+408
+00:29:50,321 --> 00:29:53,489
+<i>el mundo de los vivos,
+del mundo de los muertos".</i>
+
+409
+00:29:56,619 --> 00:29:58,620
+<i>Amigo, ¿de quién es la
+computadora que compraste?</i>
+
+410
+00:29:58,622 --> 00:30:02,249
+<i>No... No la compré.</i>
+
+411
+00:30:02,251 --> 00:30:05,169
+<i>Hay,
+hay un cibercafé que he estado...</i>
+
+412
+00:30:05,171 --> 00:30:07,838
+<i>en el que he estado
+trabajando y yo... No lo sé,</i>
+
+413
+00:30:07,840 --> 00:30:09,131
+<i>y me dí cuenta de
+que esta computadora...</i>
+
+414
+00:30:09,133 --> 00:30:12,258
+<i>estaba ahí en objetos perdidos
+por los últimos,</i>
+
+415
+00:30:12,260 --> 00:30:14,218
+<i>no lo sé, tres o...
+Tres o cuatro semanas.</i>
+
+416
+00:30:14,220 --> 00:30:16,429
+<i>Espera, bueno, espera,
+¿robaste la computadora de alguien?</i>
+
+417
+00:30:16,431 --> 00:30:18,431
+<i>No, no... No la robé, sólo...</i>
+
+418
+00:30:18,433 --> 00:30:20,516
+<i>Espera, amigo. Me dijiste que
+la compraste en Craigslist.</i>
+
+419
+00:30:20,518 --> 00:30:22,351
+<i>Me sentí como una mierda en
+el momento en que la tomé.</i>
+
+420
+00:30:22,353 --> 00:30:23,770
+<i>No sé qué estaba esperando.</i>
+
+421
+00:30:23,772 --> 00:30:25,521
+<i>Yo sólo...
+Seguí teniendo que ir allí...</i>
+
+422
+00:30:25,523 --> 00:30:28,274
+<i>porque quería una mejor computadora
+para trabajar en mi aplicación con...</i>
+
+423
+00:30:28,276 --> 00:30:31,194
+<i>y luego la mía se movía tan lenta...</i>
+
+424
+00:30:31,196 --> 00:30:33,488
+<i>que pensé que la laptop de quienquiera
+que fuera esta, quiero decir...</i>
+
+425
+00:30:33,490 --> 00:30:37,240
+<i>Pero miren, miren, cuando yo...
+Entré a Facebook,</i>
+
+426
+00:30:37,242 --> 00:30:39,242
+<i>todas estas cosas se
+llenaron automáticamente.</i>
+
+427
+00:30:39,244 --> 00:30:42,704
+<i>¡Norah C. IV!</i>
+
+428
+00:30:43,707 --> 00:30:45,457
+<i>Idiota pretencioso.</i>
+
+429
+00:30:45,459 --> 00:30:47,417
+<i>Sólo un imbécil elitista
+tendría ese tipo de nombre.</i>
+
+430
+00:30:47,419 --> 00:30:49,628
+<i>Sí, de acuerdo, Alistair Jeffcock.</i>
+
+431
+00:30:49,630 --> 00:30:53,591
+<i>Jeffcock es un apellido familiar,
+Lexx.</i>
+
+432
+00:30:53,593 --> 00:30:54,842
+<i>Si.</i>
+
+433
+00:30:54,844 --> 00:30:56,385
+<i>Es un nombre falso.</i>
+
+434
+00:30:56,387 --> 00:31:00,723
+<i>Chicos, es "Charon" al revés.</i>
+
+435
+00:31:00,725 --> 00:31:03,391
+<i>CharonlV, CarontelV, sí.</i>
+
+436
+00:31:03,393 --> 00:31:05,393
+<i>Es uno de ellos. Es uno de ellos,</i>
+
+437
+00:31:05,395 --> 00:31:07,229
+<i>y quienquiera que sea, debe...</i>
+
+438
+00:31:07,231 --> 00:31:10,732
+<i>Aquí es donde se
+reúnen para comerciar.</i>
+
+439
+00:31:10,734 --> 00:31:13,360
+<i>¿Comerciar qué?</i>
+
+440
+00:31:13,362 --> 00:31:15,237
+<i>Bueno,
+uno de ellos me estuvo enviando...</i>
+
+441
+00:31:15,239 --> 00:31:16,321
+<i>mensajes privados antes.</i>
+
+442
+00:31:16,323 --> 00:31:19,407
+<i>Era, Caronte68.</i>
+
+443
+00:31:19,409 --> 00:31:21,743
+<i>El pobre idiota
+nunca llegó al 69.</i>
+
+444
+00:31:21,745 --> 00:31:23,745
+<i>Sí, aquí.</i>
+
+445
+00:31:23,747 --> 00:31:27,249
+<i>"Acabo de procesar la transferencia.
+Lo tendrás pronto".</i>
+
+446
+00:31:27,251 --> 00:31:30,543
+<i>Es como si estuviera haciendo un
+pedido de algo por lo que ya ha pagado.</i>
+
+447
+00:31:30,545 --> 00:31:32,628
+<i>Matias, vuelve al principio.</i>
+
+448
+00:31:32,630 --> 00:31:34,422
+<i>Bueno, la computadora estaba
+actuando de forma extraña,</i>
+
+449
+00:31:34,424 --> 00:31:35,943
+<i>así que ejecuté una
+Utilidad de Disco y decía...</i>
+
+450
+00:31:35,967 --> 00:31:38,551
+<i>que el disco estaba lleno, así que...</i>
+
+451
+00:31:38,553 --> 00:31:40,511
+<i>Estaba buscando y encontré esta,</i>
+
+452
+00:31:40,513 --> 00:31:42,430
+<i>esta carpeta, ¿verdad?
+Estaba...</i>
+
+453
+00:31:42,432 --> 00:31:45,434
+<i>escondida, invisible,
+y tiene videos.</i>
+
+454
+00:31:45,436 --> 00:31:47,769
+<i>- Novecientos sesenta entradas...
+- Muéstranos.</i>
+
+455
+00:31:51,275 --> 00:31:53,650
+<i>No, esperen, esperen, esperen.
+Miren esas direcciones.</i>
+
+456
+00:31:53,652 --> 00:31:54,943
+<i>Eso es aquí, eso es...</i>
+
+457
+00:31:54,945 --> 00:31:57,736
+<i>los del lado este, y...</i>
+
+458
+00:32:02,577 --> 00:32:05,578
+<i>Creo que está bien.</i>
+
+459
+00:32:05,580 --> 00:32:07,371
+<i>- Ha estado conduciendo.
+- Totalmente.</i>
+
+460
+00:32:07,373 --> 00:32:08,956
+<i>- Traduzcan, chicos.
+- De acuerdo, los hackers conducen...</i>
+
+461
+00:32:08,958 --> 00:32:10,624
+<i>a través de los vecindarios,
+tratando de sacar...</i>
+
+462
+00:32:10,626 --> 00:32:12,376
+<i>direcciones Wi-Fi de
+cualquier persona no asegurada...</i>
+
+463
+00:32:12,378 --> 00:32:14,962
+<i>o routers vulnerables
+para que puedan...</i>
+
+464
+00:32:14,964 --> 00:32:16,714
+<i>Los hackers pueden activar
+la cámara en las laptops...</i>
+
+465
+00:32:16,716 --> 00:32:18,591
+<i>y teléfonos y desactivar
+las luces indicadoras...</i>
+
+466
+00:32:18,593 --> 00:32:20,342
+<i>así que ni siquiera sabrías
+que estaban encendidas.</i>
+
+467
+00:32:20,344 --> 00:32:22,302
+<i>Incluso el Director del FBI...</i>
+
+468
+00:32:22,345 --> 00:32:24,323
+<i>- dice que mantiene su cobertura.
+- Sí, así que piensa en eso...</i>
+
+469
+00:32:24,347 --> 00:32:26,347
+<i>la próxima vez que te ocupes
+de tu adicción al porno, AJ.</i>
+
+470
+00:32:26,349 --> 00:32:28,850
+<i>- Así que este tipo es bueno.
+- Sí, esto requiere habilidades locas.</i>
+
+471
+00:32:28,852 --> 00:32:31,227
+<i>Podría ser un maldito maestro.</i>
+
+472
+00:32:34,024 --> 00:32:36,567
+<i>Más bien un maldito psicópata.</i>
+
+473
+00:32:36,569 --> 00:32:38,736
+<i>- Sí.
+- Oye, ¿abriste ese enlace...</i>
+
+474
+00:32:38,738 --> 00:32:40,738
+<i>en la carpeta,
+el que se llama "Cuenta"?</i>
+
+475
+00:32:45,995 --> 00:32:49,995
+<i>BIENVENIDO
+- ID DE CUENTA
+- CONTRASEÑA</i>
+
+476
+00:32:51,749 --> 00:32:54,208
+<i>BIENVENIDO A SU ACTIVIDAD
+DE CUENTA</i>
+
+477
+00:32:55,294 --> 00:32:57,836
+<i>Espera, eso...
+Eso es de hace un par de minutos.</i>
+
+478
+00:32:57,838 --> 00:33:00,631
+<i>Bitcoin, eso no es una moneda real,
+¿verdad?</i>
+
+479
+00:33:00,633 --> 00:33:04,051
+<i>Es criptomoneda.
+Sin intermediarios, sin Bancos.</i>
+
+480
+00:33:04,053 --> 00:33:05,636
+<i>Son $10 millones.</i>
+
+481
+00:33:08,557 --> 00:33:11,475
+<i>Son $10 millones de dólares, chicos.</i>
+
+482
+00:33:11,477 --> 00:33:13,519
+<i>Espera, esto es una broma, ¿verdad?</i>
+
+483
+00:33:13,521 --> 00:33:17,063
+<i>Amigo, ¿estás...?
+¿Estás hablando en serio o...</i>
+
+484
+00:33:17,065 --> 00:33:21,651
+<i>Muy bien, el tipo de cambio
+ahora mismo es de $663.02...</i>
+
+485
+00:33:21,653 --> 00:33:22,944
+<i>por XPT...</i>
+
+486
+00:33:22,946 --> 00:33:29,410
+<i>- veces 16.263.52.
+- Sí.</i>
+
+487
+00:33:29,412 --> 00:33:30,744
+<i>- Sí.
+- Diez millones de cambio.</i>
+
+488
+00:33:30,746 --> 00:33:34,998
+<i>Sí, $10 millones.</i>
+
+489
+00:33:35,000 --> 00:33:37,084
+<i>- ¿Ven eso?
+- Son casi las 11 p.m...</i>
+
+490
+00:33:37,086 --> 00:33:38,794
+<i>Dinero gratis ahí sentado.</i>
+
+491
+00:33:38,796 --> 00:33:41,796
+<i>No, no,
+no existe el dinero gratis, AJ.</i>
+
+492
+00:33:41,798 --> 00:33:42,922
+<i>Odio romper tu burbuja.</i>
+
+493
+00:33:42,924 --> 00:33:46,175
+<i>CHAT PRIVADO
+- ¿SI SE RECIBIÓ?</i>
+
+494
+00:33:52,434 --> 00:33:54,809
+<i>Está hablando del dinero.</i>
+
+495
+00:33:54,811 --> 00:33:55,852
+<i>Entonces, dí algo.</i>
+
+496
+00:34:01,443 --> 00:34:02,066
+<i>SÍ.</i>
+
+497
+00:34:02,110 --> 00:34:03,651
+<i>Espera, espera, no...</i>
+
+498
+00:34:09,992 --> 00:34:13,076
+<i>¿ES SUFICIENTE?</i>
+
+499
+00:34:13,829 --> 00:34:15,787
+<i>Escribe, "¿para qué?"</i>
+
+500
+00:34:16,123 --> 00:34:18,206
+<i>¿PARA QUÉ?</i>
+
+501
+00:34:21,963 --> 00:34:27,800
+<i>HAZLO OSCURO. NEGRO.
+QUE SEA LARGO Y LACIO.</i>
+
+502
+00:34:27,844 --> 00:34:29,802
+<i>Hola, cabello.
+Está hablando de cabello.</i>
+
+503
+00:34:29,804 --> 00:34:32,764
+<i>AJ, por una vez en tu vida,
+sólo ponle un corcho.</i>
+
+504
+00:34:35,476 --> 00:34:38,643
+<i>Y UN MÉTODO DIFERENTE.
+QUE SEA MÁS LENTO.</i>
+
+505
+00:34:40,397 --> 00:34:42,814
+<i>Método... ¿Qué quiere...?</i>
+
+506
+00:34:42,816 --> 00:34:45,609
+<i>¿QUÉ MÉTODO?</i>
+
+507
+00:34:48,864 --> 00:34:51,782
+<i>TREPANACIÓN.</i>
+
+508
+00:34:53,035 --> 00:34:54,493
+<i>¿Qué es eso?</i>
+
+509
+00:35:01,751 --> 00:35:05,836
+<i>"Un procedimiento quirúrgico
+en el que se hace un agujero...</i>
+
+510
+00:35:05,838 --> 00:35:09,131
+<i>taladrado en el cráneo".</i>
+
+511
+00:35:09,133 --> 00:35:10,841
+<i>Dios mío, esto es...</i>
+
+512
+00:35:14,807 --> 00:35:16,765
+<i>LUEGO COLOCA ALGO ADENTRO.</i>
+
+513
+00:35:17,017 --> 00:35:19,184
+<i>¡Mierda!</i>
+
+514
+00:35:19,394 --> 00:35:22,312
+<i>MUÉSTRASELO PRIMERO.
+QUIERO VER SUS OJOS.</i>
+
+515
+00:35:22,356 --> 00:35:25,440
+<i>USA UN ESPEJO.
+QUIERO QUE ELLA VEA LO QUE PASARÁ.</i>
+
+516
+00:35:25,484 --> 00:35:26,691
+<i>¡No, no, no, no, no, Matias!</i>
+
+517
+00:35:26,693 --> 00:35:28,651
+<i>- ¡Matias!
+- ¡Apágalo!</i>
+
+518
+00:35:28,653 --> 00:35:30,486
+<i>¡Matias, apágalo!</i>
+
+519
+00:35:30,488 --> 00:35:31,821
+<i>¡Está bien, está bien, está bien!</i>
+
+520
+00:35:43,042 --> 00:35:44,542
+<i>Es él, ¿verdad?</i>
+
+521
+00:35:44,544 --> 00:35:47,670
+<i>LA LAPTOP NO ESTÁ AQUÍ.</i>
+
+522
+00:35:47,713 --> 00:35:49,630
+<i>¿DONDE COJONES ESTÁS?</i>
+
+523
+00:35:49,715 --> 00:35:51,424
+<i>No respondas.</i>
+
+524
+00:35:53,553 --> 00:35:55,718
+<i>¿Contribuciones?</i>
+
+525
+00:35:55,720 --> 00:35:57,554
+<i>Caronte68, lo primero que escribió...</i>
+
+526
+00:35:57,556 --> 00:36:00,223
+<i>fue que le gustó la
+última contribución.</i>
+
+527
+00:36:00,225 --> 00:36:01,808
+<i>Vuelve a la carpeta de vídeos...</i>
+
+528
+00:36:01,810 --> 00:36:04,227
+<i>y desplázate hasta el fondo.</i>
+
+529
+00:36:04,229 --> 00:36:07,773
+<i>Sólo tienes que ir todo
+el camino hacia abajo.</i>
+
+530
+00:36:07,775 --> 00:36:10,234
+<i>No, Matias, no lo abras, por favor.</i>
+
+531
+00:36:10,236 --> 00:36:11,902
+<i>- Sólo...
+- No, sólo ábrelo.</i>
+
+532
+00:36:14,866 --> 00:36:16,741
+<i>No, no, no, no, no, no,
+no, no, no, yo no...</i>
+
+533
+00:37:19,052 --> 00:37:20,635
+<i>¡Dios!</i>
+
+534
+00:37:25,308 --> 00:37:27,016
+<i>No, no, no, no, no, de acuerdo.</i>
+
+535
+00:37:27,018 --> 00:37:28,851
+<i>- No, no puedo... No puedo...
+- ¡Dios!</i>
+
+536
+00:37:28,853 --> 00:37:30,353
+<i>Quita eso, quita eso.</i>
+
+537
+00:37:30,355 --> 00:37:31,938
+<i>No puedo ver eso.</i>
+
+538
+00:37:58,383 --> 00:38:00,967
+<i>Bien, estos son videos
+personalizados, estos son...</i>
+
+539
+00:38:00,969 --> 00:38:02,969
+<i>Chicos,
+eso es lo que están negociando.</i>
+
+540
+00:38:02,971 --> 00:38:05,054
+<i>AJ, yo no... Yo no...
+Yo no...</i>
+
+541
+00:38:05,056 --> 00:38:08,807
+<i>No, no, esto es... Está bien.</i>
+
+542
+00:38:11,812 --> 00:38:13,311
+<i>Muéstrame el más reciente.</i>
+
+543
+00:38:13,313 --> 00:38:14,688
+<i>Nari.</i>
+
+544
+00:38:16,984 --> 00:38:18,734
+<i>El último, es un archivo pequeño.</i>
+
+545
+00:38:18,736 --> 00:38:20,068
+<i>Es más pequeño que los otros.</i>
+
+546
+00:38:20,070 --> 00:38:22,279
+<i>Jesús.</i>
+
+547
+00:38:22,281 --> 00:38:25,782
+<i>Sólo... Ábrelo.</i>
+
+548
+00:38:25,784 --> 00:38:27,033
+<i>De acuerdo.</i>
+
+549
+00:38:39,756 --> 00:38:40,963
+<i>Espera, espera, detente.</i>
+
+550
+00:38:43,092 --> 00:38:44,884
+<i>Esto no puede ser real.</i>
+
+551
+00:38:56,732 --> 00:38:58,273
+<i>Matias, ve al final.</i>
+
+552
+00:38:58,275 --> 00:38:59,774
+<i>Todo hasta el final.</i>
+
+553
+00:39:07,408 --> 00:39:09,992
+<i>¿Por qué está mirando a la cámara?</i>
+
+554
+00:39:15,041 --> 00:39:16,916
+<i>- Eso fue todo, ¿verdad?
+- Sí, sí, sí, sí.</i>
+
+555
+00:39:16,918 --> 00:39:18,793
+<i>Bueno,
+entonces puede que aún no la tenga.</i>
+
+556
+00:39:18,795 --> 00:39:20,127
+<i>Todavía está en su habitación,</i>
+
+557
+00:39:20,129 --> 00:39:22,088
+<i>todas las otras chicas no lo estaban.</i>
+
+558
+00:39:22,090 --> 00:39:24,048
+<i>Miren, él elige a una chica,</i>
+
+559
+00:39:24,050 --> 00:39:25,673
+<i>la muestra al resto del grupo,</i>
+
+560
+00:39:25,675 --> 00:39:27,967
+<i>y espera a que alguien pague.</i>
+
+561
+00:39:27,969 --> 00:39:29,803
+<i>Y alguien acaba de pagar,
+así que esta es...</i>
+
+562
+00:39:29,805 --> 00:39:31,846
+<i>- esta es la siguiente chica.
+- Tenemos que reportarlo, Nari.</i>
+
+563
+00:39:31,848 --> 00:39:33,765
+<i>¿Tenemos su dirección
+para que podamos hacer...</i>
+
+564
+00:39:33,767 --> 00:39:35,767
+<i>- un teléfono de búsqueda inversa?
+- Chicos, ya vuelvo.</i>
+
+565
+00:39:35,769 --> 00:39:37,143
+<i>- Enseguida vuelvo.
+- ¡Matias!</i>
+
+566
+00:39:38,815 --> 00:39:40,314
+<i>Matias, yo no...</i>
+
+567
+00:39:40,316 --> 00:39:41,899
+<i>Mira, por favor, yo no... No,</i>
+
+568
+00:39:41,901 --> 00:39:43,692
+<i>por favor, dame un segundo.</i>
+
+569
+00:39:44,028 --> 00:39:45,778
+<i>AMAYA DESOTO ESTÁ LLAMANDO.</i>
+
+570
+00:39:51,202 --> 00:39:52,409
+<i>¡Hola, hola!</i>
+
+571
+00:39:54,037 --> 00:39:55,120
+<i>¡Hola!</i>
+
+572
+00:40:00,377 --> 00:40:02,168
+<i>¿Kelly?</i>
+
+573
+00:40:02,212 --> 00:40:04,879
+<i>¡Kelly!</i>
+
+574
+00:40:07,801 --> 00:40:11,219
+<i>¡Oye!
+Oye, espera, un segundo.</i>
+
+575
+00:40:11,221 --> 00:40:13,138
+<i>¿Hola?</i>
+
+576
+00:40:13,140 --> 00:40:15,932
+<i>Sí, lo hicimos.</i>
+
+577
+00:40:15,934 --> 00:40:17,808
+<i>De acuerdo. Bueno,</i>
+
+578
+00:40:17,810 --> 00:40:20,769
+<i>debe haberse dado cuenta
+porque lo tenemos.</i>
+
+579
+00:40:20,771 --> 00:40:22,479
+<i>Sí, por supuesto.</i>
+
+580
+00:40:22,481 --> 00:40:25,441
+<i>Gracias.</i>
+
+581
+00:40:25,443 --> 00:40:27,151
+<i>Lo siento, esa era la pizzería.</i>
+
+582
+00:40:27,153 --> 00:40:29,047
+<i>Supongo que el conductor llamó,
+no pudo averiguar...</i>
+
+583
+00:40:29,071 --> 00:40:33,032
+<i>dónde estábamos o algo así,
+no lo sé. ¡Hola!</i>
+
+584
+00:40:33,034 --> 00:40:35,368
+<i>- ¿Está Amaya contigo ahora mismo?
+- No.</i>
+
+585
+00:40:35,370 --> 00:40:36,911
+<i>Quiero decir, acabo de llegar,</i>
+
+586
+00:40:36,913 --> 00:40:39,414
+<i>y creo que Amaya está en la ducha.</i>
+
+587
+00:40:39,416 --> 00:40:41,332
+<i>Bueno, ¿puedes pasármela ahora mismo?</i>
+
+588
+00:40:41,334 --> 00:40:43,001
+<i>¿Qué?</i>
+
+589
+00:40:43,003 --> 00:40:44,835
+<i>- Bien, ¿estás ahí?
+- ¿Hola, hola?</i>
+
+590
+00:40:44,837 --> 00:40:46,086
+<i>Puedo oírte. ¿Sigues ahí?</i>
+
+591
+00:40:46,088 --> 00:40:48,088
+<i>- No puedo...
+- Kelly, no puedo verte.</i>
+
+592
+00:40:48,090 --> 00:40:49,840
+<i>- No puedo verte.
+- ¿Adónde fuiste?</i>
+
+593
+00:40:49,842 --> 00:40:51,133
+<i>- Espera un segundo.
+- Sí, ¿es eso...</i>
+
+594
+00:40:51,135 --> 00:40:53,135
+<i>- de tu lado o...
+- No, creo que es mi lado.</i>
+
+595
+00:40:53,137 --> 00:40:55,929
+<i>Sí, lo siento, espera.</i>
+
+596
+00:40:55,931 --> 00:40:58,432
+<i>¡Dios! ¡Dios! ¡Kelly!</i>
+
+597
+00:40:58,434 --> 00:41:01,060
+<i>¡Kelly!</i>
+
+598
+00:41:05,483 --> 00:41:06,982
+<i>¡Kelly!</i>
+
+599
+00:41:23,457 --> 00:41:26,834
+<i>TIENES MI LAPTOP.</i>
+
+600
+00:41:30,507 --> 00:41:33,925
+<i>LA QUIERO DE VUELTA.</i>
+
+601
+00:41:44,311 --> 00:41:47,854
+<i>DÍSELO Y ELLA MUERE.</i>
+
+602
+00:41:48,982 --> 00:41:50,222
+<i>Espera, espera, espera, espera.</i>
+
+603
+00:42:09,335 --> 00:42:10,501
+<i>¡Amaya, Amaya, Amaya,</i>
+
+604
+00:42:10,503 --> 00:42:12,878
+<i>¡Amaya, Amaya, Amaya!</i>
+
+605
+00:42:12,880 --> 00:42:14,839
+<i>¡Oye! ¡Ven aquí, ven aquí!</i>
+
+606
+00:42:20,305 --> 00:42:22,347
+<i>¿Puedes ver...</i>
+
+607
+00:42:22,349 --> 00:42:25,350
+<i>¡Amaya, Amaya, Amaya!</i>
+
+608
+00:42:25,352 --> 00:42:27,060
+<i>No entres ahí, no entres ahí.</i>
+
+609
+00:42:27,062 --> 00:42:29,937
+<i>No entres ahí, no entres...
+No entres... No entres...</i>
+
+610
+00:42:29,939 --> 00:42:31,605
+<i>¡Detente, detente, detente!</i>
+
+611
+00:42:31,607 --> 00:42:33,524
+<i>De acuerdo, de acuerdo, de acuerdo,
+de acuerdo, de acuerdo.</i>
+
+612
+00:42:33,526 --> 00:42:35,067
+<i>Ven aquí, ven aquí, ven aquí.</i>
+
+613
+00:42:35,069 --> 00:42:37,278
+<i>Ven aquí, ven aquí. Bien, bien.</i>
+
+614
+00:42:37,280 --> 00:42:38,362
+<i>¿ME LLAMASTE?</i>
+
+615
+00:42:38,406 --> 00:42:40,364
+<i>Mierda.
+Yo... Debe... Debe ser un bicho,</i>
+
+616
+00:42:40,366 --> 00:42:42,658
+<i>o algo así.
+Tu computadora llamó a la mía.</i>
+
+617
+00:42:42,660 --> 00:42:46,412
+<i>Kelly, Kelly,</i>
+
+618
+00:42:46,414 --> 00:42:50,624
+<i>ella... Ella trajo a un...
+Trajo a un tipo a casa.</i>
+
+619
+00:42:50,626 --> 00:42:53,377
+<i>Él... Ella...
+No, no lo hagas.</i>
+
+620
+00:42:53,379 --> 00:42:54,795
+<i>TENGO QUE VESTIRME.</i>
+
+621
+00:42:55,089 --> 00:42:57,130
+<i>Te esperaré.
+Te esperaré... Te esperaré.</i>
+
+622
+00:43:09,186 --> 00:43:11,228
+<i>¡Oye!</i>
+
+623
+00:43:27,412 --> 00:43:30,413
+<i>¿Puedes sentarte, por favor?</i>
+
+624
+00:43:47,307 --> 00:43:49,139
+<i>Por favor, por favor,
+por favor, no le hagas daño.</i>
+
+625
+00:43:49,141 --> 00:43:50,516
+<i>Haré todo lo que quieras que haga,</i>
+
+626
+00:43:50,518 --> 00:43:52,393
+<i>haré lo que sea, lo prometo.</i>
+
+627
+00:44:00,027 --> 00:44:01,485
+<i>¿Cómo lo estás haciendo?</i>
+
+628
+00:44:04,866 --> 00:44:08,410
+<i>VEO TODO LO QUE HACES.</i>
+
+629
+00:44:08,453 --> 00:44:12,288
+<i>ESCUCHO TODO LO QUE DICES.</i>
+
+630
+00:44:12,332 --> 00:44:14,624
+<i>SI TU O TUS AMIGOS
+SE DESCONECTAN...</i>
+
+631
+00:44:14,626 --> 00:44:16,834
+<i>O LLAMAN A LA POLICÍA...</i>
+
+632
+00:44:16,877 --> 00:44:18,836
+<i>AMAYA MUERE.</i>
+
+633
+00:44:18,921 --> 00:44:21,964
+<i>¿Cómo puedo darte... No puedo
+darte la laptop, si no puedo...</i>
+
+634
+00:44:21,966 --> 00:44:24,133
+<i>ELLA DEBE IR A TI.</i>
+
+635
+00:44:24,176 --> 00:44:26,385
+<i>Y LA SEGUIRÉ.</i>
+
+636
+00:44:26,429 --> 00:44:31,432
+<i>Y NEGOCIAREMOS.</i>
+
+637
+00:44:33,185 --> 00:44:36,687
+<i>Espera un segundo,
+¿podrías esperar?</i>
+
+638
+00:44:36,689 --> 00:44:38,522
+<i>¡Dios!</i>
+
+639
+00:44:44,612 --> 00:44:47,196
+<i>De acuerdo. Cálmate. Sólo...</i>
+
+640
+00:44:57,960 --> 00:45:00,043
+<i>HAY ALGO QUE TENGO
+QUE DECIRTE.</i>
+
+641
+00:45:00,546 --> 00:45:02,087
+<i>CARA A CARA.</i>
+
+642
+00:45:02,339 --> 00:45:05,299
+<i>POR FAVOR, SÓLO VEN.</i>
+
+643
+00:45:13,183 --> 00:45:14,057
+<i>Matias, Matias, Matias,
+Matias, de acuerdo.</i>
+
+644
+00:45:14,059 --> 00:45:15,767
+<i>Oye, sí, sí, sí, no,
+estoy aquí, estoy aquí,</i>
+
+645
+00:45:15,769 --> 00:45:18,227
+<i>- Estoy aquí. Estoy aquí. Estoy aquí.
+- Escucha, este es el plan, ¿de acuerdo?</i>
+
+646
+00:45:18,229 --> 00:45:20,396
+<i>Nari se reunirá contigo
+en la comisaría,</i>
+
+647
+00:45:20,398 --> 00:45:22,397
+<i>hay una que está a
+media milla de tu casa.</i>
+
+648
+00:45:22,399 --> 00:45:24,524
+<i>Necesitas traer la laptop
+contigo, porque cada...</i>
+
+649
+00:45:24,526 --> 00:45:26,735
+<i>Esperen, esperen, esperen,
+¿dónde está Damon? ¿Dónde está Damon?</i>
+
+650
+00:45:26,737 --> 00:45:28,320
+<i>No, no, no, no, no, necesitamos...
+Necesitamos a Damon.</i>
+
+651
+00:45:28,322 --> 00:45:30,238
+<i>- ¡Damon! ¡Damon! ¡Necesitamos a Damon!
+- ¿Qué? ¡Matias!</i>
+
+652
+00:45:30,240 --> 00:45:32,616
+<i>- ¡Necesitamos a Damon ahora mismo! ¡Damon!
+- ¡Lo siento!</i>
+
+653
+00:45:32,618 --> 00:45:34,784
+<i>- ¿Hemos llamado a la Policía o qué?
+- No, no vamos a llamar a la Policía.</i>
+
+654
+00:45:34,786 --> 00:45:36,452
+<i>Vamos a ir a la Policía,
+¿de acuerdo?</i>
+
+655
+00:45:36,454 --> 00:45:38,621
+<i>No tenemos mucho tiempo, ¿de acuerdo?
+Tenemos que ayudar a esta chica.</i>
+
+656
+00:45:38,623 --> 00:45:40,122
+<i>- ¡Matias!
+- Sí.</i>
+
+657
+00:45:40,124 --> 00:45:42,666
+<i>Sé que están pasando muchas cosas,
+¿de acuerdo?</i>
+
+658
+00:45:42,668 --> 00:45:47,755
+<i>Pero tienes que confiar en nosotros,
+y tienes que moverte rápido.</i>
+
+659
+00:45:47,757 --> 00:45:50,759
+<i>Toma la laptop,
+ve a la comisaría.</i>
+
+660
+00:45:50,761 --> 00:45:52,260
+<i>- Estaré allí, ¿de acuerdo?
+- No.</i>
+
+661
+00:45:52,262 --> 00:45:54,429
+<i>- Tengo un amigo que nos encontrará.
+- No podemos.</i>
+
+662
+00:45:54,431 --> 00:45:56,348
+<i>¡Él sabe cómo lidiar con
+este tipo de situaciones!</i>
+
+663
+00:45:56,350 --> 00:45:58,558
+<i>- ¡Sí! Sí, sí, puedes.
+- No, no podemos... No podemos...</i>
+
+664
+00:45:58,560 --> 00:46:01,435
+<i>No es... No es real.</i>
+
+665
+00:46:01,437 --> 00:46:03,104
+<i>¿Qué?</i>
+
+666
+00:46:03,106 --> 00:46:04,563
+<i>Es...</i>
+
+667
+00:46:06,275 --> 00:46:07,775
+<i>Es un... Es un juego.</i>
+
+668
+00:46:07,777 --> 00:46:09,110
+<i>Me lo he inventado todo.</i>
+
+669
+00:46:09,112 --> 00:46:10,277
+<i>Es un juego.</i>
+
+670
+00:46:12,865 --> 00:46:17,201
+<i>Lexx, estuviste... Estuviste
+totalmente sobre mí desde el principio.</i>
+
+671
+00:46:19,539 --> 00:46:21,622
+<i>Espera, estoy confundida.</i>
+
+672
+00:46:21,666 --> 00:46:23,124
+<i>¿Qué?</i>
+
+673
+00:46:23,126 --> 00:46:24,792
+<i>Sí, es, es un juego.</i>
+
+674
+00:46:24,794 --> 00:46:27,544
+<i>Es mi juego.
+Es en el que he estado trabajando.</i>
+
+675
+00:46:27,546 --> 00:46:29,129
+<i>Damon, Damon lo sabe.</i>
+
+676
+00:46:31,258 --> 00:46:33,550
+<i>Lo siento, estoy perdido.
+¿Y ahora qué?</i>
+
+677
+00:46:33,552 --> 00:46:36,636
+<i>Te dije que estaba... Te dije
+que estaba escribiendo algo.</i>
+
+678
+00:46:36,638 --> 00:46:39,305
+<i>- Matias, yo...
+- Sí, hombre, tú dijiste que...</i>
+
+679
+00:46:39,307 --> 00:46:41,350
+<i>estabas escribiendo algo,
+no dijiste pruebas de juego.</i>
+
+680
+00:46:41,352 --> 00:46:45,187
+<i>- O implementación.
+- Bueno, sí, yo quería...</i>
+
+681
+00:46:45,189 --> 00:46:47,523
+<i>Quería obtener una
+respuesta real de ustedes, saben.</i>
+
+682
+00:46:47,525 --> 00:46:50,192
+<i>Quiero decir, si... Si supieran lo que
+se avecina, entonces no se sentiría real.</i>
+
+683
+00:46:50,194 --> 00:46:54,487
+<i>De esa forma podría, ya saben,
+podría saber si realmente podría funcionar.</i>
+
+684
+00:46:54,489 --> 00:46:57,157
+<i>Es noche de juegos.</i>
+
+685
+00:46:57,159 --> 00:47:00,493
+<i>- ¡Mierda, hombre!
+- Idiota.</i>
+
+686
+00:47:00,495 --> 00:47:01,494
+<i>¡Dios mío!</i>
+
+687
+00:47:01,496 --> 00:47:03,163
+<i>¿Supongo que eso significa
+que era bastante bueno?</i>
+
+688
+00:47:03,165 --> 00:47:05,415
+<i>Matias, esto no es gracioso.</i>
+
+689
+00:47:05,417 --> 00:47:07,792
+<i>En realidad, no lo es,
+no se supone que sea gracioso.</i>
+
+690
+00:47:07,794 --> 00:47:10,420
+<i>- En realidad, es un transmedia de terror.
+- Mierda... Es un ARG.</i>
+
+691
+00:47:10,422 --> 00:47:12,881
+<i>- Es un juego de realidad alternativa.
+- Exacto, sí.</i>
+
+692
+00:47:12,883 --> 00:47:17,302
+<i>Es una... Es una prueba de lo que harías,
+si la experiencia realmente ocurriera.</i>
+
+693
+00:47:17,304 --> 00:47:19,220
+<i>Eso fue sangriento...</i>
+
+694
+00:47:19,222 --> 00:47:21,180
+<i>- Espera, AJ ¿estabas metido en esto?
+- ¡Diablos, no!</i>
+
+695
+00:47:21,182 --> 00:47:22,848
+<i>No tenía...
+No tenía ni idea de esto.</i>
+
+696
+00:47:22,850 --> 00:47:25,517
+<i>¿Dónde... Amigo, dónde...
+De dónde conseguiste esos videos?</i>
+
+697
+00:47:25,519 --> 00:47:28,312
+<i>- Eso es una mierda oscura.
+- Sí.</i>
+
+698
+00:47:28,314 --> 00:47:31,398
+<i>Sí, lo sé, lo sé,
+son sólo películas de terror.</i>
+
+699
+00:47:31,400 --> 00:47:34,569
+<i>¿Qué...? De acuerdo, bueno,
+debes haber cavado en alguna...</i>
+
+700
+00:47:34,571 --> 00:47:37,572
+<i>mierda muy oscura,
+porque he visto de todo...</i>
+
+701
+00:47:37,574 --> 00:47:40,366
+<i>y no he visto ninguno
+de esos videos que tú...</i>
+
+702
+00:47:40,368 --> 00:47:44,245
+<i>¿Y si hubiéramos
+llamado a la Policía?</i>
+
+703
+00:47:44,247 --> 00:47:47,247
+<i>Bueno, lo ideal sería que
+te registraras para jugar...</i>
+
+704
+00:47:47,249 --> 00:47:50,375
+<i>con tu número de móvil,
+así que si, ya sabes,</i>
+
+705
+00:47:50,377 --> 00:47:52,544
+<i>para cuando te conectes,
+si llamaste al 911,</i>
+
+706
+00:47:52,588 --> 00:47:54,630
+<i>hackearía tu teléfono y
+obtendrías una grabación...</i>
+
+707
+00:47:54,632 --> 00:47:57,341
+<i>como el tipo malo que
+hackeó el teléfono.</i>
+
+708
+00:47:57,343 --> 00:48:00,386
+<i>NO QUIERO IR ESTA NOCHE.</i>
+
+709
+00:48:01,931 --> 00:48:03,722
+<i>Espera, el...</i>
+
+710
+00:48:07,061 --> 00:48:09,144
+<i>VIGILA A NARI, ELLA DUDA.</i>
+
+711
+00:48:09,146 --> 00:48:11,522
+<i>PERO CREO LOS DEMÁS
+LO CREYERON.</i>
+
+712
+00:48:11,565 --> 00:48:14,899
+<i>AHORA CONVENCE A AMAYA
+DE IR HACIA TI.</i>
+
+713
+00:48:14,943 --> 00:48:16,484
+<i>AHORA...</i>
+
+714
+00:48:16,528 --> 00:48:19,695
+<i>O SE MUERE.</i>
+
+715
+00:48:23,701 --> 00:48:27,204
+<i>Fuí a esa clase de ASL,</i>
+
+716
+00:48:28,624 --> 00:48:30,833
+<i>o la... O la... O la primera,</i>
+
+717
+00:48:30,835 --> 00:48:32,876
+<i>la primera, al menos.</i>
+
+718
+00:48:32,878 --> 00:48:34,503
+<i>Y luego... Y el tipo,</i>
+
+719
+00:48:34,505 --> 00:48:36,714
+<i>él estaba... Estaba...
+Estaba dando la clase,</i>
+
+720
+00:48:36,716 --> 00:48:38,465
+<i>de la que hablaba...</i>
+
+721
+00:48:38,467 --> 00:48:42,301
+<i>lo difícil que era para una
+persona con problemas de audición...</i>
+
+722
+00:48:42,303 --> 00:48:44,971
+<i>tener una relación
+significativa con alguien...</i>
+
+723
+00:48:44,973 --> 00:48:46,639
+<i>que no sabía señas.</i>
+
+724
+00:48:46,641 --> 00:48:50,268
+<i>Y luego... Y cómo construye
+este vínculo especial,</i>
+
+725
+00:48:50,270 --> 00:48:53,354
+<i>la capacidad de
+comunicarse con alguien...</i>
+
+726
+00:48:53,356 --> 00:48:54,856
+<i>de una manera especial que...</i>
+
+727
+00:48:54,858 --> 00:48:57,900
+<i>Y ESO TE ASUSTO.</i>
+
+728
+00:49:00,613 --> 00:49:01,738
+<i>Y tienes razón.</i>
+
+729
+00:49:06,952 --> 00:49:09,244
+<i>Estoy muy asustado, Amaya.</i>
+
+730
+00:49:10,956 --> 00:49:12,998
+<i>Quiero decir, nunca me ha importado...</i>
+
+731
+00:49:13,000 --> 00:49:16,001
+<i>sobre alguien o algo...</i>
+
+732
+00:49:16,003 --> 00:49:17,502
+<i>de la forma en que
+me preocupo por ti.</i>
+
+733
+00:49:17,504 --> 00:49:20,006
+<i>ESFUERZATE MÁS.</i>
+
+734
+00:49:21,009 --> 00:49:22,717
+<i>La noche que nos
+conocimos en el bar,</i>
+
+735
+00:49:22,719 --> 00:49:24,343
+<i>yo...</i>
+
+736
+00:49:24,345 --> 00:49:27,346
+<i>la música estaba tan alta, y...</i>
+
+737
+00:49:28,683 --> 00:49:31,809
+<i>Te ví y recuerdo que pensé...</i>
+
+738
+00:49:32,936 --> 00:49:34,894
+<i>¿Para qué molestarse?</i>
+
+739
+00:49:34,896 --> 00:49:37,313
+<i>Que una persona hermosa...</i>
+
+740
+00:49:37,315 --> 00:49:38,856
+<i>no sería capaz de
+oírte de todos modos,</i>
+
+741
+00:49:38,858 --> 00:49:40,483
+<i>es tan ruidoso.</i>
+
+742
+00:49:42,528 --> 00:49:45,988
+<i>No sabía que eras sorda.</i>
+
+743
+00:49:45,990 --> 00:49:47,740
+<i>Yo no sabía...</i>
+
+744
+00:49:47,742 --> 00:49:50,493
+<i>que todo ese ruido no importaría.</i>
+
+745
+00:49:53,414 --> 00:49:56,999
+<i>Quiero decir,
+eso es lo que quiero para nosotros.</i>
+
+746
+00:49:57,001 --> 00:50:01,002
+<i>No quiero que nada más importe.</i>
+
+747
+00:50:01,004 --> 00:50:03,755
+<i>No quiero que nada se
+interponga en el camino...</i>
+
+748
+00:50:03,757 --> 00:50:05,715
+<i>de lo mucho que te amo.</i>
+
+749
+00:50:15,353 --> 00:50:17,853
+<i>Necesito que vengas aquí,
+¿de acuerdo?</i>
+
+750
+00:50:17,855 --> 00:50:21,273
+<i>Necesito que vengas lo más
+rápido que puedas, ¿de acuerdo?</i>
+
+751
+00:50:22,110 --> 00:50:24,693
+<i>Toma el metro, ¿de acuerdo?</i>
+
+752
+00:50:32,953 --> 00:50:35,662
+<i>NOS VEREMOS PRONTO.</i>
+
+753
+00:50:37,457 --> 00:50:40,750
+<i>Matias,
+¿qué hay con los números romanos?</i>
+
+754
+00:50:40,752 --> 00:50:43,044
+<i>- ¿Por qué los números romanos?
+- Sí.</i>
+
+755
+00:50:43,046 --> 00:50:44,629
+<i>- ¿Qué quieres decir?
+- Eso es raro.</i>
+
+756
+00:50:44,631 --> 00:50:46,756
+<i>Bueno, en el juego,
+en vez de Caronte...</i>
+
+757
+00:50:46,758 --> 00:50:49,008
+<i>como ser como un,
+ya sabes, Caronte4,</i>
+
+758
+00:50:49,010 --> 00:50:50,760
+<i>como el número cuatro,
+tenía un IV.</i>
+
+759
+00:50:50,762 --> 00:50:53,387
+<i>¿Y qué hay de la chica del video?</i>
+
+760
+00:50:53,389 --> 00:50:54,930
+<i>¿La que era la siguiente?</i>
+
+761
+00:50:54,932 --> 00:50:56,098
+<i>¿Qué pasa con ella?</i>
+
+762
+00:50:57,143 --> 00:50:58,767
+<i>¿De dónde sacaste el video?</i>
+
+763
+00:50:58,769 --> 00:51:00,686
+<i>Lo siento, chicos.
+Tengo que contestar.</i>
+
+764
+00:51:00,688 --> 00:51:02,604
+<i>Es el... Es el Amo Titiritero.</i>
+
+765
+00:51:02,648 --> 00:51:05,108
+<i>- Está bien.
+- Silencia tu micrófono, Lexx.</i>
+
+766
+00:51:05,110 --> 00:51:06,860
+<i>- Sí.
+- ¡Mamá!</i>
+
+767
+00:51:08,029 --> 00:51:09,779
+<i>¡Lexx, silencia tu micrófono!</i>
+
+768
+00:51:09,781 --> 00:51:12,157
+<i>- ¡Dios mío!
+- Siempre hace lo mismo.</i>
+
+769
+00:51:12,159 --> 00:51:13,742
+<i>Sí, eres más ruidoso que ella.</i>
+
+770
+00:51:13,744 --> 00:51:16,578
+<i>¡Dios mío! Mamá.</i>
+
+771
+00:51:16,580 --> 00:51:18,537
+<i>Me encanta lo fuerte que habla
+por teléfono con su madre.</i>
+
+772
+00:51:18,539 --> 00:51:20,831
+<i>Es como, directamente hacia arriba,
+cómo, bam.</i>
+
+773
+00:51:20,833 --> 00:51:21,874
+<i>Lo sé.</i>
+
+774
+00:51:27,173 --> 00:51:29,715
+<i>Chicos,
+no tenemos que jugar un juego.</i>
+
+775
+00:51:29,717 --> 00:51:31,675
+<i>Vamos a charlar.
+Vamos a pasar el rato,</i>
+
+776
+00:51:31,677 --> 00:51:35,179
+<i>y, ya saben, y si... Ustedes,</i>
+
+777
+00:51:35,181 --> 00:51:37,014
+<i>tal vez deberíamos hacer una
+meditación guiada juntos.</i>
+
+778
+00:51:37,016 --> 00:51:38,223
+<i>No.</i>
+
+779
+00:51:38,225 --> 00:51:42,936
+<i>OFICIALES BUSCAN A CHICA
+DE 17 AÑOS, DESAPARECIDA</i>
+
+780
+00:51:44,190 --> 00:51:46,856
+<i>Fue lo más divertido que
+he tenido en dos años.</i>
+
+781
+00:51:46,858 --> 00:51:49,692
+<i>Muy buena.</i>
+
+782
+00:52:35,156 --> 00:52:36,239
+<i>Matias, Matias.</i>
+
+783
+00:52:36,241 --> 00:52:37,823
+<i>Tengo más preguntas, hombre.</i>
+
+784
+00:52:37,825 --> 00:52:39,658
+<i>Sí, aquí, lo siento. ¿Qué pasa?</i>
+
+785
+00:52:39,660 --> 00:52:42,077
+<i>¿Es mejor que lo
+hiciéramos como un equipo,</i>
+
+786
+00:52:42,079 --> 00:52:44,246
+<i>o como experiencia en solitario?</i>
+
+787
+00:52:44,248 --> 00:52:45,831
+<i>Y también... ¿Como demonios...</i>
+
+788
+00:52:45,833 --> 00:52:47,582
+<i>estás manejando el
+árbol de decisiones?</i>
+
+789
+00:52:47,584 --> 00:52:48,750
+<i>Como, digamos,
+si hubiéramos decidido...</i>
+
+790
+00:52:48,752 --> 00:52:50,753
+<i>el hacer algo con
+el dinero del malo,</i>
+
+791
+00:52:50,755 --> 00:52:53,005
+<i>si lo hubiéramos tomado,
+entonces, ¿cómo es que esa onda...</i>
+
+792
+00:52:53,007 --> 00:52:55,508
+<i>afectaría el resto de la historia?</i>
+
+793
+00:52:57,595 --> 00:52:58,803
+<i>¿Hola? Matia...</i>
+
+794
+00:52:58,805 --> 00:53:01,097
+<i>Maldita sea, se fue con las hadas.</i>
+
+795
+00:53:01,099 --> 00:53:02,765
+<i>- ¡Matias!
+- Espera, voy a...</i>
+
+796
+00:53:02,767 --> 00:53:04,599
+<i>Enseguida vuelvo. Enseguida vuelvo.</i>
+
+797
+00:53:04,601 --> 00:53:06,268
+<i>¿Cuánto tiempo vas a
+estar fuera esta vez?</i>
+
+798
+00:53:13,902 --> 00:53:15,485
+<i>CREA TU CUENTA</i>
+
+799
+00:53:18,157 --> 00:53:20,490
+<i>SÉ TU PROPIO BANCO</i>
+
+800
+00:53:26,206 --> 00:53:29,124
+<i>¿Estás ahí?</i>
+
+801
+00:53:29,126 --> 00:53:31,709
+<i>¿Estás ahí? ¿Me oyes?</i>
+
+802
+00:53:31,711 --> 00:53:33,002
+<i>¿Me oyes?</i>
+
+803
+00:53:34,797 --> 00:53:38,299
+<i>ESTOY AQUÍ.</i>
+
+804
+00:53:39,177 --> 00:53:41,552
+<i>Bien.</i>
+
+805
+00:53:41,554 --> 00:53:43,513
+<i>Entonces, mira esto.</i>
+
+806
+00:53:59,821 --> 00:54:01,279
+<i>SEGURO</i>
+
+807
+00:54:01,323 --> 00:54:02,947
+<i>NO LO HAGAS.</i>
+
+808
+00:54:02,991 --> 00:54:04,991
+<i>SÓLO QUIERO LA COMPUTADORA.</i>
+
+809
+00:54:05,035 --> 00:54:08,244
+<i>COMETES UN GRAN ERROR.</i>
+
+810
+00:54:10,749 --> 00:54:12,749
+<i>TRANSFERENCIA COMPLETADA</i>
+
+811
+00:54:15,170 --> 00:54:17,212
+<i>Recuperaras la computadora...</i>
+
+812
+00:54:17,214 --> 00:54:19,631
+<i>cuando yo recupere a Amaya.</i>
+
+813
+00:54:19,633 --> 00:54:21,633
+<i>Te devolveré el dinero
+cuando salga en las noticias...</i>
+
+814
+00:54:21,635 --> 00:54:25,302
+<i>que Erica Dunne ha vuelto a
+casa a salvo con sus padres.</i>
+
+815
+00:54:28,182 --> 00:54:29,765
+<i>AMAYA DESOTO ESTÁ LLAMANDO.</i>
+
+816
+00:54:30,726 --> 00:54:32,351
+<i>Estúpido hijo de puta.</i>
+
+817
+00:54:32,353 --> 00:54:35,145
+<i>- Todo lo que quiero es mi laptop.
+- Todo lo que quiero es a Amaya.</i>
+
+818
+00:54:35,147 --> 00:54:36,689
+<i>No lo entiendes.</i>
+
+819
+00:54:36,691 --> 00:54:37,941
+<i>En lo que te has metido.</i>
+
+820
+00:54:37,943 --> 00:54:40,360
+<i>- ¡Mataste a Kelly!
+- No, no lo hice.</i>
+
+821
+00:54:40,404 --> 00:54:42,862
+<i>Si le pones una mano
+encima a Amaya o Erica,</i>
+
+822
+00:54:42,906 --> 00:54:44,364
+<i>nunca verás nada de ese dinero.</i>
+
+823
+00:54:44,408 --> 00:54:46,199
+<i>Cierra la puta boca y escucha.</i>
+
+824
+00:54:46,243 --> 00:54:49,077
+<i>- No dejan ir a las chicas.
+- ¿De qué estás hablando?</i>
+
+825
+00:54:49,079 --> 00:54:51,745
+<i>El Círculo,
+la gente con la que trabajo,</i>
+
+826
+00:54:51,747 --> 00:54:53,789
+<i>todos los otros clientes de Caronte,</i>
+
+827
+00:54:53,791 --> 00:54:55,833
+<i>monitorean a todas las
+cuentas de Bitcoin.</i>
+
+828
+00:54:55,835 --> 00:54:57,835
+<i>Van a pensar que estoy
+tratando de cobrar.</i>
+
+829
+00:55:03,175 --> 00:55:05,384
+<i>¿Hola?</i>
+
+830
+00:55:05,386 --> 00:55:07,010
+<i>¡Hola, hola!</i>
+
+831
+00:55:11,726 --> 00:55:13,350
+<i>Perdí tu pantalla.
+¿Qué está pasando?</i>
+
+832
+00:55:13,352 --> 00:55:15,893
+<i>- ¿Qué está pasando?
+- No... No lo sé.</i>
+
+833
+00:55:15,937 --> 00:55:19,105
+<i>Dios, te arrastraron al
+otro lado del río, ¿no?</i>
+
+834
+00:55:19,107 --> 00:55:21,274
+<i>Oye, ¿sabes qué?
+Voy a... Voy a cerrarlo.</i>
+
+835
+00:55:21,276 --> 00:55:22,859
+<i>¡No! No la cierres.</i>
+
+836
+00:55:22,861 --> 00:55:25,111
+<i>Van a saber que no eres yo.</i>
+
+837
+00:55:29,201 --> 00:55:30,743
+<i>¿Te están hablando a ti?</i>
+
+838
+00:55:30,745 --> 00:55:32,745
+<i>¿Qué están diciendo?</i>
+
+839
+00:55:32,747 --> 00:55:35,039
+<i>CONFIRMA TU IDENTIDAD, CARONTEIV.</i>
+
+840
+00:55:35,082 --> 00:55:38,125
+<i>Están diciendo... Están
+diciendo que recites el código.</i>
+
+841
+00:55:38,127 --> 00:55:39,418
+<i>¡Dios!</i>
+
+842
+00:55:39,420 --> 00:55:41,295
+<i>Nos acabas de meter
+una bala en la cabeza.</i>
+
+843
+00:55:41,297 --> 00:55:44,047
+<i>Estúpido... Está bien.</i>
+
+844
+00:55:45,717 --> 00:55:47,175
+<i>Escúchame.</i>
+
+845
+00:55:48,178 --> 00:55:50,136
+<i>Si se enteran de que...</i>
+
+846
+00:55:50,138 --> 00:55:52,346
+<i>que perdí esa computadora,
+van a matarme, van a matarte,</i>
+
+847
+00:55:52,348 --> 00:55:54,108
+<i>y van a matar a cualquiera
+que la haya visto.</i>
+
+848
+00:55:54,267 --> 00:55:55,475
+<i>Sólo dame el código entonces.</i>
+
+849
+00:55:55,602 --> 00:55:57,185
+<i>Devuélveme el dinero
+primero y luego...</i>
+
+850
+00:55:57,270 --> 00:55:58,811
+<i>No. ¡Jódete!</i>
+
+851
+00:55:58,813 --> 00:55:59,854
+<i>Estoy a tres metros de Amaya,</i>
+
+852
+00:55:59,856 --> 00:56:01,814
+<i>y le clavaré un
+cuchillo en la garganta...</i>
+
+853
+00:56:01,816 --> 00:56:03,691
+<i>y desapareceré antes
+de que caiga al suelo.</i>
+
+854
+00:56:03,693 --> 00:56:05,693
+<i>Creo que eres un hombre muerto
+que perdió $10 millones de dólares.</i>
+
+855
+00:56:05,695 --> 00:56:06,819
+<i>Esto puede ser muy fácil.</i>
+
+856
+00:56:06,821 --> 00:56:08,488
+<i>Yo devuelvo a Amaya,
+tú devuelves la laptop,</i>
+
+857
+00:56:08,490 --> 00:56:10,155
+<i>y será como si nada hubiera pasado.</i>
+
+858
+00:56:10,157 --> 00:56:11,323
+<i>¡No, tú mataste a Kelly!</i>
+
+859
+00:56:11,325 --> 00:56:13,158
+<i>No, no lo hice.
+Sólo le golpeé la cabeza.</i>
+
+860
+00:56:13,160 --> 00:56:15,410
+<i>Se despertará y pensará
+que fue un robo o algo así.</i>
+
+861
+00:56:15,412 --> 00:56:17,120
+<i>No tenemos tiempo para esto.</i>
+
+862
+00:56:17,122 --> 00:56:18,330
+<i>Devuelve el dinero.</i>
+
+863
+00:56:18,332 --> 00:56:19,873
+<i>No, no, no, no. No, no, no. No.</i>
+
+864
+00:56:19,875 --> 00:56:21,834
+<i>Cuando Erica Dunne
+esté en casa a salvo,</i>
+
+865
+00:56:21,836 --> 00:56:23,378
+<i>entonces tendrás el dinero.</i>
+
+866
+00:56:23,380 --> 00:56:25,254
+<i>De acuerdo.</i>
+
+867
+00:56:25,256 --> 00:56:27,173
+<i>Será mejor que te apures.</i>
+
+868
+00:56:27,175 --> 00:56:30,885
+<i>Dijeron que esta es tu última
+oportunidad, CarontelV.</i>
+
+869
+00:56:32,764 --> 00:56:34,263
+<i>Está bien, está bien.</i>
+
+870
+00:56:34,265 --> 00:56:37,349
+<i>Teclea A-B-Y-S-S-S-U-S.</i>
+
+871
+00:56:37,351 --> 00:56:40,894
+<i>Segunda palabra.
+A-B-Y-S-S-S-U-M.</i>
+
+872
+00:56:40,896 --> 00:56:44,773
+<i>Tercera palabra.
+I-N-V-O-C-A-T.</i>
+
+873
+00:56:44,775 --> 00:56:46,108
+<i>Espera,
+están escribiendo en mayúsculas.</i>
+
+874
+00:56:46,110 --> 00:56:48,527
+<i>- ¿Debería estar en mayúsculas?
+- Envíalo, joder.</i>
+
+875
+00:56:48,529 --> 00:56:50,195
+<i>De acuerdo. Muy bien.</i>
+
+876
+00:56:51,824 --> 00:56:53,740
+<i>Están preguntando por
+qué vaciaste la cuenta.</i>
+
+877
+00:56:53,742 --> 00:56:56,034
+<i>Diles que cambié de
+Bitcoin a Ethereum.</i>
+
+878
+00:57:01,125 --> 00:57:02,415
+<i>Están preguntando por qué.</i>
+
+879
+00:57:02,417 --> 00:57:03,833
+<i>Es un mejor tipo de cambio.</i>
+
+880
+00:57:03,876 --> 00:57:05,251
+<i>Me dieron una pista.</i>
+
+881
+00:57:11,801 --> 00:57:13,175
+<i>¿Se lo están creyendo?</i>
+
+882
+00:57:13,177 --> 00:57:15,762
+<i>SALIENDO DE THE RIVER</i>
+
+883
+00:57:18,392 --> 00:57:20,267
+<i>Sí, eso creo.</i>
+
+884
+00:57:23,856 --> 00:57:25,355
+<i>Llegaremos pronto, tendrás a Amaya.</i>
+
+885
+00:57:25,357 --> 00:57:27,232
+<i>Y tu tendrás tu laptop.</i>
+
+886
+00:57:30,445 --> 00:57:32,945
+<i>Si dejo ir a Erica,</i>
+
+887
+00:57:32,947 --> 00:57:35,239
+<i>van a pensar que se escapó y...</i>
+
+888
+00:57:35,241 --> 00:57:37,491
+<i>van a perder la fe,
+van a hacerme responsable.</i>
+
+889
+00:57:37,493 --> 00:57:38,659
+<i>Sí,
+pero tendrás $10 millones de dólares...</i>
+
+890
+00:57:38,661 --> 00:57:42,538
+<i>para ayudarte a descubrir
+cómo desaparecer.</i>
+
+891
+00:57:42,540 --> 00:57:45,332
+<i>Si algo sale mal entre aquí y allá,</i>
+
+892
+00:57:45,334 --> 00:57:47,251
+<i>ambos están muertos.</i>
+
+893
+00:57:52,592 --> 00:57:53,924
+<i>Nos está mintiendo.</i>
+
+894
+00:57:53,926 --> 00:57:56,425
+<i>Ha vuelto. Matias.</i>
+
+895
+00:57:56,427 --> 00:57:59,511
+<i>Oigan. ¿Qué?</i>
+
+896
+00:57:59,513 --> 00:58:04,016
+<i>- De acuerdo, Nari, es sólo un juego.
+- La he encontrado. ¿De acuerdo?</i>
+
+897
+00:58:04,018 --> 00:58:06,894
+<i>- Encontré a la chica, Matias, de tu video.
+- ¿A quién?</i>
+
+898
+00:58:06,896 --> 00:58:08,271
+<i>Es real. Se llama Erica Dunne.</i>
+
+899
+00:58:08,315 --> 00:58:10,315
+<i>Ella es real,
+y está realmente desaparecida.</i>
+
+900
+00:58:10,317 --> 00:58:12,567
+<i>No, Nari, lo sé, lo sé.
+Yo sólo... Eso fue un...</i>
+
+901
+00:58:12,569 --> 00:58:15,028
+<i>¿Es... Es sólo un marcador
+de posición o algo así?</i>
+
+902
+00:58:15,030 --> 00:58:16,946
+<i>Sí. No, lo es, lo es,
+es un marcador de posición.</i>
+
+903
+00:58:16,948 --> 00:58:18,615
+<i>Amigo, eso es un desastre, hombre.</i>
+
+904
+00:58:18,617 --> 00:58:20,408
+<i>¿De dónde sacaste el video?</i>
+
+905
+00:58:22,036 --> 00:58:22,785
+<i>LiveLeak.</i>
+
+906
+00:58:22,787 --> 00:58:23,869
+<i>Sí, alguien de adentro...</i>
+
+907
+00:58:23,871 --> 00:58:25,871
+<i>sólo debe haber...
+Debe haberlo filtrado...</i>
+
+908
+00:58:25,873 --> 00:58:26,955
+<i>o algo así. No lo sé.</i>
+
+909
+00:58:26,957 --> 00:58:29,083
+<i>¿Por qué usarías ese video?</i>
+
+910
+00:58:31,629 --> 00:58:33,295
+<i>De acuerdo, ¿sabes qué?
+Envía el enlace.</i>
+
+911
+00:58:33,339 --> 00:58:34,963
+<i>Nari, eso es ridículo.</i>
+
+912
+00:58:34,965 --> 00:58:36,507
+<i>¿Qué?</i>
+
+913
+00:58:36,509 --> 00:58:38,550
+<i>¿Quién es ese?</i>
+
+914
+00:58:38,552 --> 00:58:41,387
+<i>¿Es... Es Amaya?</i>
+
+915
+00:58:41,389 --> 00:58:43,138
+<i>Enciende tu video, cariño.</i>
+
+916
+00:58:45,601 --> 00:58:48,393
+<i>- ¿Matias?
+- No, no, no. Sácalo.</i>
+
+917
+00:58:48,395 --> 00:58:50,895
+<i>- Matias, ¿eres tú?
+- ¿Cómo sacamos a esta persona?</i>
+
+918
+00:58:50,897 --> 00:58:52,605
+<i>¿Alguien sabe cómo
+quitar a esta persona?</i>
+
+919
+00:58:54,234 --> 00:58:56,317
+<i>- Detente.
+- Espera, ¿qué está pasando?</i>
+
+920
+00:58:56,319 --> 00:58:58,027
+<i>Vamos, Matias.</i>
+
+921
+00:58:58,029 --> 00:58:59,570
+<i>¿Estás... Pequeño cabrón tramposo.</i>
+
+922
+00:58:59,572 --> 00:59:01,198
+<i>Está jugando con nosotros.
+Sigue siendo el juego.</i>
+
+923
+00:59:01,200 --> 00:59:03,242
+<i>No. No, chicos, no... Oigan,
+escuchen, no hagan clic en el enlace.</i>
+
+924
+00:59:03,244 --> 00:59:05,536
+<i>- ¿Este es el enlace?
+- No hagan clic en el enlace.</i>
+
+925
+00:59:05,538 --> 00:59:08,038
+<i>¿Me escuchan?</i>
+
+926
+00:59:08,040 --> 00:59:09,623
+<i>Chicos,
+no hicimos clic en el enlace,</i>
+
+927
+00:59:09,625 --> 00:59:11,333
+<i>pero el video se está
+reproduciendo de todos modos.</i>
+
+928
+00:59:11,335 --> 00:59:12,876
+<i>Lo mismo aquí.</i>
+
+929
+00:59:14,212 --> 00:59:16,087
+<i>- ¿Qué diablos...?
+- ¿Qué pasa?</i>
+
+930
+00:59:16,089 --> 00:59:18,005
+<i>Eso fue en el último año.
+Eso es en diciembre.</i>
+
+931
+00:59:18,007 --> 00:59:20,383
+<i>En realidad es el bar McLeary's,
+¿no?</i>
+
+932
+00:59:20,385 --> 00:59:23,261
+<i>UNIVERSIDAD HILLARD
+FUNDADA EN 1929</i>
+
+933
+00:59:23,304 --> 00:59:25,555
+<i>BÚSQUEDA DE ALUMNOS</i>
+
+934
+00:59:26,057 --> 00:59:28,057
+<i>- Esto es tan genial.
+- ¿Qué tiene esto que ver...</i>
+
+935
+00:59:28,059 --> 00:59:30,059
+<i>- que ver con el...
+- No lo sé.</i>
+
+936
+00:59:30,061 --> 00:59:33,396
+<i>Esperen, chicos, ¿dónde está Lexx?</i>
+
+937
+00:59:33,398 --> 00:59:36,232
+<i>Probablemente todavía esté recibiendo
+una reprimenda de su madre.</i>
+
+938
+00:59:36,234 --> 00:59:37,275
+<i>¡Lexx!</i>
+
+939
+00:59:42,656 --> 00:59:44,239
+<i>- ¿Qué es eso?
+- Es Broca de Taladro.</i>
+
+940
+00:59:44,241 --> 00:59:46,074
+<i>- Eso es un exploit.
+- ¿Qué es un exploit?</i>
+
+941
+00:59:46,076 --> 00:59:47,951
+<i>Es una herramienta de hackeo.</i>
+
+942
+00:59:50,914 --> 00:59:52,205
+<i>¡Lexx!</i>
+
+943
+00:59:52,207 --> 00:59:53,291
+<i>Raro.</i>
+
+944
+00:59:53,293 --> 00:59:55,126
+<i>¿Estás llamando a Lexx ahora mismo?</i>
+
+945
+00:59:55,128 --> 00:59:57,045
+<i>Sí,
+estoy llamando a Lexx ahora mismo.</i>
+
+946
+00:59:57,047 --> 00:59:59,047
+<i>Espera, espera, pensé que estaba...</i>
+
+947
+01:00:02,469 --> 01:00:03,718
+<i>¿Dónde está ella?</i>
+
+948
+01:00:03,720 --> 01:00:05,678
+<i>De acuerdo, yo...</i>
+
+949
+01:00:05,680 --> 01:00:08,430
+<i>¿Está metida en esto, Matias?
+¿Qué está pasando?</i>
+
+950
+01:00:11,018 --> 01:00:12,434
+<i>¿Ese es el lugar alemán?</i>
+
+951
+01:00:28,202 --> 01:00:29,117
+<i>¡No!</i>
+
+952
+01:00:29,119 --> 01:00:30,452
+<i>¿Acaba de saltar?</i>
+
+953
+01:00:30,454 --> 01:00:32,454
+<i>¡Dios mío! ¡Auxilio!</i>
+
+954
+01:00:41,422 --> 01:00:43,631
+<i>¿Matias?</i>
+
+955
+01:00:43,633 --> 01:00:45,174
+<i>¿Esa era Lexx?</i>
+
+956
+01:00:47,471 --> 01:00:49,513
+<i>Cielos.</i>
+
+957
+01:00:49,515 --> 01:00:51,223
+<i>Matias, por favor,
+habla con nosotros.</i>
+
+958
+01:00:51,225 --> 01:00:54,518
+<i>Esto es sólo... Este es el juego.</i>
+
+959
+01:00:54,520 --> 01:00:56,311
+<i>Esa no era ella.</i>
+
+960
+01:01:12,328 --> 01:01:15,121
+<i>Oye, oye, oye. ¿Qué tan cerca estás?</i>
+
+961
+01:01:15,123 --> 01:01:17,206
+<i>¿Cuán cerca...
+Cuán cerca estás del metro?</i>
+
+962
+01:01:17,208 --> 01:01:18,791
+<i>VOY DE BAJADA.</i>
+
+963
+01:01:18,835 --> 01:01:20,334
+<i>De acuerdo, de acuerdo, ¿puedes...
+¿Puedes hacerme un favor?</i>
+
+964
+01:01:20,336 --> 01:01:22,211
+<i>¿Puedes...
+Puedes quedarte en la llamada?</i>
+
+965
+01:01:22,213 --> 01:01:24,213
+<i>Y mantén tu...
+Mantén tu teléfono en el bolsillo,</i>
+
+966
+01:01:24,215 --> 01:01:27,215
+<i>o lo que sea,
+sólo quédate, ¿de acuerdo?</i>
+
+967
+01:01:27,217 --> 01:01:29,509
+<i>ESTÁS ACTUANDO RARO.</i>
+
+968
+01:01:29,594 --> 01:01:31,386
+<i>Sólo confía en mí, ¿de acuerdo?</i>
+
+969
+01:01:31,388 --> 01:01:33,138
+<i>Y cuando tú...
+Y te lo explicaré.</i>
+
+970
+01:01:33,140 --> 01:01:36,015
+<i>Cuando...
+Cuando llegues aquí, ¿de acuerdo?</i>
+
+971
+01:01:36,017 --> 01:01:37,517
+<i>Espera, no.
+Nari, Nari, Nari, Nari,</i>
+
+972
+01:01:37,519 --> 01:01:39,311
+<i>- ¿a quién llamas?
+- Llamaré a Lexx.</i>
+
+973
+01:01:39,313 --> 01:01:41,230
+<i>No. Por favor,
+no la llames ahora mismo.</i>
+
+974
+01:01:41,232 --> 01:01:43,149
+<i>- ¿De acuerdo? Por favor, confía en...
+- Directo al buzón de voz.</i>
+
+975
+01:01:43,151 --> 01:01:45,359
+<i>De acuerdo, chicos.
+Escúchenme un segundo, ¿de acuerdo?</i>
+
+976
+01:01:45,361 --> 01:01:47,194
+<i>No más llamadas, ¿de acuerdo?
+Sólo... Pueden...</i>
+
+977
+01:01:47,196 --> 01:01:48,362
+<i>pueden dejar sus
+teléfonos encendidos,</i>
+
+978
+01:01:48,364 --> 01:01:50,197
+<i>- pero no...
+- ¿Por qué?</i>
+
+979
+01:01:50,199 --> 01:01:52,365
+<i>Hay llamadas automáticas,
+es parte del juego.</i>
+
+980
+01:01:52,367 --> 01:01:54,242
+<i>Yo sólo... Sólo quiero
+asegurarme de que están pasando.</i>
+
+981
+01:01:54,244 --> 01:01:55,785
+<i>Mentira, Matias.
+Mentira, ¿de acuerdo?</i>
+
+982
+01:01:55,787 --> 01:01:56,995
+<i>- De acuerdo, Nari, Nari.
+- Ya he tenido suficiente.</i>
+
+983
+01:01:56,997 --> 01:01:59,122
+<i>Te lo juro,
+si no empiezas a hablar ahora...</i>
+
+984
+01:01:59,124 --> 01:02:00,457
+<i>Matias está jugando contigo.</i>
+
+985
+01:02:00,459 --> 01:02:02,417
+<i>No. No, no,
+voy a llamar a la Policía.</i>
+
+986
+01:02:02,419 --> 01:02:04,544
+<i>Nari, Nari, por favor.
+No hagas eso.</i>
+
+987
+01:02:04,546 --> 01:02:05,670
+<i>Por favor, cuelga,
+cuelga el teléfono, Nari.</i>
+
+988
+01:02:05,672 --> 01:02:06,671
+<i>No, no lo haré.</i>
+
+989
+01:02:06,673 --> 01:02:08,672
+<i>- Voy a llamar a la Policía ahora mismo.
+- Cálmense, chicos.</i>
+
+990
+01:02:08,674 --> 01:02:11,842
+<i>Sólo dame un segundo más,
+por favor, ¡sólo un segundo más!</i>
+
+991
+01:02:11,844 --> 01:02:14,219
+<i>Chicos, es real. Todo es real.</i>
+
+992
+01:02:18,391 --> 01:02:21,184
+<i>Sólo escúchenme, ¿de acuerdo? La razón
+por la que dije que era un juego...</i>
+
+993
+01:02:21,186 --> 01:02:23,811
+<i>es porque él dijo que si alguien lo
+sabía o si alguien se desconectaba,</i>
+
+994
+01:02:23,813 --> 01:02:25,396
+<i>mataría a Amaya y luego
+iría tras todos ustedes.</i>
+
+995
+01:02:25,398 --> 01:02:26,397
+<i>¿Quién?</i>
+
+996
+01:02:26,399 --> 01:02:29,192
+<i>¡Caronte! Caronte, CarontelV.
+El tipo cuya laptop me llevé.</i>
+
+997
+01:02:29,194 --> 01:02:31,402
+<i>De acuerdo, Matias. Lo entendemos.
+Ya he terminado con esto.</i>
+
+998
+01:02:31,404 --> 01:02:33,258
+<i>Sólo... ¿Puedes callarte
+y escucharme, por favor?</i>
+
+999
+01:02:33,282 --> 01:02:35,824
+<i>Por favor.
+Puede oír y ver todo, ¿de acuerdo?</i>
+
+1000
+01:02:35,826 --> 01:02:38,118
+<i>Quiero decir,
+encontró el apartamento de Amaya.</i>
+
+1001
+01:02:38,120 --> 01:02:39,119
+<i>Ella fue la primera persona a la que llamé,</i>
+
+1002
+01:02:39,121 --> 01:02:40,496
+<i>así que debe haber sido capaz
+de rastrearla de alguna manera,</i>
+
+1003
+01:02:40,498 --> 01:02:41,497
+<i>o, o, o, no lo sé.</i>
+
+1004
+01:02:41,499 --> 01:02:43,419
+<i>¿Hablas en serio?
+¿Lo dices en serio ahora mismo?</i>
+
+1005
+01:02:43,459 --> 01:02:46,167
+<i>Viene hacia aquí y
+él la está siguiendo.</i>
+
+1006
+01:02:46,169 --> 01:02:48,105
+<i>Espera. Espera, espera, espera,
+espera. Espera. Así que no hay juego.</i>
+
+1007
+01:02:48,129 --> 01:02:49,629
+<i>¿Todo esto está pasando de verdad?</i>
+
+1008
+01:02:49,631 --> 01:02:52,173
+<i>¡Dios mío! Él mató a Lexx.</i>
+
+1009
+01:02:52,175 --> 01:02:54,425
+<i>Yo... No... No... No lo sé.</i>
+
+1010
+01:02:54,427 --> 01:02:56,719
+<i>Pero él... La empujó.
+Él... Él... Mató a Lexx.</i>
+
+1011
+01:02:56,721 --> 01:02:59,180
+<i>Si estaba con Amaya,
+¿cómo pudo hacerle eso a Lexx?</i>
+
+1012
+01:02:59,182 --> 01:03:01,307
+<i>Esa es exactamente la cosa.
+No fue él.</i>
+
+1013
+01:03:01,309 --> 01:03:03,184
+<i>- Debe haber sido uno de los otros.
+- ¿Cuáles otros?</i>
+
+1014
+01:03:03,186 --> 01:03:05,122
+<i>Los otros... Los Carontes.
+Los que compran los videos,</i>
+
+1015
+01:03:05,146 --> 01:03:07,313
+<i>los que eligen a las chicas.
+Deben haber descubierto...</i>
+
+1016
+01:03:07,315 --> 01:03:08,815
+<i>- que la laptop fue robada.
+- ¡Dios mío!</i>
+
+1017
+01:03:08,817 --> 01:03:11,316
+<i>Chicos, no van a dejar que
+esa evidencia flote por ahí.</i>
+
+1018
+01:03:11,318 --> 01:03:13,151
+<i>Así que, todos esos videos,
+son todos...</i>
+
+1019
+01:03:13,153 --> 01:03:14,861
+<i>Esto es control de daños.
+Están haciendo una limpieza.</i>
+
+1020
+01:03:14,863 --> 01:03:17,155
+<i>Si encontraron a Lexx, ¿pueden
+encontrar al resto de nosotros también?</i>
+
+1021
+01:03:17,157 --> 01:03:19,324
+<i>Soy un fantasma en línea.
+No pueden encontrarme.</i>
+
+1022
+01:03:19,326 --> 01:03:21,910
+<i>De acuerdo. Tiene razón, tiene razón.
+Tienen que ir a casa de AJ.</i>
+
+1023
+01:03:21,912 --> 01:03:25,498
+<i>No, espera. No... ¡No!
+Si estos tipos son tan buenos...</i>
+
+1024
+01:03:25,500 --> 01:03:26,666
+<i>pueden rastrear móviles,</i>
+
+1025
+01:03:26,668 --> 01:03:28,543
+<i>pueden rastrear autos.
+No los traigan a mi casa.</i>
+
+1026
+01:03:28,545 --> 01:03:30,420
+<i>Escúchenme, chicos.
+Tienen que permanecer en línea...</i>
+
+1027
+01:03:30,422 --> 01:03:31,879
+<i>y actuar como si nada estuviera mal.</i>
+
+1028
+01:03:31,881 --> 01:03:33,256
+<i>Lo que no podemos hacer
+es quedarnos sentados,</i>
+
+1029
+01:03:33,258 --> 01:03:34,632
+<i>a esperar a que alguien
+venga a nuestra puerta.</i>
+
+1030
+01:03:34,634 --> 01:03:37,176
+<i>Esperen.
+Esperen, esperen.</i>
+
+1031
+01:03:37,178 --> 01:03:38,885
+<i>¿Cómo sabemos que no
+está escuchando ahora?</i>
+
+1032
+01:03:38,887 --> 01:03:40,846
+<i>Por el chat de Facebook.
+La luz verde,</i>
+
+1033
+01:03:40,848 --> 01:03:42,431
+<i>se dispara cuando
+pierde la conexión.</i>
+
+1034
+01:03:42,433 --> 01:03:44,349
+<i>Por eso le dije que
+tomará el metro.</i>
+
+1035
+01:03:44,351 --> 01:03:46,518
+<i>Así que cuando ella perdiera
+la conexión y fuera bajo tierra,</i>
+
+1036
+01:03:46,520 --> 01:03:48,520
+<i>entonces podría decirles lo que
+estaba pasando, ¿de acuerdo?</i>
+
+1037
+01:03:48,522 --> 01:03:52,357
+<i>Miren, no hay servicio en la estación,
+pero hay Wi-Fi en los vagones del metro.</i>
+
+1038
+01:03:52,359 --> 01:03:54,359
+<i>Así que,
+tan pronto como se suba a ese tren,</i>
+
+1039
+01:03:54,361 --> 01:03:56,278
+<i>ella va a tener Wi-Fi de nuevo,
+y él también.</i>
+
+1040
+01:03:56,280 --> 01:03:58,613
+<i>¿De acuerdo?
+Vamos a... ¿Podemos... Podemos sólo...?</i>
+
+1041
+01:03:58,615 --> 01:04:00,907
+<i>¿Podemos jugar un juego mientras tanto,
+actuar como si no pasara nada?</i>
+
+1042
+01:04:00,909 --> 01:04:03,827
+<i>- Le daré la laptop cuando llegue.
+- Espera. Si está mirando,</i>
+
+1043
+01:04:03,829 --> 01:04:06,203
+<i>si vio lo que le pasó a Lexx,
+¿no lo sabe?</i>
+
+1044
+01:04:06,205 --> 01:04:07,997
+<i>No... No lo sé.
+Aún no ha dicho nada.</i>
+
+1045
+01:04:07,999 --> 01:04:10,833
+<i>Así que, así que podría haber
+sucedido cuando no tenía conexión o...</i>
+
+1046
+01:04:13,880 --> 01:04:16,380
+<i>Oye, AJ. AJ, AJ, amigo, sal de ahí.</i>
+
+1047
+01:04:16,382 --> 01:04:18,884
+<i>- Sal. Sal de ahí.
+- AJ, sal de ahí ahora mismo.</i>
+
+1048
+01:04:18,886 --> 01:04:20,969
+<i>- AJ... AJ, ¡sal de ahí!
+- AJ, sal de ahí.</i>
+
+1049
+01:04:20,971 --> 01:04:25,515
+<i>Por Dios, mamá, ¿qué estás...</i>
+
+1050
+01:04:25,517 --> 01:04:27,726
+<i>¡Dios!</i>
+
+1051
+01:04:27,728 --> 01:04:29,936
+<i>Está bien, está bien,
+está bien, escuchen.</i>
+
+1052
+01:04:29,938 --> 01:04:32,396
+<i>Transferí todo el dinero, todo el
+dinero a mi cuenta, ¿de acuerdo?</i>
+
+1053
+01:04:32,398 --> 01:04:34,398
+<i>- Sólo temporalmente.
+- ¿Por qué no nos lo dijiste?</i>
+
+1054
+01:04:34,400 --> 01:04:35,983
+<i>¿Por qué,
+por qué no intentaste advertirnos?</i>
+
+1055
+01:04:35,985 --> 01:04:37,818
+<i>¿Cómo podría haberte advertido,
+Damon?</i>
+
+1056
+01:04:37,820 --> 01:04:40,237
+<i>Si lo hiciera, Amaya estaría...</i>
+
+1057
+01:04:40,239 --> 01:04:42,281
+<i>Y lo hice como seguro, ¿de acuerdo?</i>
+
+1058
+01:04:42,283 --> 01:04:43,824
+<i>¿Qué, qué hay de la laptop?
+¿No es suficiente seguro?</i>
+
+1059
+01:04:43,826 --> 01:04:45,576
+<i>No va a lastimar a
+Amaya cuando tengas...</i>
+
+1060
+01:04:45,578 --> 01:04:47,912
+<i>- No sólo a Amaya.
+- ¡Tienes todas sus pruebas!</i>
+
+1061
+01:04:47,914 --> 01:04:49,663
+<i>Erica Dunne.</i>
+
+1062
+01:04:49,665 --> 01:04:51,415
+<i>Le dije que recuperaría el dinero...</i>
+
+1063
+01:04:51,417 --> 01:04:53,584
+<i>una vez que supiera que
+ella también está libre.</i>
+
+1064
+01:04:57,756 --> 01:05:00,590
+<i>Matty, estás tan muerto.</i>
+
+1065
+01:05:00,592 --> 01:05:02,967
+<i>¿Qué más se suponía
+que tenía que hacer?</i>
+
+1066
+01:05:02,969 --> 01:05:04,761
+<i>Viste lo que le hacen a esa gente.</i>
+
+1067
+01:05:04,763 --> 01:05:06,429
+<i>¿Qué creías que iba a pasar?
+¿Crees que sólo iba a...</i>
+
+1068
+01:05:06,431 --> 01:05:09,432
+<i>¿... tomar la laptop y alejarse?</i>
+
+1069
+01:05:11,437 --> 01:05:14,397
+<i>Sé que lo que les
+pido que hagan es...</i>
+
+1070
+01:05:14,399 --> 01:05:16,273
+<i>Amaya estará aquí en cinco minutos,</i>
+
+1071
+01:05:16,275 --> 01:05:19,026
+<i>y no puedo prometerles
+que en esos cinco minutos...</i>
+
+1072
+01:05:19,028 --> 01:05:21,445
+<i>nadie más va a
+aparecer en su puerta,</i>
+
+1073
+01:05:21,447 --> 01:05:23,613
+<i>pero...</i>
+
+1074
+01:05:23,657 --> 01:05:26,449
+<i>Chicos, si no hacemos esto,
+Amaya...</i>
+
+1075
+01:05:26,451 --> 01:05:28,618
+<i>Por favor.</i>
+
+1076
+01:05:42,843 --> 01:05:43,883
+<i>De acuerdo.</i>
+
+1077
+01:05:43,885 --> 01:05:46,428
+<i>Entonces, ¿quién quiere ir primero?</i>
+
+1078
+01:05:53,561 --> 01:05:54,643
+<i>Iré yo.</i>
+
+1079
+01:05:57,064 --> 01:05:59,523
+<i>Sí, bueno, esa apesta.</i>
+
+1080
+01:06:04,781 --> 01:06:07,657
+<i>Despidieron a mi
+Profesor de gimnasia...</i>
+
+1081
+01:06:07,701 --> 01:06:08,867
+<i>por añadir... "espacio en blanco"...</i>
+
+1082
+01:06:08,869 --> 01:06:11,703
+<i>a la carrera de obstáculos.</i>
+
+1083
+01:06:20,879 --> 01:06:22,670
+<i>Demasiada cocaína.</i>
+
+1084
+01:06:23,882 --> 01:06:25,757
+<i>Velcro.</i>
+
+1085
+01:06:25,759 --> 01:06:28,801
+<i>Depresión.</i>
+
+1086
+01:06:31,348 --> 01:06:32,638
+<i>Me gusta lo de velcro.</i>
+
+1087
+01:06:36,061 --> 01:06:38,561
+<i>Creí que lo de depresión
+era bastante buena.</i>
+
+1088
+01:06:39,981 --> 01:06:41,731
+<i>De acuerdo, yo iré.</i>
+
+1089
+01:06:41,733 --> 01:06:43,815
+<i>¿O quieres ir, Damon?</i>
+
+1090
+01:06:43,817 --> 01:06:47,527
+<i>- Sí. Sí, está bien.
+- ¿Sí? Está bien.</i>
+
+1091
+01:06:47,571 --> 01:06:50,697
+<i>En su nueva acción,</i>
+
+1092
+01:06:50,699 --> 01:06:53,742
+<i>en su nueva comedia de acción,
+Jackie Chan debe combatir...</i>
+
+1093
+01:06:53,744 --> 01:06:56,079
+<i>ALEJA A NARI DEL TELÉFONO.</i>
+
+1094
+01:06:56,122 --> 01:06:58,581
+<i>Nari, estamos, estamos,
+estamos tratando de jugar.</i>
+
+1095
+01:06:58,583 --> 01:06:59,499
+<i>¿Y DONDE ESTÁ LEXX?</i>
+
+1096
+01:06:59,542 --> 01:07:00,708
+<i>Lo siento.</i>
+
+1097
+01:07:02,003 --> 01:07:02,960
+<i>LLEGÓ SU NOVIO.</i>
+
+1098
+01:07:03,004 --> 01:07:04,712
+<i>¡QUE VUELVA EN LÍNEA AHORA!</i>
+
+1099
+01:07:04,756 --> 01:07:05,880
+<i>NO TOMARÁ SU TELÉFONO.</i>
+
+1100
+01:07:05,924 --> 01:07:07,548
+<i>ESTÁ TENIENDO SEXO.</i>
+
+1101
+01:07:09,718 --> 01:07:12,636
+<i>NO MÁS LLAMADAS.</i>
+
+1102
+01:07:12,930 --> 01:07:14,721
+<i>Si.</i>
+
+1103
+01:07:14,723 --> 01:07:16,431
+<i>Matias, dame acceso a la laptop.</i>
+
+1104
+01:07:16,433 --> 01:07:17,933
+<i>Preferencias del Sistema,
+Usuarios y Grupos,</i>
+
+1105
+01:07:17,935 --> 01:07:21,645
+<i>Agregar Usuario, asegúrate de
+darme acceso administrativo.</i>
+
+1106
+01:07:21,647 --> 01:07:23,689
+<i>Espera, yo sólo...
+¿Qué vas a hacer?</i>
+
+1107
+01:07:23,691 --> 01:07:25,440
+<i>Voy a hacer una copia de seguridad
+de todos los videos...</i>
+
+1108
+01:07:25,442 --> 01:07:26,775
+<i>y voy a pasar por los
+servicios de localización,</i>
+
+1109
+01:07:26,777 --> 01:07:28,819
+<i>en caso de que podamos averiguar
+dónde ha estado la laptop,</i>
+
+1110
+01:07:28,821 --> 01:07:31,029
+<i>entonces tal vez podamos
+encontrar a la chica desaparecida.</i>
+
+1111
+01:07:31,031 --> 01:07:32,489
+<i>Espera, ¿qué quieres decir?</i>
+
+1112
+01:07:32,491 --> 01:07:33,740
+<i>¿Estamos...
+No te preocupes, de acuerdo?</i>
+
+1113
+01:07:33,742 --> 01:07:35,408
+<i>¿Qué estás...? ¿Qué...? No.</i>
+
+1114
+01:07:35,410 --> 01:07:36,450
+<i>Chicos, mi amigo del cuerpo,</i>
+
+1115
+01:07:36,452 --> 01:07:37,660
+<i>viene hacia aquí, así que...</i>
+
+1116
+01:07:38,746 --> 01:07:40,955
+<i>De acuerdo.</i>
+
+1117
+01:07:40,957 --> 01:07:42,206
+<i>"En blanco".</i>
+
+1118
+01:07:42,208 --> 01:07:45,543
+<i>Impresionante en teoría,
+un desastre en la práctica.</i>
+
+1119
+01:07:45,545 --> 01:07:49,673
+<i>El equipo de natación,</i>
+
+1120
+01:07:49,675 --> 01:07:50,757
+<i>de una sola vez.</i>
+
+1121
+01:07:53,554 --> 01:07:55,012
+<i>De acuerdo, se ha ido.
+AJ, AJ, AJ,</i>
+
+1122
+01:07:55,014 --> 01:07:56,680
+<i>tan pronto como Amaya
+llegue a mi casa,</i>
+
+1123
+01:07:56,682 --> 01:07:58,140
+<i>te desconectas, y tú y tu madre...</i>
+
+1124
+01:07:58,142 --> 01:07:59,349
+<i>se salen de la casa. ¿De acuerdo?</i>
+
+1125
+01:07:59,351 --> 01:08:01,560
+<i>Eres el único que
+podría no estar a salvo.</i>
+
+1126
+01:08:01,562 --> 01:08:03,561
+<i>Damon está en Londres,
+no pueden llegar a él.</i>
+
+1127
+01:08:03,563 --> 01:08:05,146
+<i>Y Nari tiene un amigo en la fuerza,</i>
+
+1128
+01:08:05,148 --> 01:08:06,814
+<i>así que, así que la
+Policía ya está en camino.</i>
+
+1129
+01:08:06,816 --> 01:08:07,857
+<i>De acuerdo, escuchen,</i>
+
+1130
+01:08:07,859 --> 01:08:09,817
+<i>ustedes no pueden quedarse allí.</i>
+
+1131
+01:08:09,819 --> 01:08:10,985
+<i>No, no, no. No vamos a hacerlo.</i>
+
+1132
+01:08:10,987 --> 01:08:12,403
+<i>Espera, espera, espera...</i>
+
+1133
+01:08:13,156 --> 01:08:15,406
+<i>EL METRO SE DESCOMPUSO.</i>
+
+1134
+01:08:15,742 --> 01:08:18,576
+<i>DICEN QUE VA A TARDAR.</i>
+
+1135
+01:08:23,916 --> 01:08:25,875
+<i>¿CREES QUE PUDO SER HACKEADA?</i>
+
+1136
+01:08:25,918 --> 01:08:28,793
+<i>Amaya... Amaya va a llegar tarde.</i>
+
+1137
+01:08:28,795 --> 01:08:30,879
+<i>Dice que hay algo
+malo con el metro.</i>
+
+1138
+01:08:30,881 --> 01:08:32,547
+<i>¿Ustedes, ustedes, chicos...</i>
+
+1139
+01:08:32,549 --> 01:08:34,841
+<i>¿Pueden jugar un poco más?</i>
+
+1140
+01:08:34,843 --> 01:08:37,594
+<i>- Sí. Sí, sí, sí.
+- Yo, totalmente.</i>
+
+1141
+01:08:37,596 --> 01:08:39,721
+<i>- De acuerdo.
+- Oye, ¿Serena?</i>
+
+1142
+01:08:39,723 --> 01:08:41,139
+<i>Serena, Nari.</i>
+
+1143
+01:08:41,141 --> 01:08:43,684
+<i>- ¿Serena?
+- Chicas.</i>
+
+1144
+01:08:43,686 --> 01:08:44,686
+<i>¿Hola?</i>
+
+1145
+01:08:46,689 --> 01:08:50,733
+<i>Lo siento, chicos.
+Nari se está saltando esta ronda.</i>
+
+1146
+01:08:50,735 --> 01:08:55,195
+<i>Matias, ¿podemos jugar otra cosa?</i>
+
+1147
+01:08:55,238 --> 01:08:56,821
+<i>Me estoy hartando de este juego.</i>
+
+1148
+01:08:56,823 --> 01:08:58,740
+<i>- ¿Cuánto tiempo más?
+- ¿Cuánto tiempo más...</i>
+
+1149
+01:08:58,742 --> 01:09:00,241
+<i>¿Dónde se descompuso el metro?</i>
+
+1150
+01:09:00,243 --> 01:09:03,119
+<i>Déjame... Déjame preguntar.</i>
+
+1151
+01:09:08,835 --> 01:09:11,795
+<i>Es, Western Boulevard.</i>
+
+1152
+01:09:11,797 --> 01:09:13,213
+<i>Western Boulevard.</i>
+
+1153
+01:09:13,215 --> 01:09:15,840
+<i>No muy lejos...</i>
+
+1154
+01:09:15,842 --> 01:09:17,884
+<i>¿Qué hay con Nari?</i>
+
+1155
+01:09:17,886 --> 01:09:19,511
+<i>En el baño. No se siente bien.</i>
+
+1156
+01:09:19,513 --> 01:09:20,887
+<i>Puede que tarde un rato.</i>
+
+1157
+01:09:32,775 --> 01:09:35,235
+<i>¿Sabes qué?
+¡Jode todo lo que quieras, imbécil!</i>
+
+1158
+01:09:35,278 --> 01:09:37,570
+<i>- ¡AJ! ¡Amigo!
+- ¡Tengo esta mierda atada!</i>
+
+1159
+01:09:37,572 --> 01:09:39,864
+<i>- ¡Haz lo peor!
+- Se ha ido, se ha ido, AJ.</i>
+
+1160
+01:09:40,867 --> 01:09:42,909
+<i>Estoy tan enfermo y cansado...</i>
+
+1161
+01:09:42,953 --> 01:09:46,079
+<i>de todos ustedes, ovejas, que no están
+lo suficientemente enfermas y cansadas...</i>
+
+1162
+01:09:46,081 --> 01:09:47,871
+<i>para salir de su...</i>
+
+1163
+01:09:50,292 --> 01:09:52,251
+<i>enfermo y cansado...</i>
+
+1164
+01:09:52,294 --> 01:09:54,753
+<i>enfermo y cansado...
+Enfermo y cansado...</i>
+
+1165
+01:09:54,755 --> 01:09:57,089
+<i>Esa es la manera de evitar
+la corrupción de datos...</i>
+
+1166
+01:09:57,133 --> 01:10:00,217
+<i>cuando se utilizan
+las SSD paralelas.</i>
+
+1167
+01:10:00,219 --> 01:10:02,761
+<i>Una corrupción... Corrupción.</i>
+
+1168
+01:10:02,763 --> 01:10:05,014
+<i>La protesta que se está llevando a cabo
+en el Gran Centro Comercial Americano...</i>
+
+1169
+01:10:05,016 --> 01:10:07,641
+<i>en el centro Flint, Michigan,
+por esa agua sucia.</i>
+
+1170
+01:10:07,643 --> 01:10:09,018
+<i>Eso siguió, así que, voy a empacar...</i>
+
+1171
+01:10:09,020 --> 01:10:11,270
+<i>todas mis cosas,
+ir al Centro Comercial,</i>
+
+1172
+01:10:11,272 --> 01:10:12,980
+<i>y divertirme un poco.</i>
+
+1173
+01:10:12,982 --> 01:10:15,314
+<i>Ir al Centro Comercial
+y divertirme un poco.</i>
+
+1174
+01:10:15,316 --> 01:10:17,316
+<i>La hermosa Segunda Enmienda
+que mantiene legal...</i>
+
+1175
+01:10:17,318 --> 01:10:20,319
+<i>el tener un almacén
+de armas de asalto...</i>
+
+1176
+01:10:20,321 --> 01:10:21,946
+<i>y explosivos...</i>
+
+1177
+01:10:21,948 --> 01:10:23,781
+<i>armas de asalto y explosivos...</i>
+
+1178
+01:10:23,783 --> 01:10:24,949
+<i>armas y explosivos...</i>
+
+1179
+01:10:33,668 --> 01:10:35,918
+<i>911, por favor, indique la
+naturaleza de su emergencia.</i>
+
+1180
+01:10:35,920 --> 01:10:38,963
+<i>Estoy harto y cansado de toda...
+La corrupción.</i>
+
+1181
+01:10:38,965 --> 01:10:40,714
+<i>Señor,
+¿es una verdadera emergencia?</i>
+
+1182
+01:10:40,716 --> 01:10:41,715
+<i>Voy a empacar todas mis...</i>
+
+1183
+01:10:41,717 --> 01:10:43,592
+<i>armas de asalto y explosivos.</i>
+
+1184
+01:10:43,594 --> 01:10:45,344
+<i>Ir al Centro Comercial
+y divertirme un poco.</i>
+
+1185
+01:10:45,346 --> 01:10:47,179
+<i>Señor, ¿puede decirme su nombre?</i>
+
+1186
+01:10:47,181 --> 01:10:49,598
+<i>Jeffcock es un apellido
+familiar.</i>
+
+1187
+01:10:52,269 --> 01:10:53,685
+<i>Esperen...</i>
+
+1188
+01:10:54,855 --> 01:10:57,356
+<i>Hicieron esa llamada
+hace dos minutos.</i>
+
+1189
+01:10:57,358 --> 01:10:59,316
+<i>AJ tienes que salir de...</i>
+
+1190
+01:10:59,318 --> 01:11:01,026
+<i>¡Policía!
+¡Tenemos una orden de registro!</i>
+
+1191
+01:11:01,028 --> 01:11:02,736
+<i>No, yo...</i>
+
+1192
+01:11:02,738 --> 01:11:04,863
+<i>AJ, tírate al suelo ahora mismo,
+¿de acuerdo?</i>
+
+1193
+01:11:04,865 --> 01:11:06,864
+<i>AJ tírate al... ¡Al maldito suelo!</i>
+
+1194
+01:11:06,866 --> 01:11:08,866
+<i>- Sí, sí, sí.
+- ¡Al suelo!</i>
+
+1195
+01:11:08,868 --> 01:11:10,993
+<i>- ¡Al suelo ahora mismo!
+- ¿Qué está pasando?</i>
+
+1196
+01:11:10,995 --> 01:11:12,953
+<i>- ¿Dónde está su hijo?
+- En el sótano.</i>
+
+1197
+01:11:12,955 --> 01:11:14,830
+<i>Esperen, esperen, esperen.
+¿Qué es esto en la pantalla?</i>
+
+1198
+01:11:14,832 --> 01:11:16,832
+<i>- ¿Qué hay en la pantalla?
+- Es el escritorio de AJ.</i>
+
+1199
+01:11:16,834 --> 01:11:19,710
+<i>- ¿Qué pasa?
+- Están en su computadora.</i>
+
+1200
+01:11:19,712 --> 01:11:21,880
+<i>Están cargando algo.</i>
+
+1201
+01:11:21,882 --> 01:11:24,716
+<i>- ¡Policía, abran la puerta!
+- No puedo. Estoy en el suelo.</i>
+
+1202
+01:11:24,718 --> 01:11:26,843
+<i>Abran la puerta o la derribaremos.</i>
+
+1203
+01:11:26,845 --> 01:11:29,221
+<i>De acuerdo. De acuerdo, ya voy,
+ya voy, ya voy.</i>
+
+1204
+01:11:29,223 --> 01:11:31,181
+<i>- Quédate abajo.
+- ¡Dios mío!</i>
+
+1205
+01:11:31,183 --> 01:11:32,224
+<i>¡Abre la puerta!</i>
+
+1206
+01:11:32,226 --> 01:11:33,391
+<i>¡Ya voy! ¡Ya voy!</i>
+
+1207
+01:11:33,393 --> 01:11:34,892
+<i>- ¡No! ¡AJ!
+- ¡No! ¡No! ¡No!</i>
+
+1208
+01:11:34,894 --> 01:11:36,268
+<i>- ¡AJ! ¡No!
+- Quédate en el suelo.</i>
+
+1209
+01:11:36,270 --> 01:11:38,396
+<i>- No. ¡AJ!
+- ¡No! ¡AJ!</i>
+
+1210
+01:11:38,398 --> 01:11:40,398
+<i>- ¡No! No, no, no, no. ¡Quédate!
+- ¡No!</i>
+
+1211
+01:11:40,400 --> 01:11:43,192
+<i>¡AJ! ¡No! ¡AJ!</i>
+
+1212
+01:11:43,194 --> 01:11:46,028
+<i>¡No! ¡No! ¡No!</i>
+
+1213
+01:11:46,030 --> 01:11:47,071
+<i>¡Arma, arma!</i>
+
+1214
+01:11:51,327 --> 01:11:53,160
+<i>¡Dios...</i>
+
+1215
+01:11:59,085 --> 01:12:00,417
+<i>Sospechoso abatido.</i>
+
+1216
+01:12:12,305 --> 01:12:14,056
+<i>AJ.</i>
+
+1217
+01:12:16,644 --> 01:12:20,938
+<i>SABEN QUE PERDÍ LA LAPTOP,
+¿NO ES ASÍ?</i>
+
+1218
+01:12:20,982 --> 01:12:22,940
+<i>EL CÍRCULO.</i>
+
+1219
+01:12:22,984 --> 01:12:25,860
+<i>POR FAVOR, SÓLO DEJALA IR.</i>
+
+1220
+01:12:27,821 --> 01:12:30,155
+<i>ESTÁ MUERTA DE TODOS MODOS.</i>
+
+1221
+01:12:30,198 --> 01:12:32,490
+<i>TODOS LO ESTAMOS.</i>
+
+1222
+01:12:33,785 --> 01:12:35,160
+<i>Va a matar a Amaya.</i>
+
+1223
+01:12:35,162 --> 01:12:36,953
+<i>Tan pronto como el tren
+llegue a la estación.</i>
+
+1224
+01:12:36,955 --> 01:12:38,788
+<i>No,
+Nari está en camino ahora mismo.</i>
+
+1225
+01:12:38,790 --> 01:12:40,331
+<i>- ¿Qué?
+- Sí, intentará...</i>
+
+1226
+01:12:40,333 --> 01:12:41,916
+<i>llegar allí antes de
+que puedan llegar a ella.</i>
+
+1227
+01:12:41,918 --> 01:12:43,376
+<i>Puedo...
+Puedo llegar allí más rápido.</i>
+
+1228
+01:12:43,378 --> 01:12:44,794
+<i>Me voy a ir ahora.</i>
+
+1229
+01:12:48,133 --> 01:12:49,799
+<i>¿Qué...</i>
+
+1230
+01:12:49,801 --> 01:12:51,134
+<i>¿Qué está pasando?</i>
+
+1231
+01:13:12,115 --> 01:13:14,741
+<i>Adiós, te amo.</i>
+
+1232
+01:13:15,744 --> 01:13:17,744
+<i>Así que, esta es la cosa.</i>
+
+1233
+01:13:17,746 --> 01:13:19,119
+<i>Íbamos a decírselo esta noche,</i>
+
+1234
+01:13:19,121 --> 01:13:20,287
+<i>y a través de Skype.</i>
+
+1235
+01:13:20,289 --> 01:13:21,830
+<i>¿Quieres que...</i>
+
+1236
+01:13:21,832 --> 01:13:23,185
+<i>¿Quieres no decírselo
+esta noche o...?</i>
+
+1237
+01:13:23,209 --> 01:13:25,459
+<i>- ¿O qué...
+- No, es perfecto,</i>
+
+1238
+01:13:25,461 --> 01:13:26,502
+<i>porque de esta manera,</i>
+
+1239
+01:13:26,545 --> 01:13:29,797
+<i>Damon puede estar ahí
+para las noticias.</i>
+
+1240
+01:13:30,966 --> 01:13:32,883
+<i>AJ estará bien. Es un chico grande.</i>
+
+1241
+01:13:32,885 --> 01:13:34,510
+<i>Es un chico grande.</i>
+
+1242
+01:13:34,512 --> 01:13:36,512
+<i>Chico grande que
+probablemente aparecerá mucho...</i>
+
+1243
+01:13:36,555 --> 01:13:38,180
+<i>en protestás simbólicas.</i>
+
+1244
+01:13:38,182 --> 01:13:40,265
+<i>Eso es probablemente cierto.</i>
+
+1245
+01:13:40,267 --> 01:13:41,809
+<i>En un caballo blanco.</i>
+
+1246
+01:13:41,811 --> 01:13:44,103
+<i>- Le encantaría eso.
+- Sí.</i>
+
+1247
+01:13:44,105 --> 01:13:45,353
+<i>O con una grabadora.</i>
+
+1248
+01:13:45,397 --> 01:13:49,148
+<i>Al estilo de John Cusack.</i>
+
+1249
+01:13:49,150 --> 01:13:51,025
+<i>Y luego podemos ponerla
+en la mesa de tus padres.</i>
+
+1250
+01:13:51,027 --> 01:13:54,195
+<i>Esa será toda la energía
+que todos necesitamos.</i>
+
+1251
+01:13:57,867 --> 01:13:59,993
+<i>No van a venir, así que...</i>
+
+1252
+01:14:04,792 --> 01:14:07,084
+<i>¿Crees que cambiarían
+mágicamente de opinión...</i>
+
+1253
+01:14:07,086 --> 01:14:09,253
+<i>y se volverían modernos?</i>
+
+1254
+01:14:09,255 --> 01:14:12,880
+<i>Quiero decir, yo sólo soy...
+Su única hija, así que...</i>
+
+1255
+01:14:13,591 --> 01:14:15,049
+<i>Mi mamá.</i>
+
+1256
+01:14:15,051 --> 01:14:16,592
+<i>No, tu madre va a estar bien.</i>
+
+1257
+01:14:16,594 --> 01:14:19,345
+<i>- No. Nari.
+- Ella... No, tiene que estarlo.</i>
+
+1258
+01:14:21,266 --> 01:14:23,891
+<i>Ella nunca va a dejar ese hospital.</i>
+
+1259
+01:14:26,104 --> 01:14:27,437
+<i>Bueno, entonces, entonces,</i>
+
+1260
+01:14:27,439 --> 01:14:30,148
+<i>vamos a casarnos esta
+noche en su habitación,</i>
+
+1261
+01:14:30,150 --> 01:14:33,026
+<i>y, y podemos llevar el papeleo y...</i>
+
+1262
+01:14:33,028 --> 01:14:33,776
+<i>¿En la UCI?</i>
+
+1263
+01:14:33,778 --> 01:14:35,278
+<i>Y ella será nuestro testigo.</i>
+
+1264
+01:14:35,280 --> 01:14:36,280
+<i>Sí, sí.</i>
+
+1265
+01:14:38,490 --> 01:14:40,782
+<i>Me encanta esa idea.</i>
+
+1266
+01:14:42,410 --> 01:14:44,035
+<i>Pero no se trata de eso.</i>
+
+1267
+01:14:45,496 --> 01:14:47,997
+<i>No quiero que tengas que elegir...</i>
+
+1268
+01:14:49,417 --> 01:14:51,042
+<i>entre ellos y yo.</i>
+
+1269
+01:14:51,044 --> 01:14:53,295
+<i>Eso es...</i>
+
+1270
+01:14:53,297 --> 01:14:54,921
+<i>No es justo.</i>
+
+1271
+01:15:00,054 --> 01:15:05,264
+<i>No quiero que tengas que elegir.</i>
+
+1272
+01:15:10,480 --> 01:15:13,314
+<i>Esperen, es... Es Nari.</i>
+
+1273
+01:15:24,619 --> 01:15:27,912
+<i>Esperen.
+¿Quién, quién, quién es esa?</i>
+
+1274
+01:15:27,914 --> 01:15:29,330
+<i>Esa es mi madre.</i>
+
+1275
+01:15:32,042 --> 01:15:34,084
+<i>ESCOGE.</i>
+
+1276
+01:15:36,463 --> 01:15:38,129
+<i>¡Dios!</i>
+
+1277
+01:15:43,887 --> 01:15:46,013
+<i>¡No, no, no, no! ¡No, no!</i>
+
+1278
+01:15:46,015 --> 01:15:47,223
+<i>Haré lo que sea.</i>
+
+1279
+01:15:47,225 --> 01:15:48,432
+<i>¡Detén esto ahora mismo!</i>
+
+1280
+01:15:48,434 --> 01:15:49,850
+<i>Haré cualquier cosa...</i>
+
+1281
+01:15:52,647 --> 01:15:53,979
+<i>¡Por favor!</i>
+
+1282
+01:15:53,981 --> 01:15:56,107
+<i>Por favor, no lo hagas.</i>
+
+1283
+01:15:56,109 --> 01:15:58,233
+<i>Puedes tenerme. No me importa,</i>
+
+1284
+01:15:58,235 --> 01:16:00,235
+<i>sólo, por favor, ¡detente!</i>
+
+1285
+01:16:00,237 --> 01:16:01,528
+<i>Por favor, por favor,</i>
+
+1286
+01:16:01,530 --> 01:16:04,364
+<i>¡por favor, por favor!</i>
+
+1287
+01:16:04,366 --> 01:16:06,241
+<i>¡Dios!</i>
+
+1288
+01:16:09,538 --> 01:16:12,288
+<i>¡No!</i>
+
+1289
+01:16:12,290 --> 01:16:14,416
+<i>No, no puedo.</i>
+
+1290
+01:16:14,418 --> 01:16:18,378
+<i>No puedo.</i>
+
+1291
+01:16:20,674 --> 01:16:23,008
+<i>No, no.</i>
+
+1292
+01:16:25,052 --> 01:16:27,344
+<i>No.</i>
+
+1293
+01:16:27,346 --> 01:16:28,346
+<i>No lo haré.</i>
+
+1294
+01:16:36,689 --> 01:16:37,731
+<i>¡No!</i>
+
+1295
+01:16:39,192 --> 01:16:40,942
+<i>Nari.</i>
+
+1296
+01:16:42,571 --> 01:16:47,073
+<i>Lo siento.</i>
+
+1297
+01:16:49,369 --> 01:16:50,369
+<i>No.</i>
+
+1298
+01:16:54,332 --> 01:16:55,581
+<i>No.</i>
+
+1299
+01:16:55,583 --> 01:16:57,124
+<i>¡No!</i>
+
+1300
+01:16:57,126 --> 01:16:58,208
+<i>¡Maldita sea!</i>
+
+1301
+01:16:58,210 --> 01:16:59,335
+<i>¡No!</i>
+
+1302
+01:16:59,337 --> 01:17:01,503
+<i>¡Dios!</i>
+
+1303
+01:17:01,505 --> 01:17:03,130
+<i>¡No!</i>
+
+1304
+01:17:06,552 --> 01:17:09,094
+<i>¡No!</i>
+
+1305
+01:17:09,096 --> 01:17:13,265
+<i>¡Nari!</i>
+
+1306
+01:17:13,267 --> 01:17:15,225
+<i>¡Dios mío!</i>
+
+1307
+01:17:17,771 --> 01:17:19,187
+<i>Lo siento, Serena,</i>
+
+1308
+01:17:19,189 --> 01:17:20,938
+<i>lo siento.</i>
+
+1309
+01:17:23,985 --> 01:17:26,319
+<i>¡Serena, Serena,
+sal de ahí ahora mismo!</i>
+
+1310
+01:17:26,321 --> 01:17:27,779
+<i>Serena, sal de ahí.</i>
+
+1311
+01:17:27,781 --> 01:17:29,364
+<i>¡Serena, sal de ahí ahora mismo!</i>
+
+1312
+01:17:36,749 --> 01:17:40,334
+<i>¡Dios mío!</i>
+
+1313
+01:17:53,223 --> 01:17:53,971
+<i>Escúchame.</i>
+
+1314
+01:17:54,015 --> 01:17:55,682
+<i>Quiero que me escuches,</i>
+
+1315
+01:17:55,684 --> 01:17:58,059
+<i>con quien sea que esté
+hablando ahora mismo.</i>
+
+1316
+01:17:58,770 --> 01:18:00,603
+<i>Amaya, mi...</i>
+
+1317
+01:18:00,605 --> 01:18:03,189
+<i>Ella no tiene nada que
+ver con esto, ¿de acuerdo?</i>
+
+1318
+01:18:03,191 --> 01:18:04,691
+<i>Ella ni siquiera...
+Ni siquiera sabe que...</i>
+
+1319
+01:18:04,693 --> 01:18:06,693
+<i>encontré la laptop, ¿de acuerdo?</i>
+
+1320
+01:18:06,695 --> 01:18:08,486
+<i>El tipo que la perdió...
+El tipo que la perdió,</i>
+
+1321
+01:18:08,488 --> 01:18:10,529
+<i>él está,
+está en el metro con ella.</i>
+
+1322
+01:18:10,531 --> 01:18:11,655
+<i>Lleva una sudadera gris,</i>
+
+1323
+01:18:11,657 --> 01:18:13,198
+<i>todo esto es su culpa, ¿de acuerdo?</i>
+
+1324
+01:18:13,200 --> 01:18:16,201
+<i>¡Ella no tiene nada
+que ver con esto!</i>
+
+1325
+01:18:17,538 --> 01:18:19,621
+<i>¡Por favor!</i>
+
+1326
+01:18:19,623 --> 01:18:21,540
+<i>Lo borraré todo, ¿de acuerdo?</i>
+
+1327
+01:18:21,542 --> 01:18:24,085
+<i>No tendrás nada que te
+lleve hasta mí, te lo juro.</i>
+
+1328
+01:18:24,087 --> 01:18:27,088
+<i>Sí, si lo matas...</i>
+
+1329
+01:18:28,216 --> 01:18:29,674
+<i>No me importa lo que me hagas,</i>
+
+1330
+01:18:29,676 --> 01:18:31,217
+<i>no me importa lo que me hagas,</i>
+
+1331
+01:18:31,219 --> 01:18:34,512
+<i>¡pero por favor,
+deja a Amaya fuera de esto!</i>
+
+1332
+01:18:36,181 --> 01:18:40,600
+<i>ESTOY EN LA ESTACIÓN,
+PERO LA POLICÍA ESTÁ AQUÍ.</i>
+
+1333
+01:18:44,732 --> 01:18:48,275
+<i>CREO ALGUIEN ESTÁ HERIDO.</i>
+
+1334
+01:18:58,369 --> 01:18:59,493
+<i>¿PELIGRO?</i>
+
+1335
+01:18:59,495 --> 01:19:00,703
+<i>¿QUÉ ESTÁ PASANDO?</i>
+
+1336
+01:19:17,638 --> 01:19:19,347
+<i>No, no, no, no, no, no, no.</i>
+
+1337
+01:19:20,808 --> 01:19:22,725
+<i>Nena...</i>
+
+1338
+01:19:22,727 --> 01:19:24,143
+<i>¿de acuerdo?</i>
+
+1339
+01:19:33,195 --> 01:19:35,528
+<i>¿Qué? Despacio, despacio,
+despacio, despacio.</i>
+
+1340
+01:19:35,530 --> 01:19:36,530
+<i>Despacio.</i>
+
+1341
+01:19:55,841 --> 01:20:00,260
+<i>Ve, ve, ve.</i>
+
+1342
+01:20:00,262 --> 01:20:02,471
+<i>Muy bien,
+¿vas a ir por ella, hombre?</i>
+
+1343
+01:20:02,473 --> 01:20:03,847
+<i>Sí, lo haré.</i>
+
+1344
+01:20:03,849 --> 01:20:05,933
+<i>De acuerdo, sólo asegúrate de
+dejar la computadora abierta...</i>
+
+1345
+01:20:05,935 --> 01:20:07,476
+<i>porque tengo que seguir
+descargando los archivos de vídeo.</i>
+
+1346
+01:20:07,478 --> 01:20:09,896
+<i>- De acuerdo.
+- Ahora, Matias, ten cuidado,</i>
+
+1347
+01:20:09,898 --> 01:20:12,440
+<i>- ¿sí?
+- Sí.</i>
+
+1348
+01:20:30,710 --> 01:20:32,584
+<i>Estás ahí, ¿verdad?</i>
+
+1349
+01:20:39,468 --> 01:20:41,552
+<i>¿Sabes qué? He estado grabando.</i>
+
+1350
+01:20:42,680 --> 01:20:44,304
+<i>Lo tengo todo.</i>
+
+1351
+01:20:45,725 --> 01:20:48,474
+<i>Deberías haberte ocupado de Matias.</i>
+
+1352
+01:20:48,476 --> 01:20:50,476
+<i>Iba a devolver la computadora.</i>
+
+1353
+01:20:50,478 --> 01:20:53,479
+<i>Iba a devolverla y
+olvidarse de todo,</i>
+
+1354
+01:20:53,481 --> 01:20:55,606
+<i>pero eso no es lo que yo voy a hacer.</i>
+
+1355
+01:20:59,738 --> 01:21:00,945
+<i>¿Ves esto?</i>
+
+1356
+01:21:00,947 --> 01:21:02,698
+<i>¿Sabes lo que es esto?</i>
+
+1357
+01:21:02,700 --> 01:21:03,866
+<i>Estas son las coordenadas.</i>
+
+1358
+01:21:03,868 --> 01:21:05,909
+<i>Estos son todos los lugares donde
+ha estado esa computadora.</i>
+
+1359
+01:21:05,911 --> 01:21:07,870
+<i>Esto los llevará a Erica Dunne,</i>
+
+1360
+01:21:07,872 --> 01:21:09,705
+<i>y a cada una de las
+chicas que te llevaste.</i>
+
+1361
+01:21:09,707 --> 01:21:11,206
+<i>¡Estás acabado!</i>
+
+1362
+01:21:45,741 --> 01:21:47,366
+<i>¡Dios mío!</i>
+
+1363
+01:22:01,966 --> 01:22:03,675
+<i>- Damon, Damon, ¿qué pasa?
+- Matias,</i>
+
+1364
+01:22:03,677 --> 01:22:05,760
+<i>Matias, no perdió la laptop.</i>
+
+1365
+01:22:05,762 --> 01:22:07,636
+<i>CarontelV,
+la dejó allí deliberadamente.</i>
+
+1366
+01:22:07,638 --> 01:22:10,013
+<i>Quería que la encontraran.
+Todos querían que la encontraran.</i>
+
+1367
+01:22:10,015 --> 01:22:12,808
+<i>Mira, era un señuelo.
+Estaban haciendo phishing.</i>
+
+1368
+01:22:12,810 --> 01:22:15,352
+<i>Desde el momento en que
+introdujiste tu contraseña Wi-Fi,</i>
+
+1369
+01:22:15,354 --> 01:22:17,479
+<i>entraron y han tenido
+el control todo este tiempo.</i>
+
+1370
+01:22:17,481 --> 01:22:19,606
+<i>Damon, lo siento,
+pero ¿qué estás...</i>
+
+1371
+01:22:19,608 --> 01:22:20,982
+<i>Era una mentira.</i>
+
+1372
+01:22:20,984 --> 01:22:22,693
+<i>Nos están tendiendo una trampa.</i>
+
+1373
+01:22:24,530 --> 01:22:26,321
+<i>Hicimos todo lo que
+querían que hiciéramos.</i>
+
+1374
+01:22:26,323 --> 01:22:28,573
+<i>Movimos el dinero.
+Copiamos los videos.</i>
+
+1375
+01:22:30,619 --> 01:22:33,661
+<i>Van a hacer que parezca que
+fuimos nosotros todo el tiempo.</i>
+
+1376
+01:22:33,663 --> 01:22:34,829
+<i>¿Qué? Lo... Lo siento,</i>
+
+1377
+01:22:34,831 --> 01:22:36,664
+<i>¿pero cómo...? ¿Hola?</i>
+
+1378
+01:22:36,666 --> 01:22:38,666
+<i>¿Hola, hola?</i>
+
+1379
+01:22:38,668 --> 01:22:40,626
+<i>Bien, voy para allá. Ya casi llego.</i>
+
+1380
+01:22:40,628 --> 01:22:42,545
+<i>Estoy a un segundo.
+Estoy a un segundo.</i>
+
+1381
+01:22:44,090 --> 01:22:45,798
+<i>¿Dentro, dónde? ¿Dentro, dónde?</i>
+
+1382
+01:22:48,554 --> 01:22:50,345
+<i>¿Qué edificio?
+¿Amaya, qué edificio?</i>
+
+1383
+01:22:50,347 --> 01:22:51,430
+<i>¿En qué edificio estás?</i>
+
+1384
+01:22:51,432 --> 01:22:52,723
+<i>Te dije que fueras al parque,</i>
+
+1385
+01:22:52,725 --> 01:22:54,808
+<i>donde tuvimos nuestro primer beso,
+Amaya.</i>
+
+1386
+01:22:59,690 --> 01:23:01,689
+<i>¿De qué pin...
+De qué pin estás hablando?</i>
+
+1387
+01:23:01,691 --> 01:23:03,816
+<i>Amaya, yo no... No te envié nada.</i>
+
+1388
+01:23:11,199 --> 01:23:13,950
+<i>NO HAY VIDEO,
+NO PUEDO VERTE.</i>
+
+1389
+01:23:19,624 --> 01:23:23,918
+<i>¿DEBERÍA ENTRAR?
+¿ESTÁS AQUÍ?</i>
+
+1390
+01:23:24,379 --> 01:23:26,462
+<i>SÍ, ENTRA.</i>
+
+1391
+01:23:28,883 --> 01:23:29,923
+<i>¡No, no, no, no, no!</i>
+
+1392
+01:23:29,925 --> 01:23:31,633
+<i>¡Amaya, Amaya, no!</i>
+
+1393
+01:23:31,635 --> 01:23:34,386
+<i>Escucha, escucha.
+Amaya, ese no soy yo.</i>
+
+1394
+01:23:34,388 --> 01:23:37,097
+<i>¡No, Amaya, ese no soy yo!</i>
+
+1395
+01:23:37,099 --> 01:23:38,891
+<i>No, no, no, no, no, no.</i>
+
+1396
+01:23:38,893 --> 01:23:40,060
+<i>No escuches nada de eso.</i>
+
+1397
+01:23:40,062 --> 01:23:41,853
+<i>Amaya, por favor.</i>
+
+1398
+01:23:41,855 --> 01:23:42,855
+<i>¡Amaya!</i>
+
+1399
+01:23:44,941 --> 01:23:46,066
+<i>¿Hola?</i>
+
+1400
+01:23:46,068 --> 01:23:47,108
+<i>Hola, hola.</i>
+
+1401
+01:23:47,110 --> 01:23:48,485
+<i>¡Hola!</i>
+
+1402
+01:24:28,692 --> 01:24:32,110
+<i>DAMON HORTON COMPARTE SU
+PANTALLA CONTIGO</i>
+
+1403
+01:24:33,739 --> 01:24:38,617
+<i>MIS AMIGOS Y YO HICIMOS
+ALGO TERRIBLE.</i>
+
+1404
+01:24:42,873 --> 01:24:46,082
+<i>YA NO PUEDO AFRONTARLO.</i>
+
+1405
+01:24:46,292 --> 01:24:51,421
+<i>LA EVIDENCIA ESTÁ EN MI SERVIDOR...</i>
+
+1406
+01:24:51,423 --> 01:24:57,468
+<i>EN UNA CARPETA
+LLAMADA "CONTRIBUCIONES".</i>
+
+1407
+01:24:57,512 --> 01:24:59,429
+<i>LO SIENTO.</i>
+
+1408
+01:25:10,775 --> 01:25:13,317
+<i>- DAMON.</i>
+
+1409
+01:25:57,613 --> 01:25:59,154
+<i>¿Por qué estás haciendo esto?</i>
+
+1410
+01:25:59,156 --> 01:26:00,697
+<i>¿Por qué?</i>
+
+1411
+01:26:00,699 --> 01:26:08,699
+<i>Es noche de juegos.
+Es noche de juegos.</i>
+
+1412
+01:26:12,627 --> 01:26:17,004
+<i>VOTACIÓN RELÁMPAGO
+MATIAS DEBE VIVIR
+S / N</i>
+
+1413
+01:27:04,219 --> 01:27:05,760
+<i>¡Ayúdenme!</i>
+
+1414
+01:27:06,888 --> 01:27:08,888
+<i>Soy Erica Dunne.</i>
+
+1415
+01:27:10,893 --> 01:27:12,560
+<i>¿Pueden oírme?</i>
+
+1416
+01:27:51,598 --> 01:27:54,599
+<i>NO</i>
+
+1417
+01:28:40,355 --> 01:28:45,983
+<i>TRANSMISIÓN EN VIVO
+NOCHE DE JUEGOS XIV</i>
+

@@ -1,0 +1,2735 @@
+1
+00:01:02,115 --> 00:01:05,410
+<b>MORTAL</b>
+
+2
+00:01:07,703 --> 00:01:14,252
+<b>SUSTANTIVO. SER HUMANO.</b>
+
+3
+00:09:00,259 --> 00:09:01,636
+<b>¡Mira a ese tipo!</b>
+
+4
+00:09:02,512 --> 00:09:04,096
+<b>¡Un maldito vago!</b>
+
+5
+00:09:45,555 --> 00:09:46,597
+<b>¡Oye, tú!</b>
+
+6
+00:09:47,932 --> 00:09:49,474
+<b>¿Estás perdido?</b>
+
+7
+00:09:51,268 --> 00:09:52,394
+<b>¡Oye!</b>
+
+8
+00:09:52,895 --> 00:09:54,188
+<b>¿Qué diablos le pasa?</b>
+
+9
+00:09:59,484 --> 00:10:01,862
+<b>-No me des la espalda...
+-¡No me toques!</b>
+
+10
+00:10:03,530 --> 00:10:04,699
+<b>¿Inglés?</b>
+
+11
+00:10:05,825 --> 00:10:07,034
+<b>¿Qué diablos hace?</b>
+
+12
+00:10:08,535 --> 00:10:10,746
+<b>¿Quieres decirme qué hacer?</b>
+
+13
+00:10:11,163 --> 00:10:12,707
+<b>¡Ole, ya basta!</b>
+
+14
+00:10:16,085 --> 00:10:17,837
+<b>-¿Quién te crees que eres?
+-¡Ole!</b>
+
+15
+00:10:20,840 --> 00:10:22,174
+<b>Oye, oye.</b>
+
+16
+00:10:22,257 --> 00:10:23,508
+<b>Te hice una pregunta.</b>
+
+17
+00:10:27,680 --> 00:10:28,598
+<b>¡Ole!</b>
+
+18
+00:10:31,433 --> 00:10:32,476
+<b>¡Levántate!</b>
+
+19
+00:10:37,147 --> 00:10:40,025
+<b>Si me tocas, vas a arder.</b>
+
+20
+00:11:00,004 --> 00:11:00,963
+<b>¿Ole?</b>
+
+21
+00:11:01,881 --> 00:11:02,923
+<b>Deja de bromear.</b>
+
+22
+00:11:03,257 --> 00:11:04,258
+<b>Levántate.</b>
+
+23
+00:11:04,591 --> 00:11:05,425
+<b>Vamos.</b>
+
+24
+00:11:11,306 --> 00:11:12,224
+<b>¡Ole!</b>
+
+25
+00:11:12,307 --> 00:11:14,393
+<b>-¡Ay, diablos! ¡Ole!
+-¡Llama a la policía!</b>
+
+26
+00:12:14,161 --> 00:12:15,871
+<b>Ella dijo que lo haría.</b>
+
+27
+00:12:16,747 --> 00:12:18,207
+<b>Nadie te culpa.</b>
+
+28
+00:12:18,833 --> 00:12:20,584
+<b>Ni los padres, ni nadie.</b>
+
+29
+00:12:22,211 --> 00:12:23,796
+<b>Todos hablan muy bien de ti.</b>
+
+30
+00:12:23,879 --> 00:12:26,006
+<b>Tus compañeros, tus clientes.</b>
+
+31
+00:12:27,049 --> 00:12:28,884
+<b>Por desgracia, estas cosas pasan.</b>
+
+32
+00:12:30,928 --> 00:12:33,138
+<b>La terapia no siempre ayuda.</b>
+
+33
+00:12:35,432 --> 00:12:38,393
+<b>Empezaron ahora
+y esto hace la experiencia terrible.</b>
+
+34
+00:12:46,861 --> 00:12:49,446
+<b><i>No le creí, Margrethe.</i></b>
+
+35
+00:12:49,529 --> 00:12:51,323
+<b><i>Ella dijo todo
+lo que yo necesitaba saber.</i></b>
+
+36
+00:12:51,406 --> 00:12:56,411
+<b><i>-¿Ella tenía a otra persona?
+</i></b><b>-No, pude haberlo impedido.</b>
+
+37
+00:12:57,246 --> 00:12:58,789
+<b><i>No es culpa tuya.</i></b>
+
+38
+00:13:00,665 --> 00:13:04,461
+<b>Tuve la ocasión de hacer
+lo correcto, pero no lo hice.</b>
+
+39
+00:13:06,088 --> 00:13:08,298
+<b><i>No tenías control sobre ella.</i></b>
+
+40
+00:13:11,844 --> 00:13:13,345
+<b>Alguien me está llamando.</b>
+
+41
+00:13:13,929 --> 00:13:15,305
+<b><i>Debo atender.</i></b>
+
+42
+00:13:15,389 --> 00:13:18,225
+<b><i>Tómate un tiempo libre.
+Nos hablaremos mañana.</i></b>
+
+43
+00:13:18,851 --> 00:13:19,935
+<b><i>Adiós.</i></b>
+
+44
+00:13:20,727 --> 00:13:21,728
+<b>Está bien.</b>
+
+45
+00:13:25,900 --> 00:13:28,443
+<b>¿Hola? Habla Christine Aas.</b>
+
+46
+00:13:55,971 --> 00:13:57,014
+<b><i>Christine.</i></b>
+
+47
+00:13:57,097 --> 00:13:58,808
+<b>-Hola.
+-Henrik. Por aquí.</b>
+
+48
+00:13:58,891 --> 00:14:02,311
+<b>No tengo experiencia con criminales.
+Trabajo más con adolescentes.</b>
+
+49
+00:14:02,394 --> 00:14:04,063
+<b>No esperamos un milagro.</b>
+
+50
+00:14:04,688 --> 00:14:07,399
+<b>Tenemos una hora
+antes que llegue la Unidad Criminal.</b>
+
+51
+00:14:07,942 --> 00:14:10,569
+<b>Queremos hacerlo hablar
+antes de que se lo lleven.</b>
+
+52
+00:14:10,986 --> 00:14:12,196
+<b>¿Cómo se llama él?</b>
+
+53
+00:14:13,280 --> 00:14:14,489
+<b>Eric Bergland.</b>
+
+54
+00:14:16,867 --> 00:14:18,077
+<b>Me parece familiar.</b>
+
+55
+00:14:18,994 --> 00:14:22,497
+<b>El incendio en Årdal hace tres años.
+Murieron cinco personas.</b>
+
+56
+00:14:23,415 --> 00:14:24,541
+<b>¿Es él?</b>
+
+57
+00:14:24,624 --> 00:14:26,626
+<b>Noruego norteamericano.
+Mochilero.</b>
+
+58
+00:14:26,710 --> 00:14:28,462
+<b>Está en Noruega buscando familiares.</b>
+
+59
+00:14:28,545 --> 00:14:30,297
+<b>¿Él estuvo todo este tiempo
+en el bosque?</b>
+
+60
+00:14:30,923 --> 00:14:33,467
+<b>Aún hay muchas preguntas
+sobre el incendio.</b>
+
+61
+00:14:36,095 --> 00:14:39,223
+<b>Ahora, dos testigos
+dicen que él mató al chico.</b>
+
+62
+00:14:39,681 --> 00:14:42,726
+<b>Dijeron que apenas lo tocó</b>
+
+63
+00:14:43,060 --> 00:14:44,561
+<b>y el chico cayó muerto.</b>
+
+64
+00:14:51,068 --> 00:14:52,486
+<b>¿Qué ha dicho hasta ahora?</b>
+
+65
+00:14:52,945 --> 00:14:54,113
+<b>Ni una palabra.</b>
+
+66
+00:14:56,448 --> 00:14:58,367
+<b>¿Algún indicio
+de por qué sucedió esto?</b>
+
+67
+00:14:58,742 --> 00:15:00,995
+<b>Para mí,
+la gran pregunta es cómo.</b>
+
+68
+00:15:42,369 --> 00:15:44,579
+<b>Eric, me llamo Christine Aas,</b>
+
+69
+00:15:45,414 --> 00:15:47,082
+<b>soy psicóloga y...</b>
+
+70
+00:15:48,167 --> 00:15:51,378
+<b>No trabajo para la policía,
+pero me pidieron que hablara contigo.</b>
+
+71
+00:15:56,175 --> 00:15:57,592
+<b>¿Quieres venir a sentarte?</b>
+
+72
+00:16:28,457 --> 00:16:29,458
+<b>Eric.</b>
+
+73
+00:16:31,293 --> 00:16:33,503
+<b>¿Puedes venir a sentarte conmigo,
+por favor?</b>
+
+74
+00:17:12,084 --> 00:17:13,960
+<b>Hablo inglés más o menos.</b>
+
+75
+00:17:14,461 --> 00:17:15,462
+<b>Perdón.</b>
+
+76
+00:17:16,963 --> 00:17:18,923
+<b>Nunca fui a EE. UU., entonces...</b>
+
+77
+00:17:31,561 --> 00:17:33,313
+<b>¿Tienes descendencia noruega?</b>
+
+78
+00:17:34,898 --> 00:17:36,941
+<b>Hace muchas generaciones,
+parece.</b>
+
+79
+00:17:37,776 --> 00:17:39,736
+<b>¿Cómo encontraste a tu familia aquí?</b>
+
+80
+00:17:40,279 --> 00:17:41,738
+<b>¿En Internet o...?</b>
+
+81
+00:17:51,748 --> 00:17:52,749
+<b>¿Eric?</b>
+
+82
+00:17:55,877 --> 00:17:57,212
+<b>Muchas personas</b>
+
+83
+00:17:58,213 --> 00:18:00,382
+<b>quieren saber
+lo que sucedió anoche.</b>
+
+84
+00:18:01,216 --> 00:18:02,300
+<b>Contigo...</b>
+
+85
+00:18:03,718 --> 00:18:04,844
+<b>y con el chico.</b>
+
+86
+00:18:06,638 --> 00:18:07,847
+<b>Y yo...</b>
+
+87
+00:18:09,683 --> 00:18:12,894
+<b>No creo que hayas hecho
+nada malo.</b>
+
+88
+00:18:15,314 --> 00:18:17,232
+<b>Creo que sucedió algo</b>
+
+89
+00:18:17,816 --> 00:18:20,110
+<b>que nadie puede entender aún.</b>
+
+90
+00:18:21,445 --> 00:18:23,113
+<b>Pero quizá tú lo entiendas.</b>
+
+91
+00:18:30,870 --> 00:18:32,664
+<b>A veces,</b>
+
+92
+00:18:34,458 --> 00:18:36,668
+<b>les ocurren cosas malas
+a personas buenas.</b>
+
+93
+00:18:37,544 --> 00:18:38,920
+<b>Cosas terribles.</b>
+
+94
+00:18:41,756 --> 00:18:43,133
+<b>No es tu culpa.</b>
+
+95
+00:18:47,387 --> 00:18:50,682
+<b>Creo que las personas
+son buenas de corazón.</b>
+
+96
+00:19:08,825 --> 00:19:10,076
+<b>Lo intenté...</b>
+
+97
+00:19:10,869 --> 00:19:12,829
+<b>Lo intenté. Le dije que...</b>
+
+98
+00:19:17,000 --> 00:19:19,628
+<b>Pero él no me hizo caso.</b>
+
+99
+00:19:19,711 --> 00:19:21,421
+<b>Él no me hizo caso.</b>
+
+100
+00:19:22,964 --> 00:19:24,341
+<b>Te estoy escuchando.</b>
+
+101
+00:19:28,887 --> 00:19:30,054
+<b>Cuéntame.</b>
+
+102
+00:19:30,639 --> 00:19:32,932
+<b>Intenté advertirle.</b>
+
+103
+00:19:33,475 --> 00:19:35,269
+<b>Es mi culpa.</b>
+
+104
+00:19:38,605 --> 00:19:40,982
+<b>Le dije que no me tocara.</b>
+
+105
+00:19:41,566 --> 00:19:42,776
+<b>Pero él...</b>
+
+106
+00:20:06,550 --> 00:20:07,551
+<b><i>Henrik.</i></b>
+
+107
+00:20:09,261 --> 00:20:10,762
+<b><i>Quitémosle las esposas.</i></b>
+
+108
+00:20:14,891 --> 00:20:15,934
+<b>Henrik...</b>
+
+109
+00:20:16,851 --> 00:20:18,978
+<b>Los padres de Ole
+están en la recepción.</b>
+
+110
+00:20:19,896 --> 00:20:22,065
+<b>Bjørn no quiere irse
+sin hablar contigo.</b>
+
+111
+00:20:29,406 --> 00:20:30,574
+<b>Quítale las esposas.</b>
+
+112
+00:20:31,575 --> 00:20:32,826
+<b>Pero quédate cerca.</b>
+
+113
+00:20:35,620 --> 00:20:36,621
+<b>Therese.</b>
+
+114
+00:20:54,514 --> 00:20:56,558
+<b>-No puedo decir...
+-¿Dónde está él?</b>
+
+115
+00:20:58,477 --> 00:20:59,769
+<b>Quiero verlo.</b>
+
+116
+00:21:00,854 --> 00:21:02,356
+<b>Él mató a mi hijo.</b>
+
+117
+00:21:02,439 --> 00:21:04,233
+<b>-Tengo el derecho de...
+-Bjørn.</b>
+
+118
+00:21:04,316 --> 00:21:06,985
+<b>Estamos intentando entender
+lo que sucedió.</b>
+
+119
+00:21:07,068 --> 00:21:10,364
+<b>Sabemos lo que sucedió.
+Los otros chicos vieron todo.</b>
+
+120
+00:21:10,864 --> 00:21:13,283
+<b>Sí, les tomamos declaración.</b>
+
+121
+00:21:14,326 --> 00:21:16,245
+<b>Ahora tenemos que escuchar
+su versión.</b>
+
+122
+00:21:17,329 --> 00:21:19,080
+<b>Solo quiero mirarlo a los ojos.</b>
+
+123
+00:21:19,914 --> 00:21:21,124
+<b>Solo una vez.</b>
+
+124
+00:21:22,709 --> 00:21:23,960
+<b>Lo lamento, Bjørn.</b>
+
+125
+00:21:38,850 --> 00:21:40,894
+<b>La Unidad Criminal
+va a traer a una norteamericana.</b>
+
+126
+00:21:40,977 --> 00:21:42,604
+<b>Quieren sacarlo del país.</b>
+
+127
+00:21:46,650 --> 00:21:47,901
+<b>Estaré allá fuera.</b>
+
+128
+00:21:59,829 --> 00:22:02,081
+<b>Eran todos parientes tuyos, ¿verdad?</b>
+
+129
+00:22:07,462 --> 00:22:09,088
+<b>Las personas de la finca.</b>
+
+130
+00:22:13,552 --> 00:22:15,011
+<b>¿Murieron todos?</b>
+
+131
+00:22:18,557 --> 00:22:19,474
+<b>Excepto tú.</b>
+
+132
+00:22:26,690 --> 00:22:28,358
+<b>Creí que lo sabías.</b>
+
+133
+00:22:35,574 --> 00:22:36,866
+<b>Lo siento mucho.</b>
+
+134
+00:22:41,287 --> 00:22:42,288
+<b>Eric.</b>
+
+135
+00:22:44,123 --> 00:22:46,292
+<b>¿Qué sucedió en la finca de Årdal?</b>
+
+136
+00:22:55,469 --> 00:22:56,428
+<b><i>Hola,</i></b>
+
+137
+00:22:56,511 --> 00:22:57,512
+<b>soy de Noticias Online.</b>
+
+138
+00:22:57,596 --> 00:23:00,849
+<b>-¿Tiene algo que decir...?
+-No puede estar aquí.</b>
+
+139
+00:23:02,809 --> 00:23:04,436
+<b>Sabes que los maté.</b>
+
+140
+00:23:06,145 --> 00:23:08,189
+<b>Y también maté al chico.</b>
+
+141
+00:23:08,272 --> 00:23:10,400
+<b>No entiendo cómo fue que...</b>
+
+142
+00:23:55,194 --> 00:23:56,488
+<b>Es imposible.</b>
+
+143
+00:23:57,447 --> 00:23:58,698
+<b>¿Cómo lo haces?</b>
+
+144
+00:24:02,744 --> 00:24:03,787
+<b>No lo sé.</b>
+
+145
+00:24:06,748 --> 00:24:08,166
+<b><i>Murieron quemados,</i></b>
+
+146
+00:24:08,917 --> 00:24:10,877
+<b>pero esto no prueba...</b>
+
+147
+00:24:44,994 --> 00:24:45,995
+<b>¿Eric?</b>
+
+148
+00:24:46,329 --> 00:24:47,706
+<b>¿Me crees ahora?</b>
+
+149
+00:24:57,048 --> 00:24:58,091
+<b>¿Qué estás haciendo?</b>
+
+150
+00:25:00,927 --> 00:25:02,053
+<b>Eric, basta.</b>
+
+151
+00:25:03,054 --> 00:25:04,723
+<b>-¡Ya basta!
+-No puedo.</b>
+
+152
+00:25:11,771 --> 00:25:12,939
+<b>Son tus emociones.</b>
+
+153
+00:25:27,120 --> 00:25:29,831
+<b>¡Apaguen eso! ¡Apáguenlo!</b>
+
+154
+00:25:33,167 --> 00:25:34,586
+<b>-Tienes que salir de aquí.
+-¡No!</b>
+
+155
+00:25:35,754 --> 00:25:38,673
+<b>¡Él necesita ayuda para detener esto!
+¡Desactiva la alarma!</b>
+
+156
+00:25:42,511 --> 00:25:44,387
+<b>¡Eric! ¡Son tus emociones!</b>
+
+157
+00:25:44,470 --> 00:25:45,930
+<b>Estás provocando esto.</b>
+
+158
+00:25:46,014 --> 00:25:49,851
+<b>Si no piensas en tus miedos,
+podrás controlarlo.</b>
+
+159
+00:25:49,934 --> 00:25:51,520
+<b>Viene de tu interior,</b>
+
+160
+00:25:51,603 --> 00:25:53,229
+<b>así que solo depende de ti.</b>
+
+161
+00:25:53,312 --> 00:25:55,899
+<b>Aíslate de todo a tu alrededor.</b>
+
+162
+00:25:55,982 --> 00:25:57,233
+<b>Puedes controlarlo.</b>
+
+163
+00:25:57,984 --> 00:25:59,193
+<b>Solo respira.</b>
+
+164
+00:25:59,277 --> 00:26:00,904
+<b>Puedes detenerlo.</b>
+
+165
+00:26:38,399 --> 00:26:39,651
+<b>¿Te encuentras bien?</b>
+
+166
+00:27:17,939 --> 00:27:20,942
+<b>Eric, ella es Cora Hathaway
+de la embajada de EE. UU.</b>
+
+167
+00:27:21,442 --> 00:27:23,862
+<b>Vino a llevarte
+de vuelta a EE. UU.</b>
+
+168
+00:27:25,947 --> 00:27:28,574
+<b>-No, no tiene ese derecho.
+-No depende de mí.</b>
+
+169
+00:27:29,158 --> 00:27:31,285
+<b>Eric, tienes que hablar
+con ellos ahora.</b>
+
+170
+00:27:31,369 --> 00:27:34,205
+<b>No, solo quiero hablar contigo
+y nadie más.</b>
+
+171
+00:27:37,667 --> 00:27:38,918
+<b>Christine...</b>
+
+172
+00:27:41,170 --> 00:27:44,257
+<b>No pueden llevárselo en helicóptero.
+Vieron lo que hizo aquí.</b>
+
+173
+00:27:50,805 --> 00:27:53,057
+<b>Por eso, debemos sedarte, Eric.</b>
+
+174
+00:27:57,812 --> 00:27:59,272
+<b>Yo mismo lo haré.</b>
+
+175
+00:28:02,692 --> 00:28:03,693
+<b>Eric...</b>
+
+176
+00:28:10,825 --> 00:28:12,118
+<b>Cuidado con la cabeza.</b>
+
+177
+00:28:16,080 --> 00:28:18,291
+<b><i>Están trayendo a Bergland
+al helicóptero.</i></b>
+
+178
+00:28:34,933 --> 00:28:37,560
+<b>¿Saben que nunca sabremos
+lo que sucedió allá?</b>
+
+179
+00:28:39,228 --> 00:28:40,980
+<b>Quizá no debamos saber todo.</b>
+
+180
+00:28:42,023 --> 00:28:44,734
+<b>Creo que Dios
+tiene planes para Eric.</b>
+
+181
+00:28:49,322 --> 00:28:50,489
+<b>Olvídalo.</b>
+
+182
+00:28:50,907 --> 00:28:52,992
+<b>Él es el problema
+de otra persona ahora.</b>
+
+183
+00:29:46,087 --> 00:29:47,505
+<b>Está ardiendo de fiebre.</b>
+
+184
+00:29:47,588 --> 00:29:49,298
+<b>Está pasando el efecto del sedante.</b>
+
+185
+00:29:58,892 --> 00:29:59,893
+<b>¿Eric?</b>
+
+186
+00:30:00,601 --> 00:30:02,228
+<b>Eric, relájate.</b>
+
+187
+00:30:02,979 --> 00:30:06,607
+<b>Estamos yendo a Oslo
+y luego a un lugar seguro.</b>
+
+188
+00:30:06,690 --> 00:30:09,027
+<b>Van a cuidarte bien, ¿de acuerdo?</b>
+
+189
+00:30:09,402 --> 00:30:12,363
+<b>Te prometo que vamos a descubrir
+qué te sucede.</b>
+
+190
+00:30:13,031 --> 00:30:14,824
+<b>-¿Eric?
+-Dale otra dosis.</b>
+
+191
+00:30:14,908 --> 00:30:17,743
+<b>-Relájate.
+-Ya le di la dosis máxima.</b>
+
+192
+00:30:17,827 --> 00:30:19,162
+<b>Más puede matarlo.</b>
+
+193
+00:30:22,415 --> 00:30:25,084
+<b>-¿Eric? Eric, relájate.
+-¡Tienen que sacarme de aquí!</b>
+
+194
+00:30:30,298 --> 00:30:31,883
+<b>¡Dale otra dosis ahora!</b>
+
+195
+00:30:52,486 --> 00:30:56,282
+<b>Se avecina una tormenta fuerte.
+No sé si podremos cruzarla.</b>
+
+196
+00:31:01,245 --> 00:31:02,288
+<b>¡Ahora!</b>
+
+197
+00:31:02,371 --> 00:31:03,957
+<b>¡Eric... ya basta!</b>
+
+198
+00:31:04,748 --> 00:31:05,917
+<b>¡Basta!</b>
+
+199
+00:31:06,000 --> 00:31:07,001
+<b>¡Basta!</b>
+
+200
+00:31:09,087 --> 00:31:10,046
+<b>¡Basta!</b>
+
+201
+00:31:10,421 --> 00:31:11,339
+<b>¡Agáchate!</b>
+
+202
+00:31:50,044 --> 00:31:55,174
+<b><i>Mayday, mayday, mayday.
+</i></b><b>Helicóptero Cero-Cero está cayendo.</b>
+
+203
+00:32:08,229 --> 00:32:10,689
+<b><i>Mayday, mayday,</i></b><b> Cero-Cero
+está cayendo.</b>
+
+204
+00:32:28,416 --> 00:32:31,294
+<b>¡Girando, girando!</b>
+
+205
+00:32:31,377 --> 00:32:32,795
+<b>¡Impacto! ¡Impacto!</b>
+
+206
+00:35:10,203 --> 00:35:12,413
+<b>Encontramos tres cuerpos
+en los destrozos.</b>
+
+207
+00:35:12,913 --> 00:35:14,373
+<b>Vamos a sacarlos ahora.</b>
+
+208
+00:35:14,457 --> 00:35:16,417
+<b>-¿Encontraron a Bergland?
+-Aún no.</b>
+
+209
+00:35:33,016 --> 00:35:34,602
+<b><i>Voy a intentar hablar en inglés</i></b>
+
+210
+00:35:34,685 --> 00:35:37,938
+<b><i>ya que hoy tenemos extranjeros
+con nosotros.</i></b>
+
+211
+00:35:39,190 --> 00:35:41,567
+<b><i>Como aún no contactamos
+a los familiares</i></b>
+
+212
+00:35:41,650 --> 00:35:43,486
+<b><i>de las víctimas del accidente,</i></b>
+
+213
+00:35:43,569 --> 00:35:46,280
+<b><i>solo puedo decir que recuperamos</i></b>
+
+214
+00:35:46,364 --> 00:35:49,450
+<b><i>tres cuerpos en el helicóptero.</i></b>
+
+215
+00:35:49,533 --> 00:35:51,494
+<b><i>Llevaron a una mujer norteamericana
+al hospital</i></b>
+
+216
+00:35:51,577 --> 00:35:55,080
+<b><i>con heridas leves.
+Ella está bien, a pesar de todo.</i></b>
+
+217
+00:35:55,706 --> 00:35:59,001
+<b><i>No puedo informar
+sobre el estado del otro norteamericano.</i></b>
+
+218
+00:35:59,084 --> 00:36:00,878
+<b><i>Los mantendré informados.</i></b>
+
+219
+00:36:01,254 --> 00:36:03,005
+<b><i>-Bueno, gracias.
+</i></b><b>-¿Bjørn?</b>
+
+220
+00:36:05,341 --> 00:36:09,470
+<b><i>El helicóptero iba a Oslo
+con Bergland...</i></b>
+
+221
+00:36:17,186 --> 00:36:18,521
+<b>¿Adónde vas?</b>
+
+222
+00:36:18,604 --> 00:36:22,233
+<b><i>La policía confirma
+que se trata de Eric Bergland,</i></b>
+
+223
+00:36:22,316 --> 00:36:24,026
+<b><i>que está siendo buscado
+en Odda...</i></b>
+
+224
+00:36:30,533 --> 00:36:31,534
+<b>¡Christine!</b>
+
+225
+00:36:37,206 --> 00:36:38,123
+<b>¿Eric?</b>
+
+226
+00:36:47,466 --> 00:36:48,592
+<b>Yo...</b>
+
+227
+00:36:49,385 --> 00:36:51,262
+<b>El helicóptero se cayó.</b>
+
+228
+00:37:10,864 --> 00:37:12,700
+<b>¿Estás bien? ¿Estás herido?</b>
+
+229
+00:37:19,081 --> 00:37:20,833
+<b>Voy a llevarte
+a la cabaña de una amiga.</b>
+
+230
+00:37:20,916 --> 00:37:22,543
+<b>Y vamos a resolver esto.</b>
+
+231
+00:37:22,876 --> 00:37:23,877
+<b>¿De acuerdo?</b>
+
+232
+00:37:35,473 --> 00:37:37,225
+<b>FARMACIA</b>
+
+233
+00:37:37,308 --> 00:37:38,476
+<b>Enseguida vuelvo.</b>
+
+234
+00:37:41,562 --> 00:37:42,646
+<b>FIEBRE/DOLOR</b>
+
+235
+00:38:47,169 --> 00:38:48,796
+<b>No quise lastimarte.</b>
+
+236
+00:39:15,323 --> 00:39:16,324
+<b>Eric...</b>
+
+237
+00:39:17,741 --> 00:39:19,201
+<b>¿Cómo te sucedió esto?</b>
+
+238
+00:39:19,743 --> 00:39:21,036
+<b>¿Qué es esto?</b>
+
+239
+00:40:35,986 --> 00:40:39,698
+<b>Yo me encargo.
+No quiero electrocutarte.</b>
+
+240
+00:40:45,579 --> 00:40:47,581
+<b>¿Cómo se dice "gracias" en noruego?</b>
+
+241
+00:40:48,290 --> 00:40:49,291
+<b>¿En noruego?</b>
+
+242
+00:40:51,293 --> 00:40:52,461
+<b><i>Tusen takk.</i></b>
+
+243
+00:40:53,421 --> 00:40:54,838
+<b><i>Tusen takk,</i></b><b> Christine.</b>
+
+244
+00:41:05,974 --> 00:41:08,644
+<b>¿Quieres llamar a alguien
+en Estados Unidos?</b>
+
+245
+00:41:18,821 --> 00:41:20,238
+<b>¿Cuándo comenzó?</b>
+
+246
+00:41:25,202 --> 00:41:26,369
+<b>En la finca.</b>
+
+247
+00:41:28,413 --> 00:41:29,623
+<b>Llegué allá</b>
+
+248
+00:41:30,708 --> 00:41:33,544
+<b>y algo se empezó a formar
+dentro de mí.</b>
+
+249
+00:41:34,837 --> 00:41:38,131
+<b>De repente, explotó
+y todo se prendió fuego.</b>
+
+250
+00:42:14,960 --> 00:42:16,837
+<b>Es crucial</b>
+
+251
+00:42:16,920 --> 00:42:19,632
+<b>que entiendas lo importante que es</b>
+
+252
+00:42:19,715 --> 00:42:22,467
+<b>para el gobierno de EE. UU.
+capturar a Bergland.</b>
+
+253
+00:42:27,681 --> 00:42:29,266
+<b>Tienes suerte de estar viva.</b>
+
+254
+00:42:30,934 --> 00:42:33,311
+<b>-Fue un accidente grave.
+-Gracias.</b>
+
+255
+00:42:34,563 --> 00:42:35,814
+<b>Dos minutos</b>
+
+256
+00:42:36,189 --> 00:42:38,108
+<b>antes del despegue.</b>
+
+257
+00:42:41,486 --> 00:42:44,990
+<b>Mientras estábamos volando,
+momentos antes de caer...</b>
+
+258
+00:42:46,158 --> 00:42:50,287
+<b>-¿Crees que él fue el responsable?
+-Lo vi con mis propios ojos.</b>
+
+259
+00:42:50,370 --> 00:42:53,666
+<b>Él creó la tormenta.
+Él nos hizo caer.</b>
+
+260
+00:42:55,417 --> 00:42:56,794
+<b>Él te salvó la vida.</b>
+
+261
+00:43:00,338 --> 00:43:02,758
+<b>No digo que sea malo.</b>
+
+262
+00:43:02,841 --> 00:43:04,885
+<b>No me importa lo que él sea.</b>
+
+263
+00:43:04,968 --> 00:43:08,305
+<b>Tenemos que encontrarlo rápido
+y controlarlo.</b>
+
+264
+00:43:33,789 --> 00:43:36,917
+<b><i>¿Estás loca?
+Él mató personas.</i></b>
+
+265
+00:43:39,044 --> 00:43:42,547
+<b>-No era su intención.
+</b><b><i>-¡Es un fugitivo, Christine!</i></b>
+
+266
+00:43:43,423 --> 00:43:45,425
+<b><i>-¿Hola?
+</i></b><b>-Lo sé.</b>
+
+267
+00:43:45,508 --> 00:43:48,511
+<b><i>Él es un criminal.
+Podrías ir presa.</i></b>
+
+268
+00:43:49,722 --> 00:43:52,557
+<b><i>Creo que debes llamar a la policía</i></b>
+
+269
+00:43:53,141 --> 00:43:54,559
+<b><i>y explicar lo que sucedió.</i></b>
+
+270
+00:43:55,393 --> 00:43:57,520
+<b><i>Esto podría destruir tu vida.</i></b>
+
+271
+00:43:58,647 --> 00:44:02,442
+<b><i>Por favor, llama a la policía
+y avísame cuando lo hayas hecho.</i></b>
+
+272
+00:44:02,525 --> 00:44:03,777
+<b>Tengo que cortar.</b>
+
+273
+00:44:04,987 --> 00:44:06,488
+<b><i>Avísame cuando lo hayas hecho.</i></b>
+
+274
+00:44:07,656 --> 00:44:09,157
+<b><i>-¿Hola?
+</i></b><b>-Está bien.</b>
+
+275
+00:44:09,658 --> 00:44:11,785
+<b><i>Bueno. Adiós.</i></b>
+
+276
+00:44:11,869 --> 00:44:13,954
+<b>ÚLTIMAS LLAMADAS</b>
+
+277
+00:44:24,464 --> 00:44:25,465
+<b><i>¿Christine?</i></b>
+
+278
+00:44:27,467 --> 00:44:28,593
+<b><i>¿Christine?</i></b>
+
+279
+00:44:35,225 --> 00:44:37,770
+<b>ALGUACIL DE HARDANGER</b>
+
+280
+00:44:39,813 --> 00:44:40,814
+<b>¿Christine?</b>
+
+281
+00:44:42,733 --> 00:44:43,817
+<b>No quise...</b>
+
+282
+00:44:44,317 --> 00:44:45,360
+<b>Está bien.</b>
+
+283
+00:44:48,071 --> 00:44:49,782
+<b>Pensé mucho en la finca</b>
+
+284
+00:44:50,115 --> 00:44:52,075
+<b>-y creo que debo...
+-Sí.</b>
+
+285
+00:44:56,038 --> 00:44:57,122
+<b>¿Qué pasa?</b>
+
+286
+00:44:58,916 --> 00:45:02,670
+<b>Tenemos que ir a la policía.
+Debes entregarte.</b>
+
+287
+00:45:03,586 --> 00:45:05,255
+<b>No puedo hacer esto.</b>
+
+288
+00:45:06,464 --> 00:45:07,966
+<b>Debo volver a casa.</b>
+
+289
+00:45:14,181 --> 00:45:16,641
+<b>Puedo llevarte a la ciudad
+si quieres.</b>
+
+290
+00:45:18,268 --> 00:45:19,853
+<b>Podemos entrar allá juntos.</b>
+
+291
+00:45:21,604 --> 00:45:23,857
+<b>-Lo lamento.
+-Está bien. Lo entiendo.</b>
+
+292
+00:46:02,771 --> 00:46:04,064
+<b>Roncas mucho.</b>
+
+293
+00:46:04,522 --> 00:46:05,523
+<b>¿Ronco?</b>
+
+294
+00:46:06,984 --> 00:46:07,985
+<b>Perdón.</b>
+
+295
+00:46:22,665 --> 00:46:23,666
+<b>Christine...</b>
+
+296
+00:46:31,091 --> 00:46:33,093
+<b>Christine, solo quería decirte que...</b>
+
+297
+00:46:53,822 --> 00:46:56,491
+<b>Solo quería
+que no lloviera sobre ti.</b>
+
+298
+00:47:21,766 --> 00:47:23,518
+<b>No vayamos a la policía.</b>
+
+299
+00:47:25,687 --> 00:47:28,398
+<b>Ya hiciste suficiente por mí.
+Deberías irte a tu casa.</b>
+
+300
+00:47:36,781 --> 00:47:37,866
+<b>No quiero.</b>
+
+301
+00:47:43,580 --> 00:47:44,998
+<b><i>Deberíamos ir a la finca.</i></b>
+
+302
+00:48:00,430 --> 00:48:04,601
+<b><i>Los lugareños están impactados
+con los trágicos hechos de ayer,</i></b>
+
+303
+00:48:04,684 --> 00:48:09,231
+<b><i>que llamaron
+la atención internacional</i></b>
+
+304
+00:48:09,314 --> 00:48:10,815
+<b><i>sobre el pueblo de Noruega.</i></b>
+
+305
+00:48:10,899 --> 00:48:13,318
+<b>¿Qué crees que vaya a suceder
+cuando lleguemos a la finca?</b>
+
+306
+00:48:15,070 --> 00:48:16,071
+<b>No lo sé.</b>
+
+307
+00:48:16,821 --> 00:48:18,156
+<b>Cuando yo estaba allá,</b>
+
+308
+00:48:19,157 --> 00:48:21,826
+<b>sentí que algo...</b>
+
+309
+00:48:23,871 --> 00:48:25,163
+<b>me jalaba.</b>
+
+310
+00:48:27,540 --> 00:48:29,376
+<b>Me arrastraba hacia algo.</b>
+
+311
+00:48:53,275 --> 00:48:55,652
+<b><i>Bienvenido a bordo del MS Askeland.</i></b>
+
+312
+00:48:55,735 --> 00:48:57,862
+<b><i>El trayecto tarda unos 15 minutos.</i></b>
+
+313
+00:48:59,489 --> 00:49:02,242
+<b><i>La cafetería está
+en la cubierta inferior.</i></b>
+
+314
+00:49:05,913 --> 00:49:07,164
+<b>Me encantan los ferris.</b>
+
+315
+00:49:07,789 --> 00:49:10,667
+<b>Es como tomarse un descanso del mundo
+por algunos minutos.</b>
+
+316
+00:49:59,257 --> 00:50:02,844
+<b><i>La policía les pide a todos los que vean
+a Eric Bergland</i></b>
+
+317
+00:50:02,927 --> 00:50:04,637
+<b><i>que lo denuncien.</i></b>
+
+318
+00:50:04,721 --> 00:50:06,514
+<b><i>Es el sospechoso de las muertes de ayer...</i></b>
+
+319
+00:50:06,598 --> 00:50:08,016
+<b>SOSPECHOSO PELIGROSO</b>
+
+320
+00:50:08,350 --> 00:50:11,144
+<b><i>...La policía advierte
+que no lo aborden</i></b>
+
+321
+00:50:11,228 --> 00:50:13,271
+<b><i>porque puede ser peligroso.</i></b>
+
+322
+00:50:13,355 --> 00:50:16,399
+<b><i>Bergland puede estar
+con esta mujer, Christine...</i></b>
+
+323
+00:51:08,076 --> 00:51:09,202
+<b>¿Eric?</b>
+
+324
+00:51:12,122 --> 00:51:13,290
+<b>¿Estás bien?</b>
+
+325
+00:51:14,624 --> 00:51:17,044
+<b>Saben que estoy contigo.
+Debemos irnos.</b>
+
+326
+00:51:18,086 --> 00:51:19,087
+<b>¡Ahora!</b>
+
+327
+00:51:44,154 --> 00:51:45,405
+<b><i>¿Qué estabas haciendo?</i></b>
+
+328
+00:51:45,488 --> 00:51:47,199
+<b>No puedes salir así.</b>
+
+329
+00:51:47,282 --> 00:51:49,159
+<b>Christine, la gasolinera,</b>
+
+330
+00:51:49,242 --> 00:51:51,869
+<b>las casas y las carreteras,
+todo desapareció.</b>
+
+331
+00:51:53,080 --> 00:51:55,540
+<b>En un instante, estaban ahí
+y, al siguiente,</b>
+
+332
+00:51:55,623 --> 00:51:57,834
+<b>todo era campo.</b>
+
+333
+00:51:58,335 --> 00:52:00,753
+<b>Y el cielo se puso
+de un color diferente.</b>
+
+334
+00:52:02,630 --> 00:52:04,757
+<b>A veces, soy arrastrado a...</b>
+
+335
+00:52:05,383 --> 00:52:07,302
+<b>estas visiones.
+Empiezo a ver cosas.</b>
+
+336
+00:52:07,719 --> 00:52:10,555
+<b>No puedo explicarlo, solo las veo.
+Sucede desde la finca.</b>
+
+337
+00:52:10,638 --> 00:52:12,974
+<b>Puedo caminar, tocar
+y sentir las cosas.</b>
+
+338
+00:52:13,057 --> 00:52:15,185
+<b>Siento el viento, el calor.</b>
+
+339
+00:52:15,268 --> 00:52:17,604
+<b>Sentí que me estaba congelando.</b>
+
+340
+00:52:18,896 --> 00:52:20,982
+<b>¿Ya has estado en esos lugares?</b>
+
+341
+00:52:21,399 --> 00:52:24,361
+<b>No, algunos de ellos
+no parecen posibles,</b>
+
+342
+00:52:24,444 --> 00:52:26,113
+<b>como si fueran mundos diferentes.</b>
+
+343
+00:52:26,196 --> 00:52:30,074
+<b>Y siempre, de fondo, en el cielo,
+aparece una forma enorme que parece...</b>
+
+344
+00:52:32,369 --> 00:52:33,995
+<b>-¿Qué parece?
+-Una...</b>
+
+345
+00:52:34,078 --> 00:52:36,914
+<b>Sé que es extraño,
+pero parece un árbol.</b>
+
+346
+00:52:37,374 --> 00:52:40,127
+<b>Un árbol enorme y hermoso,</b>
+
+347
+00:52:40,210 --> 00:52:42,420
+<b>que llena todo el horizonte.</b>
+
+348
+00:52:54,557 --> 00:52:57,018
+<b>Mientras dormías en la cabaña,</b>
+
+349
+00:52:57,560 --> 00:52:59,396
+<b>me quedé pensando en todo.</b>
+
+350
+00:52:59,812 --> 00:53:02,565
+<b>¿Eso va a permanecer contigo
+el resto de tu vida?</b>
+
+351
+00:53:04,025 --> 00:53:05,527
+<b>¿De dónde vino?</b>
+
+352
+00:53:09,322 --> 00:53:12,284
+<b>-¿Eres el siguiente Jesús?
+-Jesús no mataba a las personas.</b>
+
+353
+00:53:16,496 --> 00:53:17,997
+<b>Puedes hacer cosas</b>
+
+354
+00:53:18,665 --> 00:53:21,751
+<b>con la atmósfera, el aire y el agua.</b>
+
+355
+00:53:21,834 --> 00:53:23,795
+<b>¿Quién sabe qué puedas hacer</b>
+
+356
+00:53:24,837 --> 00:53:26,548
+<b>o puedas alcanzar</b>
+
+357
+00:53:27,549 --> 00:53:29,342
+<b>si aprendes a controlarlo?</b>
+
+358
+00:55:03,270 --> 00:55:04,604
+<b>Voy a hablar con él.</b>
+
+359
+00:55:15,407 --> 00:55:16,491
+<b>¿Están locos?</b>
+
+360
+00:55:16,908 --> 00:55:19,702
+<b>Es que...
+mi novio está muy enfermo.</b>
+
+361
+00:55:20,202 --> 00:55:21,871
+<b>Debemos llevarlo a un hospital.</b>
+
+362
+00:55:24,541 --> 00:55:25,958
+<b>Por favor, ayúdenos.</b>
+
+363
+00:55:43,726 --> 00:55:45,687
+<b>¿Seguro que él está bien?</b>
+
+364
+00:55:46,938 --> 00:55:47,939
+<b>Sí.</b>
+
+365
+00:55:50,274 --> 00:55:51,318
+<b>Él está bien.</b>
+
+366
+00:56:07,417 --> 00:56:09,210
+<b><i>Si cruzan el puente,</i></b>
+
+367
+00:56:09,293 --> 00:56:10,503
+<b>los perderemos.</b>
+
+368
+00:56:11,003 --> 00:56:14,256
+<b>Si los perdemos,
+enseguida estarán en Bergen.</b>
+
+369
+00:56:15,800 --> 00:56:18,428
+<b>No podemos actuar en los túneles
+antes del puente.</b>
+
+370
+00:56:18,511 --> 00:56:19,721
+<b>Es muy peligroso.</b>
+
+371
+00:56:20,221 --> 00:56:23,057
+<b>Él no puede llegar a la ciudad,
+estás de acuerdo conmigo, ¿no?</b>
+
+372
+00:56:25,935 --> 00:56:29,689
+<b>Detenlos antes del puente.</b>
+
+373
+00:56:31,524 --> 00:56:32,609
+<b>Por favor.</b>
+
+374
+00:57:13,149 --> 00:57:14,567
+<b>¿Qué sucede aquí?</b>
+
+375
+00:57:22,116 --> 00:57:23,367
+<b>¿Es por ti?</b>
+
+376
+00:57:43,971 --> 00:57:47,349
+<b><i>¡Salgan del vehículo
+con las manos en alto!</i></b>
+
+377
+00:57:55,942 --> 00:57:57,902
+<b>¡No disparen! ¡No disparen!</b>
+
+378
+00:58:01,489 --> 00:58:04,033
+<b><i>¡Salgan del vehículo
+con las manos en alto!</i></b>
+
+379
+00:58:13,417 --> 00:58:15,127
+<b>¿Por qué estamos parados aquí?</b>
+
+380
+00:58:34,271 --> 00:58:37,775
+<b><i>¡Salgan del vehículo
+con las manos en alto!</i></b>
+
+381
+00:58:47,243 --> 00:58:49,078
+<b>Ojalá todo fuera diferente.</b>
+
+382
+00:59:14,228 --> 00:59:15,688
+<b>¡Al suelo!</b>
+
+383
+00:59:24,113 --> 00:59:25,114
+<b>¡Por favor!</b>
+
+384
+00:59:26,032 --> 00:59:27,283
+<b>¡No le disparen!</b>
+
+385
+00:59:27,366 --> 00:59:28,535
+<b>¡Al suelo!</b>
+
+386
+00:59:28,618 --> 00:59:32,789
+<b>¡Por favor! ¡No le disparen!
+¡No disparen!</b>
+
+387
+00:59:33,164 --> 00:59:34,415
+<b>¡Bajen las armas!</b>
+
+388
+00:59:39,378 --> 00:59:41,172
+<b>¡Acuéstense en el suelo!</b>
+
+389
+00:59:46,761 --> 00:59:49,055
+<b>-¡No! ¡No la toque!
+-¡Al suelo!</b>
+
+390
+00:59:49,764 --> 00:59:51,808
+<b>¡Dígale que no la toque!</b>
+
+391
+00:59:52,516 --> 00:59:55,603
+<b>-¡Muestra las manos!
+-¡Suéltela! ¡No la toque!</b>
+
+392
+00:59:55,687 --> 00:59:57,897
+<b>-¡No la toque!
+-¡Al suelo o disparo!</b>
+
+393
+00:59:59,231 --> 01:00:00,482
+<b>¡Quítele las manos de encima!</b>
+
+394
+01:01:04,088 --> 01:01:05,131
+<b>Eric.</b>
+
+395
+01:01:06,048 --> 01:01:07,299
+<b>¿Me oyes?</b>
+
+396
+01:01:09,677 --> 01:01:10,678
+<b>¡Quédate en el suelo!</b>
+
+397
+01:01:11,178 --> 01:01:12,263
+<b>¡Quédate en el suelo!</b>
+
+398
+01:02:09,904 --> 01:02:11,030
+<b>¡Aborten! ¡Aborten!</b>
+
+399
+01:02:36,680 --> 01:02:37,974
+<b>Eric, escucha.</b>
+
+400
+01:02:38,057 --> 01:02:39,851
+<b>¡Tienes que detener esto!</b>
+
+401
+01:02:43,938 --> 01:02:44,939
+<b>¿Eric?</b>
+
+402
+01:02:45,689 --> 01:02:48,067
+<b>Tienes que concentrarte
+en lo que puedes hacer</b>
+
+403
+01:02:48,484 --> 01:02:50,111
+<b>y en cómo controlarlo.</b>
+
+404
+01:02:50,194 --> 01:02:51,612
+<b>¡No te levantes!</b>
+
+405
+01:02:52,321 --> 01:02:55,532
+<b>Debes detener eso
+como hiciste en la comisaría.</b>
+
+406
+01:02:55,616 --> 01:02:56,617
+<b>¡Al suelo!</b>
+
+407
+01:02:56,700 --> 01:02:58,494
+<b>Aparta el ruido de tu cabeza.</b>
+
+408
+01:02:58,577 --> 01:03:00,579
+<b>¡Al suelo, manos a la cabeza!</b>
+
+409
+01:03:00,662 --> 01:03:02,164
+<b>¡Basta! ¡Al suelo!</b>
+
+410
+01:05:12,378 --> 01:05:13,629
+<b>¡Ayúdenme!</b>
+
+411
+01:05:14,338 --> 01:05:15,339
+<b>¡Auxilio!</b>
+
+412
+01:05:18,467 --> 01:05:20,052
+<b>¡Necesitamos un médico!</b>
+
+413
+01:05:20,761 --> 01:05:22,054
+<b>¡Auxilio!</b>
+
+414
+01:05:30,812 --> 01:05:32,398
+<b>¡Auxilio!</b>
+
+415
+01:05:46,578 --> 01:05:47,579
+<b>¿Está vivo?</b>
+
+416
+01:05:49,706 --> 01:05:51,625
+<b>Voy a sacarlos de aquí.</b>
+
+417
+01:05:51,708 --> 01:05:52,751
+<b>A los dos.</b>
+
+418
+01:05:56,422 --> 01:05:58,215
+<b>Es Henrik Jodan,</b>
+
+419
+01:05:58,299 --> 01:05:59,425
+<b>alguacil de Odda.</b>
+
+420
+01:05:59,883 --> 01:06:02,636
+<b><i>Eric Bergland debe ir
+al hospital más cercano.</i></b>
+
+421
+01:06:02,719 --> 01:06:06,223
+<b><i>Quiero la confirmación de un oficial
+de que nadie va a detenernos.</i></b>
+
+422
+01:06:06,640 --> 01:06:10,102
+<b>Si no nos dejan pasar,
+serán responsables por su muerte.</b>
+
+423
+01:06:12,729 --> 01:06:14,440
+<b><i>Un momento,</i></b>
+
+424
+01:06:14,523 --> 01:06:17,109
+<b><i>regresaremos
+con una declaración oficial.</i></b>
+
+425
+01:06:23,324 --> 01:06:27,828
+<b><i>Los dejaremos pasar con la condición
+de que vayan directo al Hospital de Ulvik.</i></b>
+
+426
+01:06:28,662 --> 01:06:31,582
+<b><i>Fijaremos un perímetro de seguridad
+alrededor del hospital.</i></b>
+
+427
+01:06:42,634 --> 01:06:44,511
+<b>Debiste haber contado
+tus planes.</b>
+
+428
+01:06:45,096 --> 01:06:47,139
+<b>Dijiste que no podías
+hacer nada más.</b>
+
+429
+01:06:48,140 --> 01:06:49,600
+<b>¿Por qué nos ayudas ahora?</b>
+
+430
+01:06:53,020 --> 01:06:54,688
+<b>He creído en Dios toda la vida.</b>
+
+431
+01:06:54,771 --> 01:06:58,650
+<b>Si esto tiene que ver con Él,
+no quiero estar del lado equivocado.</b>
+
+432
+01:07:03,864 --> 01:07:05,116
+<b>¿Adónde van?</b>
+
+433
+01:07:05,199 --> 01:07:06,200
+<b>A la finca.</b>
+
+434
+01:07:07,284 --> 01:07:08,619
+<b>¿La que se incendió?</b>
+
+435
+01:07:08,702 --> 01:07:10,912
+<b>Él cree que fue allá
+donde todo comenzó.</b>
+
+436
+01:07:12,289 --> 01:07:17,253
+<b><i>Volveremos con novedades
+desde la comisaría de Hordaland.</i></b>
+
+437
+01:07:17,336 --> 01:07:21,923
+<b><i>Varias patrullas policiales se unieron
+al arresto en el puente Hardanger...</i></b>
+
+438
+01:07:22,008 --> 01:07:24,426
+<b>BERGLAND CONTROLA RAYOS
+EN EL PUENTE</b>
+
+439
+01:07:24,510 --> 01:07:27,013
+<b><i>...cuando una tormenta llegó a la zona.</i></b>
+
+440
+01:07:29,056 --> 01:07:30,724
+<b><i>Con todo respeto,</i></b>
+
+441
+01:07:31,683 --> 01:07:32,726
+<b>discrepo.</b>
+
+442
+01:07:34,603 --> 01:07:37,939
+<b>No viste lo que yo vi.</b>
+
+443
+01:07:39,566 --> 01:07:42,569
+<b>Imagínate en algunos días,
+cuando el pueblo se dé cuenta</b>
+
+444
+01:07:42,653 --> 01:07:46,032
+<b>de lo que él representa
+y de lo que no representa.</b>
+
+445
+01:07:47,283 --> 01:07:50,411
+<b>Imagínate a los cristianos,
+a los musulmanes,</b>
+
+446
+01:07:50,494 --> 01:07:52,913
+<b>a todos los que creen en Dios.</b>
+
+447
+01:07:52,996 --> 01:07:56,917
+<b>De repente, un dios humano
+prueba que todos están equivocados.</b>
+
+448
+01:07:57,000 --> 01:07:59,295
+<b>Él no representa a ninguno de ellos.</b>
+
+449
+01:08:00,796 --> 01:08:03,006
+<b>¿Qué sucederá entonces?</b>
+
+450
+01:08:10,097 --> 01:08:12,224
+<b>Creo que es lo único
+que podemos hacer.</b>
+
+451
+01:08:18,730 --> 01:08:20,607
+<b>Voy a asegurarme de que así sea.</b>
+
+452
+01:08:21,983 --> 01:08:24,986
+<b><i>Los testigos afirman
+que Bergland fue el responsable</i></b>
+
+453
+01:08:25,071 --> 01:08:27,573
+<b><i>y que parecía invocar la tormenta.</i></b>
+
+454
+01:08:27,656 --> 01:08:29,366
+<b><i>En videos del incidente,</i></b>
+
+455
+01:08:29,450 --> 01:08:33,995
+<b><i>parecía que Bergland
+estaba controlando los rayos.</i></b>
+
+456
+01:08:34,330 --> 01:08:37,416
+<b><i>Las redes sociales
+enloquecen con las especulaciones</i></b>
+
+457
+01:08:37,499 --> 01:08:41,795
+<b><i>y muchos comparan a Bergland
+con Thor, el dios nórdico.</i></b>
+
+458
+01:08:42,796 --> 01:08:44,465
+<b>¿Me están llamando Thor?</b>
+
+459
+01:08:45,549 --> 01:08:47,301
+<b>No puedes culparlos.</b>
+
+460
+01:08:47,384 --> 01:08:49,720
+<b><i>La Universidad de Bergen
+rechaza esta afirmación.</i></b>
+
+461
+01:08:49,803 --> 01:08:52,681
+<b><i>Era un dios iracundo,
+pero también protector de los humanos.</i></b>
+
+462
+01:08:52,764 --> 01:08:55,809
+<b><i>Estoy aquí con Maja Gundersen,
+fue testigo de...</i></b>
+
+463
+01:08:55,892 --> 01:08:58,018
+<b><i>¡Él va a derrotar a todos,
+él es Thor!</i></b>
+
+464
+01:08:58,479 --> 01:09:02,148
+<b><i>Bergland fue enviado
+al Hospital de Ulvik para tratamiento.</i></b>
+
+465
+01:09:02,233 --> 01:09:05,276
+<b><i>Los militares
+están bloqueando la zona</i></b>
+
+466
+01:09:05,361 --> 01:09:08,197
+<b><i>y pidiéndoles a las personas
+que no se acerquen.</i></b>
+
+467
+01:09:17,998 --> 01:09:20,501
+<b>POLICÍA</b>
+
+468
+01:09:39,019 --> 01:09:40,479
+<b>Fibrilación ventricular.</b>
+
+469
+01:09:46,902 --> 01:09:47,943
+<b>¿Eric?</b>
+
+470
+01:09:49,905 --> 01:09:51,240
+<b>¿Me oyes?</b>
+
+471
+01:10:27,443 --> 01:10:28,444
+<b><i>¿Eric?</i></b>
+
+472
+01:10:29,235 --> 01:10:31,362
+<b>¿Christine? ¿Dónde estoy?</b>
+
+473
+01:10:31,447 --> 01:10:34,158
+<b><i>Te perdimos,
+pero los médicos te trajeron de vuelta.</i></b>
+
+474
+01:10:34,240 --> 01:10:35,866
+<b><i>Necesitan hacer
+una resonancia magnética</i></b>
+
+475
+01:10:35,951 --> 01:10:38,036
+<b>No, por favor. Sácame de aquí.</b>
+
+476
+01:10:38,119 --> 01:10:40,581
+<b><i>Ellos deben ver
+qué sucede dentro de ti.</i></b>
+
+477
+01:10:40,664 --> 01:10:43,083
+<b>Estoy bien aquí, Eric.
+Estoy aquí fuera.</b>
+
+478
+01:10:43,792 --> 01:10:45,001
+<b>Solo habla conmigo.</b>
+
+479
+01:10:49,756 --> 01:10:50,924
+<b>Lo vi de nuevo.</b>
+
+480
+01:10:51,800 --> 01:10:53,635
+<b>Esta vez, estaba todo congelado.</b>
+
+481
+01:10:54,511 --> 01:10:56,137
+<b><i>Como en la Edad de Hielo.</i></b>
+
+482
+01:10:58,182 --> 01:10:59,975
+<b>Pero ese árbol seguía allá.</b>
+
+483
+01:11:03,520 --> 01:11:04,771
+<b>¿Qué árbol?</b>
+
+484
+01:11:05,606 --> 01:11:06,898
+<b>¿A qué se refiere?</b>
+
+485
+01:11:07,649 --> 01:11:09,776
+<b>A veces tiene visiones extrañas.</b>
+
+486
+01:11:17,826 --> 01:11:20,704
+<b>Bueno, Eric. Intenta relajarte.
+Voy a encender la máquina.</b>
+
+487
+01:11:20,787 --> 01:11:22,456
+<b>RESONANCIA
+MAGNÉTICA</b>
+
+488
+01:11:22,539 --> 01:11:24,583
+<b>Vas a oír algunos ruidos.</b>
+
+489
+01:11:25,417 --> 01:11:26,752
+<b><i>Solo relájate.</i></b>
+
+490
+01:11:39,973 --> 01:11:42,726
+<b><i>Las personas se están reuniendo
+alrededor del hospital</i></b>
+
+491
+01:11:42,809 --> 01:11:44,645
+<b><i>solo para ver a Eric Bergland.</i></b>
+
+492
+01:11:45,020 --> 01:11:48,732
+<b><i>La policía confirma que cuenta
+con la ayuda del Gobierno de EE. UU.</i></b>
+
+493
+01:11:48,815 --> 01:11:53,153
+<b><i>y de los militares
+para evitar que la situación se agrave.</i></b>
+
+494
+01:12:31,149 --> 01:12:33,819
+<b>Debe haber algún error.
+¿Cómo él puede estar vivo?</b>
+
+495
+01:12:41,868 --> 01:12:42,911
+<b><i>¿Qué fue eso?</i></b>
+
+496
+01:12:45,622 --> 01:12:46,623
+<b>¿Eric?</b>
+
+497
+01:12:46,998 --> 01:12:48,124
+<b>¡Me duele mucho!</b>
+
+498
+01:12:49,000 --> 01:12:51,169
+<b>-Tiene que apagar la máquina.
+</b><b><i>-No se apaga.</i></b>
+
+499
+01:12:53,129 --> 01:12:54,130
+<b><i>¡Resiste!</i></b>
+
+500
+01:13:07,143 --> 01:13:08,311
+<b>¿Todos están bien?</b>
+
+501
+01:13:10,522 --> 01:13:11,815
+<b>Eric, ¿estás bien?</b>
+
+502
+01:13:13,149 --> 01:13:15,276
+<b>El chico en la UCI2
+tuvo un paro cardíaco.</b>
+
+503
+01:13:15,361 --> 01:13:17,363
+<b>El desfibrilador no funciona.</b>
+
+504
+01:13:18,154 --> 01:13:19,239
+<b>¿Qué dijo ella?</b>
+
+505
+01:13:28,415 --> 01:13:29,541
+<b>UCI</b>
+
+506
+01:13:52,939 --> 01:13:54,024
+<b>¡Eres un monstruo!</b>
+
+507
+01:14:08,830 --> 01:14:10,707
+<b>Mataste a mi único hijo.</b>
+
+508
+01:14:18,006 --> 01:14:19,007
+<b>¡Bjørn!</b>
+
+509
+01:14:21,092 --> 01:14:22,844
+<b>Estás cometiendo un error.</b>
+
+510
+01:14:24,638 --> 01:14:25,764
+<b>Por favor.</b>
+
+511
+01:14:26,682 --> 01:14:28,058
+<b>No lo hagas.</b>
+
+512
+01:14:38,151 --> 01:14:39,360
+<b>Lo lamento.</b>
+
+513
+01:14:41,822 --> 01:14:43,364
+<b>Lo lamento mucho.</b>
+
+514
+01:14:45,158 --> 01:14:46,367
+<b>Yo no...</b>
+
+515
+01:14:47,453 --> 01:14:48,912
+<b>quería hacerle daño.</b>
+
+516
+01:14:50,914 --> 01:14:53,124
+<b>Pero el hijo de otra persona
+está muriendo.</b>
+
+517
+01:14:53,625 --> 01:14:55,711
+<b>Y tiene que dejarme ayudarlo.</b>
+
+518
+01:15:00,006 --> 01:15:01,007
+<b>¡Bjørn!</b>
+
+519
+01:15:22,946 --> 01:15:24,030
+<b>Gracias.</b>
+
+520
+01:15:51,600 --> 01:15:55,186
+<b>Diecisiete, 18, 19, 20, 21,
+22, 23, 24, 25, 26...</b>
+
+521
+01:16:01,276 --> 01:16:03,111
+<b>¿Puedo intentar algo?</b>
+
+522
+01:16:06,865 --> 01:16:07,949
+<b>No, no.</b>
+
+523
+01:16:08,909 --> 01:16:10,035
+<b>Déjalo.</b>
+
+524
+01:16:12,203 --> 01:16:13,246
+<b>Por favor.</b>
+
+525
+01:17:14,349 --> 01:17:15,558
+<b>¡Jørgen!</b>
+
+526
+01:17:34,577 --> 01:17:35,912
+<b>¡Thor es noruego!</b>
+
+527
+01:17:52,638 --> 01:17:53,764
+<b>¿Eric?</b>
+
+528
+01:17:57,100 --> 01:17:58,476
+<b>Tócame. Tócame.</b>
+
+529
+01:18:44,856 --> 01:18:48,068
+<b>El ejército bloqueó la zona de la finca
+para apartar a la prensa</b>
+
+530
+01:18:48,151 --> 01:18:49,652
+<b>y mantener a Eric a salvo.</b>
+
+531
+01:18:50,236 --> 01:18:51,571
+<b>Y a todos nosotros.</b>
+
+532
+01:19:06,962 --> 01:19:08,755
+<b>¿Qué crees que esperan de mí?</b>
+
+533
+01:19:14,219 --> 01:19:16,179
+<b>Lee la página que marqué.</b>
+
+534
+01:19:25,772 --> 01:19:26,689
+<b>¿Qué es?</b>
+
+535
+01:19:28,649 --> 01:19:29,776
+<b>¿Estás bien?</b>
+
+536
+01:19:34,030 --> 01:19:34,990
+<b>"Después"...</b>
+
+537
+01:19:37,075 --> 01:19:40,286
+<b>"Después de que Thor y los demás dioses
+murieron en Ragnarök,</b>
+
+538
+01:19:40,996 --> 01:19:44,249
+<b>sus dos hijos construyeron una finca
+en las ruinas de Åsgård</b>
+
+539
+01:19:44,916 --> 01:19:48,211
+<b>para recomenzar su vida y rescatar
+toda la sabiduría de los dioses</b>
+
+540
+01:19:49,170 --> 01:19:51,131
+<b>para preparar su regreso".</b>
+
+541
+01:19:52,173 --> 01:19:54,009
+<b>Este lugar al que vamos...</b>
+
+542
+01:19:54,509 --> 01:19:57,262
+<b>¿Y si es la finca
+que construyeron los hijos de Thor?</b>
+
+543
+01:20:00,306 --> 01:20:02,183
+<b>¿Y si esa es tu conexión
+con el lugar?</b>
+
+544
+01:20:04,727 --> 01:20:06,729
+<b>¿Y si desciendes de él?</b>
+
+545
+01:20:39,137 --> 01:20:41,514
+<b>AMBULANCIA</b>
+
+546
+01:21:21,762 --> 01:21:23,723
+<b>¿Pueden darme un minuto,
+por favor?</b>
+
+547
+01:21:24,307 --> 01:21:26,684
+<b>Los dos podemos ir
+a echar un vistazo primero.</b>
+
+548
+01:21:50,750 --> 01:21:52,543
+<b>No parece tan antigua.</b>
+
+549
+01:21:53,044 --> 01:21:55,796
+<b>Pueden haber existido varias casas
+aquí con los años.</b>
+
+550
+01:22:56,816 --> 01:22:58,068
+<b>¿Te acuerdas de algo?</b>
+
+551
+01:23:00,695 --> 01:23:02,030
+<b>¡No puedo levantarme!</b>
+
+552
+01:23:02,697 --> 01:23:04,032
+<b>¡No puedo moverme!</b>
+
+553
+01:23:20,840 --> 01:23:23,176
+<b>Vamos a necesitar ayuda
+para cavar aquí.</b>
+
+554
+01:23:31,559 --> 01:23:34,812
+<b><i>Sierra 2 Charlie llegó al lugar.</i></b>
+
+555
+01:23:36,022 --> 01:23:40,276
+<b><i>Pidieron una excavadora para cavar
+el lugar del incendio. Cambio.</i></b>
+
+556
+01:23:47,742 --> 01:23:48,743
+<b>Señora,</b>
+
+557
+01:23:49,327 --> 01:23:50,370
+<b>todo listo.</b>
+
+558
+01:24:12,683 --> 01:24:14,227
+<b><i>Sierra 2 Charlie.</i></b>
+
+559
+01:24:14,310 --> 01:24:15,811
+<b><i>El blanco está en la mira.</i></b>
+
+560
+01:24:15,895 --> 01:24:17,522
+<b><i>Aguardo órdenes. Cambio.</i></b>
+
+561
+01:24:20,191 --> 01:24:23,069
+<b>Si sucede algo
+que agrave la situación,</b>
+
+562
+01:24:23,486 --> 01:24:25,030
+<b>vamos a dispararle.</b>
+
+563
+01:24:25,113 --> 01:24:26,156
+<b><i>Entendido.</i></b>
+
+564
+01:24:26,239 --> 01:24:27,115
+<b>¿Como qué?</b>
+
+565
+01:24:30,201 --> 01:24:31,494
+<b>Aún no lo sé.</b>
+
+566
+01:24:36,291 --> 01:24:37,917
+<b>Fue todo muy rápido.</b>
+
+567
+01:24:41,546 --> 01:24:43,464
+<b>La casa se incendió.</b>
+
+568
+01:24:45,716 --> 01:24:47,885
+<b>Y vi a esas personas morir.</b>
+
+569
+01:24:52,014 --> 01:24:53,891
+<b>No fue culpa tuya.</b>
+
+570
+01:25:15,455 --> 01:25:17,665
+<b>¿Debemos esperar
+a que llegue el arqueólogo?</b>
+
+571
+01:25:19,334 --> 01:25:20,418
+<b><i>Eric.</i></b>
+
+572
+01:25:20,501 --> 01:25:23,003
+<b><i>Creo que encontramos una cripta
+o una caverna.</i></b>
+
+573
+01:25:23,463 --> 01:25:24,922
+<b><i>Vamos a bajar primero.</i></b>
+
+574
+01:25:25,005 --> 01:25:27,258
+<b><i>No quieren arriesgarse
+con otro incendio.</i></b>
+
+575
+01:25:27,342 --> 01:25:28,468
+<b>Quédate aquí.</b>
+
+576
+01:25:28,551 --> 01:25:30,428
+<b>Te avisaré si debes ir.</b>
+
+577
+01:25:33,055 --> 01:25:34,056
+<b>¿De acuerdo?</b>
+
+578
+01:25:41,272 --> 01:25:42,815
+<b>El blanco está aislado.</b>
+
+579
+01:25:43,691 --> 01:25:46,277
+<b><i>Parece que encontraron algo
+debajo del lugar del incendio.</i></b>
+
+580
+01:26:26,025 --> 01:26:27,235
+<b>Son runas.</b>
+
+581
+01:26:36,076 --> 01:26:37,453
+<b>¿Qué es este lugar?</b>
+
+582
+01:27:06,316 --> 01:27:09,068
+<b>La sabiduría
+de todos los dioses muertos.</b>
+
+583
+01:27:09,569 --> 01:27:12,447
+<b>La que los hijos de Thor
+reunieron después de Ragnarök.</b>
+
+584
+01:27:13,656 --> 01:27:16,075
+<b>Las describieron como runas.</b>
+
+585
+01:27:17,452 --> 01:27:19,537
+<b>La palabra de los dioses nórdicos.</b>
+
+586
+01:27:53,195 --> 01:27:54,489
+<b><i>Yggdrasil.</i></b>
+
+587
+01:27:55,906 --> 01:27:57,408
+<b>El árbol de los mundos.</b>
+
+588
+01:27:58,284 --> 01:28:01,621
+<b>Muestra los nueve mundos
+de la mitología nórdica.</b>
+
+589
+01:28:37,282 --> 01:28:39,074
+<b>Es hora de traer a Eric
+aquí abajo.</b>
+
+590
+01:28:45,415 --> 01:28:46,707
+<b>Es tu turno.</b>
+
+591
+01:28:47,207 --> 01:28:48,709
+<b>Mira de qué se trata</b>
+
+592
+01:28:49,460 --> 01:28:51,462
+<b>y sal de ahí
+lo más rápido posible.</b>
+
+593
+01:28:56,467 --> 01:28:57,802
+<b>Te están esperando.</b>
+
+594
+01:29:19,949 --> 01:29:20,950
+<b>Gracias.</b>
+
+595
+01:29:28,999 --> 01:29:32,294
+<b>Bueno, Eric. Sigue el pasadizo
+hasta la pared del fondo.</b>
+
+596
+01:29:32,378 --> 01:29:35,047
+<b>Allá hay un mural
+con un árbol grande.</b>
+
+597
+01:29:39,510 --> 01:29:41,554
+<b><i>Y hay un baúl
+delante del mural.</i></b>
+
+598
+01:29:42,304 --> 01:29:44,474
+<b>Los obreros
+están equipados para abrirlo.</b>
+
+599
+01:29:45,516 --> 01:29:47,893
+<b><i>Pero, por favor, sácalos de allá</i></b>
+
+600
+01:29:47,977 --> 01:29:49,604
+<b><i>antes de hacer cualquier cosa.</i></b>
+
+601
+01:30:44,366 --> 01:30:45,618
+<b>¿Qué es esto?</b>
+
+602
+01:30:47,327 --> 01:30:48,454
+<b>No lo sé.</b>
+
+603
+01:30:55,085 --> 01:30:56,336
+<b>Averigüémoslo.</b>
+
+604
+01:31:19,109 --> 01:31:20,903
+<b>Creo que es hora de salir de aquí.</b>
+
+605
+01:31:30,287 --> 01:31:32,414
+<b><i>Los obreros están regresando.</i></b>
+
+606
+01:31:32,498 --> 01:31:34,625
+<b><i>No vemos a Bergland.</i></b>
+
+607
+01:31:35,250 --> 01:31:37,044
+<b><i>Él sigue allá abajo.</i></b>
+
+608
+01:32:49,366 --> 01:32:50,535
+<b><i>Christine...</i></b>
+
+609
+01:32:50,993 --> 01:32:52,244
+<b><i>Es un martillo.</i></b>
+
+610
+01:33:27,112 --> 01:33:30,074
+<b><i>Los obreros dijeron
+que Eric está solo con el baúl.</i></b>
+
+611
+01:33:30,157 --> 01:33:31,826
+<b><i>Dijeron que encontraron un baúl.</i></b>
+
+612
+01:33:31,909 --> 01:33:33,327
+<b>¿Oíste? ¡Un baúl!</b>
+
+613
+01:34:29,258 --> 01:34:30,592
+<b><i>¿Qué está sucediendo?</i></b>
+
+614
+01:34:30,926 --> 01:34:32,136
+<b><i>¿Estás bien?</i></b>
+
+615
+01:34:32,219 --> 01:34:34,013
+<b>El martillo me está protegiendo.</b>
+
+616
+01:34:49,319 --> 01:34:50,780
+<b><i>Por favor, sal de ahí.</i></b>
+
+617
+01:34:57,452 --> 01:35:00,122
+<b><i>Él tiene un martillo.
+El objeto es un martillo.</i></b>
+
+618
+01:35:00,205 --> 01:35:02,750
+<b><i>Veo algo en su mano.
+Permiso para disparar.</i></b>
+
+619
+01:35:20,810 --> 01:35:22,602
+<b><i>Tenemos civiles en el lugar.</i></b>
+
+620
+01:35:26,106 --> 01:35:27,900
+<b><i>¿Podemos disparar?</i></b>
+
+621
+01:35:28,525 --> 01:35:29,526
+<b>¿Señora?</b>
+
+622
+01:35:29,609 --> 01:35:30,610
+<b>Disparen.</b>
+
+623
+01:35:44,499 --> 01:35:45,876
+<b><i>Víctima femenina.</i></b>
+
+624
+01:35:50,047 --> 01:35:51,841
+<b>Quédate conmigo. Quédate conmigo.</b>
+
+625
+01:35:51,924 --> 01:35:53,633
+<b>¡Christine, no, no!</b>
+
+626
+01:35:53,718 --> 01:35:54,719
+<b>No, no.</b>
+
+627
+01:35:59,098 --> 01:36:00,850
+<b>¡No, no!</b>
+
+628
+01:37:37,112 --> 01:37:41,200
+<b><i>Aún no sabemos la cantidad de muertos
+en la tragedia de Årdal.</i></b>
+
+629
+01:37:41,741 --> 01:37:43,702
+<b><i>Es devastador.</i></b>
+
+630
+01:37:45,370 --> 01:37:47,414
+<b><i>Noruega sigue conmocionada.</i></b>
+
+631
+01:37:48,373 --> 01:37:49,749
+<b><i>Noruega...</i></b>
+
+632
+01:37:50,709 --> 01:37:51,961
+<b><i>El culto de Thor...</i></b>
+
+633
+01:37:52,044 --> 01:37:54,129
+<b><i>Con el terrorista Eric Bergland
+que sigue forajido...</i></b>
+
+634
+01:37:54,213 --> 01:37:55,923
+<b><i>Aún no hay señales
+de Eric Bergland...</i></b>
+

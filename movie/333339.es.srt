@@ -1,0 +1,6854 @@
+1
+00:00:51,635 --> 00:00:55,556
+TORRES
+
+2
+00:01:16,452 --> 00:01:20,372
+ <i>Prepárate para sentir de verdad. X1. </i>
+
+3
+00:01:20,539 --> 00:01:22,291
+ <i>Sin dolor no hay victoria. </i>
+
+4
+00:01:44,188 --> 00:01:45,606
+Pizza, chicos.
+
+5
+00:02:07,169 --> 00:02:08,546
+Hola, Wade.
+
+6
+00:02:08,712 --> 00:02:10,297
+Hola, Sra. Gilmore.
+
+7
+00:02:10,464 --> 00:02:13,300
+¿Qué pasa? ¿Te deprime la vida?
+
+8
+00:02:18,013 --> 00:02:20,391
+ <i>Nací en 2027. </i>
+
+9
+00:02:20,558 --> 00:02:24,186
+ <i>Luego de las sequías del sirope, </i>
+ <i>de los líos por el ancho de banda. </i>
+
+10
+00:02:24,353 --> 00:02:26,856
+ <i>Luego de que las personas comenzaran </i>
+ <i>a sobrevivir a los problemas </i>
+
+11
+00:02:26,939 --> 00:02:28,816
+ <i>en vez de querer solucionarlos. </i>
+
+12
+00:02:35,447 --> 00:02:37,741
+ <i>Mis padres murieron en esa época, </i>
+
+13
+00:02:37,908 --> 00:02:41,078
+ <i>así que vivo en Columbus, Ohio, </i>
+ <i>con mi tía Alice. </i>
+
+14
+00:02:41,871 --> 00:02:46,250
+ <i>En 2045, Columbus es </i>
+ <i>la ciudad de mayor crecimiento mundial. </i>
+
+15
+00:02:47,209 --> 00:02:50,504
+ <i>Aquí Halliday y Morrow </i>
+ <i>fundaron Gregarious Games. </i>
+
+16
+00:02:55,426 --> 00:02:57,678
+ <i>Hoy, la realidad es un fastidio. </i>
+
+17
+00:02:57,845 --> 00:02:59,638
+ <i>Todos buscan una forma de escapar. </i>
+
+18
+00:02:59,805 --> 00:03:01,056
+ <i>Por eso Halliday </i>
+
+19
+00:03:01,223 --> 00:03:03,183
+ <i>fue un héroe para nosotros. </i>
+
+20
+00:03:04,184 --> 00:03:07,688
+ <i>Nos mostró que podíamos ir adonde sea </i>
+ <i>sin ir a ningún lado. </i>
+
+21
+00:03:09,690 --> 00:03:12,985
+ <i>No necesitas un destino </i>
+ <i>si corres en una cinta omnidireccional </i>
+
+22
+00:03:13,152 --> 00:03:15,446
+ <i>con subcapa cuadrafónica sensitiva. </i>
+
+23
+00:03:16,447 --> 00:03:18,699
+ <i>James Halliday vio el futuro. </i>
+
+24
+00:03:18,866 --> 00:03:20,409
+ <i>Y luego lo construyó. </i>
+
+25
+00:03:20,576 --> 00:03:22,578
+ <i>Nos dio un lugar adonde ir. </i>
+
+26
+00:03:22,745 --> 00:03:24,496
+ <i>Un lugar llamado... </i>
+
+27
+00:03:25,080 --> 00:03:26,457
+ <i>...el OASIS. </i>
+
+28
+00:03:38,218 --> 00:03:39,261
+{\an8}MUNDO MINECRAFT
+
+29
+00:03:39,637 --> 00:03:41,805
+ <i>Este es el OASIS. </i>
+
+30
+00:03:41,972 --> 00:03:46,143
+ <i>Donde solo tu imaginación </i>
+ <i>le pone límites a la realidad. </i>
+
+31
+00:03:47,561 --> 00:03:48,812
+100 PUNTOS
+
+32
+00:03:49,063 --> 00:03:50,105
+ALA DELTA HURACÁN
+
+33
+00:03:59,615 --> 00:04:01,408
+ <i>Puedes hacer cualquier cosa, </i>
+
+34
+00:04:02,743 --> 00:04:03,744
+ <i>ir adonde sea. </i>
+
+35
+00:04:05,371 --> 00:04:06,872
+ <i>Como al planeta vacacional. </i>
+
+36
+00:04:07,039 --> 00:04:12,086
+ <i>Surfear una ola de 15 metros en Hawái. </i>
+ <i>Esquiar en las pirámides. </i>
+
+37
+00:04:12,753 --> 00:04:14,463
+ <i>Escalar el monte Everest... </i>
+
+38
+00:04:14,630 --> 00:04:16,090
+ <i>...con Batman. </i>
+
+39
+00:04:18,842 --> 00:04:22,304
+ <i>Mira este lugar. </i>
+ <i>Un casino del tamaño de un planeta. </i>
+
+40
+00:04:22,471 --> 00:04:26,225
+ <i>Puedes perder tu dinero allí. </i>
+ <i>Puedes casarte y divorciarte. </i>
+
+41
+00:04:26,392 --> 00:04:27,393
+MOTEL - SOLO PARA ADULTOS
+
+42
+00:04:27,559 --> 00:04:28,727
+ <i>Puedes entrar ahí. </i>
+
+43
+00:04:30,396 --> 00:04:33,315
+ <i>La gente llega al OASIS </i>
+ <i>por todo lo que pueden hacer, </i>
+
+44
+00:04:33,482 --> 00:04:36,610
+ <i>pero se quedan </i>
+ <i>por todo lo que pueden ser. </i>
+
+45
+00:04:38,153 --> 00:04:41,782
+ <i>Altos, bellos, aterradores. </i>
+ <i>De diferente género, </i>
+
+46
+00:04:41,949 --> 00:04:44,994
+ <i>otra especie, </i>
+ <i>imágenes reales, dibujos animados. </i>
+
+47
+00:04:45,160 --> 00:04:46,745
+ <i>Lo que quieras. </i>
+
+48
+00:04:47,788 --> 00:04:50,958
+{\an8} <i>Este soy yo. Bueno, mi avatar. </i>
+
+49
+00:04:51,125 --> 00:04:53,919
+{\an8} <i>Al menos, hasta que quiera cambiarlo. </i>
+
+50
+00:04:55,087 --> 00:04:57,339
+ <i>Salvo por comer, dormir e ir al baño, </i>
+
+51
+00:04:57,506 --> 00:05:00,759
+ <i>todo lo que la gente desea hacer, </i>
+ <i>lo hace en el OASIS. </i>
+
+52
+00:05:01,593 --> 00:05:04,430
+ <i>Y como todos están aquí, </i>
+ <i>aquí nos conocemos. </i>
+
+53
+00:05:04,596 --> 00:05:05,764
+ <i>Aquí hacemos amigos. </i>
+
+54
+00:05:05,931 --> 00:05:07,099
+Localiza a Hache.
+
+55
+00:05:09,059 --> 00:05:10,519
+ <i>Localizando a Hache. </i>
+
+56
+00:05:13,397 --> 00:05:14,773
+ <i>Hache localizado. </i>
+
+57
+00:05:15,482 --> 00:05:18,152
+ <i>Sector 12. Planeta Doom. </i>
+
+58
+00:05:18,777 --> 00:05:21,947
+ <i>El planeta Doom, </i>
+ <i>el lugar más peligroso en el OASIS </i>
+
+59
+00:05:22,114 --> 00:05:25,034
+ <i>y un gran sitio para ganar monedas. </i>
+
+60
+00:05:25,200 --> 00:05:26,744
+ <i>Claro que Hache está ahí. </i>
+
+61
+00:05:29,413 --> 00:05:31,999
+ <i>Hache es mi mejor amigo en el OASIS. </i>
+
+62
+00:05:32,875 --> 00:05:35,377
+ <i>Es mi mejor amigo, punto. </i>
+
+63
+00:05:35,544 --> 00:05:38,380
+ <i>Aunque jamás lo vi en el mundo real. </i>
+
+64
+00:05:42,301 --> 00:05:44,470
+ <i>-¿Qué tal, Hache? </i>
+-¿Qué tal, Zeta?
+
+65
+00:05:44,636 --> 00:05:46,889
+ <i>Corremos en 20 minutos, luego no puedo. </i>
+
+66
+00:05:47,056 --> 00:05:48,599
+ <i>¿Qué rayos haces tú? </i>
+
+67
+00:05:48,766 --> 00:05:51,226
+Masacro gente, amigo.
+
+68
+00:05:51,393 --> 00:05:52,478
+ <i>¿Ese es Daito? </i>
+
+69
+00:05:52,644 --> 00:05:54,188
+Daito y Sho.
+
+70
+00:05:55,647 --> 00:05:57,274
+DISPARO A LA CABEZA
+GENIAL
+
+71
+00:05:57,858 --> 00:05:58,692
+ARRASANDO
+
+72
+00:06:00,652 --> 00:06:01,945
+ <i>¿Buscan un artefacto? </i>
+
+73
+00:06:02,112 --> 00:06:04,239
+Sí. El Gregarious 120.
+
+74
+00:06:04,406 --> 00:06:08,327
+ <i>Te convierte en un robot gigante </i>
+ <i>por dos minutos. Eso es genial. </i>
+
+75
+00:06:08,994 --> 00:06:10,287
+ <i>Artefactos. </i>
+
+76
+00:06:11,080 --> 00:06:13,040
+ <i>Ellos fueron de gran importancia. </i>
+
+77
+00:06:13,957 --> 00:06:18,670
+ <i>Halliday llenó el OASIS </i>
+ <i>de elementos aleatorios y poderosos </i>
+
+78
+00:06:18,837 --> 00:06:21,632
+ <i>para que ganar </i>
+ <i>solo dependa de la habilidad. </i>
+
+79
+00:06:23,217 --> 00:06:25,886
+ <i>Con combates y artefactos ganas monedas, </i>
+
+80
+00:06:26,053 --> 00:06:28,722
+ <i>pero son peligrosos </i>
+ <i>con bajo nivel de armadura. </i>
+
+81
+00:06:30,182 --> 00:06:32,476
+ <i>Todos comienzan igual, </i>
+
+82
+00:06:32,643 --> 00:06:33,727
+ <i>pero con monedas... </i>
+
+83
+00:06:33,894 --> 00:06:35,521
+-¡Mamá!
+ <i>-...subes de nivel. </i>
+
+84
+00:06:35,687 --> 00:06:38,107
+ <i>Si te matan, tu avatar recobra la vida... </i>
+
+85
+00:06:38,273 --> 00:06:39,108
+¡Ve con tu papá!
+
+86
+00:06:39,274 --> 00:06:40,943
+ <i>...pero pierdes todo. </i>
+
+87
+00:06:42,653 --> 00:06:44,738
+ <i>Todo por lo que te esforzaste. </i>
+
+88
+00:06:45,656 --> 00:06:46,990
+ <i>Todo tu dinero... </i>
+
+89
+00:06:49,159 --> 00:06:50,536
+ <i>Tu ropa... </i>
+
+90
+00:06:52,246 --> 00:06:53,539
+ <i>Tus armas... </i>
+
+91
+00:06:54,164 --> 00:06:56,792
+ <i>Como la gente casi vive en el OASIS, </i>
+
+92
+00:06:59,753 --> 00:07:00,879
+ <i>si pierde todo, </i>
+
+93
+00:07:01,588 --> 00:07:04,007
+ <i>bueno, pierde hasta la cordura. </i>
+
+94
+00:07:06,593 --> 00:07:08,846
+Faltan diez minutos para la carrera.
+
+95
+00:07:09,012 --> 00:07:10,639
+ <i>Ya te escuché, mamá. </i>
+
+96
+00:07:11,014 --> 00:07:15,185
+ <i>El OASIS fue obra de James Halliday. </i>
+
+97
+00:07:15,352 --> 00:07:20,107
+ <i>Él y su socio, Ogden Morrow, lanzaron </i>
+ <i>la primera versión en 2025. </i>
+
+98
+00:07:20,274 --> 00:07:24,361
+ <i>Fue un éxito de inmediato </i>
+ <i>y los hizo muy ricos. </i>
+
+99
+00:07:24,528 --> 00:07:27,990
+ <i>Pero, años después, </i>
+ <i>Morrow perdió relevancia. ¿Y Halliday? </i>
+
+100
+00:07:28,157 --> 00:07:31,326
+ <i>Él no era solo el dueño </i>
+ <i>de la compañía más grande del mundo. </i>
+
+101
+00:07:31,493 --> 00:07:35,289
+ <i>Era un dios. La gente lo adoraba. </i>
+
+102
+00:07:35,455 --> 00:07:37,457
+ <i>Tanto como a su creación. </i>
+
+103
+00:07:37,624 --> 00:07:40,294
+Deberíamos dejar de hablar
+
+104
+00:07:40,460 --> 00:07:42,796
+y comenzar a mostrarlo.
+
+105
+00:07:42,963 --> 00:07:45,090
+Si buscan bajo sus asientos,
+
+106
+00:07:45,257 --> 00:07:47,426
+no hallarán nada.
+
+107
+00:07:47,593 --> 00:07:50,929
+Pero ya les daremos uno.
+
+108
+00:07:51,805 --> 00:07:55,726
+ <i>Y luego, el 7 de enero de 2040... </i>
+
+109
+00:07:58,770 --> 00:07:59,771
+ <i>...murió. </i>
+
+110
+00:07:59,938 --> 00:08:02,649
+LIBERTAD - EN DIOS CONFIAMOS
+
+111
+00:08:02,816 --> 00:08:03,984
+{\an8} <i>Y su legado </i>
+
+112
+00:08:05,402 --> 00:08:07,946
+{\an8} <i>lo cambió todo. </i>
+
+113
+00:08:20,500 --> 00:08:24,546
+Hola. Soy James Halliday.
+
+114
+00:08:24,713 --> 00:08:27,841
+Si están viendo esto, es que estoy muerto.
+
+115
+00:08:28,342 --> 00:08:34,181
+ <i>Antes de morir, creé lo que conocemos </i>
+ <i>técnicamente como huevo de Pascua. </i>
+
+116
+00:08:35,390 --> 00:08:39,603
+ <i>Un objeto oculto en un juego </i>
+ <i>que brinda poderes especiales </i>
+
+117
+00:08:39,686 --> 00:08:42,314
+ <i>a quien lo descubra. </i>
+
+118
+00:08:43,732 --> 00:08:46,151
+ <i>La primera persona en hallar el huevo </i>
+
+119
+00:08:46,318 --> 00:08:49,571
+ <i>que escondí en algún lugar del OASIS </i>
+
+120
+00:08:49,738 --> 00:08:53,408
+ <i>heredará mis acciones </i>
+ <i>de Gregarious Games, </i>
+
+121
+00:08:53,575 --> 00:08:57,371
+ <i>cuyo valor actual es </i>
+ <i>de más de medio millón... </i>
+
+122
+00:08:57,746 --> 00:09:00,290
+ <i>...de billones de dólares, </i>
+
+123
+00:09:00,457 --> 00:09:05,837
+ <i>y el control total del OASIS. </i>
+
+124
+00:09:06,922 --> 00:09:12,135
+Bajo la forma de mi avatar,
+Anorak el Sabio,
+
+125
+00:09:12,636 --> 00:09:15,305
+creé tres llaves.
+
+126
+00:09:16,306 --> 00:09:19,518
+Tres desafíos ocultos ponen
+el valor a prueba
+
+127
+00:09:19,685 --> 00:09:23,855
+y revelan tres llaves secretas
+de puertas mágicas.
+
+128
+00:09:24,022 --> 00:09:28,026
+A quienes puedan sobrevivir
+a estos problemas,
+
+129
+00:09:28,193 --> 00:09:32,823
+un gran premio al final los espera.
+
+130
+00:09:32,990 --> 00:09:35,492
+En marcha, llaves.
+
+131
+00:09:37,828 --> 00:09:42,666
+Las llaves no están simplemente
+debajo de una piedra.
+
+132
+00:09:42,833 --> 00:09:45,419
+Se podría decir que son invisibles,
+
+133
+00:09:45,585 --> 00:09:49,131
+ocultas en una sala secreta
+en medio de un laberinto,
+
+134
+00:09:49,298 --> 00:09:52,217
+ubicado en algún lugar
+
+135
+00:09:53,218 --> 00:09:55,470
+de aquí.
+
+136
+00:09:55,637 --> 00:09:59,683
+Que la búsqueda
+del huevo de Pascua de Halliday
+
+137
+00:10:00,350 --> 00:10:01,476
+comience.
+
+138
+00:10:01,768 --> 00:10:06,148
+READY PLAYER ONE
+COMIENZA EL JUEGO
+
+139
+00:10:07,899 --> 00:10:10,152
+ <i>El desafío es encontrar tres llaves, </i>
+
+140
+00:10:10,319 --> 00:10:13,780
+ <i>pero en cinco años, </i>
+ <i>nadie halló ni siquiera una. </i>
+
+141
+00:10:13,947 --> 00:10:15,615
+ <i>¿Y el tablero? Sigue vacío. </i>
+
+142
+00:10:15,782 --> 00:10:16,783
+¡PRIMERO EN GANAR LA LLAVE!
+
+143
+00:10:16,950 --> 00:10:20,537
+ <i>Un gunter resolvió la pista </i>
+ <i>y halló el primer desafío. </i>
+
+144
+00:10:20,746 --> 00:10:22,706
+ <i>Y apareció este portal. </i>
+
+145
+00:10:23,457 --> 00:10:26,710
+ <i>El reto para la primera llave </i>
+ <i>era una carrera, obra de Halliday, </i>
+
+146
+00:10:26,877 --> 00:10:29,713
+ <i>tan difícil que nadie la ha completado. </i>
+
+147
+00:10:29,880 --> 00:10:33,216
+ <i>Solo siguen intentándolo los gunters, </i>
+ <i>o buscadores de huevos, </i>
+
+148
+00:10:33,383 --> 00:10:36,261
+ <i>como Sho, Daito, </i>
+ <i>mi mejor amigo Hache y yo. </i>
+
+149
+00:10:36,970 --> 00:10:40,223
+ <i>Y, claro, los sixers. </i>
+
+150
+00:10:40,766 --> 00:10:41,975
+ <i>Ellos trabajan para IOI... </i>
+
+151
+00:10:42,059 --> 00:10:42,893
+¡Los sixers!
+
+152
+00:10:42,976 --> 00:10:44,311
+ <i>...Innovative Online Industries. </i>
+
+153
+00:10:44,519 --> 00:10:46,563
+ <i>La segunda empresa más grande del mundo, </i>
+
+154
+00:10:46,730 --> 00:10:48,523
+ <i>con intenciones de ser la primera. </i>
+
+155
+00:10:48,982 --> 00:10:52,110
+ <i>Por eso se concentran </i>
+ <i>en ganar el concurso de Halliday. </i>
+
+156
+00:10:52,277 --> 00:10:53,904
+¡Abróchense el cinturón!
+
+157
+00:10:54,738 --> 00:10:56,615
+¡Siéntense!
+
+158
+00:10:56,782 --> 00:10:59,493
+ <i>Les decimos sixers </i>
+ <i>por la regla de la empresa. </i>
+
+159
+00:10:59,659 --> 00:11:01,119
+ <i>Sin nombres, solo números. </i>
+
+160
+00:11:02,913 --> 00:11:05,582
+ <i>Cuentan con el apoyo </i>
+ <i>de expertos en Halliday. </i>
+
+161
+00:11:05,749 --> 00:11:08,293
+ <i>Como yo, estudian la cultura popular, </i>
+
+162
+00:11:08,460 --> 00:11:12,047
+ <i>la obsesión de Halliday, </i>
+ <i>buscando pistas para el concurso. </i>
+
+163
+00:11:14,716 --> 00:11:17,511
+ <i>Siguen las órdenes del director de IOI. </i>
+
+164
+00:11:17,677 --> 00:11:20,722
+ <i>Un tonto llamado Nolan Sorrento. </i>
+
+165
+00:11:26,770 --> 00:11:28,021
+¿Cómo llegaste antes que yo?
+
+166
+00:11:28,188 --> 00:11:30,690
+Yo no me detuve en la peluquería.
+
+167
+00:11:30,857 --> 00:11:32,651
+-¿Qué tal, Zeta?
+-¿Qué tal, Hache?
+
+168
+00:11:33,360 --> 00:11:34,486
+Te guardé un lugar.
+
+169
+00:11:34,653 --> 00:11:35,987
+Gracias, amigo.
+
+170
+00:11:40,200 --> 00:11:41,243
+Saldré desde atrás.
+
+171
+00:11:41,410 --> 00:11:44,246
+¿Para robar monedas de los autos chocados?
+
+172
+00:11:44,413 --> 00:11:47,040
+-Qué lamentable.
+-Tengo poco combustible.
+
+173
+00:11:47,207 --> 00:11:50,627
+Pero tienes suficiente
+para ese peinado de <i>Loco por Mary. </i>
+
+174
+00:12:31,042 --> 00:12:32,043
+LISTOS
+
+175
+00:12:32,461 --> 00:12:33,462
+A ganar la llave.
+
+176
+00:12:34,838 --> 00:12:35,839
+¡A ganar el huevo!
+
+177
+00:13:25,180 --> 00:13:27,057
+Hache, ¿estás viendo esto?
+
+178
+00:13:29,684 --> 00:13:30,519
+ <i>Sí. </i>
+
+179
+00:13:30,602 --> 00:13:32,145
+Es la moto de Kaneda de <i>Akira </i>.
+
+180
+00:13:32,312 --> 00:13:34,356
+De marco común, con piel registrada.
+
+181
+00:13:34,523 --> 00:13:36,733
+ <i>La moto no. Olvida la moto. </i>
+
+182
+00:13:37,400 --> 00:13:39,069
+ <i>La chica, creo que es Art3mis. </i>
+
+183
+00:13:39,236 --> 00:13:41,363
+¿Art3mis? ¿La Caza Sixers?
+
+184
+00:13:41,530 --> 00:13:44,324
+Veo todos sus tutoriales,
+sus videos en Twitch.
+
+185
+00:13:44,491 --> 00:13:46,368
+Es ella. Definitivamente.
+
+186
+00:15:33,516 --> 00:15:35,602
+¡Vamos! ¡Gana! ¡Rápido!
+
+187
+00:15:40,440 --> 00:15:41,274
+META
+
+188
+00:15:41,441 --> 00:15:42,692
+ <i>¡Ya casi! </i>
+
+189
+00:15:51,993 --> 00:15:53,370
+Maldición.
+
+190
+00:15:59,125 --> 00:16:00,293
+No lo logrará.
+
+191
+00:16:02,879 --> 00:16:04,547
+¡Detente!
+
+192
+00:16:04,714 --> 00:16:05,715
+¡Detente!
+
+193
+00:16:44,170 --> 00:16:45,505
+Rayos, adoraba esa moto.
+
+194
+00:16:45,672 --> 00:16:46,923
+Hache podría...
+
+195
+00:16:47,090 --> 00:16:49,551
+Es mi amigo, podría arreglártela.
+
+196
+00:16:56,975 --> 00:16:59,644
+Es mi taller. No toquen nada.
+
+197
+00:17:06,276 --> 00:17:08,236
+¿Dónde hallaste un Gigante de Hierro?
+
+198
+00:17:08,403 --> 00:17:11,072
+¿Dónde? Lo construyo. Por encargo.
+
+199
+00:17:11,614 --> 00:17:14,075
+Hache es el mejor en los foros de <i>mods. </i>
+
+200
+00:17:14,242 --> 00:17:16,911
+Recibe muchas monedas de todo el OASIS.
+
+201
+00:17:17,078 --> 00:17:19,289
+¡Mira esto!
+
+202
+00:17:19,456 --> 00:17:20,915
+Deténte, Zeta.
+
+203
+00:17:22,459 --> 00:17:24,753
+-La nave <i>Galactica, </i> claro.
+-Mis bebés.
+
+204
+00:17:24,919 --> 00:17:26,546
+ <i>Sulaco, </i> de <i>Aliens. </i>
+
+205
+00:17:26,713 --> 00:17:28,089
+¿Por qué presumes con mis cosas?
+
+206
+00:17:28,256 --> 00:17:30,717
+ <i>Valley Forge, </i> de <i>Silent Running. </i>
+¿Y la nave Harkonnen?
+
+207
+00:17:30,884 --> 00:17:33,261
+Es genial. Pliega el espacio muy bien.
+
+208
+00:17:33,428 --> 00:17:35,180
+De Incipio a Arrakis en tres segundos...
+
+209
+00:17:35,513 --> 00:17:37,098
+¡Los dedos!
+
+210
+00:17:37,265 --> 00:17:38,433
+Discúlpalo.
+
+211
+00:17:38,600 --> 00:17:40,769
+Las chicas lindas lo ponen nervioso.
+
+212
+00:17:47,942 --> 00:17:50,403
+En diez minutos estará arreglada.
+
+213
+00:17:51,780 --> 00:17:54,240
+Sí. Él es fabuloso.
+
+214
+00:17:54,407 --> 00:17:57,285
+Supongo que tú y Omóplatos forman un clan.
+
+215
+00:17:57,452 --> 00:17:59,579
+¿Con Hache? No.
+
+216
+00:17:59,746 --> 00:18:03,875
+Es muy bueno,
+pero yo no pertenezco a ningún clan.
+
+217
+00:18:04,709 --> 00:18:07,253
+Porque eres Parzival,
+
+218
+00:18:07,420 --> 00:18:09,798
+como el caballero
+que halló el Santo Grial.
+
+219
+00:18:09,964 --> 00:18:11,549
+¿Qué hay de ti, Art3mis?
+
+220
+00:18:11,716 --> 00:18:14,928
+Diosa de la caza.
+Los clanes ansiarán reclutarte.
+
+221
+00:18:16,554 --> 00:18:18,348
+-¿Favorito de disparos?
+-¿Cómo?
+
+222
+00:18:18,515 --> 00:18:20,308
+El juego de disparos favorito de Halliday.
+
+223
+00:18:20,475 --> 00:18:21,893
+-¿Cuál es?
+ <i>-Goldeneye. </i>
+
+224
+00:18:22,060 --> 00:18:24,270
+-¿Jugando como?
+-Oddjob. ¿Es una prueba?
+
+225
+00:18:24,437 --> 00:18:25,355
+¿Variante favorita?
+
+226
+00:18:25,522 --> 00:18:27,106
+A mano limpia. Sin armas.
+
+227
+00:18:27,273 --> 00:18:29,275
+Sé qué es "a mano limpia". ¿Carreras?
+
+228
+00:18:29,442 --> 00:18:31,569
+ <i>Turbo. </i> Y su comida eran los Hot Pockets.
+
+229
+00:18:31,736 --> 00:18:33,321
+Su restaurante, Chuck E Cheese.
+
+230
+00:18:33,488 --> 00:18:35,865
+La canción, <i>Video Killed the Radio Star </i>
+de The Buggles.
+
+231
+00:18:36,032 --> 00:18:37,659
+El video, <i>Take on Me </i> de A-ha.
+
+232
+00:18:38,868 --> 00:18:41,871
+Su cita favorita era de <i>Superman. </i>
+
+233
+00:18:42,539 --> 00:18:43,832
+"Unos leen <i>La guerra y la paz </i>
+
+234
+00:18:43,998 --> 00:18:46,209
+"y les parece
+una novela de aventuras".
+
+235
+00:18:46,376 --> 00:18:49,003
+"Otros leen los ingredientes
+de un chicle
+
+236
+00:18:49,170 --> 00:18:51,548
+"y descifran
+los secretos del universo".
+
+237
+00:18:52,257 --> 00:18:53,508
+Lex Luthor.
+
+238
+00:18:54,676 --> 00:18:56,177
+Genial.
+
+239
+00:18:57,345 --> 00:19:01,224
+¿Qué harías? ¿Si ganaras?
+Me refiero al concurso.
+
+240
+00:19:01,975 --> 00:19:04,227
+Tengo muchos planes en el mundo real.
+
+241
+00:19:04,394 --> 00:19:09,148
+Me mudaría a una gran mansión,
+compraría cosas geniales, no sería pobre.
+
+242
+00:19:10,400 --> 00:19:12,777
+{\an8}Ahora sé por qué te detuviste.
+
+243
+00:19:14,112 --> 00:19:17,115
+Me detuve por Kong. Nadie pasa a Kong.
+
+244
+00:19:17,282 --> 00:19:19,075
+Es una regla.
+
+245
+00:19:19,242 --> 00:19:22,704
+Sabes que no puede ser cierto,
+Halliday odiaba poner reglas.
+
+246
+00:19:22,871 --> 00:19:24,163
+No puedo quedar en cero.
+
+247
+00:19:24,330 --> 00:19:25,707
+-Temes perder todo.
+-No.
+
+248
+00:19:25,874 --> 00:19:29,168
+¿Qué pasa si IOI te ofrece monedas
+por las llaves del reino?
+
+249
+00:19:29,335 --> 00:19:31,546
+Nolan Sorrento se apodera del mundo.
+
+250
+00:19:31,713 --> 00:19:35,884
+Un gunter de verdad arriesgaría todo
+para salvar el OASIS de IOI.
+
+251
+00:19:36,050 --> 00:19:37,385
+¿Quién dijo eso?
+
+252
+00:19:37,552 --> 00:19:39,137
+Yo.
+
+253
+00:19:41,222 --> 00:19:42,765
+Aquí tienes. Como nueva.
+
+254
+00:19:43,349 --> 00:19:45,351
+Gracias por la reparación.
+
+255
+00:19:55,486 --> 00:19:57,030
+Así está mejor.
+
+256
+00:19:57,572 --> 00:20:01,534
+Te saludaré desde la meta, McFly.
+
+257
+00:20:04,954 --> 00:20:06,039
+Eso salió bien.
+
+258
+00:20:06,205 --> 00:20:07,916
+Gracias a ti, capitán Bocazas.
+
+259
+00:20:08,082 --> 00:20:11,419
+ <i>¿Wade? ¿Dónde rayos están mis guantes? </i>
+
+260
+00:20:11,586 --> 00:20:13,546
+Maldición. Me tengo que ir.
+
+261
+00:20:16,591 --> 00:20:17,467
+ <i>X1. </i>
+
+262
+00:20:17,634 --> 00:20:21,220
+Cuando busco oro en el planeta Doom,
+toda ventaja viene bien.
+
+263
+00:20:21,638 --> 00:20:25,391
+Los empujones, los golpes, los disparos,
+se siente todo.
+
+264
+00:20:25,558 --> 00:20:29,729
+ <i>Prepárate para sentir de verdad. X1. </i>
+
+265
+00:20:29,896 --> 00:20:34,192
+ <i>Con X1, llevas una segunda piel. </i>
+ <i>Una piel invencible. </i>
+
+266
+00:20:35,944 --> 00:20:38,696
+Quedé en cero
+por culpa de tus guantes rotos.
+
+267
+00:20:38,863 --> 00:20:40,114
+¿Quién dijo que los uses?
+
+268
+00:20:40,281 --> 00:20:42,367
+Tú tomaste los de ella.
+
+269
+00:20:43,451 --> 00:20:44,786
+Moriste en un combate.
+
+270
+00:20:44,953 --> 00:20:49,207
+¿Por qué no revives
+y subes de nivel como todos?
+
+271
+00:20:49,374 --> 00:20:50,500
+No entiendes.
+
+272
+00:20:50,667 --> 00:20:53,586
+Compré muchos potenciadores, perdí todo.
+
+273
+00:20:53,753 --> 00:20:55,463
+¡El artefacto iba a pagar la casa!
+
+274
+00:20:55,630 --> 00:20:56,631
+Un momento.
+
+275
+00:20:56,798 --> 00:21:00,218
+¿Cuánto del dinero de nuestra casa
+gastaste en mejoras?
+
+276
+00:21:01,302 --> 00:21:04,055
+Todo, pero iba a ganar.
+
+277
+00:21:04,847 --> 00:21:07,058
+Nos iba a permitir salir de aquí.
+
+278
+00:21:09,686 --> 00:21:10,770
+Idiota.
+
+279
+00:21:10,937 --> 00:21:13,064
+Perdí por los guantes rotos.
+
+280
+00:21:13,231 --> 00:21:14,816
+¡Nuestra casa!
+
+281
+00:21:14,983 --> 00:21:16,150
+Estaban mis amigos.
+
+282
+00:21:16,317 --> 00:21:18,361
+Hubieras perdido con un traje háptico.
+
+283
+00:21:18,987 --> 00:21:22,073
+¡Basta! ¡No!
+
+284
+00:21:22,156 --> 00:21:23,282
+Alice, ¡llama a la policía!
+
+285
+00:21:23,449 --> 00:21:24,951
+No la llamaremos.
+
+286
+00:21:25,118 --> 00:21:26,828
+Ve a tu cuarto, Rick.
+
+287
+00:21:26,995 --> 00:21:28,329
+Por favor, Alice.
+
+288
+00:21:29,330 --> 00:21:32,667
+¿Por qué lo soportas?
+Da un espectáculo lamentable.
+
+289
+00:21:33,334 --> 00:21:37,755
+Debería echarlos a los dos.
+Juro por D-I-O-S, Wade Watts,
+
+290
+00:21:37,922 --> 00:21:40,508
+que si tocas de nuevo mis cosas,
+
+291
+00:21:40,675 --> 00:21:43,219
+no es broma, te largas de aquí.
+
+292
+00:21:50,143 --> 00:21:52,311
+ <i>Wade Watts. </i>
+
+293
+00:21:52,478 --> 00:21:55,898
+ <i>Papá me llamó así, porque sonaba </i>
+ <i>como el </i> alter ego <i>de un superhéroe, </i>
+
+294
+00:21:56,482 --> 00:21:59,110
+ <i>como Peter Parker o Bruce Banner. </i>
+
+295
+00:22:00,153 --> 00:22:02,071
+ <i>Pero murió cuando era pequeño. </i>
+
+296
+00:22:02,238 --> 00:22:05,283
+ <i>Mamá también. Y terminé aquí, </i>
+
+297
+00:22:05,450 --> 00:22:09,704
+ <i>viviendo con la tía Alice </i>
+ <i>y su sinfín de novios fracasados. </i>
+
+298
+00:22:12,582 --> 00:22:15,293
+ <i>"Halliday odiaba poner reglas". </i>
+
+299
+00:22:15,460 --> 00:22:18,046
+ <i>¿Por qué no puedo quitármelo de la cabeza? </i>
+
+300
+00:22:20,423 --> 00:22:23,342
+ <i>Quizá porque lo dijo Art3mis, </i>
+ <i>y es muy atractiva. </i>
+
+301
+00:22:23,968 --> 00:22:28,514
+ <i>O porque criticó que permanezca aquí, </i>
+ <i>en mi diminuto rincón inexistente, </i>
+
+302
+00:22:29,390 --> 00:22:31,976
+ <i>protegiendo mi pequeña porción de nada. </i>
+
+303
+00:22:32,143 --> 00:22:33,895
+ <i>O quizá... </i>
+
+304
+00:22:34,395 --> 00:22:36,731
+ <i>Quizá esa frase signifique algo... </i>
+
+305
+00:22:36,898 --> 00:22:38,399
+ <i>...que pasé por alto. </i>
+
+306
+00:22:40,109 --> 00:22:41,360
+DIARIO DE HALLIDAY
+
+307
+00:22:41,527 --> 00:22:44,363
+ <i>Con el concurso, </i>
+ <i>apareció el Diario de Halliday. </i>
+
+308
+00:22:44,530 --> 00:22:46,866
+ <i>Nos pidió buscar en su mente. </i>
+ <i>También fue bueno. </i>
+
+309
+00:22:48,493 --> 00:22:51,829
+ <i>Al inicio, los gunters pululaban </i>
+ <i>en busca de respuestas. </i>
+
+310
+00:22:51,996 --> 00:22:54,457
+ <i>Hoy, en los pasillos de sus recuerdos </i>
+
+311
+00:22:54,624 --> 00:22:55,708
+ <i>solo hay gente como yo. </i>
+
+312
+00:22:55,875 --> 00:22:58,503
+Parzival. ¡Qué alegría!
+
+313
+00:22:58,669 --> 00:23:02,006
+¿Cómo vas a consumir
+mi valioso tiempo de búsqueda hoy?
+
+314
+00:23:02,173 --> 00:23:04,175
+Gregarious Games, 2029, la fiesta.
+
+315
+00:23:04,342 --> 00:23:07,512
+La fiesta de la oficina. Sí.
+Apenas la viste mil veces.
+
+316
+00:23:07,678 --> 00:23:09,430
+¿Por qué no hacerlo de nuevo?
+
+317
+00:23:10,473 --> 00:23:13,810
+Cada artículo del Diario de Halliday
+se arma con esmero
+
+318
+00:23:13,976 --> 00:23:16,312
+a partir de fotos, videos caseros,
+
+319
+00:23:16,479 --> 00:23:18,231
+de seguridad y de niñeras.
+
+320
+00:23:18,397 --> 00:23:20,650
+Y se presenta
+como experiencia tridimensional.
+
+321
+00:23:20,817 --> 00:23:22,068
+HALLIDAY MONTA SU PRIMERA COMPUTADORA
+PARA JUGAR - 1985
+
+322
+00:23:22,235 --> 00:23:25,780
+Y Halliday archivó cada film,
+juego, libro y programa de TV
+
+323
+00:23:25,947 --> 00:23:27,907
+{\an8}que vio. Están en el entrepiso.
+
+324
+00:23:28,074 --> 00:23:29,075
+{\an8}JAMES HALLIDAY - EN SU ATARI 2600 - 1983
+
+325
+00:23:29,242 --> 00:23:32,662
+No se permiten armas
+ni avatares con temática adulta.
+
+326
+00:23:32,829 --> 00:23:36,124
+¡Disfruta tu estadía y feliz búsqueda!
+
+327
+00:23:36,624 --> 00:23:38,292
+{\an8}Me gusta limpiar.
+
+328
+00:23:38,459 --> 00:23:40,837
+{\an8}De acuerdo, Jim, me largo.
+
+329
+00:23:45,800 --> 00:23:48,469
+Todo cambia, Jim. Todo evoluciona.
+
+330
+00:23:48,761 --> 00:23:51,973
+ <i>Algunas cosas son </i>
+ <i>perfectas como están. </i> Asteroids.
+
+331
+00:23:52,140 --> 00:23:56,144
+La gente no vive dentro
+de una máquina de juegos de <i>Asteroids. </i>
+
+332
+00:23:57,520 --> 00:23:58,729
+Lo sé.
+
+333
+00:23:58,896 --> 00:24:01,440
+La gente vive
+dentro del juego que creamos.
+
+334
+00:24:01,607 --> 00:24:02,650
+Que creé yo.
+
+335
+00:24:04,193 --> 00:24:06,320
+Di lo que quieras.
+
+336
+00:24:06,487 --> 00:24:07,530
+No hablaré más.
+
+337
+00:24:07,697 --> 00:24:09,031
+Claro que no lo harás.
+
+338
+00:24:09,198 --> 00:24:10,449
+Me obligas a irme.
+
+339
+00:24:10,616 --> 00:24:11,909
+Acércate a Halliday.
+
+340
+00:24:12,076 --> 00:24:15,538
+La invención conlleva
+responsabilidades que no pediste.
+
+341
+00:24:16,205 --> 00:24:18,249
+Si haces algo que todos desean,
+
+342
+00:24:18,416 --> 00:24:20,918
+tú estableces los límites. Pon reglas.
+
+343
+00:24:21,210 --> 00:24:22,628
+"No pondré más reglas".
+
+344
+00:24:22,795 --> 00:24:24,672
+No pondré más reglas.
+
+345
+00:24:24,839 --> 00:24:25,923
+"Soy un soñador".
+
+346
+00:24:26,090 --> 00:24:26,924
+Soy un soñador.
+
+347
+00:24:27,383 --> 00:24:29,177
+- <i>Creo mundos. </i>
+-"Creo mundos".
+
+348
+00:24:30,303 --> 00:24:32,930
+Creamos algo hermoso, Jim,
+pero ha cambiado.
+
+349
+00:24:33,097 --> 00:24:34,432
+Ya no es un juego.
+
+350
+00:24:34,724 --> 00:24:36,184
+¿Terminamos?
+
+351
+00:24:36,350 --> 00:24:40,521
+Me gustaba cuando era...
+
+352
+00:24:42,315 --> 00:24:43,399
+Cuando era un juego.
+
+353
+00:24:43,566 --> 00:24:47,111
+De vuelta al punto de partida.
+Pero de eso se trata, ¿no?
+
+354
+00:24:47,278 --> 00:24:49,614
+Las cosas avanzan, te guste o no.
+
+355
+00:24:49,780 --> 00:24:51,824
+Sí, terminamos.
+
+356
+00:24:52,408 --> 00:24:53,534
+ <i>Bien. </i>
+
+357
+00:24:55,786 --> 00:24:59,540
+ <i>¿Por qué no podemos retroceder, </i>
+ <i>para variar? </i>
+
+358
+00:25:01,918 --> 00:25:03,544
+ <i>Retroceder a gran velocidad, </i>
+
+359
+00:25:03,711 --> 00:25:05,463
+lo más rápido posible.
+
+360
+00:25:06,130 --> 00:25:08,049
+Apretar el acelerador a fondo.
+
+361
+00:25:08,216 --> 00:25:10,426
+¡Vuelve diez segundos!
+
+362
+00:25:10,927 --> 00:25:14,680
+{\an8}¿Por qué no podemos retroceder,
+para variar?
+
+363
+00:25:15,723 --> 00:25:18,768
+Retroceder a gran velocidad,
+lo más rápido posible.
+
+364
+00:25:19,977 --> 00:25:22,688
+Apretar el acelerador a fondo.
+
+365
+00:25:23,773 --> 00:25:25,483
+Bill y Ted lo hicieron.
+
+366
+00:25:33,282 --> 00:25:36,369
+¡PRIMERO EN GANAR EN CENTRAL PARK!
+
+367
+00:25:46,879 --> 00:25:48,881
+¿De regreso tan pronto?
+
+368
+00:25:50,508 --> 00:25:52,343
+Procura no perder todo.
+
+369
+00:25:56,722 --> 00:25:58,182
+ <i>Descubriste algo. </i>
+
+370
+00:25:59,100 --> 00:26:00,518
+Parzival, cuéntame.
+
+371
+00:26:05,940 --> 00:26:08,693
+EN MARCHA
+
+372
+00:27:41,410 --> 00:27:45,581
+Buena carrera, padawan.
+Eres el primero en terminar.
+
+373
+00:27:47,208 --> 00:27:50,711
+Sr. Halliday... Anorak.
+
+374
+00:27:52,129 --> 00:27:53,506
+Es un gran honor.
+
+375
+00:27:53,672 --> 00:27:56,175
+El honor es mío.
+
+376
+00:28:07,061 --> 00:28:09,063
+Obtienes una pista.
+
+377
+00:28:19,407 --> 00:28:23,160
+PRIMER LUGAR PARZIVAL - GANADOR
+
+378
+00:28:23,369 --> 00:28:27,164
+¿Quién es Parzival,
+y cómo rayos va ganando?
+
+379
+00:28:27,331 --> 00:28:29,583
+Tengo una pregunta mejor. ¿Qué importa?
+
+380
+00:28:29,834 --> 00:28:31,335
+El concurso es algo vital.
+
+381
+00:28:31,627 --> 00:28:34,672
+Es una guerra por el control del futuro.
+
+382
+00:28:34,839 --> 00:28:37,883
+Pero... ¿Parzival?
+Ni siquiera pertenece a un clan.
+
+383
+00:28:38,050 --> 00:28:41,220
+Está solo. Nosotros tenemos un ejército.
+
+384
+00:28:41,387 --> 00:28:42,972
+Pero tiene la primera llave.
+
+385
+00:28:43,139 --> 00:28:44,557
+Sí, tiene una llave,
+
+386
+00:28:44,723 --> 00:28:47,852
+pero se necesita de tres
+para ganar el concurso.
+
+387
+00:28:48,018 --> 00:28:50,521
+Ayer, nuestras acciones cayeron un 6 %.
+
+388
+00:28:50,688 --> 00:28:54,817
+La división de lealtad informa
+ganancias del 28 %. F ́Nale.
+
+389
+00:28:54,984 --> 00:28:57,528
+Este mes abrimos cinco centros de lealtad.
+
+390
+00:28:57,695 --> 00:28:59,363
+Las deudas dan más que el <i>hardware. </i>
+
+391
+00:28:59,530 --> 00:29:01,407
+¿Seguro quieres hablar de acciones?
+
+392
+00:29:01,574 --> 00:29:02,700
+Los accionistas se enojarán.
+
+393
+00:29:02,867 --> 00:29:05,786
+No es nuestro trabajo contentarlos,
+sino que ganen dinero,
+
+394
+00:29:06,537 --> 00:29:10,332
+pero apenas lancemos este bebé,
+enloquecerán de alegría.
+
+395
+00:29:11,667 --> 00:29:16,547
+Lo llamamos O2 Puro. Es la primera
+de las actualizaciones planificadas.
+
+396
+00:29:16,714 --> 00:29:19,216
+Al reducir
+las trabas publicitarias de Halliday,
+
+397
+00:29:19,383 --> 00:29:23,262
+estimamos que podemos vender
+hasta el 80 %
+
+398
+00:29:23,429 --> 00:29:28,684
+del campo visual de una persona
+antes de que sufra convulsiones, vean...
+
+399
+00:29:28,851 --> 00:29:32,188
+Todo esto presupone
+que ganamos el concurso.
+
+400
+00:29:34,815 --> 00:29:36,484
+Así es.
+
+401
+00:29:38,694 --> 00:29:41,447
+¿Ganaste la llave y 100 000 monedas?
+
+402
+00:29:41,614 --> 00:29:44,074
+Apenas tomé la llave,
+aparecieron las monedas.
+
+403
+00:29:44,241 --> 00:29:47,244
+Ahora mismo,
+me estoy defecando en los hápticos.
+
+404
+00:29:50,915 --> 00:29:52,541
+¿Qué es un Cataclista?
+
+405
+00:29:52,708 --> 00:29:56,295
+Una bomba. Mata a todos los avatares
+de un mundo, y al dueño.
+
+406
+00:29:56,462 --> 00:29:57,463
+¿Quién querría eso?
+
+407
+00:29:57,630 --> 00:29:59,715
+IOI. Ellos compran todo.
+
+408
+00:30:01,091 --> 00:30:03,719
+¿Veinte mil
+por la granada de mano bendita?
+
+409
+00:30:03,886 --> 00:30:05,554
+¡Es un robo!
+
+410
+00:30:07,973 --> 00:30:11,560
+¡Vaya! ¡Un cubo de Zemeckis! Necesito uno.
+
+411
+00:30:11,727 --> 00:30:13,395
+No gastes todo el dinero.
+
+412
+00:30:17,066 --> 00:30:19,360
+{\an8}El traje háptico X1.
+
+413
+00:30:20,402 --> 00:30:22,571
+{\an8}ENTREGA EN MUNDO REAL - IOI
+
+414
+00:30:33,832 --> 00:30:35,584
+¡Sí!
+
+415
+00:30:50,391 --> 00:30:52,059
+CONTRASEÑA - JEFAZ069
+
+416
+00:31:28,470 --> 00:31:31,932
+i-R0k, amigo. ¿Cómo estás?
+
+417
+00:31:33,851 --> 00:31:37,313
+Me duele el cuello.
+Como algo del túnel carpiano,
+
+418
+00:31:37,479 --> 00:31:39,189
+pero cervical, si eso existe.
+
+419
+00:31:39,356 --> 00:31:43,193
+Si te corrieras a la derecha...
+Mi derecha, tu izquierda.
+
+420
+00:31:45,112 --> 00:31:47,114
+Gracias, es por movimientos repetitivos.
+
+421
+00:31:49,533 --> 00:31:50,618
+Aquí está él.
+
+422
+00:31:52,745 --> 00:31:57,416
+El rey pirata <i>steampunk. </i>
+Yo lo conocía, Sorrento.
+
+423
+00:31:57,750 --> 00:31:59,960
+Solo hay tres cosas que odio
+en este mundo,
+
+424
+00:32:00,127 --> 00:32:03,922
+el <i>steampunk, </i> los piratas y el tabule.
+
+425
+00:32:04,089 --> 00:32:06,759
+¿Para qué incluso las tienen?
+
+426
+00:32:06,925 --> 00:32:09,261
+¿Hay alguna razón para esta reunión?
+
+427
+00:32:09,637 --> 00:32:14,183
+Sí, Nolan. El Orbe de Osuvox.
+
+428
+00:32:15,142 --> 00:32:18,437
+Tú lo querías. Él lo tenía. Y aquí está.
+
+429
+00:32:22,024 --> 00:32:25,819
+Crea un escudo mágico impenetrable
+que solo es vulnerable
+
+430
+00:32:25,986 --> 00:32:28,197
+ante un hechizo.
+
+431
+00:32:28,364 --> 00:32:30,616
+El Orbe de Osuvox.
+
+432
+00:32:30,783 --> 00:32:32,034
+No lo digas de nuevo.
+
+433
+00:32:32,201 --> 00:32:33,494
+De acuerdo.
+
+434
+00:32:35,454 --> 00:32:38,999
+Quiero que lo guardes por ahora.
+
+435
+00:32:39,166 --> 00:32:41,251
+Te diré cuando quiera usarlo.
+
+436
+00:32:41,418 --> 00:32:42,419
+¿Sí?
+
+437
+00:32:45,756 --> 00:32:49,802
+En este momento,
+tengo otro trabajo para ti.
+
+438
+00:32:51,261 --> 00:32:52,471
+Parzival.
+
+439
+00:32:53,180 --> 00:32:55,808
+Supongo que lo quieres fuera del tablero.
+
+440
+00:32:56,975 --> 00:32:58,519
+¿Puedes hacerlo?
+
+441
+00:32:58,686 --> 00:33:00,854
+Bueno, es una superestrella.
+
+442
+00:33:01,021 --> 00:33:02,523
+Pasó la primera puerta.
+
+443
+00:33:02,690 --> 00:33:05,317
+Los avatares estarán encima de él.
+
+444
+00:33:05,484 --> 00:33:07,903
+i-R0k, ¿cuánto más quieres?
+
+445
+00:33:08,946 --> 00:33:11,782
+Eso me gusta de ti, Nolan.
+Nunca chupas el dulce.
+
+446
+00:33:12,366 --> 00:33:15,577
+Vas directamente al centro de chocolate.
+
+447
+00:33:16,704 --> 00:33:18,789
+¿Recuerdas esa vieja publicidad?
+
+448
+00:33:18,956 --> 00:33:19,790
+i-R0k.
+
+449
+00:33:21,959 --> 00:33:23,585
+El triple de lo habitual.
+
+450
+00:33:23,752 --> 00:33:25,212
+Trato hecho.
+
+451
+00:33:25,379 --> 00:33:27,089
+¿Sí? Debí pedir el quíntuple.
+
+452
+00:33:27,256 --> 00:33:29,174
+¿Podemos negociar el cuádruple?
+
+453
+00:33:31,468 --> 00:33:33,887
+ <i>Ahora somos cinco en el tablero. </i>
+
+454
+00:33:34,471 --> 00:33:37,099
+ <i>No sorprende </i>
+ <i>que Art3mis fuera la siguiente. </i>
+
+455
+00:33:37,266 --> 00:33:40,269
+ <i>Estaba encaminada cuando gané. </i>
+ <i>Me vio retroceder. </i>
+
+456
+00:33:40,602 --> 00:33:45,232
+ <i>Le di un indicio a Hache, bajo promesa </i>
+ <i>de no contar nada, y fue el siguiente. </i>
+
+457
+00:33:45,649 --> 00:33:50,571
+ <i>Estoy seguro de que alardeó </i>
+ <i>frente a Daito, porque él ganó después. </i>
+
+458
+00:33:51,238 --> 00:33:54,491
+ <i>Y, claro, </i>
+ <i>Daito le contó a su mejor amigo, Sho, </i>
+
+459
+00:33:54,658 --> 00:33:56,618
+ <i>quien destruyó su vehículo, </i>
+
+460
+00:33:56,785 --> 00:33:58,871
+ <i>pero luego también lo logró. </i>
+
+461
+00:34:07,921 --> 00:34:09,757
+"El creador odia su creación.
+
+462
+00:34:09,923 --> 00:34:14,511
+{\an8}"La llave oculta, el salto no dado.
+Desanda el camino, olvida el pasado".
+
+463
+00:34:14,678 --> 00:34:17,222
+"El creador odia su creación.
+
+464
+00:34:17,389 --> 00:34:21,685
+{\an8}"La llave oculta, el salto no dado.
+Desanda el camino, olvida el pasado.
+
+465
+00:34:21,852 --> 00:34:23,312
+{\an8}"Y la Llave de Jade habrás ganado".
+
+466
+00:34:23,479 --> 00:34:24,480
+{\an8}PISTA £2
+
+467
+00:34:27,816 --> 00:34:31,028
+¿JAMES HALLIDAY JUEGA JUEGOS
+O JUEGA A SER DIOS?
+
+468
+00:34:31,195 --> 00:34:33,197
+¿EL OASIS CAMBIARÁ NUESTRA FORMA DE VIDA?
+
+469
+00:34:33,363 --> 00:34:36,241
+HALLIDAY: ¿MÁS IMPORTANTE QUE JOBS?
+
+470
+00:34:36,742 --> 00:34:39,703
+¡SEPARACIÓN! HALLIDAY SIGUE SOLO
+
+471
+00:34:58,222 --> 00:35:03,852
+AVISOS FÚNEBRES
+KAREN UNDERWOOD MORROW - 1975-2034
+
+472
+00:35:06,146 --> 00:35:08,065
+"Olvida el pasado".
+
+473
+00:35:11,777 --> 00:35:14,696
+¿Qué parte intentas olvidar, Halliday?
+
+474
+00:35:14,863 --> 00:35:19,117
+{\an8}HALLIDAY
+DISEÑADOR DE JUEGOS - BILLONARIO
+
+475
+00:35:26,583 --> 00:35:28,210
+Miren, ¡es Parzival!
+
+476
+00:35:29,795 --> 00:35:31,171
+¡Eres mi héroe!
+
+477
+00:35:31,338 --> 00:35:32,339
+¡Hola, Parzival!
+
+478
+00:35:32,506 --> 00:35:33,757
+¡Eres asombroso!
+
+479
+00:35:34,633 --> 00:35:36,635
+¡Hola, Parzival! ¡Un autógrafo!
+
+480
+00:35:42,724 --> 00:35:43,767
+¡Con cuidado!
+
+481
+00:35:43,934 --> 00:35:48,522
+¡Ahora eres famoso!
+¡Ya no puedes ir adonde quieras!
+
+482
+00:35:48,689 --> 00:35:49,815
+No...
+
+483
+00:36:09,251 --> 00:36:12,129
+No es gracioso.
+
+484
+00:36:13,046 --> 00:36:14,756
+Cielos.
+
+485
+00:36:18,343 --> 00:36:20,929
+Cielos. ¿No lo entiendes?
+
+486
+00:36:21,388 --> 00:36:23,473
+Ahora Parzival es alguien famoso.
+
+487
+00:36:23,640 --> 00:36:25,309
+Tienes que usar un disfraz.
+
+488
+00:36:27,394 --> 00:36:28,979
+Bien.
+
+489
+00:36:30,272 --> 00:36:31,815
+Los lentes de Clark Kent.
+
+490
+00:36:31,899 --> 00:36:34,109
+Cubren la identidad
+sin cambiar el aspecto.
+
+491
+00:36:42,993 --> 00:36:44,703
+No usaré eso.
+
+492
+00:36:54,129 --> 00:36:55,422
+ <i>Esto es genial. </i>
+
+493
+00:36:56,924 --> 00:36:58,675
+ <i>Cómo vuela tu inventario al morir. </i>
+
+494
+00:36:58,842 --> 00:37:00,135
+Querían menos sangre.
+
+495
+00:37:00,302 --> 00:37:02,095
+Apenas antes del inicio del OASIS.
+
+496
+00:37:02,262 --> 00:37:05,557
+Seis días antes. Dos de diciembre de 2025.
+
+497
+00:37:05,724 --> 00:37:07,184
+Miren.
+
+498
+00:37:07,768 --> 00:37:09,353
+¿Saben quién es?
+
+499
+00:37:11,021 --> 00:37:12,606
+¿Es Sorrento?
+
+500
+00:37:12,773 --> 00:37:14,566
+Empezó como pasante.
+
+501
+00:37:14,733 --> 00:37:17,027
+Dice que aprendió junto al maestro.
+
+502
+00:37:17,194 --> 00:37:21,323
+Así convenció a IOI de crear a los sixers,
+por conocer bien a Halliday.
+
+503
+00:37:21,490 --> 00:37:23,617
+Pero según Ogden Morrow,
+
+504
+00:37:23,784 --> 00:37:27,788
+lo único que Sorrento sabía
+sobre Halliday era
+
+505
+00:37:27,955 --> 00:37:29,539
+cómo quería el café.
+
+506
+00:37:29,623 --> 00:37:33,502
+Una cuenta podría categorizarse
+como afiliado de oro.
+
+507
+00:37:33,585 --> 00:37:37,089
+Podría ser de plata,
+de platino, de bronce.
+
+508
+00:37:37,422 --> 00:37:39,341
+Dependiendo de su desembolso.
+
+509
+00:37:39,508 --> 00:37:42,219
+El más alto podría ser agua, por el OASIS.
+
+510
+00:37:42,386 --> 00:37:43,929
+Vaya café con leche.
+
+511
+00:37:44,096 --> 00:37:46,223
+¿Puedes pasar a la cita de Halliday?
+
+512
+00:37:46,390 --> 00:37:48,392
+¿Cómo? ¿Halliday tuvo una cita?
+
+513
+00:37:52,646 --> 00:37:53,814
+¿Qué pasó?
+
+514
+00:37:53,981 --> 00:37:56,483
+Nada. La invité.
+
+515
+00:37:57,359 --> 00:37:59,528
+¿Al menos sabes su nombre?
+
+516
+00:38:00,070 --> 00:38:04,032
+Sí. Kira, te conté,
+como la chica de <i>El cristal encantado. </i>
+
+517
+00:38:04,199 --> 00:38:05,575
+Es su nombre de juego.
+
+518
+00:38:07,452 --> 00:38:08,453
+-Karen.
+-Karen.
+
+519
+00:38:08,620 --> 00:38:10,789
+Karen Underwood.
+
+520
+00:38:11,164 --> 00:38:14,418
+No. ¿Karen Underwood?
+¿Como la esposa de Ogden Morrow?
+
+521
+00:38:14,584 --> 00:38:16,086
+Mira.
+
+522
+00:38:16,586 --> 00:38:20,173
+Tú y Karen Underwood. ¿Qué hicieron?
+
+523
+00:38:20,340 --> 00:38:22,634
+Ella quería ir a bailar,
+
+524
+00:38:22,801 --> 00:38:25,095
+así que vimos una película.
+
+525
+00:38:26,513 --> 00:38:27,806
+¿Y?
+
+526
+00:38:29,766 --> 00:38:31,393
+¿Y los detalles?
+
+527
+00:38:31,601 --> 00:38:33,020
+¡Dame algún detalle!
+
+528
+00:38:33,603 --> 00:38:36,314
+-¡No hay detalles!
+-¡Cielos!
+
+529
+00:38:36,982 --> 00:38:38,734
+Un momento.
+
+530
+00:38:38,900 --> 00:38:42,612
+¿Halliday tuvo una cita
+con la esposa de Ogden Morrow?
+
+531
+00:38:42,779 --> 00:38:46,033
+Solo una vez, años antes
+de que se casaran, pero sí.
+
+532
+00:38:46,199 --> 00:38:48,577
+Y a pesar de eso, y de que ella murió,
+
+533
+00:38:48,744 --> 00:38:51,830
+el nombre Kira aparece
+solo una vez en el Diario.
+
+534
+00:38:51,997 --> 00:38:53,206
+No es posible.
+
+535
+00:38:53,373 --> 00:38:55,167
+Es así. Búsquelo.
+
+536
+00:38:55,333 --> 00:38:57,377
+Esta fue su única mención.
+
+537
+00:38:57,544 --> 00:38:58,795
+No tiene sentido.
+
+538
+00:38:58,962 --> 00:39:01,339
+Fue muy importante en la vida de ambos.
+
+539
+00:39:01,506 --> 00:39:03,550
+Le apuesto lo que sea. Mis monedas.
+
+540
+00:39:05,177 --> 00:39:07,804
+Busca "Karen Underwood Morrow".
+
+541
+00:39:09,056 --> 00:39:12,059
+Kira, te conté,
+como la chica de <i>El cristal encantado. </i>
+
+542
+00:39:12,225 --> 00:39:13,727
+ <i>Es su nombre de juego. </i>
+
+543
+00:39:13,894 --> 00:39:17,105
+Halliday eliminó toda mención de ella,
+excepto esta.
+
+544
+00:39:17,272 --> 00:39:18,607
+Qué raro. ¿Por qué?
+
+545
+00:39:18,774 --> 00:39:21,777
+Parece que era muy doloroso para él
+verle la cara
+
+546
+00:39:21,860 --> 00:39:23,320
+o escuchar su nombre.
+
+547
+00:39:23,904 --> 00:39:25,614
+La amaba.
+
+548
+00:39:25,781 --> 00:39:27,157
+No podía contarle a Morrow.
+
+549
+00:39:27,324 --> 00:39:29,159
+Qué pena. Debió contarle a ella.
+
+550
+00:39:29,326 --> 00:39:30,660
+Perdió su oportunidad.
+
+551
+00:39:30,827 --> 00:39:31,828
+Escucha.
+
+552
+00:39:32,954 --> 00:39:35,999
+Encontré el indicio de la carrera
+en otra escena,
+
+553
+00:39:36,166 --> 00:39:39,336
+pero siempre creí que la pista
+más importante estaba aquí.
+
+554
+00:39:39,503 --> 00:39:40,629
+Tienes razón.
+
+555
+00:39:42,339 --> 00:39:44,174
+Perdí.
+
+556
+00:39:44,341 --> 00:39:45,592
+No importa, curador.
+
+557
+00:39:45,759 --> 00:39:48,470
+Kira es el Rosebud de su historia.
+
+558
+00:39:48,637 --> 00:39:49,679
+El gran misterio.
+
+559
+00:39:49,846 --> 00:39:52,140
+No. Una apuesta es una apuesta.
+
+560
+00:39:53,725 --> 00:39:56,603
+Vaya, 25 centavos. Quédeselos.
+
+561
+00:39:56,770 --> 00:39:58,855
+No. Quédatelos tú.
+
+562
+00:40:02,234 --> 00:40:04,778
+-¿Tienes algo que hacer el jueves?
+-¿Yo?
+
+563
+00:40:05,320 --> 00:40:07,030
+No, él.
+
+564
+00:40:08,281 --> 00:40:10,325
+Cielos. ¡Sí, tú!
+
+565
+00:40:12,410 --> 00:40:13,995
+¿Conoces Distracted Globe?
+
+566
+00:40:14,162 --> 00:40:16,206
+Sí, la discoteca.
+
+567
+00:40:18,208 --> 00:40:20,877
+Nos vemos allí. A las 10:00 p. m.
+
+568
+00:40:21,044 --> 00:40:23,255
+Hay algo que quiero mostrarte.
+
+569
+00:40:24,089 --> 00:40:25,590
+¡Adiós!
+
+570
+00:40:26,716 --> 00:40:28,343
+¿Me invitó a salir?
+
+571
+00:40:28,510 --> 00:40:30,220
+Y comenzaba a gustarme.
+
+572
+00:40:30,387 --> 00:40:31,721
+Bien.
+
+573
+00:40:32,222 --> 00:40:33,723
+Yo no hago eso.
+
+574
+00:40:37,394 --> 00:40:39,312
+No debiste contarle sobre Kira.
+
+575
+00:40:39,479 --> 00:40:41,857
+¿Por qué? Te lo conté a ti.
+
+576
+00:40:42,023 --> 00:40:44,317
+¿Qué te parece?
+
+577
+00:40:45,944 --> 00:40:48,655
+No. ¿No ves que Art3mis
+quizá te esté usando?
+
+578
+00:40:48,822 --> 00:40:52,742
+Me está dando una pista.
+Quizá sea yo quien la use a ella.
+
+579
+00:40:53,285 --> 00:40:56,580
+¿Debería usar un estilo <i>Thriller? </i>
+
+580
+00:40:56,872 --> 00:40:58,248
+No.
+
+581
+00:40:59,040 --> 00:41:00,000
+¿Punk?
+
+582
+00:41:00,167 --> 00:41:01,001
+No.
+
+583
+00:41:03,253 --> 00:41:04,379
+Duran Duran.
+
+584
+00:41:04,629 --> 00:41:05,589
+No.
+
+585
+00:41:06,464 --> 00:41:07,465
+Me esfuerzo demasiado, ¿no?
+
+586
+00:41:07,632 --> 00:41:10,719
+¡Sí! ¡Escúchate!
+
+587
+00:41:10,886 --> 00:41:13,889
+Estás completamente ciberchiflado
+por esa chica.
+
+588
+00:41:14,055 --> 00:41:16,558
+Hackea tu corazón para llegar a tu mente.
+
+589
+00:41:18,143 --> 00:41:19,477
+¡Ya sé!
+
+590
+00:41:21,146 --> 00:41:23,023
+ <i>-¿Buckaroo Banzai? </i>
+-¡Sí!
+
+591
+00:41:23,190 --> 00:41:26,276
+¿En serio?
+¿Usarás el traje de tu película favorita?
+
+592
+00:41:26,443 --> 00:41:27,652
+No seas así.
+
+593
+00:41:27,819 --> 00:41:28,862
+Soy así.
+
+594
+00:41:29,029 --> 00:41:31,448
+Desconfía de quien conozcas en el OASIS.
+
+595
+00:41:31,615 --> 00:41:34,743
+Hache, Art3mis me entiende.
+Entenderá mi traje.
+
+596
+00:41:34,910 --> 00:41:37,746
+Tenemos cierta conexión.
+A veces, incluso...
+
+597
+00:41:37,913 --> 00:41:39,456
+-¿Terminan la oración del otro?
+-¡Sí!
+
+598
+00:41:39,623 --> 00:41:42,375
+Nosotros tenemos eso. Tú y yo.
+
+599
+00:41:42,542 --> 00:41:45,921
+Sí, pero es porque somos
+mejores amigos, chico.
+
+600
+00:41:46,087 --> 00:41:47,881
+Quizá ella sea chico también, chico.
+
+601
+00:41:48,131 --> 00:41:49,132
+Por favor.
+
+602
+00:41:49,216 --> 00:41:50,759
+¡Hablo en serio!
+
+603
+00:41:50,926 --> 00:41:53,553
+Podría ser un chico de más de 130 kilos
+
+604
+00:41:53,720 --> 00:41:56,097
+que vive en el sótano
+de su mamá en Detroit.
+
+605
+00:41:56,890 --> 00:41:58,725
+Y que se llame Chuck.
+
+606
+00:42:00,435 --> 00:42:02,020
+Piénsalo.
+
+607
+00:42:32,050 --> 00:42:33,176
+¿Ese es Parzival?
+
+608
+00:42:33,385 --> 00:42:35,011
+¡Parzival!
+
+609
+00:42:35,178 --> 00:42:37,764
+Ven. ¿Podemos sacarnos una foto?
+
+610
+00:42:40,433 --> 00:42:42,602
+-¡Muchas gracias!
+-¡Eres mi héroe!
+
+611
+00:42:42,769 --> 00:42:44,062
+Parzival.
+
+612
+00:42:46,356 --> 00:42:48,191
+Gracias.
+
+613
+00:43:02,038 --> 00:43:04,958
+¡No puedo creerlo! <i>¿Buckaroo Banzai? </i>
+
+614
+00:43:05,125 --> 00:43:07,294
+Me gusta. Me gusta <i>Buckaroo Banzai. </i>
+
+615
+00:43:07,460 --> 00:43:08,962
+-¡Gracias!
+-¡Es genial!
+
+616
+00:43:09,129 --> 00:43:10,547
+¡Sí! ¡Tú estás... !
+
+617
+00:43:10,922 --> 00:43:12,257
+¡Estás fantástica!
+
+618
+00:43:12,424 --> 00:43:13,550
+-Gracias.
+-¡Vaya!
+
+619
+00:43:15,343 --> 00:43:17,053
+¿Grande, pequeño?
+
+620
+00:43:17,220 --> 00:43:18,346
+¡Uno grande!
+
+621
+00:43:33,611 --> 00:43:35,572
+Largo de aquí.
+
+622
+00:43:37,282 --> 00:43:39,034
+-¡Qué bicho raro!
+-Parecía guapo.
+
+623
+00:43:39,200 --> 00:43:40,577
+¿Ya habías venido?
+
+624
+00:43:40,744 --> 00:43:42,370
+El lugar es genial...
+
+625
+00:43:43,330 --> 00:43:44,664
+ <i>¿Cuál es el plan? </i>
+
+626
+00:43:44,831 --> 00:43:47,125
+ <i>¿Matar a sus avatares? ¿Dejarlos en cero? </i>
+
+627
+00:43:47,292 --> 00:43:50,754
+Están los dos aquí, en Distracted Globe.
+No puedo hablar.
+
+628
+00:43:51,880 --> 00:43:54,883
+ <i>Es una de las primeras discotecas </i>
+ <i>que creó Halliday. </i>
+
+629
+00:43:55,050 --> 00:43:56,384
+ <i>Eso lo saben todos. </i>
+
+630
+00:43:56,551 --> 00:43:58,011
+Pero revisé los datos
+
+631
+00:43:58,178 --> 00:44:01,181
+y la construyó
+luego del hecho que me mostraste.
+
+632
+00:44:01,348 --> 00:44:02,349
+La cita con Kira.
+
+633
+00:44:02,515 --> 00:44:04,559
+Sí, y era muy buena bailarina.
+
+634
+00:44:04,726 --> 00:44:06,644
+Quizá pensó en traerla aquí,
+
+635
+00:44:06,811 --> 00:44:09,022
+a una cita virtual.
+
+636
+00:44:09,647 --> 00:44:10,815
+Como si funcionaran.
+
+637
+00:44:11,524 --> 00:44:12,650
+Así que la hizo para ella.
+
+638
+00:44:12,817 --> 00:44:15,653
+Pero solo hubo una cita,
+él es el creador...
+
+639
+00:44:15,820 --> 00:44:16,738
+Que odia su creación.
+
+640
+00:44:16,905 --> 00:44:18,114
+Y odia la discoteca.
+
+641
+00:44:18,281 --> 00:44:20,784
+Y ¿"la llave oculta, el salto no dado"?
+
+642
+00:44:24,245 --> 00:44:25,497
+Pero saltan toda la noche.
+
+643
+00:44:25,663 --> 00:44:27,499
+Pero no con la Llave de Cobre.
+
+644
+00:44:27,665 --> 00:44:31,336
+ <i>Cuando saltemos nosotros, </i>
+ <i>quizá sea diferente, ¿bien? </i>
+
+645
+00:44:31,503 --> 00:44:32,337
+ <i>Bien. </i>
+
+646
+00:44:35,173 --> 00:44:36,466
+¿Lo hacemos juntos?
+
+647
+00:44:36,633 --> 00:44:37,801
+Claro.
+
+648
+00:44:39,803 --> 00:44:41,763
+No formamos un clan.
+
+649
+00:44:41,930 --> 00:44:44,974
+Claro que no.
+Yo no pertenezco a ningún clan.
+
+650
+00:44:46,101 --> 00:44:46,935
+Aguarda.
+
+651
+00:44:56,152 --> 00:44:59,781
+No creo que sea esto.
+No hay tablero ni obstáculos.
+
+652
+00:44:59,948 --> 00:45:01,449
+Quizá sea un concurso de baile.
+
+653
+00:45:18,091 --> 00:45:20,051
+¡La vieja escuela!
+
+654
+00:45:43,450 --> 00:45:44,617
+¿Viniste preparado?
+
+655
+00:45:44,784 --> 00:45:45,994
+¿"Preparado"?
+
+656
+00:45:49,622 --> 00:45:52,041
+¿Qué tipo de háptico llevas?
+
+657
+00:45:52,208 --> 00:45:54,544
+¿Guantes y visor o traje completo?
+
+658
+00:45:58,631 --> 00:46:00,049
+¿Sientes esto?
+
+659
+00:46:03,094 --> 00:46:04,345
+Sí.
+
+660
+00:46:04,512 --> 00:46:07,932
+Tengo el traje háptico X1
+con microfibra en la entrepierna.
+
+661
+00:46:20,320 --> 00:46:23,239
+Parzival, vaya que viniste preparado.
+
+662
+00:46:26,618 --> 00:46:29,287
+Estaba pensando.
+
+663
+00:46:30,205 --> 00:46:32,665
+Sería genial vernos en el mundo real.
+
+664
+00:46:32,832 --> 00:46:34,250
+No, te decepcionarías.
+
+665
+00:46:34,417 --> 00:46:36,878
+No me decepcionaré. Me gustas.
+
+666
+00:46:37,045 --> 00:46:39,130
+Ni siquiera me conoces.
+
+667
+00:46:39,297 --> 00:46:40,965
+No me veo así.
+
+668
+00:46:41,132 --> 00:46:44,969
+No es mi cuerpo ni mi rostro.
+
+669
+00:46:45,136 --> 00:46:46,679
+No me importa.
+
+670
+00:46:46,846 --> 00:46:48,056
+Quiero saber tu nombre real.
+
+671
+00:47:01,653 --> 00:47:03,112
+-Yo me llamo Wade.
+-¿Cómo?
+
+672
+00:47:04,656 --> 00:47:06,449
+-Dije que me llamo...
+-¡Para!
+
+673
+00:47:06,616 --> 00:47:09,327
+Buckaroo metió la pata. Qué mal.
+
+674
+00:47:09,494 --> 00:47:11,955
+¿Estás loco? No se lo digas a cualquiera.
+
+675
+00:47:12,121 --> 00:47:13,456
+No uses el nombre real.
+
+676
+00:47:13,623 --> 00:47:14,707
+No eres cualquiera.
+
+677
+00:47:14,874 --> 00:47:15,959
+No me conoces.
+
+678
+00:47:16,125 --> 00:47:17,752
+No sabes nada. Nunca nos hemos visto.
+
+679
+00:47:17,919 --> 00:47:19,671
+Te conozco, Arty.
+
+680
+00:47:21,464 --> 00:47:22,966
+Estoy enamorado de ti.
+
+681
+00:47:31,516 --> 00:47:32,850
+-¿Es el desafío?
+-No.
+
+682
+00:47:33,893 --> 00:47:35,061
+Es una emboscada.
+
+683
+00:47:42,569 --> 00:47:44,696
+IOI, siempre estorbando.
+
+684
+00:47:45,321 --> 00:47:46,990
+¿Oíste? Estoy enamorado de ti.
+
+685
+00:47:47,156 --> 00:47:48,533
+No es cierto.
+
+686
+00:47:50,118 --> 00:47:51,578
+Sabes lo que quiero que sepas.
+
+687
+00:47:51,744 --> 00:47:53,580
+Ves lo que quiero que veas.
+
+688
+00:47:56,541 --> 00:47:58,334
+De eso estás enamorado.
+
+689
+00:48:12,223 --> 00:48:13,349
+¡Cuidado!
+
+690
+00:48:23,610 --> 00:48:25,028
+Tira.
+
+691
+00:48:37,665 --> 00:48:40,710
+¡Regresa! ¡Zeta! Se agota tu armadura.
+
+692
+00:48:40,877 --> 00:48:42,003
+Compré esto.
+
+693
+00:48:50,094 --> 00:48:53,222
+Un cubo de Zemeckis.
+Retrocede todo 60 segundos.
+
+694
+00:48:57,852 --> 00:48:59,854
+Y ¿recién ahora lo usas?
+
+695
+00:49:07,862 --> 00:49:10,114
+Estuviste maravillosa.
+
+696
+00:49:13,618 --> 00:49:15,453
+Esto no es un juego, Zeta.
+
+697
+00:49:16,788 --> 00:49:18,581
+Hago esto para detener a IOI.
+
+698
+00:49:18,748 --> 00:49:22,669
+Se trata de las consecuencias
+en el mundo real. Gente que sufre.
+
+699
+00:49:22,835 --> 00:49:24,045
+-Vida o muerte.
+-Lo sé.
+
+700
+00:49:24,212 --> 00:49:28,675
+No, ¡no sabes!
+Mi padre murió en un centro de lealtad.
+
+701
+00:49:29,634 --> 00:49:32,345
+Pidió equipamiento prestado.
+Acumuló deudas.
+
+702
+00:49:32,804 --> 00:49:36,140
+Se mudó para saldarlas con trabajo,
+pero nunca lo logró.
+
+703
+00:49:36,307 --> 00:49:38,017
+IOI le aumentaba los costos.
+
+704
+00:49:38,184 --> 00:49:39,602
+Enfermó y ya no pudo irse.
+
+705
+00:49:39,769 --> 00:49:41,479
+¡Luego murió!
+
+706
+00:49:42,271 --> 00:49:43,272
+Lo siento, no...
+
+707
+00:49:43,439 --> 00:49:45,566
+Tú no vives en el mundo real, Zeta.
+
+708
+00:49:45,733 --> 00:49:48,486
+Por lo que dices, nunca viviste en él.
+
+709
+00:49:48,820 --> 00:49:52,240
+Vives dentro de esta ilusión...
+
+710
+00:49:52,407 --> 00:49:54,409
+Y no dejaré que me distraigas.
+
+711
+00:50:07,380 --> 00:50:09,340
+¿Cómo rayos escaparon?
+
+712
+00:50:09,424 --> 00:50:11,551
+ <i>¿La versión larga? Tu gente es boba. </i>
+
+713
+00:50:11,718 --> 00:50:15,513
+ <i>No mataron a su avatar, </i>
+ <i>lo que, valga la crítica constructiva, </i>
+
+714
+00:50:15,680 --> 00:50:18,349
+ <i>era mala idea </i>
+ <i>y solo lo hubiera retrasado. </i>
+
+715
+00:50:18,516 --> 00:50:22,687
+ <i>Mientras que mi plan, genial como yo, </i>
+ <i>funcionó muy bien. </i>
+
+716
+00:50:22,854 --> 00:50:24,272
+Sigue en el tablero.
+
+717
+00:50:24,439 --> 00:50:27,984
+ <i>Lo sé, Nolan. </i>
+ <i>Pero no seguirá por mucho tiempo. </i>
+
+718
+00:50:28,151 --> 00:50:32,155
+ <i>Hice una búsqueda de los Wades </i>
+ <i>que compraron un traje háptico X1, </i>
+
+719
+00:50:32,321 --> 00:50:35,366
+ <i>la contrasté </i>
+ <i>con los registros, y </i> voilà,
+
+720
+00:50:35,533 --> 00:50:39,537
+ <i>que en francés significa </i>
+ <i>"y entonces lo descubrí". </i>
+
+721
+00:50:40,163 --> 00:50:41,330
+ <i>¿Listo? </i>
+
+722
+00:50:41,497 --> 00:50:46,169
+ <i>La identidad de Parzival </i>
+ <i>en el mundo real es Wade Watts. </i>
+
+723
+00:50:46,961 --> 00:50:48,504
+ <i>Voilà. </i>
+
+724
+00:50:50,214 --> 00:50:52,383
+¿Es leal, Srta. Zandor?
+
+725
+00:50:53,092 --> 00:50:54,719
+¿Me lo preguntas en serio?
+
+726
+00:50:54,886 --> 00:50:58,514
+Bueno, en la guerra,
+necesitas gente leal por demás.
+
+727
+00:50:59,474 --> 00:51:01,184
+Gente en la que confíes.
+
+728
+00:51:01,350 --> 00:51:03,853
+Acabo de arrestar a unos deudores.
+
+729
+00:51:04,020 --> 00:51:06,773
+Sí, porque hay problemas
+de solución física,
+
+730
+00:51:06,939 --> 00:51:09,358
+pero a veces, sobre todo en guerra,
+
+731
+00:51:09,525 --> 00:51:11,068
+necesitas otras leyes.
+
+732
+00:51:11,235 --> 00:51:12,570
+-Leyes de guerra.
+-Sí.
+
+733
+00:51:12,737 --> 00:51:15,490
+Qué pena que mi división
+no opere en el OASIS.
+
+734
+00:51:15,656 --> 00:51:20,036
+Sí, pero si esta guerra sigue en el OASIS,
+no puedes hacer nada.
+
+735
+00:51:20,953 --> 00:51:23,748
+Entonces esta es
+una de esas charlas que no tenemos.
+
+736
+00:51:23,915 --> 00:51:26,667
+Ya tuvimos charlas así,
+y mira dónde llegaste.
+
+737
+00:51:26,834 --> 00:51:29,253
+Estás en la junta, diriges tu división,
+
+738
+00:51:29,420 --> 00:51:33,216
+la cual dejará de existir
+si gana la persona equivocada.
+
+739
+00:51:33,382 --> 00:51:36,552
+F ́Nale, un juego decide nuestro destino.
+
+740
+00:51:36,719 --> 00:51:40,473
+La pregunta es hasta dónde
+estamos dispuestos a llegar para ganar.
+
+741
+00:51:42,683 --> 00:51:44,727
+Dime qué necesitas, Nolan.
+
+742
+00:52:19,262 --> 00:52:21,597
+DE NOLAN SORRENTO:
+PARZIVAL, TE HAGO UNA OFERTA
+
+743
+00:52:21,764 --> 00:52:24,809
+TE DOY LO QUE QUIERAS,
+INCLUSO EL HUEVO DE HALLIDAY...
+
+744
+00:52:24,976 --> 00:52:28,396
+PARA INGRESAR AL CHAT, TOQUE EL PRISMA.
+
+745
+00:53:03,097 --> 00:53:04,599
+ <i>Vaya. </i>
+
+746
+00:53:08,436 --> 00:53:09,437
+ <i>¿Dónde estoy? </i>
+
+747
+00:53:09,604 --> 00:53:12,356
+En IOI.
+Eres un holograma en el mundo real.
+
+748
+00:53:13,274 --> 00:53:14,483
+ <i>Qué buen equipo. </i>
+
+749
+00:53:14,650 --> 00:53:18,821
+Gracias. Es un Habashaw nuevo,
+el OIR 9400.
+
+750
+00:53:18,988 --> 00:53:20,698
+ <i>Parece una bola de hámster enorme. </i>
+
+751
+00:53:20,865 --> 00:53:25,578
+Si trabajaras para IOI, tendrías uno.
+
+752
+00:53:25,745 --> 00:53:26,954
+ <i>No estoy en clanes. </i>
+
+753
+00:53:27,121 --> 00:53:29,749
+Y tendrías un apartamento en Columbus,
+
+754
+00:53:29,916 --> 00:53:32,043
+con la mejor velocidad de conexión.
+
+755
+00:53:32,209 --> 00:53:37,048
+ <i>En el OASIS, tendrías armas, </i>
+ <i>objetos mágicos y naves sin límite. </i>
+
+756
+00:53:37,214 --> 00:53:38,132
+CONTRASEÑA - JEFAZ069
+
+757
+00:53:38,299 --> 00:53:39,300
+ <i>¿Quieres la nave de </i> Defender <i>? </i>
+
+758
+00:53:39,467 --> 00:53:42,053
+Una que salte al hiperespacio.
+
+759
+00:53:42,219 --> 00:53:44,055
+¿Quieres el <i>Halcón Milenario? </i>
+
+760
+00:53:45,014 --> 00:53:45,932
+ <i>¿Lo tienen? </i>
+
+761
+00:53:46,098 --> 00:53:50,603
+Lo que necesites para buscar el huevo,
+además del sueldo.
+
+762
+00:53:51,771 --> 00:53:53,731
+ <i>Cuatro millones al año. </i>
+
+763
+00:53:53,898 --> 00:53:57,318
+Y un extra
+si encuentras el huevo de Pascua.
+
+764
+00:53:57,485 --> 00:53:59,737
+Veinticinco millones de dólares.
+
+765
+00:54:05,159 --> 00:54:08,579
+Activaste el programa
+de supresión de emociones.
+
+766
+00:54:08,746 --> 00:54:11,582
+Y está bien,
+es astuto ocultar lo que piensas.
+
+767
+00:54:17,088 --> 00:54:20,758
+ <i>Es mucho dinero. Me vendría bien. </i>
+
+768
+00:54:23,511 --> 00:54:24,512
+ <i>Pero... </i>
+
+769
+00:54:25,763 --> 00:54:27,974
+ <i>No tenemos los mismos planes. </i>
+
+770
+00:54:28,140 --> 00:54:31,018
+ <i>Eso no lo sé. ¿Para el OASIS? </i>
+
+771
+00:54:31,185 --> 00:54:34,313
+ <i>Bueno, si no eres </i>
+ <i>fanático de John Hughes... </i>
+
+772
+00:54:35,481 --> 00:54:37,066
+ <i>Claro que lo soy. </i>
+
+773
+00:54:37,233 --> 00:54:39,694
+ <i>Porque lo primero que haría, </i>
+
+774
+00:54:39,860 --> 00:54:43,447
+es convertir
+todas las escuelas de Ludus en réplicas
+
+775
+00:54:43,614 --> 00:54:46,617
+de <i>El club de los cinco </i>
+y <i>Ferris Bueller. </i>
+
+776
+00:54:46,784 --> 00:54:49,036
+ <i>No me diga. Qué buena idea. </i>
+
+777
+00:54:49,954 --> 00:54:52,248
+ <i>¿En qué escuelas? ¿Ridgemont o Faber? </i>
+
+778
+00:54:52,415 --> 00:54:55,334
+Ridgemont, de <i>Picardías estudiantiles, </i>
+no es de Hughes.
+
+779
+00:54:55,501 --> 00:54:58,587
+Es una trampa.
+Faber es de <i>Colegio de animales. </i>
+
+780
+00:54:58,754 --> 00:55:02,758
+John Hughes no dirigió <i>Colegio de animales </i>
+ni <i>Picardías estudiantiles. </i>
+
+781
+00:55:03,384 --> 00:55:06,554
+En <i>Ferris Bueller </i> y <i> El club de los cinco </i>
+es la Secundaria Shermer,
+
+782
+00:55:06,721 --> 00:55:09,473
+ <i>en Shermer, Illinois. </i>
+ <i>Sé lo que piensas. </i>
+
+783
+00:55:10,266 --> 00:55:14,186
+Crees que soy un tonto corporativo,
+que desprecia la cultura popular,
+
+784
+00:55:15,354 --> 00:55:18,315
+pero no es cierto.
+Cuando estoy estresado...
+
+785
+00:55:18,482 --> 00:55:22,278
+Bebe Tab, juega al <i>Robotron, </i>
+escucha a Duran Duran.
+
+786
+00:55:22,445 --> 00:55:26,282
+Abro una Tab.
+Pongo a Duran Duran. Juego al <i>Robotron. </i>
+
+787
+00:55:26,449 --> 00:55:28,409
+Por eso me encanta el OASIS.
+
+788
+00:55:28,576 --> 00:55:33,372
+Porque está lleno
+de todo lo que la gente adora.
+
+789
+00:55:41,422 --> 00:55:43,758
+Soy un hombre de negocios. Lo entiendo.
+
+790
+00:55:43,841 --> 00:55:46,260
+Pero tengo que hacer mi trabajo.
+
+791
+00:55:46,343 --> 00:55:51,474
+Pero no te invité
+solo para buscar el huevo, Parzival.
+
+792
+00:55:52,308 --> 00:55:56,062
+Te invité por lo que viene después.
+
+793
+00:55:57,313 --> 00:55:58,939
+ <i>¿Qué diría Halliday? </i>
+
+794
+00:56:00,024 --> 00:56:02,693
+James Halliday está muerto.
+
+795
+00:56:03,986 --> 00:56:06,906
+Sí. Está muerto.
+
+796
+00:56:07,990 --> 00:56:11,827
+Todo lo que queda de él es este concurso.
+Y ¿sabes qué?
+
+797
+00:56:12,912 --> 00:56:15,122
+No le gustaría que ganen ustedes.
+
+798
+00:56:15,289 --> 00:56:16,457
+Un fan conoce al enemigo
+
+799
+00:56:16,624 --> 00:56:19,210
+y sé que tiene muchos ovólogos al oído.
+
+800
+00:56:19,376 --> 00:56:21,462
+Y lo que realmente pienso es
+
+801
+00:56:21,629 --> 00:56:23,089
+que solo dice mentiras.
+
+802
+00:56:28,469 --> 00:56:31,472
+ <i>Mi oferta... </i>
+ <i>¿Tiene a la junta en el otro oído? </i>
+
+803
+00:56:31,639 --> 00:56:33,516
+Dígales una cosa.
+
+804
+00:56:34,725 --> 00:56:37,144
+Si lo despiden, lo consideraré.
+
+805
+00:56:37,520 --> 00:56:39,563
+Diré algo aquí entre nosotros.
+
+806
+00:56:40,606 --> 00:56:42,108
+Tuve que hacer la oferta.
+
+807
+00:56:42,274 --> 00:56:45,486
+La junta lo requería,
+pero deseaba que no aceptaras.
+
+808
+00:56:45,653 --> 00:56:48,906
+Porque si alguien ganará
+esta competencia, seré yo.
+
+809
+00:56:49,073 --> 00:56:50,449
+Mi avatar tendrá el huevo
+
+810
+00:56:50,616 --> 00:56:54,203
+porque soy el único
+con el valor necesario para dirigir esto.
+
+811
+00:56:54,370 --> 00:56:56,831
+Vaya cambio.
+
+812
+00:56:56,997 --> 00:56:59,375
+De persona razonable a tirano maníaco.
+
+813
+00:57:00,084 --> 00:57:02,002
+Deberías estar agradecido, Wade.
+
+814
+00:57:03,087 --> 00:57:06,257
+ <i>No vivirás </i>
+ <i>para soportar mi reinado maníaco. </i>
+
+815
+00:57:06,423 --> 00:57:08,050
+Es cierto. Sé quién eres.
+
+816
+00:57:08,217 --> 00:57:12,805
+Wade Owen Watts,
+nacido el 12 de agosto de 2027.
+
+817
+00:57:13,472 --> 00:57:17,309
+También sé dónde vives.
+Unidad 56K, torres de Columbus.
+
+818
+00:57:17,476 --> 00:57:20,062
+Te vieron entrar
+al tráiler hace tres días.
+
+819
+00:57:20,229 --> 00:57:21,605
+Y aún no has salido.
+
+820
+00:57:21,772 --> 00:57:22,773
+ <i>No pueden... </i>
+
+821
+00:57:22,940 --> 00:57:24,024
+Con todo lo que pasa,
+
+822
+00:57:24,191 --> 00:57:25,860
+¿crees que importará
+
+823
+00:57:26,026 --> 00:57:29,905
+una explosión en un gueto
+de ratas y escoria en Columbus?
+
+824
+00:57:30,072 --> 00:57:32,241
+ <i>No lo haga. ¡Ni siquiera estoy ahí! </i>
+
+825
+00:57:32,324 --> 00:57:33,909
+Y tampoco lo estarás.
+
+826
+00:57:38,330 --> 00:57:39,999
+Comunícame con Alice.
+
+827
+00:57:40,166 --> 00:57:41,542
+Llama a Alice.
+
+828
+00:58:08,360 --> 00:58:10,196
+¡Contesta! ¡Alice!
+
+829
+00:58:15,326 --> 00:58:17,620
+Qué buen traje háptico. Gracias.
+
+830
+00:58:17,786 --> 00:58:19,705
+Rick, ¡el lugar va a explotar!
+
+831
+00:58:19,872 --> 00:58:21,207
+Rick, ¿es Wade?
+
+832
+00:58:21,373 --> 00:58:23,417
+-¡Pásame a Alice!
+-Déjame hablar con él.
+
+833
+00:58:23,584 --> 00:58:25,502
+No llames más, ¿entendido?
+
+834
+00:58:26,962 --> 00:58:29,840
+No quiero volver a oír tu voz.
+
+835
+00:59:06,877 --> 00:59:10,422
+Contacta a Hache, Daito, Sho y Art3mis.
+
+836
+00:59:11,257 --> 00:59:13,300
+IOI vino por mí en el mundo real.
+
+837
+00:59:13,467 --> 00:59:16,178
+Deben estar detrás de ustedes,
+donde sea que estén...
+
+838
+00:59:42,329 --> 00:59:44,206
+Perdón por la venda.
+
+839
+00:59:44,373 --> 00:59:46,166
+Mi gente es un poco paranoica.
+
+840
+00:59:47,376 --> 00:59:48,961
+Dilo de nuevo.
+
+841
+00:59:49,586 --> 00:59:51,922
+Mi gente es un poco paranoica.
+
+842
+00:59:53,048 --> 00:59:54,466
+¿Art3mis?
+
+843
+00:59:56,051 --> 01:00:00,055
+Mi nombre verdadero es Samantha,
+pero sí, soy Art3mis.
+
+844
+01:00:01,974 --> 01:00:04,643
+Las duchas están por ahí.
+Y hay ropa limpia.
+
+845
+01:00:07,980 --> 01:00:11,984
+Bienvenido a la rebelión, Wade.
+
+846
+01:00:23,203 --> 01:00:27,207
+Ahí está IOI.
+Entonces ¿las torres están allí?
+
+847
+01:00:28,709 --> 01:00:31,503
+¿Hemos vivido tan cerca todo el tiempo?
+
+848
+01:00:33,005 --> 01:00:34,298
+Al lado de casa,
+
+849
+01:00:35,174 --> 01:00:39,219
+del otro lado del mundo,
+es todo lo mismo en el OASIS.
+
+850
+01:00:41,722 --> 01:00:43,766
+Que conste...
+
+851
+01:00:45,642 --> 01:00:47,853
+No estoy decepcionado.
+
+852
+01:00:49,646 --> 01:00:52,566
+Dijiste que lo estaría
+cuando te conociera,
+
+853
+01:00:52,733 --> 01:00:54,401
+pero no lo estoy.
+
+854
+01:00:55,986 --> 01:00:58,739
+Llevo una vida con esto.
+No tienes que fingir.
+
+855
+01:01:13,337 --> 01:01:16,048
+Tienes una mancha de nacimiento, ¿y qué?
+
+856
+01:01:17,007 --> 01:01:18,675
+¿Por qué me asustaría?
+
+857
+01:01:25,933 --> 01:01:28,185
+Zeta, si te hice daño, lo siento.
+
+858
+01:01:28,560 --> 01:01:29,728
+No...
+
+859
+01:01:30,771 --> 01:01:33,190
+Aguarda, ¿me llamaste Zeta?
+
+860
+01:01:34,066 --> 01:01:36,110
+-Cielos. ¿Sí?
+-Creo que sí.
+
+861
+01:01:36,777 --> 01:01:37,820
+Wade, lo siento.
+
+862
+01:01:37,986 --> 01:01:40,155
+Wade, Zeta.
+
+863
+01:01:40,322 --> 01:01:43,450
+Llámame como quieras. Yo te llamaré Sam.
+
+864
+01:01:43,617 --> 01:01:44,618
+No.
+
+865
+01:01:45,744 --> 01:01:46,745
+¿Samantha?
+
+866
+01:01:47,246 --> 01:01:49,456
+De acuerdo. Genial.
+
+867
+01:01:56,797 --> 01:01:58,507
+Vaya.
+
+868
+01:01:59,383 --> 01:02:01,427
+Es todo más lento aquí.
+
+869
+01:02:02,845 --> 01:02:06,140
+El viento, la gente.
+
+870
+01:02:08,058 --> 01:02:09,852
+Todo.
+
+871
+01:02:15,107 --> 01:02:17,109
+Olvidamos lo que es estar afuera.
+
+872
+01:02:17,568 --> 01:02:18,569
+Sí.
+
+873
+01:02:23,198 --> 01:02:24,283
+¡Rayos!
+
+874
+01:02:25,367 --> 01:02:26,869
+-Acabo de resolverlo.
+-¿Qué?
+
+875
+01:02:27,035 --> 01:02:28,412
+Lo que significa la segunda pista.
+
+876
+01:02:34,793 --> 01:02:36,295
+Lo vimos muy literalmente.
+
+877
+01:02:36,879 --> 01:02:40,466
+El salto no dado,
+el salto que Halliday no dio, es con Kira.
+
+878
+01:02:40,632 --> 01:02:44,303
+Sí, pero la culpaba
+de separarlos a él y a Morrow.
+
+879
+01:02:44,470 --> 01:02:47,264
+No, Halliday estaba
+locamente enamorado de ella.
+
+880
+01:02:47,431 --> 01:02:49,683
+Tuvo oportunidad de besarla, pero...
+
+881
+01:02:49,850 --> 01:02:50,934
+No dio el salto.
+
+882
+01:02:51,101 --> 01:02:53,645
+Correcto. Entonces ahí es adonde iremos.
+
+883
+01:02:54,938 --> 01:02:56,315
+Adonde no dio el salto.
+
+884
+01:02:56,482 --> 01:02:57,441
+A la cita.
+
+885
+01:02:58,150 --> 01:02:59,776
+¡En el cine!
+
+886
+01:03:00,944 --> 01:03:01,945
+Hola, curador.
+
+887
+01:03:02,112 --> 01:03:03,947
+El segundo desafío es aquí.
+
+888
+01:03:04,114 --> 01:03:05,991
+Registraba cada film que veía,
+
+889
+01:03:06,158 --> 01:03:09,077
+la semana, el año
+y la cantidad de veces.
+
+890
+01:03:09,244 --> 01:03:13,332
+Curador, ¿podemos ver
+del 23 al 27 de noviembre de 2025?
+
+891
+01:03:13,999 --> 01:03:15,876
+Esa fue la semana de la cita.
+
+892
+01:03:20,422 --> 01:03:23,884
+Las opciones de esa semana son
+una <i>remake </i> de <i>La mosca. </i>
+
+893
+01:03:24,051 --> 01:03:26,011
+Gran film, muy feo para una cita.
+
+894
+01:03:26,178 --> 01:03:28,764
+ <i>Digan lo que quieran. </i> Tendría sentido.
+
+895
+01:03:29,681 --> 01:03:34,061
+Recordemos la pista.
+"El creador odia su creación".
+
+896
+01:03:35,270 --> 01:03:38,565
+EL RESPLANDOR
+
+897
+01:03:38,732 --> 01:03:40,526
+ <i>¡El resplandor! </i>
+
+898
+01:03:40,692 --> 01:03:42,819
+Es su onceava película de terror favorita.
+
+899
+01:03:42,986 --> 01:03:46,365
+Se basa en el libro de Stephen King,
+¡que odiaba el film!
+
+900
+01:03:46,990 --> 01:03:48,909
+¡Oigan! Sin tanta charla.
+
+901
+01:03:49,076 --> 01:03:50,369
+Creo que lo hallamos.
+
+902
+01:03:54,164 --> 01:03:56,708
+¿Están totalmente seguros de querer ir?
+
+903
+01:03:56,875 --> 01:03:58,585
+Totalmente.
+
+904
+01:03:58,752 --> 01:04:01,171
+Ojalá tengan estómago para esto.
+
+905
+01:04:07,302 --> 01:04:10,806
+EL RESPLANDOR - DE STANLEY KUBRICK
+
+906
+01:04:44,548 --> 01:04:45,632
+Miren.
+
+907
+01:04:47,134 --> 01:04:49,136
+El tiempo se agota.
+
+908
+01:04:49,303 --> 01:04:52,055
+Calculo que nos quedan...
+
+909
+01:04:53,140 --> 01:04:55,017
+Cinco minutos para hallar la llave.
+
+910
+01:04:55,183 --> 01:04:56,643
+Hay muchas en <i>El resplandor. </i>
+
+911
+01:04:56,810 --> 01:04:58,228
+¿Dónde empezamos?
+
+912
+01:04:59,646 --> 01:05:02,858
+Nunca vi <i>El resplandor. </i>
+¿Es muy aterradora?
+
+913
+01:05:03,734 --> 01:05:06,236
+Tuve que taparme la cara cuando la vi.
+
+914
+01:05:06,987 --> 01:05:09,323
+Están las llaves de la habitación 237,
+
+915
+01:05:09,948 --> 01:05:11,700
+las del vehículo de nieve,
+
+916
+01:05:11,867 --> 01:05:13,535
+y las que le dan a Jack al principio.
+
+917
+01:05:13,702 --> 01:05:16,496
+Si no dio el salto,
+quizá la llave no sea tal.
+
+918
+01:05:16,663 --> 01:05:17,873
+ <i>¡Sé dónde están las del vehículo! </i>
+
+919
+01:05:18,040 --> 01:05:19,082
+ <i>Separémonos. </i>
+
+920
+01:05:19,249 --> 01:05:22,377
+ <i>Busquemos todas y veámonos </i>
+ <i>en el apartamento de los Torrance. </i>
+
+921
+01:05:26,381 --> 01:05:28,008
+Hola, Danny.
+
+922
+01:05:29,259 --> 01:05:30,886
+Ven a jugar con nosotras.
+
+923
+01:05:31,053 --> 01:05:34,264
+Niñas, ¿saben cómo salir de aquí?
+
+924
+01:05:39,269 --> 01:05:40,270
+¡Un momento!
+
+925
+01:05:40,437 --> 01:05:42,397
+¿Dónde está Hache?
+
+926
+01:05:42,564 --> 01:05:43,815
+¡Un momento!
+
+927
+01:05:44,941 --> 01:05:45,859
+¡Hache!
+
+928
+01:05:47,110 --> 01:05:48,153
+¡No!
+
+929
+01:06:47,462 --> 01:06:50,173
+Hola, señora desnuda. Lo siento.
+
+930
+01:06:50,340 --> 01:06:52,092
+No quise interrumpir su baño.
+
+931
+01:06:52,426 --> 01:06:54,219
+Sé que el aseo es importante.
+
+932
+01:06:54,428 --> 01:06:57,597
+Pero ¿me diría
+dónde están todas las salidas?
+
+933
+01:07:02,811 --> 01:07:05,021
+¿Es una broma con cámara oculta?
+
+934
+01:07:05,188 --> 01:07:07,524
+Porque le caigo demasiado bien.
+
+935
+01:07:09,067 --> 01:07:11,194
+Sabe qué. Le seguiré la corriente.
+
+936
+01:08:03,121 --> 01:08:04,372
+Se acaba el tiempo.
+
+937
+01:08:04,539 --> 01:08:06,500
+Zeta, ¿Art3mis está enojada conmigo?
+
+938
+01:08:06,666 --> 01:08:08,919
+Yo lo estoy. Nunca viste el film, ¿no?
+
+939
+01:08:09,085 --> 01:08:10,295
+¡Sabes que odio el terror!
+
+940
+01:08:10,462 --> 01:08:11,463
+Tenemos la llave.
+
+941
+01:08:11,630 --> 01:08:12,881
+¡Bien! Al cuarto 237.
+
+942
+01:08:13,048 --> 01:08:16,593
+¡No tenemos nada que hacer allí!
+¡No entremos!
+
+943
+01:08:16,760 --> 01:08:18,845
+Además, había una zombi desnuda.
+
+944
+01:08:19,012 --> 01:08:20,514
+No hay zombis en <i>El resplandor. </i>
+
+945
+01:08:20,680 --> 01:08:22,516
+Quizá no sea como la película.
+
+946
+01:08:22,682 --> 01:08:24,226
+Kira es la llave. Lo dijiste tú.
+
+947
+01:08:24,392 --> 01:08:26,520
+Oigan, ¡vi una foto de Kira!
+
+948
+01:08:31,191 --> 01:08:32,234
+¿Dónde?
+
+949
+01:08:39,241 --> 01:08:42,536
+Es Kira. "Olvida el pasado".
+
+950
+01:08:43,370 --> 01:08:45,205
+"El salto no dado".
+
+951
+01:08:46,581 --> 01:08:50,001
+Su mayor temor no era
+ <i>El resplandor </i> ni otro libro o film.
+
+952
+01:08:51,044 --> 01:08:53,839
+Su mayor temor era besar a una chica.
+
+953
+01:08:54,631 --> 01:08:56,925
+Ese es el salto que no pudo dar.
+
+954
+01:09:05,141 --> 01:09:06,768
+El salón de baile.
+
+955
+01:09:21,408 --> 01:09:23,493
+Hache, vamos.
+
+956
+01:09:27,080 --> 01:09:29,040
+Zombis. Te lo dije.
+
+957
+01:09:30,500 --> 01:09:31,710
+Es ella.
+
+958
+01:09:32,836 --> 01:09:34,254
+Es Kira.
+
+959
+01:09:37,340 --> 01:09:38,508
+Esto no es de <i>El resplandor. </i>
+
+960
+01:09:38,675 --> 01:09:41,428
+Es el nivel del círculo zombi
+en <i>Mansión Mayhem, </i>
+
+961
+01:09:41,595 --> 01:09:43,054
+uno de sus primeros juegos.
+
+962
+01:09:43,221 --> 01:09:45,015
+Nos distraía con <i>El resplandor. </i>
+
+963
+01:09:46,266 --> 01:09:47,851
+Queda un minuto.
+
+964
+01:09:49,311 --> 01:09:50,478
+¿Cómo llegamos a ella?
+
+965
+01:09:50,645 --> 01:09:51,646
+Dando el salto.
+
+966
+01:09:51,813 --> 01:09:52,814
+¡Aguarda!
+
+967
+01:10:01,197 --> 01:10:03,867
+De acuerdo, don Muerto. ¿Guío yo?
+
+968
+01:10:51,581 --> 01:10:53,458
+¿Bailamos?
+
+969
+01:10:53,875 --> 01:10:57,337
+¿Sabes cuánto tiempo llevo esperando
+que me lo pidieras?
+
+970
+01:11:03,218 --> 01:11:05,637
+Vaya.
+
+971
+01:11:05,804 --> 01:11:10,183
+Encontraste mi Llave de Jade.
+
+972
+01:11:12,686 --> 01:11:14,604
+Imagínate.
+
+973
+01:11:19,609 --> 01:11:21,152
+Gracias.
+
+974
+01:11:25,949 --> 01:11:27,993
+-Kira era una hermosa...
+-Continúa.
+
+975
+01:11:50,515 --> 01:11:53,268
+{\an8}SI SABES LA RESPUESTA,
+DIVÍDELA POR EL NÚMERO MÁGICO...
+
+976
+01:11:53,643 --> 01:11:56,229
+POSICIONES
+PRIMER PUESTO - ART3MIS
+
+977
+01:11:57,063 --> 01:11:59,983
+Un ovólogo los vio entrar
+en la biblioteca multimedia.
+
+978
+01:12:00,150 --> 01:12:01,651
+Ella resolvió la pista.
+
+979
+01:12:01,818 --> 01:12:04,863
+Solo tenemos que ganar
+el desafío de <i>El resplandor. </i>
+
+980
+01:12:07,949 --> 01:12:10,660
+¡Apártenla de mí!
+
+981
+01:12:20,170 --> 01:12:24,674
+Sr. Sorrento, creo que tiene que ver esto.
+
+982
+01:12:26,801 --> 01:12:28,595
+Parzival obtuvo la Llave de Jade.
+
+983
+01:12:28,762 --> 01:12:30,180
+POSICIONES
+SEGUNDO PUESTO - PARZIVAL
+
+984
+01:12:33,266 --> 01:12:35,894
+{\an8}IDENTIFICACIÓN - WADE WATTS
+
+985
+01:12:39,022 --> 01:12:41,107
+Está vivo.
+
+986
+01:12:41,399 --> 01:12:43,735
+Lo sé. Te llamaré.
+
+987
+01:12:44,360 --> 01:12:46,362
+Tengo lo que busca.
+
+988
+01:12:50,283 --> 01:12:54,496
+{\an8}Detenlo. Ese chico.
+El del tatuaje aburrido.
+
+989
+01:12:55,080 --> 01:12:56,247
+Agrándalo.
+
+990
+01:12:58,792 --> 01:13:01,878
+{\an8}Búscalo en la base de datos,
+usa los drones de IOI en Columbus.
+
+991
+01:13:02,045 --> 01:13:03,463
+{\an8}Encuéntralo.
+
+992
+01:13:18,103 --> 01:13:19,354
+BUSCAR OBJETO
+
+993
+01:13:19,521 --> 01:13:21,147
+{\an8}SIN COINCIDENCIA
+
+994
+01:13:21,940 --> 01:13:22,774
+{\an8}VALIDANDO
+
+995
+01:13:26,402 --> 01:13:27,237
+{\an8}COINCIDENCIA
+
+996
+01:13:28,488 --> 01:13:30,240
+{\an8}IDENTIFICACIÓN - CONFIRMADA
+
+997
+01:13:30,406 --> 01:13:32,033
+{\an8}Las compras.
+
+998
+01:13:32,117 --> 01:13:33,243
+{\an8}Bien. Gluten-O ́s...
+
+999
+01:13:33,409 --> 01:13:35,995
+{\an8}"Si sabes la respuesta,
+divídela por el número mágico.
+
+1000
+01:13:36,162 --> 01:13:39,791
+{\an8}"Y lo que necesitas o deseas
+hallarás en el fuerte trágico".
+
+1001
+01:13:39,958 --> 01:13:41,960
+Con "trágico", debe referirse a sí mismo.
+
+1002
+01:13:42,127 --> 01:13:43,002
+¿Por qué?
+
+1003
+01:13:43,169 --> 01:13:44,295
+Porque estaba solo.
+
+1004
+01:13:44,462 --> 01:13:46,464
+Estuvo solo la última etapa de su vida.
+
+1005
+01:13:46,965 --> 01:13:47,799
+Sí, es verdad.
+
+1006
+01:13:47,966 --> 01:13:50,760
+El fin del concurso es
+conectarse con alguien.
+
+1007
+01:13:50,927 --> 01:13:52,262
+Con cualquiera.
+
+1008
+01:13:52,428 --> 01:13:55,515
+Que quien se ocupe del OASIS
+se conecte con el mundo.
+
+1009
+01:13:55,682 --> 01:13:58,143
+Creo que intenta decirnos eso.
+
+1010
+01:14:04,149 --> 01:14:05,775
+Wade.
+
+1011
+01:14:07,819 --> 01:14:09,362
+ <i>Tú entiendes a Halliday. </i>
+
+1012
+01:14:10,155 --> 01:14:12,157
+Lo conoces mejor que nadie.
+
+1013
+01:14:13,867 --> 01:14:15,910
+Precisamente por eso creo que ganarás.
+
+1014
+01:14:16,870 --> 01:14:20,123
+¿En serio crees que ganaré?
+
+1015
+01:14:24,627 --> 01:14:26,337
+¡No se muevan!
+
+1016
+01:14:31,801 --> 01:14:33,219
+¡Objetivo identificado!
+
+1017
+01:14:34,304 --> 01:14:35,847
+¡Quietos! ¡No se muevan!
+
+1018
+01:14:42,729 --> 01:14:44,230
+Esto da al callejón.
+
+1019
+01:14:44,939 --> 01:14:47,025
+-Tú primero.
+-Yo te sigo. ¡Ve ahora!
+
+1020
+01:14:48,651 --> 01:14:50,069
+¡Vamos!
+
+1021
+01:14:50,236 --> 01:14:52,572
+-Wade, el OASIS te necesita.
+-¿Cómo?
+
+1022
+01:14:52,739 --> 01:14:53,865
+-Los retrasaré.
+-¡Alto!
+
+1023
+01:14:54,032 --> 01:14:55,825
+¡Espera! ¡No!
+
+1024
+01:14:56,492 --> 01:14:58,661
+Juro que me perdonarás por esto.
+
+1025
+01:15:07,879 --> 01:15:09,464
+¡Alto!
+
+1026
+01:15:10,506 --> 01:15:11,507
+¡No se muevan!
+
+1027
+01:15:16,804 --> 01:15:19,349
+Samantha Evelyn Cook.
+
+1028
+01:15:19,515 --> 01:15:23,019
+IOI compró toda tu deuda,
+
+1029
+01:15:23,186 --> 01:15:26,272
+Que actualmente supera
+los 23 000 créditos.
+
+1030
+01:15:26,439 --> 01:15:29,108
+Irás al centro de lealtad más cercano
+
+1031
+01:15:29,317 --> 01:15:30,652
+hasta que la pagues,
+
+1032
+01:15:30,818 --> 01:15:33,446
+incluidos los intereses, los trámites
+
+1033
+01:15:33,613 --> 01:15:36,115
+y los eventuales cargos por mora.
+
+1034
+01:15:36,282 --> 01:15:38,451
+-¿Alguien lo ve?
+-¡La otra cuadra!
+
+1035
+01:15:51,464 --> 01:15:53,508
+-"A ganar la llave".
+-"A ganar el huevo".
+
+1036
+01:15:53,675 --> 01:15:54,968
+Un momento.
+
+1037
+01:15:55,969 --> 01:15:58,137
+"Desconfía de quien conozcas en el OASIS".
+
+1038
+01:15:59,347 --> 01:16:01,808
+"Podría ser un chico
+de más de 130 kg llamado Chuck".
+
+1039
+01:16:01,975 --> 01:16:05,186
+"Que vive en el sótano de su mamá
+en Detroit".
+
+1040
+01:16:07,563 --> 01:16:08,564
+¡Hache!
+
+1041
+01:16:09,482 --> 01:16:12,986
+Helen. Mi papá me decía Hache.
+Se me pegó. ¡Vamos!
+
+1042
+01:16:22,870 --> 01:16:25,039
+Está identificando mi furgoneta.
+
+1043
+01:16:39,887 --> 01:16:41,889
+Vamos. Nos vieron.
+
+1044
+01:16:42,724 --> 01:16:43,641
+Daito.
+
+1045
+01:16:43,808 --> 01:16:46,978
+Mi nombre real es Toshiro.
+Samantha nos envió un mensaje.
+
+1046
+01:16:47,145 --> 01:16:48,813
+Dijo que nos reunamos aquí.
+
+1047
+01:16:48,980 --> 01:16:50,231
+La llevaron al...
+
+1048
+01:16:50,398 --> 01:16:51,816
+Al centro de lealtad, sí.
+
+1049
+01:16:51,983 --> 01:16:55,194
+Además, los sixers hallaron
+el tercer desafío.
+
+1050
+01:16:55,987 --> 01:16:57,739
+-¿Cómo?
+-¡Solo entra!
+
+1051
+01:16:57,905 --> 01:16:58,865
+Bien. Vamos.
+
+1052
+01:16:59,032 --> 01:17:00,992
+Rápido.
+
+1053
+01:17:13,004 --> 01:17:15,340
+¿Cómo lo hallaron tan rápido?
+
+1054
+01:17:15,506 --> 01:17:18,676
+Dedujeron que las tres primeras líneas
+eran el sector 14.
+
+1055
+01:17:18,843 --> 01:17:20,636
+Aún no resolvieron "el fuerte trágico".
+
+1056
+01:17:20,803 --> 01:17:23,139
+Enviaron a sus guías al sector
+
+1057
+01:17:23,306 --> 01:17:25,183
+hasta que hallen el fuerte.
+
+1058
+01:17:26,309 --> 01:17:27,602
+¿Sho?
+
+1059
+01:17:27,769 --> 01:17:29,896
+Sí. Tengo once años, ¿y qué?
+
+1060
+01:17:30,063 --> 01:17:31,939
+Su nombre verdadero es Xo.
+
+1061
+01:17:32,106 --> 01:17:34,692
+Pero todos me dicen Sho, no importa.
+
+1062
+01:17:34,859 --> 01:17:37,487
+Sí que importa.
+
+1063
+01:17:37,653 --> 01:17:41,074
+Sho, eres el chico de 11 años
+más rudo que existe.
+
+1064
+01:17:41,240 --> 01:17:42,116
+Él sabe.
+
+1065
+01:17:42,283 --> 01:17:44,327
+¡Cállate! Deja que me cuente.
+
+1066
+01:17:44,494 --> 01:17:45,536
+¡Hache!
+
+1067
+01:17:49,082 --> 01:17:50,625
+Hay que rescatar a Samantha.
+
+1068
+01:17:50,792 --> 01:17:53,002
+No podemos entrar a IOI como si nada.
+
+1069
+01:17:53,169 --> 01:17:55,213
+Estuve pensando un mejor plan.
+
+1070
+01:17:55,380 --> 01:17:57,215
+Conoces el equipo de Sorrento, ¿no?
+
+1071
+01:17:57,382 --> 01:17:58,383
+Sí.
+
+1072
+01:17:58,549 --> 01:18:01,761
+Vayamos tras el tipo
+y lo obligamos a darnos a Art3mis.
+
+1073
+01:18:01,928 --> 01:18:03,679
+Pero antes debo saber bien
+
+1074
+01:18:03,846 --> 01:18:05,765
+cuánto recuerdas del equipo.
+
+1075
+01:18:07,225 --> 01:18:09,477
+Recuerdo casi todo.
+
+1076
+01:18:23,241 --> 01:18:27,078
+ <i>Mantenimiento, dirigirse </i>
+ <i>al módulo de lealtad 31-B. </i>
+
+1077
+01:18:31,207 --> 01:18:35,753
+ <i>Seguridad, dirigirse </i>
+ <i>a la Sección 97 para escolta. </i>
+
+1078
+01:18:56,566 --> 01:18:59,360
+Oye, novata, ponte a trabajar.
+
+1079
+01:19:01,571 --> 01:19:02,905
+A trabajar.
+
+1080
+01:19:08,995 --> 01:19:12,081
+ <i>Contravención de trabajo. </i>
+
+1081
+01:19:13,875 --> 01:19:16,919
+Pon esas cargas cada dos metros.
+
+1082
+01:19:21,966 --> 01:19:24,093
+¡No te detengas!
+
+1083
+01:19:25,428 --> 01:19:26,429
+ <i>¡Oye! </i>
+
+1084
+01:19:28,598 --> 01:19:30,349
+¡Son explosivos!
+
+1085
+01:19:31,809 --> 01:19:35,188
+IOI no te reembolsará nada
+si quedas en cero.
+
+1086
+01:19:35,354 --> 01:19:37,106
+ <i>¡No te detengas! </i>
+
+1087
+01:19:41,861 --> 01:19:44,739
+¿De qué trata el desafío,
+es algo de videojuegos?
+
+1088
+01:19:44,906 --> 01:19:46,824
+De Atari 2600, señor.
+
+1089
+01:19:46,991 --> 01:19:50,244
+Y de todos sus juegos,
+son miles de posibilidades.
+
+1090
+01:19:51,370 --> 01:19:52,371
+¡Vamos!
+
+1091
+01:19:57,210 --> 01:19:58,503
+Halliday...
+
+1092
+01:19:58,669 --> 01:20:03,257
+¿Así planeas resolver el destino
+del bien más importante del mundo?
+
+1093
+01:20:04,050 --> 01:20:05,843
+-Díganme cuando estén cerca.
+-Sí.
+
+1094
+01:20:06,010 --> 01:20:07,553
+¡Vamos! ¡No!
+
+1095
+01:20:09,805 --> 01:20:12,683
+Un minuto de <i>Centipede, </i>
+se rompió el hielo.
+
+1096
+01:20:13,059 --> 01:20:14,560
+¡Tiene que ser <i>Joust! </i>
+
+1097
+01:20:14,727 --> 01:20:17,897
+Halliday aún tiene el récord
+en la versión 2600.
+
+1098
+01:20:18,064 --> 01:20:19,190
+Quizá debamos superarlo.
+
+1099
+01:20:19,273 --> 01:20:21,901
+ <i>¡Pitfall! </i> Uno de los pocos
+que no concluyó.
+
+1100
+01:20:21,984 --> 01:20:23,444
+Y ¿los juegos <i>Swordquest? </i>
+
+1101
+01:20:23,653 --> 01:20:24,695
+¡Sí! <i>Swordquest. </i>
+
+1102
+01:20:24,862 --> 01:20:27,698
+Los crearon para un concurso
+que hizo Atari...
+
+1103
+01:20:35,456 --> 01:20:37,083
+¿Qué tal, i-R0k?
+
+1104
+01:20:38,459 --> 01:20:40,545
+La verdad, necesito fisioterapia por...
+
+1105
+01:20:40,711 --> 01:20:42,380
+¿Está listo el Orbe?
+
+1106
+01:20:43,714 --> 01:20:45,383
+Como quieras.
+
+1107
+01:20:49,554 --> 01:20:50,555
+El Orbe...
+
+1108
+01:20:50,721 --> 01:20:52,139
+De Osuvox.
+
+1109
+01:20:54,183 --> 01:20:55,560
+¿Cómo funciona?
+
+1110
+01:20:55,726 --> 01:20:59,021
+¿Tiene control remoto, un botón o algo?
+
+1111
+01:20:59,689 --> 01:21:03,150
+Nolan, es un artefacto mágico de nivel 99,
+
+1112
+01:21:03,317 --> 01:21:06,946
+no es uno de tus drones,
+se activa con un hechizo mágico.
+
+1113
+01:21:07,113 --> 01:21:09,156
+¿Me harías los honores?
+
+1114
+01:21:19,500 --> 01:21:21,836
+ <i>Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1115
+01:21:22,003 --> 01:21:23,796
+ <i>do chél dénmha. </i>
+
+1116
+01:21:23,963 --> 01:21:26,382
+ <i>Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1117
+01:21:26,549 --> 01:21:28,426
+ <i>do chél dénmha. </i>
+
+1118
+01:21:28,593 --> 01:21:31,387
+ <i>Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1119
+01:21:31,554 --> 01:21:33,598
+ <i>do chél dénmha. </i>
+
+1120
+01:22:01,125 --> 01:22:02,335
+¿Dónde está?
+
+1121
+01:22:02,501 --> 01:22:03,628
+¿Cómo entraste?
+
+1122
+01:22:03,794 --> 01:22:04,920
+-Art3mis.
+- <i>¿Quién? </i>
+
+1123
+01:22:05,087 --> 01:22:08,132
+Samantha Cook. ¿Dónde está?
+
+1124
+01:22:09,759 --> 01:22:13,137
+Si quieres hablar, podemos hacerlo,
+pero baja el arma.
+
+1125
+01:22:13,638 --> 01:22:15,973
+Mató a la hermana de mi mamá.
+
+1126
+01:22:16,557 --> 01:22:18,059
+¿Cree que no lo mataré?
+
+1127
+01:22:18,225 --> 01:22:22,229
+Tranquilo. Con calma, ¿sí?
+
+1128
+01:22:22,396 --> 01:22:25,608
+Fue una decisión empresarial.
+No fue nada personal.
+
+1129
+01:22:25,775 --> 01:22:26,776
+¿Dónde está?
+
+1130
+01:22:26,942 --> 01:22:29,278
+¡Abajo, en el centro de lealtad!
+
+1131
+01:22:29,445 --> 01:22:32,198
+Sé que está
+en el maldito centro de lealtad.
+
+1132
+01:22:32,782 --> 01:22:35,076
+Dígame exactamente cuál es su equipo
+
+1133
+01:22:35,242 --> 01:22:37,578
+y el código para contactarla.
+
+1134
+01:22:38,663 --> 01:22:40,915
+Bien, suena razonable.
+
+1135
+01:22:43,793 --> 01:22:45,795
+ <i>Primero el código de acceso. </i>
+
+1136
+01:22:47,004 --> 01:22:49,131
+ <i>Es 6, 45, 7, 25. </i>
+
+1137
+01:22:49,298 --> 01:22:50,549
+ <i>¿Dónde está el equipo? </i>
+
+1138
+01:23:01,477 --> 01:23:03,062
+Creo que se orinó encima.
+
+1139
+01:23:03,688 --> 01:23:05,523
+Bien, Zeta. Estamos en su cuenta.
+
+1140
+01:23:05,690 --> 01:23:07,441
+¿No sabe que está en el OASIS?
+
+1141
+01:23:07,608 --> 01:23:09,652
+MUNDO REAL
+
+1142
+01:23:09,819 --> 01:23:12,238
+Esto es lo que Sorrento debería ver,
+
+1143
+01:23:12,405 --> 01:23:15,533
+pero esto es lo que hacemos que vea.
+
+1144
+01:23:16,659 --> 01:23:19,537
+Lo capturamos justo
+cuando salía del OASIS,
+
+1145
+01:23:19,704 --> 01:23:22,373
+así que cree que volvió a su oficina.
+
+1146
+01:23:22,581 --> 01:23:26,252
+Pero está aquí,
+en una oficina idéntica que hizo Hache.
+
+1147
+01:23:26,419 --> 01:23:28,963
+Hackeaste su equipo en forma remota.
+
+1148
+01:23:29,130 --> 01:23:32,007
+Usa equipo fijo,
+fácil de ubicar, difícil de hackear.
+
+1149
+01:23:32,174 --> 01:23:34,719
+A menos que el bobo
+deje la contraseña por ahí.
+
+1150
+01:23:34,885 --> 01:23:36,137
+Centro de lealtad, estoy adentro.
+
+1151
+01:23:36,303 --> 01:23:38,055
+A trabajar.
+
+1152
+01:23:45,855 --> 01:23:48,023
+ <i>-Arty. </i>
+-¿Zeta?
+
+1153
+01:23:48,190 --> 01:23:51,694
+Arty, no digas nada.
+Intercepté tu sistema de audio.
+
+1154
+01:23:53,320 --> 01:23:54,405
+ <i>¿Cómo me hallaron? </i>
+
+1155
+01:23:54,572 --> 01:23:56,532
+Entramos al equipo de Sorrento
+con su contraseña.
+
+1156
+01:23:58,159 --> 01:24:00,035
+Zeta, tengo que decirte algo.
+
+1157
+01:24:00,202 --> 01:24:02,455
+ <i>Ahora no. Hay que sacarte de allí. </i>
+
+1158
+01:24:02,621 --> 01:24:05,207
+Hallaron el tercer desafío.
+Es en el planeta Doom.
+
+1159
+01:24:06,083 --> 01:24:09,420
+Y pusieron un campo de fuerza
+alrededor del Castillo de Anorak.
+
+1160
+01:24:13,883 --> 01:24:16,385
+Según un guardia, es el Orbe de Osuvox
+
+1161
+01:24:16,552 --> 01:24:18,929
+y solo se puede quitar desde adentro.
+
+1162
+01:24:19,096 --> 01:24:22,099
+Tiene razón. Es un artefacto de nivel 99.
+
+1163
+01:24:22,266 --> 01:24:25,060
+Crea un campo impenetrable,
+resistente a la magia.
+
+1164
+01:24:25,227 --> 01:24:26,228
+No hay forma de atravesarlo.
+
+1165
+01:24:26,395 --> 01:24:27,813
+Eso no importa ahora.
+
+1166
+01:24:27,980 --> 01:24:30,024
+Lo importante es sacarte de ahí.
+
+1167
+01:24:32,818 --> 01:24:35,237
+ <i>Tengo un diagrama de tu equipo. </i>
+
+1168
+01:24:37,865 --> 01:24:40,117
+Si alzas la izquierda a las 11 horas,
+
+1169
+01:24:40,284 --> 01:24:42,203
+hay un panel sobre tu cabeza.
+
+1170
+01:24:46,874 --> 01:24:48,876
+Sí, lo toco.
+
+1171
+01:24:49,043 --> 01:24:50,836
+ <i>Hay dos manijas para abrirlo. </i>
+
+1172
+01:24:51,003 --> 01:24:52,421
+ <i>A las nueve y a las tres. ¿Sí? </i>
+
+1173
+01:24:52,588 --> 01:24:54,924
+-Sí.
+ <i>-Muévelas hacia ti. </i>
+
+1174
+01:24:57,301 --> 01:24:58,803
+ <i>Hay una palanca dentro. </i>
+
+1175
+01:24:58,969 --> 01:25:01,430
+ <i>Con la derecha, muévela a la izquierda. </i>
+
+1176
+01:25:01,597 --> 01:25:03,015
+ <i>Eso debería liberarte. </i>
+
+1177
+01:25:10,356 --> 01:25:12,274
+Funcionó, estoy afuera.
+
+1178
+01:25:13,108 --> 01:25:18,155
+ <i>Módulo de lealtad 41-F, se lo autoriza </i>
+ <i>a un descanso de 10 minutos. </i>
+
+1179
+01:25:23,494 --> 01:25:26,497
+ <i>Módulo 41-F, </i>
+ <i>tiene un descanso de 10 minutos. </i>
+
+1180
+01:25:26,664 --> 01:25:28,791
+ <i>Diríjase al área de descanso. </i>
+
+1181
+01:25:30,084 --> 01:25:31,293
+Wade, ¿sigues ahí?
+
+1182
+01:25:31,460 --> 01:25:32,503
+ <i>Sí. ¿Dónde estás? </i>
+
+1183
+01:25:32,670 --> 01:25:33,754
+¿Dónde está su oficina?
+
+1184
+01:25:33,921 --> 01:25:36,131
+ <i>En la sala de operaciones, </i>
+ <i>dos pisos arriba, </i>
+
+1185
+01:25:36,298 --> 01:25:37,925
+ <i>pero no es la salida. </i>
+
+1186
+01:25:38,092 --> 01:25:39,635
+¿Cuál es la contraseña?
+
+1187
+01:25:40,970 --> 01:25:42,096
+Wade, dime.
+
+1188
+01:25:42,263 --> 01:25:46,141
+ <i>Es JEFAZ-0-69 </i>
+
+1189
+01:25:46,308 --> 01:25:48,519
+ <i>Pero, Arty, debes salir. </i>
+
+1190
+01:25:48,686 --> 01:25:49,979
+Tú debes formar un ejército.
+
+1191
+01:25:50,896 --> 01:25:51,897
+¿Un ejército?
+
+1192
+01:25:52,064 --> 01:25:54,066
+ <i>Ve al planeta Doom y espera mi señal. </i>
+
+1193
+01:25:54,233 --> 01:25:55,276
+¿Qué señal?
+
+1194
+01:25:55,442 --> 01:25:56,652
+Quitaré el escudo.
+
+1195
+01:25:56,819 --> 01:25:59,238
+ <i>Arty, ¡espera! ¡Sal de ahí! </i>
+
+1196
+01:26:07,913 --> 01:26:10,374
+¿Cuánto te pagan?
+
+1197
+01:26:10,541 --> 01:26:12,167
+Porque tengo mucho dinero.
+
+1198
+01:26:12,334 --> 01:26:14,545
+Toneladas de él.
+
+1199
+01:26:14,712 --> 01:26:16,839
+Cállese.
+
+1200
+01:26:17,006 --> 01:26:18,090
+De acuerdo.
+
+1201
+01:26:40,738 --> 01:26:42,907
+Esto no es real, interceptaron mis datos.
+
+1202
+01:26:43,073 --> 01:26:44,992
+Ay, chicos.
+
+1203
+01:26:59,381 --> 01:27:02,426
+CONTRASEÑA - JEFAZ069
+
+1204
+01:27:03,552 --> 01:27:06,096
+F ́Nale, hackearon mi equipo.
+Buscan a la chica.
+
+1205
+01:27:06,263 --> 01:27:07,932
+Nos vemos en el centro de lealtad.
+
+1206
+01:27:22,071 --> 01:27:25,491
+ <i>Módulo 41-F, su descanso ya terminó. </i>
+
+1207
+01:27:25,658 --> 01:27:30,037
+ <i>Diríjase a seguridad </i>
+ <i>o perderá todas sus monedas. </i>
+
+1208
+01:27:38,337 --> 01:27:42,967
+¿Simplemente se escapa? ¿Cómo puede ser?
+
+1209
+01:27:43,133 --> 01:27:45,177
+Son listos. Sabían lo que hacían.
+
+1210
+01:27:45,344 --> 01:27:48,097
+Pero sabemos que están en Columbus.
+Los cinco juntos.
+
+1211
+01:27:48,263 --> 01:27:50,599
+Espera, ¿qué sabemos? ¿Cómo sabemos?
+
+1212
+01:27:50,766 --> 01:27:54,353
+Tenemos marca y modelo de la furgoneta.
+Los hallaremos.
+
+1213
+01:27:54,520 --> 01:27:56,480
+¿"Los hallaremos"?
+
+1214
+01:27:56,647 --> 01:27:59,733
+Una inscripción excelente
+para nuestras lápidas.
+
+1215
+01:27:59,900 --> 01:28:01,276
+¿Por qué no me lo dijiste?
+
+1216
+01:28:01,443 --> 01:28:02,861
+Aún no era relevante.
+
+1217
+01:28:03,028 --> 01:28:04,113
+Quiero saber dónde están.
+
+1218
+01:28:04,279 --> 01:28:05,656
+¡Necesitamos hallarlos!
+
+1219
+01:28:05,823 --> 01:28:08,701
+Son niños, Nolan. Ponte los pantalones.
+
+1220
+01:28:08,867 --> 01:28:11,912
+Haz tu trabajo, yo haré el mío,
+a menos que quieras esto
+
+1221
+01:28:12,079 --> 01:28:14,081
+e ir tras ellos tú mismo.
+
+1222
+01:28:18,669 --> 01:28:19,920
+¡Encuéntralos!
+
+1223
+01:28:28,929 --> 01:28:33,517
+Las <i>Obras completas de Nancy Drew, </i>
+los ejercicios de Kegel para...
+
+1224
+01:28:35,185 --> 01:28:37,354
+Aquí está.
+
+1225
+01:28:37,938 --> 01:28:40,024
+"Felicidades, ya posee
+el Orbe de Osuvox,
+
+1226
+01:28:40,190 --> 01:28:41,525
+"artefacto mágico de nivel 99.
+
+1227
+01:28:41,692 --> 01:28:44,820
+"Lea las instrucciones antes de usar.
+Para activarlo, desactivarlo".
+
+1228
+01:28:44,987 --> 01:28:46,321
+¡Desactivarlo! Sí.
+
+1229
+01:28:46,488 --> 01:28:48,741
+"Conjuro a menos de tres metros del orbe".
+
+1230
+01:28:50,576 --> 01:28:53,203
+ <i>"Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1231
+01:28:53,370 --> 01:28:54,621
+ <i>"do chél dénmha". </i>
+
+1232
+01:29:02,713 --> 01:29:04,757
+ <i>Ciudadanos del OASIS, </i>
+
+1233
+01:29:04,923 --> 01:29:07,217
+ <i>soy Parzival, </i>
+ <i>primero en ganar la llave. </i>
+
+1234
+01:29:07,760 --> 01:29:10,637
+Les hablo porque nuestro futuro
+se ve amenazado
+
+1235
+01:29:10,804 --> 01:29:13,891
+por gente que quiere ganar
+el concurso a toda costa.
+
+1236
+01:29:14,892 --> 01:29:16,643
+Algunos ya lo saben,
+
+1237
+01:29:16,810 --> 01:29:20,105
+pues perdieron mucho más
+que sus avatares o armas.
+
+1238
+01:29:20,898 --> 01:29:24,777
+Algunos perdieron la libertad,
+otros la vida.
+
+1239
+01:29:27,279 --> 01:29:29,239
+Y ahora, esto.
+
+1240
+01:29:30,074 --> 01:29:33,035
+ <i>Un campo de fuerza </i>
+ <i>alrededor del tercer desafío. </i>
+
+1241
+01:29:35,579 --> 01:29:38,707
+ <i>Llegué aquí para escapar </i>
+ <i>de mi terrible situación, </i>
+
+1242
+01:29:39,583 --> 01:29:42,211
+ <i>pero me quedé, </i>
+ <i>como muchos de ustedes, </i>
+
+1243
+01:29:42,377 --> 01:29:47,132
+ <i>porque encontré </i>
+ <i>algo mucho más grande que yo. </i>
+
+1244
+01:29:47,466 --> 01:29:49,259
+ <i>Encontré una causa. </i>
+
+1245
+01:29:50,427 --> 01:29:52,513
+ <i>Encontré amigos. </i>
+
+1246
+01:29:53,722 --> 01:29:57,142
+ <i>Y aunque sé que es cursi... </i>
+
+1247
+01:29:58,477 --> 01:30:00,062
+ <i>Encontré el amor. </i>
+
+1248
+01:30:01,355 --> 01:30:05,484
+ <i>Y no quiero perder eso </i>
+ <i>ante un idiota colosal, Nolan Sorrento. </i>
+
+1249
+01:30:05,651 --> 01:30:09,113
+Qué chico este. Vuelvan a trabajar.
+
+1250
+01:30:09,863 --> 01:30:12,699
+ <i>Cree que estamos </i>
+ <i>muy distraídos para ver... </i>
+
+1251
+01:30:14,118 --> 01:30:18,539
+ <i>Nolan Sorrento cree que no vamos a pelear. </i>
+
+1252
+01:30:18,914 --> 01:30:20,082
+¡Señor!
+
+1253
+01:30:20,249 --> 01:30:22,334
+-¡Va en vivo!
+ <i>-Halliday solo dejaba... </i>
+
+1254
+01:30:22,501 --> 01:30:24,753
+-Está en todos lados.
+ <i>-...que le trajera café. </i>
+
+1255
+01:30:24,920 --> 01:30:26,588
+ <i>¿Deberíamos darle el OASIS? </i>
+
+1256
+01:30:34,513 --> 01:30:37,266
+El tal Parzival... Cielos.
+
+1257
+01:30:41,353 --> 01:30:43,689
+Vamos. Dame esa cosa.
+
+1258
+01:30:43,856 --> 01:30:44,982
+Sí, señor.
+
+1259
+01:30:45,691 --> 01:30:47,651
+ <i>Brazo izquierdo. </i>
+
+1260
+01:30:47,818 --> 01:30:50,154
+-¡Brazo izquierdo!
+-Señor.
+
+1261
+01:30:50,320 --> 01:30:52,156
+No, el brazo izquierdo.
+
+1262
+01:30:52,322 --> 01:30:54,616
+No, no importa si... Lo quiero así.
+
+1263
+01:30:56,660 --> 01:30:59,079
+¡Cree que no opondremos resistencia!
+
+1264
+01:30:59,204 --> 01:31:01,832
+Yo digo que se equivoca.
+
+1265
+01:31:01,999 --> 01:31:05,627
+Que les diga eso a los clanes
+de las minas de oro de Gygax.
+
+1266
+01:31:05,794 --> 01:31:08,964
+Activa al Gigante de Hierro.
+
+1267
+01:31:33,113 --> 01:31:38,035
+ <i>Pregúntense si están dispuestos </i>
+ <i>a quedar en cero por el OASIS. </i>
+
+1268
+01:31:38,202 --> 01:31:40,204
+ <i>Si están dispuestos a luchar. </i>
+
+1269
+01:31:41,538 --> 01:31:43,957
+Soy <i>Parzival, de los High Five. </i>
+
+1270
+01:31:44,124 --> 01:31:49,004
+ <i>En nombre de Art3mis, </i>
+ <i>de Hache, de Daito y de Sho, </i>
+
+1271
+01:31:49,588 --> 01:31:52,132
+ <i>les pido que se unan a nosotros </i>
+ <i>en el planeta Doom. </i>
+
+1272
+01:31:53,133 --> 01:31:56,094
+En nombre del propio James Halliday,
+
+1273
+01:31:56,261 --> 01:31:58,263
+ayúdennos a salvar el OASIS.
+
+1274
+01:32:53,277 --> 01:32:55,779
+No.
+
+1275
+01:33:05,789 --> 01:33:08,709
+"Ningún hombre es un fracaso
+si tiene amigos".
+
+1276
+01:33:30,522 --> 01:33:33,692
+ <i>Escuadrón 14, </i>
+ <i>armadura activada, avanza primero. </i>
+
+1277
+01:33:46,621 --> 01:33:49,333
+Un minuto de <i>Swordquest, </i>
+se rompió el hielo.
+
+1278
+01:33:52,753 --> 01:33:54,629
+Listo los tres <i>Swordquest. </i> ¿Qué sigue?
+
+1279
+01:33:54,796 --> 01:33:56,465
+ <i>Dark Cavern, Laser Blast. </i>
+
+1280
+01:33:56,631 --> 01:33:57,716
+Es <i>Adventure. </i>
+
+1281
+01:33:57,883 --> 01:33:59,968
+Fue lanzado en 1979, para la 2600,
+
+1282
+01:34:00,135 --> 01:34:01,678
+creado por Warren Robinett,
+
+1283
+01:34:01,845 --> 01:34:04,222
+el primer diseñador
+que ocultó su nombre...
+
+1284
+01:34:04,389 --> 01:34:06,391
+Prueben <i>Adventure. </i>
+
+1285
+01:34:07,642 --> 01:34:09,144
+Jueguen <i>Adventure. </i>
+
+1286
+01:34:44,096 --> 01:34:46,390
+ART3MIS - DRON PARLANTE
+
+1287
+01:35:01,530 --> 01:35:03,698
+Más de un minuto, seguimos vivos.
+
+1288
+01:35:03,865 --> 01:35:05,784
+Debe ser el juego.
+
+1289
+01:35:05,951 --> 01:35:07,744
+ <i>Anál nathrach, </i>
+
+1290
+01:35:07,911 --> 01:35:09,079
+ <i>orth ́ bháis ́s bethad, </i>
+
+1291
+01:35:09,871 --> 01:35:11,498
+ <i>do chél dénmha. </i>
+
+1292
+01:35:12,666 --> 01:35:15,460
+¿Cuánto tiempo dura el orbe?
+
+1293
+01:35:18,797 --> 01:35:21,425
+ <i>Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1294
+01:35:21,591 --> 01:35:22,759
+ <i>do chél dénmha. </i>
+
+1295
+01:35:22,926 --> 01:35:25,512
+Diría unos diez...
+
+1296
+01:35:25,679 --> 01:35:28,890
+Sí, diez millones de años,
+no tendríamos problemas.
+
+1297
+01:35:29,057 --> 01:35:32,102
+ <i>Anál nathrach, orth ́ bháis ́s bethad, </i>
+
+1298
+01:35:32,269 --> 01:35:34,062
+ <i>do chél dénmha. </i>
+
+1299
+01:35:46,241 --> 01:35:47,951
+¡A ganar la llave!
+
+1300
+01:35:48,118 --> 01:35:49,786
+¡A ganar el huevo!
+
+1301
+01:35:49,953 --> 01:35:51,413
+¡A ganar el huevo!
+
+1302
+01:35:51,580 --> 01:35:52,622
+¡A ganar el huevo!
+
+1303
+01:36:18,315 --> 01:36:20,150
+ENFOQUE MEJORADO
+
+1304
+01:36:21,151 --> 01:36:22,360
+ <i>Adventure. </i>
+
+1305
+01:36:39,377 --> 01:36:40,879
+¿Qué? ¡Por favor!
+
+1306
+01:37:14,246 --> 01:37:16,831
+Los sixers están en el último desafío.
+Un Atari 2600.
+
+1307
+01:37:16,998 --> 01:37:18,708
+¿Estás en su sala de operaciones?
+
+1308
+01:37:19,251 --> 01:37:20,669
+No. Tienes que salir.
+
+1309
+01:37:20,835 --> 01:37:22,504
+Juegan al <i>Adventure. </i>
+
+1310
+01:37:23,129 --> 01:37:25,382
+ <i>¡Adventure, </i> claro!
+
+1311
+01:37:25,549 --> 01:37:27,008
+¡Lo creó Warren Robinett!
+
+1312
+01:37:27,175 --> 01:37:28,718
+El primero en ocultar un huevo...
+
+1313
+01:37:28,885 --> 01:37:29,886
+¡Amigo!
+
+1314
+01:37:34,933 --> 01:37:37,602
+Buscamos un camión de USPS,
+matrícula de Ohio,
+
+1315
+01:37:37,769 --> 01:37:40,772
+un escupidor de drones, modelo 2036.
+
+1316
+01:37:49,489 --> 01:37:52,951
+{\an8}BUSCANDO - SIN COINCIDENCIAS
+
+1317
+01:37:59,332 --> 01:38:02,669
+¡Daito! ¿Cuándo vas a pelear?
+
+1318
+01:38:16,391 --> 01:38:17,767
+Me quedé sin municiones.
+
+1319
+01:38:17,934 --> 01:38:18,935
+Es mi último cargador.
+
+1320
+01:38:19,102 --> 01:38:20,145
+¡Más armas!
+
+1321
+01:38:20,312 --> 01:38:22,314
+¡Cañón de orden antipersonal!
+
+1322
+01:38:22,480 --> 01:38:24,524
+¡Cañón de orden antipersonal!
+
+1323
+01:38:27,360 --> 01:38:28,653
+¡Cañón de riel!
+
+1324
+01:38:28,820 --> 01:38:30,030
+¡Cañón de riel!
+
+1325
+01:38:35,243 --> 01:38:36,411
+¡Zeta!
+
+1326
+01:38:36,953 --> 01:38:40,582
+¡Zeta! ¡Prueba este pequeñín!
+
+1327
+01:38:45,837 --> 01:38:47,672
+¡Deshazte de eso!
+
+1328
+01:38:48,798 --> 01:38:50,592
+¡Es el maldito Chucky!
+
+1329
+01:38:55,930 --> 01:38:57,432
+¡Muévanse!
+
+1330
+01:38:58,016 --> 01:38:59,517
+¡Rápido!
+
+1331
+01:39:57,283 --> 01:39:58,910
+¡Mechagodzilla!
+
+1332
+01:40:19,973 --> 01:40:23,309
+Daito, ¡te necesitamos! ¡Ahora!
+
+1333
+01:40:23,476 --> 01:40:25,645
+Ve al puente. Ahora, está distraído.
+
+1334
+01:40:25,812 --> 01:40:26,688
+Rápido.
+
+1335
+01:40:42,954 --> 01:40:44,414
+{\an8}Elijo la forma de Gundam
+
+1336
+01:41:08,104 --> 01:41:09,189
+¡Zeta!
+
+1337
+01:41:29,000 --> 01:41:29,918
+¡Arty!
+
+1338
+01:41:30,084 --> 01:41:32,462
+¡Ve al castillo!
+¡Gana la llave antes que ellos!
+
+1339
+01:41:44,098 --> 01:41:45,308
+¿Qué es eso?
+
+1340
+01:41:45,475 --> 01:41:48,311
+¡Solo tiene 30 segundos
+y perderá la forma!
+
+1341
+01:41:59,405 --> 01:42:02,408
+Daito, ¡cancela! ¡Te quedan diez segundos!
+
+1342
+01:42:16,965 --> 01:42:18,299
+¡A ganar el huevo!
+
+1343
+01:42:57,505 --> 01:42:58,923
+Maldición, es ella.
+
+1344
+01:43:18,860 --> 01:43:21,404
+¡Arty!
+
+1345
+01:43:22,196 --> 01:43:24,407
+¡Zeta! ¡Tienes que ir al castillo!
+
+1346
+01:43:30,747 --> 01:43:33,333
+Nunca se fue. Sigue aquí.
+
+1347
+01:43:36,294 --> 01:43:37,921
+Está en la sala de operaciones.
+
+1348
+01:44:15,959 --> 01:44:17,627
+No.
+
+1349
+01:44:32,850 --> 01:44:34,310
+ <i>¡Sho! ¡Sostente! </i>
+
+1350
+01:44:53,621 --> 01:44:55,206
+¡No!
+
+1351
+01:45:17,687 --> 01:45:19,188
+Arty, podemos hacerlo. Sal.
+
+1352
+01:45:19,605 --> 01:45:22,191
+Si el juego es <i>Adventure, </i>
+¿por qué aún no ganaron?
+
+1353
+01:45:22,358 --> 01:45:24,068
+No sé. Arty.
+
+1354
+01:45:24,235 --> 01:45:26,279
+En serio, Sorrento está loco. Te matará.
+
+1355
+01:45:28,406 --> 01:45:29,866
+ <i>¿Qué miras? </i>
+
+1356
+01:45:30,366 --> 01:45:32,118
+No hay nada ahí.
+
+1357
+01:45:33,202 --> 01:45:34,287
+Estás en problemas, ¿verdad?
+
+1358
+01:45:37,623 --> 01:45:41,002
+Samantha, sabes que te amo.
+
+1359
+01:45:41,169 --> 01:45:42,378
+No es momento, Zeta.
+
+1360
+01:45:42,545 --> 01:45:43,838
+Puedo enfrentar el desafío,
+
+1361
+01:45:44,005 --> 01:45:45,840
+pero no que te hieran en el mundo real.
+
+1362
+01:45:47,091 --> 01:45:50,261
+Sal de IOI y encuéntranos en River South.
+
+1363
+01:45:56,642 --> 01:45:58,186
+Wade, no.
+
+1364
+01:45:58,352 --> 01:46:00,063
+Juro que me perdonarás por esto.
+
+1365
+01:46:00,229 --> 01:46:01,481
+Wade, no.
+
+1366
+01:46:11,491 --> 01:46:14,494
+Recobra el sentido, sixer. Revive.
+
+1367
+01:46:14,952 --> 01:46:16,120
+Vamos, vuelve.
+
+1368
+01:46:16,287 --> 01:46:17,497
+Estás en funciones.
+
+1369
+01:46:35,765 --> 01:46:38,226
+¡Granada de mano bendita! ¿Cuánto costó?
+
+1370
+01:46:38,392 --> 01:46:40,853
+Menos de lo que le costará a ellos.
+
+1371
+01:46:41,979 --> 01:46:43,481
+¿Qué es eso?
+
+1372
+01:46:53,866 --> 01:46:56,410
+Señor, los gunters se acercan al desafío.
+
+1373
+01:46:56,577 --> 01:46:58,454
+-¿i-R0k?
+-En posición, señor.
+
+1374
+01:46:58,621 --> 01:46:59,705
+Preparen mi equipo.
+
+1375
+01:46:59,872 --> 01:47:02,500
+El hielo aguanta. Todavía sigue ahí.
+
+1376
+01:47:12,844 --> 01:47:14,011
+Un momento.
+
+1377
+01:47:14,178 --> 01:47:15,429
+Trata de ganar.
+
+1378
+01:47:18,683 --> 01:47:21,352
+¡Bien! Gané.
+
+1379
+01:47:24,730 --> 01:47:26,232
+Perdió.
+
+1380
+01:47:26,691 --> 01:47:28,693
+No es <i>Adventure. </i>
+
+1381
+01:47:32,822 --> 01:47:37,118
+Todos los que ganan pierden.
+
+1382
+01:47:37,285 --> 01:47:40,580
+No se trata de ganar, sino de jugar.
+
+1383
+01:47:41,706 --> 01:47:43,583
+Recuerda el anuncio de Halliday.
+
+1384
+01:47:44,208 --> 01:47:46,460
+Las llaves son invisibles,
+ocultas en una sala secreta
+
+1385
+01:47:46,627 --> 01:47:48,588
+en medio de un laberinto.
+
+1386
+01:47:49,213 --> 01:47:52,717
+ <i>Adventure </i> guarda un secreto,
+no hay que ganar para hallarlo.
+
+1387
+01:47:52,884 --> 01:47:55,303
+Hay que caminar por una sala secreta.
+
+1388
+01:47:55,803 --> 01:47:57,346
+Hasta dar con el punto invisible.
+
+1389
+01:47:57,513 --> 01:47:59,056
+Es fácil si sabes lo que haces.
+
+1390
+01:47:59,223 --> 01:48:00,600
+ <i>¿En serio? </i>
+
+1391
+01:48:01,392 --> 01:48:03,436
+Déjame terminarlo por ti.
+
+1392
+01:48:07,732 --> 01:48:08,983
+Es tu última oportunidad, Wade.
+
+1393
+01:48:09,650 --> 01:48:12,403
+Tu última oportunidad. Dame la llave.
+
+1394
+01:48:12,570 --> 01:48:16,657
+Pondré 50 millones en tu cuenta ya mismo.
+
+1395
+01:48:17,617 --> 01:48:19,493
+¿Por qué diablos haría eso?
+
+1396
+01:48:21,162 --> 01:48:22,955
+¡Amigo! Es el Cataclista.
+
+1397
+01:48:23,122 --> 01:48:24,832
+En lo personal, no me importa.
+
+1398
+01:48:24,999 --> 01:48:26,584
+Jamás volvería al OASIS
+
+1399
+01:48:26,751 --> 01:48:28,753
+y menos a lidiar con este disparate.
+
+1400
+01:48:28,920 --> 01:48:32,215
+Pero sé lo que te importa
+el concurso, así que...
+
+1401
+01:48:34,133 --> 01:48:38,387
+Nunca dejaré en sus manos
+el futuro del OASIS, Nolan Sorrento.
+
+1402
+01:48:38,554 --> 01:48:42,433
+Muy bien. Tres pasos sencillos. Uno.
+
+1403
+01:48:42,600 --> 01:48:44,894
+Espera, creí que mentías.
+Nos matará a todos.
+
+1404
+01:48:45,061 --> 01:48:46,979
+Llevo diez años acumulando poder.
+
+1405
+01:48:47,146 --> 01:48:48,648
+Última oportunidad. Dos.
+
+1406
+01:48:48,814 --> 01:48:50,024
+No moriré así.
+
+1407
+01:48:50,191 --> 01:48:52,735
+En una cobardía de novatos.
+Ni sabes usar un orbe.
+
+1408
+01:49:05,039 --> 01:49:06,249
+Sí, eso dolió.
+
+1409
+01:49:07,541 --> 01:49:09,752
+Pero este es mi mundo, Sorrento.
+
+1410
+01:49:13,589 --> 01:49:14,966
+¡Hadouken!
+
+1411
+01:49:34,527 --> 01:49:35,361
+¡No!
+
+1412
+01:49:35,528 --> 01:49:36,904
+Paso tres.
+
+1413
+01:49:37,071 --> 01:49:38,781
+¡No!
+
+1414
+01:50:36,297 --> 01:50:37,965
+Quítenme esta cosa.
+
+1415
+01:50:53,856 --> 01:50:55,107
+¿Chicos?
+
+1416
+01:51:01,697 --> 01:51:03,657
+Zeta, ¡sigue vivo!
+
+1417
+01:51:08,454 --> 01:51:10,373
+{\an8}VIDA EXTRA
+
+1418
+01:51:11,457 --> 01:51:13,376
+Vida extra.
+
+1419
+01:51:15,669 --> 01:51:17,213
+Gracias, curador.
+
+1420
+01:51:20,091 --> 01:51:21,175
+Aguarden.
+
+1421
+01:51:21,342 --> 01:51:24,428
+PRIMER PUESTO - PARZIVAL
+
+1422
+01:51:26,263 --> 01:51:27,264
+RECIBIENDO EN VIVO
+
+1423
+01:51:27,431 --> 01:51:28,391
+{\an8}PARZIVAL JUEGA POR LA LLAVE DE CRISTAL
+
+1424
+01:51:28,933 --> 01:51:30,935
+En vivo en todos los canales del OASIS.
+
+1425
+01:51:31,560 --> 01:51:33,979
+Halliday les muestra a todos
+el final del concurso.
+
+1426
+01:51:34,146 --> 01:51:35,356
+Típico de Halliday.
+
+1427
+01:51:35,523 --> 01:51:37,608
+Maldita sea, probamos con <i>Adventure. </i>
+
+1428
+01:51:37,775 --> 01:51:39,068
+No, intentamos ganar.
+
+1429
+01:51:39,235 --> 01:51:41,654
+Pero la sala secreta no está
+al final del juego.
+
+1430
+01:51:41,821 --> 01:51:44,573
+Tienes que ir
+al punto invisible al comienzo.
+
+1431
+01:51:47,326 --> 01:51:50,788
+ENRÓLATE HOY
+INNOVATIVE ONLINE INDUSTRIES
+
+1432
+01:51:58,045 --> 01:51:59,130
+¿Es ella?
+
+1433
+01:51:59,296 --> 01:52:03,384
+¿Pelirroja con uniforme de IOI?
+¿Ignora en qué planeta está?
+
+1434
+01:52:03,551 --> 01:52:04,552
+Es ella.
+
+1435
+01:52:16,272 --> 01:52:18,983
+Soy Toshiro. Me conoces como Daito.
+
+1436
+01:52:25,698 --> 01:52:27,116
+Hola, Arty.
+
+1437
+01:52:29,160 --> 01:52:33,164
+Sí, lo sé.
+No era lo que esperabas, ¿verdad?
+
+1438
+01:52:33,330 --> 01:52:37,877
+Sí, no esperaba una furgoneta postal
+de finales de la década de 2030.
+
+1439
+01:52:39,962 --> 01:52:40,796
+¿Wade?
+
+1440
+01:52:41,672 --> 01:52:43,924
+Si estalló el Cataclista,
+¿cómo es que sigues?
+
+1441
+01:52:44,091 --> 01:52:46,594
+Vida extra, una larga historia.
+Perdón por dispararte.
+
+1442
+01:52:48,929 --> 01:52:50,389
+¿Sho?
+
+1443
+01:52:50,556 --> 01:52:52,933
+¿Qué? ¿Debo llevar un letrero que diga:
+
+1444
+01:52:53,100 --> 01:52:56,061
+"Tengo 11 años, mátame primero"?
+No, gracias.
+
+1445
+01:52:56,228 --> 01:52:58,397
+-Dame un abrazo.
+-¡Los ninjas no abrazan!
+
+1446
+01:52:58,564 --> 01:53:00,065
+Sujétense a algo.
+
+1447
+01:53:21,879 --> 01:53:23,172
+{\an8}Los tengo.
+
+1448
+01:53:26,926 --> 01:53:28,761
+Vamos, Nolan. Atiende.
+
+1449
+01:53:30,846 --> 01:53:33,516
+F ́Nale, dame una buena noticia.
+
+1450
+01:53:33,682 --> 01:53:36,060
+Tengo un dron pisándoles los talones.
+
+1451
+01:53:36,227 --> 01:53:37,269
+ <i>Envíame las coordenadas. </i>
+
+1452
+01:53:37,436 --> 01:53:39,647
+Deberías dejármelo a mí, Nolan.
+
+1453
+01:53:41,524 --> 01:53:44,235
+¿Nolan? Nolan.
+
+1454
+01:53:45,569 --> 01:53:46,695
+Fuera.
+
+1455
+01:53:55,663 --> 01:53:57,540
+Dame eso.
+
+1456
+01:54:01,835 --> 01:54:03,254
+ <i>¿Qué pasa? </i>
+
+1457
+01:54:07,925 --> 01:54:10,511
+El juego terminó para ellos. ¿Qué miran?
+
+1458
+01:54:12,888 --> 01:54:15,307
+¡La última llave! Transmiten en vivo.
+
+1459
+01:54:17,268 --> 01:54:18,769
+ <i>Verán... </i>
+
+1460
+01:54:18,936 --> 01:54:21,480
+ <i>Warren Robinett estaba </i>
+ <i>orgulloso de </i> Adventure.
+
+1461
+01:54:21,647 --> 01:54:23,983
+ <i>Quería que supieran quién estaba detrás. </i>
+
+1462
+01:54:24,733 --> 01:54:27,278
+Por eso creó el primer huevo de Pascua,
+
+1463
+01:54:27,444 --> 01:54:29,989
+y para hallarlo,
+ni siquiera debías ganar.
+
+1464
+01:54:30,155 --> 01:54:34,159
+Tenías que jugar a ciegas y buscar
+
+1465
+01:54:34,326 --> 01:54:37,413
+un punto invisible en las habitaciones.
+
+1466
+01:54:38,455 --> 01:54:40,874
+Lo ponías en la pantalla principal
+
+1467
+01:54:41,041 --> 01:54:45,504
+y encontrabas el primer huevo de Pascua
+incluido en un juego.
+
+1468
+01:54:45,671 --> 01:54:46,922
+El nombre del creador.
+
+1469
+01:54:47,089 --> 01:54:48,591
+Creado por Warren Robinett
+
+1470
+01:55:11,614 --> 01:55:13,532
+¿Qué pasa? No veo nada.
+
+1471
+01:55:13,699 --> 01:55:15,200
+¡Parzival ganó la Llave de Cristal!
+
+1472
+01:55:30,382 --> 01:55:32,217
+¿La quieres o no?
+
+1473
+01:55:35,429 --> 01:55:37,348
+Hache, ¿qué rayos pasa?
+
+1474
+01:55:37,514 --> 01:55:39,350
+Juego al <i>Mario Cart. </i> ¿Qué crees?
+
+1475
+01:55:39,516 --> 01:55:41,310
+¡IOI intenta matarnos!
+
+1476
+01:55:55,824 --> 01:55:57,993
+Gente de las torres de Columbus,
+
+1477
+01:55:58,160 --> 01:55:59,453
+les habla Parzival.
+
+1478
+01:55:59,620 --> 01:56:02,247
+Mi nombre real es Wade Watts,
+necesitamos su ayuda.
+
+1479
+01:56:02,414 --> 01:56:03,832
+Hache, ¡ve a las torres!
+
+1480
+01:56:03,999 --> 01:56:05,626
+De acuerdo, ¡sujétense!
+
+1481
+01:56:30,901 --> 01:56:32,986
+Mete la llave, es sencillo.
+
+1482
+01:56:38,575 --> 01:56:39,868
+Vamos.
+
+1483
+01:56:47,209 --> 01:56:49,336
+¡Bien!
+
+1484
+01:57:05,352 --> 01:57:06,729
+¿Es todo?
+
+1485
+01:57:07,396 --> 01:57:08,439
+Así es.
+
+1486
+01:57:08,605 --> 01:57:13,610
+Solo firma estos documentos,
+y el OASIS será tuyo.
+
+1487
+01:57:13,777 --> 01:57:17,906
+Serás el único dueño.
+
+1488
+01:57:18,073 --> 01:57:19,700
+Nada mal, ¿verdad?
+
+1489
+01:57:41,513 --> 01:57:42,598
+Necesito un momento.
+
+1490
+01:58:05,245 --> 01:58:08,207
+{\an8}RECONOCE Y ACEPTA
+WADE WATTS - NOMBRE DEL COMPRADOR
+
+1491
+01:58:11,251 --> 01:58:13,253
+Esto está mal.
+
+1492
+01:58:13,879 --> 01:58:16,757
+Esta pluma, el contrato.
+
+1493
+01:58:20,010 --> 01:58:23,639
+Es cuando Halliday hizo que Morrow
+cediera sus acciones de Gregarious.
+
+1494
+01:58:24,348 --> 01:58:26,433
+Fue el mayor error de su vida.
+
+1495
+01:58:27,017 --> 01:58:28,560
+Él lo sabía.
+
+1496
+01:58:30,896 --> 01:58:32,564
+Este no puede ser el final.
+
+1497
+01:58:34,149 --> 01:58:35,859
+Es una prueba.
+
+1498
+01:58:40,405 --> 01:58:43,075
+No cometeré el mismo error que tú.
+
+1499
+01:58:48,789 --> 01:58:50,666
+Bien.
+
+1500
+01:58:53,377 --> 01:58:56,797
+Solo quería estar seguro.
+
+1501
+01:59:10,811 --> 01:59:13,021
+Este es el lugar donde creciste.
+
+1502
+01:59:22,281 --> 01:59:24,658
+Soy yo hace mucho tiempo.
+
+1503
+01:59:25,242 --> 01:59:27,953
+Me gusta que esté cerca de vez en cuando.
+
+1504
+01:59:28,829 --> 01:59:30,455
+ <i>Te mostraré algo. </i>
+
+1505
+01:59:31,123 --> 01:59:32,666
+Este... Ven.
+
+1506
+01:59:32,833 --> 01:59:34,501
+Este es el botón.
+
+1507
+01:59:34,668 --> 01:59:37,796
+Si lo presionas,
+toda la simulación se apagará
+
+1508
+01:59:37,963 --> 01:59:41,425
+y un programa borrará
+todos los servidores de respaldo.
+
+1509
+01:59:41,592 --> 01:59:44,845
+Ahora tienes el poder
+de apagar el OASIS para siempre.
+
+1510
+01:59:45,345 --> 01:59:46,930
+¿Lo comprendes?
+
+1511
+01:59:52,352 --> 01:59:53,353
+Bien...
+
+1512
+01:59:53,520 --> 01:59:58,150
+Trata de no borrar sin querer
+el OASIS en tu primer día.
+
+1513
+02:00:07,534 --> 02:00:09,244
+¡Las torres están justo enfrente!
+
+1514
+02:00:25,052 --> 02:00:27,846
+ <i>Imagino que tendrás que irte. </i>
+ <i>Yo debo irme. </i>
+
+1515
+02:00:28,013 --> 02:00:30,390
+Es hora de que recibas tu premio,
+
+1516
+02:00:30,557 --> 02:00:32,935
+ya que ganaste las tres llaves.
+
+1517
+02:00:33,101 --> 02:00:37,105
+Apenas tomes este huevo,
+terminará el juego.
+
+1518
+02:00:37,814 --> 02:00:40,859
+El huevo...
+
+1519
+02:00:48,325 --> 02:00:50,577
+Sabemos lo que hiciste aquí.
+
+1520
+02:00:50,744 --> 02:00:54,039
+Gira y lárgate mientras puedes.
+
+1521
+02:01:06,677 --> 02:01:09,054
+Creé el OASIS
+
+1522
+02:01:09,221 --> 02:01:12,891
+porque nunca me sentí a gusto
+en el mundo real.
+
+1523
+02:01:13,976 --> 02:01:17,270
+No sabía cómo relacionarme con la gente.
+
+1524
+02:01:18,438 --> 02:01:21,316
+Tuve miedo toda la vida.
+
+1525
+02:01:21,942 --> 02:01:24,695
+Hasta que un día supe que iba a morir.
+
+1526
+02:01:30,325 --> 02:01:34,162
+Ahí, me di cuenta
+
+1527
+02:01:35,330 --> 02:01:40,419
+de que a pesar de lo aterradora
+y dolorosa que sea la realidad
+
+1528
+02:01:41,294 --> 02:01:45,298
+también es el único lugar
+
+1529
+02:01:46,967 --> 02:01:48,593
+donde se come decentemente.
+
+1530
+02:01:55,267 --> 02:01:56,768
+Porque...
+
+1531
+02:01:58,520 --> 02:02:00,105
+La realidad...
+
+1532
+02:02:05,277 --> 02:02:06,778
+Es real.
+
+1533
+02:02:07,112 --> 02:02:08,780
+¿Comprendes lo que digo?
+
+1534
+02:02:10,490 --> 02:02:13,118
+Sí, comprendo.
+
+1535
+02:02:22,919 --> 02:02:24,171
+Lo logró.
+
+1536
+02:02:25,881 --> 02:02:27,340
+Ganó el huevo.
+
+1537
+02:02:28,175 --> 02:02:29,426
+Hurra.
+
+1538
+02:02:30,594 --> 02:02:32,220
+-¡No!
+-¡No! ¡Por favor!
+
+1539
+02:03:05,796 --> 02:03:07,047
+ <i>¡Alto! </i>
+
+1540
+02:03:09,132 --> 02:03:12,135
+¡Deje el arma! ¡Ahora! ¡En el piso!
+
+1541
+02:03:12,886 --> 02:03:15,472
+¡Dese vuelta! Manos en la cabeza.
+
+1542
+02:03:15,639 --> 02:03:17,182
+Retroceda hacia mí.
+
+1543
+02:03:22,229 --> 02:03:24,272
+FIN DEL JUEGO
+
+1544
+02:03:32,906 --> 02:03:37,327
+Sr. Halliday. Hay algo que no entiendo.
+
+1545
+02:03:38,161 --> 02:03:40,872
+No es un avatar, ¿verdad?
+
+1546
+02:03:41,498 --> 02:03:42,666
+No.
+
+1547
+02:03:44,668 --> 02:03:46,670
+¿Halliday murió de verdad?
+
+1548
+02:03:48,338 --> 02:03:49,506
+Sí.
+
+1549
+02:03:55,679 --> 02:03:57,430
+Entonces ¿qué es usted?
+
+1550
+02:04:00,684 --> 02:04:02,644
+Adiós, Parzival.
+
+1551
+02:04:04,312 --> 02:04:05,397
+Gracias.
+
+1552
+02:04:06,940 --> 02:04:09,151
+Gracias por jugar mi juego.
+
+1553
+02:04:38,180 --> 02:04:39,472
+¿Wade?
+
+1554
+02:04:40,891 --> 02:04:42,642
+¿Ogden Morrow?
+
+1555
+02:04:42,809 --> 02:04:44,436
+Llámame Og.
+
+1556
+02:04:44,603 --> 02:04:47,355
+Hay personas aquí que desean conocerte.
+
+1557
+02:04:47,939 --> 02:04:50,609
+Esto es increíble.
+
+1558
+02:04:51,193 --> 02:04:53,945
+Es un honor conocerlo, Og, pero...
+
+1559
+02:04:58,158 --> 02:04:59,826
+Antes tengo que hacer algo.
+
+1560
+02:05:03,747 --> 02:05:05,498
+Yo no soy como Halliday.
+
+1561
+02:05:09,252 --> 02:05:11,296
+Yo daré el salto.
+
+1562
+02:05:27,771 --> 02:05:28,980
+Buscamos a Wade Watts.
+
+1563
+02:05:30,899 --> 02:05:32,984
+Debes declarar
+sobre el video que enviaste
+
+1564
+02:05:33,151 --> 02:05:35,070
+con la confesión de Nolan Sorrento.
+
+1565
+02:05:36,112 --> 02:05:37,447
+Lo envié yo.
+
+1566
+02:05:38,114 --> 02:05:40,659
+¿Qué? En mi taller grabo todo.
+
+1567
+02:05:46,957 --> 02:05:48,833
+Ayúdame a quitarme esto.
+
+1568
+02:05:55,298 --> 02:05:56,591
+¿Quiénes son ustedes?
+
+1569
+02:05:57,592 --> 02:06:01,888
+Justo la gente que necesitas, abogados.
+De Gregarious Games.
+
+1570
+02:06:04,724 --> 02:06:06,351
+Quieren tu firma, Wade.
+
+1571
+02:06:14,317 --> 02:06:16,403
+Lo dividiré con mi clan.
+
+1572
+02:06:16,569 --> 02:06:18,363
+Nos encargaremos de esto juntos.
+
+1573
+02:06:22,909 --> 02:06:24,661
+Es una buena elección.
+
+1574
+02:06:52,897 --> 02:06:55,942
+F ́Nale, escúchame bien.
+
+1575
+02:07:05,160 --> 02:07:07,912
+Sr. Morrow... Quiero decir, Og...
+
+1576
+02:07:08,079 --> 02:07:09,372
+¿Cómo llegó tan rápido?
+
+1577
+02:07:09,539 --> 02:07:11,750
+Volé en mi trineo mágico
+desde las estrellas.
+
+1578
+02:07:12,876 --> 02:07:14,711
+Todos estábamos mirando.
+
+1579
+02:07:14,878 --> 02:07:18,089
+Claro, yo miraba
+desde más cerca que la mayoría.
+
+1580
+02:07:22,135 --> 02:07:23,553
+¿Es usted?
+
+1581
+02:07:24,054 --> 02:07:25,263
+¿Es el curador?
+
+1582
+02:07:29,017 --> 02:07:31,227
+Bien pensado, Parzival.
+
+1583
+02:07:32,479 --> 02:07:34,356
+Jim no me contó nada del concurso,
+
+1584
+02:07:34,522 --> 02:07:37,734
+así que no había regla alguna
+si perdía una apuesta con un chico listo.
+
+1585
+02:07:37,901 --> 02:07:39,569
+No es que necesitaras ayuda.
+
+1586
+02:07:40,528 --> 02:07:44,491
+Descubriste tú solo que Kira era la llave.
+
+1587
+02:07:44,866 --> 02:07:47,494
+Sí, pero Kira no era la llave.
+
+1588
+02:07:48,828 --> 02:07:50,705
+Era usted, Sr. Morrow.
+
+1589
+02:07:52,832 --> 02:07:54,501
+Usted era el Rosebud.
+
+1590
+02:07:54,667 --> 02:07:56,878
+Y la mayor pena de Halliday fue...
+
+1591
+02:07:58,588 --> 02:08:00,173
+Perder a su único amigo.
+
+1592
+02:08:04,427 --> 02:08:06,596
+Jim decía que el OASIS
+
+1593
+02:08:06,763 --> 02:08:09,224
+no debía ser
+un juego de un solo jugador.
+
+1594
+02:08:12,936 --> 02:08:15,563
+¿A quiénes tenemos aquí?
+
+1595
+02:08:15,730 --> 02:08:18,233
+Miren quiénes son.
+
+1596
+02:08:18,400 --> 02:08:19,984
+Mis héroes, los High Five.
+
+1597
+02:08:20,151 --> 02:08:21,653
+-Tú debes ser Art3mis.
+-Samantha.
+
+1598
+02:08:21,820 --> 02:08:23,613
+ <i>Nos hicimos cargo del OASIS </i>
+
+1599
+02:08:23,780 --> 02:08:25,240
+ <i>y lo primero fue </i>
+
+1600
+02:08:25,407 --> 02:08:28,743
+ <i>contratar a Ogden Morrow </i>
+ <i>como asesor no exclusivo. </i>
+
+1601
+02:08:28,910 --> 02:08:31,746
+ <i>Solicitó un sueldo </i>
+
+1602
+02:08:31,913 --> 02:08:34,999
+ <i>de 25 centavos. Una moneda. </i>
+
+1603
+02:08:38,378 --> 02:08:39,421
+ <i>Con sus consejos, </i>
+
+1604
+02:08:39,587 --> 02:08:43,466
+ <i>lo segundo fue prohibir </i>
+ <i>el ingreso de los centros de lealtad. </i>
+
+1605
+02:08:44,259 --> 02:08:47,679
+ <i>IOI no tuvo alternativa. </i>
+ <i>Los cerraron todos. </i>
+
+1606
+02:08:50,473 --> 02:08:52,934
+ <i>Lo tercero no fue muy popular. </i>
+
+1607
+02:08:53,476 --> 02:08:56,604
+ <i>Cerramos el OASIS los martes y jueves. </i>
+
+1608
+02:08:57,480 --> 02:08:59,816
+ <i>Sé que parece una medida extraña, </i>
+
+1609
+02:08:59,983 --> 02:09:02,861
+ <i>pero hay que pasar más tiempo </i>
+ <i>en el mundo real. </i>
+
+1610
+02:09:04,529 --> 02:09:07,449
+ <i>Porque como dijo Halliday, </i>
+
+1611
+02:09:07,615 --> 02:09:11,953
+ <i>la realidad es lo único real. </i>
+
+1612
+02:11:33,928 --> 02:11:37,807
+READY PLAYER ONE
+COMIENZA EL JUEGO
+
+1613
+02:19:47,505 --> 02:19:48,506
+Spanish - LA
