@@ -1,0 +1,6836 @@
+1
+00:00:15,516 --> 00:00:21,522
+WILLY WONKA
+Y LA FÁBRICA DE CHOCOLATES
+
+2
+00:02:45,666 --> 00:02:48,627
+Bueno, bueno, ¿qué van a llevar?
+
+3
+00:02:48,710 --> 00:02:51,213
+Un Cono de Crema triple
+para Christopher.
+
+4
+00:02:51,296 --> 00:02:53,882
+Un Chapaleado Bufo para Otis.
+
+5
+00:02:53,966 --> 00:02:57,302
+Un Chirrido para June Marie. ¡Oigan!
+
+6
+00:02:57,386 --> 00:02:59,930
+-Hoy Wonka tiene uno nuevo.
+-¿Cómo es?
+
+7
+00:03:00,013 --> 00:03:02,349
+Es el Dulce Rechupeteanchus.
+
+8
+00:03:03,267 --> 00:03:05,644
+¿Dulce Rechupeteanchus?
+¿Cómo lo hace?
+
+9
+00:03:05,727 --> 00:03:07,771
+¿Le preguntas a un pez cómo nada?
+
+10
+00:03:07,938 --> 00:03:10,315
+-No.
+-¿O a un pájaro cómo vuela?
+
+11
+00:03:10,399 --> 00:03:11,567
+No les preguntas.
+
+12
+00:03:11,650 --> 00:03:13,485
+Porque nacieron para hacerlo.
+
+13
+00:03:13,569 --> 00:03:16,655
+Así como Willy Wonka nació
+para ser caramelero
+
+14
+00:03:17,239 --> 00:03:19,366
+y tú naciste para ser
+un Wonkareador.
+
+15
+00:03:19,783 --> 00:03:22,911
+¿Quién puede tomar el amanecer
+
+16
+00:03:22,995 --> 00:03:25,706
+Salpicarlo de rocío
+
+17
+00:03:26,707 --> 00:03:30,335
+Cubrirlo con chocolate
+Y con uno o dos milagros?
+
+18
+00:03:30,419 --> 00:03:32,129
+¡El Caramelero!
+
+19
+00:03:33,547 --> 00:03:35,465
+El Caramelero puede
+
+20
+00:03:37,050 --> 00:03:40,012
+El Caramelero puede
+Porque los mezcla con amor
+
+21
+00:03:40,095 --> 00:03:42,556
+Y torna al mundo de buen sabor
+
+22
+00:03:44,141 --> 00:03:47,436
+¿Quién puede tomar el arco iris
+
+23
+00:03:47,519 --> 00:03:49,479
+Y envolverlo en un suspiro
+
+24
+00:03:50,981 --> 00:03:54,693
+Empaparlo en el sol
+Y hacer pastel de fresas y limón?
+
+25
+00:03:54,776 --> 00:03:56,195
+¿El Caramelero?
+
+26
+00:03:56,278 --> 00:03:57,988
+¡El Caramelero!
+
+27
+00:03:58,906 --> 00:04:00,741
+¡El Caramelero puede!
+
+28
+00:04:01,575 --> 00:04:04,536
+Porque los mezcla con amor
+Y torna al mundo
+
+29
+00:04:04,620 --> 00:04:07,497
+de buen sabor
+
+30
+00:04:08,582 --> 00:04:10,125
+Willy Wonka hace
+
+31
+00:04:10,209 --> 00:04:11,877
+Todo lo que hornea
+
+32
+00:04:11,960 --> 00:04:15,464
+Llenador y delicioso
+
+33
+00:04:15,547 --> 00:04:18,550
+Y cuenta tus deseos de tu infancia
+
+34
+00:04:18,634 --> 00:04:21,094
+Y podrás comer con constancia
+
+35
+00:04:32,856 --> 00:04:34,983
+¿Quién puede coger el mañana
+
+36
+00:04:35,067 --> 00:04:37,277
+Zambullirlo en un sueño
+
+37
+00:04:37,861 --> 00:04:41,114
+Separar el dolor
+Y recoger la blanca crema?
+
+38
+00:04:41,365 --> 00:04:44,493
+- El Caramelero
+- Willy Wonka puede
+
+39
+00:04:44,576 --> 00:04:47,287
+El Caramelero puede
+
+40
+00:04:48,539 --> 00:04:52,668
+El Caramelero puede
+Porque los mezcla con amor
+
+41
+00:04:52,751 --> 00:04:56,505
+Y torna al mundo de buen sabor
+
+42
+00:04:58,298 --> 00:05:00,092
+Y el mundo sabe sabroso
+
+43
+00:05:01,468 --> 00:05:06,390
+Porque el Caramelero cree
+Que el mundo debe ser sabroso
+
+44
+00:05:26,159 --> 00:05:27,202
+Hola, señor Jopeck.
+
+45
+00:05:27,661 --> 00:05:30,330
+Vamos, Charlie. Ya vas retrasado.
+
+46
+00:05:32,249 --> 00:05:33,959
+Es día de paga, señor Jopeck.
+
+47
+00:05:34,042 --> 00:05:35,210
+Tienes razón.
+
+48
+00:05:36,003 --> 00:05:38,297
+-Aquí tienes.
+-Gracias.
+
+49
+00:05:39,089 --> 00:05:41,091
+Salúdame a tu abuelo Joe.
+
+50
+00:06:24,343 --> 00:06:26,553
+Arriba en la fresca montaña,
+
+51
+00:06:26,637 --> 00:06:28,972
+abajo por el río en el llano.
+
+52
+00:06:29,056 --> 00:06:31,350
+No nos atrevemos a ir de caza
+
+53
+00:06:31,433 --> 00:06:34,478
+por miedo a los hombres pequeños.
+
+54
+00:06:34,770 --> 00:06:36,355
+Ya ves...
+
+55
+00:06:37,356 --> 00:06:39,107
+nadie entra...
+
+56
+00:06:42,778 --> 00:06:44,863
+nadie sale.
+
+57
+00:06:55,290 --> 00:06:56,834
+Charlie no ha llegado.
+
+58
+00:06:56,917 --> 00:06:59,753
+Trabaja muy duro para ser un niño.
+
+59
+00:06:59,837 --> 00:07:02,089
+Debería de tener tiempo para jugar.
+
+60
+00:07:02,172 --> 00:07:04,258
+No hay suficientes horas en el día.
+
+61
+00:07:04,341 --> 00:07:06,677
+Con ustedes cuatro en cama por 20 años...
+
+62
+00:07:06,760 --> 00:07:09,763
+se trabaja duro
+para mantener a esta familia.
+
+63
+00:07:09,847 --> 00:07:12,266
+Si tan solo su padre estuviera vivo.
+
+64
+00:07:12,349 --> 00:07:16,103
+Cuando recobre mis fuerzas,
+me levantaré para ayudarlo.
+
+65
+00:07:16,186 --> 00:07:19,398
+En todos estos años
+que lo has dicho
+
+66
+00:07:19,815 --> 00:07:22,651
+aún no te he visto
+poner un pie en el piso.
+
+67
+00:07:23,819 --> 00:07:26,488
+Tal vez si el piso
+no estuviera tan frío...
+
+68
+00:07:27,656 --> 00:07:29,116
+¡Hola a todos!
+
+69
+00:07:29,908 --> 00:07:32,578
+Despierten, ¡ya llegó Charlie!
+
+70
+00:07:33,829 --> 00:07:35,163
+Abuelo George.
+
+71
+00:07:36,832 --> 00:07:38,500
+Abuela Georgina.
+
+72
+00:07:38,834 --> 00:07:40,377
+Abuela Josephine.
+
+73
+00:07:41,753 --> 00:07:43,589
+¡Abuelo Joe!
+
+74
+00:07:46,133 --> 00:07:48,093
+¿Esta es tu cena, abuelo?
+
+75
+00:07:48,343 --> 00:07:50,220
+También es tuya.
+
+76
+00:07:50,304 --> 00:07:53,140
+Estoy enfadado de repollo.
+¡No es suficiente!
+
+77
+00:07:53,223 --> 00:07:56,268
+-¡Es todo lo que tenemos!
+-¿Qué estás diciendo?
+
+78
+00:07:57,603 --> 00:07:59,897
+-¿Qué les parece esto?
+-¿Dónde lo conseguiste?
+
+79
+00:07:59,980 --> 00:08:03,150
+¿Qué más da?
+Lo que importa es que lo trajo.
+
+80
+00:08:03,692 --> 00:08:04,985
+Mi primer pago.
+
+81
+00:08:05,068 --> 00:08:07,988
+Te felicito.
+Tendremos un gran banquete.
+
+82
+00:08:08,071 --> 00:08:09,281
+¿Mamá?
+
+83
+00:08:09,615 --> 00:08:12,618
+Aquí está lo que sobró.
+Tú guárdalo.
+
+84
+00:08:13,285 --> 00:08:14,995
+Con excepción de esto.
+
+85
+00:08:15,078 --> 00:08:17,748
+De aquí en adelante,
+yo pagaré por tu tabaco.
+
+86
+00:08:19,124 --> 00:08:22,419
+Nadie va a pagar por él.
+Voy a dejar la pipa.
+
+87
+00:08:23,253 --> 00:08:25,255
+Es nada más una al día.
+
+88
+00:08:25,339 --> 00:08:28,842
+Cuando el pan parece banquete,
+no tengo derecho al tabaco.
+
+89
+00:08:28,926 --> 00:08:30,719
+Anda, abuelo.
+
+90
+00:08:31,136 --> 00:08:33,138
+Por favor, tómalo.
+
+91
+00:08:39,645 --> 00:08:43,357
+Después de entregar periódicos,
+pasé enfrente de Wonka.
+
+92
+00:08:43,440 --> 00:08:45,734
+Allí estaba un hombre extraño.
+
+93
+00:08:46,568 --> 00:08:48,362
+Creo que era un latonero.
+
+94
+00:08:48,445 --> 00:08:51,949
+Estaba parado detrás de mí,
+mirando a la fábrica.
+
+95
+00:08:52,032 --> 00:08:54,284
+Antes de irse dijo:
+
+96
+00:08:54,368 --> 00:08:57,788
+"Nunca entra nadie,
+y nunca sale nadie".
+
+97
+00:08:57,871 --> 00:09:00,040
+Y tenía razón, Charlie.
+
+98
+00:09:00,123 --> 00:09:02,918
+Nadie, desde el trágico día
+que Wonka la cerró.
+
+99
+00:09:03,001 --> 00:09:04,086
+¿Por qué lo hizo?
+
+100
+00:09:04,336 --> 00:09:07,714
+Porque los otros chocolateros
+mandaban espías
+
+101
+00:09:07,798 --> 00:09:11,385
+para robar las recetas
+secretas del señor Wonka.
+
+102
+00:09:11,468 --> 00:09:15,430
+Especialmente Slugworth.
+Ese Slugworth ¡era el peor!
+
+103
+00:09:16,014 --> 00:09:18,725
+Finalmente, el señor Wonka gritó:
+"¡Me van a arruinar!".
+
+104
+00:09:18,809 --> 00:09:22,813
+"¡Se cierra la fábrica!"
+Y eso mismo hizo.
+
+105
+00:09:22,896 --> 00:09:26,525
+Cerró la puerta
+y se desapareció por completo.
+
+106
+00:09:26,775 --> 00:09:29,736
+Y de repente, como tres años después,
+
+107
+00:09:29,820 --> 00:09:32,489
+pasó algo muy asombroso.
+
+108
+00:09:32,573 --> 00:09:35,325
+La fábrica comenzó otra vez,
+¡a toda máquina!
+
+109
+00:09:35,409 --> 00:09:38,912
+Y estaba haciendo los dulces
+más deliciosos que jamás había hecho.
+
+110
+00:09:38,996 --> 00:09:42,249
+Pero las puertas siguieron cerradas.
+Para que nadie,
+
+111
+00:09:42,332 --> 00:09:45,169
+ni siquiera Slugworth,
+pudiera robárselos.
+
+112
+00:09:45,252 --> 00:09:49,423
+Abuelo, alguien debe estar ayudando
+al señor Wonka a trabajar la fábrica.
+
+113
+00:09:49,506 --> 00:09:51,383
+Deben ser miles.
+
+114
+00:09:51,466 --> 00:09:52,593
+¿Pero, quién?
+
+115
+00:09:52,676 --> 00:09:54,386
+¿Quiénes son?
+
+116
+00:09:54,887 --> 00:09:57,973
+Ese es el misterio más grande
+de todos.
+
+117
+00:10:00,184 --> 00:10:02,436
+-¿Charlie Bucket?
+-Sí, ¿señor Turkentine?
+
+118
+00:10:02,519 --> 00:10:04,730
+Necesito un ayudante.
+Ven a ayudarme.
+
+119
+00:10:07,900 --> 00:10:09,860
+Tenemos ácido nítrico, glicerina
+
+120
+00:10:09,943 --> 00:10:12,196
+y una mezcla mía especial.
+
+121
+00:10:12,279 --> 00:10:15,199
+Todas juntas,
+son peligrosas, pueden explotar.
+
+122
+00:10:15,282 --> 00:10:19,453
+Pero mezcladas bien,
+como sólo yo sé, ¿qué hacen?
+
+123
+00:10:19,536 --> 00:10:22,706
+-No lo sé.
+-¡Ya lo creo! Porque sólo yo sé.
+
+124
+00:10:22,789 --> 00:10:26,460
+Si tú lo supieras, estarías
+enseñándome en vez de yo a ti.
+
+125
+00:10:26,543 --> 00:10:31,215
+Y que un alumno le enseñe al maestro
+es una insolencia. ¿Está claro?
+
+126
+00:10:31,298 --> 00:10:32,716
+-Sí señor.
+-Bien.
+
+127
+00:10:32,799 --> 00:10:36,970
+Mezclados, juntos y correctamente,
+estos ingredientes peligrosos
+
+128
+00:10:37,054 --> 00:10:39,640
+hacen el mejor quita-verrugas.
+
+129
+00:10:40,015 --> 00:10:42,643
+El truco es verter partes iguales.
+
+130
+00:10:42,893 --> 00:10:46,230
+Charlie, toma
+el ácido nítrico y la glicerina
+
+131
+00:10:46,313 --> 00:10:49,274
+y yo cogeré
+mi mezcla especial. ¿Listo?
+
+132
+00:10:49,358 --> 00:10:51,568
+Buen chico. Échalo.
+
+133
+00:10:53,737 --> 00:10:55,239
+¿Lo hicimos mal?
+
+134
+00:10:55,322 --> 00:10:58,116
+Desde luego que no.
+Este es para verrugas grandes.
+
+135
+00:10:58,909 --> 00:11:00,911
+¿Qué pasa allá afuera?
+
+136
+00:11:03,413 --> 00:11:05,791
+¡Ven acá! ¿Qué sucede?
+
+137
+00:11:05,874 --> 00:11:08,252
+¡Willy Wonka está abriendo su
+fábrica!
+
+138
+00:11:08,544 --> 00:11:09,753
+¿Estás seguro?
+
+139
+00:11:09,837 --> 00:11:12,089
+Está regalando chocolates.
+
+140
+00:11:12,172 --> 00:11:15,300
+-¡Pueden retirarse!
+-¡Sólo a cinco personas!
+
+141
+00:11:15,384 --> 00:11:17,135
+¡No pueden retirarse!
+
+142
+00:11:17,219 --> 00:11:20,264
+Escondió cinco Boletos.
+Quien los encuentre gana el premio.
+
+143
+00:11:20,347 --> 00:11:22,850
+-¿Dónde los escondió?
+-¡En cinco Dulces Wonka!
+
+144
+00:11:22,933 --> 00:11:26,270
+-A comprar para encontrarlos.
+-¡La clase puede re-retirarse!
+
+145
+00:11:37,614 --> 00:11:39,783
+Y ahora, detalles del aviso
+
+146
+00:11:39,867 --> 00:11:42,411
+que ha atraído atención mundial.
+
+147
+00:11:42,786 --> 00:11:45,330
+Escondidos entre miles de millones
+de Dulces Wonka
+
+148
+00:11:45,414 --> 00:11:47,457
+están cinco Boletos Dorados.
+
+149
+00:11:47,541 --> 00:11:52,004
+Y a las cinco personas que los encuentren
+les tocará el premio más fabuloso.
+
+150
+00:11:52,087 --> 00:11:54,506
+Un suministro perpetuo de chocolate.
+
+151
+00:11:54,590 --> 00:11:58,468
+Si esto no fuera suficiente, cada
+ganador, antes de recibir su premio
+
+152
+00:11:58,552 --> 00:12:00,470
+será personalmente escoltado...
+
+153
+00:12:00,554 --> 00:12:02,014
+¡Se han vuelto locos!
+
+154
+00:12:02,097 --> 00:12:03,515
+¡El hombre es un genio!
+
+155
+00:12:03,599 --> 00:12:05,309
+Venderá un millón de Dulces.
+
+156
+00:12:06,476 --> 00:12:09,188
+¿Crees que tendré suerte
+de encontrar un Boleto?
+
+157
+00:12:09,271 --> 00:12:11,982
+¿Uno? ¡Cuento contigo
+para encontrar los cinco!
+
+158
+00:12:12,274 --> 00:12:13,650
+Con uno me basta.
+
+159
+00:12:13,734 --> 00:12:15,027
+Se reporta
+
+160
+00:12:15,110 --> 00:12:19,865
+¡que ha habido una reacción fenomenal!
+Los Dulces Wonka están desapareciendo
+
+161
+00:12:19,948 --> 00:12:22,326
+en cantidades que apenas
+pueden creerse.
+
+162
+00:12:22,409 --> 00:12:23,994
+Es increíble la manera
+
+163
+00:12:24,077 --> 00:12:26,997
+en que la Wonkamanía
+ha descendido sobre el globo.
+
+164
+00:12:27,080 --> 00:12:30,709
+Mientras que el mundo busca,
+observamos y esperamos, pensando
+
+165
+00:12:30,792 --> 00:12:34,546
+dónde va a terminar, y cuánto tiempo
+se va a sostener el espíritu
+
+166
+00:12:34,630 --> 00:12:35,839
+bajo la tensión.
+
+167
+00:12:35,923 --> 00:12:40,344
+Aún tengo estos sueños, doctor,
+y aún no puedo dejar de creerlos.
+
+168
+00:12:40,427 --> 00:12:42,304
+Ya le dije, señor Hoffstedder,
+
+169
+00:12:42,387 --> 00:12:45,432
+creer en los sueños
+es una manifestación de la locura.
+
+170
+00:12:45,516 --> 00:12:48,185
+Entre más pronto lo acepte,
+más pronto se pondrá bien.
+
+171
+00:12:48,810 --> 00:12:53,482
+Soñé que el arcángel murmuró en mi
+oído dónde encontrar el Boleto Dorado.
+
+172
+00:12:54,483 --> 00:12:55,901
+¿Y qué dijo?
+
+173
+00:12:55,984 --> 00:12:59,238
+¿Qué más da? Fue solo un sueño.
+
+174
+00:12:59,321 --> 00:13:02,407
+-Usted dijo...
+-¡Cállate y dime dónde está el Boleto!
+
+175
+00:13:02,783 --> 00:13:04,326
+Comenzamos
+con cinco Boletos Dorados.
+
+176
+00:13:04,409 --> 00:13:05,577
+INFORME DE LA TARDE
+
+177
+00:13:05,661 --> 00:13:09,706
+Como cinco rayos de suerte listos para
+caer en cualquier punto del mapa.
+
+178
+00:13:09,790 --> 00:13:12,793
+Nadie sabía dónde
+o cuándo saldría el primero.
+
+179
+00:13:12,876 --> 00:13:15,420
+Pero anoche surgió la respuesta.
+
+180
+00:13:15,504 --> 00:13:18,924
+Mientras que Estados Unidos dormía,
+el primer Boleto Dorado apareció
+
+181
+00:13:19,007 --> 00:13:22,219
+en un pueblo chico,
+Duselheim, Alemania.
+
+182
+00:13:22,302 --> 00:13:26,849
+Hemos estado esperando la noticia, y
+estamos listos con un reporte en vivo.
+
+183
+00:13:27,516 --> 00:13:30,435
+Orgullosos estamos
+por la atención que el mundo
+
+184
+00:13:30,519 --> 00:13:32,771
+enfoca hoy en Duselheim.
+
+185
+00:13:32,855 --> 00:13:35,440
+Una comunidad
+empujada a la prominencia
+
+186
+00:13:35,524 --> 00:13:39,278
+por el descubrimiento
+del primer Boleto Dorado de Wonka.
+
+187
+00:13:39,361 --> 00:13:42,447
+El descubridor es hijo
+de un prominente carnicero.
+
+188
+00:13:42,531 --> 00:13:45,367
+Su nombre es, ¡Augustus Gloop!
+
+189
+00:13:45,450 --> 00:13:50,622
+El orgullo de Duselheim,
+la fama de Alemania Occidental.
+
+190
+00:13:50,706 --> 00:13:53,625
+Un ejemplo para todo el mundo.
+
+191
+00:13:53,709 --> 00:13:56,795
+¿Qué se siente ser
+el descubridor del primer Boleto?
+
+192
+00:13:56,879 --> 00:13:58,630
+-Hambre.
+-¿Alguna otra sensación?
+
+193
+00:13:58,714 --> 00:14:01,758
+Lo siento por Wonka.
+Le va a costar una fortuna.
+
+194
+00:14:02,217 --> 00:14:04,386
+Señor Gloop, hace el favor de...
+
+195
+00:14:05,137 --> 00:14:08,599
+Señora Gloop, ¿puede decir
+unas palabras al auditorio?
+
+196
+00:14:08,682 --> 00:14:12,644
+Sabía que encontraría un Boleto.
+Su pasatiempo es comer.
+
+197
+00:14:12,728 --> 00:14:16,440
+No comería tanto
+si no necesitara nutrirse, ¿no cree?
+
+198
+00:14:19,401 --> 00:14:21,445
+¡Feliz cumpleaños, Charlie!
+
+199
+00:14:23,447 --> 00:14:24,823
+Aquí tienes, Charlie.
+
+200
+00:14:24,907 --> 00:14:26,408
+Gracias.
+
+201
+00:14:33,081 --> 00:14:34,166
+¡Es admirable!
+
+202
+00:14:34,249 --> 00:14:37,669
+Cada una tejimos, abuelas
+Georgina, Josephine y yo.
+
+203
+00:14:37,753 --> 00:14:40,339
+Yo tejí las puntas con las borlas.
+
+204
+00:14:40,422 --> 00:14:43,842
+Este es un regalito de parte
+del abuelo George y mía.
+
+205
+00:14:43,926 --> 00:14:46,303
+Creo que sé lo que es.
+
+206
+00:14:47,304 --> 00:14:50,015
+-¡Sí es! ¡Un Wonka!
+-Ábrelo, Charlie.
+
+207
+00:14:50,098 --> 00:14:51,517
+Veamos el Boleto Dorado.
+
+208
+00:14:51,600 --> 00:14:54,061
+-¿No sería fantástico?
+-No le des esperanzas.
+
+209
+00:14:54,478 --> 00:14:57,356
+Olvídalo. Ábrelo.
+¡Quiero ver el oro!
+
+210
+00:14:57,439 --> 00:14:58,815
+¡Basta!
+
+211
+00:14:58,899 --> 00:15:02,361
+-¡Tengo la misma suerte que otros!
+-Tienes más.
+
+212
+00:15:02,444 --> 00:15:03,987
+Porque lo quieres más.
+
+213
+00:15:04,279 --> 00:15:05,697
+¡Anda, ábrelo!
+
+214
+00:15:05,781 --> 00:15:07,449
+¡Aquí va!
+
+215
+00:15:10,285 --> 00:15:11,662
+-¡Lo tengo!
+-¿Dónde?
+
+216
+00:15:12,120 --> 00:15:13,121
+¡A ver!
+
+217
+00:15:13,455 --> 00:15:15,374
+Los engañé, ¿no?
+
+218
+00:15:15,457 --> 00:15:17,417
+Creyeron que sí lo tenía.
+
+219
+00:15:18,961 --> 00:15:21,004
+No importa, Charlie.
+
+220
+00:15:21,088 --> 00:15:22,673
+Ya encontrarás uno.
+
+221
+00:15:23,465 --> 00:15:26,468
+-Hay una mordida para todos.
+-¡No, no!
+
+222
+00:15:38,564 --> 00:15:41,441
+¡Papi, yo quería encontrar
+el primer Boleto Dorado!
+
+223
+00:15:41,525 --> 00:15:44,862
+Lo sé, ángel.
+Estamos haciendo todo lo posible.
+
+224
+00:15:44,945 --> 00:15:47,781
+Tengo a todas las muchachas
+buscándolo para ti.
+
+225
+00:15:47,865 --> 00:15:50,200
+¿Dónde está?
+¿Por qué no lo pueden encontrar?
+
+226
+00:15:50,284 --> 00:15:53,495
+Veruca, cariño, ¡no soy mago!
+
+227
+00:15:53,912 --> 00:15:55,038
+¡Dame tiempo!
+
+228
+00:15:55,122 --> 00:15:58,375
+¡Lo quiero ya!
+¿Qué pasa con esas tontas?
+
+229
+00:15:58,458 --> 00:16:02,045
+¡Por cinco días toda la fábrica
+los ha estado buscando!
+
+230
+00:16:02,129 --> 00:16:04,965
+¡No han descascarado
+ni un cacahuete desde el lunes!
+
+231
+00:16:05,048 --> 00:16:08,677
+¡Han estado abriendo dulces
+desde el amanecer hasta el oscurecer!
+
+232
+00:16:08,760 --> 00:16:10,137
+¡Que trabajen de noche!
+
+233
+00:16:12,139 --> 00:16:14,016
+¡Apúrense, muchachas!
+
+234
+00:16:14,099 --> 00:16:16,977
+¡Muévanse, o las pongo
+de patitas en la calle!
+
+235
+00:16:17,227 --> 00:16:19,021
+Y oigan, la primera muchacha
+
+236
+00:16:19,104 --> 00:16:23,692
+que encuentre el Boleto Dorado
+¡tendrá bono en su cheque de pago!
+
+237
+00:16:23,775 --> 00:16:25,611
+¿Qué les parece eso?
+
+238
+00:16:27,571 --> 00:16:29,114
+¡Ni siquiera están tratando!
+
+239
+00:16:29,198 --> 00:16:31,575
+¡No quieren encontrarlo!
+¡Están celosas!
+
+240
+00:16:31,825 --> 00:16:33,994
+Cariño, no las puedo apresurar más.
+
+241
+00:16:34,244 --> 00:16:36,622
+¡Están desenvolviendo
+19 000 dulces por hora!
+
+242
+00:16:36,705 --> 00:16:39,208
+¡Han desenvuelto 760 000 hasta ahora!
+
+243
+00:16:39,291 --> 00:16:40,459
+¡Me prometiste!
+
+244
+00:16:40,542 --> 00:16:43,295
+¡Prometiste que
+lo tendría el primer día!
+
+245
+00:16:43,378 --> 00:16:47,299
+Vas a ser muy impopular
+si no lo entregas pronto.
+
+246
+00:16:47,549 --> 00:16:50,886
+Me quiebra el corazón.
+Odio verla descontenta.
+
+247
+00:16:50,969 --> 00:16:52,638
+¡Ya no te voy a hablar!
+
+248
+00:16:52,721 --> 00:16:56,141
+¡Eres un mal padre!
+¡Nunca me das lo que quiero!
+
+249
+00:16:56,225 --> 00:16:58,143
+¡No voy a ir a la escuela!
+
+250
+00:16:58,227 --> 00:17:00,854
+¡Veruca! ¡Cariño! ¡Ángel!
+
+251
+00:17:01,188 --> 00:17:03,899
+Solo cuatro Boletos quedan en el mundo
+
+252
+00:17:03,982 --> 00:17:06,734
+¡y todo el mundo los anda buscando!
+
+253
+00:17:06,818 --> 00:17:08,444
+¿Qué puedo hacer?
+
+254
+00:17:08,945 --> 00:17:11,198
+¡Lo encontré, señor Salt! ¡Aquí está!
+
+255
+00:17:13,200 --> 00:17:16,118
+¡Ya era tiempo! ¡Lo quiero!
+
+256
+00:17:21,083 --> 00:17:24,127
+¡Dame el Boleto! ¡Es mío!
+
+257
+00:17:24,211 --> 00:17:26,755
+¡Encontré el Boleto Dorado!
+
+258
+00:17:32,427 --> 00:17:33,595
+¡Gracias a Dios!
+
+259
+00:17:33,679 --> 00:17:36,890
+Con niños lo que cuenta
+es la felicidad.
+
+260
+00:17:36,974 --> 00:17:39,101
+Felicidad y armonía.
+
+261
+00:17:40,394 --> 00:17:44,398
+Esta es la señal de nuestros tiempos.
+El símbolo del estrago
+
+262
+00:17:44,481 --> 00:17:47,317
+el alocado furor
+que está arrebatando al mundo.
+
+263
+00:17:47,401 --> 00:17:51,655
+En cualquier esquina del mundo,
+en cualquier continente,
+
+264
+00:17:51,738 --> 00:17:55,367
+la gran búsqueda del Dulce Wonka
+continúa. Nos acercamos al final
+
+265
+00:17:55,617 --> 00:17:57,953
+del día número 43
+de la caza del Boleto Dorado.
+
+266
+00:17:58,036 --> 00:17:59,121
+NO PIDA
+WONKAS
+
+267
+00:17:59,788 --> 00:18:01,707
+En todas partes
+hay señales de ansiedad.
+
+268
+00:18:02,541 --> 00:18:03,750
+Cada hora,
+
+269
+00:18:03,834 --> 00:18:06,545
+nuevos envíos se mandan
+alrededor del mundo.
+
+270
+00:18:06,879 --> 00:18:09,006
+Pero no se distribuyen rápido.
+
+271
+00:18:09,089 --> 00:18:13,594
+Y al pasar el tiempo los hombres que
+los buscan se desesperan más y más.
+
+272
+00:18:13,677 --> 00:18:17,931
+Caballeros, sé qué tan ansiosos
+han estado estos últimos días.
+
+273
+00:18:18,015 --> 00:18:20,517
+Pero hoy puedo decirles
+con confianza
+
+274
+00:18:20,601 --> 00:18:23,353
+que su tiempo y su dinero
+han sido bien gastados.
+
+275
+00:18:23,812 --> 00:18:27,649
+Vamos a presenciar el milagro
+más grande de la era de la máquina.
+
+276
+00:18:27,733 --> 00:18:30,903
+Basado en la revolucionaria ley
+de la probabilidad,
+
+277
+00:18:30,986 --> 00:18:35,866
+esta máquina nos dirá
+el sitio preciso de los tres restantes
+
+278
+00:18:36,325 --> 00:18:37,993
+Boletos Dorados.
+
+279
+00:18:46,793 --> 00:18:47,878
+Y dice:
+
+280
+00:18:47,961 --> 00:18:50,881
+"No te diré. Sería fraudulento".
+
+281
+00:18:56,929 --> 00:19:01,558
+Le estoy diciendo a la computadora
+que si me contesta correctamente
+
+282
+00:19:01,642 --> 00:19:05,437
+con gusto compartiré con ella el gran premio.
+
+283
+00:19:09,900 --> 00:19:10,984
+Dice:
+
+284
+00:19:11,068 --> 00:19:15,697
+"¿Qué podría hacer con un
+suministro perpetuo de chocolate?"
+
+285
+00:19:19,868 --> 00:19:24,748
+Ahora le digo a la computadora justo
+lo que puede hacer con el chocolate.
+
+286
+00:19:27,209 --> 00:19:30,504
+También aquí puede suceder,
+increíble como parezca,
+
+287
+00:19:30,587 --> 00:19:32,339
+aquí mismo en Estados Unidos,
+
+288
+00:19:32,422 --> 00:19:36,426
+donde aun en el pueblo más chico,
+los grandes sueños pueden cumplirse.
+
+289
+00:19:37,261 --> 00:19:38,554
+Aquí está,
+
+290
+00:19:38,887 --> 00:19:42,683
+Violet Beauregarde, descubridora
+del Boleto Dorado número tres.
+
+291
+00:19:42,766 --> 00:19:44,643
+De la ciudad de Miles, Montana.
+
+292
+00:19:44,726 --> 00:19:46,228
+Y sus orgullosos padres.
+
+293
+00:19:46,311 --> 00:19:49,606
+Señor Beauregarde,
+un líder cívico y político local...
+
+294
+00:19:49,690 --> 00:19:51,942
+Sam "Tratos Justos", para ustedes,
+
+295
+00:19:52,025 --> 00:19:53,986
+con grandes baratas,
+casi regaladas.
+
+296
+00:19:54,236 --> 00:19:56,697
+¡Los mejores precios en todo el país!
+
+297
+00:19:56,780 --> 00:19:59,032
+- Aquí tienen un sedán...
+- ¡Papá, no te quieren!
+
+298
+00:19:59,116 --> 00:20:00,993
+- ¿Quieres decir unas palabras?
+- ¡Seguro!
+
+299
+00:20:01,243 --> 00:20:03,829
+Este es el Boleto Dorado
+número tres, ¡y es mío!
+
+300
+00:20:03,912 --> 00:20:05,622
+¿Cómo fue, Violet?
+
+301
+00:20:05,706 --> 00:20:08,500
+Yo masco chicle,
+pero cuando supe de los Boletos,
+
+302
+00:20:08,584 --> 00:20:10,836
+dejé el chicle
+y lo cambié por Dulces.
+
+303
+00:20:10,919 --> 00:20:12,004
+TERCERA GANADORA
+
+304
+00:20:12,087 --> 00:20:13,547
+Pero ya volví al chicle.
+
+305
+00:20:13,630 --> 00:20:16,466
+Y cuando como me lo pongo
+detrás de la oreja.
+
+306
+00:20:16,550 --> 00:20:18,218
+- ¡Violet!
+- ¡Quieta, mamá!
+
+307
+00:20:18,302 --> 00:20:23,307
+He estado mascando este chicle desde
+hace tres meses. ¡Un récord mundial!
+
+308
+00:20:23,390 --> 00:20:26,727
+Sobrepasó el récord
+de mi amiga, Cornelia.
+
+309
+00:20:26,810 --> 00:20:28,729
+¡Y cómo se enojó!
+
+310
+00:20:28,812 --> 00:20:30,397
+¡Hola Cornelia, querida!
+
+311
+00:20:30,480 --> 00:20:33,442
+Permítanme decir,
+si alguno de ustedes está mirando...
+
+312
+00:20:44,953 --> 00:20:48,165
+-¿Qué estás haciendo aquí?
+-Pensé que vendría contigo a casa.
+
+313
+00:20:48,540 --> 00:20:51,752
+No estoy lista.
+Estaré aquí hasta muy tarde.
+
+314
+00:20:51,835 --> 00:20:54,588
+Entonces creo que me voy.
+
+315
+00:20:54,671 --> 00:20:56,507
+¿Por qué no te quedas un ratito?
+
+316
+00:20:56,590 --> 00:20:59,718
+Saca una pila de ropa y siéntate.
+
+317
+00:21:02,304 --> 00:21:04,014
+¿Te fue bien en la escuela?
+
+318
+00:21:04,097 --> 00:21:06,141
+-Sí.
+-Qué bueno.
+
+319
+00:21:06,975 --> 00:21:08,644
+¿Entregaste los periódicos?
+
+320
+00:21:08,727 --> 00:21:09,853
+Acabo de terminar.
+
+321
+00:21:09,937 --> 00:21:11,063
+Qué bueno.
+
+322
+00:21:13,732 --> 00:21:15,817
+Quería decirte algo.
+
+323
+00:21:18,654 --> 00:21:20,447
+Encontraron el tercer Boleto.
+
+324
+00:21:20,531 --> 00:21:21,823
+¿Ah, sí?
+
+325
+00:21:22,157 --> 00:21:23,325
+Sí.
+
+326
+00:21:25,577 --> 00:21:27,246
+Creo que ya me voy.
+
+327
+00:21:28,580 --> 00:21:29,748
+¿Es todo?
+
+328
+00:21:30,999 --> 00:21:32,960
+Pensé que querías saber.
+
+329
+00:21:33,043 --> 00:21:36,797
+La mayoría de la gente
+está interesada. Yo estoy interesado.
+
+330
+00:21:36,880 --> 00:21:40,050
+Sabes, solo quedan dos Boletos.
+Nada más dos.
+
+331
+00:21:40,342 --> 00:21:42,427
+Pronto será nada más uno.
+
+332
+00:21:42,511 --> 00:21:44,346
+¿Quiénes van a ser los dichosos?
+
+333
+00:21:44,429 --> 00:21:47,057
+Si quieres saber, no voy a ser yo.
+
+334
+00:21:47,140 --> 00:21:49,560
+Si quieres saber, puedes excluirme.
+
+335
+00:21:49,643 --> 00:21:50,727
+Charlie.
+
+336
+00:21:50,811 --> 00:21:53,063
+Hay 100 mil millones de personas,
+
+337
+00:21:53,146 --> 00:21:56,400
+y solo cinco encontrarán
+los Boletos Dorados.
+
+338
+00:21:56,483 --> 00:21:59,820
+Hasta con un saco de dinero,
+sería difícil encontrar uno.
+
+339
+00:21:59,903 --> 00:22:04,658
+Al fin de esto no serás diferente
+a los demás que no los encontraron.
+
+340
+00:22:04,741 --> 00:22:07,578
+Pero soy diferente.
+Lo quiero más que los demás.
+
+341
+00:22:08,704 --> 00:22:12,082
+Tendrás tu oportunidad.
+Un día las cosas cambiarán.
+
+342
+00:22:12,165 --> 00:22:14,543
+¿Cuándo? ¿Cuándo cambiarán?
+
+343
+00:22:14,793 --> 00:22:17,129
+Probablemente cuando menos
+lo esperes.
+
+344
+00:22:20,340 --> 00:22:21,341
+Nos vemos.
+
+345
+00:22:35,314 --> 00:22:39,318
+Te entristeces como todos
+
+346
+00:22:40,152 --> 00:22:43,238
+Pero yo y el abuelo Joe
+
+347
+00:22:43,739 --> 00:22:47,576
+Podemos ahuyentar tus problemas
+
+348
+00:22:48,202 --> 00:22:50,245
+Vuélense
+
+349
+00:22:51,538 --> 00:22:55,209
+Ya se van
+
+350
+00:22:56,168 --> 00:22:58,795
+Alégrate, Charlie
+
+351
+00:22:59,755 --> 00:23:02,090
+Dame una sonrisa
+
+352
+00:23:02,674 --> 00:23:08,305
+¿Qué pasó con la sonrisa que conocía?
+
+353
+00:23:09,348 --> 00:23:11,558
+¿No sabes que tu risa
+
+354
+00:23:11,642 --> 00:23:15,646
+Siempre ha sido mi sol?
+
+355
+00:23:16,313 --> 00:23:21,151
+Deja que se vea esa luz del sol
+
+356
+00:23:22,444 --> 00:23:25,614
+Anda, Charlie
+
+357
+00:23:26,281 --> 00:23:28,867
+No frunzas el ceño
+
+358
+00:23:29,451 --> 00:23:35,541
+Sabes dentro de ti
+Que el mundo es tu juguete
+
+359
+00:23:36,458 --> 00:23:41,797
+Y cuando el mundo se haga pesado
+Nunca escuches su trotecito
+
+360
+00:23:42,798 --> 00:23:47,845
+Súbete en él, chico
+
+361
+00:23:48,887 --> 00:23:51,056
+Algún día
+
+362
+00:23:51,473 --> 00:23:53,725
+Dulce como una canción
+
+363
+00:23:54,476 --> 00:23:59,982
+El día de suerte para Charlie llegará
+
+364
+00:24:00,816 --> 00:24:06,822
+Hasta ese día
+Tendrás que ser fuerte, Charlie
+
+365
+00:24:07,823 --> 00:24:14,371
+Arriba, en lo alto es tu lugar
+
+366
+00:24:14,997 --> 00:24:18,333
+Mira hacia arriba, Charlie
+
+367
+00:24:18,750 --> 00:24:21,795
+Verás una estrella
+
+368
+00:24:21,879 --> 00:24:28,177
+Nada más síguela
+Y no pierdas de vista a tu sueño
+
+369
+00:24:29,011 --> 00:24:35,267
+Pronto el cielo se aclarará
+Charlie
+
+370
+00:24:36,518 --> 00:24:41,440
+Alégrate, Charlie, hazlo
+
+371
+00:24:43,108 --> 00:24:46,987
+Alégrate, Charlie
+
+372
+00:24:47,863 --> 00:24:51,366
+Goza
+
+373
+00:24:51,450 --> 00:24:56,747
+De que tú eres tú
+
+374
+00:25:01,043 --> 00:25:05,088
+Mientras que el mundo busca,
+aquí realmente sucedió.
+
+375
+00:25:05,172 --> 00:25:09,176
+Queda nada más un Boleto Dorado
+en el mundo entero.
+
+376
+00:25:09,259 --> 00:25:12,846
+Porque aquí, en la ciudad de
+Marble Falls, Arizona,
+
+377
+00:25:12,930 --> 00:25:14,890
+¡está el ganador número cuatro!
+
+378
+00:25:14,973 --> 00:25:18,769
+El nombre que se escuchará
+en el mundo es: ¡Señor Mike Teevee!
+
+379
+00:25:19,394 --> 00:25:20,854
+¿Podemos apagarla?
+
+380
+00:25:20,938 --> 00:25:23,857
+-¿Estás loco?
+-No hablará hasta el comercial.
+
+381
+00:25:23,941 --> 00:25:26,109
+¡La nación quiere saber de ti!
+
+382
+00:25:26,193 --> 00:25:28,445
+¿No puedes callarte?
+Estoy ocupado.
+
+383
+00:25:28,529 --> 00:25:29,780
+¡Qué programa!
+
+384
+00:25:29,863 --> 00:25:31,782
+Le sirvo todas sus comidas aquí.
+
+385
+00:25:31,865 --> 00:25:33,867
+Nunca ha ido a la mesa.
+
+386
+00:25:33,951 --> 00:25:35,452
+-¿Te gusta la TV?
+-¡Sin duda!
+
+387
+00:25:35,536 --> 00:25:37,287
+Acerca del Boleto Dorado...
+
+388
+00:25:37,371 --> 00:25:38,830
+¡Quiero ver esto!
+
+389
+00:25:38,914 --> 00:25:42,042
+-¿Te gusta la matanza?
+-¿Qué crees que es la vida?
+
+390
+00:25:42,125 --> 00:25:43,919
+Mike, puedes decirnos si...
+
+391
+00:25:45,587 --> 00:25:47,297
+Espera a que tenga un real.
+
+392
+00:25:47,381 --> 00:25:48,298
+Colt .45.
+
+393
+00:25:48,590 --> 00:25:51,051
+Papá aún no me da uno, ¿me lo darás?
+
+394
+00:25:51,134 --> 00:25:53,011
+Hijo, no hasta que cumplas los 12.
+
+395
+00:25:59,518 --> 00:26:01,478
+Van cuatro, falta uno más.
+
+396
+00:26:01,562 --> 00:26:05,816
+Y en alguna parte hay otra persona
+afortunada que está
+
+397
+00:26:05,899 --> 00:26:10,696
+por encontrar el último de los más
+buscados premios en la historia.
+
+398
+00:26:11,196 --> 00:26:13,907
+Aunque lo envidiamos,
+quienquiera que sea,
+
+399
+00:26:13,991 --> 00:26:17,077
+y puede que
+nos amarguemos al perder,
+
+400
+00:26:17,160 --> 00:26:20,247
+¡debemos de recordar
+que hay cosas más importantes!
+
+401
+00:26:20,330 --> 00:26:22,875
+¡Muchas cosas más importantes!
+
+402
+00:26:23,208 --> 00:26:27,045
+No se me ocurre qué son,
+pero estoy seguro de que hay algo.
+
+403
+00:26:27,129 --> 00:26:28,630
+Ahora, el clima...
+
+404
+00:26:30,632 --> 00:26:34,303
+¿Por qué me despertaste?
+¿Algo anda mal?
+
+405
+00:26:40,225 --> 00:26:42,394
+¡Abuelo! Ese dinero era para tabaco.
+
+406
+00:26:42,644 --> 00:26:44,771
+Ya te dije, lo dejé.
+
+407
+00:26:45,063 --> 00:26:46,440
+¡Anda, ábrelo!
+
+408
+00:26:46,523 --> 00:26:48,817
+Sólo queda un boleto.
+Veamos el oro.
+
+409
+00:26:48,901 --> 00:26:51,153
+No, tú hazlo. Yo no puedo.
+
+410
+00:26:52,237 --> 00:26:54,531
+Vamos a tener suerte esta vez.
+
+411
+00:26:54,615 --> 00:26:57,075
+Tengo un presentimiento.
+
+412
+00:26:58,911 --> 00:27:01,246
+¿Cuál punta abro primero?
+
+413
+00:27:02,414 --> 00:27:04,499
+Esa punta. Un poquito.
+
+414
+00:27:06,251 --> 00:27:08,837
+-¿Así?
+-Ahora un poco más.
+
+415
+00:27:10,005 --> 00:27:12,925
+-¡Termínalo tú! No puedo.
+-¡No, abuelo! Tú hazlo.
+
+416
+00:27:13,425 --> 00:27:14,760
+Bueno.
+
+417
+00:27:15,093 --> 00:27:16,595
+Aquí va.
+
+418
+00:27:22,851 --> 00:27:24,019
+Sabes...
+
+419
+00:27:25,020 --> 00:27:29,024
+apuesto a que los Boletos
+dan un sabor terrible al chocolate.
+
+420
+00:27:39,284 --> 00:27:41,370
+Bulto 403.
+
+421
+00:27:41,620 --> 00:27:44,081
+Personalmente puedo garantizar
+
+422
+00:27:44,164 --> 00:27:48,001
+que esta es absolutamente
+la última caja de Dulces Wonka
+
+423
+00:27:48,085 --> 00:27:49,795
+que queda en el Reino Unido.
+
+424
+00:27:49,878 --> 00:27:53,632
+Comenzaremos la subasta
+a 1 000 libras esterlinas. ¿Oigo 1 000?
+
+425
+00:27:54,383 --> 00:27:56,593
+¿1 500? ¿2 000?
+
+426
+00:27:56,677 --> 00:28:00,264
+Hay 2 500. ¿4 000?
+
+427
+00:28:00,347 --> 00:28:01,974
+¿4 500 libras esterlinas?
+
+428
+00:28:02,057 --> 00:28:03,767
+¿5 000?
+
+429
+00:28:03,851 --> 00:28:05,561
+¡Su Majestad!
+
+430
+00:28:09,064 --> 00:28:10,649
+Lo siento, señora Curtis.
+
+431
+00:28:10,732 --> 00:28:13,277
+No hay nada que nos de un indicio.
+
+432
+00:28:13,360 --> 00:28:15,737
+Secuestraron a mi esposo
+hace 12 horas.
+
+433
+00:28:15,821 --> 00:28:18,031
+¿Cuándo vamos a saber algo?
+¿Qué quieren?
+
+434
+00:28:18,115 --> 00:28:21,577
+Tenga calma. Quieren rescate.
+Queremos saber lo que quieren.
+
+435
+00:28:22,077 --> 00:28:24,371
+Les daré lo que quieran.
+
+436
+00:28:24,454 --> 00:28:26,290
+¡Quiero que me devuelvan a Harold!
+
+437
+00:28:31,753 --> 00:28:33,338
+Adelante, escuchamos.
+
+438
+00:28:38,844 --> 00:28:41,430
+Lo que sea que hayan pedido
+se los daré.
+
+439
+00:28:42,347 --> 00:28:44,808
+Quieren su caja de Dulces Wonka.
+
+440
+00:28:50,522 --> 00:28:51,773
+¿Señora Curtis, me oyó?
+
+441
+00:28:52,608 --> 00:28:55,485
+Es la vida de su esposo
+o su caja de Dulces Wonka.
+
+442
+00:28:56,778 --> 00:28:59,114
+¿Cuánto tiempo tengo para pensarlo?
+
+443
+00:29:00,616 --> 00:29:01,658
+¡Eso es!
+
+444
+00:29:01,742 --> 00:29:04,328
+El concurso Wonka ha terminado.
+
+445
+00:29:04,411 --> 00:29:06,580
+Han encontrado el último boleto
+
+446
+00:29:06,663 --> 00:29:11,168
+y tenemos un reporte en vivo
+desde Paraguay, Sur América.
+
+447
+00:29:11,251 --> 00:29:12,961
+Ya se terminó. El final llegó.
+
+448
+00:29:13,045 --> 00:29:14,129
+POR VIA SATELITAL
+
+449
+00:29:14,213 --> 00:29:16,757
+Encontraron el último Boleto Dorado
+
+450
+00:29:16,840 --> 00:29:18,342
+aquí mismo en Paraguay.
+
+451
+00:29:18,425 --> 00:29:21,512
+El descubridor afortunado
+es Alberto Minoleta,
+
+452
+00:29:21,595 --> 00:29:25,516
+el millonario y dueño
+de casas de juego en Sur América.
+
+453
+00:29:25,599 --> 00:29:29,102
+Esta es la más reciente foto
+del descubridor feliz.
+
+454
+00:29:30,521 --> 00:29:31,855
+¡Apágala!
+
+455
+00:29:33,315 --> 00:29:35,359
+Bueno, así es.
+
+456
+00:29:35,442 --> 00:29:37,110
+No más Boletos Dorados.
+
+457
+00:29:37,194 --> 00:29:39,363
+Muchas tonterías, toda la cosa.
+
+458
+00:29:39,446 --> 00:29:40,864
+Para Charlie no lo fueron.
+
+459
+00:29:41,156 --> 00:29:46,036
+Un muchacho necesita creer en algo.
+¿En qué puede cifrar sus esperanzas ahora?
+
+460
+00:29:46,119 --> 00:29:48,247
+¿Quién se lo va a decir?
+
+461
+00:29:48,497 --> 00:29:51,458
+No hay que despertarlo.
+Lo sabrá luego.
+
+462
+00:29:51,542 --> 00:29:53,126
+Sí, dejémoslo dormir.
+
+463
+00:29:53,210 --> 00:29:55,671
+Que tenga un último sueño.
+
+464
+00:30:03,428 --> 00:30:06,390
+He decidido cambiar
+al lunes el plan del viernes.
+
+465
+00:30:06,473 --> 00:30:10,143
+El examen del viernes sobre
+lo que aprendimos durante la semana
+
+466
+00:30:10,227 --> 00:30:12,646
+será el lunes
+antes de haberlo aprendido.
+
+467
+00:30:12,729 --> 00:30:15,023
+Pero como hoy es martes, no importa.
+
+468
+00:30:15,440 --> 00:30:17,192
+¡Listos con el lápiz!
+
+469
+00:30:18,777 --> 00:30:21,697
+Hoy vamos a aprender acerca de...
+
+470
+00:30:23,407 --> 00:30:24,366
+porcentajes.
+
+471
+00:30:24,449 --> 00:30:28,078
+Por ejemplo,
+tomemos los recientes disgustos.
+
+472
+00:30:28,161 --> 00:30:31,331
+Supongan que hay
+1 000 Dulces Wonka en el mundo...
+
+473
+00:30:31,415 --> 00:30:35,335
+y cada uno de ustedes
+abrió cierto número de dulces.
+
+474
+00:30:35,419 --> 00:30:37,629
+Ese número es...
+
+475
+00:30:37,963 --> 00:30:40,382
+un porcentaje. ¿Entienden?
+
+476
+00:30:42,050 --> 00:30:44,553
+Madeline Durkin, ¿cuántos
+Dulces Wonka abriste?
+
+477
+00:30:45,137 --> 00:30:46,180
+Como 100.
+
+478
+00:30:46,555 --> 00:30:51,518
+Hay diez cien en 1 000,
+o sea que abriste un diez por ciento.
+
+479
+00:30:51,977 --> 00:30:54,354
+Peter Goff, ¿cuántos abriste tú?
+
+480
+00:30:54,438 --> 00:30:55,689
+150.
+
+481
+00:30:56,148 --> 00:31:01,028
+Diez por ciento mitad sobre otra vez,
+lo que hace 15 por ciento. ¡Charlie Bucket!
+
+482
+00:31:01,111 --> 00:31:03,447
+-¿Cuántos abriste?
+-Dos.
+
+483
+00:31:03,530 --> 00:31:06,283
+Eso es fácil. 200 es dos veces.
+
+484
+00:31:06,366 --> 00:31:07,743
+No 200.
+
+485
+00:31:08,327 --> 00:31:09,369
+Sólo dos.
+
+486
+00:31:09,995 --> 00:31:12,748
+¿Quieres decir que abriste sólo dos?
+
+487
+00:31:13,248 --> 00:31:15,292
+No me gusta mucho el chocolate.
+
+488
+00:31:15,375 --> 00:31:17,377
+¡No puedo figurar con sólo dos!
+
+489
+00:31:17,461 --> 00:31:19,713
+Supongamos que abriste 200.
+
+490
+00:31:19,796 --> 00:31:24,218
+Si abriste 200 Dulces Wonka,
+aparte de enfermarte,
+
+491
+00:31:24,301 --> 00:31:26,094
+usarías 20 por ciento de 1 000,
+
+492
+00:31:26,178 --> 00:31:29,097
+lo que es 15 por ciento
+mitad otra vez, 10 por ciento...
+
+493
+00:32:18,689 --> 00:32:20,732
+Un chocolate, por favor.
+
+494
+00:32:20,816 --> 00:32:22,109
+Cómo no.
+
+495
+00:32:22,192 --> 00:32:23,485
+¿De qué clase?
+
+496
+00:32:23,569 --> 00:32:26,572
+¿Un Chirrido Slugworth?
+¿Un Wonka Rechupeteanchus?
+
+497
+00:32:26,655 --> 00:32:29,616
+-El que sea más grande.
+-Prueba un Rechupeteanchus.
+
+498
+00:32:30,450 --> 00:32:33,620
+Con los boletos descubiertos,
+ya no tengo que esconderlos.
+
+499
+00:32:45,799 --> 00:32:48,260
+¡Despacio!
+
+500
+00:32:48,343 --> 00:32:50,554
+Te va a doler el estómago.
+
+501
+00:32:50,888 --> 00:32:52,806
+-Adiós.
+-Adiós.
+
+502
+00:33:00,564 --> 00:33:03,901
+Creo que compraré uno más,
+para mi abuelo Joe.
+
+503
+00:33:04,151 --> 00:33:05,402
+Seguro.
+
+504
+00:33:06,528 --> 00:33:08,363
+Prueba el Dulce Wonka regular.
+
+505
+00:33:08,697 --> 00:33:10,032
+Bueno.
+
+506
+00:33:17,331 --> 00:33:20,292
+- ¡Déjeme ver!
+- ¡Lean todo sobre el escándalo!
+
+507
+00:33:20,375 --> 00:33:22,586
+-Deme un periódico.
+-Bien.
+
+508
+00:33:22,920 --> 00:33:26,215
+-¡Despacio! ¡Uno por uno!
+-¿Oíste las noticias?
+
+509
+00:33:26,298 --> 00:33:27,382
+FRAUDE DE QUINTO BOLETO
+
+510
+00:33:27,466 --> 00:33:32,012
+-Falsificó el boleto.
+-Hay un Boleto Dorado aún por algún lugar.
+
+511
+00:33:32,095 --> 00:33:34,973
+¡Cómo se le ocurre tratar
+de engañar al mundo!
+
+512
+00:33:35,557 --> 00:33:39,394
+¡Ladrón! Eso quiere decir
+que el concurso seguirá para siempre.
+
+513
+00:34:20,936 --> 00:34:22,437
+BOLETO DORADO
+WONKA
+
+514
+00:34:23,647 --> 00:34:25,649
+¡Tienes el último Boleto Dorado!
+
+515
+00:34:25,732 --> 00:34:28,610
+¡El chico encontró
+el último Boleto Dorado!
+
+516
+00:34:30,320 --> 00:34:31,487
+¡Sí es dorado!
+
+517
+00:34:32,114 --> 00:34:34,491
+¡Retírense! ¡Déjenlo en paz!
+
+518
+00:34:35,284 --> 00:34:37,119
+¿Vieron lo que tiene?
+
+519
+00:34:37,369 --> 00:34:38,661
+¡Váyanse!
+
+520
+00:34:39,496 --> 00:34:41,998
+¡Charlie, cuida ese boleto!
+
+521
+00:34:42,081 --> 00:34:46,837
+¡Corre, Charlie! ¡Directo a la casa!
+
+522
+00:35:18,493 --> 00:35:21,538
+Bien hecho, pequeño.
+
+523
+00:35:21,997 --> 00:35:24,541
+Encontraste el quinto Boleto Dorado.
+
+524
+00:35:24,625 --> 00:35:26,585
+¿Me permites presentarme?
+
+525
+00:35:26,668 --> 00:35:28,378
+Arthur Slugworth.
+
+526
+00:35:28,462 --> 00:35:31,048
+Presidente de Chocolates Slugworth.
+
+527
+00:35:31,882 --> 00:35:35,886
+Escucha con cuidado,
+porque te voy a hacer muy rico.
+
+528
+00:35:35,969 --> 00:35:39,723
+El señor Wonka está trabajando
+en una invención fantástica:
+
+529
+00:35:40,224 --> 00:35:42,518
+El Eterno Sincesar.
+
+530
+00:35:43,185 --> 00:35:45,270
+Si triunfa, me arruinará.
+
+531
+00:35:45,354 --> 00:35:48,774
+Quiero que cojas sólo
+un Eterno Sincesar
+
+532
+00:35:48,857 --> 00:35:52,236
+y me lo traigas para encontrar
+la fórmula secreta.
+
+533
+00:35:52,569 --> 00:35:53,946
+Tu recompensa será...
+
+534
+00:35:54,029 --> 00:35:56,240
+10 000 de estos.
+
+535
+00:35:56,323 --> 00:35:58,116
+Piénsalo, ¿eh?
+
+536
+00:35:58,200 --> 00:36:00,285
+Una casa nueva para tu familia...
+
+537
+00:36:00,369 --> 00:36:03,705
+comida y comodidad
+por el resto de sus vidas.
+
+538
+00:36:04,540 --> 00:36:06,416
+Y no se te olvide el nombre,
+
+539
+00:36:06,500 --> 00:36:08,669
+Eterno Sincesar.
+
+540
+00:36:38,115 --> 00:36:41,285
+¡Lo tengo!
+¡El quinto Boleto Dorado es mío!
+
+541
+00:36:42,077 --> 00:36:44,288
+Nos estás tomando el pelo, Charlie.
+
+542
+00:36:44,371 --> 00:36:47,291
+Ya no hay más Boletos Dorados.
+
+543
+00:36:47,374 --> 00:36:49,835
+¡El último era falso!
+¡Lo dice el periódico!
+
+544
+00:36:49,918 --> 00:36:53,630
+Hallé dinero, compré un Dulce Wonka,
+¡y allí estaba el Boleto!
+
+545
+00:36:53,714 --> 00:36:56,091
+¡Míralo! ¡Desengáñate tú mismo!
+
+546
+00:36:56,633 --> 00:36:59,094
+¡Léelo, Joe, por Dios!
+
+547
+00:36:59,636 --> 00:37:03,974
+"Saludos para ti, afortunado
+descubridor de este Boleto Dorado
+
+548
+00:37:04,057 --> 00:37:08,187
+del señor Willy Wonka. Presenta
+este boleto en la puerta de la fábrica
+
+549
+00:37:08,270 --> 00:37:12,649
+a las diez de la mañana,
+el primero de octubre, ¡y no llegues tarde!
+
+550
+00:37:12,733 --> 00:37:17,654
+Puedes traer contigo a un miembro
+de tu propia familia, y a nadie más.
+
+551
+00:37:17,738 --> 00:37:20,991
+¡En tus sueños más atrevidos
+no podrías imaginarte
+
+552
+00:37:21,074 --> 00:37:25,287
+las maravillosas sorpresas
+que te esperan!" ¡Lo has alcanzado!
+
+553
+00:37:25,370 --> 00:37:27,664
+-¡No puedo creerlo!
+-¿Abuelo?
+
+554
+00:37:27,748 --> 00:37:30,501
+Dice que puedo llevar
+a alguien conmigo.
+
+555
+00:37:30,584 --> 00:37:32,294
+Quisiera que tú pudieras ir.
+
+556
+00:37:42,804 --> 00:37:43,972
+Charlie...
+
+557
+00:37:50,812 --> 00:37:52,689
+Qué bien, Charlie.
+
+558
+00:37:52,773 --> 00:37:54,358
+Ayúdame a levantarme.
+
+559
+00:38:07,829 --> 00:38:09,039
+¿Estás bien?
+
+560
+00:38:09,122 --> 00:38:11,208
+Estoy bien, Charlie.
+
+561
+00:38:18,048 --> 00:38:19,633
+-¡Cuidado papá!
+-¡Joe!
+
+562
+00:38:21,218 --> 00:38:22,719
+¡Con cuidado, Joe!
+
+563
+00:38:31,895 --> 00:38:33,397
+¡Véanme!
+
+564
+00:38:36,400 --> 00:38:38,235
+¡Véanme!
+
+565
+00:38:38,902 --> 00:38:40,904
+¡Estoy de pie!
+
+566
+00:38:42,531 --> 00:38:45,868
+¡No he hecho esto en 20 años!
+
+567
+00:38:46,994 --> 00:38:48,287
+¡Abuelo!
+
+568
+00:38:52,374 --> 00:38:56,211
+Nunca pensé que mi vida pudiera ser
+
+569
+00:38:57,379 --> 00:39:01,091
+Nada más de una catástrofe
+
+570
+00:39:02,050 --> 00:39:05,554
+Pero de repente comienzo a ver
+
+571
+00:39:06,388 --> 00:39:10,267
+Un poco de buena suerte para mí
+
+572
+00:39:11,393 --> 00:39:15,063
+Porque tengo el Boleto Dorado
+
+573
+00:39:16,899 --> 00:39:20,986
+Tengo un destello dorado
+
+574
+00:39:21,236 --> 00:39:25,574
+En mi ojo
+
+575
+00:39:27,242 --> 00:39:30,078
+Nunca tuve oportunidad de brillar
+
+576
+00:39:30,162 --> 00:39:32,289
+Nunca una canción alegre para cantar
+
+577
+00:39:32,372 --> 00:39:34,499
+Pero de repente
+La mitad del mundo es mía
+
+578
+00:39:34,583 --> 00:39:36,251
+Qué cosa tan asombrosa
+
+579
+00:39:36,335 --> 00:39:38,295
+Porque tengo un Boleto Dorado
+
+580
+00:39:38,378 --> 00:39:39,922
+¡Es de nosotros, Charlie!
+
+581
+00:39:40,422 --> 00:39:43,759
+Tengo un sol dorado allá en el cielo
+
+582
+00:39:44,259 --> 00:39:45,928
+¡Pantuflas, Charlie!
+
+583
+00:39:48,388 --> 00:39:51,683
+No pensé que vería el día cuando
+Enfrentaría al mundo y diría
+
+584
+00:39:52,017 --> 00:39:54,937
+Buenos días
+Mira al sol
+
+585
+00:39:55,646 --> 00:39:59,274
+Nunca pensé que estaría
+De repente en tanto lujo
+
+586
+00:39:59,358 --> 00:40:01,026
+Porque hubiera dicho
+
+587
+00:40:01,109 --> 00:40:02,778
+Que no se puede hacer
+
+588
+00:40:02,861 --> 00:40:04,655
+Pero sí se puede hacer
+
+589
+00:40:06,240 --> 00:40:08,242
+El bastón, Charlie.
+
+590
+00:40:12,996 --> 00:40:14,581
+¡Aquí voy!
+
+591
+00:40:15,499 --> 00:40:17,334
+¡Observen mi velocidad!
+
+592
+00:40:23,924 --> 00:40:27,553
+Nunca soñé que subiría
+Sobre la luna en éxtasis
+
+593
+00:40:27,636 --> 00:40:31,056
+Pero sin embargo es allá dónde
+Pronto voy a estar
+
+594
+00:40:31,139 --> 00:40:33,350
+Porque tengo un Boleto Dorado
+
+595
+00:40:34,935 --> 00:40:38,814
+Tengo una oportunidad dorada
+Para abrirme camino
+
+596
+00:40:38,897 --> 00:40:44,361
+Y con el Boleto Dorado
+Es un día dorado
+
+597
+00:41:00,294 --> 00:41:03,297
+¡Buenos días! ¡Mira al sol!
+
+598
+00:41:07,718 --> 00:41:11,471
+Porque hubiera dicho
+Que no se puede hacer
+
+599
+00:41:11,805 --> 00:41:13,974
+Pero sí se puede hacer
+
+600
+00:41:15,142 --> 00:41:19,104
+Nunca soñé que subiría
+Sobre la luna en éxtasis
+
+601
+00:41:19,188 --> 00:41:23,192
+Pero sin embargo es allá
+Donde pronto voy a estar
+
+602
+00:41:23,275 --> 00:41:25,402
+Porque tengo un Boleto Dorado
+
+603
+00:41:26,153 --> 00:41:28,113
+Tengo un Boleto Dorado
+
+604
+00:41:28,197 --> 00:41:31,950
+Tengo una oportunidad dorada
+Para abrirme camino
+
+605
+00:41:32,034 --> 00:41:38,373
+Y con el Boleto Dorado
+Es un día dorado
+
+606
+00:41:41,043 --> 00:41:44,463
+¡Para! Dice el primero de octubre.
+Es mañana.
+
+607
+00:41:44,546 --> 00:41:48,759
+¡Hay mucho que hacer! Peinarte,
+bañarte, bolear tus zapatos...
+
+608
+00:41:48,842 --> 00:41:51,970
+-Yo me encargo de todo.
+-No tenemos mucho tiempo.
+
+609
+00:41:52,054 --> 00:41:56,099
+Abuelo, camino a casa
+me encontré al señor Slugworth.
+
+610
+00:42:20,958 --> 00:42:22,793
+Oye, mamá, ¡estamos en la TV!
+
+611
+00:42:22,876 --> 00:42:24,962
+¡Hola, a todos en Marble Falls!
+
+612
+00:42:25,045 --> 00:42:28,841
+¡Hola, Billy! ¡Hola, Maggie!
+¡Hola, Faz de Pez! ¿Cómo me veo?
+
+613
+00:42:28,924 --> 00:42:30,509
+-¿Están listos?
+-Cómo no.
+
+614
+00:42:30,592 --> 00:42:32,594
+Este es el gran día.
+
+615
+00:42:32,678 --> 00:42:34,888
+Día en que Wonka abrirá sus puertas
+
+616
+00:42:34,972 --> 00:42:37,641
+y dará regalos a los cinco ganadores.
+
+617
+00:42:37,724 --> 00:42:39,893
+De todo el globo,
+la gente se ha congregado
+
+618
+00:42:39,977 --> 00:42:44,314
+a esperar la hora para ver
+al legendario mago, el señor Willy Wonka.
+
+619
+00:42:46,817 --> 00:42:50,404
+¡Amigos! No olviden visitar
+al Centro Beauregarde...
+
+620
+00:42:50,487 --> 00:42:53,490
+¡Basta, papá! ¡Este es mi programa!
+
+621
+00:42:53,574 --> 00:42:57,452
+¡Hola, Cornelia!
+¿Qué te parece tanta elasticidad?
+
+622
+00:43:10,632 --> 00:43:13,010
+Quiero entrar primero,
+antes que nadie.
+
+623
+00:43:13,093 --> 00:43:14,970
+Lo que tú digas.
+
+624
+00:43:18,182 --> 00:43:21,643
+Deja espacio para después,
+Augustus, liebling.
+
+625
+00:43:24,521 --> 00:43:28,358
+¡No lo creo! Estamos aquí.
+De veras vamos a entrar.
+
+626
+00:43:28,442 --> 00:43:32,196
+A ver al más grande de todos,
+¡el señor Willy Wonka!
+
+627
+00:45:17,134 --> 00:45:18,468
+Gracias.
+
+628
+00:45:19,469 --> 00:45:20,637
+Bienvenidos, amigos.
+
+629
+00:45:20,971 --> 00:45:22,931
+Bienvenidos a mi fábrica
+de chocolates.
+
+630
+00:45:23,640 --> 00:45:24,808
+¿Adelante, por favor?
+
+631
+00:45:26,101 --> 00:45:28,145
+¡Hacia atrás!
+¡Anda, Veruca!
+
+632
+00:45:34,109 --> 00:45:36,445
+Ese es Slugworth,
+el hombre de quien te conté.
+
+633
+00:45:41,241 --> 00:45:44,077
+Bienvenidos.
+Es un placer tenerlos aquí.
+
+634
+00:45:44,453 --> 00:45:45,954
+Tengo gusto de que vinieron.
+
+635
+00:45:46,038 --> 00:45:49,958
+Este va a ser un día emocionante.
+Espero que lo gocen.
+
+636
+00:45:50,417 --> 00:45:51,919
+Creo que sí.
+
+637
+00:45:52,252 --> 00:45:54,254
+Por favor enseñen sus Boletos Dorados.
+
+638
+00:45:55,464 --> 00:45:56,965
+Soy Veruca Salt.
+
+639
+00:45:57,049 --> 00:45:59,301
+Querida Veruca, ¡qué placer!
+
+640
+00:45:59,384 --> 00:46:01,637
+¡Te ves muy bien en ese abrigo
+de visón!
+
+641
+00:46:01,720 --> 00:46:03,430
+Tengo tres más en casa.
+
+642
+00:46:04,473 --> 00:46:07,935
+Qué gozo verlo, señor.
+Por favor, pasen por acá.
+
+643
+00:46:08,018 --> 00:46:09,144
+Augustus Gloop.
+
+644
+00:46:09,228 --> 00:46:11,313
+Augustus, ¡mi querido chico!
+
+645
+00:46:11,396 --> 00:46:14,149
+Gusto de verte, ¡y en tan buena forma!
+
+646
+00:46:14,233 --> 00:46:18,111
+Esta debe ser la radiante señora Gloop.
+Allá, querida dama.
+
+647
+00:46:18,195 --> 00:46:21,532
+-Violet Beauregarde.
+-¡Querida niña! Bienvenida a Wonka.
+
+648
+00:46:21,615 --> 00:46:23,200
+¿Qué clase de chicle tienes?
+
+649
+00:46:23,283 --> 00:46:24,535
+¡Encantadora!
+
+650
+00:46:25,118 --> 00:46:26,495
+¡Sam Beauregarde, aquí!
+
+651
+00:46:26,578 --> 00:46:28,205
+Qué genuino placer.
+
+652
+00:46:28,288 --> 00:46:31,667
+Para algo automotriz, llame.
+El número está en la tarjeta.
+
+653
+00:46:31,750 --> 00:46:33,836
+"¡Con Sam B., es garantía!"
+
+654
+00:46:34,795 --> 00:46:36,547
+Soy Mike Teevee.
+
+655
+00:46:36,630 --> 00:46:38,215
+¡Estás muerto!
+
+656
+00:46:38,298 --> 00:46:39,716
+¡Maravilloso conocerte!
+
+657
+00:46:39,800 --> 00:46:41,718
+Señora Teevee, ¿cómo está?
+
+658
+00:46:41,802 --> 00:46:44,513
+-Qué chico tan adorable tiene.
+-Gracias.
+
+659
+00:46:45,013 --> 00:46:46,056
+Charlie Bucket.
+
+660
+00:46:46,139 --> 00:46:50,727
+Leí acerca de ti en los periódicos.
+Me da gusto por ti. ¿Quién es él?
+
+661
+00:46:50,811 --> 00:46:52,563
+Mi abuelo. Abuelo Joe.
+
+662
+00:46:52,646 --> 00:46:53,480
+Un placer.
+
+663
+00:46:53,814 --> 00:46:56,024
+Qué gozo. Qué embeleso. Qué júbilo.
+
+664
+00:46:56,108 --> 00:46:57,568
+¿Estamos listos?
+¡Sí! ¡Bueno!
+
+665
+00:46:57,985 --> 00:46:59,319
+¡Entremos!
+
+666
+00:47:33,770 --> 00:47:36,899
+Sombreros, abrigos, zapatos, aquí.
+
+667
+00:47:36,982 --> 00:47:40,068
+Apúrense, tenemos mucho tiempo
+y muy poco que ver.
+
+668
+00:47:40,152 --> 00:47:42,237
+¡Un momento! Tachen eso.
+
+669
+00:47:42,321 --> 00:47:44,698
+Inviértanlo. Gracias.
+
+670
+00:47:46,742 --> 00:47:50,120
+-¿Cuándo me das mi chocolate?
+-Primero quítate el abrigo.
+
+671
+00:47:50,204 --> 00:47:51,663
+¡Qué colgadores tan raros!
+
+672
+00:47:54,374 --> 00:47:58,754
+Sorpresas en cada esquina,
+¡pero nada peligroso! No se alarmen.
+
+673
+00:47:59,046 --> 00:48:03,217
+Tan pronto como su ropa de encima
+esté colgada, comenzaremos.
+
+674
+00:48:03,800 --> 00:48:07,930
+Ahora, los niños vengan acá, por favor.
+
+675
+00:48:14,686 --> 00:48:19,191
+LA GERENCIA NO SE HACE
+RESPONSABLE POR ACCIDENTES
+
+676
+00:48:19,274 --> 00:48:21,401
+¿Accidentes? ¿Qué clase de accidentes?
+
+677
+00:48:21,485 --> 00:48:23,862
+No sabía que teníamos que firmar nada.
+
+678
+00:48:23,946 --> 00:48:25,531
+No puedo leer lo de abajo.
+
+679
+00:48:26,114 --> 00:48:28,033
+Violet, tú primero.
+
+680
+00:48:28,116 --> 00:48:29,326
+Firma aquí.
+
+681
+00:48:29,409 --> 00:48:30,536
+¡Detente!
+
+682
+00:48:30,619 --> 00:48:32,871
+Déjame pasar. No firmes nada.
+
+683
+00:48:33,163 --> 00:48:34,665
+¿De qué se trata?
+
+684
+00:48:34,748 --> 00:48:36,333
+La forma usual de un contrato.
+
+685
+00:48:36,416 --> 00:48:40,170
+No hables de contratos.
+Yo también los uso. Son para idiotas.
+
+686
+00:48:40,254 --> 00:48:43,674
+¿Me tomaría a mal
+un poco de protección? ¿Una gota?
+
+687
+00:48:43,757 --> 00:48:45,092
+No firmo nada.
+
+688
+00:48:45,342 --> 00:48:48,053
+-Veruca, ¡tampoco firmes nada!
+-Entonces no entra.
+
+689
+00:48:48,345 --> 00:48:49,888
+Lo siento. Es la regla.
+
+690
+00:48:50,138 --> 00:48:54,184
+-Quiero entrar. ¡No lo impidas!
+-Sólo quiero ayudarte.
+
+691
+00:48:54,268 --> 00:48:58,689
+¡Dame la pluma!
+Siempre haces las cosas difíciles.
+
+692
+00:48:59,523 --> 00:49:03,151
+¡Bien manipulado!
+Es una chica que sabe a dónde va.
+
+693
+00:49:04,319 --> 00:49:06,738
+¿Qué dice en letritas?
+
+694
+00:49:06,822 --> 00:49:09,491
+¿Problemas? Marque información.
+Gracias por llamar.
+
+695
+00:49:09,575 --> 00:49:12,995
+-Mike, Augustus.
+-Violet...
+
+696
+00:49:13,078 --> 00:49:15,664
+¿Supongo que hay
+una cláusula para accidentes?
+
+697
+00:49:15,747 --> 00:49:17,207
+Nunca entre amigos.
+
+698
+00:49:17,291 --> 00:49:20,502
+Lo vi en el cine. Él firmó
+la póliza de seguro de su esposa.
+
+699
+00:49:20,836 --> 00:49:22,838
+-Luego la mató.
+-Ingenioso.
+
+700
+00:49:22,921 --> 00:49:24,006
+¿Qué hago yo, abuelo?
+
+701
+00:49:24,089 --> 00:49:26,633
+¡Firma, Charlie!
+No tenemos nada que perder.
+
+702
+00:49:26,717 --> 00:49:28,051
+¡Entremos! ¡Vamos!
+
+703
+00:49:28,135 --> 00:49:31,972
+Paciencia.
+Todo tiene que estar en orden.
+
+704
+00:49:32,055 --> 00:49:33,932
+¿Todos firmaron? ¿Sí?
+
+705
+00:49:34,266 --> 00:49:35,726
+Bueno. ¡Sigamos!
+
+706
+00:49:45,277 --> 00:49:46,862
+Noventa y nueve,
+
+707
+00:49:47,196 --> 00:49:48,363
+cuarenta y cuatro,
+
+708
+00:49:48,697 --> 00:49:50,449
+cien por ciento puro.
+
+709
+00:49:52,117 --> 00:49:54,286
+Justo por la otra puerta, por favor.
+
+710
+00:49:56,622 --> 00:49:58,415
+Aquí hay un error.
+
+711
+00:49:59,124 --> 00:50:00,834
+No hay otra puerta.
+
+712
+00:50:01,126 --> 00:50:02,336
+¡No hay salida!
+
+713
+00:50:02,419 --> 00:50:05,339
+Yo sé que aquí por algún
+lado hay una puerta.
+
+714
+00:50:05,422 --> 00:50:07,424
+¡Esto no me gusta, Wonka!
+
+715
+00:50:07,508 --> 00:50:08,926
+¿Es esto un truco?
+
+716
+00:50:09,009 --> 00:50:10,886
+¡Señor Wonka, ayuda!
+
+717
+00:50:10,969 --> 00:50:12,846
+¡Me estoy aplastando!
+
+718
+00:50:12,930 --> 00:50:15,224
+¿Es mi alma que llama mi nombre?
+
+719
+00:50:15,307 --> 00:50:16,767
+¡Déjame salir o voy a gritar!
+
+720
+00:50:17,142 --> 00:50:19,603
+-¡Alguien me toca!
+-¡Ahora mira, Wonka!
+
+721
+00:50:19,686 --> 00:50:24,274
+El tiempo de preguntas será
+al fin de la sesión. Continuemos.
+
+722
+00:50:24,358 --> 00:50:25,400
+Vamos.
+
+723
+00:50:25,984 --> 00:50:27,611
+-Ya llegamos.
+-No seas tonto.
+
+724
+00:50:27,694 --> 00:50:29,196
+Por allí entramos.
+
+725
+00:50:29,530 --> 00:50:31,657
+¿Sí? ¿Está seguro?
+
+726
+00:50:32,324 --> 00:50:34,117
+Acabamos de entrar por allá.
+
+727
+00:50:34,201 --> 00:50:35,744
+¿Qué te parece?
+
+728
+00:50:37,037 --> 00:50:40,832
+-Ya estamos.
+-¿Qué es esto, Wonka? ¿Bromas?
+
+729
+00:50:40,916 --> 00:50:42,084
+¿Divirtiéndose?
+
+730
+00:50:42,167 --> 00:50:44,253
+Yo no voy a entrar allá.
+
+731
+00:50:44,336 --> 00:50:46,046
+Vamos a salirnos de aquí.
+
+732
+00:50:46,129 --> 00:50:49,842
+No pueden salir hacia atrás.
+Para salir sigan adelante.
+
+733
+00:50:49,925 --> 00:50:51,385
+Vale más seguir.
+
+734
+00:50:52,261 --> 00:50:54,930
+-El cuarto se está reduciendo.
+-¡No es cierto!
+
+735
+00:50:55,013 --> 00:50:57,266
+-Él se está agrandando.
+-¡Y sigue otra vez!
+
+736
+00:50:57,724 --> 00:51:00,477
+-¿Dónde está el chocolate?
+-Dudo que haya.
+
+737
+00:51:00,561 --> 00:51:03,188
+Dudo que salgamos vivos de aquí.
+
+738
+00:51:03,272 --> 00:51:05,649
+Nunca dudes
+de lo que nadie tiene certeza.
+
+739
+00:51:05,732 --> 00:51:08,151
+No puedes forzarme por esa puerta.
+
+740
+00:51:08,235 --> 00:51:10,779
+Estás loco.
+Nadie puede pasar por allí.
+
+741
+00:51:10,863 --> 00:51:12,322
+Mis queridos amigos,
+
+742
+00:51:12,406 --> 00:51:15,450
+van a entrar al centro nervioso
+
+743
+00:51:15,534 --> 00:51:17,828
+de toda la fábrica Wonka.
+
+744
+00:51:18,745 --> 00:51:22,958
+Dentro de esta sala,
+todos mis sueños se hacen realidad.
+
+745
+00:51:23,041 --> 00:51:25,169
+Y unas de mis realidades
+se vuelven sueños.
+
+746
+00:51:25,252 --> 00:51:29,173
+Y casi todo lo que ven es comestible.
+
+747
+00:51:29,256 --> 00:51:31,550
+Quiero decir, pueden comer casi todo.
+
+748
+00:51:31,633 --> 00:51:33,177
+¡Déjame entrar, tengo hambre!
+
+749
+00:51:33,260 --> 00:51:36,430
+No te emociones tanto.
+No pierdas la cabeza.
+
+750
+00:51:36,513 --> 00:51:38,307
+No queremos perder eso.
+
+751
+00:51:40,434 --> 00:51:41,643
+Aún.
+
+752
+00:51:41,727 --> 00:51:43,645
+Ahora, la combinación.
+
+753
+00:51:43,729 --> 00:51:45,772
+Es una cerradura musical.
+
+754
+00:51:48,275 --> 00:51:49,526
+Rachmaninoff.
+
+755
+00:51:49,610 --> 00:51:50,736
+Damas y caballeros...
+
+756
+00:51:52,112 --> 00:51:53,780
+chicos y chicas...
+
+757
+00:51:54,781 --> 00:51:56,491
+la Sala de Chocolate.
+
+758
+00:52:34,655 --> 00:52:36,490
+Contengan el aliento. Hagan un deseo.
+
+759
+00:52:37,533 --> 00:52:38,742
+Cuenten hasta tres.
+
+760
+00:52:39,535 --> 00:52:43,247
+Vengan conmigo
+Y estarán
+
+761
+00:52:43,330 --> 00:52:47,042
+En un mundo
+De pura imaginación
+
+762
+00:52:47,501 --> 00:52:48,877
+Den una ojeada
+
+763
+00:52:49,127 --> 00:52:50,838
+Y verán
+
+764
+00:52:50,921 --> 00:52:54,383
+Dentro de su imaginación
+
+765
+00:53:00,556 --> 00:53:02,558
+Comenzaremos
+
+766
+00:53:03,225 --> 00:53:04,685
+Girando
+
+767
+00:53:04,768 --> 00:53:08,522
+Viajando por el mundo de mi creación
+
+768
+00:53:09,022 --> 00:53:11,692
+Lo que veremos retará
+
+769
+00:53:13,777 --> 00:53:16,196
+La explicación
+
+770
+00:53:26,707 --> 00:53:29,710
+Y si quieren ver el paraíso
+
+771
+00:53:30,377 --> 00:53:33,046
+Simplemente miren alrededor y véanlo
+
+772
+00:53:34,798 --> 00:53:37,301
+Lo que quieran hacer, háganlo
+
+773
+00:53:38,719 --> 00:53:40,721
+Quieren cambiar al mundo
+
+774
+00:53:42,472 --> 00:53:44,516
+Es muy fácil
+
+775
+00:53:53,233 --> 00:53:54,318
+¡Apúrate, Violet!
+
+776
+00:53:54,401 --> 00:53:55,944
+¡Por acá, abuelo!
+
+777
+00:54:02,576 --> 00:54:05,537
+Ninguna vida conozco yo
+
+778
+00:54:05,621 --> 00:54:08,790
+Que se compare con la pura
+Imaginación
+
+779
+00:54:08,874 --> 00:54:11,835
+Viviendo allá
+Serán libres
+
+780
+00:54:12,336 --> 00:54:16,131
+Si de veras quieren serlo
+
+781
+00:54:57,256 --> 00:55:00,884
+Y si quieren ver el paraíso
+
+782
+00:55:01,301 --> 00:55:04,137
+Simplemente miren alrededor y véanlo
+
+783
+00:55:05,055 --> 00:55:08,433
+Lo que quieran hacer, háganlo
+
+784
+00:55:08,976 --> 00:55:11,603
+Quieren cambiar al mundo
+
+785
+00:55:11,687 --> 00:55:13,730
+Es muy...
+
+786
+00:55:14,690 --> 00:55:16,483
+Fácil
+
+787
+00:55:27,744 --> 00:55:31,874
+No hay vida que yo conozca
+
+788
+00:55:33,000 --> 00:55:38,172
+Que se compare con pura imaginación
+
+789
+00:55:39,339 --> 00:55:41,300
+Viviendo allá
+
+790
+00:55:43,051 --> 00:55:45,179
+Serán libres
+
+791
+00:55:46,180 --> 00:55:49,474
+Si de veras
+
+792
+00:55:51,435 --> 00:55:57,232
+Desean serlo
+
+793
+00:56:07,201 --> 00:56:09,203
+¡Que odioso y sucio río!
+
+794
+00:56:09,286 --> 00:56:10,746
+Es desperdicio industrial.
+
+795
+00:56:10,829 --> 00:56:12,998
+Una cuenca arruinada.
+Está contaminada.
+
+796
+00:56:13,081 --> 00:56:14,166
+Es chocolate.
+
+797
+00:56:14,249 --> 00:56:15,667
+¿Eso es chocolate?
+
+798
+00:56:15,751 --> 00:56:17,085
+Es chocolate.
+
+799
+00:56:17,169 --> 00:56:18,754
+Un río de chocolate.
+
+800
+00:56:18,837 --> 00:56:21,340
+Lo más fantástico que jamás
+haya visto.
+
+801
+00:56:21,423 --> 00:56:23,091
+10 000 galones por hora.
+
+802
+00:56:23,383 --> 00:56:27,137
+Miren a mi cascada.
+Es lo más importante.
+
+803
+00:56:28,222 --> 00:56:32,100
+Está mezclando mi chocolate.
+En realidad lo está batiendo.
+
+804
+00:56:32,184 --> 00:56:35,979
+Ninguna otra fábrica en el mundo
+mezcla chocolate en una cascada.
+
+805
+00:56:36,396 --> 00:56:39,691
+Pero es el único modo
+si lo quieres en su punto.
+
+806
+00:56:39,775 --> 00:56:42,194
+¡Abuelo, mira a través del río!
+
+807
+00:56:42,778 --> 00:56:43,820
+¡Hombrecitos!
+
+808
+00:56:43,904 --> 00:56:45,656
+¡Cocodrilos saltadores, Charlie!
+
+809
+00:56:45,989 --> 00:56:47,824
+Ahora sabemos quién lo hace.
+
+810
+00:56:48,075 --> 00:56:51,203
+Nunca antes vi a nadie
+con cara anaranjada.
+
+811
+00:56:52,079 --> 00:56:54,039
+Esa gente se ve chistosa.
+
+812
+00:56:54,122 --> 00:56:55,958
+¿Qué están haciendo?
+
+813
+00:56:56,041 --> 00:56:57,543
+Hora de espumar y endulzar.
+
+814
+00:56:57,626 --> 00:57:00,754
+-No pueden ser gente real.
+-Desde luego que lo son.
+
+815
+00:57:01,004 --> 00:57:02,214
+¡Tonterías!
+
+816
+00:57:02,297 --> 00:57:03,632
+No, Umpa Lumpas.
+
+817
+00:57:03,715 --> 00:57:06,468
+-No, Umpa Lumpas.
+-De Lumpalandia.
+
+818
+00:57:06,552 --> 00:57:08,470
+¿Lumpalandia? ¡No hay tal lugar!
+
+819
+00:57:08,554 --> 00:57:10,138
+Dispense, querida dama...
+
+820
+00:57:10,222 --> 00:57:11,640
+Yo enseño geografía.
+
+821
+00:57:11,723 --> 00:57:13,225
+Entonces lo sabe todo.
+
+822
+00:57:13,308 --> 00:57:14,977
+Y que es un país terrible.
+
+823
+00:57:15,060 --> 00:57:18,313
+De desiertos desolados
+y bestias feroces.
+
+824
+00:57:18,397 --> 00:57:21,567
+Los pobrecitos Umpa Lumpas
+eran tan chiquitos e indefensos,
+
+825
+00:57:21,650 --> 00:57:23,777
+que los Guangdudols
+se los tragaban.
+
+826
+00:57:23,861 --> 00:57:28,073
+Se comían diez de desayuno sin pensarlo.
+
+827
+00:57:28,156 --> 00:57:29,658
+Y yo dije:
+
+828
+00:57:29,741 --> 00:57:32,661
+"Vénganse a vivir conmigo
+en paz y seguridad
+
+829
+00:57:32,744 --> 00:57:35,747
+lejos de todos los Guangdudols
+y los Jornsguoglers
+
+830
+00:57:35,831 --> 00:57:39,501
+y los Snozguanguers
+y los podridos Vermichius Nids".
+
+831
+00:57:39,585 --> 00:57:43,672
+¿Snozguanguers? ¿Vermichius Nids?
+¿Qué clase de tonterías son esas?
+
+832
+00:57:43,755 --> 00:57:46,300
+Las preguntas deben
+presentarse por escrito.
+
+833
+00:57:46,550 --> 00:57:48,594
+Así, muy secretamente
+
+834
+00:57:48,677 --> 00:57:52,347
+transporté a toda la población
+de Umpa Lumpas para acá.
+
+835
+00:57:52,431 --> 00:57:56,435
+Quiero un Umpa Lumpa.
+¡Quiero que me consigas uno ya!
+
+836
+00:57:56,518 --> 00:57:59,062
+Muy bien, conseguiré uno
+antes de terminar el día.
+
+837
+00:57:59,563 --> 00:58:02,024
+¡Quiero un Umpa Lumpa ya!
+
+838
+00:58:02,107 --> 00:58:03,483
+¡Basta, boba!
+
+839
+00:58:04,318 --> 00:58:05,861
+Esto es brutal.
+
+840
+00:58:06,278 --> 00:58:09,489
+-Abuelo, mira a Augustus.
+-Está bien, no se lo tomará todo.
+
+841
+00:58:09,907 --> 00:58:13,452
+Augustus, cariño,
+deja espacio para después.
+
+842
+00:58:13,744 --> 00:58:17,748
+¡No hagas eso! Mi chocolate no debe
+ser tocado por manos humanas.
+
+843
+00:58:18,582 --> 00:58:21,543
+¡No hagas eso!
+¡Estás contaminado todo mi río!
+
+844
+00:58:21,627 --> 00:58:23,587
+Por favor, ¡te lo ruego, Augustus!
+
+845
+00:58:25,005 --> 00:58:26,215
+¡Mi chocolate!
+
+846
+00:58:26,298 --> 00:58:27,424
+¡Ayuda!
+
+847
+00:58:28,592 --> 00:58:30,844
+¡Mi chocolate!
+¡Mi hermoso chocolate!
+
+848
+00:58:32,346 --> 00:58:34,723
+¡No te quedes parado!
+¡Haz algo!
+
+849
+00:58:34,806 --> 00:58:37,309
+Ayuda. Policía. Homicidio.
+
+850
+00:58:37,392 --> 00:58:39,937
+-Rápido, Charlie.
+-¡Agarra esto!
+
+851
+00:58:40,896 --> 00:58:42,523
+¿Qué le está pasando?
+
+852
+00:58:42,606 --> 00:58:44,274
+-Parece que se está ahogando.
+-¡Entra!
+
+853
+00:58:44,358 --> 00:58:45,984
+-¡Sálvalo!
+-Es muy tarde.
+
+854
+00:58:46,068 --> 00:58:47,486
+-¿Muy tarde?
+-Ya para qué.
+
+855
+00:58:47,569 --> 00:58:50,113
+-La succión se lo llevó.
+-Augustus, ¡regresa!
+
+856
+00:58:50,614 --> 00:58:51,823
+¿Dónde está?
+
+857
+00:58:51,907 --> 00:58:52,991
+Mira al tubo.
+
+858
+00:58:53,617 --> 00:58:55,786
+¿Cuánto va a estar sumergido?
+
+859
+00:58:56,203 --> 00:58:58,997
+-¡No sabe nadar!
+-Ahora aprenderá.
+
+860
+00:58:59,081 --> 00:59:00,666
+¡Su saco va por el tubo!
+
+861
+00:59:00,749 --> 00:59:01,917
+¡Llama a un plomero!
+
+862
+00:59:02,000 --> 00:59:04,086
+Está atascado en el tubo, ¿sí?
+
+863
+00:59:04,169 --> 00:59:05,546
+Es su estómago.
+
+864
+00:59:06,713 --> 00:59:09,132
+-¡Está bloqueando el chocolate!
+-¿Y ahora qué?
+
+865
+00:59:09,716 --> 00:59:13,971
+La presión lo echará.
+Se está formando detrás del bloqueo.
+
+866
+00:59:14,763 --> 00:59:17,266
+¿Cuánto tiempo va a tomar?
+
+867
+00:59:17,349 --> 00:59:19,309
+El suspenso es terrible.
+
+868
+00:59:19,393 --> 00:59:20,644
+Espero que dure.
+
+869
+00:59:23,730 --> 00:59:25,607
+Nunca saldrá.
+
+870
+00:59:25,691 --> 00:59:26,942
+Sí, saldrá.
+
+871
+00:59:27,025 --> 00:59:30,279
+Una vez me preguntaste
+cómo sale una bala.
+
+872
+00:59:31,446 --> 00:59:33,866
+¡Se va a hacer dulce de malvavisco!
+
+873
+00:59:33,949 --> 00:59:37,619
+-Imposible querida dama. Inconcebible.
+-¿Por qué?
+
+874
+00:59:37,703 --> 00:59:40,247
+Porque ese tubo va
+a la Sala de Pasta Dulce.
+
+875
+00:59:40,330 --> 00:59:41,540
+¡Hombre horrible!
+
+876
+00:59:44,334 --> 00:59:47,337
+Lleva a la señora a la sala,
+pero fíjate
+
+877
+00:59:47,421 --> 00:59:49,464
+o su hijo se caerá en el cazo.
+
+878
+00:59:49,548 --> 00:59:51,383
+¡Lo herviste!
+
+879
+00:59:51,466 --> 00:59:55,220
+Nil desperandum. A través
+del desierto está la tierra prometida.
+
+880
+00:59:55,304 --> 00:59:56,805
+Adiós, señora Gloop.
+
+881
+00:59:56,889 --> 01:00:01,435
+¡Adieu! Auf wiedersehen.
+Gesundheit. Adiós.
+
+882
+01:00:02,853 --> 01:00:05,230
+Umpa Lumpa Dumpa Di Di
+
+883
+01:00:05,314 --> 01:00:08,442
+Tengo un perfecto rompecabezas
+Para ti
+
+884
+01:00:08,775 --> 01:00:11,320
+Umpa Lumpa Dumpa Di Das
+
+885
+01:00:11,945 --> 01:00:15,157
+Si eres sagaz me escucharás
+
+886
+01:00:15,240 --> 01:00:18,285
+¿Qué resulta
+Cuando devoras golosinas?
+
+887
+01:00:18,619 --> 01:00:21,622
+Comiendo como el elefante come
+
+888
+01:00:21,872 --> 01:00:24,917
+¿Para qué estás poniéndote tan gordo
+
+889
+01:00:25,000 --> 01:00:29,463
+¿Qué crees que resultará de eso?
+
+890
+01:00:29,963 --> 01:00:31,590
+No me gusta como se ve
+
+891
+01:00:31,840 --> 01:00:34,635
+Umpa Lumpa Dumpa Di Da
+
+892
+01:00:35,052 --> 01:00:38,055
+Si no eres avaro lejos llegarás
+
+893
+01:00:38,138 --> 01:00:41,141
+Y también feliz vivirás
+
+894
+01:00:41,517 --> 01:00:45,145
+Como el Umpa Lumpa
+Dumpa Di Du
+
+895
+01:00:50,734 --> 01:00:52,194
+Dumpa Di Du
+
+896
+01:00:55,072 --> 01:00:57,616
+¿Qué clase de lugar es este?
+
+897
+01:01:02,412 --> 01:01:03,830
+¿De qué habla?
+
+898
+01:01:22,432 --> 01:01:23,892
+¡Qué bote!
+
+899
+01:01:23,976 --> 01:01:26,478
+¡Está como para comerse!
+
+900
+01:01:26,562 --> 01:01:28,647
+Es bonita la canoa.
+
+901
+01:01:28,730 --> 01:01:32,901
+"Sólo falta un barco alto
+y una estrella para elevar anclas".
+
+902
+01:01:32,985 --> 01:01:34,152
+¡Pasajeros a bordo!
+
+903
+01:01:34,236 --> 01:01:36,405
+Las damas primero.
+Quiero decir, Veruca.
+
+904
+01:01:36,488 --> 01:01:39,575
+Si ella es dama,
+yo soy un Vermichius Nid.
+
+905
+01:01:39,658 --> 01:01:43,328
+-¿Estás seguro de que va a flotar?
+-Con su flotabilidad, claro.
+
+906
+01:01:43,412 --> 01:01:45,747
+Ella es très jolie,
+¿pero puede navegar?
+
+907
+01:01:45,831 --> 01:01:49,501
+No hay que preocuparse.
+Yo atiendo a mis invitados.
+
+908
+01:01:49,585 --> 01:01:53,547
+-Atendiste bien al chico Augustus.
+-¡Todos a bordo!
+
+909
+01:01:55,132 --> 01:01:56,925
+Les va a gustar esto.
+
+910
+01:01:57,009 --> 01:01:58,385
+Lo van a gozar.
+
+911
+01:02:28,916 --> 01:02:32,961
+Papi, quiero un bote como este.
+Bonito, con remos, eso quiero.
+
+912
+01:02:33,045 --> 01:02:35,672
+Lo que quiere es una nalgada.
+
+913
+01:02:36,006 --> 01:02:37,382
+Me voy a marear.
+
+914
+01:02:37,466 --> 01:02:39,051
+-Tome una de estas.
+-¿Qué son?
+
+915
+01:02:39,134 --> 01:02:41,762
+Gotas Arco Iris.
+Puede escupir en siete colores.
+
+916
+01:02:41,845 --> 01:02:43,555
+Escupir es un hábito sucio.
+
+917
+01:02:43,639 --> 01:02:45,265
+Yo conozco uno peor.
+
+918
+01:02:57,027 --> 01:02:59,863
+-¿Qué clase de negocios tienes?
+-Cacahuete.
+
+919
+01:03:12,209 --> 01:03:13,126
+¿Adónde vamos?
+
+920
+01:03:13,544 --> 01:03:15,420
+No me gusta ese túnel.
+
+921
+01:03:15,504 --> 01:03:16,922
+¡Quiero bajarme!
+
+922
+01:03:17,005 --> 01:03:21,969
+Alrededor del mundo y luego a casa.
+¡La vida del marinero!
+
+923
+01:03:22,636 --> 01:03:24,972
+¡No me gusta el viaje, papi!
+
+924
+01:03:28,976 --> 01:03:30,853
+¡Vamos demasiado rápido!
+
+925
+01:03:30,936 --> 01:03:32,521
+¡Nos vamos a hundir!
+
+926
+01:03:32,604 --> 01:03:34,857
+-¿Por qué no para el bote?
+-¡Más rápido!
+
+927
+01:03:34,940 --> 01:03:37,150
+¡Cierra los ojos y agárrate fuerte!
+
+928
+01:03:41,864 --> 01:03:44,157
+-¿Es esto una alucinación?
+-¡No es chistoso!
+
+929
+01:03:44,658 --> 01:03:46,869
+¡Ni siquiera puedes ver por dónde vas!
+
+930
+01:03:46,952 --> 01:03:48,912
+Tienes razón. No puedo.
+
+931
+01:03:49,162 --> 01:03:51,081
+¡Esto haría una gran serie!
+
+932
+01:03:53,000 --> 01:03:57,421
+-Esto es algo extraño.
+-Sí, extraño. ¡Pero divertido!
+
+933
+01:03:59,506 --> 01:04:01,341
+¡Quiero bajarme del bote, Wonka!
+
+934
+01:04:03,635 --> 01:04:04,595
+¡Podría marearme!
+
+935
+01:04:04,678 --> 01:04:06,305
+¡Esto es el colmo!
+
+936
+01:04:06,388 --> 01:04:09,099
+¡Dile al hombrecito que se devuelva!
+
+937
+01:04:09,725 --> 01:04:11,101
+¡Ahora sí estoy mareada!
+
+938
+01:04:12,227 --> 01:04:14,396
+-¡Abuelo!
+-No puede ser.
+
+939
+01:04:19,234 --> 01:04:22,696
+No hay modo
+En nuestras vidas de saber
+
+940
+01:04:24,072 --> 01:04:26,950
+Cuál es la dirección adónde vamos
+
+941
+01:04:27,534 --> 01:04:31,371
+No sabemos adónde navegamos
+
+942
+01:04:32,039 --> 01:04:34,958
+Ni el rumbo de los ríos al correr
+
+943
+01:04:35,459 --> 01:04:37,586
+¿Está lloviendo?
+
+944
+01:04:37,669 --> 01:04:40,172
+¿Está nevando?
+
+945
+01:04:40,255 --> 01:04:44,301
+¿Está un huracán soplando?
+
+946
+01:04:46,053 --> 01:04:49,806
+¡Nada de luz se está enseñando
+Porque el peligro está asechando!
+
+947
+01:04:50,390 --> 01:04:52,893
+¿Hay llamaradas infernales soplando?
+
+948
+01:04:53,727 --> 01:04:56,438
+¿Está la muerte ya arrasando?
+
+949
+01:04:56,522 --> 01:04:57,940
+¡Sí!
+
+950
+01:04:58,023 --> 01:05:02,778
+¡El peligro está asechando
+Porque los remadores siguen remando!
+
+951
+01:05:02,861 --> 01:05:05,906
+¡Y por cierto no están enseñando
+
+952
+01:05:06,198 --> 01:05:10,077
+Muestras de que están decelerando!
+
+953
+01:05:14,831 --> 01:05:17,042
+¡Hazlo parar, papi!
+
+954
+01:05:17,125 --> 01:05:19,294
+-¡Ya basta!
+-Es cierto, señor.
+
+955
+01:05:19,378 --> 01:05:20,504
+¡Para el bote!
+
+956
+01:05:22,422 --> 01:05:24,007
+-Ya llegamos.
+-¿Adónde?
+
+957
+01:05:24,091 --> 01:05:25,217
+Aquí.
+
+958
+01:05:25,300 --> 01:05:28,971
+Un corto paso para la humanidad,
+pero uno gigante para nosotros.
+
+959
+01:05:29,346 --> 01:05:30,889
+¡A desembarcar!
+
+960
+01:05:30,973 --> 01:05:33,016
+¡Déjame salir de esta carga!
+
+961
+01:05:33,100 --> 01:05:36,311
+-¿Por qué no enseñan eso en la TV?
+-No lo sé.
+
+962
+01:05:36,395 --> 01:05:37,563
+¡Qué pesadilla!
+
+963
+01:05:37,646 --> 01:05:40,148
+Papi, no quiero un bote como este.
+
+964
+01:05:40,232 --> 01:05:41,400
+"Crema de leche".
+
+965
+01:05:41,650 --> 01:05:42,734
+"Crema batida".
+
+966
+01:05:42,818 --> 01:05:44,862
+-"Crema de café".
+-"Crema de vainilla".
+
+967
+01:05:45,445 --> 01:05:47,155
+"¿Crema del pelo?"
+
+968
+01:05:50,409 --> 01:05:51,618
+Eso no es francés.
+
+969
+01:05:58,375 --> 01:05:59,877
+Ya no soporto más.
+
+970
+01:06:02,546 --> 01:06:04,923
+La Sala de Inventos.
+
+971
+01:06:05,465 --> 01:06:08,177
+Recuerden, no estropear.
+
+972
+01:06:08,260 --> 01:06:10,971
+No tocar, no probar, no decir.
+
+973
+01:06:11,054 --> 01:06:12,181
+¿No decir qué?
+
+974
+01:06:12,264 --> 01:06:16,560
+Todas mis invenciones secretas
+están hirviendo y cociéndose aquí.
+
+975
+01:06:16,977 --> 01:06:20,772
+Slugworth daría sus dientes postizos
+por estar aquí cinco minutos.
+
+976
+01:06:20,856 --> 01:06:23,650
+¡Así es que no toquen nada!
+
+977
+01:06:48,967 --> 01:06:52,012
+¿Sala de Inventos?
+Más bien parece un baño turco.
+
+978
+01:06:52,095 --> 01:06:55,724
+Aunque Slugworth viniera aquí,
+no iba a poder encontrar nada.
+
+979
+01:06:55,807 --> 01:06:58,268
+-¿Hay huelga de basureros?
+-¿Quién hace el aseo?
+
+980
+01:06:58,352 --> 01:06:59,978
+¿No deberías usar guantes?
+
+981
+01:07:00,062 --> 01:07:02,439
+Te visitarán inspectores de
+salubridad.
+
+982
+01:07:02,523 --> 01:07:06,276
+La invención, amigos,
+es 93 por ciento transpiración,
+
+983
+01:07:06,360 --> 01:07:08,529
+sies por ciento electricidad,
+
+984
+01:07:08,612 --> 01:07:10,531
+cuatro por ciento evaporación,
+
+985
+01:07:10,614 --> 01:07:13,033
+y el dos por ciento
+caramelo de mantequilla.
+
+986
+01:07:13,116 --> 01:07:15,452
+¡Eso es 105 por ciento!
+
+987
+01:07:15,536 --> 01:07:16,828
+¿Buen sabor?
+
+988
+01:07:18,247 --> 01:07:19,331
+Sí.
+
+989
+01:07:19,748 --> 01:07:21,166
+Con permiso.
+
+990
+01:07:23,585 --> 01:07:27,005
+El tiempo es oro.
+Nunca lo desperdicies.
+
+991
+01:07:28,841 --> 01:07:32,594
+-¡Está absolutamente loco!
+-Qué hay de malo.
+
+992
+01:07:35,097 --> 01:07:38,392
+En la primavera
+La estación de cantos alegres
+
+993
+01:07:38,475 --> 01:07:41,645
+Los pájaros cantan
+Oye, ding a ding a ding
+
+994
+01:07:41,728 --> 01:07:44,147
+Los amantes aman...
+
+995
+01:07:44,565 --> 01:07:45,774
+la primavera
+
+996
+01:07:48,819 --> 01:07:50,988
+Te dije que no, tonto.
+
+997
+01:07:51,071 --> 01:07:52,489
+¡Tus dientes!
+
+998
+01:07:52,573 --> 01:07:54,199
+Esto está sabroso.
+
+999
+01:07:54,533 --> 01:07:58,161
+Es el dulce explotador,
+para tus enemigos. Gran idea.
+
+1000
+01:07:58,245 --> 01:08:01,331
+Aún no está listo.
+Necesita más gel inflamable.
+
+1001
+01:08:11,049 --> 01:08:12,426
+¿Para qué es eso?
+
+1002
+01:08:12,509 --> 01:08:14,052
+Le da una patadita.
+
+1003
+01:08:16,721 --> 01:08:17,890
+¡Wonka!
+
+1004
+01:08:19,892 --> 01:08:22,144
+¿Caramelo de mantequilla?
+¿Caramelogín?
+
+1005
+01:08:22,394 --> 01:08:24,270
+¿Sucede algo adentro?
+
+1006
+01:08:24,354 --> 01:08:27,316
+"El dulce es bueno,
+pero el licor es más rápido".
+
+1007
+01:08:30,986 --> 01:08:33,447
+¿Qué pasa?
+¿Demasiado caliente, señor Wonka?
+
+1008
+01:08:33,529 --> 01:08:35,698
+¡Demasiado frío! Muy frío.
+
+1009
+01:08:35,782 --> 01:08:38,160
+Esa es la cocina gourmet.
+
+1010
+01:08:38,993 --> 01:08:41,037
+¡No! No lo haga, por favor.
+
+1011
+01:08:41,371 --> 01:08:44,166
+Dispénseme,
+pero nadie debe mirar allí abajo.
+
+1012
+01:08:44,416 --> 01:08:47,294
+Esta es la máquina
+más secreta en mi fábrica.
+
+1013
+01:08:47,669 --> 01:08:51,173
+-Esta va a enfurecer a Slugworth.
+-¿Qué hace?
+
+1014
+01:08:52,758 --> 01:08:54,926
+-¿Quieres ver?
+-¡Sí!
+
+1015
+01:09:18,450 --> 01:09:19,660
+¿Qué hace?
+
+1016
+01:09:19,743 --> 01:09:22,828
+¿Qué no ves?
+Hace el Eterno Sincesar.
+
+1017
+01:09:22,912 --> 01:09:24,747
+¿Eterno Sincesar?
+
+1018
+01:09:24,831 --> 01:09:28,126
+Para niños con poco dinero.
+Se chupan para siempre.
+
+1019
+01:09:28,210 --> 01:09:30,045
+¡Quiero un Eterno Sincesar!
+
+1020
+01:09:30,127 --> 01:09:31,255
+-¡Yo también!
+-¡Y yo!
+
+1021
+01:09:31,337 --> 01:09:34,006
+Fantástico.
+Revolucionará la industria.
+
+1022
+01:09:34,091 --> 01:09:37,845
+Los chupas y nunca se gastan.
+Nunca...
+
+1023
+01:09:37,928 --> 01:09:39,179
+creo.
+
+1024
+01:09:39,263 --> 01:09:41,430
+-Unas pruebas más.
+-¿Cómo los haces?
+
+1025
+01:09:41,515 --> 01:09:45,185
+Estoy un poco sordo.
+Háblame más fuerte.
+
+1026
+01:09:45,269 --> 01:09:48,729
+-¿Quién quiere un Eterno Sincesar?
+-¡Yo! ¡Yo! ¡Y yo!
+
+1027
+01:09:49,731 --> 01:09:54,194
+Sólo se los puedo dar
+si juran no dárselos a nadie.
+
+1028
+01:09:54,278 --> 01:09:58,323
+Y no enseñárselos a nadie
+por el resto de sus días.
+
+1029
+01:09:58,907 --> 01:10:00,868
+-¿De acuerdo?
+-¡De acuerdo!
+
+1030
+01:10:00,951 --> 01:10:04,538
+Bien. Uno para ti,
+y uno para ti, y uno para ti.
+
+1031
+01:10:04,621 --> 01:10:05,998
+¿Y para Charlie?
+
+1032
+01:10:06,331 --> 01:10:07,708
+Y uno para Charlie.
+
+1033
+01:10:07,791 --> 01:10:10,294
+¡Oye, ella tiene dos!
+¡Yo quiero otro!
+
+1034
+01:10:10,377 --> 01:10:13,297
+-Basta de graznar, ¡boba!
+-Todos tienen uno.
+
+1035
+01:10:13,380 --> 01:10:16,925
+Y uno es suficiente para cualquiera.
+Ahora, vengan.
+
+1036
+01:10:18,343 --> 01:10:20,137
+Si vienen conmigo...
+
+1037
+01:10:20,220 --> 01:10:22,556
+les tengo algo especial.
+
+1038
+01:10:22,639 --> 01:10:24,183
+Ya lo creo que es especial.
+
+1039
+01:10:24,683 --> 01:10:26,977
+Sólo espero que Veruca no quiera uno.
+
+1040
+01:10:27,060 --> 01:10:28,312
+¡Qué artificio!
+
+1041
+01:10:28,395 --> 01:10:29,605
+¿No es magnífica?
+
+1042
+01:10:29,688 --> 01:10:32,608
+Mi revolucionaria,
+y purificadora maravilla mecánica.
+
+1043
+01:10:32,691 --> 01:10:36,028
+Botón, botón,
+¿quién tiene el botón?
+
+1044
+01:10:36,445 --> 01:10:37,946
+Allá está.
+
+1045
+01:10:38,530 --> 01:10:39,740
+-¿Aquí?
+-Sí.
+
+1046
+01:10:55,714 --> 01:10:58,050
+Lo que están testificando,
+estimados amigos,
+
+1047
+01:10:58,133 --> 01:11:01,178
+es el milagro más enorme
+de la era mecánica.
+
+1048
+01:11:01,261 --> 01:11:04,223
+¡La creación
+de una confitería gigante!
+
+1049
+01:11:15,442 --> 01:11:17,986
+-¿Es todo?
+-¿No sabes qué es esto?
+
+1050
+01:11:18,237 --> 01:11:20,030
+-¡Es chicle!
+-¡Incorrecto!
+
+1051
+01:11:20,113 --> 01:11:24,159
+¡Es el chicle más fabuloso
+en el mundo!
+
+1052
+01:11:24,243 --> 01:11:25,327
+¿Por qué es tan fabuloso?
+
+1053
+01:11:25,410 --> 01:11:28,830
+-Este chicle es una cena de tres platos.
+-¡Mentiras!
+
+1054
+01:11:28,914 --> 01:11:31,792
+-Carne asada, pero aún no está bien.
+-¡No me importa!
+
+1055
+01:11:31,875 --> 01:11:34,211
+Yo no haría eso. De veras.
+
+1056
+01:11:34,294 --> 01:11:36,213
+Si es chicle, es para mí.
+
+1057
+01:11:36,296 --> 01:11:38,298
+Violet, no hagas nada estúpido.
+
+1058
+01:11:38,382 --> 01:11:40,259
+¿A qué sabe?
+
+1059
+01:11:40,592 --> 01:11:43,679
+¡Locura! ¡Es sopa de tomate!
+
+1060
+01:11:43,762 --> 01:11:46,390
+Es cremosa.
+¡La siento correr por mi garganta!
+
+1061
+01:11:46,765 --> 01:11:48,308
+Ya para. No lo hagas.
+
+1062
+01:11:48,392 --> 01:11:50,060
+¿Por qué no escucha?
+
+1063
+01:11:50,143 --> 01:11:52,729
+Porque, Charlie, ella es una boba.
+
+1064
+01:11:53,105 --> 01:11:54,314
+¡Sabrosa sopa!
+
+1065
+01:11:54,398 --> 01:11:56,316
+Viene el segundo plato.
+
+1066
+01:11:56,400 --> 01:11:58,861
+¡Carne asada y papas horneadas!
+
+1067
+01:11:59,528 --> 01:12:01,029
+¿Con crema agria?
+
+1068
+01:12:02,489 --> 01:12:05,409
+-¿Qué hay de postre?
+-¿Postre? ¡Aquí viene!
+
+1069
+01:12:05,492 --> 01:12:09,663
+¡Pastel de arándano! ¡Es el más
+maravilloso que jamás haya probado!
+
+1070
+01:12:09,746 --> 01:12:12,374
+-¿Qué le está pasando a tu cara?
+-¡Cálmate!
+
+1071
+01:12:12,457 --> 01:12:13,584
+Déjame terminar.
+
+1072
+01:12:13,667 --> 01:12:15,586
+¡Tu cara se está poniendo azul!
+
+1073
+01:12:15,669 --> 01:12:18,755
+-¡Te estás poniendo violeta, Violet!
+-¿De qué hablas?
+
+1074
+01:12:18,839 --> 01:12:21,175
+Te dije que aún
+no lo he perfeccionado.
+
+1075
+01:12:21,258 --> 01:12:23,760
+¡Mira lo que le hizo a mi hija!
+
+1076
+01:12:23,844 --> 01:12:27,931
+Siempre sale mal
+cuando llego al postre. Siempre.
+
+1077
+01:12:28,473 --> 01:12:29,808
+¡Qué estás haciendo!
+
+1078
+01:12:29,892 --> 01:12:32,019
+-¡Vas a reventarte!
+-¡Me siento rara!
+
+1079
+01:12:32,102 --> 01:12:34,146
+-No me sorprende.
+-¿Qué está pasando?
+
+1080
+01:12:34,229 --> 01:12:36,481
+-¡Estás como un globo!
+-¡Un arándano!
+
+1081
+01:12:36,565 --> 01:12:38,984
+-¡Llama a un doctor!
+-Desínflenla.
+
+1082
+01:12:39,067 --> 01:12:41,111
+-¡Se reventará!
+-¡Eso pasa cada vez!
+
+1083
+01:12:41,195 --> 01:12:44,489
+-Todos se hacen arándanos.
+-¡Y lo has hecho esta vez!
+
+1084
+01:12:44,573 --> 01:12:46,116
+¡Te arruinaré por esto!
+
+1085
+01:12:46,200 --> 01:12:48,368
+-Al final descubriré el secreto.
+-¡Ayuda!
+
+1086
+01:12:49,411 --> 01:12:51,955
+¡Tenemos que sacarle el aire!
+
+1087
+01:12:52,039 --> 01:12:53,373
+No hay aire.
+
+1088
+01:12:53,457 --> 01:12:55,292
+-Es jugo.
+-¿Jugo?
+
+1089
+01:12:55,375 --> 01:12:58,462
+Rueda a esta niña
+a la sala de exprimir jugo.
+
+1090
+01:12:58,545 --> 01:13:00,714
+-¿Para qué?
+-Para que la expriman.
+
+1091
+01:13:00,797 --> 01:13:03,467
+Se tiene que exprimir
+para que no explote.
+
+1092
+01:13:03,550 --> 01:13:06,053
+-¿Explotar?
+-Es una operación muy simple.
+
+1093
+01:13:06,136 --> 01:13:09,806
+Umpa Lumpa Dumpa Di Di
+
+1094
+01:13:09,890 --> 01:13:13,477
+Tengo otro rompecabezas para ti
+
+1095
+01:13:13,560 --> 01:13:16,772
+Umpa Lumpa Dumpa Di Das
+
+1096
+01:13:17,356 --> 01:13:20,817
+Si eres sabia me escucharás
+
+1097
+01:13:21,068 --> 01:13:24,112
+Mascar chicle está bien
+Si se hace de vez en cuando
+
+1098
+01:13:24,363 --> 01:13:28,075
+Te previene de fumar
+Y alegra tu sonrisa
+
+1099
+01:13:28,158 --> 01:13:31,578
+Pero es repulsivo
+Ofensivo e indebido
+
+1100
+01:13:31,662 --> 01:13:33,664
+Mascar y mascar
+
+1101
+01:13:33,747 --> 01:13:35,874
+Todo el día
+
+1102
+01:13:37,376 --> 01:13:39,378
+Como lo hace una vaca
+
+1103
+01:13:40,963 --> 01:13:44,258
+Umpa Lumpa Dumpa Di Das
+
+1104
+01:13:44,633 --> 01:13:47,636
+Con buenas costumbres
+Lejos llegarás
+
+1105
+01:13:48,303 --> 01:13:50,973
+Y también feliz vivirás
+
+1106
+01:13:51,807 --> 01:13:56,019
+Como los Umpa Lumpa
+Dumpa Di Du
+
+1107
+01:14:00,232 --> 01:14:03,694
+¡Me voy a vengar,
+aunque sea lo último que haga!
+
+1108
+01:14:03,777 --> 01:14:06,446
+¡Tengo un arándano de hija!
+
+1109
+01:14:07,322 --> 01:14:11,159
+"¿Dónde se cría el buen gusto?
+¿En el alma o en los sesos?"
+
+1110
+01:14:12,619 --> 01:14:14,162
+Rodémonos.
+
+1111
+01:14:18,417 --> 01:14:19,751
+Gracias.
+
+1112
+01:14:20,586 --> 01:14:25,048
+¡Bien, bien, bien! Dos niños
+pícaros y malcriados se han ido.
+
+1113
+01:14:25,591 --> 01:14:29,011
+Tres buenos y dulces niños se quedan.
+
+1114
+01:14:31,096 --> 01:14:33,974
+Apúrense, por favor.
+Aún hay mucho que recorrer.
+
+1115
+01:14:37,436 --> 01:14:39,646
+Un momento.
+Tengo que enseñarles esto.
+
+1116
+01:14:39,730 --> 01:14:42,482
+Papel tapiz que se lame,
+para guardería infantil.
+
+1117
+01:14:42,566 --> 01:14:44,776
+Lamen una naranja sabe a naranja.
+
+1118
+01:14:44,860 --> 01:14:48,447
+O una piña, sabe a piña.
+Saben a esas frutas. ¡Pruébenlo!
+
+1119
+01:14:49,781 --> 01:14:50,866
+¡Probé una ciruela!
+
+1120
+01:14:50,949 --> 01:14:54,411
+¡Abuelo, este plátano es fantástico!
+¡Parece genuino!
+
+1121
+01:14:54,661 --> 01:14:57,956
+Prueben más. Las fresas
+saben a fresas.
+
+1122
+01:14:58,040 --> 01:15:00,459
+Los esnozberris saben a esnozberris.
+
+1123
+01:15:00,542 --> 01:15:03,712
+¿Esnozberris?
+¿Quién ha oído jamás de un esnozberri?
+
+1124
+01:15:04,755 --> 01:15:07,174
+Somos los hacedores de la música.
+
+1125
+01:15:07,508 --> 01:15:10,802
+Y somos los soñadores de sueños.
+
+1126
+01:15:11,929 --> 01:15:13,388
+Vengan.
+
+1127
+01:15:16,683 --> 01:15:19,269
+Algo extraño aquí.
+
+1128
+01:15:19,603 --> 01:15:22,773
+Burbujas, burbujas por dondequiera,
+pero ni una gota para tomar.
+
+1129
+01:15:22,856 --> 01:15:23,982
+Aún.
+
+1130
+01:15:24,066 --> 01:15:25,651
+¿Qué está mezclando?
+
+1131
+01:15:25,734 --> 01:15:30,531
+Bebidas de Gaseleva.
+Te llenan de gas y te elevas
+
+1132
+01:15:30,614 --> 01:15:32,241
+del suelo como un globo.
+
+1133
+01:15:32,324 --> 01:15:34,910
+¡Ay, qué alto!
+
+1134
+01:15:35,452 --> 01:15:37,079
+Pero todavía está muy fuerte.
+
+1135
+01:15:37,162 --> 01:15:38,413
+¡Probémoslo!
+
+1136
+01:15:39,122 --> 01:15:43,585
+No, no. ¡Hubiera niños flotando
+por todo el lugar!
+
+1137
+01:15:43,669 --> 01:15:45,629
+Vengan, no se queden por allí.
+
+1138
+01:15:46,296 --> 01:15:48,715
+Les gustará el siguiente.
+
+1139
+01:15:49,925 --> 01:15:52,427
+Vamos a tomar algo.
+Nadie nos mira.
+
+1140
+01:15:52,511 --> 01:15:54,304
+Uno no nos hará daño.
+
+1141
+01:16:00,477 --> 01:16:01,562
+No está mal.
+
+1142
+01:16:03,313 --> 01:16:04,565
+¿Y qué?
+
+1143
+01:16:04,815 --> 01:16:06,316
+No siento nada.
+
+1144
+01:16:06,650 --> 01:16:09,862
+Tienes razón, Charlie.
+¡No lo entiendo...!
+
+1145
+01:16:12,322 --> 01:16:13,991
+Me siento muy extraño.
+
+1146
+01:16:14,074 --> 01:16:16,994
+-¿Qué hacemos ahora?
+-No sé, Charlie...
+
+1147
+01:16:17,744 --> 01:16:22,040
+-¡Al señor Wonka no le va a gustar esto!
+-¡No podemos estar aquí todo el día!
+
+1148
+01:16:22,124 --> 01:16:24,042
+-Es cierto.
+-Trataré de bajarme.
+
+1149
+01:16:24,126 --> 01:16:27,171
+Bueno, Charlie,
+pero, por favor, ten cuidado.
+
+1150
+01:16:28,172 --> 01:16:32,134
+¡Qué divertido! ¡Da resultados!
+¡Anda, abuelo! ¡El aire está rico!
+
+1151
+01:16:32,217 --> 01:16:35,304
+-No he nadado en 20 años.
+-¡Dame tu mano!
+
+1152
+01:16:35,387 --> 01:16:37,347
+No creo que deba.
+
+1153
+01:16:40,017 --> 01:16:41,935
+¡Esto es gozo!
+
+1154
+01:16:42,352 --> 01:16:43,770
+¡Prueba esto, abuelo!
+
+1155
+01:16:44,104 --> 01:16:46,356
+Bueno, Charlie. ¡Espérame!
+
+1156
+01:16:50,194 --> 01:16:53,071
+-¡Soy una estrella fugaz!
+-¡Soy un cohete!
+
+1157
+01:16:54,531 --> 01:16:56,491
+¡Esto es grandioso!
+
+1158
+01:16:56,575 --> 01:16:58,660
+¡Mira, soy un pájaro!
+
+1159
+01:17:00,704 --> 01:17:02,873
+Me siento tan ligero como una pluma.
+
+1160
+01:17:03,707 --> 01:17:04,958
+Mira hacia abajo.
+
+1161
+01:17:05,042 --> 01:17:06,960
+Ahora sí estamos muy alto.
+
+1162
+01:17:11,131 --> 01:17:12,799
+Mira esto, abuelo.
+
+1163
+01:17:16,386 --> 01:17:17,930
+¡Qué bien, Charlie!
+
+1164
+01:17:18,013 --> 01:17:20,349
+-¡Hazlo, abuelo!
+-¡No estoy seguro!
+
+1165
+01:17:20,432 --> 01:17:22,017
+¡Anda, abuelo!
+
+1166
+01:17:22,100 --> 01:17:23,644
+Bueno.
+
+1167
+01:17:25,979 --> 01:17:28,148
+¡Pudiste hacerlo, abuelo!
+
+1168
+01:17:29,566 --> 01:17:31,443
+Topé un bache de aire.
+
+1169
+01:17:31,527 --> 01:17:33,695
+¡Puedes volar a la luna así!
+
+1170
+01:17:33,779 --> 01:17:35,864
+Volemos al sur en el invierno.
+
+1171
+01:17:35,948 --> 01:17:37,407
+¿Por qué no?
+
+1172
+01:17:39,243 --> 01:17:40,327
+¡Soy un pájaro!
+
+1173
+01:17:40,577 --> 01:17:41,954
+¡Soy un aeroplano!
+
+1174
+01:17:42,037 --> 01:17:45,165
+¡Voy... demasiado alto!
+
+1175
+01:17:45,999 --> 01:17:48,335
+Oye, abuelo, ¡no me puedo bajar!
+
+1176
+01:17:48,418 --> 01:17:49,545
+¡Ayuda!
+
+1177
+01:17:49,628 --> 01:17:51,380
+¡Abuelo, el ventilador!
+
+1178
+01:17:51,463 --> 01:17:53,632
+¡Nos hará pedacitos!
+
+1179
+01:17:53,715 --> 01:17:56,009
+¡Estamos en aprietos!
+¡No puedo parar!
+
+1180
+01:17:56,260 --> 01:17:57,636
+¡Me está jalando!
+
+1181
+01:17:57,719 --> 01:17:59,721
+¡No puedo parar!
+
+1182
+01:17:59,805 --> 01:18:02,182
+-¿Qué hacemos?
+-¡Agárrate de algo!
+
+1183
+01:18:02,850 --> 01:18:05,435
+¡No hay nada de qué agarrarme!
+¡Ayuda!
+
+1184
+01:18:05,894 --> 01:18:07,229
+¡Nos vamos a matar!
+
+1185
+01:18:07,563 --> 01:18:09,273
+¡Ayuda! ¡Ayuda!
+
+1186
+01:18:09,356 --> 01:18:12,234
+Señor Wonka, ¡por favor!
+¡Apague el ventilador!
+
+1187
+01:18:15,654 --> 01:18:17,489
+¡Ya voy bajando!
+
+1188
+01:18:17,573 --> 01:18:20,617
+¡Eructa! Si no lo haces,
+te cortará en pedacitos.
+
+1189
+01:18:20,701 --> 01:18:22,953
+-¡No puedo!
+-¡Tienes que eructar!
+
+1190
+01:18:23,036 --> 01:18:24,997
+¡Es el único modo!
+
+1191
+01:18:25,247 --> 01:18:27,624
+¡Así, hijo! ¡Eructa otra vez!
+
+1192
+01:18:27,708 --> 01:18:29,668
+¡Así, hijo! ¡Ándale!
+
+1193
+01:18:31,920 --> 01:18:34,089
+¡Muy bien, Charlie!
+
+1194
+01:18:40,596 --> 01:18:44,308
+Agárrate. Vamos a salir del apuro.
+
+1195
+01:18:51,857 --> 01:18:53,066
+¡Buen chico!
+
+1196
+01:18:53,609 --> 01:18:56,236
+De aquí en más,
+a mantener los pies en el piso.
+
+1197
+01:18:56,320 --> 01:18:58,280
+¡Vamos a alcanzar a los otros!
+
+1198
+01:19:00,949 --> 01:19:02,659
+Sé lo que están pensando.
+
+1199
+01:19:02,743 --> 01:19:04,912
+No pueden estar haciendo eso.
+
+1200
+01:19:04,995 --> 01:19:07,164
+Pero lo están. Tienen que hacerlo.
+
+1201
+01:19:07,247 --> 01:19:09,416
+Los Umpa Lumpas no pueden hacerlo.
+
+1202
+01:19:10,000 --> 01:19:12,336
+¡Los gansos que ponen huevos de oro!
+
+1203
+01:19:12,419 --> 01:19:15,005
+Son más grandes
+que los gansos comunes.
+
+1204
+01:19:15,088 --> 01:19:18,800
+Son de tamaño cuádruple,
+que producen huevos de tamaño óctuple.
+
+1205
+01:19:18,884 --> 01:19:20,802
+Están poniendo para la Pascua.
+
+1206
+01:19:20,886 --> 01:19:22,846
+¡Pero ya pasó la Pascua!
+
+1207
+01:19:23,096 --> 01:19:24,556
+Ellos no saben eso.
+
+1208
+01:19:24,640 --> 01:19:26,975
+Trato de adelantarme
+para el año próximo.
+
+1209
+01:19:28,602 --> 01:19:31,146
+¿Y si quiebran un huevo?
+
+1210
+01:19:31,230 --> 01:19:33,607
+Una tortilla de huevo digna de un rey.
+
+1211
+01:19:33,941 --> 01:19:35,526
+¿Son huevos de chocolate?
+
+1212
+01:19:35,776 --> 01:19:38,654
+¡Huevos dorados de chocolate!
+Un delicioso bocado.
+
+1213
+01:19:38,737 --> 01:19:40,322
+Pero no se acerquen mucho.
+
+1214
+01:19:40,405 --> 01:19:44,034
+Los gansos son sensibles.
+Así que tenemos el Huevicador,
+
+1215
+01:19:44,368 --> 01:19:48,372
+que indica la diferencia
+entre un buen huevo
+
+1216
+01:19:48,455 --> 01:19:49,540
+y un mal huevo.
+
+1217
+01:19:49,623 --> 01:19:53,001
+Si es bueno, le dan lustre
+y lo envían alrededor del mundo.
+
+1218
+01:19:53,377 --> 01:19:55,295
+Si es un huevo malo...
+
+1219
+01:19:56,213 --> 01:19:57,714
+se baja por la rampa.
+
+1220
+01:20:01,969 --> 01:20:03,679
+Un Huevicador educado.
+
+1221
+01:20:03,762 --> 01:20:05,389
+Es una bola de tonterías.
+
+1222
+01:20:05,973 --> 01:20:09,017
+Una tontería de vez en cuando
+
+1223
+01:20:09,101 --> 01:20:12,980
+Es un gran deleite para los sabios.
+
+1224
+01:20:13,230 --> 01:20:14,940
+¡Quiero un ganso dorado!
+
+1225
+01:20:15,023 --> 01:20:16,233
+Vuelta a lo mismo.
+
+1226
+01:20:16,483 --> 01:20:18,151
+Bien, cariño.
+
+1227
+01:20:18,235 --> 01:20:20,487
+Tendrás uno tan pronto
+como lleguemos a casa.
+
+1228
+01:20:20,737 --> 01:20:23,073
+¡No, quiero uno de esos!
+
+1229
+01:20:23,740 --> 01:20:26,034
+¿Cuánto quieres por un ganso?
+
+1230
+01:20:26,118 --> 01:20:27,661
+-No se venden.
+-Ponle precio.
+
+1231
+01:20:27,744 --> 01:20:28,996
+No puede comprarlo.
+
+1232
+01:20:29,079 --> 01:20:30,414
+¿Quién dice que no puedo?
+
+1233
+01:20:30,497 --> 01:20:32,499
+-El del sombrero.
+-¡Quiero uno!
+
+1234
+01:20:32,583 --> 01:20:34,543
+¡Quiero un ganso dorado!
+
+1235
+01:20:34,626 --> 01:20:35,794
+¡Gansos!
+
+1236
+01:20:35,878 --> 01:20:37,212
+¡Gansas!
+
+1237
+01:20:37,296 --> 01:20:40,174
+Quiero que mis gansos pongan
+huevos dorados para Pascua.
+
+1238
+01:20:40,257 --> 01:20:42,551
+-Lo harán, cariño.
+-Al menos 100 al día.
+
+1239
+01:20:42,634 --> 01:20:45,637
+-Lo que tú digas.
+-¡Y a propósito!
+
+1240
+01:20:45,721 --> 01:20:47,139
+Quiero una fiesta.
+
+1241
+01:20:47,222 --> 01:20:49,057
+Comiste antes de venir.
+
+1242
+01:20:49,141 --> 01:20:50,684
+Quiero una fiesta de frijol
+
+1243
+01:20:50,767 --> 01:20:52,102
+Una de esas.
+
+1244
+01:20:52,186 --> 01:20:55,147
+Bollos de crema y pan dulce
+Y pastel de frutas sin nueces
+
+1245
+01:20:55,230 --> 01:20:56,690
+Tan sabrosos que me vuelvan loca
+
+1246
+01:20:56,773 --> 01:20:58,650
+Ya los tendrás al llegar a casa.
+
+1247
+01:20:58,734 --> 01:21:01,945
+¡No, ya! ¡Quiero una fiesta!
+
+1248
+01:21:02,196 --> 01:21:04,239
+Quiero una fiesta
+
+1249
+01:21:04,531 --> 01:21:06,533
+Almendrados rosas
+Y un millón de globos
+
+1250
+01:21:06,783 --> 01:21:09,077
+Y mandriles amaestrados
+
+1251
+01:21:09,161 --> 01:21:10,537
+Dámela
+
+1252
+01:21:10,913 --> 01:21:11,997
+¡Ya!
+
+1253
+01:21:12,080 --> 01:21:14,041
+Quiero al mundo
+
+1254
+01:21:14,458 --> 01:21:16,835
+Quiero a todo el mundo
+
+1255
+01:21:16,919 --> 01:21:21,340
+Quiero encerrarlo en mi bolsillo
+Es mi dulce de chocolate
+
+1256
+01:21:21,423 --> 01:21:24,510
+Dámelo ya
+
+1257
+01:21:24,593 --> 01:21:26,845
+Quiero este día
+
+1258
+01:21:26,929 --> 01:21:29,097
+Quiero el mañana
+
+1259
+01:21:29,181 --> 01:21:31,934
+Quiero lucirlos
+Como trenzas en mi pelo
+
+1260
+01:21:32,017 --> 01:21:34,144
+Y no quiero compartirlos
+
+1261
+01:21:37,981 --> 01:21:41,693
+Quiero una fiesta
+Con salas llenas de risa
+
+1262
+01:21:41,777 --> 01:21:44,696
+10 000 toneladas de helado
+
+1263
+01:21:44,780 --> 01:21:49,284
+Y si no logro las cosas que persigo
+
+1264
+01:21:49,368 --> 01:21:54,665
+Voy a gritar
+
+1265
+01:22:03,257 --> 01:22:04,633
+Lo quiero todo
+
+1266
+01:22:04,716 --> 01:22:06,218
+Completamente todo
+
+1267
+01:22:06,301 --> 01:22:09,054
+Regalos y premios
+Y dulces y sorpresas
+
+1268
+01:22:09,137 --> 01:22:11,807
+En todas formas y tamaños
+Pero ya
+
+1269
+01:22:12,099 --> 01:22:16,061
+No importa cómo
+Lo quiero ya
+
+1270
+01:22:16,603 --> 01:22:20,274
+No importa cómo
+Lo quiero ya
+
+1271
+01:22:29,032 --> 01:22:30,450
+Era un huevo malo.
+
+1272
+01:22:31,952 --> 01:22:33,120
+¿Adónde se fue?
+
+1273
+01:22:33,370 --> 01:22:36,540
+Adonde van los huevos malos.
+Bajan por la rampa de la basura.
+
+1274
+01:22:36,790 --> 01:22:38,792
+¡La rampa de la basura!
+
+1275
+01:22:39,376 --> 01:22:40,836
+¿A qué lugar va?
+
+1276
+01:22:40,919 --> 01:22:42,546
+Al calentón.
+
+1277
+01:22:42,880 --> 01:22:44,715
+¿Al calentón?
+
+1278
+01:22:45,549 --> 01:22:48,427
+-Hervirá como una salchicha.
+-Puede que no.
+
+1279
+01:22:48,510 --> 01:22:52,347
+-Puede que esté atascada dentro del tubo.
+-¡Agárrate!
+
+1280
+01:22:52,431 --> 01:22:54,099
+¡Veruca! ¡Cariño!
+
+1281
+01:22:54,183 --> 01:22:56,059
+¡Papito ya va!
+
+1282
+01:22:58,604 --> 01:23:00,772
+Hoy va a haber mucha basura.
+
+1283
+01:23:00,856 --> 01:23:03,859
+El señor Salt al fin logró
+lo que quería.
+
+1284
+01:23:03,942 --> 01:23:06,612
+-¿Qué es eso?
+-Veruca se fue primero.
+
+1285
+01:23:06,695 --> 01:23:10,824
+Señor Wonka, no se van
+a quemar en el calentón, ¿verdad?
+
+1286
+01:23:11,491 --> 01:23:14,453
+Creo que el calentón
+se prende un día sí y otro no.
+
+1287
+01:23:14,536 --> 01:23:17,164
+Así que es muy posible
+que no los quemen.
+
+1288
+01:23:17,915 --> 01:23:21,460
+Umpa Lumpa Dumpa Di Di
+
+1289
+01:23:21,543 --> 01:23:25,130
+Tengo otro rompecabezas para ti
+
+1290
+01:23:25,214 --> 01:23:28,342
+Umpa Lumpa Dumpa Di Das
+
+1291
+01:23:28,842 --> 01:23:32,262
+Si eres sabio me escucharás
+
+1292
+01:23:32,513 --> 01:23:35,891
+A quién culpas
+Cuando tu mocoso es malcriado
+
+1293
+01:23:35,974 --> 01:23:39,394
+Echado a perder como un gato siamés
+
+1294
+01:23:39,478 --> 01:23:42,814
+El culpar a los niños
+Es una mentira y una lástima
+
+1295
+01:23:42,898 --> 01:23:46,777
+Se sabe exactamente
+Quién tiene la culpa
+
+1296
+01:23:47,778 --> 01:23:49,863
+La madre y el padre
+
+1297
+01:23:51,573 --> 01:23:54,701
+Umpa Lumpa Dumpa Di Das
+
+1298
+01:23:55,118 --> 01:23:58,664
+Si no estás echado a perder
+Lejos llegarás
+
+1299
+01:23:58,747 --> 01:24:01,917
+Y también feliz vivirás
+
+1300
+01:24:04,044 --> 01:24:08,423
+Como los Umpa Lumpa Dumpa Di Du
+
+1301
+01:24:09,466 --> 01:24:12,344
+¡Los niños se están
+desapareciendo como conejos!
+
+1302
+01:24:12,427 --> 01:24:15,681
+Pero aún quedamos nosotros juntos.
+¿Continuamos?
+
+1303
+01:24:15,764 --> 01:24:17,850
+¿Podemos sentarnos por un minuto?
+
+1304
+01:24:17,933 --> 01:24:22,145
+-La caminata me ha agobiado.
+-Ya arreglé su transportación.
+
+1305
+01:24:26,775 --> 01:24:28,986
+¡He aquí el Wonkamóvil!
+
+1306
+01:24:29,069 --> 01:24:31,363
+"Lo bello es un gozo eterno".
+
+1307
+01:24:31,446 --> 01:24:34,116
+A sus lugares, por favor.
+El baile ya va a comenzar.
+
+1308
+01:24:34,366 --> 01:24:36,994
+Tomen asiento, ¡se están agotando!
+
+1309
+01:24:37,077 --> 01:24:39,621
+¿Con qué lo están llenando?
+
+1310
+01:24:39,705 --> 01:24:42,666
+Con soda amarga, soda cerveza,
+cerveza en burbujas,
+
+1311
+01:24:42,749 --> 01:24:46,545
+cola en burbujas, coladoble,
+burbujasdobles, eructacola,
+
+1312
+01:24:46,628 --> 01:24:49,506
+todo lo carbonatado
+que cosquillea la nariz.
+
+1313
+01:24:49,590 --> 01:24:52,509
+Poca gente se da cuenta
+de la fuerza que tienen.
+
+1314
+01:24:52,593 --> 01:24:54,469
+¿Quién me manda preguntar?
+
+1315
+01:24:54,720 --> 01:24:57,848
+¿Pagaría Slugworth extra
+por saber esto?
+
+1316
+01:24:57,931 --> 01:25:00,893
+Nada más abre los ojos
+y cierra la boca.
+
+1317
+01:25:02,394 --> 01:25:03,687
+¿Listos?
+
+1318
+01:25:03,770 --> 01:25:04,855
+¿Esto correrá rápido?
+
+1319
+01:25:04,938 --> 01:25:08,192
+Así debe ser.
+¡Tiene más gas que un político!
+
+1320
+01:25:08,275 --> 01:25:12,237
+Agárrense. Voy a prenderlo
+para ver qué puede hacer.
+
+1321
+01:25:20,329 --> 01:25:22,331
+"Más ligero que las águilas,
+
+1322
+01:25:22,581 --> 01:25:24,666
+más fuerte que los leones".
+
+1323
+01:25:32,591 --> 01:25:34,510
+¡Se está metiendo en mis ojos!
+
+1324
+01:25:34,927 --> 01:25:36,887
+¡Se está metiendo en mis zapatos!
+
+1325
+01:25:36,970 --> 01:25:39,681
+¡Estoy remojada! ¡Nunca se quitará!
+
+1326
+01:25:40,182 --> 01:25:41,475
+¡Está pegado a mi pistola!
+
+1327
+01:25:50,025 --> 01:25:53,445
+¡Mi vestido! ¡Mi cabello! ¡Mi cara!
+
+1328
+01:25:54,530 --> 01:25:57,366
+¡Voy a pasarle la cuenta
+de la tintorería, señor Wonka!
+
+1329
+01:26:00,452 --> 01:26:02,329
+¡Estoy lavada en seco!
+
+1330
+01:26:06,250 --> 01:26:07,334
+Oye, abuelo.
+
+1331
+01:26:07,668 --> 01:26:09,962
+¿Por dónde acabamos de pasar?
+
+1332
+01:26:10,045 --> 01:26:11,547
+Odaval Aknow.
+
+1333
+01:26:11,630 --> 01:26:14,925
+-¿Es japonés?
+-No, Lavado Wonka, deletreado al revés.
+
+1334
+01:26:15,008 --> 01:26:17,261
+Es todo. Se terminó el viaje.
+
+1335
+01:26:17,344 --> 01:26:19,555
+¡El mejor baño
+que he tenido en 20 años!
+
+1336
+01:26:19,638 --> 01:26:21,431
+¡Hagámoslo otra vez!
+
+1337
+01:26:21,515 --> 01:26:24,601
+-¿Hasta aquí llega?
+-¿Por qué no vinimos caminando?
+
+1338
+01:26:25,102 --> 01:26:29,398
+Si el Señor quisiera que camináramos
+no hubiera inventado los patines.
+
+1339
+01:26:29,481 --> 01:26:31,400
+¿Se ponen esto?
+
+1340
+01:26:31,483 --> 01:26:33,777
+Tenemos que tener cuidado.
+
+1341
+01:26:34,278 --> 01:26:36,613
+Hay cosas peligrosas adentro.
+
+1342
+01:26:39,366 --> 01:26:40,659
+¡Wonkavisión!
+
+1343
+01:26:40,742 --> 01:26:43,245
+Mi más grande y reciente invención.
+
+1344
+01:26:43,787 --> 01:26:46,415
+-¡La televisión!
+-La Wonkavisión.
+
+1345
+01:26:46,498 --> 01:26:49,543
+Todos ustedes saben cómo
+trabaja la televisión común.
+
+1346
+01:26:49,626 --> 01:26:52,004
+- Fotografías...
+- ¡Yo sé! Fotografías algo...
+
+1347
+01:26:52,087 --> 01:26:54,840
+luego se desintegra
+en millones de pedacitos,
+
+1348
+01:26:54,923 --> 01:26:58,969
+que vuelan por el aire y llegan
+a tu TV reintegrados en orden.
+
+1349
+01:26:59,720 --> 01:27:02,806
+Deberías de abrir tu boca
+un poco más cuando hablas.
+
+1350
+01:27:03,056 --> 01:27:05,142
+Si eso se puede hacer
+con una foto,
+
+1351
+01:27:05,225 --> 01:27:07,978
+¿por qué no
+con un dulce de chocolate?
+
+1352
+01:27:10,898 --> 01:27:15,319
+Ahora voy a mandar este chocolate
+de este extremo de la sala al otro.
+
+1353
+01:27:15,402 --> 01:27:19,072
+Tiene que ser grande, porque
+cuando transmites por televisión,
+
+1354
+01:27:19,156 --> 01:27:20,741
+siempre resulta reducido.
+
+1355
+01:27:21,575 --> 01:27:23,243
+Gafas, por favor.
+
+1356
+01:27:25,412 --> 01:27:28,916
+¡Luces... cámara... acción!
+
+1357
+01:27:30,667 --> 01:27:32,419
+Se pueden quitar las gafas.
+
+1358
+01:27:33,253 --> 01:27:34,546
+¿Dónde está el chocolate?
+
+1359
+01:27:34,630 --> 01:27:36,924
+Volando en el aire
+en un millón de pedazos.
+
+1360
+01:27:39,801 --> 01:27:41,428
+Ahora vean la pantalla.
+
+1361
+01:27:44,473 --> 01:27:45,599
+Aquí viene.
+
+1362
+01:27:47,059 --> 01:27:48,310
+Allí está.
+
+1363
+01:27:48,685 --> 01:27:49,686
+Cógelo.
+
+1364
+01:27:49,978 --> 01:27:51,647
+¿Cómo? Es solo una foto.
+
+1365
+01:27:51,730 --> 01:27:53,148
+Bien, tú cógelo.
+
+1366
+01:27:54,399 --> 01:27:55,484
+¡Es real!
+
+1367
+01:27:55,567 --> 01:27:58,612
+¡Pruébalo!
+Sólo se ha reducido.
+
+1368
+01:28:00,989 --> 01:28:01,990
+¡Está perfecto!
+
+1369
+01:28:02,074 --> 01:28:03,158
+¡Increíble!
+
+1370
+01:28:03,242 --> 01:28:05,160
+-¡Un milagro!
+-¡Una cena de TV!
+
+1371
+01:28:05,244 --> 01:28:07,829
+-Es la Wonkavisión.
+-¡Podría cambiar al mundo!
+
+1372
+01:28:07,913 --> 01:28:09,831
+¿Puedes mandar otras cosas?
+
+1373
+01:28:09,915 --> 01:28:12,084
+-No solo chocolate.
+-Lo que se te antoje.
+
+1374
+01:28:12,167 --> 01:28:13,544
+¿Gente también?
+
+1375
+01:28:13,794 --> 01:28:15,212
+¿Gente?
+
+1376
+01:28:16,630 --> 01:28:19,424
+En realidad no sé.
+Supongo que sí.
+
+1377
+01:28:19,508 --> 01:28:22,678
+Sí, estoy seguro que sí.
+Estoy muy seguro que sí.
+
+1378
+01:28:22,761 --> 01:28:24,513
+Podría hacerse un revoltijo.
+
+1379
+01:28:24,596 --> 01:28:27,933
+¡Yo seré la primera persona
+enviada por televisión!
+
+1380
+01:28:28,016 --> 01:28:29,059
+¡Vete de allí!
+
+1381
+01:28:29,476 --> 01:28:30,853
+Párate. No. Regresa.
+
+1382
+01:28:30,936 --> 01:28:32,646
+¡Luces... cámara... acción!
+
+1383
+01:28:36,066 --> 01:28:38,193
+¿Dónde estás?
+
+1384
+01:28:38,277 --> 01:28:40,529
+Está arriba, en un millón de pedazos.
+
+1385
+01:28:40,612 --> 01:28:42,239
+Mike, ¿estás allá?
+
+1386
+01:28:42,322 --> 01:28:45,200
+Es inútil gritar. Mira la pantalla.
+
+1387
+01:28:47,494 --> 01:28:49,872
+¿Mike?
+¿Por qué le toma tanto tiempo?
+
+1388
+01:28:49,955 --> 01:28:52,124
+Toma tiempo juntar
+un millón de pedazos.
+
+1389
+01:28:52,207 --> 01:28:55,043
+-¿Dónde están?
+-Hay algo que está por aparecer.
+
+1390
+01:28:55,127 --> 01:28:57,921
+-¿Es Mike?
+-Es difícil saber, pero...
+
+1391
+01:28:58,797 --> 01:29:00,966
+El chiquito se está reduciendo.
+
+1392
+01:29:01,049 --> 01:29:05,387
+¡Mírenme! ¡Soy la primera persona
+en el mundo enviada por televisión!
+
+1393
+01:29:06,054 --> 01:29:08,557
+¡Ay! ¡Fue un viaje brutal!
+
+1394
+01:29:08,640 --> 01:29:11,351
+¡Es lo mejor
+que me haya pasado jamás!
+
+1395
+01:29:11,435 --> 01:29:15,272
+¿Me ven claramente?
+Dije: ¿me ven claramente?
+
+1396
+01:29:15,355 --> 01:29:17,316
+Magnífico. Está totalmente ileso.
+
+1397
+01:29:17,399 --> 01:29:19,568
+¿A eso le llamas ileso?
+
+1398
+01:29:19,651 --> 01:29:23,280
+¡Ay! ¡Sí que fue algo!
+¿Puedo hacerlo otra vez?
+
+1399
+01:29:23,363 --> 01:29:24,615
+¡No va a quedar nada!
+
+1400
+01:29:24,698 --> 01:29:26,909
+No te preocupes, mamá.
+Me siento bien.
+
+1401
+01:29:26,992 --> 01:29:29,077
+¡Soy famoso! ¡Soy estrella de la TV!
+
+1402
+01:29:29,161 --> 01:29:31,330
+¡Espera a que los chicos lo sepan!
+
+1403
+01:29:31,413 --> 01:29:32,831
+¡Nadie lo va a saber!
+
+1404
+01:29:32,915 --> 01:29:34,499
+¿Adónde me llevan?
+
+1405
+01:29:34,583 --> 01:29:36,293
+¡No quiero entrar allí!
+
+1406
+01:29:36,376 --> 01:29:37,544
+¡Quieto!
+
+1407
+01:29:37,878 --> 01:29:38,962
+¿Bien?
+
+1408
+01:29:39,630 --> 01:29:43,425
+Afortunadamente, los niños
+son muy elásticos y flexibles.
+
+1409
+01:29:43,509 --> 01:29:47,429
+Lo vamos a poner
+en mi máquina de estirar melcochas.
+
+1410
+01:29:47,513 --> 01:29:49,181
+A la Sala de Estirar.
+
+1411
+01:29:49,264 --> 01:29:53,143
+El chico está en la bolsa de su mamá.
+Pero tengan cuidado.
+
+1412
+01:29:53,227 --> 01:29:54,978
+Bien, Mike...
+
+1413
+01:29:55,062 --> 01:29:56,980
+¿Qué dice?
+
+1414
+01:29:57,231 --> 01:29:59,816
+No, no serás responsable.
+
+1415
+01:30:01,068 --> 01:30:04,863
+Y ahora, mi querida dama,
+es tiempo de decir adiós.
+
+1416
+01:30:04,947 --> 01:30:06,865
+¡No, no! ¡No diga nada!
+
+1417
+01:30:06,949 --> 01:30:11,245
+Para ciertos momentos en la vida
+no hay palabras. Ya, sigue.
+
+1418
+01:30:17,751 --> 01:30:22,673
+Adieu.
+"La despedida es un dolor dulce".
+
+1419
+01:30:32,140 --> 01:30:34,935
+Umpa Lumpa Dumpa Di Di
+
+1420
+01:30:35,519 --> 01:30:38,355
+Tengo otro rompecabezas para ti
+
+1421
+01:30:39,064 --> 01:30:41,733
+Umpa Lumpa Dumpa Da Di
+
+1422
+01:30:42,734 --> 01:30:45,404
+Si eres sabio me escucharás a mí
+
+1423
+01:30:46,280 --> 01:30:49,032
+¿Qué es lo que logras
+De una sobrecarga de TV?
+
+1424
+01:30:49,116 --> 01:30:52,619
+Un dolor de cabeza
+Y un cociente intelectual de tres
+
+1425
+01:30:53,412 --> 01:30:56,123
+¿Por qué no simplemente
+Tratas de leer un libro?
+
+1426
+01:30:56,874 --> 01:30:59,042
+¿O es que no puedes ni siquiera
+Verlo?
+
+1427
+01:30:59,126 --> 01:31:00,669
+No tendrás
+
+1428
+01:31:03,755 --> 01:31:06,341
+No tendrás comerciales
+
+1429
+01:31:06,758 --> 01:31:10,429
+Umpa Lumpa Dumpa Di Das
+
+1430
+01:31:11,263 --> 01:31:14,766
+Si no eres ambicioso, lejos llegarás
+
+1431
+01:31:15,184 --> 01:31:18,020
+Y también feliz vivirás
+
+1432
+01:31:18,979 --> 01:31:20,355
+¡Como los
+
+1433
+01:31:20,772 --> 01:31:21,940
+Umpa
+
+1434
+01:31:22,774 --> 01:31:25,819
+Umpa Lumpa Dumpa Di Du!
+
+1435
+01:31:29,489 --> 01:31:33,911
+Tanto quehacer, tanto quehacer.
+Facturas, cuentas, cartas.
+
+1436
+01:31:34,411 --> 01:31:36,914
+Debo de contestar la nota de la reina.
+
+1437
+01:31:37,748 --> 01:31:39,958
+¿Qué va a pasar con los otros?
+
+1438
+01:31:40,042 --> 01:31:41,376
+¿Augustus? ¿Veruca?
+
+1439
+01:31:41,460 --> 01:31:42,628
+Mi querido muchacho,
+
+1440
+01:31:42,711 --> 01:31:44,880
+van a estar muy bien.
+
+1441
+01:31:44,963 --> 01:31:49,927
+Cuando se vayan de aquí, volverán
+a ser los mismos de antes, terribles.
+
+1442
+01:31:50,511 --> 01:31:53,222
+Pero tal vez más listos
+por lo que les pasó.
+
+1443
+01:31:53,305 --> 01:31:54,890
+No te preocupes.
+
+1444
+01:31:54,973 --> 01:31:57,434
+¿Qué hacemos ahora, señor Wonka?
+
+1445
+01:31:57,851 --> 01:32:02,147
+Espero que se hayan divertido.
+Dispénsenme por no acompañarlos.
+
+1446
+01:32:02,231 --> 01:32:04,233
+Arriba. Estoy ocupado.
+
+1447
+01:32:04,316 --> 01:32:07,736
+Todo un día perdido.
+Adiós a los dos.
+
+1448
+01:32:10,864 --> 01:32:14,368
+¿Qué pasó? ¿Hicimos algo malo?
+
+1449
+01:32:14,618 --> 01:32:16,537
+No sé, Charlie.
+
+1450
+01:32:17,120 --> 01:32:19,206
+Pero voy a informarme.
+
+1451
+01:32:37,558 --> 01:32:39,935
+Estoy extraordinariamente
+ocupado, señor.
+
+1452
+01:32:40,018 --> 01:32:42,563
+Quería preguntarle del chocolate.
+
+1453
+01:32:42,980 --> 01:32:46,400
+El suministro perpetuo de chocolate.
+Para Charlie.
+
+1454
+01:32:46,900 --> 01:32:48,443
+¿Cuándo lo tendrá?
+
+1455
+01:32:48,527 --> 01:32:50,779
+-No lo tendrá.
+-¿Por qué no?
+
+1456
+01:32:50,863 --> 01:32:53,115
+Porque quebró las reglas.
+
+1457
+01:32:53,198 --> 01:32:56,118
+¿Qué reglas?
+No vimos ninguna regla, ¿o sí?
+
+1458
+01:32:56,201 --> 01:32:58,370
+¡Equivocado, señor! ¡Equivocado!
+
+1459
+01:32:58,453 --> 01:33:02,040
+Bajo la Sección 37-B
+del contrato firmado por él,
+
+1460
+01:33:02,124 --> 01:33:06,253
+enuncia claramente que todas las
+ofertas serán nulas y sin valor si
+
+1461
+01:33:06,503 --> 01:33:09,548
+y pueden leerlo en esta copia:
+
+1462
+01:33:09,631 --> 01:33:11,216
+"Yo, el suscrito...
+
+1463
+01:33:11,300 --> 01:33:14,303
+perderé todos los derechos,
+privilegios y licencias
+
+1464
+01:33:14,386 --> 01:33:16,555
+incluidas en este", etcétera...
+
+1465
+01:33:24,146 --> 01:33:27,482
+¡Allí está todo en blanco y negro!
+¡Claro como el cristal!
+
+1466
+01:33:27,566 --> 01:33:29,860
+¡Robaron refrescos de Gaseleva!
+
+1467
+01:33:29,943 --> 01:33:33,697
+¡Toparon contra el techo
+y ahora tienen que esterilizarlo!
+
+1468
+01:33:33,780 --> 01:33:35,991
+¡Así que no tienen derecho a nada!
+
+1469
+01:33:36,074 --> 01:33:37,326
+¡Perdieron!
+
+1470
+01:33:37,409 --> 01:33:39,661
+¡Buen día, señor!
+
+1471
+01:33:40,370 --> 01:33:41,788
+¡Eres un ladrón!
+
+1472
+01:33:42,206 --> 01:33:45,000
+¡Tramposo, estafador,
+eso es lo que eres!
+
+1473
+01:33:45,083 --> 01:33:47,169
+¿Cómo puedes hacer esto?
+
+1474
+01:33:47,252 --> 01:33:51,006
+¡Alentar las esperanzas de un niño
+y luego despedazar sus sueños!
+
+1475
+01:33:51,089 --> 01:33:53,008
+¡Eres un monstruo inhumano!
+
+1476
+01:33:53,091 --> 01:33:55,385
+Dije: "¡Buen día!"
+
+1477
+01:33:59,139 --> 01:34:01,558
+Vámonos, Charlie. Salgamos de aquí.
+
+1478
+01:34:02,309 --> 01:34:05,020
+Me desquitaré,
+aunque sea lo último que haga.
+
+1479
+01:34:05,103 --> 01:34:08,065
+Si Slugworth quiere
+un Eterno Sincesar, lo tendrá.
+
+1480
+01:34:31,171 --> 01:34:32,840
+¿Señor Wonka?
+
+1481
+01:34:40,931 --> 01:34:46,019
+"Una buena obra sale a relucir
+en un mundo hastiado".
+
+1482
+01:34:47,396 --> 01:34:48,605
+Charlie...
+
+1483
+01:34:49,982 --> 01:34:51,608
+Mi muchacho.
+
+1484
+01:34:52,276 --> 01:34:53,652
+¡Ganaste!
+
+1485
+01:34:53,735 --> 01:34:56,029
+¡Lo lograste! ¡Lo lograste!
+
+1486
+01:34:56,113 --> 01:34:58,824
+¡Yo sabía que ibas a lograrlo!
+¡Yo lo sabía!
+
+1487
+01:34:58,907 --> 01:35:03,245
+Perdóname por someterte
+a esta prueba.
+
+1488
+01:35:03,328 --> 01:35:06,582
+Pasa, señor Wilkinson.
+Charlie, te presento al señor Wilkinson.
+
+1489
+01:35:06,665 --> 01:35:08,041
+-Placer.
+-¡Slugworth!
+
+1490
+01:35:08,125 --> 01:35:10,752
+¡Él no es Slugworth!
+¡Él trabaja para mí!
+
+1491
+01:35:10,836 --> 01:35:13,463
+-¿Para usted?
+-Tuve que probarte, Charlie.
+
+1492
+01:35:13,547 --> 01:35:16,383
+Y pasaste el examen.
+¡Ganaste!
+
+1493
+01:35:16,633 --> 01:35:18,760
+-¿Qué ganó?
+-¡El premio gordo, querido señor!
+
+1494
+01:35:18,844 --> 01:35:21,763
+-¡El gran y glorioso premio!
+-¿El chocolate?
+
+1495
+01:35:21,847 --> 01:35:25,267
+El chocolate, sí.
+¡Pero, eso es nada más el comienzo!
+
+1496
+01:35:25,350 --> 01:35:28,937
+¡Tenemos tanto tiempo
+y tan poco que hacer!
+
+1497
+01:35:29,021 --> 01:35:31,023
+Tachen eso. Inviértanlo.
+
+1498
+01:35:31,106 --> 01:35:32,900
+¡Por acá, por favor!
+
+1499
+01:35:33,317 --> 01:35:35,402
+Tomaremos el Wonkavador.
+
+1500
+01:35:36,153 --> 01:35:38,655
+Pasa, Charlie.
+Abuelo Joe, señor.
+
+1501
+01:35:46,496 --> 01:35:50,542
+-Este es el gran Wonkavador de cristal.
+-Es un elevador.
+
+1502
+01:35:50,626 --> 01:35:53,253
+Un Wonkavador.
+Un elevador sube y baja.
+
+1503
+01:35:53,337 --> 01:35:56,840
+Pero el Wonkavador
+va de lado, retrocede...
+
+1504
+01:35:56,924 --> 01:35:58,008
+¿Y hacia adelante?
+
+1505
+01:35:58,091 --> 01:36:00,093
+...y en la manera que se te ocurra.
+
+1506
+01:36:00,594 --> 01:36:04,973
+Te puede llevar a cualquier sala
+presionando uno de estos botones.
+
+1507
+01:36:05,057 --> 01:36:07,768
+Presiona el botón, ¡y zumba! Te vas.
+
+1508
+01:36:08,519 --> 01:36:11,021
+Y hasta ahora,
+los he presionado a todos.
+
+1509
+01:36:11,438 --> 01:36:12,856
+Excepto uno.
+
+1510
+01:36:13,690 --> 01:36:14,608
+Este.
+
+1511
+01:36:15,943 --> 01:36:17,402
+Ándale, Charlie.
+
+1512
+01:36:17,486 --> 01:36:18,779
+¿Yo?
+
+1513
+01:36:21,448 --> 01:36:22,699
+¡Y se va!
+
+1514
+01:36:24,868 --> 01:36:26,203
+¡Agárrense fuerte!
+
+1515
+01:36:26,703 --> 01:36:29,540
+No estoy del todo seguro
+qué va a pasar.
+
+1516
+01:36:30,290 --> 01:36:33,836
+¡Más rápido! Si no vamos más veloz
+no podremos pasar.
+
+1517
+01:36:33,919 --> 01:36:35,379
+¿Pasar qué?
+
+1518
+01:36:36,213 --> 01:36:38,423
+-Quieres decir...
+-A subir y afuera.
+
+1519
+01:36:38,507 --> 01:36:41,426
+El techo es de cristal.
+¡Se fragmentará en 1 000 pedazos!
+
+1520
+01:36:41,510 --> 01:36:43,929
+-¡Nos cortará en trocitos!
+-Probablemente.
+
+1521
+01:36:47,641 --> 01:36:49,351
+¡Agárrense bien!
+
+1522
+01:36:50,477 --> 01:36:52,855
+¡Aquí viene!
+
+1523
+01:37:07,911 --> 01:37:11,748
+-¡Lo lograste! ¡Felicitaciones!
+-Súbanse, y miren.
+
+1524
+01:37:12,541 --> 01:37:14,209
+Nuestro pueblo se ve tan bonito.
+
+1525
+01:37:14,293 --> 01:37:15,711
+Mira aquí, Charlie.
+
+1526
+01:37:15,794 --> 01:37:17,504
+Creo que veo nuestra casa.
+
+1527
+01:37:18,338 --> 01:37:19,506
+¡Vaya!
+
+1528
+01:37:19,840 --> 01:37:21,383
+De veras que se ve bonita.
+
+1529
+01:37:21,466 --> 01:37:22,968
+¡Allá está mi escuela!
+
+1530
+01:37:29,516 --> 01:37:31,602
+¿Qué te pareció
+la fábrica de chocolates?
+
+1531
+01:37:31,935 --> 01:37:34,813
+Es el lugar más lindo en el mundo.
+
+1532
+01:37:34,897 --> 01:37:37,065
+Me complace oírte decir eso
+
+1533
+01:37:37,149 --> 01:37:39,484
+porque te la voy a regalar.
+
+1534
+01:37:40,611 --> 01:37:42,988
+-¿Qué?
+-Está bien si lo hago, ¿sí?
+
+1535
+01:37:43,071 --> 01:37:45,782
+-Se darás a Charlie la...
+-No puedo seguir por siempre.
+
+1536
+01:37:46,033 --> 01:37:48,076
+Y no quiero intentarlo.
+
+1537
+01:37:48,368 --> 01:37:53,290
+¿A quién puedo confiar el manejo de la fábrica
+y el cuidado de los Umpa Lumpas?
+
+1538
+01:37:53,540 --> 01:37:54,917
+No a un adulto.
+
+1539
+01:37:55,000 --> 01:37:58,212
+Un adulto haría todo
+a su manera, no a la mía.
+
+1540
+01:37:58,545 --> 01:38:02,257
+Por eso hace mucho que decidí
+encontrar a un chico.
+
+1541
+01:38:02,341 --> 01:38:04,051
+A un chico...
+
+1542
+01:38:04,384 --> 01:38:05,802
+honrado y dulce...
+
+1543
+01:38:06,303 --> 01:38:09,765
+para dejarle mis preciados secretos
+para hacer dulces.
+
+1544
+01:38:09,848 --> 01:38:12,518
+-Y mandó los Boletos Dorados.
+-Correcto.
+
+1545
+01:38:12,601 --> 01:38:15,145
+La fábrica es tuya.
+Puedes mudarte a ella ya.
+
+1546
+01:38:15,395 --> 01:38:17,397
+-¿Y yo?
+-Absolutamente.
+
+1547
+01:38:17,814 --> 01:38:20,108
+-¿Y el resto de...
+-Toda la familia.
+
+1548
+01:38:20,192 --> 01:38:22,069
+Quiero que los traigas a todos.
+
+1549
+01:38:25,739 --> 01:38:27,157
+Pero Charlie...
+
+1550
+01:38:28,325 --> 01:38:32,246
+no se te olvide qué le pasó
+al que logró todo lo que quería.
+
+1551
+01:38:32,329 --> 01:38:33,497
+¿Qué le pasó?
+
+1552
+01:38:33,580 --> 01:38:35,832
+Vivió feliz para siempre.

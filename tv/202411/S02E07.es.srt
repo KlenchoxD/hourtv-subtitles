@@ -1,0 +1,2975 @@
+1
+00:00:03,629 --> 00:00:05,605
+Luz verde
+para la operación Reloj de Arena.
+
+2
+00:00:05,839 --> 00:00:06,731
+Despejen el área.
+
+3
+00:00:06,965 --> 00:00:08,900
+Está a 1.5 kilómetros.
+A mi señal.
+
+4
+00:00:09,134 --> 00:00:12,028
+- Listos.
+- Diez, nueve...
+
+5
+00:00:12,262 --> 00:00:15,115
+- Titán a 1.2 kilómetros.
+- Ocho, siete...
+
+6
+00:00:15,349 --> 00:00:16,908
+- seis, cinco...
+- Novecientos metros.
+
+7
+00:00:17,142 --> 00:00:21,688
+- Apaguen el simulador gamma.
+- Cuatro, tres, dos, uno.
+
+8
+00:00:25,400 --> 00:00:26,960
+¿Vas a explorar un lugar muy lejano?
+
+9
+00:00:27,194 --> 00:00:28,795
+Es difícil de explicar, Hiro...
+
+10
+00:00:29,029 --> 00:00:31,323
+pero volveré muy pronto.
+
+11
+00:00:32,950 --> 00:00:35,118
+¿Siquiera pudiste pasar
+de tercera en ese Jeep?
+
+12
+00:00:36,411 --> 00:00:37,387
+Vete al Infierno.
+
+13
+00:00:37,621 --> 00:00:39,122
+No me molestaría hacerlo.
+
+14
+00:00:46,046 --> 00:00:49,941
+OPERACIÓN RELOJ DE ARENA
+
+15
+00:00:50,175 --> 00:00:54,471
+DÍA DE LA MISIÓN: FOXTROT
+DÍA 6
+
+16
+00:00:55,055 --> 00:00:57,099
+Control, aquí Reloj de Arena Principal.
+
+17
+00:00:58,267 --> 00:01:00,185
+Día de la misión, Foxtrot.
+
+18
+00:01:01,937 --> 00:01:03,747
+Transmitiendo a ciegas.
+
+19
+00:01:03,981 --> 00:01:07,234
+Hoy enterré a Burke.
+
+20
+00:01:08,318 --> 00:01:10,153
+Me adentraré en terreno elevado.
+
+21
+00:01:10,946 --> 00:01:14,199
+Veré si hay señal ahí.
+
+22
+00:01:31,175 --> 00:01:34,261
+DÍA DE LA MISIÓN: OSCAR
+DÍA 15
+
+23
+00:01:52,529 --> 00:01:55,215
+Control, Reloj de Arena Principal.
+
+24
+00:01:55,449 --> 00:01:58,076
+Día de la misión, Oscar.
+Me quedé sin comida.
+
+25
+00:01:58,619 --> 00:02:00,120
+Me terminé lo último ayer.
+
+26
+00:02:00,871 --> 00:02:02,764
+Espero poder cazar mi cena.
+
+27
+00:02:02,998 --> 00:02:05,709
+De lo contrario, no sé qué haré.
+
+28
+00:02:48,335 --> 00:02:50,729
+¿Lo viste?
+¿Viste eso?
+
+29
+00:02:50,963 --> 00:02:52,548
+¿Qué fue eso?
+
+30
+00:02:53,382 --> 00:02:54,733
+¿Que si vi qué?
+
+31
+00:02:54,967 --> 00:02:59,012
+Mis instrumentos leen algo,
+pero no tiene sentido.
+
+32
+00:02:59,596 --> 00:03:01,448
+¿A quién le importa?
+Eso fue genial.
+
+33
+00:03:01,682 --> 00:03:03,867
+Ni siquiera sé qué hicimos, ¿y tú?
+
+34
+00:03:04,101 --> 00:03:08,522
+Capta una anomalía.
+No sé si sea un Titán.
+
+35
+00:03:10,732 --> 00:03:11,942
+¿Qué?
+
+36
+00:03:19,032 --> 00:03:20,826
+Control, ¿me copias?
+Cambio.
+
+37
+00:03:22,160 --> 00:03:23,662
+Control, ¿me copias?
+Cambio.
+
+38
+00:03:27,624 --> 00:03:28,934
+¿Quién...
+
+39
+00:03:29,168 --> 00:03:30,769
+¿Quién habla?
+¿Con quién hablo?
+
+40
+00:03:31,003 --> 00:03:32,004
+Cambio.
+
+41
+00:03:32,629 --> 00:03:33,897
+¿Quién habla?
+
+42
+00:03:34,131 --> 00:03:35,190
+¿Con quién hablo?
+
+43
+00:03:35,424 --> 00:03:36,508
+Dios.
+¡Gracias a Dios!
+
+44
+00:03:37,342 --> 00:03:38,427
+¡Gracias a Dios!
+
+45
+00:03:39,553 --> 00:03:41,446
+Habla
+el Comandante Leland Lafayette Shaw III.
+
+46
+00:03:41,680 --> 00:03:43,390
+Mi equipo murió.
+
+47
+00:03:43,974 --> 00:03:45,350
+Mi vehículo está dañado.
+
+48
+00:03:46,059 --> 00:03:47,394
+Ya no tengo comida.
+
+49
+00:03:49,938 --> 00:03:53,192
+Control, solicito una extracción.
+
+50
+00:05:07,266 --> 00:05:09,393
+<b>BASADO EN EL PERSONAJE "GODZILLA"</b>
+
+51
+00:05:17,693 --> 00:05:20,237
+<b>MONARCH:
+LEGADO DE MONSTRUOS</b>
+
+52
+00:05:27,578 --> 00:05:29,179
+¿Qué ocurre, Zook?
+
+53
+00:05:29,413 --> 00:05:32,182
+El dispositivo está enviando una señal
+cómo lo sugerí.
+
+54
+00:05:32,416 --> 00:05:35,977
+Se suponía que rebotaría
+hasta encontrar a un Titán.
+
+55
+00:05:36,211 --> 00:05:41,316
+Pero, parece haber captado la frecuencia
+de la operación Reloj de Arena...
+
+56
+00:05:41,550 --> 00:05:44,386
+cuando Monarch pensó haberte perdido
+en la fisura.
+
+57
+00:05:44,887 --> 00:05:47,948
+Eso fue... en 1962.
+¿Cómo es qué...
+
+58
+00:05:48,182 --> 00:05:51,685
+Como experimentaste por cuenta propia,
+el tiempo es relativo ahí.
+
+59
+00:05:52,269 --> 00:05:55,397
+Control, responde.
+Repito, habla Reloj de Arena Principal.
+
+60
+00:05:57,858 --> 00:05:59,151
+Habla con él.
+
+61
+00:06:00,235 --> 00:06:01,236
+Habla con él, Lee.
+
+62
+00:06:02,237 --> 00:06:03,672
+¿Qué era lo que más querías escuchar?
+
+63
+00:06:03,906 --> 00:06:05,115
+Yo...
+
+64
+00:06:07,075 --> 00:06:09,161
+Reloj de Arena, aquí Control.
+
+65
+00:06:10,704 --> 00:06:12,539
+Pensamos que los habíamos perdido.
+
+66
+00:06:13,707 --> 00:06:14,933
+Así fue.
+
+67
+00:06:15,167 --> 00:06:16,434
+En su mayoría.
+
+68
+00:06:16,668 --> 00:06:18,921
+Pero, por Dios,
+es bueno escuchar a alguien.
+
+69
+00:06:19,505 --> 00:06:21,798
+¿Billy Randa está ahí?
+¿Puedo hablar con Bill Randa?
+
+70
+00:06:23,050 --> 00:06:24,343
+¿Puedo hablar con Bill?
+
+71
+00:06:27,971 --> 00:06:31,408
+Está intentando restablecer contacto.
+
+72
+00:06:31,642 --> 00:06:34,160
+Se lo haremos saber
+tan pronto como podamos.
+
+73
+00:06:34,394 --> 00:06:37,747
+¿Están trabajando en algo
+para sacarme de aquí o...
+
+74
+00:06:37,981 --> 00:06:40,125
+- Estamos en eso, Comandante.
+- Bien.
+
+75
+00:06:40,359 --> 00:06:43,920
+Pero, puedo garantizarte
+que volverás a casa.
+
+76
+00:06:44,154 --> 00:06:45,572
+Suenas muy seguro de eso.
+
+77
+00:06:52,496 --> 00:06:54,706
+Nunca había estado tan seguro de algo.
+
+78
+00:06:55,874 --> 00:06:56,917
+¡Cate!
+
+79
+00:06:57,709 --> 00:06:59,269
+Mira esto.
+
+80
+00:06:59,503 --> 00:07:00,895
+¿Qué encontraste?
+
+81
+00:07:01,129 --> 00:07:02,689
+Doble pupila.
+
+82
+00:07:02,923 --> 00:07:05,233
+La frecuencia resonante
+de la canción del Titán...
+
+83
+00:07:05,467 --> 00:07:07,886
+crea un patrón superpuesto en la onda.
+
+84
+00:07:10,347 --> 00:07:11,765
+¿Cómo es eso posible?
+
+85
+00:07:14,977 --> 00:07:16,270
+Quizá no lo es.
+
+86
+00:07:17,396 --> 00:07:20,790
+Quizá sólo siento esas vibraciones
+e interpreto que está "perdido".
+
+87
+00:07:21,024 --> 00:07:23,986
+Quizá yo soy quien está perdida
+y me estoy proyectando.
+
+88
+00:07:26,280 --> 00:07:27,364
+Lo siento.
+
+89
+00:07:30,659 --> 00:07:33,845
+Sólo contigo puedo hablar sobre esto
+sin sentirme...
+
+90
+00:07:34,079 --> 00:07:35,914
+completamente loca.
+
+91
+00:07:36,748 --> 00:07:39,684
+Cate, no estás loca.
+
+92
+00:07:39,918 --> 00:07:42,546
+La frecuencia sónica
+que escuchas es real.
+
+93
+00:07:43,630 --> 00:07:46,024
+Es obvio que el Titán ya no sigue
+su mapa migratorio...
+
+94
+00:07:46,258 --> 00:07:47,776
+y nadie puede encontrarlo.
+
+95
+00:07:48,010 --> 00:07:50,946
+Así que sin importar lo que sientas,
+yo creo que...
+
+96
+00:07:51,180 --> 00:07:52,472
+que tienes razón.
+
+97
+00:07:53,098 --> 00:07:54,224
+Está perdido.
+
+98
+00:07:54,808 --> 00:07:59,188
+Pero, podrías ser la clave
+para encontrarlo y enviarlo a Axis Mundi.
+
+99
+00:07:59,897 --> 00:08:01,790
+Si está perdido,
+podría estar en cualquier lado.
+
+100
+00:08:02,024 --> 00:08:04,109
+Podría estar en medio del Atlántico
+ahora mismo.
+
+101
+00:08:06,028 --> 00:08:10,590
+Las vibraciones que sentí en el muelle
+eran menos intensas que en Santa Soledad.
+
+102
+00:08:10,824 --> 00:08:12,384
+¿Y si se está alejando más y más?
+
+103
+00:08:12,618 --> 00:08:14,328
+Pero, lo sentiste aquí.
+
+104
+00:08:16,955 --> 00:08:19,349
+Billy halló un lugar en Japón.
+
+105
+00:08:19,583 --> 00:08:22,727
+No está en la ruta migratoria,
+pero lo marcó como "notable".
+
+106
+00:08:22,961 --> 00:08:24,312
+¿En qué sentido?
+
+107
+00:08:24,546 --> 00:08:25,839
+Estaba maldito.
+
+108
+00:08:30,677 --> 00:08:34,238
+"La leyenda local habla de mujeres
+que eran poseídas por un yókai...
+
+109
+00:08:34,472 --> 00:08:39,019
+un demonio que atraía a sus víctimas
+a la oscuridad".
+
+110
+00:08:41,438 --> 00:08:42,856
+Encontré estas fotos...
+
+111
+00:08:46,944 --> 00:08:47,877
+Sí.
+
+112
+00:08:48,111 --> 00:08:50,113
+Mira estas fotos de la aldea.
+
+113
+00:08:54,618 --> 00:08:55,744
+¿Quiénes son?
+
+114
+00:08:59,206 --> 00:09:02,684
+Esta mujer dijo que la voz del demonio
+era la de una vibración grave.
+
+115
+00:09:02,918 --> 00:09:05,770
+Entonces, ¿Billy pensaba
+que el demonio era el Titán?
+
+116
+00:09:06,004 --> 00:09:08,315
+Pensaba que era una posibilidad.
+
+117
+00:09:08,549 --> 00:09:12,277
+Si estas mujeres podían interpretar
+lo que la canción les decía...
+
+118
+00:09:12,511 --> 00:09:14,112
+con esta conexión
+podríamos encontrar al Titán...
+
+119
+00:09:14,346 --> 00:09:16,765
+antes de que Lee pueda destruirlo.
+
+120
+00:09:42,416 --> 00:09:43,834
+¿Estás decente?
+
+121
+00:09:45,544 --> 00:09:48,229
+Depende de la definición de la palabra.
+
+122
+00:09:48,463 --> 00:09:51,383
+Bueno, encajas
+en casi todas sus definiciones.
+
+123
+00:09:53,802 --> 00:09:55,946
+Lamento lo de anoche.
+No debí haber hecho eso.
+
+124
+00:09:56,180 --> 00:09:57,781
+No lo hiciste.
+Yo...
+
+125
+00:09:58,015 --> 00:09:59,308
+Lo hicimos.
+
+126
+00:10:00,893 --> 00:10:04,897
+Tenemos historia.
+Así pasa. Está... bien.
+
+127
+00:10:07,316 --> 00:10:09,334
+¿Saldrás de viaje?
+
+128
+00:10:09,568 --> 00:10:10,903
+Sí.
+
+129
+00:10:12,029 --> 00:10:13,822
+Tengo que salir de aquí.
+
+130
+00:10:14,740 --> 00:10:16,158
+Sí, te entiendo.
+
+131
+00:10:18,452 --> 00:10:19,761
+¿Adónde vas?
+
+132
+00:10:19,995 --> 00:10:21,288
+A Tailandia.
+
+133
+00:10:22,331 --> 00:10:23,415
+Qué bien.
+
+134
+00:10:25,083 --> 00:10:26,543
+¿Irás tú sólo?
+
+135
+00:10:28,086 --> 00:10:29,505
+Me invitaron.
+
+136
+00:10:30,088 --> 00:10:32,299
+¿Quién te invitó?
+
+137
+00:10:33,300 --> 00:10:34,551
+Alguien que conocí.
+
+138
+00:10:35,469 --> 00:10:36,470
+No es gran cosa.
+
+139
+00:10:37,971 --> 00:10:41,408
+Bueno, cuando dices que no es gran cosa,
+suena a que sí lo es.
+
+140
+00:10:41,642 --> 00:10:44,411
+¿Por qué todos quieren saber lo que hago?
+
+141
+00:10:44,645 --> 00:10:47,731
+Conocí a alguien y me iré de viaje.
+
+142
+00:10:48,565 --> 00:10:50,041
+¿Necesito tu permiso?
+
+143
+00:10:50,275 --> 00:10:51,818
+No. Yo...
+
+144
+00:10:52,736 --> 00:10:54,988
+Yo no dije eso.
+
+145
+00:10:55,989 --> 00:10:58,300
+Sólo estoy cansado
+de que todos me digan qué hacer.
+
+146
+00:10:58,534 --> 00:11:00,452
+Lo que está bien, lo que está mal.
+
+147
+00:11:01,453 --> 00:11:04,540
+Mis obligaciones con mi familia,
+con Monarch.
+
+148
+00:11:05,749 --> 00:11:07,417
+Salvar el mundo.
+
+149
+00:11:08,627 --> 00:11:10,045
+Es mi vida.
+
+150
+00:11:14,299 --> 00:11:15,300
+Está bien.
+
+151
+00:11:31,608 --> 00:11:32,901
+Con permiso.
+
+152
+00:11:35,654 --> 00:11:37,130
+¿Corah Mateo?
+
+153
+00:11:37,364 --> 00:11:38,365
+Lo siento.
+
+154
+00:11:39,116 --> 00:11:40,242
+¿Quién?
+
+155
+00:11:40,826 --> 00:11:42,494
+Ven. Vamos.
+
+156
+00:11:45,497 --> 00:11:47,833
+Zook, lo perdí.
+¿Puedes localizarlo de nuevo?
+
+157
+00:11:48,709 --> 00:11:51,378
+Reloj de Arena Principal.
+¿Me copias?
+
+158
+00:11:53,672 --> 00:11:57,342
+Reloj de Arena Principal. Habla control.
+¿Me copias?
+
+159
+00:11:59,553 --> 00:12:00,987
+Vamos, Zook, soluciónalo.
+
+160
+00:12:01,221 --> 00:12:03,615
+Sé que aún puedes hacer
+unos cuantos milagros más.
+
+161
+00:12:03,849 --> 00:12:06,034
+No es ningún milagro.
+Es física.
+
+162
+00:12:06,268 --> 00:12:07,786
+¿Puedes aumentar la potencia?
+
+163
+00:12:08,020 --> 00:12:09,438
+Podría.
+
+164
+00:12:16,737 --> 00:12:18,155
+Muy bien.
+
+165
+00:12:19,239 --> 00:12:20,240
+Vamos.
+
+166
+00:12:21,200 --> 00:12:22,258
+Reloj de Arena Principal...
+
+167
+00:12:22,492 --> 00:12:23,969
+- ¿me copias?
+- Dios mío, sí. Hola, sí.
+
+168
+00:12:24,203 --> 00:12:25,512
+Aquí Reloj de Arena Principal.
+
+169
+00:12:25,746 --> 00:12:27,681
+Aquí Reloj de Arena Principal. Te copio.
+¿Me copias?
+
+170
+00:12:27,915 --> 00:12:29,833
+Bien.
+Comandante, ¿me copias?
+
+171
+00:12:32,419 --> 00:12:34,062
+Te copio.
+Te copio, cambio.
+
+172
+00:12:34,296 --> 00:12:36,673
+Pensé que te había perdido.
+
+173
+00:12:37,508 --> 00:12:39,526
+No.
+Aquí sigo.
+
+174
+00:12:39,760 --> 00:12:41,470
+¿Cómo se encuentra, soldado?
+
+175
+00:12:43,263 --> 00:12:45,641
+Ya mejor.
+Mejor.
+
+176
+00:12:46,850 --> 00:12:48,785
+¿Y cuál es el plan para sacarme de aquí?
+
+177
+00:12:49,019 --> 00:12:51,438
+Primero, necesitamos un reporte.
+
+178
+00:12:52,397 --> 00:12:55,542
+¿Has detectado actividad MUTO?
+
+179
+00:12:55,776 --> 00:12:58,070
+Además de la que mató a mi tripulación...
+
+180
+00:12:58,737 --> 00:13:00,989
+un ciempiés del tamaño
+de un vagón de tren.
+
+181
+00:13:01,782 --> 00:13:02,632
+Ya veo.
+
+182
+00:13:02,866 --> 00:13:04,785
+¿Y qué me dices de Godzilla?
+
+183
+00:13:06,787 --> 00:13:07,996
+¿Godzilla?
+
+184
+00:13:09,957 --> 00:13:12,267
+Lo siento... no.
+
+185
+00:13:12,501 --> 00:13:14,227
+- ¿Por qué?
+- Esto es importante.
+
+186
+00:13:14,461 --> 00:13:16,797
+¿No has visto ninguna señal de Godzilla?
+
+187
+00:13:17,297 --> 00:13:19,758
+No. ¿Eso qué importa?
+¿Cómo es que eso me hará volver?
+
+188
+00:13:22,719 --> 00:13:24,195
+Espera, Comandante.
+
+189
+00:13:24,429 --> 00:13:25,322
+Así es.
+
+190
+00:13:25,556 --> 00:13:29,101
+Godzilla no estaba allá
+cuando fui por primera vez.
+
+191
+00:13:29,935 --> 00:13:32,162
+- Lee, ¿seguro que recuerdas...
+- Está bien.
+
+192
+00:13:32,396 --> 00:13:34,439
+Bien, basta.
+Nuevo plan.
+
+193
+00:13:35,524 --> 00:13:37,709
+No sabemos dónde está el Titán ahora.
+
+194
+00:13:37,943 --> 00:13:39,961
+Pero, creo saber dónde estaba
+en ese entonces.
+
+195
+00:13:40,195 --> 00:13:44,366
+Zook, ¿podríamos ponerle
+un rastreador al Titán?
+
+196
+00:13:45,826 --> 00:13:48,595
+Había una radio en la cápsula que...
+
+197
+00:13:48,829 --> 00:13:50,764
+- Sí, tal vez pueda.
+- Control, ¿sigues ahí?
+
+198
+00:13:50,998 --> 00:13:52,374
+¿Me copias?
+
+199
+00:13:53,083 --> 00:13:56,561
+Bien, necesitamos que regreses
+a la cápsula ahora, ¿sí?
+
+200
+00:13:56,795 --> 00:13:58,897
+Dime cuando estés dentro de ella.
+
+201
+00:13:59,131 --> 00:14:00,565
+¿Cómo?
+¿Que regrese a la cápsula?
+
+202
+00:14:00,799 --> 00:14:01,884
+Así es.
+
+203
+00:14:03,051 --> 00:14:04,136
+Entendido.
+
+204
+00:14:19,568 --> 00:14:24,364
+PHUKET, TAILANDIA
+
+205
+00:14:44,760 --> 00:14:45,969
+¡Patada!
+
+206
+00:14:46,929 --> 00:14:47,930
+¡Patada!
+
+207
+00:14:51,141 --> 00:14:55,203
+Primer asalto. Bien.
+Segundo asalto. Sí.
+
+208
+00:14:55,437 --> 00:14:57,439
+¡Uno! ¡Uno!
+
+209
+00:14:58,148 --> 00:14:59,358
+¡Uno, dos!
+
+210
+00:15:14,748 --> 00:15:15,749
+Llegaste.
+
+211
+00:15:18,126 --> 00:15:20,087
+- Así es.
+- Te mostraré el lugar.
+
+212
+00:15:23,757 --> 00:15:25,217
+¿Quieres algo de beber?
+
+213
+00:15:25,801 --> 00:15:26,802
+Claro.
+
+214
+00:15:28,095 --> 00:15:29,362
+Gracias.
+
+215
+00:15:29,596 --> 00:15:31,265
+Bienvenido a Tailandia.
+
+216
+00:15:33,934 --> 00:15:36,520
+- ¿Vives aquí?
+- Casi todo el tiempo, sí.
+
+217
+00:15:37,688 --> 00:15:41,149
+Era uno de los proyectos de mi padre
+para salvar esta selva.
+
+218
+00:15:41,733 --> 00:15:45,128
+Pero, se aburrió muy rápidamente,
+igual que con nuestra relación...
+
+219
+00:15:45,362 --> 00:15:48,031
+y me regaló la casa
+cuando cumplí 21 años.
+
+220
+00:15:50,075 --> 00:15:51,535
+Mi papá me dio unos audífonos.
+
+221
+00:15:54,663 --> 00:15:56,665
+Lamento lo de tu padre.
+
+222
+00:15:59,001 --> 00:16:01,378
+- ¿Hablas por la empresa?
+- No sabría decirte.
+
+223
+00:16:02,171 --> 00:16:05,883
+No tengo nada que ver con la compañía
+ni con lo que sea que haga mi padre.
+
+224
+00:16:07,426 --> 00:16:10,387
+Debe ser agradable.
+No tener preocupaciones.
+
+225
+00:16:14,349 --> 00:16:15,934
+No es tan simple como crees.
+
+226
+00:16:25,986 --> 00:16:26,987
+Bien.
+
+227
+00:16:27,779 --> 00:16:31,116
+Bien. Ya quité la placa de circuito.
+
+228
+00:16:32,576 --> 00:16:33,785
+Enterado.
+
+229
+00:16:34,536 --> 00:16:40,058
+El doctor Suzuki te guiará
+durante el resto del proceso.
+
+230
+00:16:40,292 --> 00:16:41,434
+¿Zook?
+
+231
+00:16:41,668 --> 00:16:42,894
+¿Está contigo?
+
+232
+00:16:43,128 --> 00:16:45,339
+Sí, Lee.
+Aquí estoy.
+
+233
+00:16:46,256 --> 00:16:48,483
+¡Dios mío! Qué bueno es escuchar tu voz.
+
+234
+00:16:48,717 --> 00:16:50,886
+Tu voz suena algo áspera.
+¿Estás bien?
+
+235
+00:16:51,929 --> 00:16:55,849
+Kansas no ayuda con mis alergias, y yo...
+
+236
+00:16:57,559 --> 00:17:00,328
+Nuestra señal viaja
+a través de una fisura.
+
+237
+00:17:00,562 --> 00:17:03,482
+Es inevitable
+que haya un poco de distorsión.
+
+238
+00:17:04,316 --> 00:17:07,877
+Supongo que...
+Sí, supongo que eso tiene sentido.
+
+239
+00:17:08,111 --> 00:17:14,426
+Bien. Toma los ánodos
+de lo que acabas de quitar.
+
+240
+00:17:14,660 --> 00:17:15,844
+Bien.
+
+241
+00:17:16,078 --> 00:17:20,890
+Luego, conéctalos a los cables verdes
+del giroscopio del indicador de altitud.
+
+242
+00:17:21,124 --> 00:17:23,977
+Bien, empiezo con los ánodos.
+Los ánodos son...
+
+243
+00:17:24,211 --> 00:17:28,189
+son las cosas doradas
+que parecen pastillas, ¿no?
+
+244
+00:17:28,423 --> 00:17:31,343
+- Sí. Así es.
+- Bien. Entonces...
+
+245
+00:17:32,594 --> 00:17:35,113
+Oye, ¿me explicas cómo es que esto
+me ayudará a salir de aquí...
+
+246
+00:17:35,347 --> 00:17:36,932
+o eso también es clasificado?
+
+247
+00:17:38,183 --> 00:17:41,786
+Comandante, necesitas a un Titán
+para abrir una fisura...
+
+248
+00:17:42,020 --> 00:17:44,539
+así que intentamos encontrarte uno.
+
+249
+00:17:44,773 --> 00:17:47,317
+Pero, ¿por qué arriesgarme
+a ponerle un rastreador? No entiendo.
+
+250
+00:17:56,034 --> 00:17:57,911
+Esta misión era riesgosa.
+
+251
+00:17:58,537 --> 00:18:01,848
+Y es lo que esperamos que hagas, soldado.
+
+252
+00:18:02,082 --> 00:18:04,710
+Bien.
+Entiendo.
+
+253
+00:18:05,711 --> 00:18:07,212
+Defensa y descubrimiento.
+
+254
+00:18:11,633 --> 00:18:15,596
+SUR DEL OCÉANO PACÍFICO
+
+255
+00:18:22,394 --> 00:18:23,896
+- Hola.
+- ¿Qué demonios?
+
+256
+00:18:26,773 --> 00:18:29,584
+¿Ahora envías matones por civiles
+sin explicaciones?
+
+257
+00:18:29,818 --> 00:18:31,962
+¿Qué no somos amigos?
+¿Qué no comimos fideos?
+
+258
+00:18:32,196 --> 00:18:33,254
+¿Amigos?
+
+259
+00:18:33,488 --> 00:18:37,008
+No sé si lo recuerdas,
+pero teníamos un plan...
+
+260
+00:18:37,242 --> 00:18:38,468
+y luego te desapareciste.
+
+261
+00:18:38,702 --> 00:18:42,013
+Y luego veo que trabajas codo a codo
+con Brenda Holland, amiga.
+
+262
+00:18:42,247 --> 00:18:44,849
+Sí, hice lo que dije que haría.
+Reunía información.
+
+263
+00:18:45,083 --> 00:18:47,477
+No.
+¡Colaborabas con ellos!
+
+264
+00:18:47,711 --> 00:18:50,689
+¿Tienes idea de lo que está sucediendo?
+
+265
+00:18:50,923 --> 00:18:55,944
+Sólo tenemos un pedazo del Titán X
+con tu dispositivo aún incrustado.
+
+266
+00:18:56,178 --> 00:18:57,779
+Estamos en crisis.
+
+267
+00:18:58,013 --> 00:18:59,739
+Esto es algo serio.
+
+268
+00:18:59,973 --> 00:19:03,810
+El Titán X está suelto y mató a Hiroshi.
+
+269
+00:19:06,313 --> 00:19:08,232
+No quiero que mate a nadie más.
+
+270
+00:19:09,816 --> 00:19:11,401
+¿Y crees que yo sí?
+
+271
+00:19:14,196 --> 00:19:15,197
+No.
+
+272
+00:19:15,948 --> 00:19:17,449
+Por eso estás aquí.
+
+273
+00:19:18,825 --> 00:19:22,429
+Nuestra teoría es que tu dispositivo
+sacó al Titán X de su ruta migratoria...
+
+274
+00:19:22,663 --> 00:19:24,889
+y lo hizo perder el control.
+No sabemos a dónde.
+
+275
+00:19:25,123 --> 00:19:26,959
+No es mi dispositivo.
+Es de Apex.
+
+276
+00:19:27,584 --> 00:19:30,270
+Así que pregúntale a Apex Cybernetics.
+
+277
+00:19:30,504 --> 00:19:31,354
+Ya lo hicimos.
+
+278
+00:19:31,588 --> 00:19:34,816
+Y Walter Simmons no puede creer
+que un par de actores de segunda...
+
+279
+00:19:35,050 --> 00:19:38,387
+llevaran a cabo
+una operación imprudente no autorizada.
+
+280
+00:19:39,429 --> 00:19:41,974
+Nos han prometido transparencia total.
+
+281
+00:19:42,683 --> 00:19:45,452
+Ahora, Holland está cooperando,
+pero con reservas.
+
+282
+00:19:45,686 --> 00:19:48,079
+- Sí, por supuesto que sí.
+- Por supuesto.
+
+283
+00:19:48,313 --> 00:19:52,276
+Además, ahora que Trissop desapareció,
+tú eres la única que queda.
+
+284
+00:19:54,194 --> 00:19:55,879
+Ayúdanos a descubrir qué hizo...
+
+285
+00:19:56,113 --> 00:19:58,365
+lo que tu código le hizo al Titán X.
+
+286
+00:19:59,283 --> 00:20:01,201
+Quizá puedas ayudarnos a detenerlo.
+
+287
+00:20:05,664 --> 00:20:07,583
+Voy a necesitar uno de esos trajes.
+
+288
+00:20:08,250 --> 00:20:10,002
+Yo también tengo una hermana.
+
+289
+00:20:11,044 --> 00:20:12,838
+- ¿Qué?
+- Sí.
+
+290
+00:20:15,048 --> 00:20:18,944
+Tras fallar con los mejores médicos
+de fertilización del mundo...
+
+291
+00:20:19,178 --> 00:20:20,679
+mis papás me adoptaron.
+
+292
+00:20:21,471 --> 00:20:23,432
+Y un año después...
+
+293
+00:20:24,308 --> 00:20:25,475
+llegó mi hermana Maia.
+
+294
+00:20:27,519 --> 00:20:28,937
+Fue un milagro.
+
+295
+00:20:31,273 --> 00:20:33,442
+Y de repente, se olvidaron de mí.
+
+296
+00:20:37,529 --> 00:20:39,489
+¿Así te pasó con Cate?
+
+297
+00:20:41,074 --> 00:20:44,703
+¿Trabajaste por años con tu padre y,
+de repente...
+
+298
+00:20:45,370 --> 00:20:49,249
+Cate vuelve de Axis Mundi
+y se olvidó de ti?
+
+299
+00:20:51,502 --> 00:20:54,338
+Odio a Apex tanto
+como tú odias a Monarch.
+
+300
+00:20:57,174 --> 00:20:58,566
+Sólo quieren cambiar al mundo.
+
+301
+00:20:58,800 --> 00:21:01,720
+Yo quiero crear uno nuevo,
+pero no puedo hacerlo sola.
+
+302
+00:21:05,516 --> 00:21:07,726
+¿Y tú, Kentaro?
+¿Tú qué quieres?
+
+303
+00:21:14,358 --> 00:21:17,110
+¿Y por qué tiene que ser
+justo este Titán?
+
+304
+00:21:19,154 --> 00:21:21,198
+¿Vas a ponerte exigente ahora?
+
+305
+00:21:22,783 --> 00:21:23,717
+Suenas como yo.
+
+306
+00:21:23,951 --> 00:21:27,329
+Sabemos que este es lo bastante grande
+para abrir una fisura y sacarte.
+
+307
+00:21:27,913 --> 00:21:29,081
+¿Cómo?
+
+308
+00:21:30,499 --> 00:21:32,835
+¿Cómo lo sabes?
+¿Cómo sabes qué hay aquí abajo?
+
+309
+00:21:34,670 --> 00:21:38,090
+Bueno, ya sabes cómo es el doctor Suzuki,
+es todo un hechicero.
+
+310
+00:21:39,258 --> 00:21:43,804
+Pudo detectar la señal de ese Titán
+cerca de donde aterrizaste.
+
+311
+00:21:44,847 --> 00:21:46,139
+¿Quién eres?
+
+312
+00:21:47,641 --> 00:21:49,534
+Dices ser parte
+de la operación Reloj de Arena.
+
+313
+00:21:49,768 --> 00:21:51,353
+Conozco a todo el equipo.
+
+314
+00:21:52,104 --> 00:21:52,901
+No puedes contactar a Billy...
+
+315
+00:21:53,136 --> 00:21:54,122
+me pides ponerle un
+rastreador a un Titán...
+
+316
+00:21:54,356 --> 00:21:56,356
+y ni siquiera sé tu nombre.
+Así que ¿quién eres?
+
+317
+00:21:58,986 --> 00:22:00,128
+Está bien, General.
+
+318
+00:22:00,362 --> 00:22:01,880
+Puedes llamarme Coronel.
+
+319
+00:22:02,114 --> 00:22:03,089
+Sí.
+
+320
+00:22:03,323 --> 00:22:05,158
+Me uní tarde a la operación.
+
+321
+00:22:05,826 --> 00:22:08,704
+Soy parte del equipo
+que intenta limpiar este desastre.
+
+322
+00:22:09,329 --> 00:22:11,832
+Sí. Debería estar agradecido, señor.
+
+323
+00:22:14,626 --> 00:22:17,546
+Bueno, cuéntame algo de ti.
+
+324
+00:22:18,297 --> 00:22:20,857
+Intentemos mantener la comunicación.
+
+325
+00:22:21,091 --> 00:22:24,094
+Muy bien.
+¿Qué te gustaría saber?
+
+326
+00:22:25,220 --> 00:22:28,365
+Empecemos con...
+¿Tu familia? ¿Tienes una?
+
+327
+00:22:28,599 --> 00:22:29,975
+Nunca me casé, pero...
+
+328
+00:22:31,059 --> 00:22:35,147
+hace poco, conocí a unos chicos
+que creyeron haber perdido a su papá.
+
+329
+00:22:36,356 --> 00:22:38,400
+Ahora son como mi familia.
+
+330
+00:22:40,402 --> 00:22:42,988
+Mi caso es similar.
+Yo...
+
+331
+00:22:44,114 --> 00:22:47,117
+Hay un niño allá arriba.
+Su mamá y yo éramos muy buenos amigos.
+
+332
+00:22:48,785 --> 00:22:51,596
+Le dije que... que volvería.
+Se lo prometí.
+
+333
+00:22:51,830 --> 00:22:54,666
+No me hagas quedar como un mentiroso,
+Coronel.
+
+334
+00:22:57,669 --> 00:22:59,296
+Eso no pasará.
+
+335
+00:23:00,756 --> 00:23:02,966
+Muy bien.
+Espera.
+
+336
+00:23:04,134 --> 00:23:05,636
+¿Qué demonios es eso?
+
+337
+00:23:06,386 --> 00:23:07,862
+- Comandante, ¿pasa algo?
+- No.
+
+338
+00:23:08,096 --> 00:23:11,141
+Huele a...
+Es como un incendio eléctrico, pero...
+
+339
+00:23:12,392 --> 00:23:13,243
+¡Corre!
+
+340
+00:23:13,477 --> 00:23:14,895
+¡Corre ahora!
+
+341
+00:23:41,713 --> 00:23:43,507
+Comandante, ¿estás bien?
+
+342
+00:23:45,509 --> 00:23:46,552
+Sí.
+
+343
+00:23:47,219 --> 00:23:49,696
+Sí, bastante adolorido.
+
+344
+00:23:49,930 --> 00:23:52,933
+Pero, nada...
+nada de lo que no pueda recuperarme.
+
+345
+00:23:56,603 --> 00:23:58,021
+Espera un momento.
+
+346
+00:23:58,564 --> 00:23:59,857
+Santo Dios.
+
+347
+00:24:00,774 --> 00:24:03,694
+Control, no vas a creer
+lo que estoy viendo.
+
+348
+00:24:05,571 --> 00:24:08,532
+Es una especie de campamento.
+Hay un campamento.
+
+349
+00:24:09,283 --> 00:24:11,535
+No sé qué es.
+
+350
+00:24:12,202 --> 00:24:14,705
+¿Cómo es que alguien podría acampar aquí?
+
+351
+00:24:15,372 --> 00:24:17,307
+- Comandante, te lo ordeno.
+- ¡Dios mío!
+
+352
+00:24:17,541 --> 00:24:20,919
+Aléjate de ese campamento
+y continúa la misión.
+
+353
+00:24:24,298 --> 00:24:25,674
+Keiko.
+
+354
+00:24:28,468 --> 00:24:29,720
+¿Keiko?
+
+355
+00:24:33,056 --> 00:24:34,683
+¡Keiko!
+
+356
+00:24:36,310 --> 00:24:37,477
+¡Kei!
+
+357
+00:24:44,193 --> 00:24:45,293
+¿Qué dice?
+
+358
+00:24:45,527 --> 00:24:48,672
+Si estoy entendiendo bien
+la escritura de Billy...
+
+359
+00:24:48,906 --> 00:24:51,716
+debería haber un camino
+que lleve a los anillos de...
+
+360
+00:24:51,950 --> 00:24:53,327
+- ¡Ahí!
+- ¿Qué?
+
+361
+00:25:04,880 --> 00:25:07,758
+- ¿Estabas enamorada de él?
+- ¿De Billy?
+
+362
+00:25:08,800 --> 00:25:09,801
+De Shaw.
+
+363
+00:25:14,181 --> 00:25:17,142
+No.
+Lo nuestro no era así.
+
+364
+00:25:19,478 --> 00:25:20,479
+Está bien.
+
+365
+00:25:21,438 --> 00:25:22,439
+Era...
+
+366
+00:25:26,777 --> 00:25:28,153
+¿Qué significa?
+
+367
+00:25:29,571 --> 00:25:30,781
+No entren.
+
+368
+00:25:40,499 --> 00:25:41,500
+¿Cómo entramos?
+
+369
+00:25:42,042 --> 00:25:43,544
+Debe haber otro camino.
+
+370
+00:25:50,843 --> 00:25:51,844
+O hacemos eso.
+
+371
+00:25:53,595 --> 00:25:54,721
+¿Qué son?
+
+372
+00:25:56,515 --> 00:25:58,684
+Inscripciones.
+Para las tumbas.
+
+373
+00:26:17,202 --> 00:26:18,130
+Debe ser ahí.
+
+374
+00:26:18,365 --> 00:26:21,148
+Donde las mujeres sentían
+las vibraciones.
+
+375
+00:26:35,512 --> 00:26:36,513
+¡Keiko!
+
+376
+00:26:37,973 --> 00:26:39,224
+¡Keiko!
+
+377
+00:26:40,017 --> 00:26:43,103
+¡Kei!
+¡Keiko!
+
+378
+00:26:43,687 --> 00:26:47,874
+- Tienes que calmarte, hijo.
+- ¿Qué me calme?
+
+379
+00:26:48,108 --> 00:26:49,084
+Si está viva, está aquí abajo.
+
+380
+00:26:49,318 --> 00:26:51,612
+Lo sé, pero es complicado.
+
+381
+00:26:54,531 --> 00:26:55,949
+¿Cómo que lo sabes?
+
+382
+00:26:59,119 --> 00:27:00,412
+¿Qué me ocultas?
+
+383
+00:27:01,538 --> 00:27:02,789
+Mucho, hijo.
+
+384
+00:27:06,960 --> 00:27:08,837
+No eres parte de la operación, ¿verdad?
+
+385
+00:27:10,506 --> 00:27:14,134
+No, no lo soy.
+Pero, eso no importa.
+
+386
+00:27:14,968 --> 00:27:16,569
+Sólo una cosa importa.
+
+387
+00:27:16,803 --> 00:27:21,350
+- Protegerla a toda costa.
+- ¡Dios mío! Sí suenas como yo.
+
+388
+00:27:23,227 --> 00:27:24,645
+Dilo de nuevo, Lee.
+
+389
+00:27:26,647 --> 00:27:27,664
+¿Qué?
+
+390
+00:27:27,898 --> 00:27:31,318
+Dilo de nuevo.
+
+391
+00:27:33,445 --> 00:27:34,988
+Dije que sí...
+
+392
+00:27:37,449 --> 00:27:41,411
+suenas como... yo.
+
+393
+00:27:43,872 --> 00:27:44,873
+¡Dios mío!
+
+394
+00:27:45,874 --> 00:27:48,126
+No entres en pánico, Lee.
+
+395
+00:27:50,504 --> 00:27:51,354
+Me estoy volviendo loco.
+
+396
+00:27:51,588 --> 00:27:53,064
+No entres en pánico.
+
+397
+00:27:53,298 --> 00:27:54,341
+¿Quién eres?
+
+398
+00:27:57,636 --> 00:27:59,821
+Soy tu yo del futuro.
+
+399
+00:28:00,055 --> 00:28:01,765
+Soy tú.
+
+400
+00:28:05,477 --> 00:28:06,687
+Pregúntame lo que quieras.
+
+401
+00:28:08,021 --> 00:28:10,123
+Si no estás en mi cabeza...
+
+402
+00:28:10,357 --> 00:28:13,318
+si eres yo, si en verdad eres yo...
+
+403
+00:28:15,946 --> 00:28:17,447
+sabes lo importante que es ella.
+
+404
+00:28:19,658 --> 00:28:20,951
+Ella era mi misión.
+
+405
+00:28:22,286 --> 00:28:27,474
+Yo debía protegerla.
+Pero, más allá de eso...
+
+406
+00:28:27,708 --> 00:28:29,309
+La amas.
+Lo sé.
+
+407
+00:28:29,543 --> 00:28:31,186
+No, yo nunca dije eso.
+Nunca dije eso.
+
+408
+00:28:31,420 --> 00:28:33,980
+- Nunca lo dije. Nunca dije...
+- No nos lo permitimos. Nunca lo hicimos.
+
+409
+00:28:34,214 --> 00:28:37,050
+Siempre fui muy cuidadoso.
+Incluso en mi propia cabeza.
+
+410
+00:28:38,677 --> 00:28:40,512
+Yo llevo tus cicatrices, Lee.
+
+411
+00:28:44,975 --> 00:28:45,976
+Todas ellas.
+
+412
+00:28:49,146 --> 00:28:50,772
+Keiko fue la más dolorosa.
+
+413
+00:28:56,486 --> 00:28:58,363
+Pero, eso ya pasó, Lee.
+
+414
+00:29:03,911 --> 00:29:08,081
+Si en verdad está viva,
+no tiene que ser así.
+
+415
+00:29:09,249 --> 00:29:10,684
+Sí, así debe ser.
+
+416
+00:29:10,918 --> 00:29:15,397
+Ella dijo:
+"En otra vida, en otro mundo...
+
+417
+00:29:15,631 --> 00:29:17,007
+podríamos estar juntos".
+
+418
+00:29:19,384 --> 00:29:21,553
+Si está viva, puedo cambiarlo.
+
+419
+00:29:24,014 --> 00:29:25,265
+Voy a cambiarlo.
+
+420
+00:29:26,225 --> 00:29:28,243
+- No, no, no. Espera.
+- Sí.
+
+421
+00:29:28,477 --> 00:29:32,664
+Detente. Lee, no te muevas.
+Aguarda.
+
+422
+00:29:32,898 --> 00:29:33,982
+Aguarda.
+
+423
+00:29:43,784 --> 00:29:45,285
+¿Y si cambio las cosas?
+
+424
+00:29:45,869 --> 00:29:48,372
+Lee, sabes que no deberías.
+
+425
+00:29:50,374 --> 00:29:51,375
+¿Lo sé?
+
+426
+00:29:53,627 --> 00:29:54,628
+¿Tú lo sabes?
+
+427
+00:29:57,589 --> 00:29:59,941
+Si dejas que vaya a ella ahora...
+
+428
+00:30:00,175 --> 00:30:02,803
+podrías cambiar su futuro.
+
+429
+00:30:03,846 --> 00:30:05,780
+Ya no tendremos certeza.
+
+430
+00:30:06,014 --> 00:30:09,268
+Y podría pasar cualquier cosa.
+
+431
+00:30:12,896 --> 00:30:15,566
+No me correspondía decidir ahora...
+
+432
+00:30:17,192 --> 00:30:18,527
+sino en ese entonces.
+
+433
+00:30:26,952 --> 00:30:28,036
+La veo.
+
+434
+00:30:29,746 --> 00:30:32,583
+Dame una buena razón
+para no ir con ella ahora.
+
+435
+00:30:42,801 --> 00:30:43,886
+Te daré tres.
+
+436
+00:30:45,470 --> 00:30:46,404
+Para empezar...
+
+437
+00:30:46,638 --> 00:30:49,141
+ella no necesita que la salven ahora.
+
+438
+00:30:51,768 --> 00:30:54,454
+Sí, lo sé.
+Sé que es fuerte.
+
+439
+00:30:54,688 --> 00:30:57,207
+Es una linda opinión,
+pero juré protegerla.
+
+440
+00:30:57,441 --> 00:31:00,293
+Protegerla, sí.
+Incluso de mí mismo.
+
+441
+00:31:00,527 --> 00:31:03,213
+¿En verdad quieres arriesgarte
+a que tu interferencia...
+
+442
+00:31:03,447 --> 00:31:06,992
+la desvié del camino
+en el que sí es rescatada?
+
+443
+00:31:10,370 --> 00:31:12,472
+No sabes lo que pasará
+sí interfiero ahora.
+
+444
+00:31:12,706 --> 00:31:13,932
+No lo sabes.
+
+445
+00:31:14,166 --> 00:31:15,584
+No, no lo sé.
+
+446
+00:31:16,251 --> 00:31:19,171
+Pero, sí sé con certeza
+lo que pasará si no lo haces.
+
+447
+00:31:21,548 --> 00:31:24,317
+En el futuro cercano, la rescatarás...
+
+448
+00:31:24,551 --> 00:31:30,224
+y tendrá la vida que creíste
+que había perdido por tu culpa.
+
+449
+00:31:34,895 --> 00:31:36,563
+¿Cuál es la razón número dos?
+
+450
+00:31:38,941 --> 00:31:40,025
+Así está mejor.
+
+451
+00:31:42,694 --> 00:31:44,696
+Esos chicos de los que te hablé...
+
+452
+00:31:48,450 --> 00:31:49,868
+son los hijos de Hiro.
+
+453
+00:31:52,162 --> 00:31:53,330
+Te agradan, Lee.
+
+454
+00:31:54,206 --> 00:31:55,666
+Te agradarán.
+
+455
+00:31:56,583 --> 00:31:58,143
+Pero, si Keiko sale antes...
+
+456
+00:31:58,377 --> 00:32:03,215
+no sabemos lo mucho
+que eso podría cambiarlo todo.
+
+457
+00:32:11,306 --> 00:32:12,391
+¿Y la razón número tres?
+
+458
+00:32:15,602 --> 00:32:17,271
+Es la más difícil de todas.
+
+459
+00:32:22,776 --> 00:32:26,947
+Porque este es el momento
+en el que la dejamos ir.
+
+460
+00:32:32,995 --> 00:32:35,163
+Sí.
+Para salvarla.
+
+461
+00:32:40,544 --> 00:32:41,712
+No hagas nada, Lee.
+
+462
+00:32:44,381 --> 00:32:46,633
+Sólo observa.
+
+463
+00:33:49,279 --> 00:33:50,280
+Una cuerda.
+
+464
+00:33:58,038 --> 00:33:59,723
+Se comunica a través del agua.
+
+465
+00:33:59,957 --> 00:34:00,974
+Este es un pozo.
+
+466
+00:34:01,208 --> 00:34:04,211
+Creo que las demás bajaron
+y escucharon el llamado del Titán.
+
+467
+00:34:06,046 --> 00:34:07,548
+No vas a entrar ahí, Cate.
+
+468
+00:34:10,300 --> 00:34:11,443
+Cate, detente.
+No es seguro.
+
+469
+00:34:11,677 --> 00:34:13,820
+Estaré bien.
+Yo soy más liviana.
+
+470
+00:34:14,054 --> 00:34:17,808
+- Puedes subirme si estoy en peligro.
+- Sí.
+
+471
+00:34:18,684 --> 00:34:20,351
+Eso es justo lo que dije...
+
+472
+00:34:21,728 --> 00:34:22,728
+en Kazajistán.
+
+473
+00:34:26,440 --> 00:34:31,112
+Y no hay día en el que no me arrepienta
+de ese error. Así que, por favor, no.
+
+474
+00:34:34,074 --> 00:34:39,121
+No fue un error.
+No lo fue.
+
+475
+00:34:41,790 --> 00:34:43,333
+¿Qué se suponía que hicieras?
+
+476
+00:34:45,710 --> 00:34:49,047
+Tenías que encontrar las respuestas
+igual que yo.
+
+477
+00:34:54,011 --> 00:35:00,934
+A veces lo que nos atormenta
+es lo que nos mantiene a salvo.
+
+478
+00:35:03,520 --> 00:35:06,690
+Confío en ti, Cate.
+Averigua qué hay allá abajo.
+
+479
+00:35:23,081 --> 00:35:24,082
+Muy bien.
+
+480
+00:35:29,129 --> 00:35:31,340
+¿Y qué han descubierto hasta ahora?
+
+481
+00:35:32,466 --> 00:35:37,070
+Bueno, el dispositivo se conecta
+al sistema nervioso...
+
+482
+00:35:37,304 --> 00:35:38,764
+y manipula las señales.
+
+483
+00:35:40,182 --> 00:35:42,935
+Bueno, no es que las manipule,
+sino que las entiende.
+
+484
+00:35:43,644 --> 00:35:45,662
+La idea de Brenda
+era que enviara señales rápidas...
+
+485
+00:35:45,896 --> 00:35:49,024
+al cerebro y de vuelta
+hasta que aprendiéramos su idioma.
+
+486
+00:35:51,318 --> 00:35:53,237
+Por cierto, quería agradecerte...
+
+487
+00:35:54,404 --> 00:35:58,408
+por asegurarte
+de que yo saliera bien librada de esto.
+
+488
+00:35:59,284 --> 00:36:00,536
+Agradécele a Brenda.
+
+489
+00:36:01,912 --> 00:36:02,913
+¿Por qué?
+
+490
+00:36:03,455 --> 00:36:06,500
+Dejaré que leas la transcripción
+de su informe a Monarch.
+
+491
+00:36:07,918 --> 00:36:09,711
+No sólo no mencionó tu nombre...
+
+492
+00:36:10,504 --> 00:36:14,007
+sino que se las ingenió
+para asegurarse de que nadie lo sepa.
+
+493
+00:36:18,679 --> 00:36:20,389
+No sé por qué haría algo así.
+
+494
+00:36:22,558 --> 00:36:24,184
+Será un misterio para después.
+
+495
+00:36:41,785 --> 00:36:43,704
+¿Jugamos el juego de las matrículas?
+
+496
+00:36:45,873 --> 00:36:46,874
+¿Qué?
+
+497
+00:36:48,166 --> 00:36:51,128
+Son dos horas al aeropuerto.
+Intento que esto no sea tan incómodo.
+
+498
+00:36:52,880 --> 00:36:55,523
+- No te pedí que me acompañaras.
+- Lo sé.
+
+499
+00:36:55,757 --> 00:36:59,553
+Pero, asumí que así tendría dos horas
+para convencerte de que te quedes.
+
+500
+00:37:00,429 --> 00:37:02,848
+Y que te quedes hasta mañana
+cómo lo planeamos.
+
+501
+00:37:03,932 --> 00:37:07,394
+¿Por qué?
+¿Por qué te importo?
+
+502
+00:37:13,025 --> 00:37:16,153
+Sinceramente, después de lo de tu padre,
+pensé que lo entenderías.
+
+503
+00:37:18,363 --> 00:37:21,424
+Tanto tu familia como la mía
+llevan años lidiando con los Titanes...
+
+504
+00:37:21,658 --> 00:37:23,327
+y sólo ha empeorado.
+
+505
+00:37:23,994 --> 00:37:25,929
+En serio creo que es
+hora de ideas nuevas.
+
+506
+00:37:26,163 --> 00:37:27,180
+Tus ideas.
+
+507
+00:37:27,414 --> 00:37:28,443
+Sabemos que funciona.
+
+508
+00:37:28,678 --> 00:37:30,600
+Estamos tan capacitados
+como cualquiera...
+
+509
+00:37:30,834 --> 00:37:32,352
+y tenemos tanto en juego como ellos.
+
+510
+00:37:32,586 --> 00:37:34,980
+Te entiendo.
+Eres rica.
+
+511
+00:37:35,214 --> 00:37:38,024
+- Siempre obtienes lo que quieres.
+- El dinero no tiene nada que ver.
+
+512
+00:37:38,258 --> 00:37:39,484
+Lo dice quien tiene dinero.
+
+513
+00:37:39,718 --> 00:37:41,845
+Mi papá es quien tiene dinero, ¿sí?
+
+514
+00:37:42,429 --> 00:37:44,531
+He arriesgado todo lo que tengo en esto.
+
+515
+00:37:44,765 --> 00:37:47,726
+Si nosotros fracasamos,
+me quedaré sin nada.
+
+516
+00:37:48,727 --> 00:37:50,062
+¿Nosotros?
+
+517
+00:37:53,023 --> 00:37:55,234
+¿Recuerdas de lo que hablamos en Tokio?
+
+518
+00:37:56,443 --> 00:38:00,197
+¿Que nada ha cambiado
+tras cuatro años del Día G?
+
+519
+00:38:00,864 --> 00:38:03,633
+Nadie nos ha hecho sentir más seguros.
+Ni Monarch, ni el ejército...
+
+520
+00:38:03,867 --> 00:38:05,385
+ni las compañías, ni mi padre.
+
+521
+00:38:05,619 --> 00:38:07,262
+Nada puede mantenernos a salvo.
+
+522
+00:38:07,496 --> 00:38:10,849
+Exactamente.
+Nada puede mantenernos a salvo.
+
+523
+00:38:11,083 --> 00:38:12,934
+El Día G lo cambió todo de repente...
+
+524
+00:38:13,168 --> 00:38:15,546
+pero ¿y si no tuviera que ser así?
+
+525
+00:38:17,548 --> 00:38:20,133
+¿Y si pudiéramos vivir en un mundo
+donde no hubo un Día G?
+
+526
+00:38:21,426 --> 00:38:22,427
+Eso es una locura.
+
+527
+00:38:25,389 --> 00:38:26,890
+Bueno, tú sabes de Axis Mundi.
+
+528
+00:38:27,975 --> 00:38:30,811
+Las reglas de lo que es una locura
+no aplican del todo.
+
+529
+00:38:31,979 --> 00:38:32,912
+¿De qué estás hablando?
+
+530
+00:38:33,146 --> 00:38:36,400
+No sé si quiero decirte más,
+a menos que sepa que estás conmigo.
+
+531
+00:38:42,865 --> 00:38:43,866
+Respóndeme algo.
+
+532
+00:38:45,951 --> 00:38:50,247
+¿Por qué crees que tu padre
+te dijo la verdad...
+
+533
+00:38:51,582 --> 00:38:52,702
+sobre dónde había estado?
+
+534
+00:38:57,963 --> 00:38:58,813
+Kampai.
+
+535
+00:38:59,047 --> 00:39:00,424
+Kampai.
+
+536
+00:39:04,720 --> 00:39:08,974
+No se lo dijo a Cate ni a nadie más.
+Sólo a ti.
+
+537
+00:39:10,893 --> 00:39:13,770
+Quizá quería que tomaras
+una decisión por ti mismo...
+
+538
+00:39:14,938 --> 00:39:17,608
+sin que te importara un carajo
+la opinión de los demás.
+
+539
+00:39:20,194 --> 00:39:21,195
+Justo como él lo hizo.
+
+540
+00:39:31,121 --> 00:39:32,722
+- ¿Así está bien?
+- Está perfecto.
+
+541
+00:39:32,956 --> 00:39:33,957
+Bien.
+
+542
+00:39:35,167 --> 00:39:38,712
+- Tan pronto te sientas en peligro...
+- Gritaré con fuerza.
+
+543
+00:39:39,880 --> 00:39:42,549
+Ten cuidado.
+No puedo perderte a ti también.
+
+544
+00:39:44,384 --> 00:39:49,139
+Estaba pensando
+que si iba a hacer esto con alguien...
+
+545
+00:39:51,808 --> 00:39:53,018
+me alegra que sea contigo.
+
+546
+00:40:02,236 --> 00:40:03,237
+¿Lista?
+
+547
+00:40:03,779 --> 00:40:04,780
+Lista.
+
+548
+00:40:05,322 --> 00:40:06,323
+Bien.
+
+549
+00:40:28,887 --> 00:40:30,305
+Sigue avanzando al frente.
+
+550
+00:40:30,806 --> 00:40:33,767
+Está bien.
+¿Qué tan lejos estoy?
+
+551
+00:40:34,351 --> 00:40:36,578
+No muy lejos. Ya casi llegas.
+Todo derecho.
+
+552
+00:40:36,812 --> 00:40:38,038
+¿Cómo lo sabes?
+
+553
+00:40:38,272 --> 00:40:43,402
+Porque lo vi la última vez que estuve ahí
+cuando la rescatamos.
+
+554
+00:40:44,444 --> 00:40:45,529
+Creo que veo algo.
+
+555
+00:40:46,905 --> 00:40:52,536
+Parece ser una enorme masa de tierra.
+Como a medio kilómetro.
+
+556
+00:40:53,412 --> 00:40:55,764
+- Parece un avispero infernal.
+- ¿Un avispero infernal?
+
+557
+00:40:55,998 --> 00:40:58,350
+Sí, es ahí.
+Ahora, mantente alerta...
+
+558
+00:40:58,584 --> 00:41:00,335
+porque se va a poner feo.
+
+559
+00:41:04,381 --> 00:41:06,258
+¿Qué demonios?
+
+560
+00:41:21,064 --> 00:41:22,774
+¡Dios mío!
+
+561
+00:42:00,562 --> 00:42:02,606
+- Un poco más de cuerda.
+- Está bien.
+
+562
+00:42:28,257 --> 00:42:29,258
+¡Cate!
+
+563
+00:42:30,092 --> 00:42:31,802
+¡Cate!
+
+564
+00:42:33,345 --> 00:42:34,972
+¡Cate!
+
+565
+00:42:38,183 --> 00:42:40,853
+Dime cuando lo encuentres.
+Yo te diré a dónde ir.
+
+566
+00:42:41,770 --> 00:42:45,858
+Bien, lo veo.
+Lo veo. Es grande.
+
+567
+00:42:52,531 --> 00:42:54,924
+Muy bien.
+Está detrás de eso. Ve a la roca.
+
+568
+00:42:55,158 --> 00:42:56,785
+Está envuelto en la roca.
+
+569
+00:42:57,411 --> 00:42:58,428
+Es como un caparazón.
+
+570
+00:42:58,662 --> 00:43:00,998
+Atraviésalo y lo encontrarás dentro.
+
+571
+00:43:01,999 --> 00:43:03,224
+Haz pedazos esa roca.
+
+572
+00:43:03,458 --> 00:43:06,044
+- ¿Justo aquí?
+- Sí. Sólo hazla pedazos.
+
+573
+00:43:06,920 --> 00:43:08,505
+Bien.
+
+574
+00:43:09,423 --> 00:43:10,549
+Bien.
+
+575
+00:43:16,847 --> 00:43:20,225
+Espera.
+¿El ruido no lo despertará?
+
+576
+00:43:20,767 --> 00:43:22,561
+Creo que está en una...
+
+577
+00:43:23,228 --> 00:43:25,830
+¿En una especie de capullo?
+¿Inactivo?
+
+578
+00:43:26,064 --> 00:43:27,624
+Como un tiburón dormido.
+
+579
+00:43:27,858 --> 00:43:30,402
+Creo que esto es una estupidez,
+pero aquí voy.
+
+580
+00:43:41,872 --> 00:43:43,832
+Bien.
+Veo su piel.
+
+581
+00:43:45,167 --> 00:43:46,935
+- Parece estar respirando.
+- Bien.
+
+582
+00:43:47,169 --> 00:43:49,213
+Vaya.
+Muy bien.
+
+583
+00:43:50,047 --> 00:43:51,690
+Bien, entonces...
+
+584
+00:43:51,924 --> 00:43:54,067
+Bien. Colócale el dispositivo de rastreo.
+
+585
+00:43:54,301 --> 00:43:56,720
+- Lo meteré a la fuerza.
+- Sí, sólo hazlo.
+
+586
+00:43:58,722 --> 00:44:02,450
+Bien. Listo.
+Está dentro.
+
+587
+00:44:02,684 --> 00:44:05,020
+- Está dentro.
+- Dice que ya está dentro.
+
+588
+00:44:05,562 --> 00:44:06,563
+Sí.
+
+589
+00:44:09,900 --> 00:44:10,750
+¡Ahí está!
+
+590
+00:44:10,984 --> 00:44:12,861
+Captamos su señal.
+Lo tenemos.
+
+591
+00:44:13,654 --> 00:44:15,948
+Misión cumplida.
+¡Dios mío!
+
+592
+00:44:16,532 --> 00:44:18,675
+- Mierda.
+- Pero, ten cuidado.
+
+593
+00:44:18,909 --> 00:44:19,910
+Sí.
+
+594
+00:44:21,078 --> 00:44:22,079
+Está saliendo.
+
+595
+00:44:23,121 --> 00:44:25,374
+Santo Dios.
+
+596
+00:44:46,103 --> 00:44:47,271
+¡Cate!
+
+597
+00:44:50,732 --> 00:44:51,942
+¡Cate!
+
+598
+00:45:03,328 --> 00:45:06,748
+¡Cate!
+
+599
+00:45:09,209 --> 00:45:10,586
+¡Cate!
+
+600
+00:45:11,378 --> 00:45:12,520
+¿Puedes oírme?
+
+601
+00:45:12,754 --> 00:45:14,173
+¡Sí!
+
+602
+00:45:17,342 --> 00:45:18,552
+¿Estás bien?
+
+603
+00:45:19,261 --> 00:45:22,906
+¡Estoy bien! Ya sé qué es lo que
+escuchaban las mujeres aquí.
+
+604
+00:45:23,140 --> 00:45:26,493
+Amplifica la canción del Titán.
+
+605
+00:45:26,727 --> 00:45:28,395
+Hay un túnel.
+
+606
+00:45:29,897 --> 00:45:32,149
+Creo que lleva al océano.
+
+607
+00:45:32,858 --> 00:45:33,875
+Bien.
+
+608
+00:45:34,109 --> 00:45:35,110
+Lo seguiré.
+
+609
+00:45:36,028 --> 00:45:37,070
+Ten cuidado.
+
+610
+00:45:39,907 --> 00:45:41,299
+¿Me escuchas?
+
+611
+00:45:41,533 --> 00:45:44,844
+Sí.
+Te escucho.
+
+612
+00:45:45,078 --> 00:45:49,082
+Sólo que... Mierda.
+Te escuchas más lejos.
+
+613
+00:45:50,167 --> 00:45:54,646
+Bueno, escúchame.
+Debes volver a la cápsula.
+
+614
+00:45:54,880 --> 00:45:59,259
+Hay un árbol enorme con una bifurcación.
+Sé que lo has visto.
+
+615
+00:46:00,135 --> 00:46:01,386
+Sí.
+¿Por qué ahí?
+
+616
+00:46:02,596 --> 00:46:05,891
+Porque el dragón de Billy irá ahí por ti.
+
+617
+00:46:07,059 --> 00:46:10,161
+Tienes que aguantar y... por la fisura.
+Cuando se abra, saldrás con él.
+
+618
+00:46:10,395 --> 00:46:11,454
+Está bien.
+
+619
+00:46:11,688 --> 00:46:13,248
+¿Seguro que así volveré a casa?
+
+620
+00:46:13,482 --> 00:46:14,624
+¿Estás seguro?
+
+621
+00:46:14,858 --> 00:46:16,818
+Lee, estoy seguro.
+
+622
+00:46:20,656 --> 00:46:22,132
+Eres un buen hombre, Comandante.
+
+623
+00:46:22,366 --> 00:46:26,370
+No lo olvides.
+Intenta no hacerlo. No será fácil.
+
+624
+00:46:30,791 --> 00:46:32,584
+Cuídala, ¿sí?
+
+625
+00:46:33,961 --> 00:46:36,062
+Y a los hijos de Hiroshi también.
+
+626
+00:46:36,296 --> 00:46:38,257
+Perdemos la conexión, ¿verdad?
+
+627
+00:46:48,183 --> 00:46:49,184
+Sí.
+
+628
+00:46:51,186 --> 00:46:52,187
+Es hora de que te vayas.
+
+629
+00:47:38,233 --> 00:47:39,443
+¿Hola?
+
+630
+00:47:43,030 --> 00:47:44,031
+¡Cate!
+
+631
+00:47:44,781 --> 00:47:45,908
+¿Hola?
+
+632
+00:47:47,492 --> 00:47:48,493
+¿Cate?
+
+633
+00:47:50,287 --> 00:47:52,206
+- ¡Cate!
+- Hola.
+
+634
+00:47:55,209 --> 00:47:57,711
+¡Dios mío!
+Me asustaste.
+
+635
+00:47:58,670 --> 00:48:00,130
+¿Cómo volviste?
+
+636
+00:48:00,839 --> 00:48:04,343
+Hay una red de túneles.
+Salí por uno de ellos.
+
+637
+00:48:05,802 --> 00:48:07,387
+Ahora sé lo que se siente.
+
+638
+00:48:08,472 --> 00:48:10,448
+En verdad llegué a creer
+que el pozo estaba embrujado.
+
+639
+00:48:10,682 --> 00:48:11,533
+No lo creo.
+
+640
+00:48:11,767 --> 00:48:14,478
+Se sintió diferente allá abajo.
+
+641
+00:48:15,270 --> 00:48:17,314
+Todo era mucho más claro.
+
+642
+00:48:18,148 --> 00:48:20,417
+Creo que las mujeres
+sentían la canción del Titán...
+
+643
+00:48:20,651 --> 00:48:22,252
+y bajaban al pozo a escucharla.
+
+644
+00:48:22,486 --> 00:48:23,920
+Lo cual podía interpretarse como locura.
+
+645
+00:48:24,154 --> 00:48:27,241
+Exactamente.
+No creo que el Titán esté perdido.
+
+646
+00:48:28,659 --> 00:48:29,910
+No creo que sea peligroso.
+
+647
+00:48:31,495 --> 00:48:32,913
+Sólo necesita nuestra ayuda.
+
+648
+00:48:46,051 --> 00:48:46,901
+Ya llegó el taxi, Zook.
+
+649
+00:48:47,135 --> 00:48:48,153
+- Sí.
+- ¿Es el Titán?
+
+650
+00:48:48,387 --> 00:48:53,033
+Sí, la señal es fuerte.
+Se dirige a Australia.
+
+651
+00:48:53,267 --> 00:48:54,685
+Ya veo.
+
+652
+00:48:57,229 --> 00:48:59,773
+¿Seguro que quieres hacer esto?
+
+653
+00:49:00,607 --> 00:49:02,442
+Bueno, el plan no cambió, Zook.
+
+654
+00:49:03,360 --> 00:49:05,571
+Lo que está por suceder era inevitable.
+
+655
+00:49:08,782 --> 00:49:12,494
+Entonces,
+¿a dónde nos llevará el destino ahora?
+
+656
+00:49:18,625 --> 00:49:19,626
+No a nosotros, Zook.
+
+657
+00:49:22,212 --> 00:49:23,213
+Sólo a mí.
+
+658
+00:49:26,216 --> 00:49:30,470
+¿Crees que estoy muy viejo
+como para acompañarte en esta aventura?
+
+659
+00:49:31,346 --> 00:49:33,265
+Para nada, Zook.
+
+660
+00:49:33,974 --> 00:49:36,560
+Pero, me temo que lo que sigue
+es trabajo para uno sólo.
+
+661
+00:49:37,603 --> 00:49:41,899
+¿Temes que esta reliquia de cien años
+quizá no sobreviva?
+
+662
+00:49:47,696 --> 00:49:51,158
+Crees que quizá tú no sobrevivas.
+
+663
+00:49:57,706 --> 00:49:58,707
+Adiós, viejo amigo.
+
+664
+00:50:00,792 --> 00:50:01,893
+- ¿Qué tenemos?
+- Señor...
+
+665
+00:50:02,127 --> 00:50:05,964
+captamos una señal extraña. RA01.
+
+666
+00:50:09,009 --> 00:50:10,385
+¿Reloj de Arena Cero-Uno?
+
+667
+00:50:12,513 --> 00:50:14,739
+Esa es la señal original
+de la primera cápsula...
+
+668
+00:50:14,973 --> 00:50:16,308
+que fue a Axis Mundi.
+
+669
+00:50:17,267 --> 00:50:19,035
+Es de 1962.
+¿Por qué?
+
+670
+00:50:19,269 --> 00:50:20,270
+Está activa.
+
+671
+00:50:21,146 --> 00:50:24,874
+Pero, esa cápsula tiene casi 60 años
+y fue destruida en Isla Calavera.
+
+672
+00:50:25,108 --> 00:50:26,610
+Bien.
+Muéstrenme su velocidad.
+
+673
+00:50:27,861 --> 00:50:31,615
+Avanza a 40 nudos.
+G-TASS confirma que es el Titán X.
+
+674
+00:50:34,034 --> 00:50:38,038
+Bueno, señor, como lo prometí,
+aquí está el Titán.
+
+675
+00:50:42,918 --> 00:50:44,419
+¿Qué demonios está haciendo?
+

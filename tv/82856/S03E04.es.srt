@@ -1,0 +1,815 @@
+1
+00:00:01,125 --> 00:00:02,625
+PREVIAMENTE
+
+2
+00:00:02,625 --> 00:00:06,833
+<i>Juro por mí y por los antepasados...</i>
+
+3
+00:00:06,833 --> 00:00:09,666
+"Juro por mí y por los antepasados...".
+
+4
+00:00:09,666 --> 00:00:12,541
+<i>Que andaré por el Camino del Mand'alor...</i>
+
+5
+00:00:12,541 --> 00:00:15,708
+"Que andaré
+por el Camino del Mand'alor...".
+
+6
+00:00:15,708 --> 00:00:19,041
+<i>Din Djarin afirma haberse bañado
+en las aguas vivientes.</i>
+
+7
+00:00:19,708 --> 00:00:20,791
+<i>Dice la verdad.</i>
+
+8
+00:00:24,166 --> 00:00:27,083
+Din Djarin, estás redimido.
+
+9
+00:00:27,083 --> 00:00:30,666
+Y Bo-Katan Kryze,
+tú también estás redimida.
+
+10
+00:00:31,333 --> 00:00:32,458
+Yo no ando el Camino.
+
+11
+00:00:32,458 --> 00:00:34,125
+¿Te bañaste en las aguas?
+
+12
+00:00:34,125 --> 00:00:35,375
+Sí.
+
+13
+00:00:35,375 --> 00:00:38,125
+¿Y te has quitado el casco desde entonces?
+
+14
+00:00:38,125 --> 00:00:39,291
+No.
+
+15
+00:00:39,291 --> 00:00:41,458
+Puedes unirte a nuestro refugio.
+
+16
+00:00:41,458 --> 00:00:45,291
+Bienvenida, Bo-Katan del clan Kryze.
+
+17
+00:00:45,291 --> 00:00:46,500
+<i>Eres una de nosotros.</i>
+
+18
+00:01:34,916 --> 00:01:36,208
+¡Otra vez!
+
+19
+00:01:40,083 --> 00:01:41,083
+Sometido.
+
+20
+00:01:42,875 --> 00:01:44,125
+Ganador.
+
+21
+00:02:05,708 --> 00:02:08,208
+Otra vez. Uno, dos, tres...
+
+22
+00:02:43,625 --> 00:02:45,208
+Deja las rocas, niño.
+
+23
+00:02:46,083 --> 00:02:48,333
+Es hora de que entrenes
+con los otros expósitos.
+
+24
+00:02:50,333 --> 00:02:51,625
+Se acabaron los juegos.
+
+25
+00:02:53,458 --> 00:02:55,000
+Necesito que te concentres.
+
+26
+00:03:08,500 --> 00:03:09,833
+Próximo contendiente.
+
+27
+00:03:18,500 --> 00:03:19,750
+¡Ganador!
+
+28
+00:03:24,916 --> 00:03:26,583
+¿Te parece una buena idea?
+
+29
+00:03:26,583 --> 00:03:30,083
+Si ha de ascender de expósito a aprendiz,
+tiene que entrenar.
+
+30
+00:03:31,541 --> 00:03:32,625
+¡Juez!
+
+31
+00:03:35,791 --> 00:03:36,875
+Es el contendiente.
+
+32
+00:03:37,791 --> 00:03:39,083
+Es muy pequeño.
+
+33
+00:03:39,083 --> 00:03:40,791
+Soy su tutor. Proceda.
+
+34
+00:03:43,833 --> 00:03:46,666
+-¿Qué arma?
+- Que decida el rival.
+
+35
+00:03:48,333 --> 00:03:51,416
+- Dardos.
+- Trae los dardos de entrenamiento.
+
+36
+00:03:54,750 --> 00:03:56,375
+¿Por qué no usa casco?
+
+37
+00:03:56,375 --> 00:04:00,708
+Es muy joven para jurar el Credo
+y por lo tanto, para llevar casco.
+
+38
+00:04:02,041 --> 00:04:03,541
+Y es muy joven para pelear.
+
+39
+00:04:06,291 --> 00:04:08,708
+"Uno solo habla cuando sabe".
+
+40
+00:04:09,458 --> 00:04:10,500
+¿No lo dice el Credo?
+
+41
+00:04:11,416 --> 00:04:12,416
+Bueno, yo sé.
+
+42
+00:04:13,583 --> 00:04:15,416
+Entonces, quizá la lección sea para ti.
+
+43
+00:04:16,000 --> 00:04:17,000
+Los dardos.
+
+44
+00:04:20,916 --> 00:04:22,708
+Combatientes, tomen las armas.
+
+45
+00:04:30,541 --> 00:04:31,708
+No te preocupes.
+
+46
+00:04:32,458 --> 00:04:34,000
+Mi papá era igual.
+
+47
+00:04:34,000 --> 00:04:35,500
+Solo está orgulloso de ti.
+
+48
+00:04:38,125 --> 00:04:40,166
+No seas duro con él, niño.
+
+49
+00:04:44,333 --> 00:04:46,250
+Cada uno tiene tres dardos.
+
+50
+00:04:46,250 --> 00:04:49,375
+Pueden disparar los dardos
+en cualquier orden.
+
+51
+00:04:49,375 --> 00:04:51,875
+Cada acierto directo suma un punto.
+
+52
+00:04:52,541 --> 00:04:54,291
+La marca debe ser visible para sumar.
+
+53
+00:04:54,291 --> 00:04:56,708
+Una ronda. Gana la puntuación más alta.
+
+54
+00:04:59,375 --> 00:05:01,875
+Aprieta el puño para lanzar los dardos.
+
+55
+00:05:02,875 --> 00:05:03,875
+Lo harás bien.
+
+56
+00:05:06,500 --> 00:05:08,625
+¿No sabe lanzar dardos?
+
+57
+00:05:08,625 --> 00:05:10,666
+Puede hacerlo. Créeme.
+
+58
+00:05:11,333 --> 00:05:12,416
+Listos.
+
+59
+00:05:14,166 --> 00:05:15,375
+¡Comiencen!
+
+60
+00:05:17,083 --> 00:05:18,375
+¡Punto!
+
+61
+00:05:21,708 --> 00:05:23,041
+No me mires a mí, sino a él.
+
+62
+00:05:24,041 --> 00:05:25,458
+Listo.
+
+63
+00:05:25,458 --> 00:05:27,708
+¡Comiencen! ¡Punto!
+
+64
+00:05:28,875 --> 00:05:32,708
+Grogu, he visto lo que puedes hacer.
+
+65
+00:05:32,708 --> 00:05:35,458
+Está bien. Muéstrales.
+
+66
+00:05:42,583 --> 00:05:43,541
+Listos.
+
+67
+00:05:44,500 --> 00:05:45,708
+¡Comiencen!
+
+68
+00:05:52,333 --> 00:05:53,916
+Tres puntos. ¡Ganador!
+
+69
+00:05:55,000 --> 00:05:56,041
+Eso es.
+
+70
+00:05:56,041 --> 00:05:57,375
+¿Tú le enseñaste eso?
+
+71
+00:05:57,375 --> 00:05:58,416
+No fui yo.
+
+72
+00:06:00,791 --> 00:06:03,666
+"Uno solo habla cuando sabe".
+
+73
+00:06:11,208 --> 00:06:12,250
+Muy bien, niño.
+
+74
+00:06:28,166 --> 00:06:30,083
+No disparen, matará al niño.
+
+75
+00:06:30,083 --> 00:06:31,458
+Lo seguiremos a su guarida.
+
+76
+00:07:20,833 --> 00:07:22,083
+Me quedé sin combustible.
+
+77
+00:07:23,166 --> 00:07:24,625
+Siempre se escapa.
+
+78
+00:07:42,791 --> 00:07:45,875
+Capítulo 20
+EL EXPÓSITO
+
+79
+00:08:02,375 --> 00:08:04,916
+Mantuve una gran altura
+y lo seguí a su guarida.
+
+80
+00:08:05,500 --> 00:08:07,000
+Sé cómo llegar.
+
+81
+00:08:07,000 --> 00:08:09,916
+Deberíamos reunir
+un grupo de cazadores e ir tras él.
+
+82
+00:08:13,000 --> 00:08:15,458
+Exploré donde vive
+y tracé un mapa de la ubicación.
+
+83
+00:08:16,250 --> 00:08:17,166
+Ahí.
+
+84
+00:08:19,875 --> 00:08:20,875
+El nido.
+
+85
+00:08:22,291 --> 00:08:23,791
+Viajó un gran trecho.
+
+86
+00:08:23,791 --> 00:08:24,958
+Iré a buscarlo.
+
+87
+00:08:25,625 --> 00:08:27,083
+Las montañas son muy altas.
+
+88
+00:08:27,083 --> 00:08:29,625
+Si usamos mochilas propulsoras,
+la bestia oirá.
+
+89
+00:08:29,625 --> 00:08:31,625
+Matará al niño.
+
+90
+00:08:32,291 --> 00:08:34,791
+No son más altas
+que la cordillera de Kyrimorut.
+
+91
+00:08:34,791 --> 00:08:36,916
+La escalaba en el entrenamiento básico.
+
+92
+00:08:36,916 --> 00:08:40,500
+Volaré hasta la ladera
+y escalaré el resto.
+
+93
+00:08:40,500 --> 00:08:41,458
+Iré contigo.
+
+94
+00:08:41,458 --> 00:08:46,041
+Paz Vizsla, dile que te acompañe
+al equipo de entrenamiento Shriek-hawk.
+
+95
+00:08:46,041 --> 00:08:48,791
+Empacaré lazos extensos
+para los lanzadores.
+
+96
+00:08:48,791 --> 00:08:52,833
+Debemos evitar explosivos y blásters
+por la seguridad del expósito.
+
+97
+00:09:02,041 --> 00:09:04,125
+Eres muy joven para ir con ellos.
+
+98
+00:09:07,333 --> 00:09:08,625
+Todo a su debido tiempo.
+
+99
+00:09:10,583 --> 00:09:11,666
+Vamos, Grogu.
+
+100
+00:09:12,833 --> 00:09:18,166
+Si quieres convertirte en mandaloriano,
+hay mucho por hacer.
+
+101
+00:09:59,083 --> 00:10:00,583
+Esta es la forja.
+
+102
+00:10:02,916 --> 00:10:05,625
+Es el corazón de la cultura mandaloriana.
+
+103
+00:10:07,500 --> 00:10:13,333
+Así como moldeamos el acero mandaloriano,
+nos moldeamos a nosotros mismos.
+
+104
+00:10:18,791 --> 00:10:22,250
+Todos comenzamos siendo
+un mineral en bruto.
+
+105
+00:10:26,166 --> 00:10:31,708
+Nos perfeccionamos
+a través de las pruebas y la adversidad.
+
+106
+00:10:41,208 --> 00:10:44,166
+La forja puede exponer las debilidades.
+
+107
+00:11:08,625 --> 00:11:09,875
+¡Llévenlo con Kelleran!
+
+108
+00:11:26,416 --> 00:11:29,541
+¡El ascensor! ¡Lleva al joven
+con Kelleran! ¡Vayan!
+
+109
+00:11:49,666 --> 00:11:51,583
+Todo va a salir bien, niño.
+
+110
+00:11:56,916 --> 00:11:59,791
+Huyen por la plataforma del subnivel 1215.
+
+111
+00:11:59,791 --> 00:12:00,875
+¡Disparen!
+
+112
+00:12:14,500 --> 00:12:16,041
+¡Allí! ¡Deténganlos!
+
+113
+00:12:22,333 --> 00:12:23,541
+¡No los dejen escapar!
+
+114
+00:12:45,833 --> 00:12:48,500
+Le dieron al motor.
+Esto se va a poner un poco feo.
+
+115
+00:14:00,500 --> 00:14:01,541
+No te preocupes.
+
+116
+00:14:01,541 --> 00:14:03,833
+Nos reuniremos con unos amigos míos.
+
+117
+00:14:03,833 --> 00:14:06,083
+Pero sujétate, el aterrizaje será agitado.
+
+118
+00:14:23,125 --> 00:14:24,041
+¿Kelleran Beq?
+
+119
+00:14:25,208 --> 00:14:27,416
+- Me pisan los talones.
+-¿Y los demás?
+
+120
+00:14:27,416 --> 00:14:28,458
+No hay más.
+
+121
+00:14:34,208 --> 00:14:35,833
+Todos fuera. Rápido.
+
+122
+00:14:36,333 --> 00:14:38,375
+Ve en la nave.
+Tiene combustible, está lista.
+
+123
+00:14:38,375 --> 00:14:39,666
+¡Vamos!
+
+124
+00:15:40,958 --> 00:15:42,958
+Es una tradición de nuestra cultura
+
+125
+00:15:42,958 --> 00:15:47,875
+que cada uno done a los expósitos
+una pequeña parte de lo que gana.
+
+126
+00:15:48,916 --> 00:15:54,708
+Con estos restos de béskar
+forjé la próxima pieza de tu armadura.
+
+127
+00:16:00,000 --> 00:16:04,625
+El acero mandaloriano te protegerá
+mientras te fortaleces.
+
+128
+00:16:06,166 --> 00:16:11,791
+Te identificarás con el medallón a medida
+que te adaptes a nosotros, expósito Grogu.
+
+129
+00:16:48,625 --> 00:16:50,291
+Continuaremos a pie desde aquí.
+
+130
+00:16:50,958 --> 00:16:52,875
+Si nos acercamos más, oirá la nave.
+
+131
+00:17:34,083 --> 00:17:36,291
+El objetivo está en la cima de este pico.
+
+132
+00:17:36,291 --> 00:17:38,250
+Si nos cobijamos en esta saliente,
+
+133
+00:17:38,250 --> 00:17:42,375
+quedaremos fuera de la línea de visión
+y subiremos al amanecer.
+
+134
+00:17:42,375 --> 00:17:43,416
+Haremos un campamento.
+
+135
+00:18:05,291 --> 00:18:07,833
+¿Cómo comen cuando hay gente cerca?
+
+136
+00:18:07,833 --> 00:18:09,000
+No comemos.
+
+137
+00:18:09,000 --> 00:18:10,250
+Cuando te dan de comer,
+
+138
+00:18:10,250 --> 00:18:13,541
+buscas un lugar
+donde puedas quitarte el casco.
+
+139
+00:18:23,000 --> 00:18:25,041
+Eres la líder del grupo bélico.
+
+140
+00:18:25,041 --> 00:18:27,250
+Tienes el honor
+de quedarte junto al fuego.
+
+141
+00:18:27,958 --> 00:18:29,083
+El camino así es.
+
+142
+00:19:01,208 --> 00:19:03,500
+La guarida del ave
+está en el pico más alto.
+
+143
+00:19:04,791 --> 00:19:06,833
+Esperamos que el niño siga vivo,
+
+144
+00:19:06,833 --> 00:19:09,166
+así que no debemos dispararle al ave.
+
+145
+00:19:09,833 --> 00:19:11,791
+Matará al expósito si la atacamos.
+
+146
+00:19:11,791 --> 00:19:14,416
+Ya sucedió, cuando se llevó a otros.
+
+147
+00:19:14,416 --> 00:19:16,541
+Lo mejor es que seamos sigilosos.
+
+148
+00:19:16,541 --> 00:19:18,833
+Las mochilas le avisarán
+nuestra presencia.
+
+149
+00:19:19,583 --> 00:19:20,416
+Vamos.
+
+150
+00:21:16,625 --> 00:21:18,458
+No está. Busquemos al niño.
+
+151
+00:21:22,333 --> 00:21:23,708
+Veo una fuente de calor allí.
+
+152
+00:21:26,500 --> 00:21:28,500
+Espera hasta que despejemos el área.
+
+153
+00:21:28,500 --> 00:21:29,916
+Es mi hijo.
+
+154
+00:21:34,125 --> 00:21:38,375
+¡Ragnar!
+
+155
+00:22:07,500 --> 00:22:08,875
+¡Auxilio!
+
+156
+00:22:09,500 --> 00:22:10,750
+¡Está vivo!
+
+157
+00:22:18,875 --> 00:22:20,083
+¡Auxilio!
+
+158
+00:22:29,958 --> 00:22:31,000
+¡Toma mi mano!
+
+159
+00:24:05,250 --> 00:24:06,791
+¿Estás bien?
+
+160
+00:24:09,958 --> 00:24:10,916
+Estoy bien, papá.
+
+161
+00:24:11,708 --> 00:24:13,916
+- Gracias.
+- El camino así es.
+
+162
+00:24:15,125 --> 00:24:16,208
+El camino así es.
+
+163
+00:24:32,041 --> 00:24:33,250
+Vamos, Grogu.
+
+164
+00:25:07,333 --> 00:25:09,458
+Bo-Katan Kryze,
+
+165
+00:25:09,458 --> 00:25:13,000
+honraste a tu Casa y a todo Mand'alor.
+
+166
+00:25:13,000 --> 00:25:15,875
+Conseguiste el honor más alto del Credo.
+
+167
+00:25:16,500 --> 00:25:18,333
+Salvar a un expósito.
+
+168
+00:25:18,333 --> 00:25:20,041
+El camino así es.
+
+169
+00:25:20,041 --> 00:25:21,583
+El camino así es.
+
+170
+00:25:21,583 --> 00:25:25,583
+Y trajimos tres expósitos más
+que necesitan cuidado y entrenamiento.
+
+171
+00:25:25,583 --> 00:25:26,750
+¿En serio?
+
+172
+00:25:45,333 --> 00:25:47,166
+Hay que repararte.
+
+173
+00:25:48,458 --> 00:25:49,291
+Ven conmigo.
+
+174
+00:25:53,541 --> 00:25:57,125
+Puedo reemplazar lo que falta,
+pero no con piezas modernas.
+
+175
+00:25:58,375 --> 00:26:00,458
+¿Incrusto el sello de los Búhos Nocturnos?
+
+176
+00:26:05,958 --> 00:26:09,833
+¿Sería aceptable llevar
+una hombrera con los Búhos Nocturnos
+
+177
+00:26:09,833 --> 00:26:12,000
+y otra con el mitosaurio?
+
+178
+00:26:12,666 --> 00:26:15,958
+El mitosaurio pertenece
+a todos los mandalorianos.
+
+179
+00:26:16,958 --> 00:26:19,083
+Siempre es aceptable llevarlo.
+
+180
+00:26:20,291 --> 00:26:21,333
+Eso me gustaría.
+
+181
+00:26:51,166 --> 00:26:53,541
+¿Qué dirías si te dijera que vi uno?
+
+182
+00:26:55,916 --> 00:26:57,000
+¿Que viste un qué?
+
+183
+00:26:59,875 --> 00:27:00,875
+Un mitosaurio.
+
+184
+00:27:02,416 --> 00:27:04,166
+Diría que eres muy afortunada.
+
+185
+00:27:05,791 --> 00:27:07,125
+Es una visión noble.
+
+186
+00:27:07,833 --> 00:27:08,750
+No. Yo...
+
+187
+00:27:10,625 --> 00:27:12,375
+Me refiero a uno real.
+
+188
+00:27:13,833 --> 00:27:16,000
+Debajo de las aguas vivientes
+en Mand'alor.
+
+189
+00:27:16,583 --> 00:27:19,666
+Cuando eliges andar
+el Camino del Mand'alor,
+
+190
+00:27:19,666 --> 00:27:22,000
+ves muchas cosas.
+
+191
+00:27:26,083 --> 00:27:27,416
+Pero fue real.
+
+192
+00:27:28,916 --> 00:27:29,916
+El camino así es.
+
+193
+00:30:26,083 --> 00:30:28,083
+Subtítulos: Ivonne Said Marinez
+
