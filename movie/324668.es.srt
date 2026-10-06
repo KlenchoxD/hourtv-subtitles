@@ -1,0 +1,4886 @@
+1
+00:00:57,682 --> 00:00:59,266
+<i>Lo recuerdo.</i>
+
+2
+00:01:00,351 --> 00:01:02,352
+<i>Lo recuerdo todo.</i>
+
+3
+00:01:05,982 --> 00:01:07,649
+Capitán Webb.
+
+4
+00:01:07,817 --> 00:01:09,109
+Buenos días.
+
+5
+00:01:09,319 --> 00:01:11,945
+¿Le han explicado todo?
+
+6
+00:01:13,615 --> 00:01:14,281
+Sí, señor.
+
+7
+00:01:15,867 --> 00:01:17,034
+Cuando terminemos con usted,
+
+8
+00:01:17,202 --> 00:01:19,787
+ya no será David Webb.
+
+9
+00:01:19,954 --> 00:01:22,039
+Seré quien usted necesite que sea, señor.
+
+10
+00:01:23,833 --> 00:01:26,168
+Sabía exactamente
+lo que significaba
+
+11
+00:01:26,336 --> 00:01:28,378
+quedarse.
+
+12
+00:01:30,465 --> 00:01:32,674
+No puede dejar atrás lo que hizo, Jason.
+
+13
+00:01:33,885 --> 00:01:36,011
+Usted se convirtió en lo que es.
+
+14
+00:01:37,472 --> 00:01:40,516
+Finalmente tendrá que aceptar el hecho
+
+15
+00:01:41,851 --> 00:01:43,852
+Usted se ofreció como voluntario.
+
+16
+00:02:29,774 --> 00:02:35,404
+TSAMANTAS, GRECIA.
+EN LA FRONTERA CON ALBANIA
+
+17
+00:02:47,709 --> 00:02:50,252
+Vasily, tú eres el primero.
+
+18
+00:02:57,427 --> 00:02:58,594
+¡10 al serbio!
+
+19
+00:02:58,928 --> 00:02:59,887
+¡20 al serbio!
+
+20
+00:03:01,431 --> 00:03:02,890
+¡10 al ruso!
+
+21
+00:04:05,912 --> 00:04:09,248
+REIKIAVIK, ISLANDIA
+
+22
+00:04:25,473 --> 00:04:27,891
+Christian Dassault hizo una reservación.
+
+23
+00:04:50,206 --> 00:04:53,500
+Usa SQL para dañar
+sus bases de datos.
+
+24
+00:05:08,433 --> 00:05:11,935
+AGENCIA CENTRAL DE INTELIGENCIA
+LANGLEY, VIRGINIA
+
+25
+00:05:13,021 --> 00:05:15,772
+LA CIA PIERDE CONFIANZA
+
+26
+00:05:15,940 --> 00:05:18,567
+La inteligencia del senado valora
+la eficiencia de la agencia
+
+27
+00:05:25,033 --> 00:05:27,743
+EJECUTAR ALGORITMO DE PREDICCIÓN
+
+28
+00:05:29,412 --> 00:05:32,581
+SIRIA
+ALEPPO
+
+29
+00:05:37,128 --> 00:05:38,253
+Heather Lee.
+
+30
+00:05:38,421 --> 00:05:40,422
+Tenemos un dispositivo
+
+31
+00:05:40,590 --> 00:05:43,592
+asignado en 1993 a un equipo
+que permaneció en Novosibirsk, Rusia.
+
+32
+00:05:43,926 --> 00:05:46,303
+Marcado en el inventario
+como destruido.
+
+33
+00:05:46,596 --> 00:05:48,972
+<i>Está tocando a nuestra puerta.</i>
+
+34
+00:05:54,395 --> 00:05:56,146
+OPERACIONES ENCUBIERTAS
+
+35
+00:05:58,608 --> 00:06:00,901
+Copiar a dispositivo USB
+
+36
+00:06:01,277 --> 00:06:04,738
+DESCARGANDO
+OPERACIONES ENCUBIERTAS
+
+37
+00:06:06,449 --> 00:06:07,741
+OPERACIONES ENCUBIERTAS
+01 - MANO DE HIERRO
+
+38
+00:06:07,825 --> 00:06:09,534
+02 - ESPECTRO
+03 - RELOJ DE ARENA - 04 - RUBICON
+
+39
+00:06:10,661 --> 00:06:12,662
+10 - TREADSTONE
+
+40
+00:06:16,250 --> 00:06:17,334
+¿Qué está pasando?
+
+41
+00:06:17,502 --> 00:06:19,586
+Quienquiera que sea,
+ahí está, inactivo.
+
+42
+00:06:21,089 --> 00:06:23,632
+DUBNA 48k
+SERVIDOR PRINCIPAL DE LA CIA
+
+43
+00:06:23,966 --> 00:06:26,218
+No hay salida de datos, nada.
+
+44
+00:06:26,302 --> 00:06:27,302
+PAQUETES DE DATOS ENVIADOS: 285
+RECIBIDOS: 0
+
+45
+00:06:27,470 --> 00:06:28,303
+A un lado.
+
+46
+00:06:33,810 --> 00:06:35,310
+INFILTRACIÓN
+
+47
+00:06:35,478 --> 00:06:37,145
+Encontraron una puerta trasera.
+
+48
+00:06:37,313 --> 00:06:39,940
+Necesitamos el código de regreso.
+Voy a localizar el origen.
+
+49
+00:06:40,108 --> 00:06:40,857
+Trabajo en eso.
+
+50
+00:06:41,025 --> 00:06:44,111
+Hay una infiltración importante
+en nuestro servidor principal.
+
+51
+00:06:44,278 --> 00:06:46,321
+Dejen todo lo que estén haciendo
+y a trabajar.
+
+52
+00:06:49,325 --> 00:06:53,578
+CONFIDENCIAL
+WEBB, RICHARD - ANALISTA
+
+53
+00:06:57,125 --> 00:06:59,793
+DAVID WEBB (HIJO)
+
+54
+00:07:05,466 --> 00:07:07,843
+PROGRAMA TREADSTONE
+
+55
+00:07:12,890 --> 00:07:14,558
+Le estoy enviando el código.
+
+56
+00:07:14,725 --> 00:07:15,559
+Lo tengo.
+
+57
+00:07:16,978 --> 00:07:18,395
+- ¿Lo necesitas ahora?
+- Sí.
+
+58
+00:07:18,563 --> 00:07:19,855
+- Buscando IP.
+- ¿Dónde está esa ruta?
+
+59
+00:07:20,022 --> 00:07:21,690
+Usuario anónimo.
+
+60
+00:07:22,400 --> 00:07:23,525
+REIKIAVIK
+
+61
+00:07:23,693 --> 00:07:24,484
+Reikiavik.
+
+62
+00:07:26,404 --> 00:07:27,154
+RASTREO POR IP
+
+63
+00:07:27,238 --> 00:07:28,488
+Una convención de hackers.
+
+64
+00:07:28,656 --> 00:07:29,739
+Corten la energía del edificio.
+
+65
+00:07:29,907 --> 00:07:31,366
+Entren a la red eléctrica.
+
+66
+00:07:31,534 --> 00:07:32,576
+Sí, señor.
+
+67
+00:07:33,578 --> 00:07:35,662
+IMPLANTANDO UTILERÍA
+
+68
+00:07:36,998 --> 00:07:38,874
+CONFIDENCIAL
+
+69
+00:07:39,041 --> 00:07:41,877
+ADVERTENCIA
+RASTREO EXTERNO DETECTADO
+
+70
+00:07:44,046 --> 00:07:46,339
+- Tengo acceso a la red eléctrica.
+- Aguarden.
+
+71
+00:07:47,216 --> 00:07:48,884
+Diez segundos.
+
+72
+00:07:49,051 --> 00:07:49,843
+Resolvamos esto.
+
+73
+00:07:50,011 --> 00:07:51,720
+VIRUS IMPLANTADO
+
+74
+00:07:51,888 --> 00:07:53,847
+- Desconecten.
+- Entendido. Desconectando.
+
+75
+00:08:03,566 --> 00:08:04,733
+¿Sigues en línea?
+
+76
+00:08:28,257 --> 00:08:29,758
+PARA USO EXCLUSIVO
+DEL DIRECTOR DE LA CIA
+
+77
+00:08:34,597 --> 00:08:35,597
+Dewey.
+
+78
+00:08:36,265 --> 00:08:37,974
+Acaban de hackearnos.
+
+79
+00:08:38,309 --> 00:08:39,434
+¿Es grave?
+
+80
+00:08:39,602 --> 00:08:41,269
+Podría ser peor que Snowden.
+
+81
+00:08:41,979 --> 00:08:43,438
+¿Sabemos quién lo hizo?
+
+82
+00:08:43,606 --> 00:08:44,606
+<i>Estamos en eso.</i>
+
+83
+00:08:44,774 --> 00:08:47,776
+Lee dice que debe ser alguien
+que conoce bien nuestros sistemas.
+
+84
+00:08:47,944 --> 00:08:50,779
+Podría afectar Sueño Profundo
+y Mano de Hierro.
+
+85
+00:08:51,280 --> 00:08:56,618
+Quiero los detalles completos
+en mi sala de juntas en una hora.
+
+86
+00:09:00,456 --> 00:09:04,626
+CORPORACIÓN DEEP DREAM
+SILICON VALLEY, CALIFORNIA
+
+87
+00:09:06,003 --> 00:09:07,003
+Sí.
+
+88
+00:09:08,464 --> 00:09:11,424
+- ¿Te lo confirmaron?
+- Sí, hubo una infiltración.
+
+89
+00:09:11,842 --> 00:09:13,260
+¿Estamos expuestos?
+
+90
+00:09:13,427 --> 00:09:15,136
+Aún no lo sabemos.
+Estamos verificando.
+
+91
+00:09:15,304 --> 00:09:16,972
+Llama a Dewey
+para reunirnos en Washington.
+
+92
+00:09:17,139 --> 00:09:19,099
+Hay mucho en juego.
+No compliquemos las cosas.
+
+93
+00:09:19,267 --> 00:09:20,475
+Solo hazlo.
+
+94
+00:09:22,979 --> 00:09:25,522
+George, ¿estamos listos
+para el lanzamiento?
+
+95
+00:09:26,857 --> 00:09:28,984
+DUBNA 48k RUSA
+
+96
+00:09:31,654 --> 00:09:33,196
+DISPOSITIVO CONOCIDO
+
+97
+00:09:33,364 --> 00:09:34,823
+Ver actividad reciente
+
+98
+00:09:38,411 --> 00:09:39,995
+ORDENAR POR
+
+99
+00:09:40,162 --> 00:09:40,829
+Fecha
+
+100
+00:09:40,997 --> 00:09:43,123
+RED DE HACKERS PANDEMIA
+
+101
+00:09:43,291 --> 00:09:45,500
+Knightrider - Hace 2 horas
+
+102
+00:09:47,461 --> 00:09:50,338
+SE CREE QUE ES MUJER, DE 30 A 35 AÑOS
+
+103
+00:09:51,924 --> 00:09:56,136
+MUJER - 30 A 35 AÑOS
+ISLANDIA - PUERTOS, AEROPUERTOS
+
+104
+00:09:56,304 --> 00:09:57,220
+305 RESULTADOS
+
+105
+00:09:58,598 --> 00:10:00,015
+BUSCAR
+RECONOCIMIENTO FACIAL
+
+106
+00:10:09,567 --> 00:10:10,483
+COINCIDENCIA
+
+107
+00:10:10,651 --> 00:10:13,528
+NICKY PARSONS
+PROGRAMA TREADSTONE
+
+108
+00:10:16,032 --> 00:10:19,743
+RELACIONADA CON JASON BOURNE
+
+109
+00:10:32,173 --> 00:10:34,924
+Heather, ¿conoces al director
+de Inteligencia Nacional?
+
+110
+00:10:35,092 --> 00:10:37,010
+Heather Lee.
+Operaciones cibernéticas, señor.
+
+111
+00:10:37,928 --> 00:10:39,346
+¿Tiene algún nombre?
+
+112
+00:10:39,513 --> 00:10:42,057
+La hacker trabajó para la Agencia.
+
+113
+00:10:42,850 --> 00:10:45,185
+Se cree que colabora
+con Christian Dassault,
+
+114
+00:10:45,353 --> 00:10:47,812
+y tiene nexos previos
+con Jason Bourne.
+
+115
+00:10:49,357 --> 00:10:50,523
+¿Bourne?
+
+116
+00:10:51,067 --> 00:10:53,109
+- Santo Dios.
+- ¿Qué extrajeron?
+
+117
+00:10:53,486 --> 00:10:54,903
+Archivos de operaciones encubiertas.
+
+118
+00:10:55,071 --> 00:10:57,739
+Desde Treadstone
+hasta Mano de Hierro.
+
+119
+00:10:58,616 --> 00:11:00,283
+¿Mano de Hierro?
+
+120
+00:11:00,451 --> 00:11:03,411
+Eso todavía ni siquiera se implementa.
+
+121
+00:11:03,579 --> 00:11:06,414
+¿Dónde está Nicky Parsons ahora?
+
+122
+00:11:06,582 --> 00:11:07,957
+En movimiento.
+
+123
+00:11:08,125 --> 00:11:10,585
+Salió de Reikiavik rumbo a Atenas
+pasando por Bucarest.
+
+124
+00:11:12,088 --> 00:11:13,755
+Yo creo que se reunirá con alguien.
+
+125
+00:11:15,591 --> 00:11:16,841
+¿Cómo se manejará?
+
+126
+00:11:19,762 --> 00:11:21,971
+Lo neutralizaremos de raíz.
+
+127
+00:11:26,769 --> 00:11:29,813
+Quisiera estar a la cabeza
+de este operativo.
+
+128
+00:11:33,275 --> 00:11:35,694
+No estás entrenada
+para este material.
+
+129
+00:11:35,861 --> 00:11:36,986
+Ya estoy involucrada.
+
+130
+00:11:37,154 --> 00:11:39,114
+Implanté un virus
+en la descarga de Parsons.
+
+131
+00:11:39,281 --> 00:11:42,534
+Cuando se abran los archivos,
+podré rastrearlos.
+
+132
+00:11:43,452 --> 00:11:44,869
+Déjenme entrar.
+
+133
+00:11:46,455 --> 00:11:48,665
+Les entregaré a Parsons,
+los archivos
+
+134
+00:11:48,833 --> 00:11:51,835
+y, si sigue ahí afuera,
+también a Bourne.
+
+135
+00:11:59,844 --> 00:12:01,010
+Disculpen.
+
+136
+00:12:07,143 --> 00:12:08,977
+Valoro tu entusiasmo,
+
+137
+00:12:09,812 --> 00:12:14,357
+pero no presiones al director
+de inteligencia con tus metas personales.
+
+138
+00:12:14,859 --> 00:12:16,151
+Entendido.
+
+139
+00:12:16,318 --> 00:12:18,987
+Bien. Creo que puedes ayudarme.
+
+140
+00:12:19,405 --> 00:12:22,157
+Te voy a dar
+el completo control de esto
+
+141
+00:12:22,491 --> 00:12:26,536
+y me aseguraré de que tengas acceso
+a los equipos y a los recursos necesarios.
+
+142
+00:12:26,704 --> 00:12:30,331
+Y quiero estar enterado
+de todos tus movimientos.
+
+143
+00:12:30,916 --> 00:12:31,833
+Sí, señor.
+
+144
+00:12:32,501 --> 00:12:34,169
+Muchas gracias, señor.
+
+145
+00:12:38,507 --> 00:12:41,342
+ROMA, ITALIA
+
+146
+00:13:01,363 --> 00:13:01,946
+¿Sí?
+
+147
+00:13:02,114 --> 00:13:03,740
+Necesito tu ayuda, ahora.
+
+148
+00:13:04,950 --> 00:13:06,868
+No he terminado aquí.
+
+149
+00:13:07,203 --> 00:13:09,204
+Jason Bourne está activo.
+
+150
+00:13:11,582 --> 00:13:13,541
+<i>- ¿Dónde?
+- En Atenas.</i>
+
+151
+00:13:13,709 --> 00:13:16,044
+Concluye tu misión en Roma.
+
+152
+00:13:16,712 --> 00:13:18,046
+Entendido.
+
+153
+00:13:33,395 --> 00:13:36,272
+ATENAS, GRECIA
+
+154
+00:15:49,198 --> 00:15:52,867
+QUIOSCO DE LA PLAZA SÍNTAGMA
+1 HORA
+
+155
+00:16:30,906 --> 00:16:32,573
+Lee recibió algo
+de una cámara exterior.
+
+156
+00:16:32,741 --> 00:16:35,410
+Parsons tomó un autobús
+hacia el oeste de Atenas.
+
+157
+00:16:35,577 --> 00:16:37,120
+Dos equipos locales van en camino.
+
+158
+00:16:37,287 --> 00:16:39,414
+- ¿Alguna señal de Bourne?
+- Hasta ahora, no.
+
+159
+00:16:39,581 --> 00:16:42,333
+Está involucrado de alguna forma.
+Lo presiento.
+
+160
+00:16:44,420 --> 00:16:46,587
+Suban todas las transmisiones de Atenas
+
+161
+00:16:46,964 --> 00:16:48,798
+y activen procesamiento
+en tiempo real.
+
+162
+00:16:48,966 --> 00:16:49,966
+Entendido.
+
+163
+00:16:52,094 --> 00:16:53,302
+¿Qué pasa?
+
+164
+00:16:54,263 --> 00:16:56,931
+El autobús de Parsons acaba de llegar
+a la plaza Síntagma.
+
+165
+00:16:57,349 --> 00:16:59,934
+Hay una protesta
+enfrente del edificio del parlamento.
+
+166
+00:17:00,102 --> 00:17:01,477
+Creo que usará eso para perderse.
+
+167
+00:17:01,645 --> 00:17:04,188
+Desplieguen a los equipos alfa
+y bravo a la plaza.
+
+168
+00:17:04,648 --> 00:17:07,108
+Busquen a Parsons
+entre la gente afuera del parlamento
+
+169
+00:17:07,276 --> 00:17:09,277
+y detecten
+posibles puntos de encuentro.
+
+170
+00:17:09,445 --> 00:17:10,486
+Entendido, señor.
+
+171
+00:17:10,654 --> 00:17:12,613
+Señor, el agente ya aterrizó.
+
+172
+00:17:45,147 --> 00:17:46,522
+Equipo alfa llegando al lugar.
+
+173
+00:17:46,982 --> 00:17:47,899
+Enterada.
+
+174
+00:18:18,347 --> 00:18:19,889
+Tengo la transmisión del equipo alfa.
+
+175
+00:18:20,057 --> 00:18:21,182
+En pantalla.
+
+176
+00:18:46,250 --> 00:18:49,377
+La policía de Atenas informa
+que va a contener a los manifestantes.
+
+177
+00:18:49,545 --> 00:18:51,879
+Aíslen publicaciones
+en redes sociales desde la plaza.
+
+178
+00:18:52,047 --> 00:18:53,214
+Como ordene.
+
+179
+00:19:21,285 --> 00:19:22,827
+Retrocedan el video de alfa uno.
+
+180
+00:19:22,995 --> 00:19:24,912
+Enseguida. 20 segundos.
+
+181
+00:19:24,997 --> 00:19:27,081
+Bravo dos, cuatro, interviniendo.
+
+182
+00:19:40,262 --> 00:19:41,762
+¿Qué ocurre?
+
+183
+00:19:42,431 --> 00:19:43,514
+Me infiltré en la agencia.
+
+184
+00:19:44,349 --> 00:19:45,933
+Para Christian Dassault.
+
+185
+00:19:46,101 --> 00:19:47,435
+Tengo las operaciones encubiertas.
+
+186
+00:19:47,603 --> 00:19:49,103
+Las pondremos en línea.
+
+187
+00:19:49,855 --> 00:19:51,189
+Hay que movernos.
+
+188
+00:19:55,027 --> 00:19:55,693
+Alto.
+
+189
+00:19:57,029 --> 00:19:58,112
+Dos segundos adelante.
+
+190
+00:19:58,447 --> 00:19:59,530
+La rubia.
+
+191
+00:20:03,035 --> 00:20:03,993
+Aclaren.
+
+192
+00:20:09,291 --> 00:20:10,458
+Encuéntrenla.
+
+193
+00:20:14,171 --> 00:20:17,506
+<i>Se vio a Nicky Parsons en la plaza Síntagma.
+Ajustar al sur sobre Stadiou.</i>
+
+194
+00:20:17,674 --> 00:20:20,509
+Te lo dije.
+Christian Dassault hará que te maten.
+
+195
+00:20:20,677 --> 00:20:22,053
+No tenemos opción, Jason.
+
+196
+00:20:22,221 --> 00:20:24,639
+Volvió a empezar.
+Un nuevo programa.
+
+197
+00:20:24,806 --> 00:20:26,474
+Mano de Hierro.
+Es aun peor que antes.
+
+198
+00:20:26,642 --> 00:20:28,142
+¿Eso qué tiene que ver conmigo?
+
+199
+00:20:28,310 --> 00:20:30,228
+Es importante.
+
+200
+00:20:30,395 --> 00:20:31,854
+Para mí no.
+
+201
+00:20:32,397 --> 00:20:33,856
+Lo único que importa es
+mantenerse vivo.
+
+202
+00:20:34,024 --> 00:20:36,317
+Si escapas del radar, sobrevives.
+
+203
+00:20:36,485 --> 00:20:38,653
+Yo no lo creo y tú tampoco.
+
+204
+00:20:38,820 --> 00:20:40,655
+Mírate.
+
+205
+00:20:40,822 --> 00:20:42,698
+Mira lo que estás haciendo.
+
+206
+00:20:42,866 --> 00:20:45,409
+No puedes seguir viviendo así.
+
+207
+00:20:47,412 --> 00:20:50,164
+Jason, vine aquí
+porque encontré algo.
+
+208
+00:20:50,999 --> 00:20:53,334
+El nombre de tu padre
+en los archivos de Treadstone.
+
+209
+00:20:53,669 --> 00:20:54,919
+Era analista.
+
+210
+00:20:55,087 --> 00:20:57,672
+No estaba en Operaciones.
+Él no se involucró en todo eso.
+
+211
+00:20:57,839 --> 00:21:01,676
+Solo te digo lo que vi.
+Parece que tuvo participación directa.
+
+212
+00:21:02,010 --> 00:21:03,427
+Y hay más.
+
+213
+00:21:03,595 --> 00:21:05,763
+- Más sobre ti.
+- ¿De qué hablas?
+
+214
+00:21:06,223 --> 00:21:09,517
+Antes de que entraras al programa,
+ya te vigilaban.
+
+215
+00:21:09,685 --> 00:21:11,560
+¿Me vigilaban?
+
+216
+00:21:12,062 --> 00:21:14,438
+Te has torturado
+durante mucho tiempo, Jason.
+
+217
+00:21:15,524 --> 00:21:18,025
+Te torturas por lo que hiciste.
+
+218
+00:21:18,193 --> 00:21:20,861
+Pero no sabes la verdad
+de lo que te hicieron.
+
+219
+00:21:21,029 --> 00:21:23,364
+Tienes que leer esos archivos.
+
+220
+00:21:28,370 --> 00:21:30,288
+Camina. Te rastrearon.
+
+221
+00:21:34,376 --> 00:21:37,753
+Alfa uno ve a dos objetivos.
+Una mujer y un hombre.
+
+222
+00:21:37,921 --> 00:21:40,047
+- Identifica al hombre.
+- Enseguida, señor.
+
+223
+00:21:40,215 --> 00:21:42,550
+Alfa uno, necesitamos identificar
+al objetivo masculino.
+
+224
+00:21:42,884 --> 00:21:46,387
+Salgamos de aquí antes de que la policía
+acordone esta parte de la ciudad.
+
+225
+00:21:51,810 --> 00:21:52,810
+Ve al norte.
+
+226
+00:21:54,229 --> 00:21:55,563
+Veme en la estatua de Atenea.
+
+227
+00:21:56,481 --> 00:21:58,065
+Haré que me sigan.
+
+228
+00:22:04,990 --> 00:22:06,324
+Es él.
+
+229
+00:22:07,242 --> 00:22:08,242
+Ahora.
+
+230
+00:22:14,082 --> 00:22:15,958
+Sigue a Bourne.
+
+231
+00:22:16,418 --> 00:22:18,419
+Tienen autorizado
+enfrentar al objetivo.
+
+232
+00:22:18,587 --> 00:22:19,503
+Entendido.
+
+233
+00:22:19,671 --> 00:22:21,922
+Equipo alfa, sigan al hombre.
+Tienen autorizado enfrentar.
+
+234
+00:22:46,198 --> 00:22:47,365
+Vamos.
+
+235
+00:23:23,985 --> 00:23:25,903
+Señor, el equipo alfa no responde.
+
+236
+00:23:26,071 --> 00:23:27,655
+Lo perdimos, señor.
+Los eliminó.
+
+237
+00:23:29,408 --> 00:23:32,076
+Busquen a Parsons.
+Él volverá con ella.
+
+238
+00:23:32,244 --> 00:23:33,244
+La revuelta se extiende.
+
+239
+00:23:33,412 --> 00:23:36,497
+El gobierno griego declarará
+estado de emergencia.
+
+240
+00:23:40,085 --> 00:23:42,169
+<i>Equipo bravo,
+nos reenfocaremos en Parsons.</i>
+
+241
+00:24:37,893 --> 00:24:38,642
+La encontramos.
+
+242
+00:24:42,230 --> 00:24:43,939
+Dividan al equipo y elimínenla.
+
+243
+00:26:06,982 --> 00:26:08,566
+Un sospechoso
+con la descripción de Bourne
+
+244
+00:26:08,733 --> 00:26:09,984
+robó una motocicleta
+de la policía.
+
+245
+00:26:10,151 --> 00:26:11,527
+Va a buscar a Parsons.
+
+246
+00:26:11,695 --> 00:26:13,988
+- ¿Dónde está nuestro agente?
+- A dos minutos de llegar.
+
+247
+00:26:46,938 --> 00:26:48,772
+Parsons está en la estatua de Atenea.
+
+248
+00:26:48,940 --> 00:26:49,773
+Enterada.
+
+249
+00:27:13,923 --> 00:27:15,382
+El equipo bravo no responde.
+
+250
+00:27:15,550 --> 00:27:17,301
+Señor, el agente está llegando al lugar.
+
+251
+00:27:17,469 --> 00:27:18,636
+- La cámara frontal.
+- Entendido.
+
+252
+00:27:18,803 --> 00:27:21,096
+Quiero un enlace directo con el agente.
+
+253
+00:27:28,605 --> 00:27:30,230
+Haciendo contacto.
+
+254
+00:27:46,748 --> 00:27:49,249
+Leyendo datos tácticos
+de la policía de Atenas.
+
+255
+00:27:49,417 --> 00:27:50,501
+Necesito visión aérea.
+
+256
+00:27:50,669 --> 00:27:52,127
+Muestren opciones de satélites.
+
+257
+00:27:52,295 --> 00:27:55,130
+Señor, están disponibles
+un satélite Misty y un KH-12.
+
+258
+00:27:55,298 --> 00:27:57,091
+- Activen el 12.
+- Sí, señor.
+
+259
+00:28:10,105 --> 00:28:11,522
+La señal del satélite está en línea.
+
+260
+00:28:12,941 --> 00:28:14,149
+OBJETIVO
+AGENTE
+
+261
+00:28:14,317 --> 00:28:15,150
+Barricadas detectadas
+
+262
+00:28:15,276 --> 00:28:16,777
+La policía acordonó
+la calle al norte.
+
+263
+00:28:17,112 --> 00:28:19,279
+El objetivo se verá forzado
+a girar a la izquierda.
+
+264
+00:28:32,794 --> 00:28:34,628
+Otra barricada en 200 metros.
+
+265
+00:28:34,796 --> 00:28:36,797
+El objetivo gira de nuevo
+a la izquierda.
+
+266
+00:28:48,685 --> 00:28:49,893
+Bourne se dirige al callejón.
+
+267
+00:28:50,311 --> 00:28:51,687
+Sube la cuesta y gira a la izquierda.
+
+268
+00:29:25,013 --> 00:29:25,679
+Escalera.
+
+269
+00:29:25,847 --> 00:29:27,347
+<i>Subiendo. Dirección este.</i>
+
+270
+00:29:27,515 --> 00:29:28,932
+<i>Indíquenme un punto de ventaja.</i>
+
+271
+00:29:29,100 --> 00:29:30,517
+Encontró una salida.
+
+272
+00:29:30,685 --> 00:29:32,352
+200 metros a tu izquierda.
+
+273
+00:29:32,520 --> 00:29:34,938
+Solomou 19.
+Sube al techo.
+
+274
+00:29:35,774 --> 00:29:37,733
+<i>Verás pasar al objetivo enfrente de ti.</i>
+
+275
+00:29:37,901 --> 00:29:39,568
+Solomou 19. Entendido.
+
+276
+00:29:47,452 --> 00:29:49,536
+Dirijan los satélites
+a estas coordenadas.
+
+277
+00:29:49,704 --> 00:29:51,538
+Y quiero ver la motocicleta
+cuando llegue.
+
+278
+00:29:51,706 --> 00:29:52,748
+Entendido.
+
+279
+00:30:19,400 --> 00:30:21,735
+Los objetivos se aproximan
+a Omonia desde Fidiou.
+
+280
+00:30:22,946 --> 00:30:24,238
+Mira al oeste.
+
+281
+00:30:24,405 --> 00:30:25,572
+El bulevar largo.
+
+282
+00:30:26,115 --> 00:30:28,325
+Lo verás en 55 segundos.
+
+283
+00:30:28,493 --> 00:30:29,910
+Entendido.
+
+284
+00:30:53,852 --> 00:30:55,435
+El agente está en línea.
+
+285
+00:31:08,491 --> 00:31:10,117
+Contacto con el objetivo
+en 15 segundos.
+
+286
+00:31:18,626 --> 00:31:20,127
+Cinco segundos.
+
+287
+00:31:27,010 --> 00:31:28,010
+Contacto.
+
+288
+00:31:28,177 --> 00:31:29,136
+¡Agáchate!
+
+289
+00:31:33,975 --> 00:31:35,350
+Busca el ángulo.
+
+290
+00:31:38,688 --> 00:31:39,813
+¡Sujétate!
+
+291
+00:31:56,205 --> 00:31:57,831
+Objetivos neutralizados.
+
+292
+00:32:17,685 --> 00:32:19,186
+¿Dónde está Bourne?
+
+293
+00:32:19,354 --> 00:32:21,688
+Hay tres cadáveres
+en el techo cerca del agente.
+
+294
+00:32:21,856 --> 00:32:23,398
+Un equipo táctico va en camino.
+
+295
+00:32:32,367 --> 00:32:33,367
+¿Nicky?
+
+296
+00:32:47,090 --> 00:32:48,131
+No te muevas.
+
+297
+00:32:57,892 --> 00:32:59,893
+La policía de Atenas ya entró al edificio.
+
+298
+00:33:00,061 --> 00:33:02,646
+Agente, tienes que salir de ahí.
+
+299
+00:33:02,814 --> 00:33:04,106
+Negativo.
+
+300
+00:33:06,442 --> 00:33:08,443
+Ni siquiera sabemos
+si Bourne sigue con vida.
+
+301
+00:33:09,821 --> 00:33:11,405
+¿Sacrificamos al agente?
+
+302
+00:33:16,786 --> 00:33:17,786
+Aquí el director Dewey.
+
+303
+00:33:17,954 --> 00:33:19,621
+<i>Tienes 20 segundos.</i>
+
+304
+00:33:24,961 --> 00:33:26,420
+Resiste, Nicky.
+
+305
+00:33:27,463 --> 00:33:29,423
+Te pondré a salvo.
+
+306
+00:33:30,758 --> 00:33:31,800
+No.
+
+307
+00:33:37,306 --> 00:33:38,432
+No.
+
+308
+00:33:40,435 --> 00:33:42,352
+No.
+
+309
+00:33:45,815 --> 00:33:47,107
+Allá voy.
+
+310
+00:34:45,166 --> 00:34:47,375
+- Localicen a Christian Dassault.
+- Sí, señor.
+
+311
+00:34:47,543 --> 00:34:51,338
+Si trabajaba con Nicky Parsons,
+nos conducirá hasta Jason Bourne.
+
+312
+00:34:51,506 --> 00:34:54,049
+Y avísame
+cuando alguien abra esos archivos.
+
+313
+00:34:54,801 --> 00:34:56,343
+Señor, ¿puedo aclarar una cosa?
+
+314
+00:34:57,303 --> 00:34:58,136
+Sí.
+
+315
+00:34:58,888 --> 00:35:00,847
+¿El agente conoce a Bourne?
+
+316
+00:35:01,265 --> 00:35:02,849
+¿Por qué me preguntas eso?
+
+317
+00:35:03,476 --> 00:35:05,060
+Su forma de actuar en el techo.
+
+318
+00:35:06,104 --> 00:35:08,105
+Indica una conexión.
+
+319
+00:35:09,565 --> 00:35:13,235
+La última vez que Bourne volvió,
+expuso el programa Blackbriar.
+
+320
+00:35:13,945 --> 00:35:16,488
+Puso en peligro operaciones activas.
+
+321
+00:35:16,906 --> 00:35:19,741
+El agente estaba en Siria, encubierto.
+
+322
+00:35:20,868 --> 00:35:22,119
+Lo capturaron, lo torturaron
+
+323
+00:35:22,286 --> 00:35:25,580
+y llevó dos malditos años recuperarlo.
+
+324
+00:35:27,125 --> 00:35:29,626
+¿Cree que por eso
+Bourne quiere los archivos?
+
+325
+00:35:29,794 --> 00:35:30,961
+¿Para hacer públicas las operaciones?
+
+326
+00:35:31,129 --> 00:35:32,712
+No tengo idea por qué volvió.
+
+327
+00:35:32,880 --> 00:35:34,756
+No sé qué haga,
+pero quiere destruirnos,
+
+328
+00:35:34,924 --> 00:35:35,966
+y no podemos permitirlo.
+
+329
+00:35:37,552 --> 00:35:41,304
+Así que llámame en cuanto sepas algo.
+
+330
+00:35:42,598 --> 00:35:43,807
+Sí, señor.
+
+331
+00:37:04,597 --> 00:37:06,932
+ENCRIPTADO
+
+332
+00:37:20,112 --> 00:37:22,781
+TREADSTONE
+MANO DE HIERRO
+
+333
+00:37:27,703 --> 00:37:29,663
+RICHARD WEBB INVOLUCRADO
+
+334
+00:37:31,791 --> 00:37:36,002
+JB BAJO VIGILANCIA
+
+335
+00:38:36,564 --> 00:38:39,649
+<i>Y ahora, el fundador
+y presidente de Sueño Profundo,</i>
+
+336
+00:38:39,817 --> 00:38:42,277
+<i>Aaron Kalloor.</i>
+
+337
+00:38:43,571 --> 00:38:44,446
+Hola.
+
+338
+00:38:50,995 --> 00:38:53,830
+Saben por qué estamos aquí.
+Presentaremos una nueva plataforma.
+
+339
+00:38:53,998 --> 00:38:57,542
+Creemos que es un importante paso
+que beneficiará a toda la comunidad.
+
+340
+00:38:58,085 --> 00:39:01,338
+Ahora tenemos una comunidad
+que está trascendiendo fronteras.
+
+341
+00:39:01,505 --> 00:39:04,466
+Creo que ya tenemos
+1 .500 millones de usuarios.
+
+342
+00:39:12,641 --> 00:39:15,560
+En resumen, como sabrán,
+tenemos un ecosistema
+
+343
+00:39:15,728 --> 00:39:18,438
+de cientos de miles
+de aplicaciones disponibles.
+
+344
+00:39:18,606 --> 00:39:20,440
+Y lo que hará esta nueva plataforma
+
+345
+00:39:20,608 --> 00:39:24,027
+es integrar los datos de los usuarios
+y sus preferencias,
+
+346
+00:39:24,195 --> 00:39:26,029
+y usará esa información
+
+347
+00:39:26,197 --> 00:39:30,075
+para enriquecer y personalizar
+la experiencia de cada usuario
+
+348
+00:39:30,242 --> 00:39:32,619
+como jamás se había visto.
+
+349
+00:39:32,787 --> 00:39:35,580
+Estoy viendo
+a algunos periodistas ansiosos
+
+350
+00:39:35,748 --> 00:39:37,082
+- por preguntar sobre la privacidad.
+- Sí.
+
+351
+00:39:38,042 --> 00:39:40,335
+Esto inquieta a muchas personas,
+y así debe ser.
+
+352
+00:39:40,503 --> 00:39:41,961
+Es un tema
+que nos importa a todos.
+
+353
+00:39:42,129 --> 00:39:43,922
+Déjenme decirles
+
+354
+00:39:44,090 --> 00:39:47,092
+que entiendo que a nadie le guste sentir
+que lo están vigilando.
+
+355
+00:39:47,259 --> 00:39:48,343
+Así que ahora les digo
+
+356
+00:39:48,511 --> 00:39:51,054
+que cuando entren a Sueño Profundo,
+cuando usen el servicio,
+
+357
+00:39:51,222 --> 00:39:53,014
+nadie los estará vigilando.
+
+358
+00:40:09,698 --> 00:40:11,533
+- Sr. Kalloor.
+- Por aquí, señor.
+
+359
+00:40:22,420 --> 00:40:23,670
+Que lo disfruten.
+
+360
+00:40:23,838 --> 00:40:24,963
+Gracias.
+
+361
+00:40:27,258 --> 00:40:28,675
+Felicidades.
+
+362
+00:40:28,843 --> 00:40:31,177
+Sé que los accionistas están felices
+con la plataforma.
+
+363
+00:40:31,637 --> 00:40:33,638
+Y yo escuché que los hackearon.
+
+364
+00:40:35,015 --> 00:40:36,558
+Lo estamos manejando.
+
+365
+00:40:36,976 --> 00:40:40,061
+Esto cambia las cosas.
+Hay demasiado riesgo.
+
+366
+00:40:40,688 --> 00:40:41,729
+Me retiro.
+
+367
+00:40:41,897 --> 00:40:42,897
+Aaron,
+
+368
+00:40:44,442 --> 00:40:47,527
+eres un joven extraordinariamente
+talentoso y perceptivo.
+
+369
+00:40:47,695 --> 00:40:49,028
+Cuando aceptaste ayudarnos,
+
+370
+00:40:49,196 --> 00:40:53,199
+estabas consciente
+de las graves amenazas que...
+
+371
+00:41:00,958 --> 00:41:03,084
+¿Tiene idea de la tormenta
+que me caerá encima
+
+372
+00:41:03,252 --> 00:41:05,420
+si este convenio se hace público?
+
+373
+00:41:06,338 --> 00:41:08,923
+Ya sufrí daños con lo de Snowden.
+Y quieren más.
+
+374
+00:41:09,091 --> 00:41:11,843
+Nuestros enemigos se han vuelto
+mucho más sofisticados.
+
+375
+00:41:12,094 --> 00:41:14,345
+Reunir metadatos ya no es suficiente.
+
+376
+00:41:14,513 --> 00:41:16,890
+Necesitamos acceso
+a tu nueva plataforma
+
+377
+00:41:17,057 --> 00:41:18,433
+y a la información encriptada.
+
+378
+00:41:18,976 --> 00:41:21,311
+Y cuando eso no baste,
+querrán otra cosa.
+
+379
+00:41:22,396 --> 00:41:24,522
+No lo entiende, ¿verdad?
+
+380
+00:41:25,024 --> 00:41:27,609
+La privacidad es libertad.
+
+381
+00:41:28,068 --> 00:41:30,153
+Tal vez deberían empezar
+a defenderla.
+
+382
+00:41:30,446 --> 00:41:32,447
+No creías en la privacidad
+ni en la libertad
+
+383
+00:41:32,615 --> 00:41:35,116
+cuando te financiamos
+y te hiciste millonario.
+
+384
+00:41:35,284 --> 00:41:37,785
+Les pagué eso muchas veces más.
+
+385
+00:41:38,204 --> 00:41:40,288
+Y nunca me sentí
+cómodo con todo esto.
+
+386
+00:41:40,789 --> 00:41:41,998
+Me retiro.
+
+387
+00:41:43,709 --> 00:41:45,168
+Estoy harto
+de vender a los usuarios.
+
+388
+00:41:45,336 --> 00:41:47,045
+Pero sí traicionarás a tu país.
+
+389
+00:41:48,172 --> 00:41:51,174
+La verdad es
+que no tendríamos esta conversación
+
+390
+00:41:51,342 --> 00:41:54,177
+si no te sintieras
+personalmente en riesgo.
+
+391
+00:41:54,345 --> 00:41:57,764
+Hablas de libertad en la red,
+te convences de que salvas al mundo,
+
+392
+00:41:57,932 --> 00:42:00,683
+pero solo lo estás convirtiendo
+en un lugar mucho más peligroso.
+
+393
+00:42:00,851 --> 00:42:05,313
+Y sin lugar a dudas, haces que el país sea
+mucho más difícil de defender.
+
+394
+00:42:05,481 --> 00:42:09,108
+Y sin lugar a dudas,
+eres responsable de eso, Aaron.
+
+395
+00:42:11,529 --> 00:42:13,071
+Responsable.
+
+396
+00:42:21,288 --> 00:42:23,581
+BERLÍN, ALEMANIA
+
+397
+00:42:38,722 --> 00:42:40,223
+Dr. Albert Hirsch
+OFICIAL MÉDICO EN JEFE
+
+398
+00:42:40,349 --> 00:42:42,392
+ANÁLISIS CONDUCTUAL DE LOS AGENTES
+
+399
+00:42:44,478 --> 00:42:48,565
+AGENTE DE TREADSTONE: JASON BOURNE
+
+400
+00:42:50,317 --> 00:42:51,901
+CUANDO BOURNE SE RETIRÓ
+DEL PROGRAMA,
+
+401
+00:42:51,986 --> 00:42:53,444
+DEJÓ ATRÁS
+UN ELEMENTO CLAVE DE SU IDENTIDAD.
+
+402
+00:42:53,529 --> 00:42:55,572
+DEJÓ ATRÁS SU RAZÓN DE EXISTIR.
+
+403
+00:43:02,538 --> 00:43:05,540
+EN Ml OPINIÓN, BOURNE JAMÁS HALLARÁ
+LA PAZ FUERA DEL PROGRAMA.
+
+404
+00:43:05,708 --> 00:43:07,834
+TARDE O TEMPRANO,
+LLEGARÁ A UN PUNTO DE QUIEBRE.
+
+405
+00:43:09,753 --> 00:43:11,796
+EN ESAS CIRCUNSTANCIAS,
+
+406
+00:43:11,964 --> 00:43:14,382
+BOURNE PODRÍA REGRESAR AL
+PROGRAMA CON EL MANEJO ADECUADO.
+
+407
+00:44:34,088 --> 00:44:35,421
+¿Bourne?
+
+408
+00:44:35,589 --> 00:44:37,965
+Las cosas sobre la mesa.
+
+409
+00:44:54,066 --> 00:44:55,233
+Ábrelo.
+
+410
+00:45:00,781 --> 00:45:01,948
+Claro.
+
+411
+00:45:25,931 --> 00:45:28,683
+Virus 281 activado
+Origen localizado
+
+412
+00:45:35,816 --> 00:45:36,899
+<i>Bourne apareció.</i>
+
+413
+00:45:37,651 --> 00:45:38,693
+En Berlín.
+
+414
+00:45:39,027 --> 00:45:40,236
+Prepara al equipo de Berlín.
+
+415
+00:45:53,333 --> 00:45:54,584
+¿Dónde está ella?
+
+416
+00:45:54,918 --> 00:45:56,753
+Está muerta.
+
+417
+00:46:00,632 --> 00:46:01,632
+Conocía el riesgo.
+
+418
+00:46:03,260 --> 00:46:04,802
+Se lo advertí.
+
+419
+00:46:05,637 --> 00:46:07,180
+Tomó una decisión.
+
+420
+00:46:07,765 --> 00:46:09,807
+Abusaste de ella.
+
+421
+00:46:17,232 --> 00:46:19,525
+DESENCRIPTANDO
+
+422
+00:46:27,367 --> 00:46:28,576
+El equipo de Berlín se moviliza.
+
+423
+00:46:28,744 --> 00:46:30,328
+¿Qué sabemos de la ubicación?
+
+424
+00:46:30,496 --> 00:46:32,205
+Una dirección ligada
+a Christian Dassault.
+
+425
+00:46:32,372 --> 00:46:33,331
+¿Algo sobre Bourne?
+
+426
+00:46:33,499 --> 00:46:36,667
+Aún nada.
+Estoy entrando al circuito cerrado.
+
+427
+00:46:38,086 --> 00:46:41,714
+Señor, estaba pensando.
+Tal vez estamos equivocados.
+
+428
+00:46:42,716 --> 00:46:44,884
+Tal vez nosotros no seamos
+su objetivo.
+
+429
+00:46:45,719 --> 00:46:47,094
+Tal vez sea otra cosa.
+
+430
+00:46:49,223 --> 00:46:51,516
+No tienes idea con quién estás tratando.
+
+431
+00:46:58,899 --> 00:47:00,608
+ARCHIVOS DESENCRIPTADOS
+
+432
+00:47:03,028 --> 00:47:04,445
+Deberíamos trabajar juntos, Bourne.
+
+433
+00:47:05,656 --> 00:47:07,824
+Tú expusiste
+el programa Blackbriar.
+
+434
+00:47:09,326 --> 00:47:11,327
+Los dos queremos lo mismo, ¿no?
+
+435
+00:47:12,412 --> 00:47:16,290
+Los dos queremos derribar las corruptas
+instituciones que controlan a la sociedad.
+
+436
+00:47:17,501 --> 00:47:19,460
+No estoy de tu lado.
+
+437
+00:47:24,508 --> 00:47:26,050
+Operaciones encubiertas
+
+438
+00:47:36,520 --> 00:47:38,271
+Cámaras de circuito cerrado en línea.
+
+439
+00:47:42,025 --> 00:47:43,526
+Está en una computadora.
+
+440
+00:47:43,694 --> 00:47:45,236
+Tenemos que ponerle un alto.
+
+441
+00:47:45,696 --> 00:47:47,238
+Si pone esos archivos en línea,
+
+442
+00:47:47,406 --> 00:47:50,032
+se expondrán las operaciones
+y morirán personas.
+
+443
+00:47:50,200 --> 00:47:51,450
+Sí, señor.
+
+444
+00:47:56,748 --> 00:47:59,250
+Al menos cuando termines,
+déjame los archivos.
+
+445
+00:47:59,835 --> 00:48:02,253
+Estos programas deben exponerse.
+
+446
+00:48:03,505 --> 00:48:05,548
+La gente tiene el derecho de saberlo.
+
+447
+00:48:10,387 --> 00:48:12,096
+EL PROGRAMA TREADSTONE
+
+448
+00:48:12,180 --> 00:48:14,265
+UNA PROPUESTA PARA COMBATIR
+AMENAZAS EXTRAORDINARIAS
+
+449
+00:48:14,349 --> 00:48:15,349
+CONTRA LOS ESTADOS UNIDOS
+
+450
+00:48:22,399 --> 00:48:22,440
+Necesitamos esa computadora.
+
+451
+00:48:22,441 --> 00:48:23,816
+Necesitamos esa computadora.
+
+452
+00:48:27,946 --> 00:48:29,655
+TELÉFONO CELULAR
+ACCESO VIABLE
+
+453
+00:48:29,823 --> 00:48:31,282
+Hay un teléfono en la habitación.
+
+454
+00:48:31,575 --> 00:48:32,992
+Puedo usarlo para borrar los archivos.
+
+455
+00:48:38,749 --> 00:48:40,791
+INFORME CONFIDENCIAL DEL PROGRAMA
+
+456
+00:48:42,210 --> 00:48:46,923
+Se observará a los reclutas para determinar
+si son apropiados para el programa.
+
+457
+00:48:51,595 --> 00:48:54,430
+Jason Bourne
+Historial de reclutamiento
+
+458
+00:48:56,350 --> 00:48:58,267
+ENLAZANDO CON EL TELÉFONO...
+
+459
+00:48:58,435 --> 00:48:59,393
+ACCESO CONFIRMADO
+
+460
+00:48:59,561 --> 00:49:01,270
+- Tengo el teléfono.
+- ¿Dónde está el equipo?
+
+461
+00:49:01,438 --> 00:49:02,688
+A cinco minutos, señor.
+
+462
+00:49:02,856 --> 00:49:04,482
+<i>Se nos agota el tiempo. Deprisa.</i>
+
+463
+00:49:08,487 --> 00:49:09,862
+HISTORIAL DE RECLUTAMIENTO
+
+464
+00:49:10,030 --> 00:49:11,197
+WEBB SE UNE A LAS FUERZAS
+ESPECIALES DELTA DEL EJÉRCITO.
+
+465
+00:49:11,365 --> 00:49:13,199
+SELECCIONADO PARA SER OBSERVADO
+PARA EL PROGRAMA TREADSTONE.
+
+466
+00:49:13,367 --> 00:49:15,076
+Se aborda a David Webb
+para ser reclutado.
+
+467
+00:49:18,080 --> 00:49:19,121
+AGENCIA CENTRAL DE INTELIGENCIA
+
+468
+00:49:19,289 --> 00:49:20,915
+TREADSTONE - INFORME DE VIGILANCIA
+SUJETO: DAVID WEBB
+
+469
+00:49:21,083 --> 00:49:22,833
+OFICIAL DE VIGILANCIA:
+MALCOLM SMITH
+
+470
+00:49:30,258 --> 00:49:33,386
+Richard Webb, Jefe de Estación en Beirut
+
+471
+00:49:35,681 --> 00:49:38,057
+El sujeto llega a las 8:27 am.
+
+472
+00:49:48,193 --> 00:49:49,652
+Escúchame, David.
+
+473
+00:49:49,820 --> 00:49:51,445
+Hice algo.
+
+474
+00:49:52,155 --> 00:49:53,364
+Algo
+
+475
+00:49:55,242 --> 00:49:57,159
+que tuvo un precio alto.
+
+476
+00:49:57,703 --> 00:49:59,870
+Algún día entenderás por qué.
+
+477
+00:50:01,748 --> 00:50:03,749
+Tengo que volver a Washington.
+
+478
+00:50:05,335 --> 00:50:06,794
+Te amo, hijo.
+
+479
+00:50:15,220 --> 00:50:17,513
+BRIGADA ISLÁMICA DE MÁRTIRES
+
+480
+00:50:59,139 --> 00:51:00,556
+Están peleando, señor.
+
+481
+00:51:12,527 --> 00:51:13,611
+Un cortafuegos más.
+
+482
+00:51:13,779 --> 00:51:15,654
+CORTAFUEGOS A ATRAVESADO
+CORTAFUEGOS B ATRAVESADO
+
+483
+00:51:19,910 --> 00:51:23,162
+Malcolm Smith vigilancia
+
+484
+00:51:25,665 --> 00:51:27,291
+CONSULTOR DE SEGURIDAD
+
+485
+00:51:27,459 --> 00:51:29,460
+PADDINGTON BASIN, LONDRES
+
+486
+00:51:39,221 --> 00:51:40,888
+Archivos borrados, señor.
+
+487
+00:51:43,183 --> 00:51:44,350
+Llama.
+
+488
+00:52:20,345 --> 00:52:22,138
+<i>Bourne, me llamo Heather Lee.</i>
+
+489
+00:52:22,848 --> 00:52:24,431
+No estoy a cargo aquí.
+
+490
+00:52:25,350 --> 00:52:27,643
+No estaba aquí cuando desapareciste.
+
+491
+00:52:28,645 --> 00:52:31,897
+Veo que estás revisando
+los archivos de Treadstone.
+
+492
+00:52:33,150 --> 00:52:34,775
+<i>Investigando tu pasado.</i>
+
+493
+00:52:36,278 --> 00:52:38,696
+<i>Sé que buscas algo.</i>
+
+494
+00:52:39,364 --> 00:52:41,782
+Déjame ayudarte a encontrarlo.
+
+495
+00:52:47,664 --> 00:52:48,789
+Dame ese teléfono.
+
+496
+00:52:54,087 --> 00:52:55,337
+Sí, señor.
+
+497
+00:52:57,883 --> 00:53:00,342
+Jason, soy Robert Dewey.
+¿Te acuerdas de mí?
+
+498
+00:53:01,845 --> 00:53:04,013
+<i>Jason, tu padre fue un patriota.</i>
+
+499
+00:53:04,431 --> 00:53:07,057
+Se dio cuenta de las cosas
+que amenazaban al país
+
+500
+00:53:07,225 --> 00:53:10,352
+y, como tú,
+decidió servir a su nación
+
+501
+00:53:10,520 --> 00:53:13,022
+<i>con un profundo sentimiento del deber.</i>
+
+502
+00:53:14,357 --> 00:53:16,859
+Él no querría verte
+haciéndole daño a la agencia.
+
+503
+00:53:17,027 --> 00:53:18,777
+<i>Tienes que detenerte.</i>
+
+504
+00:53:19,696 --> 00:53:21,530
+<i>Y tienes que detenerte ahora.</i>
+
+505
+00:53:26,077 --> 00:53:27,077
+Señor, llegaremos en...
+
+506
+00:53:37,339 --> 00:53:40,591
+LLEGARÁ UN EQUIPO
+TIENES DOS MINUTOS
+
+507
+00:53:52,020 --> 00:53:53,562
+<i>Está en movimiento. Preparados.</i>
+
+508
+00:54:08,119 --> 00:54:09,078
+¡Al frente!
+
+509
+00:54:09,246 --> 00:54:10,287
+¡Conmigo!
+
+510
+00:54:10,455 --> 00:54:11,830
+El ascensor.
+
+511
+00:54:59,963 --> 00:55:01,255
+Lo perdimos, señor.
+
+512
+00:55:18,523 --> 00:55:20,691
+Malcolm Smith, contratista,
+con base en Londres.
+
+513
+00:55:20,859 --> 00:55:22,651
+Dirigió la vigilancia
+de Treadstone en los 90
+
+514
+00:55:22,819 --> 00:55:23,902
+cuando Bourne fue reclutado.
+
+515
+00:55:24,112 --> 00:55:25,529
+¿Sigue activo?
+
+516
+00:55:25,697 --> 00:55:26,905
+Ahora está en seguridad privada.
+
+517
+00:55:27,115 --> 00:55:27,990
+Contacten al agente
+
+518
+00:55:28,158 --> 00:55:30,534
+y díganle que lo quiero en Londres
+en seis horas.
+
+519
+00:55:30,702 --> 00:55:32,494
+Podría ser una equivocación, señor.
+
+520
+00:55:36,082 --> 00:55:37,374
+¿Una equivocación?
+¿Por qué?
+
+521
+00:55:37,542 --> 00:55:40,836
+Hay razones para capturar
+a Bourne en vez de asesinarlo.
+
+522
+00:55:42,213 --> 00:55:43,839
+Te escuchamos.
+
+523
+00:55:44,007 --> 00:55:46,175
+Bourne desapareció
+durante mucho tiempo.
+
+524
+00:55:46,926 --> 00:55:49,428
+Estuvo oculto en las sombras,
+ha visto cosas.
+
+525
+00:55:49,637 --> 00:55:51,847
+Sabe cosas que podrían ayudarnos.
+
+526
+00:55:52,015 --> 00:55:54,933
+Capturarlo y traerlo es lo más prudente.
+
+527
+00:55:55,101 --> 00:55:56,518
+¿Y cómo haremos eso?
+
+528
+00:55:56,686 --> 00:55:59,688
+Hirsch hizo una evaluación sicológica
+cuando Bourne dejó el programa.
+
+529
+00:55:59,856 --> 00:56:02,441
+Determinó que Bourne sigue siendo
+en el fondo un patriota
+
+530
+00:56:02,609 --> 00:56:06,028
+y que abandonar
+el programa podría atormentarlo.
+
+531
+00:56:07,947 --> 00:56:09,531
+¿Qué sugieres?
+
+532
+00:56:09,699 --> 00:56:11,950
+Vi a Bourne con esos archivos.
+
+533
+00:56:13,536 --> 00:56:15,204
+Desesperado por saber de su pasado.
+
+534
+00:56:15,372 --> 00:56:18,415
+Y creo que está
+en un punto de quiebre.
+
+535
+00:56:18,583 --> 00:56:20,959
+Si pudiera hablar con él personalmente,
+
+536
+00:56:21,252 --> 00:56:22,961
+creo que podría hacerlo volver.
+
+537
+00:56:23,755 --> 00:56:24,755
+Un intento.
+
+538
+00:56:24,923 --> 00:56:26,799
+Si no funciona,
+
+539
+00:56:27,425 --> 00:56:29,051
+hagan lo que tengan que hacer.
+
+540
+00:56:33,056 --> 00:56:35,724
+Tiene sentido.
+¿Tú qué opinas, Bob?
+
+541
+00:56:37,894 --> 00:56:39,395
+Hay que intentarlo.
+
+542
+00:56:40,146 --> 00:56:41,105
+Está bien, hazlo.
+
+543
+00:56:41,981 --> 00:56:44,566
+Trae a Bourne o elimínalo.
+
+544
+00:56:44,734 --> 00:56:46,985
+- Esto termina ahora.
+- Gracias, señor.
+
+545
+00:56:58,998 --> 00:56:59,998
+Señor, lamento si...
+
+546
+00:57:00,166 --> 00:57:02,167
+No, no te preocupes por eso.
+
+547
+00:57:03,586 --> 00:57:05,838
+Más vale que duermas algo.
+
+548
+00:57:07,132 --> 00:57:09,925
+Te esperan unas largas 24 horas.
+
+549
+00:57:13,012 --> 00:57:14,012
+Sí, señor.
+
+550
+00:57:28,445 --> 00:57:29,361
+Está llevando demasiado.
+
+551
+00:57:29,529 --> 00:57:31,363
+No debería tener errores
+tan cerca de lanzarse.
+
+552
+00:57:31,531 --> 00:57:32,531
+No creo que tenga errores.
+
+553
+00:57:32,699 --> 00:57:35,617
+Hemos cambiado algunas cosas
+que alterarán los parámetros.
+
+554
+00:57:35,785 --> 00:57:37,995
+- Hay que revisar el código y...
+- Déjenlo como estaba.
+
+555
+00:57:38,163 --> 00:57:39,455
+Amanda, ¿puedes decirle eso a Kyle?
+
+556
+00:57:39,622 --> 00:57:40,372
+Por supuesto.
+
+557
+00:57:40,540 --> 00:57:42,166
+Tienes razón,
+
+558
+00:57:42,333 --> 00:57:44,793
+- pero no creo que nos convenga...
+- Estoy harto de esperar.
+
+559
+00:57:47,630 --> 00:57:48,881
+Sr. Kalloor.
+
+560
+00:57:49,048 --> 00:57:50,048
+¿Qué es esto?
+
+561
+00:57:50,216 --> 00:57:52,009
+Sr. Kalloor,
+me llamo John Burroughs.
+
+562
+00:57:52,177 --> 00:57:53,719
+Trabajo en el Departamento de Justicia.
+
+563
+00:57:53,887 --> 00:57:55,721
+Le hago entrega de la acusación...
+
+564
+00:57:56,306 --> 00:57:58,474
+- ¿Tiene que ser en público?
+- ...gubernamental
+
+565
+00:57:58,641 --> 00:58:01,518
+contra Sueño Profundo
+por violación de la ley Sherman.
+
+566
+00:58:01,686 --> 00:58:05,731
+Esta acusación lo obliga a conservar
+todo asiento contable personal o empresarial
+
+567
+00:58:05,899 --> 00:58:09,067
+sujeto a leyes antimonopolio
+para presentarlo en un tribunal federal.
+
+568
+00:58:09,235 --> 00:58:10,235
+Buen día.
+
+569
+00:58:22,081 --> 00:58:23,165
+- Esto fue Dewey.
+- Aaron,
+
+570
+00:58:24,083 --> 00:58:25,542
+es un mensaje.
+
+571
+00:58:25,710 --> 00:58:27,419
+Deberíamos pensar
+lo que estamos haciendo
+
+572
+00:58:27,587 --> 00:58:28,670
+antes de que empeore.
+
+573
+00:58:28,838 --> 00:58:31,757
+¿Crees que si le damos lo que quiere,
+ahí terminará?
+
+574
+00:58:32,217 --> 00:58:35,093
+Yo solo digo
+que deberíamos escuchar.
+
+575
+00:58:36,429 --> 00:58:37,596
+Reúne todos los registros
+
+576
+00:58:37,764 --> 00:58:39,598
+de todas las reuniones
+que tuve con Dewey.
+
+577
+00:58:40,183 --> 00:58:43,435
+¿Todos los registros?
+¿Incluso las discusiones extraoficiales?
+
+578
+00:58:44,395 --> 00:58:45,604
+Sobre todo esas.
+
+579
+00:58:48,775 --> 00:58:51,401
+Iremos a Las Vegas.
+Necesito una póliza de seguro.
+
+580
+00:59:08,253 --> 00:59:10,128
+INFORME DE VIGILANCIA
+SUJETO: DAVID WEBB
+
+581
+00:59:10,630 --> 00:59:11,964
+CONFIDENCIAL
+
+582
+00:59:39,450 --> 00:59:41,159
+La CIA explica la estrategia
+de diversidad e inclusión
+
+583
+00:59:42,662 --> 00:59:44,997
+SE NOMBRA
+NUEVA JEFA DE DIVISIÓN CIBERNÉTICA
+
+584
+00:59:53,965 --> 00:59:59,636
+ELEGÍ LA CIA PORQUE CREO QUE PUEDO
+HACER MUCHAS COSAS POSITIVAS AHÍ
+
+585
+01:00:12,358 --> 01:00:13,108
+¿Sí?
+
+586
+01:00:14,027 --> 01:00:15,527
+<i>¿Estás en Londres?</i>
+
+587
+01:00:15,695 --> 01:00:16,862
+<i>Sí.</i>
+
+588
+01:00:17,822 --> 01:00:19,323
+¿Por qué la envían a ella?
+
+589
+01:00:20,366 --> 01:00:21,825
+<i>Tiene un propósito.</i>
+
+590
+01:00:23,161 --> 01:00:24,286
+<i>Trabajo solo.</i>
+
+591
+01:00:24,454 --> 01:00:25,871
+Esta vez no.
+
+592
+01:00:26,706 --> 01:00:28,707
+<i>No te lo tomes personal.</i>
+
+593
+01:00:29,626 --> 01:00:33,170
+Bourne nos traicionó.
+Siempre ha sido algo personal.
+
+594
+01:00:33,338 --> 01:00:35,380
+<i>Sabes con quién estás lidiando.</i>
+
+595
+01:00:35,882 --> 01:00:38,175
+Mejor asegúrate de estar listo.
+
+596
+01:00:47,644 --> 01:00:48,352
+¿Sí?
+
+597
+01:00:48,519 --> 01:00:51,188
+<i>Hay algo que debe saber
+sobre Sueño Profundo.</i>
+
+598
+01:00:51,356 --> 01:00:53,065
+Pero necesito la certeza
+
+599
+01:00:53,983 --> 01:00:55,901
+de que cuento con su apoyo.
+
+600
+01:00:58,196 --> 01:01:00,238
+Lo tienes.
+Te escucho.
+
+601
+01:01:00,990 --> 01:01:02,074
+Kalloor
+
+602
+01:01:02,325 --> 01:01:04,993
+<i>está planeando algo en Las Vegas.</i>
+
+603
+01:01:10,124 --> 01:01:13,418
+LONDRES, REINO UNIDO
+
+604
+01:01:33,231 --> 01:01:36,358
+MONITOREO DE REDES SOCIALES
+VIGILANCIA - OBTENCIÓN DE DATOS
+
+605
+01:01:36,526 --> 01:01:37,901
+VIGILANCIA CIBERNÉTICA
+Y ANÁLISIS
+
+606
+01:01:50,790 --> 01:01:51,623
+¿Sí?
+
+607
+01:01:51,791 --> 01:01:53,125
+Soy Jason Bourne.
+
+608
+01:01:53,960 --> 01:01:55,252
+<i>Tenemos que hablar.</i>
+
+609
+01:01:56,462 --> 01:01:57,587
+¿Sobre qué?
+
+610
+01:01:57,755 --> 01:01:59,464
+Ya no trabajo para la agencia.
+
+611
+01:01:59,632 --> 01:02:02,300
+Plaza Paddington,
+15 minutos.
+
+612
+01:02:31,664 --> 01:02:32,914
+Bourne llamó a Smith.
+
+613
+01:02:33,666 --> 01:02:35,167
+<i>Se reunirán en la plaza Paddington</i>
+
+614
+01:02:35,334 --> 01:02:37,002
+<i>en 15 minutos.</i>
+
+615
+01:02:37,670 --> 01:02:38,754
+Seguiremos a Smith.
+
+616
+01:02:38,921 --> 01:02:41,798
+En cuanto veamos a Bourne,
+lo abordaré.
+
+617
+01:02:42,008 --> 01:02:43,258
+Pase lo que pase, sé discreta.
+
+618
+01:02:43,426 --> 01:02:46,470
+No quiero que los británicos empiecen
+a hacer preguntas.
+
+619
+01:02:46,637 --> 01:02:47,637
+Entendido.
+
+620
+01:02:56,355 --> 01:02:57,522
+Dispositivo de rastreo.
+
+621
+01:02:58,691 --> 01:03:00,442
+Te quedarás
+en el extremo sur del puente.
+
+622
+01:03:01,861 --> 01:03:03,487
+Te contactaré si te necesito.
+
+623
+01:03:04,113 --> 01:03:05,113
+Claro.
+
+624
+01:03:06,532 --> 01:03:07,532
+Tú eres la jefa, ¿no?
+
+625
+01:03:36,729 --> 01:03:39,356
+El sujeto está en movimiento.
+Se dirige hacia el canal.
+
+626
+01:03:40,358 --> 01:03:42,317
+Equipo alfa,
+muévanse paralelo a él.
+
+627
+01:03:42,568 --> 01:03:44,903
+El equipo bravo seguirá
+al sujeto por detrás.
+
+628
+01:03:45,071 --> 01:03:46,655
+Y avísenme si ven a Bourne.
+
+629
+01:03:47,031 --> 01:03:48,907
+Equipo bravo siguiendo al sujeto.
+
+630
+01:03:57,875 --> 01:03:58,917
+Vámonos.
+
+631
+01:03:59,085 --> 01:04:00,752
+En 200 metros, gira a la derecha.
+
+632
+01:04:00,920 --> 01:04:02,254
+<i>Entendido.</i>
+
+633
+01:04:08,261 --> 01:04:11,096
+Probando. Canal dos.
+¿Me escucha?
+
+634
+01:04:11,889 --> 01:04:13,223
+Te escucho. ¿Dónde estás?
+
+635
+01:04:13,391 --> 01:04:14,599
+<i>Me dirijo hacia Smith.</i>
+
+636
+01:04:16,394 --> 01:04:17,519
+No hay señales de Bourne.
+
+637
+01:04:44,213 --> 01:04:45,797
+Central eléctrica
+
+638
+01:04:59,645 --> 01:05:01,146
+El sujeto giró hacia el este
+
+639
+01:05:01,314 --> 01:05:02,147
+<i>y entró en un callejón.</i>
+
+640
+01:05:02,315 --> 01:05:03,148
+Equipo alfa,
+
+641
+01:05:03,316 --> 01:05:05,901
+ese callejón conduce a un puente
+que lo llevará a ustedes.
+
+642
+01:05:06,319 --> 01:05:07,319
+Entendido.
+
+643
+01:05:19,832 --> 01:05:21,249
+<i>Equipo bravo neutralizado.</i>
+
+644
+01:05:21,417 --> 01:05:22,500
+Enviando ruta actualizada.
+
+645
+01:05:24,670 --> 01:05:26,171
+¿Escuchaste, Smith?
+
+646
+01:05:28,507 --> 01:05:29,507
+Sí.
+
+647
+01:05:45,816 --> 01:05:47,692
+ALFA - BRAVO
+
+648
+01:05:47,860 --> 01:05:50,862
+Equipo bravo, ¿por qué no se mueven?
+¿Qué pasa?
+
+649
+01:05:52,865 --> 01:05:54,366
+Equipo bravo, ¿me copian?
+
+650
+01:05:55,451 --> 01:05:57,285
+¿Qué pasa, Heather?
+¿Dónde está bravo?
+
+651
+01:05:57,787 --> 01:05:59,371
+Bravo no responde.
+
+652
+01:05:59,538 --> 01:06:01,539
+Equipo alfa, ¿ven al sujeto?
+
+653
+01:06:06,712 --> 01:06:08,004
+Lo vemos.
+
+654
+01:06:14,512 --> 01:06:16,388
+Equipo alfa, informe de situación.
+
+655
+01:06:18,808 --> 01:06:20,892
+AGENTE - ALFA - BRAVO
+
+656
+01:06:21,560 --> 01:06:23,061
+Equipo alfa, su informe.
+
+657
+01:06:23,229 --> 01:06:24,813
+¿Qué pasa, Heather?
+
+658
+01:06:26,023 --> 01:06:27,524
+El equipo alfa no responde.
+
+659
+01:06:27,692 --> 01:06:28,692
+<i>¿Bravo?</i>
+
+660
+01:06:29,360 --> 01:06:30,485
+Aún nada.
+
+661
+01:06:30,653 --> 01:06:32,821
+¿Perdiste a los dos?
+Toma el control de la operación.
+
+662
+01:06:32,989 --> 01:06:33,989
+Es Bourne.
+
+663
+01:06:34,407 --> 01:06:35,865
+<i>Dale luz verde al agente.</i>
+
+664
+01:06:36,742 --> 01:06:38,076
+Señor, necesito más tiempo.
+
+665
+01:06:38,244 --> 01:06:39,494
+<i>No tenemos tiempo.</i>
+
+666
+01:06:39,870 --> 01:06:41,913
+¿Vas a dar esa orden o no?
+
+667
+01:06:42,081 --> 01:06:43,373
+Señor, por favor.
+
+668
+01:06:43,541 --> 01:06:45,375
+<i>Eres demasiado inocente
+para ver la realidad.</i>
+
+669
+01:06:45,543 --> 01:06:48,003
+Bourne no regresará.
+
+670
+01:06:48,170 --> 01:06:49,754
+Debe ser eliminado.
+
+671
+01:06:49,922 --> 01:06:52,048
+Y es obvio que no puedes hacer
+lo que debe hacerse.
+
+672
+01:06:52,216 --> 01:06:54,259
+<i>Tomaré el control de la operación.</i>
+
+673
+01:06:55,678 --> 01:06:57,429
+Agente, tienes luz verde.
+
+674
+01:06:57,596 --> 01:07:00,432
+<i>Repito, tienes luz verde con Bourne.</i>
+
+675
+01:07:00,599 --> 01:07:01,516
+Entendido.
+
+676
+01:07:01,684 --> 01:07:03,059
+Voy en camino.
+
+677
+01:07:07,356 --> 01:07:10,358
+AGENTE
+
+678
+01:07:11,110 --> 01:07:13,069
+Agente, ¿estás en movimiento?
+
+679
+01:07:15,531 --> 01:07:17,866
+Tu rastreador dice
+que estás estático.
+
+680
+01:07:18,617 --> 01:07:19,951
+¿Estás en movimiento?
+
+681
+01:07:20,119 --> 01:07:22,912
+Heather, sal de este canal.
+Déjalo hacer su trabajo.
+
+682
+01:07:26,584 --> 01:07:27,584
+Aquí a la izquierda.
+
+683
+01:07:27,793 --> 01:07:29,544
+Llega a la plaza Paddington, rápido.
+
+684
+01:07:29,712 --> 01:07:30,462
+<i>Entendido.</i>
+
+685
+01:08:13,172 --> 01:08:14,464
+En posición.
+
+686
+01:08:24,350 --> 01:08:25,600
+En la mira.
+
+687
+01:08:44,703 --> 01:08:45,703
+¿Qué ocurre?
+
+688
+01:08:45,955 --> 01:08:47,038
+¿Qué es ese ruido?
+
+689
+01:08:48,332 --> 01:08:50,041
+Varias alarmas contra incendios.
+
+690
+01:08:50,209 --> 01:08:51,668
+Es Bourne.
+
+691
+01:08:55,548 --> 01:08:56,798
+¿Qué hago?
+
+692
+01:08:58,050 --> 01:09:00,009
+Quédate ahí.
+No te muevas.
+
+693
+01:09:07,726 --> 01:09:10,478
+<i>Abandone el edificio
+por la salida más cercana.</i>
+
+694
+01:09:12,064 --> 01:09:13,231
+No puedo quedarme aquí.
+
+695
+01:09:13,566 --> 01:09:14,899
+No pueden protegerme.
+
+696
+01:09:15,067 --> 01:09:16,860
+Necesito que te quedes ahí, Smith.
+
+697
+01:09:17,403 --> 01:09:18,570
+¿Aún lo tienes en la mira?
+
+698
+01:09:20,865 --> 01:09:22,073
+Lo tengo.
+
+699
+01:09:22,241 --> 01:09:23,408
+¿Le van a disparar
+
+700
+01:09:23,576 --> 01:09:25,577
+entre la multitud justo a mi lado?
+
+701
+01:09:25,870 --> 01:09:27,370
+Quédate ahí, Smith.
+
+702
+01:09:27,538 --> 01:09:29,080
+<i>Saben por qué está aquí.</i>
+
+703
+01:09:29,248 --> 01:09:30,665
+<i>Quiere respuestas.</i>
+
+704
+01:09:30,916 --> 01:09:32,041
+Perdieron el control.
+
+705
+01:09:32,835 --> 01:09:34,043
+Tengo que salir de aquí.
+
+706
+01:09:41,427 --> 01:09:42,010
+¡Carajo!
+
+707
+01:09:51,854 --> 01:09:53,188
+¿Qué está pasando?
+
+708
+01:09:53,355 --> 01:09:55,106
+Bourne tiene a Smith.
+
+709
+01:10:13,792 --> 01:10:16,294
+Síganlos. Yo los interceptaré por atrás.
+
+710
+01:10:22,301 --> 01:10:23,426
+Smith, sé que estás con Bourne.
+
+711
+01:10:23,594 --> 01:10:25,303
+Busca la forma
+de decirnos dónde estás.
+
+712
+01:10:28,557 --> 01:10:30,475
+¿Por qué me llevas aquí adentro?
+
+713
+01:10:30,643 --> 01:10:32,060
+Deben estar cerca de la plaza.
+
+714
+01:10:37,775 --> 01:10:39,150
+¡Carajo, Bourne!
+
+715
+01:10:39,318 --> 01:10:40,276
+¡Maldita sea!
+
+716
+01:10:42,321 --> 01:10:44,155
+¿Qué haces? Tranquilízate.
+
+717
+01:10:44,323 --> 01:10:45,323
+Richard Webb.
+
+718
+01:10:45,658 --> 01:10:47,325
+Jefe de estación en Beirut.
+
+719
+01:10:47,493 --> 01:10:50,286
+<i>Era mi padre.
+Él inició Treadstone.</i>
+
+720
+01:10:50,454 --> 01:10:52,497
+Te contrató para vigilarme.
+¿Por qué?
+
+721
+01:10:52,665 --> 01:10:54,415
+- ¡Dios!
+- ¿Por qué te contrató?
+
+722
+01:10:54,583 --> 01:10:56,000
+No digas nada, Smith.
+
+723
+01:10:56,168 --> 01:10:57,627
+No.
+
+724
+01:11:05,010 --> 01:11:05,927
+No hay señales de ellos.
+
+725
+01:11:06,428 --> 01:11:07,428
+<i>¿Qué quiere que hagamos?</i>
+
+726
+01:11:07,596 --> 01:11:09,180
+Búsquenlo a lo largo del canal.
+
+727
+01:11:09,348 --> 01:11:11,182
+Daré la vuelta y los veré allá.
+
+728
+01:11:15,437 --> 01:11:17,188
+Tú me seguiste a Beirut.
+
+729
+01:11:17,690 --> 01:11:19,857
+¡La última vez que vi a mi padre!
+
+730
+01:11:20,025 --> 01:11:21,526
+¿Por qué te dijo que me siguieras?
+
+731
+01:11:21,860 --> 01:11:23,027
+No tiene sentido.
+
+732
+01:11:23,195 --> 01:11:23,987
+¿Por qué?
+
+733
+01:11:24,154 --> 01:11:26,197
+No digas una sola palabra.
+
+734
+01:11:26,824 --> 01:11:27,865
+¿Por qué?
+
+735
+01:11:36,709 --> 01:11:38,543
+¡Santo Dios, Bourne! ¡Me caigo!
+
+736
+01:11:38,711 --> 01:11:40,003
+Bourne, ¡por favor!
+
+737
+01:11:40,546 --> 01:11:41,713
+¡Los escucho!
+
+738
+01:11:42,381 --> 01:11:43,464
+Beirut.
+
+739
+01:11:43,632 --> 01:11:46,843
+Fui allá para decirle
+que Treadstone me había contactado.
+
+740
+01:11:47,177 --> 01:11:50,221
+Pero si era su programa,
+¿por qué no me dijo nada?
+
+741
+01:11:51,348 --> 01:11:52,849
+Hice algo.
+
+742
+01:11:53,642 --> 01:11:55,018
+Algo
+
+743
+01:11:56,729 --> 01:11:58,062
+que tuvo un precio alto.
+
+744
+01:12:02,568 --> 01:12:04,152
+Lo asesinaron ese día.
+
+745
+01:12:04,820 --> 01:12:06,904
+Dijeron que los terroristas
+lo habían matado.
+
+746
+01:12:07,197 --> 01:12:09,574
+Los terroristas no lo mataron, ¿verdad?
+
+747
+01:12:09,742 --> 01:12:12,744
+Piensa en la seguridad de tu familia, Smith.
+No abras la boca.
+
+748
+01:12:13,370 --> 01:12:15,330
+¡La siguiente bala irá a tu cabeza!
+
+749
+01:12:16,165 --> 01:12:17,540
+¿Por qué lo asesinaron?
+
+750
+01:12:18,584 --> 01:12:19,417
+¿Por qué?
+
+751
+01:12:21,003 --> 01:12:22,920
+Lo asesinaron por tu causa.
+
+752
+01:12:26,175 --> 01:12:29,093
+Tu padre no estaba en Operaciones.
+
+753
+01:12:29,261 --> 01:12:31,763
+No sabía que te habíamos elegido.
+Cuando se enteró,
+
+754
+01:12:32,556 --> 01:12:34,557
+amenazó con exponer el programa.
+
+755
+01:12:34,725 --> 01:12:37,352
+No quería que te convirtieran
+en un asesino.
+
+756
+01:12:45,235 --> 01:12:46,611
+¿Quién lo mató?
+
+757
+01:12:55,454 --> 01:12:56,621
+¿Quién lo mató?
+
+758
+01:12:56,789 --> 01:12:58,122
+No lo hagas.
+
+759
+01:12:58,957 --> 01:12:59,791
+¿Dónde está?
+
+760
+01:13:01,960 --> 01:13:03,294
+Está muy cerca.
+
+761
+01:13:07,383 --> 01:13:09,634
+Detendremos esto ahora.
+
+762
+01:13:11,095 --> 01:13:12,428
+No, por favor.
+
+763
+01:13:30,322 --> 01:13:31,989
+¡Que alguien lo ayude!
+¡Una ambulancia!
+
+764
+01:13:33,117 --> 01:13:34,075
+¡Que alguien lo ayude!
+
+765
+01:13:34,993 --> 01:13:36,994
+<i>Cayó del techo.
+Cinco pisos.</i>
+
+766
+01:13:37,287 --> 01:13:38,788
+Me reconoció.
+
+767
+01:13:39,164 --> 01:13:41,290
+<i>Me aseguraré de que esté muerto.</i>
+
+768
+01:13:46,672 --> 01:13:48,339
+Viene ayuda en camino.
+
+769
+01:13:48,507 --> 01:13:49,674
+No te levantes, amigo.
+
+770
+01:13:54,346 --> 01:13:55,805
+A un lado, por favor.
+
+771
+01:13:56,306 --> 01:13:57,682
+Todo el mundo atrás.
+
+772
+01:13:57,850 --> 01:13:59,350
+- Déjenos trabajar.
+- Atrás, por favor.
+
+773
+01:14:02,187 --> 01:14:03,146
+¿Alguien vio lo que pasó?
+
+774
+01:14:03,313 --> 01:14:03,980
+No está.
+
+775
+01:14:04,148 --> 01:14:05,982
+<i>- Mierda.
+- Voy a buscarlo.</i>
+
+776
+01:14:06,150 --> 01:14:07,775
+Recorreré todo el canal.
+
+777
+01:14:09,611 --> 01:14:11,696
+No. Ya terminaste en Londres.
+
+778
+01:14:11,864 --> 01:14:13,030
+<i>¿De qué habla?</i>
+
+779
+01:14:13,198 --> 01:14:15,032
+Hay otra cosa que hacer.
+
+780
+01:14:15,617 --> 01:14:18,035
+<i>Ahora que sabe lo que hicimos,
+nos buscará a los dos,</i>
+
+781
+01:14:18,203 --> 01:14:21,038
+<i>y eso podría abrirnos la puerta
+para otra cosa.</i>
+
+782
+01:14:21,373 --> 01:14:23,040
+<i>Esto no se trata de venganza.</i>
+
+783
+01:14:23,208 --> 01:14:24,208
+<i>Claro que sí.</i>
+
+784
+01:14:24,710 --> 01:14:26,961
+Y no descansará
+hasta que uno de los dos esté muerto.
+
+785
+01:14:27,713 --> 01:14:29,130
+<i>Ve al aeropuerto.</i>
+
+786
+01:14:29,715 --> 01:14:32,049
+<i>Tenemos un problema
+con Mano de Hierro.</i>
+
+787
+01:14:34,011 --> 01:14:35,011
+Entendido.
+
+788
+01:14:43,687 --> 01:14:44,854
+Informe de situación.
+
+789
+01:14:45,022 --> 01:14:46,481
+<i>Nada.</i>
+
+790
+01:14:46,648 --> 01:14:47,899
+Sigan buscando.
+
+791
+01:14:54,907 --> 01:14:56,240
+Conduce.
+
+792
+01:15:01,705 --> 01:15:04,040
+No debió ocurrir así.
+Yo quería hablar.
+
+793
+01:15:04,208 --> 01:15:05,875
+¿Adónde va Dewey?
+
+794
+01:15:09,713 --> 01:15:13,216
+A Las Vegas para hablar con Aaron Kalloor
+en la convención de cibernética.
+
+795
+01:15:13,759 --> 01:15:16,010
+La agencia recluta ahí todos los años.
+
+796
+01:15:16,595 --> 01:15:18,054
+¿Qué es Mano de Hierro?
+
+797
+01:15:20,599 --> 01:15:22,016
+El nuevo programa encubierto
+de Dewey.
+
+798
+01:15:23,101 --> 01:15:25,102
+Vigilancia de completo espectro.
+
+799
+01:15:25,270 --> 01:15:27,522
+Observar a todo el mundo
+todo el tiempo.
+
+800
+01:15:27,940 --> 01:15:30,775
+Dewey necesita la cooperación
+de Kalloor para iniciarlo.
+
+801
+01:15:33,695 --> 01:15:34,529
+Déjame salir.
+
+802
+01:15:36,865 --> 01:15:37,907
+Yo puedo ayudarte a llegar.
+
+803
+01:15:42,454 --> 01:15:43,538
+¿Por qué harías eso?
+
+804
+01:15:43,705 --> 01:15:47,291
+Tenemos motivos diferentes,
+pero los dos queremos a Dewey lejos.
+
+805
+01:15:51,797 --> 01:15:52,797
+Llévate esto.
+
+806
+01:16:07,396 --> 01:16:08,938
+Te veré en Las Vegas.
+
+807
+01:16:34,172 --> 01:16:35,590
+Señor.
+
+808
+01:16:36,133 --> 01:16:38,926
+Se le atribuirá lo de Kalloor
+a un yihadista ficticio.
+
+809
+01:16:39,094 --> 01:16:41,095
+Un iraquí de 20 años.
+
+810
+01:16:41,263 --> 01:16:44,348
+Creamos cuentas bancarias,
+documentos, correos, registros telefónicos.
+
+811
+01:16:45,350 --> 01:16:47,768
+- Parecerá que trabaja solo.
+- ¿Alguna prueba material?
+
+812
+01:16:47,936 --> 01:16:51,063
+Hallarán las huellas del iraquí
+en el arma que dejará el agente.
+
+813
+01:16:52,608 --> 01:16:54,859
+Russell no tiene que saber de esto.
+
+814
+01:16:57,529 --> 01:16:59,030
+Lo entiendo, señor.
+
+815
+01:16:59,948 --> 01:17:01,741
+¿Noticias de Bourne?
+
+816
+01:17:01,908 --> 01:17:03,117
+Nada.
+
+817
+01:17:05,078 --> 01:17:07,163
+Yo siempre fui su objetivo.
+
+818
+01:17:09,833 --> 01:17:11,834
+Si lo busca,
+lo enfrentaremos.
+
+819
+01:17:16,298 --> 01:17:18,007
+CIUDADANOS ESTADOUNIDENSES
+
+820
+01:17:18,175 --> 01:17:19,342
+ADUANA
+
+821
+01:17:30,062 --> 01:17:31,062
+SEGURIDAD DE ADUANAS
+CONTROL DE PASAPORTES
+
+822
+01:17:31,229 --> 01:17:32,938
+buscar Christopher Michaels
+
+823
+01:17:33,106 --> 01:17:34,190
+1 resultado
+
+824
+01:17:34,358 --> 01:17:35,733
+MODIFICAR AUTORIZACIÓN
+DE ENTRADA
+
+825
+01:17:49,039 --> 01:17:51,666
+¿Cuál fue el motivo de su viaje a Londres,
+Sr. Michaels?
+
+826
+01:17:52,876 --> 01:17:54,293
+Negocios.
+
+827
+01:17:54,461 --> 01:17:56,629
+RECONOCIMIENTO FACIAL
+
+828
+01:17:56,797 --> 01:17:58,589
+Reconocimiento facial FACILITAR
+Pasaporte FACILITAR
+
+829
+01:18:05,013 --> 01:18:07,264
+PROCESANDO...
+
+830
+01:18:16,525 --> 01:18:18,192
+FACILITAR ENTRADA
+
+831
+01:18:19,569 --> 01:18:20,778
+Bienvenido a casa, señor.
+
+832
+01:18:22,614 --> 01:18:23,447
+Gracias.
+
+833
+01:18:38,922 --> 01:18:40,673
+<i>Estacionamiento despejado. Adelante.</i>
+
+834
+01:18:45,137 --> 01:18:46,887
+Tenemos una habitación segura
+para usted.
+
+835
+01:19:48,033 --> 01:19:49,492
+- Feliz estancia.
+- Gracias.
+
+836
+01:19:51,036 --> 01:19:52,453
+Hola, bienvenida al Aria.
+
+837
+01:19:52,621 --> 01:19:54,747
+- Heather Lee. Me voy a registrar.
+- Bien.
+
+838
+01:20:00,378 --> 01:20:01,420
+ASCENSORES NORTE. 10 MINUTOS.
+
+839
+01:20:01,505 --> 01:20:03,881
+Le daremos una hermosa Sky Suite.
+Habitación 2016.
+
+840
+01:20:04,674 --> 01:20:05,674
+Feliz estancia.
+
+841
+01:20:05,842 --> 01:20:06,842
+Gracias.
+
+842
+01:20:11,014 --> 01:20:13,140
+ROBERT DEWEY, DIRECTOR DE LA CIA,
+Y AARON KALLOOR, SUEÑO PROFUNDO
+
+843
+01:20:13,308 --> 01:20:14,725
+SIMPOSIO PATROCINADO
+
+844
+01:20:14,893 --> 01:20:16,435
+¡Aaron!
+
+845
+01:20:19,189 --> 01:20:21,732
+- ¡Bien, Aaron!
+- ¡Sueño Profundo!
+
+846
+01:20:33,578 --> 01:20:34,703
+Busca a Lee.
+
+847
+01:20:35,580 --> 01:20:37,748
+Dile que quiero verla
+antes de salir al escenario.
+
+848
+01:20:37,916 --> 01:20:39,083
+Sí, señor.
+
+849
+01:20:39,459 --> 01:20:41,627
+Quiero agentes atrás
+y en el auditorio.
+
+850
+01:20:41,795 --> 01:20:42,837
+Sí, señor.
+
+851
+01:20:52,681 --> 01:20:54,139
+Abran paso.
+
+852
+01:20:54,724 --> 01:20:56,851
+A un lado.
+
+853
+01:20:57,894 --> 01:20:59,186
+Me detendré aquí.
+
+854
+01:20:59,354 --> 01:21:01,939
+Hola. ¿Cómo están? Aaron.
+
+855
+01:21:02,107 --> 01:21:03,148
+Mucho gusto.
+
+856
+01:21:03,692 --> 01:21:04,817
+¿Me das uno?
+
+857
+01:21:05,527 --> 01:21:07,152
+RASTREO DE PERSONAL
+EN TIEMPO REAL
+
+858
+01:21:07,320 --> 01:21:08,779
+Muchas gracias por su trabajo.
+
+859
+01:21:11,992 --> 01:21:13,784
+- Gracias.
+- Hacen un buen trabajo.
+
+860
+01:21:15,453 --> 01:21:16,328
+CÁMARA OCULTA
+
+861
+01:21:16,496 --> 01:21:18,163
+GRABE CONVERSACIONES
+A 50 m DE DISTANCIA
+
+862
+01:21:33,680 --> 01:21:36,599
+JEFFERS
+EL DIRECTOR QUIERE VERTE
+
+863
+01:21:39,978 --> 01:21:42,021
+SISTEMA DE DRENAJE
+DE LAS VEGAS
+
+864
+01:21:46,443 --> 01:21:47,526
+¿Sí?
+
+865
+01:21:47,694 --> 01:21:49,069
+¿Todo listo?
+
+866
+01:21:49,237 --> 01:21:51,196
+<i>Estoy revisando la ruta de escape.</i>
+
+867
+01:21:51,364 --> 01:21:53,282
+No tendrás mucho tiempo.
+
+868
+01:21:53,700 --> 01:21:56,952
+No sabrán de dónde salió.
+Tendré suficiente tiempo.
+
+869
+01:21:58,246 --> 01:22:01,165
+Cuando te encargues de Kalloor,
+tendré la mano izquierda a un lado.
+
+870
+01:22:01,333 --> 01:22:02,207
+Quiero que le dispares.
+
+871
+01:22:02,375 --> 01:22:04,418
+Será mejor si también resulto herido.
+
+872
+01:22:05,503 --> 01:22:06,503
+Entendido.
+
+873
+01:22:34,741 --> 01:22:36,158
+ASCENSORES DE HUÉSPEDES
+
+874
+01:22:46,544 --> 01:22:47,336
+Lee.
+
+875
+01:22:50,006 --> 01:22:52,049
+El director quiere hablar contigo
+antes de salir.
+
+876
+01:22:53,551 --> 01:22:54,802
+Claro.
+
+877
+01:23:00,600 --> 01:23:03,602
+RASTREANDO
+
+878
+01:23:17,534 --> 01:23:18,534
+¿Identificación?
+
+879
+01:23:19,160 --> 01:23:20,119
+Gracias.
+
+880
+01:23:29,587 --> 01:23:33,549
+BOLSILLO IZQUIERDO
+PARA DEWEY
+
+881
+01:23:45,979 --> 01:23:46,520
+Heather.
+
+882
+01:23:47,772 --> 01:23:50,357
+Mi protegida.
+Mi más grande simpatizante.
+
+883
+01:23:51,067 --> 01:23:52,735
+Después de lo que pasó en Londres,
+
+884
+01:23:52,902 --> 01:23:54,319
+no sabía qué hacer contigo.
+
+885
+01:23:54,487 --> 01:23:56,071
+Supongo que solo
+
+886
+01:23:56,865 --> 01:23:59,366
+lo voy a atribuir
+a tu falta de experiencia.
+
+887
+01:24:00,076 --> 01:24:01,493
+Se lo agradecería.
+
+888
+01:24:02,746 --> 01:24:05,664
+<i>Al menos ahora te das cuenta
+de que no era posible.</i>
+
+889
+01:24:06,207 --> 01:24:08,959
+<i>Cuando Bourne vuelva a aparecer,
+yo me encargaré de él.</i>
+
+890
+01:24:09,127 --> 01:24:10,586
+<i>¿Entendido?</i>
+
+891
+01:24:10,754 --> 01:24:12,129
+Claro.
+
+892
+01:24:12,297 --> 01:24:14,131
+Estoy completamente de acuerdo.
+
+893
+01:24:16,926 --> 01:24:18,427
+En el escenario,
+
+894
+01:24:18,595 --> 01:24:21,346
+yo responderé las preguntas de política
+y te dejaré lo técnico.
+
+895
+01:24:21,514 --> 01:24:24,308
+- Voy a estar lista, señor.
+- Hagamos esto.
+
+896
+01:24:34,861 --> 01:24:36,153
+¿Identificaciones?
+
+897
+01:24:53,630 --> 01:24:54,379
+Aaron.
+
+898
+01:24:55,298 --> 01:24:56,340
+Robert.
+
+899
+01:24:58,134 --> 01:24:59,510
+¿Conoces a Heather Lee?
+
+900
+01:25:03,556 --> 01:25:05,557
+Sí, estudiamos juntos en Stanford.
+
+901
+01:25:06,392 --> 01:25:09,019
+¿Qué tal es la vida en la agencia?
+
+902
+01:25:09,187 --> 01:25:11,939
+Desafiante. Pero satisfactoria.
+
+903
+01:25:12,774 --> 01:25:15,275
+¿Es difícil mantenerte leal
+a tus principios ahí adentro?
+
+904
+01:25:16,152 --> 01:25:17,986
+Mis principios están bien, gracias.
+
+905
+01:25:19,823 --> 01:25:21,990
+Caballeros, estamos listos.
+Síganme, por favor.
+
+906
+01:25:22,450 --> 01:25:23,283
+Voy a disfrutarlo.
+
+907
+01:25:24,577 --> 01:25:26,120
+Yo también.
+
+908
+01:25:39,676 --> 01:25:41,218
+Gracias, señor.
+
+909
+01:25:58,570 --> 01:26:01,488
+SUEÑO PROFUNDO
+
+910
+01:26:02,365 --> 01:26:04,116
+¡Hola! ¿Cómo están todos hoy?
+
+911
+01:26:05,660 --> 01:26:07,161
+Bienvenidos.
+
+912
+01:26:09,706 --> 01:26:11,039
+Bienvenidos.
+
+913
+01:26:12,542 --> 01:26:16,170
+Bienvenidos al simposio de EXOCON
+de esta noche.
+
+914
+01:26:16,588 --> 01:26:20,465
+Somos muy afortunados de tener
+a cuatro invitados muy especiales.
+
+915
+01:26:21,092 --> 01:26:23,844
+Nos acompaña el director de la CIA,
+Robert Dewey.
+
+916
+01:26:26,556 --> 01:26:30,058
+Y un querido amigo mío
+y viejo amigo de EXOCON,
+
+917
+01:26:30,226 --> 01:26:35,063
+el presidente del gigante en las redes
+sociales, Sueño Profundo, Aaron Kalloor.
+
+918
+01:27:08,223 --> 01:27:12,017
+Esta noche:
+"Vigilancia sobre una Internet libre.
+
+919
+01:27:12,852 --> 01:27:15,812
+"Derechos civiles
+contra la seguridad pública".
+
+920
+01:27:16,105 --> 01:27:18,482
+Esta es la gran pregunta
+de nuestros tiempos.
+
+921
+01:27:18,650 --> 01:27:21,568
+Las decisiones que tomemos
+al respecto determinarán nuestro futuro.
+
+922
+01:27:22,237 --> 01:27:24,321
+Así que empecemos, ¿sí?
+
+923
+01:27:26,574 --> 01:27:28,033
+Vengan aquí, chicos.
+
+924
+01:27:28,493 --> 01:27:30,494
+Señor, acaba de llegar un mensaje.
+
+925
+01:27:30,912 --> 01:27:31,912
+Prioridad alta.
+
+926
+01:27:33,122 --> 01:27:34,790
+Tengo que tomar esto, chicos.
+
+927
+01:27:34,958 --> 01:27:36,375
+Ahora los alcanzo.
+
+928
+01:27:37,043 --> 01:27:38,085
+Adelante.
+
+929
+01:27:46,094 --> 01:27:47,886
+Gracias por invitarme. Hola.
+
+930
+01:27:58,481 --> 01:28:00,816
+Parece que el director Dewey se entretuvo
+un momento,
+
+931
+01:28:00,984 --> 01:28:04,444
+y me dicen que no tardará mucho.
+
+932
+01:28:04,612 --> 01:28:06,113
+Pero tenemos mucho
+que discutir hoy,
+
+933
+01:28:06,281 --> 01:28:07,614
+- así que podemos empezar.
+- ¿Brad?
+
+934
+01:28:07,782 --> 01:28:09,324
+Brad, ¿puedo decir algo?
+
+935
+01:28:09,742 --> 01:28:11,451
+- ¿Disculpa?
+- ¿Puedo comenzar ya?
+
+936
+01:28:11,619 --> 01:28:12,995
+Sí, hermano, por supuesto.
+
+937
+01:28:13,162 --> 01:28:15,247
+Damas y caballeros, Aaron Kalloor.
+
+938
+01:28:26,843 --> 01:28:27,926
+Muchas gracias.
+
+939
+01:28:29,178 --> 01:28:31,555
+Gracias a Brad
+y a toda la gente de EXOCON
+
+940
+01:28:31,723 --> 01:28:33,098
+por invitarnos de nuevo,
+
+941
+01:28:33,266 --> 01:28:35,142
+y a todos ustedes por haber venido.
+
+942
+01:28:36,185 --> 01:28:38,687
+Antes de que el director nos acompañe,
+
+943
+01:28:38,855 --> 01:28:41,523
+quiero compartir algunas cosas
+con ustedes.
+
+944
+01:28:41,816 --> 01:28:44,234
+Hace mucho tiempo, tuve una idea.
+
+945
+01:28:44,610 --> 01:28:45,861
+- Entendido.
+- La hermosa idea de crear un sitio...
+
+946
+01:28:47,280 --> 01:28:48,613
+Reconocimiento facial obtuvo algo.
+
+947
+01:28:48,781 --> 01:28:50,866
+Bourne estuvo en un vuelo
+de Heathrow a Las Vegas.
+
+948
+01:28:51,034 --> 01:28:52,534
+Aterrizó hace dos horas.
+
+949
+01:28:53,453 --> 01:28:55,537
+¿Cómo pasó por migración?
+
+950
+01:28:55,705 --> 01:28:58,498
+Alguien emitió una orden
+de entrada directa en su pasaporte.
+
+951
+01:29:00,626 --> 01:29:03,128
+Resultó que fue
+una idea bastante popular.
+
+952
+01:29:04,047 --> 01:29:06,465
+Personas de todo el mundo empezaron
+a usar el servicio.
+
+953
+01:29:14,432 --> 01:29:17,017
+ALGO ANDA MAL
+
+954
+01:29:18,811 --> 01:29:19,811
+Para empezar,
+
+955
+01:29:20,146 --> 01:29:22,856
+esto me ha hecho mucho más rico
+de lo que se consideraría sano.
+
+956
+01:29:23,024 --> 01:29:27,110
+Cuando salga al escenario,
+encárgate de Kalloor y de la chica.
+
+957
+01:29:27,737 --> 01:29:28,737
+Entendido.
+
+958
+01:29:29,489 --> 01:29:33,116
+Lo que quiero decir
+es que todo este éxito ha tenido un precio.
+
+959
+01:29:33,785 --> 01:29:37,079
+Hay un cáncer
+en el corazón de Sueño Profundo.
+
+960
+01:29:38,956 --> 01:29:41,208
+Un oscuro secreto, y
+
+961
+01:29:42,168 --> 01:29:43,752
+tengo que compartirlo con ustedes.
+
+962
+01:29:43,920 --> 01:29:45,128
+El hijo de puta nos delatará.
+
+963
+01:29:45,296 --> 01:29:46,671
+Elimina a Kalloor y a la chica ahora.
+
+964
+01:29:52,804 --> 01:29:54,429
+- No te muevas.
+- Está bien.
+
+965
+01:29:55,765 --> 01:29:57,933
+Cuando empecé,
+
+966
+01:29:58,976 --> 01:30:01,311
+acepté dinero para fundar mi compañía.
+
+967
+01:30:03,940 --> 01:30:05,899
+Le vendí mi alma
+a alguien de traje negro.
+
+968
+01:30:09,070 --> 01:30:11,363
+Y ahora, está de regreso
+para llevarse mi alma.
+
+969
+01:30:20,498 --> 01:30:21,331
+¡Veo al agresor!
+
+970
+01:30:21,499 --> 01:30:22,541
+Vemos a Jason Bourne.
+
+971
+01:30:23,668 --> 01:30:25,210
+Aún respira.
+¡Pidan una ambulancia!
+
+972
+01:30:25,294 --> 01:30:26,336
+¡Rápido!
+
+973
+01:30:27,588 --> 01:30:28,255
+¡Vamos!
+
+974
+01:30:28,423 --> 01:30:29,506
+Señor, tenemos que irnos.
+
+975
+01:30:42,353 --> 01:30:43,812
+¡Hacia la salida!
+
+976
+01:30:46,899 --> 01:30:48,650
+Habla Vásquez.
+Vamos tras Bourne.
+
+977
+01:30:48,818 --> 01:30:50,026
+¡Preparen los autos!
+
+978
+01:30:50,361 --> 01:30:52,279
+¡Preparen los autos ahora!
+
+979
+01:30:52,447 --> 01:30:53,697
+No, llévenme a la suite.
+
+980
+01:30:53,865 --> 01:30:55,866
+Tenemos que sacarlo de aquí.
+Bourne está suelto.
+
+981
+01:30:56,033 --> 01:30:59,453
+Ya me oíste.
+Llévenme a la suite.
+
+982
+01:30:59,620 --> 01:31:00,412
+Sí, señor.
+
+983
+01:31:00,580 --> 01:31:02,581
+Llévenlo a la suite.
+Llévenlo arriba.
+
+984
+01:31:02,748 --> 01:31:03,665
+Llévenlo arriba.
+
+985
+01:31:03,833 --> 01:31:04,833
+Ahora.
+
+986
+01:31:05,168 --> 01:31:06,168
+A la suite.
+
+987
+01:31:06,961 --> 01:31:08,545
+Rápido, ahora. ¡Ya!
+
+988
+01:31:08,629 --> 01:31:12,132
+Por aquí. Tranquilos. Vamos.
+
+989
+01:31:16,721 --> 01:31:18,472
+¡A un lado!
+¡Agente federal!
+
+990
+01:31:26,731 --> 01:31:28,482
+Vásquez, informe de situación.
+
+991
+01:31:28,858 --> 01:31:30,233
+<i>¿Vásquez? ¡Responde!</i>
+
+992
+01:31:33,112 --> 01:31:34,112
+¡Oye!
+
+993
+01:31:52,673 --> 01:31:53,632
+Lo tenemos.
+
+994
+01:31:53,799 --> 01:31:54,799
+Señor, aquí Collier.
+
+995
+01:31:54,967 --> 01:31:56,885
+<i>- Identificamos al agresor.
+- Mierda.</i>
+
+996
+01:31:57,053 --> 01:31:58,637
+Estamos circulando su foto.
+
+997
+01:31:58,804 --> 01:31:59,638
+¿Qué hay de Bourne?
+
+998
+01:32:00,097 --> 01:32:01,306
+Un segundo.
+
+999
+01:32:02,266 --> 01:32:04,226
+Bourne sale
+del pasillo de servicio oeste
+
+1000
+01:32:04,393 --> 01:32:05,685
+en dirección al lobby.
+
+1001
+01:32:05,853 --> 01:32:07,604
+Entendido. No pierdan a Bourne.
+
+1002
+01:32:10,274 --> 01:32:11,274
+¿Qué?
+
+1003
+01:32:11,442 --> 01:32:12,734
+<i>Seguimos buscando a Bourne.</i>
+
+1004
+01:32:12,902 --> 01:32:14,736
+E identificaron al agente.
+
+1005
+01:32:31,837 --> 01:32:33,922
+Vuelvan al primer piso
+y esperen instrucciones.
+
+1006
+01:32:34,090 --> 01:32:35,674
+- Sí, señor. Entendido.
+- Entendido.
+
+1007
+01:32:52,775 --> 01:32:55,026
+¡Todos al suelo! ¡Ahora!
+
+1008
+01:32:55,194 --> 01:32:56,570
+¡Abajo! ¡Rápido!
+
+1009
+01:32:58,114 --> 01:33:00,115
+¡A un lado!
+¡Agentes federales!
+
+1010
+01:33:23,139 --> 01:33:25,974
+Lleva un equipo a los ascensores noreste.
+Los veré arriba.
+
+1011
+01:33:33,774 --> 01:33:35,650
+Bourne va directo hacia usted.
+
+1012
+01:34:25,451 --> 01:34:28,161
+Te llevó mucho tiempo llegar, Jason.
+
+1013
+01:34:29,205 --> 01:34:30,872
+Sé lo de Beirut.
+
+1014
+01:34:31,749 --> 01:34:33,249
+Sé lo que hicieron.
+
+1015
+01:34:34,669 --> 01:34:36,294
+Todo termina esta noche.
+
+1016
+01:34:36,962 --> 01:34:39,422
+Sería más fácil hacerlo de inmediato.
+
+1017
+01:34:46,806 --> 01:34:48,431
+No estás aquí buscando venganza.
+
+1018
+01:34:48,599 --> 01:34:51,685
+Estás aquí
+porque sabes que es tiempo de regresar.
+
+1019
+01:34:59,193 --> 01:35:01,277
+Tu padre creó el programa.
+
+1020
+01:35:01,862 --> 01:35:04,155
+No tuvo madera para hacerlo funcionar.
+
+1021
+01:35:04,782 --> 01:35:05,990
+Y tú sí.
+
+1022
+01:35:06,909 --> 01:35:08,284
+Siempre la tuviste.
+
+1023
+01:35:10,830 --> 01:35:12,330
+Por eso te ofreciste.
+
+1024
+01:35:12,498 --> 01:35:14,999
+Fue porque creí
+que nuestros enemigos lo habían matado.
+
+1025
+01:35:16,919 --> 01:35:18,503
+Me ofrecí por una mentira.
+
+1026
+01:35:18,671 --> 01:35:21,297
+No. Te ofreciste por lo que eres.
+
+1027
+01:35:21,465 --> 01:35:23,758
+Te ofreciste porque eres Jason Bourne
+
+1028
+01:35:23,926 --> 01:35:26,511
+y no David Webb.
+
+1029
+01:35:36,313 --> 01:35:38,064
+32 asesinatos, Jason.
+
+1030
+01:35:38,441 --> 01:35:40,108
+Cada uno de ellos tuvo impacto.
+
+1031
+01:35:40,276 --> 01:35:44,571
+Muchas personas en todo el país están
+más seguras por lo que hiciste.
+
+1032
+01:35:56,000 --> 01:35:57,834
+Intento buscar otra forma.
+
+1033
+01:36:02,047 --> 01:36:04,257
+Y eso ¿cómo te ha resultado?
+
+1034
+01:36:12,057 --> 01:36:13,975
+Jamás vas a encontrar la paz.
+
+1035
+01:36:15,603 --> 01:36:18,813
+No hasta que aceptes
+quién eres en realidad.
+
+1036
+01:36:21,150 --> 01:36:22,984
+Es tiempo de volver, Jason.
+
+1037
+01:36:24,904 --> 01:36:26,321
+Es tiempo de volver.
+
+1038
+01:36:32,745 --> 01:36:33,995
+No puedo.
+
+1039
+01:36:39,502 --> 01:36:40,502
+Por ti no.
+
+1040
+01:37:16,288 --> 01:37:17,789
+Nunca estuviste aquí.
+
+1041
+01:37:25,673 --> 01:37:26,840
+No tienes que perseguirlo.
+
+1042
+01:37:30,469 --> 01:37:31,845
+Esto puede terminar ahora.
+
+1043
+01:37:32,888 --> 01:37:34,597
+Tienes opción.
+
+1044
+01:37:57,496 --> 01:37:59,080
+- ¡Ya!
+- Tengan su identificación a la mano.
+
+1045
+01:37:59,373 --> 01:38:01,374
+Saquen sus identificaciones,
+damas y caballeros.
+
+1046
+01:38:03,085 --> 01:38:05,837
+¡Tengan sus identificaciones a la mano!
+¡Rápido! ¡Ahora!
+
+1047
+01:38:12,761 --> 01:38:15,889
+Hagan una fila.
+Policía de Las Vegas, damas y caballeros.
+
+1048
+01:38:58,223 --> 01:39:00,975
+<i>Un camión de la policía
+y un Dodge Charger negro</i>
+
+1049
+01:39:01,143 --> 01:39:02,435
+<i>robados enfrente del Aria.</i>
+
+1050
+01:39:09,735 --> 01:39:11,778
+<i>En persecución.
+Se solicita apoyo aéreo.</i>
+
+1051
+01:39:11,946 --> 01:39:13,071
+<i>¿Qué código es?</i>
+
+1052
+01:43:24,990 --> 01:43:26,699
+¡Bloqueen esa calle!
+
+1053
+01:43:30,120 --> 01:43:31,120
+¡Dispárenle!
+
+1054
+01:43:33,373 --> 01:43:34,373
+¡Fuego!
+
+1055
+01:43:37,711 --> 01:43:38,711
+¡Vamos!
+
+1056
+01:44:23,799 --> 01:44:24,423
+¡A un lado!
+
+1057
+01:44:28,136 --> 01:44:30,471
+<i>Unidades involucradas, identifíquense.</i>
+
+1058
+01:44:30,639 --> 01:44:32,723
+<i>Aquí Aéreo 1 .
+Los vehículos de los sospechosos</i>
+
+1059
+01:44:32,891 --> 01:44:34,892
+chocaron en la entrada sureste
+del Riviera.
+
+1060
+01:44:46,530 --> 01:44:49,865
+<i>Un sospechoso armado se dirige
+hacia el desagüe al sur del Riviera.</i>
+
+1061
+01:46:39,684 --> 01:46:42,353
+Eres un traidor.
+Siempre has sido un traidor.
+
+1062
+01:46:43,271 --> 01:46:44,897
+Lo llevas en la sangre.
+
+1063
+01:48:08,773 --> 01:48:10,274
+¡Sr. Kalloor!
+
+1064
+01:48:11,776 --> 01:48:14,445
+¡Aaron! ¿Qué ibas a decir
+en la convención?
+
+1065
+01:48:14,613 --> 01:48:16,030
+¿Qué ocultas, Aaron?
+
+1066
+01:48:16,198 --> 01:48:17,156
+Cuidado.
+
+1067
+01:48:17,282 --> 01:48:19,325
+- Atrás.
+- ¿Por qué intentaron matarte?
+
+1068
+01:48:19,951 --> 01:48:22,119
+¿Cuál es el cáncer
+en el corazón de Sueño Profundo?
+
+1069
+01:48:22,287 --> 01:48:24,747
+No creo que sería apropiado comentar
+en este momento,
+
+1070
+01:48:24,915 --> 01:48:26,749
+pero con gusto
+trabajaré con las autoridades
+
+1071
+01:48:26,917 --> 01:48:28,417
+para dar con el responsable.
+
+1072
+01:48:28,585 --> 01:48:29,793
+Y para volver a Sueño Profundo,
+
+1073
+01:48:29,961 --> 01:48:32,254
+donde continuaremos
+nuestro trabajo. Gracias.
+
+1074
+01:48:33,048 --> 01:48:34,924
+¿Le mentiste a los usuarios?
+
+1075
+01:49:06,456 --> 01:49:07,456
+Señor.
+
+1076
+01:49:17,509 --> 01:49:19,218
+Quiero que sepa que lo lamento, señor.
+
+1077
+01:49:20,095 --> 01:49:21,762
+Lo de Las Vegas.
+
+1078
+01:49:21,930 --> 01:49:25,599
+Las tácticas
+del director Dewey eran imprudentes.
+
+1079
+01:49:25,767 --> 01:49:26,767
+¿Imprudentes?
+
+1080
+01:49:28,019 --> 01:49:30,729
+Todavía estamos buscando
+la forma de explicar lo que pasó.
+
+1081
+01:49:31,273 --> 01:49:35,276
+Ese hijo de puta expuso
+por completo Mano de Hierro.
+
+1082
+01:49:36,027 --> 01:49:37,486
+Y a todos nosotros.
+
+1083
+01:49:37,654 --> 01:49:39,697
+Kalloor todavía no declara nada.
+
+1084
+01:49:41,491 --> 01:49:42,700
+Conozco a Aaron.
+
+1085
+01:49:43,827 --> 01:49:45,911
+Todavía podemos utilizarlo.
+
+1086
+01:49:49,040 --> 01:49:50,249
+Dime.
+
+1087
+01:49:50,834 --> 01:49:53,711
+El problema de Dewey es
+que vivía en el pasado.
+
+1088
+01:49:55,422 --> 01:49:57,423
+Las personas
+como Kalloor moldean el futuro.
+
+1089
+01:49:58,383 --> 01:49:59,800
+Esa es mi gente.
+
+1090
+01:50:01,177 --> 01:50:03,345
+Sé cómo lidiar con ellos.
+
+1091
+01:50:06,182 --> 01:50:08,183
+¿Y tú qué quieres?
+
+1092
+01:50:09,102 --> 01:50:11,020
+Cuando nombre
+a un nuevo director de la agencia,
+
+1093
+01:50:11,187 --> 01:50:13,063
+necesitará a alguien
+que vele por sus intereses.
+
+1094
+01:50:15,233 --> 01:50:16,233
+Una persona
+
+1095
+01:50:17,569 --> 01:50:19,820
+apoderada por usted.
+
+1096
+01:50:23,366 --> 01:50:24,491
+¿Qué hay de Bourne?
+
+1097
+01:50:25,994 --> 01:50:28,245
+¿Aún crees que puedes hacerlo volver?
+
+1098
+01:50:31,041 --> 01:50:32,499
+Tengo su confianza.
+
+1099
+01:50:33,460 --> 01:50:34,627
+Con todo lo que vivimos.
+
+1100
+01:50:36,713 --> 01:50:38,047
+Haré que vuelva.
+
+1101
+01:50:38,214 --> 01:50:39,965
+Estoy segura.
+
+1102
+01:50:42,302 --> 01:50:44,178
+¿Y si no puedes?
+
+1103
+01:50:45,764 --> 01:50:49,391
+Tendrá que ser eliminado.
+
+1104
+01:50:53,021 --> 01:50:55,356
+Es una propuesta interesante.
+
+1105
+01:51:00,362 --> 01:51:01,737
+Detente aquí.
+
+1106
+01:51:06,618 --> 01:51:09,453
+Claro que si decide que no me necesita,
+
+1107
+01:51:10,038 --> 01:51:11,121
+no hay problema.
+
+1108
+01:51:11,706 --> 01:51:14,958
+Hay muchas otras agencias
+que quieren lo que yo sé.
+
+1109
+01:51:44,572 --> 01:51:46,240
+Te traje algo.
+
+1110
+01:51:51,705 --> 01:51:53,706
+Una copia de la estrella de tu padre
+
+1111
+01:51:53,873 --> 01:51:55,999
+en el muro conmemorativo de Langley.
+
+1112
+01:52:05,969 --> 01:52:07,720
+Lamento lo que te pasó.
+
+1113
+01:52:10,682 --> 01:52:12,224
+La forma como te trataron.
+
+1114
+01:52:12,392 --> 01:52:15,644
+Pero las personas
+que lo hicieron ya no están,
+
+1115
+01:52:16,521 --> 01:52:18,522
+y todo está cambiando en la agencia.
+
+1116
+01:52:18,690 --> 01:52:20,274
+¿Qué es lo que quieres?
+
+1117
+01:52:23,653 --> 01:52:25,487
+Sé que siempre has sido un patriota.
+
+1118
+01:52:27,282 --> 01:52:30,075
+Que te importa
+lo que pasa en este país.
+
+1119
+01:52:31,619 --> 01:52:33,537
+Necesitamos que nos ayudes a protegerlo.
+
+1120
+01:52:35,206 --> 01:52:36,498
+Regresa.
+
+1121
+01:52:38,668 --> 01:52:40,043
+Y trabajaremos juntos.
+
+1122
+01:52:48,386 --> 01:52:49,595
+Déjame pensarlo.
+
+1123
+01:52:51,139 --> 01:52:52,556
+¿Cómo te encontraré?
+
+1124
+01:53:39,020 --> 01:53:41,146
+<i>¿Aún crees que puedes hacerlo volver?</i>
+
+1125
+01:53:41,314 --> 01:53:42,981
+<i>Tengo su confianza.</i>
+
+1126
+01:53:43,733 --> 01:53:45,400
+<i>Con todo lo que vivimos.</i>
+
+1127
+01:53:46,444 --> 01:53:47,611
+<i>Haré que vuelva.</i>
+
+1128
+01:53:48,279 --> 01:53:49,780
+<i>Estoy segura.</i>
+
+1129
+01:53:50,740 --> 01:53:52,115
+<i>¿Y si no puedes?</i>
+
+1130
+01:53:54,202 --> 01:53:57,454
+<i>Tendrá que ser eliminado.</i>
+

@@ -1,0 +1,6810 @@
+1
+00:01:00,747 --> 00:01:02,872
+ASTÉRIX: EL REINO DEL MEDIO
+
+2
+00:01:06,206 --> 00:01:08,789
+<i>Estamos en el año 50 a. C.</i>
+
+3
+00:01:08,789 --> 00:01:11,414
+<i>Toda la Galia
+está ocupada por los romanos.</i>
+
+4
+00:01:11,414 --> 00:01:12,706
+<i>¿Toda?</i>
+
+5
+00:01:12,706 --> 00:01:13,789
+<i>No.</i>
+
+6
+00:01:13,789 --> 00:01:16,331
+<i>Una aldea poblada por irreductibles galos</i>
+
+7
+00:01:16,331 --> 00:01:19,581
+<i>resiste todavía y siempre al invasor.</i>
+
+8
+00:01:19,581 --> 00:01:21,122
+<i>Y la vida no es fácil</i>
+
+9
+00:01:21,122 --> 00:01:23,372
+<i>para las guarniciones
+de legionarios romanos</i>
+
+10
+00:01:23,372 --> 00:01:26,081
+<i>en los reducidos campamentos
+de Babaorum, Aquarium,</i>
+
+11
+00:01:26,081 --> 00:01:28,247
+<i>Laudanum y Petibonum.</i>
+
+12
+00:01:31,331 --> 00:01:34,372
+<i>Lo que más me gusta en la vida</i>
+
+13
+00:01:34,372 --> 00:01:37,331
+<i>es pasearme noche y día</i>
+
+14
+00:01:37,331 --> 00:01:39,956
+<i>por el bosque en busca de comida</i>
+
+15
+00:01:39,956 --> 00:01:43,164
+<i>y que mi amigo me siga.</i>
+
+16
+00:01:43,164 --> 00:01:44,206
+Eso rima.
+
+17
+00:01:44,831 --> 00:01:46,831
+Obélix, no llevamos una vida sana.
+
+18
+00:01:47,914 --> 00:01:49,331
+Comemos demasiada carne.
+
+19
+00:01:50,331 --> 00:01:51,747
+- ¿Demasiada carne?
+- Sí.
+
+20
+00:01:51,747 --> 00:01:54,039
+Jabalí para desayunar,
+almorzar y merendar.
+
+21
+00:01:54,039 --> 00:01:55,289
+Y a veces para cenar.
+
+22
+00:01:55,289 --> 00:01:56,789
+Ni hablar de la cerveza.
+
+23
+00:01:57,289 --> 00:01:59,122
+No creo que sea muy bueno.
+
+24
+00:01:59,122 --> 00:02:01,039
+¿Y qué quieres comer?
+
+25
+00:02:01,039 --> 00:02:05,081
+No sé. Podríamos equilibrarlo
+de vez en cuando con...
+
+26
+00:02:05,081 --> 00:02:06,247
+verduras.
+
+27
+00:02:08,081 --> 00:02:09,081
+Verduras...
+
+28
+00:02:09,081 --> 00:02:10,247
+¿Verduras?
+
+29
+00:02:15,831 --> 00:02:18,206
+¡Ay, qué risa, Astérix!
+
+30
+00:02:19,081 --> 00:02:20,206
+¿Lo oíste, Ideafix?
+
+31
+00:02:20,914 --> 00:02:23,747
+¿Te ves mordisqueando un apio
+en vez de un hueso?
+
+32
+00:02:23,747 --> 00:02:24,789
+¡Verduras!
+
+33
+00:02:25,372 --> 00:02:26,872
+Sí, ríete.
+
+34
+00:02:26,872 --> 00:02:30,622
+No veo por qué nos arruinamos
+la salud de esa manera.
+
+35
+00:02:30,622 --> 00:02:32,539
+Igual que con la poción mágica.
+
+36
+00:02:33,039 --> 00:02:34,872
+Puede ser mala para la salud.
+
+37
+00:02:35,372 --> 00:02:37,872
+Ni siquiera nos lo planteamos.
+
+38
+00:02:37,872 --> 00:02:40,289
+Además, ¿de verdad la necesitamos?
+
+39
+00:02:42,706 --> 00:02:43,581
+¿Estás bien?
+
+40
+00:02:43,581 --> 00:02:44,956
+No, no estoy bien.
+
+41
+00:02:44,956 --> 00:02:48,122
+Pero de vez en cuando
+una ensalada, unos champiñones...
+
+42
+00:02:48,122 --> 00:02:49,206
+Unas castañas.
+
+43
+00:02:49,206 --> 00:02:51,122
+No es temporada, pero ya sabes.
+
+44
+00:02:56,872 --> 00:02:59,206
+Ya tienes un jabalí. Déjalos en paz.
+
+45
+00:03:07,622 --> 00:03:10,164
+¡Hola, mis cuchi cuchi cuchis!
+
+46
+00:03:12,456 --> 00:03:13,289
+Ave.
+
+47
+00:03:13,289 --> 00:03:16,539
+Perdón, nos perdimos.
+No sabíamos que la aldea estaba cerca.
+
+48
+00:03:16,539 --> 00:03:18,747
+Yo te lo dije mil veces.
+
+49
+00:03:19,331 --> 00:03:20,456
+- No.
+- Sí.
+
+50
+00:03:20,456 --> 00:03:22,956
+Y me dijiste: "Estoy harto de los galos,
+
+51
+00:03:22,956 --> 00:03:24,497
+estoy hasta el casco,
+
+52
+00:03:24,497 --> 00:03:26,372
+les haré tragar los menhires".
+
+53
+00:03:28,164 --> 00:03:29,289
+No sé mentir.
+
+54
+00:03:30,706 --> 00:03:31,539
+Déjame a mí.
+
+55
+00:03:32,956 --> 00:03:35,039
+Voy a demostrarte que no la necesito.
+
+56
+00:03:37,747 --> 00:03:38,997
+La fuerza está aquí
+
+57
+00:03:38,997 --> 00:03:40,456
+y aquí.
+
+58
+00:03:41,164 --> 00:03:43,789
+Así que siéntate, observa y no te muevas.
+
+59
+00:03:47,164 --> 00:03:48,039
+Hola.
+
+60
+00:03:53,747 --> 00:03:55,872
+El casco, es por el casco.
+
+61
+00:03:55,872 --> 00:03:57,331
+Perdón, ¿va a intervenir?
+
+62
+00:03:57,914 --> 00:03:58,914
+No, no puedo.
+
+63
+00:04:08,164 --> 00:04:09,206
+¡Ven a ayudarme!
+
+64
+00:04:09,206 --> 00:04:10,331
+¡Más fuerte!
+
+65
+00:04:28,039 --> 00:04:29,497
+No, no es justo.
+
+66
+00:04:31,289 --> 00:04:32,122
+¡Tramposo!
+
+67
+00:04:32,872 --> 00:04:34,039
+No. Nada que ver.
+
+68
+00:04:34,039 --> 00:04:35,872
+Podría no haberla tomado.
+
+69
+00:04:42,581 --> 00:04:43,956
+No tiene por qué...
+
+70
+00:04:45,164 --> 00:04:45,997
+Sí.
+
+71
+00:04:51,789 --> 00:04:56,289
+ASTÉRIX Y OBÉLIX: EL REINO DEL MEDIO
+
+72
+00:05:16,039 --> 00:05:19,039
+{\an8}Me alegra que cada vez vengan más.
+
+73
+00:05:22,039 --> 00:05:24,831
+{\an8}<i>Desde Bretaña,</i>
+
+74
+00:05:25,414 --> 00:05:27,414
+{\an8}<i>tú sostienes mi pantalón.</i>
+
+75
+00:05:27,997 --> 00:05:29,622
+¿Por qué no viene nadie?
+
+76
+00:05:29,622 --> 00:05:31,289
+No huelen muy bien...
+
+77
+00:05:31,289 --> 00:05:32,706
+- ¿Y tú sí?
+- ¿Qué?
+
+78
+00:05:32,706 --> 00:05:33,997
+No, nada.
+
+79
+00:05:33,997 --> 00:05:37,206
+{\an8}¿Ves, Panorámix?
+No me deja ahumar mi jabalí adentro.
+
+80
+00:05:37,206 --> 00:05:40,581
+{\an8}No porque el señor Astérix
+haya decidido dejarlo
+
+81
+00:05:40,581 --> 00:05:41,997
+{\an8}debo dejarlo yo también.
+
+82
+00:05:41,997 --> 00:05:45,331
+¡Falbalá!
+
+83
+00:05:46,497 --> 00:05:47,956
+¿Cómo están, chicas?
+
+84
+00:05:47,956 --> 00:05:49,831
+- ¿Vamos al mercado?
+- ¡Sí!
+
+85
+00:05:52,581 --> 00:05:53,706
+Hola, Falbalá.
+
+86
+00:05:53,706 --> 00:05:54,789
+Hola, Obélix.
+
+87
+00:05:54,789 --> 00:05:55,997
+¡Falbalá!
+
+88
+00:05:57,164 --> 00:05:58,622
+Quería decirte...
+
+89
+00:06:00,497 --> 00:06:03,206
+Tallé este menhir pensando en ti,
+es un regalo.
+
+90
+00:06:04,206 --> 00:06:06,622
+Qué amable, pero ¿qué hago con él?
+
+91
+00:06:10,122 --> 00:06:10,956
+Nos vemos.
+
+92
+00:06:13,664 --> 00:06:14,831
+No lo quiere...
+
+93
+00:06:15,956 --> 00:06:19,372
+- No quiere el menhir.
+- Es lógico, pesa una tonelada.
+
+94
+00:06:19,372 --> 00:06:21,831
+¿Qué va a hacer con él? ¿Un anillo?
+
+95
+00:06:21,831 --> 00:06:22,997
+Panorámix, tu hoz.
+
+96
+00:06:22,997 --> 00:06:24,539
+Gracias, Esautomátix.
+
+97
+00:06:24,539 --> 00:06:25,706
+Bueno, ya está.
+
+98
+00:06:26,456 --> 00:06:27,289
+A ver...
+
+99
+00:06:28,372 --> 00:06:29,289
+Escucha.
+
+100
+00:06:32,914 --> 00:06:36,206
+{\an8}A ver, Astérix puede cambiar
+su alimentación,
+
+101
+00:06:36,206 --> 00:06:38,581
+{\an8}pero no puede obligar a los demás.
+
+102
+00:06:38,581 --> 00:06:40,497
+Panorámix, ¿qué te pasa?
+
+103
+00:06:43,456 --> 00:06:44,414
+No sé, me hundo.
+
+104
+00:06:44,414 --> 00:06:45,539
+¿Te hundes?
+
+105
+00:06:45,539 --> 00:06:47,122
+Serán arenas movedizas.
+
+106
+00:06:47,122 --> 00:06:49,789
+Panorámix, aquí no hay arenas movedizas.
+
+107
+00:06:50,414 --> 00:06:52,539
+Creo que habría que señalizarlas.
+
+108
+00:06:53,372 --> 00:06:54,622
+{\an8}¡Carreta a la vista!
+
+109
+00:06:55,289 --> 00:06:58,331
+{\an8}¡Carreta a la vista!
+
+110
+00:07:00,206 --> 00:07:01,372
+{\an8}Discúlpame.
+
+111
+00:07:02,206 --> 00:07:05,789
+{\an8}<i>Ciertas noches</i>, <i>algo que grita...</i>
+
+112
+00:07:05,789 --> 00:07:07,539
+¿Quieres callarte la boca?
+
+113
+00:07:13,664 --> 00:07:15,747
+{\an8}¡Por una vez que vino un cliente!
+
+114
+00:07:15,747 --> 00:07:17,581
+{\an8}¡Como si tuvieras pescado fresco!
+
+115
+00:07:17,581 --> 00:07:20,039
+¿Qué? ¿Que mi pescado no es fresco?
+
+116
+00:07:27,039 --> 00:07:28,206
+{\an8}Voy a ver.
+
+117
+00:07:51,081 --> 00:07:54,456
+{\an8}PARA LOUISE Y MARCEL
+
+118
+00:07:54,956 --> 00:07:55,956
+No se muevan.
+
+119
+00:07:55,956 --> 00:07:58,706
+Granodemaíz, ¿qué haces aquí? No es otoño.
+
+120
+00:07:58,706 --> 00:07:59,747
+¿Los atacaron?
+
+121
+00:07:59,747 --> 00:08:02,997
+- ¿Y tu tío?
+- Cállense, por Dios. ¡Cállense!
+
+122
+00:08:02,997 --> 00:08:05,289
+Amigos, ¿todo bien? Bueno.
+
+123
+00:08:05,289 --> 00:08:07,539
+Vengo de China. Necesito su ayuda.
+
+124
+00:08:08,539 --> 00:08:09,456
+Vengan a ver.
+
+125
+00:08:09,456 --> 00:08:10,956
+¿Te teñiste de rubio?
+
+126
+00:08:10,956 --> 00:08:12,164
+Eso iba a decirles.
+
+127
+00:08:12,164 --> 00:08:14,706
+Soy galo, ¿de acuerdo? Siempre fui galo.
+
+128
+00:08:14,706 --> 00:08:18,247
+Por favor, no metan la pata.
+Se lo suplico.
+
+129
+00:08:18,247 --> 00:08:20,039
+Luego lo explico. Vengan.
+
+130
+00:08:27,622 --> 00:08:28,581
+¡Son hermosas!
+
+131
+00:08:30,497 --> 00:08:31,872
+Esa,
+
+132
+00:08:31,872 --> 00:08:33,581
+la que se apoya en la otra,
+
+133
+00:08:33,581 --> 00:08:34,831
+es una princesa.
+
+134
+00:08:34,831 --> 00:08:36,039
+Se llama Chi Le.
+
+135
+00:08:36,039 --> 00:08:38,664
+Es la hija de la emperatriz de China.
+
+136
+00:08:40,414 --> 00:08:42,122
+Saben dónde está China, ¿no?
+
+137
+00:08:42,122 --> 00:08:43,289
+Sí...
+
+138
+00:08:43,289 --> 00:08:44,622
+Claro...
+
+139
+00:08:44,622 --> 00:08:46,414
+- ¿Ella también es princesa?
+- No.
+
+140
+00:08:46,414 --> 00:08:48,872
+Es su guardaespaldas, For Tac Hon.
+
+141
+00:08:48,872 --> 00:08:50,747
+Les aviso que está loca.
+
+142
+00:08:50,747 --> 00:08:52,247
+Aporreó a todo el mundo.
+
+143
+00:08:52,247 --> 00:08:55,247
+A los escitas, a los partos, a los hunos...
+
+144
+00:08:56,039 --> 00:08:57,414
+Qué bella mujer.
+
+145
+00:08:57,414 --> 00:09:00,164
+¿Una mujer guardaespaldas?
+Dejen que me ría.
+
+146
+00:09:00,164 --> 00:09:01,789
+Adelante, ríete.
+
+147
+00:09:01,789 --> 00:09:04,622
+Y deléitanos con tu experiencia
+de gran macho dominante.
+
+148
+00:09:04,622 --> 00:09:06,081
+¡Claro!
+
+149
+00:09:06,081 --> 00:09:08,247
+Sí, macho dominante,
+intenta tocarla a ver.
+
+150
+00:09:08,247 --> 00:09:10,247
+- Vamos. Por favor.
+- De acuerdo.
+
+151
+00:09:16,247 --> 00:09:17,372
+¡Ahí está!
+
+152
+00:09:42,164 --> 00:09:43,456
+¿Tomaste la poción?
+
+153
+00:09:44,081 --> 00:09:45,081
+No.
+
+154
+00:09:45,789 --> 00:09:46,956
+No sé qué me pasa.
+
+155
+00:09:46,956 --> 00:09:48,997
+Yo sé muy bien qué te pasa.
+
+156
+00:09:49,747 --> 00:09:52,164
+Y para ahora mismo.
+
+157
+00:09:52,164 --> 00:09:55,414
+La princesa y yo...
+somos más que amigos, ya sabes.
+
+158
+00:09:56,039 --> 00:09:57,247
+- ¿Sí?
+- Sí.
+
+159
+00:09:57,747 --> 00:09:58,622
+¡Princesa!
+
+160
+00:10:01,747 --> 00:10:03,122
+Llegamos.
+
+161
+00:10:06,956 --> 00:10:08,039
+¿Qué pasa aquí?
+
+162
+00:10:08,706 --> 00:10:10,456
+- ¡Viene el jefe!
+- ¡Vámonos!
+
+163
+00:10:10,456 --> 00:10:13,956
+Él es Abraracúrcix.
+Es el jefe de los galos.
+
+164
+00:10:15,289 --> 00:10:17,581
+¡Qué oportuno, por Tutatis!
+
+165
+00:10:18,289 --> 00:10:21,372
+¿Y tu tío, Espigademaíz?
+Me vendió otro pañuelo pequeño.
+
+166
+00:10:21,372 --> 00:10:22,664
+- ¿Ah, sí?
+- Sí.
+
+167
+00:10:22,664 --> 00:10:25,039
+Dijo que se iba a estirar.
+¿Tengo cara de tonta?
+
+168
+00:10:25,039 --> 00:10:26,372
+- No.
+- ¿Dónde está?
+
+169
+00:10:27,456 --> 00:10:29,372
+Me envía él. Déjenme hablar.
+
+170
+00:10:29,372 --> 00:10:32,331
+Les presento a la princesa Chi Le,
+
+171
+00:10:32,331 --> 00:10:34,997
+la hija de la emperatriz de China.
+
+172
+00:10:36,997 --> 00:10:38,414
+¿Quién es?
+
+173
+00:10:38,414 --> 00:10:40,206
+- Gracias, Granodemaíz.
+- De nada.
+
+174
+00:10:40,747 --> 00:10:44,414
+Oh, jefe Abraracúrcix,
+deje que le explique por qué estoy aquí.
+
+175
+00:10:44,414 --> 00:10:46,456
+Panorámix, ¿China está lejos?
+
+176
+00:10:46,456 --> 00:10:49,289
+Uy, sí. Es donde nace el sol. Por allí.
+
+177
+00:10:55,539 --> 00:10:58,789
+<i>Como la historia de la princesa
+puede ser muy muy larga</i>
+
+178
+00:10:58,789 --> 00:11:00,622
+<i>y llena de emociones,</i>
+
+179
+00:11:00,622 --> 00:11:03,789
+<i>les resumiré los acontecimientos
+de forma más sintetizada.</i>
+
+180
+00:11:03,789 --> 00:11:06,497
+<i>La princesa vive
+con su madre, la emperatriz,</i>
+
+181
+00:11:06,497 --> 00:11:09,914
+<i>que, desde que murió el emperador,
+dirige, no sin dificultades,</i>
+
+182
+00:11:09,914 --> 00:11:11,664
+<i>el país dividido en seis reinos.</i>
+
+183
+00:11:11,664 --> 00:11:16,539
+<i>Querida por su pueblo, debe, sin embargo,
+enfrentarse a príncipes ambiciosos</i>
+
+184
+00:11:16,539 --> 00:11:18,789
+<i>que desean su trono en secreto.</i>
+
+185
+00:11:19,914 --> 00:11:23,622
+<i>Los problemas empezaron el día
+del cumpleaños de la princesa Chi Le,</i>
+
+186
+00:11:23,622 --> 00:11:25,539
+<i>la que vieron en la aldea.</i>
+
+187
+00:11:25,539 --> 00:11:27,164
+<i>Esto es un</i> flashback.
+
+188
+00:11:31,664 --> 00:11:33,206
+¿Otro jarrón?
+
+189
+00:11:34,747 --> 00:11:38,122
+Todos los años lo mismo.
+¿Quién quiere tantos jarrones chinos?
+
+190
+00:11:38,122 --> 00:11:40,664
+Hoy cumplo 20 años
+y jamás salí de este palacio.
+
+191
+00:11:40,664 --> 00:11:44,414
+- ¡Estoy harta del jardín y los guardias!
+- Es por tu seguridad, y sabes...
+
+192
+00:11:44,414 --> 00:11:49,081
+Padre me prometió llevarme a Lutecia
+a ver los comercios, las tabernas...
+
+193
+00:11:49,081 --> 00:11:50,872
+Quiero conocer la Galia.
+
+194
+00:11:50,872 --> 00:11:54,372
+Ya lo hablamos.
+Es peligroso viajar tan lejos.
+
+195
+00:11:54,372 --> 00:11:55,581
+No irás.
+
+196
+00:11:56,997 --> 00:11:58,622
+Ten, abre ese.
+
+197
+00:12:00,289 --> 00:12:03,497
+Es una moneda de oro con tu cara.
+El primer ejemplar.
+
+198
+00:12:04,081 --> 00:12:06,414
+¿Para comprar un vestido en Lutecia?
+
+199
+00:12:06,414 --> 00:12:07,372
+Chi Le...
+
+200
+00:12:14,706 --> 00:12:16,164
+Príncipe Dan Sin Qin.
+
+201
+00:12:19,664 --> 00:12:24,206
+Supe que cobras un nuevo impuesto,
+aunque tu pueblo pasa hambre.
+
+202
+00:12:24,206 --> 00:12:25,956
+Si me permite, su majestad,
+
+203
+00:12:25,956 --> 00:12:30,122
+Julio César cobra impuestos
+en el mundo romano y funciona muy bien.
+
+204
+00:12:30,122 --> 00:12:32,664
+No hay gloria sin sacrificio,
+dicen en mi país.
+
+205
+00:12:32,664 --> 00:12:33,997
+¿Quién es este?
+
+206
+00:12:33,997 --> 00:12:37,081
+Es Cha Fa, mi nuevo asesor estratégico.
+
+207
+00:12:37,081 --> 00:12:40,247
+Viene de Roma,
+donde ocupó los más altos cargos.
+
+208
+00:12:40,247 --> 00:12:43,956
+Piensa en el pueblo chino
+antes de oír los consejos de un romano.
+
+209
+00:12:44,539 --> 00:12:46,914
+Claro, su majestad imperial.
+
+210
+00:12:47,831 --> 00:12:48,956
+Antes de retirarme,
+
+211
+00:12:48,956 --> 00:12:51,747
+¿ha pensado en mi propuesta de matrimonio?
+
+212
+00:12:51,747 --> 00:12:53,456
+Sí, hablé con la princesa.
+
+213
+00:12:53,456 --> 00:12:54,581
+¿Y?
+
+214
+00:12:55,247 --> 00:12:56,539
+Y nos reímos un montón.
+
+215
+00:12:59,497 --> 00:13:01,122
+"Mujer que ríe...".
+
+216
+00:13:03,206 --> 00:13:04,289
+Perdón.
+
+217
+00:13:04,289 --> 00:13:07,081
+Si su majestad y su hija se ríen,
+
+218
+00:13:07,706 --> 00:13:08,997
+que así sea.
+
+219
+00:13:15,081 --> 00:13:15,914
+For Tac Hon.
+
+220
+00:13:19,622 --> 00:13:20,956
+Mi fiel guerrera,
+
+221
+00:13:21,539 --> 00:13:22,872
+llama a mi hija.
+
+222
+00:13:46,622 --> 00:13:48,331
+Estamos en China.
+
+223
+00:13:48,331 --> 00:13:51,622
+Aman los productos galos, somos galos.
+No es tan difícil.
+
+224
+00:13:51,622 --> 00:13:54,164
+Soy fenicio.
+Me siento humillado, Espigademaíz.
+
+225
+00:13:55,372 --> 00:13:58,664
+¡Espigademaíx!
+¿Cuándo les va a entrar en la cabeza?
+
+226
+00:13:58,664 --> 00:14:01,497
+Tú eres Toufix y tú eres Abdelmálix.
+
+227
+00:14:01,497 --> 00:14:03,956
+Somos galos, ¿entendido?
+
+228
+00:14:03,956 --> 00:14:06,039
+Siempre nos sacrificamos nosotros.
+
+229
+00:14:06,539 --> 00:14:07,456
+¿Ustedes solos?
+
+230
+00:14:10,664 --> 00:14:12,289
+¿Risa? ¿Les da risa?
+
+231
+00:14:12,289 --> 00:14:14,664
+- ¿Creen que me gusta teñirme de rubio?
+- No.
+
+232
+00:14:14,664 --> 00:14:17,789
+Agarren esos papiros
+y repártanlos por la ciudad.
+
+233
+00:14:17,789 --> 00:14:19,914
+Vamos, ¡<i>yalla</i>! Vamos...
+
+234
+00:14:19,914 --> 00:14:21,914
+Y pónganse el casco. ¡Eso es!
+
+235
+00:14:22,497 --> 00:14:23,664
+¡Vamos!
+
+236
+00:14:23,664 --> 00:14:25,039
+¡China es nuestra!
+
+237
+00:14:26,497 --> 00:14:27,622
+¡Eh, fisgona!
+
+238
+00:14:28,331 --> 00:14:29,789
+¿Necesitas ayuda?
+
+239
+00:14:29,789 --> 00:14:31,206
+Si lo tocas, lo pagas.
+
+240
+00:14:32,039 --> 00:14:33,414
+¿Son Louboutix originales?
+
+241
+00:14:33,414 --> 00:14:35,081
+¿Si son originales?
+
+242
+00:14:35,081 --> 00:14:37,789
+Por supuesto que sí, ¿no viste la suela?
+
+243
+00:14:37,789 --> 00:14:41,706
+Es roja, como el precio.
+Si no los puedes pagar, ve enfrente.
+
+244
+00:14:43,414 --> 00:14:45,039
+Vamos, largo de aquí.
+
+245
+00:14:45,039 --> 00:14:46,414
+Vamos, vamos, ¡largo!
+
+246
+00:14:47,331 --> 00:14:48,789
+¡Qué torpe!
+
+247
+00:14:49,331 --> 00:14:50,831
+Discúlpelo, su majestad.
+
+248
+00:14:50,831 --> 00:14:52,497
+Discúlpelo, es mi sobrino.
+
+249
+00:14:52,497 --> 00:14:55,122
+Tiene el mismo carácter que su madre.
+
+250
+00:14:55,122 --> 00:14:56,872
+Sí, todo el mundo lo dice.
+
+251
+00:14:56,872 --> 00:14:59,581
+Por supuesto, las sandalias son un regalo.
+
+252
+00:14:59,581 --> 00:15:01,831
+Se las descontaré de su sueldo.
+
+253
+00:15:01,831 --> 00:15:03,997
+- Eso duele.
+- Me alegro.
+
+254
+00:15:03,997 --> 00:15:05,039
+Espigademaíx,
+
+255
+00:15:05,039 --> 00:15:06,164
+para servirles.
+
+256
+00:15:06,747 --> 00:15:08,664
+Nadie te da la mano...
+
+257
+00:15:08,664 --> 00:15:10,247
+- Nadie.
+- No, nadie.
+
+258
+00:15:10,247 --> 00:15:12,122
+Fue un error desafortunado,
+
+259
+00:15:12,122 --> 00:15:13,247
+princesa.
+
+260
+00:15:14,039 --> 00:15:14,997
+Es preciosa.
+
+261
+00:15:17,372 --> 00:15:21,247
+Soy Granodemaíx, el sobrino
+con el carácter de su madre.
+
+262
+00:15:21,247 --> 00:15:22,539
+Y también...
+
+263
+00:15:23,206 --> 00:15:24,206
+sus ojos.
+
+264
+00:15:26,997 --> 00:15:28,622
+Me encantaría ser rubia como usted.
+
+265
+00:15:29,247 --> 00:15:32,622
+Yo no tuve elección, princesa.
+Es de nacimiento.
+
+266
+00:15:32,622 --> 00:15:34,289
+Así lo quiso la naturaleza.
+
+267
+00:15:34,289 --> 00:15:36,206
+Su majestad imperial,
+
+268
+00:15:36,206 --> 00:15:38,331
+le pedimos disculpas.
+
+269
+00:15:38,331 --> 00:15:42,956
+Sería un honor que probara
+nuestro famoso néctar galo.
+
+270
+00:15:44,039 --> 00:15:45,081
+Pase.
+
+271
+00:15:46,164 --> 00:15:50,581
+Primero, un gran reserva para celebrar
+a la grande y majestuosa emperatriz.
+
+272
+00:15:51,956 --> 00:15:53,622
+Se perciben notas afrutadas.
+
+273
+00:15:54,122 --> 00:15:55,372
+Se percibe el sol.
+
+274
+00:15:56,164 --> 00:15:57,664
+El pino, la sombra,
+
+275
+00:15:57,664 --> 00:15:59,831
+con unos toques de castaña,
+
+276
+00:15:59,831 --> 00:16:01,081
+de banana.
+
+277
+00:16:01,081 --> 00:16:02,706
+De dátiles, en fin...
+
+278
+00:16:02,706 --> 00:16:05,872
+Parece más
+una ensalada de frutas que un vino.
+
+279
+00:16:05,872 --> 00:16:06,872
+CATA
+
+280
+00:16:10,164 --> 00:16:11,456
+YO AMO LA GALIA
+
+281
+00:16:21,206 --> 00:16:22,122
+Me llevo todo.
+
+282
+00:16:25,539 --> 00:16:26,747
+¿Son perfumes galos?
+
+283
+00:16:26,747 --> 00:16:28,706
+Por supuesto, princesa.
+
+284
+00:16:28,706 --> 00:16:30,664
+Todos vienen de la Galia.
+
+285
+00:16:30,664 --> 00:16:32,664
+Como mis vendedores y yo.
+
+286
+00:16:33,581 --> 00:16:35,331
+Esta es la última creación
+
+287
+00:16:35,331 --> 00:16:37,331
+que llevan todas las galas.
+
+288
+00:16:37,331 --> 00:16:38,247
+<i>Anfor.</i>
+
+289
+00:16:38,747 --> 00:16:39,747
+¿<i>Anfor</i>?
+
+290
+00:16:40,247 --> 00:16:41,372
+<i>J'adore.</i>
+
+291
+00:16:41,372 --> 00:16:42,706
+Yo también lo adoro.
+
+292
+00:16:42,706 --> 00:16:44,081
+¡Arqueros! ¡Disparen!
+
+293
+00:16:44,081 --> 00:16:45,164
+¡Cuidado!
+
+294
+00:16:53,081 --> 00:16:54,539
+Chi Le, ¿estás herida?
+
+295
+00:16:54,539 --> 00:16:55,956
+No, madre, estoy bien.
+
+296
+00:16:55,956 --> 00:16:56,872
+¿Nada roto?
+
+297
+00:16:56,872 --> 00:16:58,664
+No, no, estoy bien.
+
+298
+00:16:58,664 --> 00:17:00,039
+¡De la mercancía!
+
+299
+00:17:00,039 --> 00:17:01,122
+Qué simpático...
+
+300
+00:17:01,122 --> 00:17:02,539
+¡Emperatriz!
+
+301
+00:17:02,539 --> 00:17:06,039
+¡Salga con las manos en alto
+y nadie resultará herido!
+
+302
+00:17:06,581 --> 00:17:07,706
+Entréguese.
+
+303
+00:17:07,706 --> 00:17:08,997
+Y achínese.
+
+304
+00:17:11,247 --> 00:17:14,039
+Dijo: "Entréguese",
+y yo digo "achínese", por los ojos.
+
+305
+00:17:14,039 --> 00:17:15,497
+Achinados...
+
+306
+00:17:19,997 --> 00:17:20,997
+¿Hay otra salida?
+
+307
+00:17:20,997 --> 00:17:22,664
+Sí, un pasadizo secreto.
+
+308
+00:17:22,664 --> 00:17:26,372
+Por si hay un control de aduanas...
+Digo... En caso de incendio...
+
+309
+00:17:26,372 --> 00:17:28,081
+Una salida de incendios.
+
+310
+00:17:29,081 --> 00:17:31,164
+For Tac Hon,
+te confío a mi hija. Sálvense.
+
+311
+00:17:31,164 --> 00:17:32,997
+No. ¡Huye con nosotras!
+
+312
+00:17:32,997 --> 00:17:37,122
+La emperatriz de China no huye.
+Sálvate. Ese traidor va a por ti.
+
+313
+00:17:37,122 --> 00:17:38,081
+Vamos.
+
+314
+00:17:39,747 --> 00:17:41,206
+- Adiós, princesa.
+- ¡Basta!
+
+315
+00:17:41,206 --> 00:17:44,414
+Me quedo. Un buen mercader
+no abandona su mercancía.
+
+316
+00:17:44,414 --> 00:17:45,914
+Como el capitán de un barco.
+
+317
+00:17:46,831 --> 00:17:47,789
+Bueno...
+
+318
+00:17:47,789 --> 00:17:50,622
+- Ve a casa y trae ayuda.
+- ¿Con el tío Mahmoud?
+
+319
+00:17:50,622 --> 00:17:52,456
+¡No! A nuestra otra casa.
+
+320
+00:17:52,456 --> 00:17:53,789
+- ¿A esta?
+- ¡Esa!
+
+321
+00:17:53,789 --> 00:17:54,872
+¡Está lejísimo!
+
+322
+00:17:54,872 --> 00:17:55,997
+Pues vete ya.
+
+323
+00:17:55,997 --> 00:17:57,039
+¡Vamos, vamos!
+
+324
+00:17:57,039 --> 00:17:58,122
+¡Espera!
+
+325
+00:17:58,706 --> 00:18:01,997
+Cuida bien de la princesa.
+No podemos perder esta venta.
+
+326
+00:18:01,997 --> 00:18:03,497
+¿Te imaginas?
+
+327
+00:18:03,497 --> 00:18:05,622
+Salvas a la princesa de China.
+
+328
+00:18:12,789 --> 00:18:14,456
+- Lo entenderé luego.
+- ¡Corre!
+
+329
+00:18:14,456 --> 00:18:15,706
+Cuídate mucho, tío.
+
+330
+00:18:20,664 --> 00:18:23,914
+Tengo algunas nociones
+de pugilismo fenicio. Déjeme a mí.
+
+331
+00:18:24,831 --> 00:18:27,081
+¿Qué pasa? ¿Molestando a las señoras?
+
+332
+00:18:32,789 --> 00:18:34,581
+Entré en la tienda y...
+
+333
+00:18:35,622 --> 00:18:38,581
+- ¿Qué pasó?
+- Le dieron una patada en la cabeza.
+
+334
+00:18:39,247 --> 00:18:41,039
+¡Claro! Ahora entiendo.
+
+335
+00:18:41,039 --> 00:18:43,122
+¿Sigue riéndose un montón, emperatriz?
+
+336
+00:18:43,122 --> 00:18:46,664
+Disculpen un momento. ¿Quiénes son?
+Porque no entiendo nada...
+
+337
+00:18:46,664 --> 00:18:48,664
+Estoy perdido, perdidísimo.
+
+338
+00:18:49,664 --> 00:18:51,664
+- ¿Y bien?
+- La princesa no aparece.
+
+339
+00:18:51,664 --> 00:18:54,164
+Si está escondida, ¡es muy astuta!
+
+340
+00:18:54,664 --> 00:18:56,581
+Y muy pérfida, como un pececito...
+
+341
+00:18:57,789 --> 00:19:00,372
+¡Búscala por todo el reino!
+Y ofrece recompensa.
+
+342
+00:19:00,372 --> 00:19:03,581
+¡La quiero viva
+para nuestro matrimonio forzado!
+
+343
+00:19:06,164 --> 00:19:07,914
+Conozco a mi hija...
+
+344
+00:19:07,914 --> 00:19:09,372
+Volverá para vengarse.
+
+345
+00:19:09,372 --> 00:19:12,664
+¡Uy, qué miedo!
+¡Ahí viene la princesita mimada!
+
+346
+00:19:12,664 --> 00:19:14,789
+- Calla. Es mi esposa.
+- Perdón.
+
+347
+00:19:14,789 --> 00:19:18,789
+Perdón, pero no entiendo nada,
+estoy perdidísimo.
+
+348
+00:19:18,789 --> 00:19:20,789
+Ta voy a decapitar, emperatriz.
+
+349
+00:19:20,789 --> 00:19:23,789
+No, no va a decapitar a nadie.
+Esas cosas no se hacen.
+
+350
+00:19:23,789 --> 00:19:26,581
+Tiene razón,
+no puede matar a la emperatriz.
+
+351
+00:19:26,581 --> 00:19:27,539
+¿Qué?
+
+352
+00:19:28,039 --> 00:19:31,289
+No es fácil. Los príncipes
+de los otros cinco reinos lo odian.
+
+353
+00:19:31,289 --> 00:19:33,706
+Creen que no tiene madera de emperador.
+
+354
+00:19:33,706 --> 00:19:36,956
+Y cito: "Tiene un físico
+poco agraciado y un pequeño...".
+
+355
+00:19:36,956 --> 00:19:39,164
+- No está mal.
+- No, ¡el ejército!
+
+356
+00:19:39,164 --> 00:19:41,622
+Un pequeño ejército. El más pequeño...
+
+357
+00:19:41,622 --> 00:19:43,456
+No podrá derrotarlos.
+
+358
+00:19:43,456 --> 00:19:46,206
+Si me hablas así es porque tienes un plan.
+
+359
+00:19:46,206 --> 00:19:47,414
+Por supuesto.
+
+360
+00:19:48,664 --> 00:19:49,664
+Mi idea...
+
+361
+00:19:51,039 --> 00:19:53,414
+¡Llévenselos! ¡Vamos!
+
+362
+00:19:53,414 --> 00:19:54,664
+¡Despacio!
+
+363
+00:19:54,664 --> 00:19:57,497
+Cuidado, hay una emperatriz y jarrones...
+
+364
+00:19:57,497 --> 00:19:59,497
+¡China es nuestra!
+
+365
+00:20:31,372 --> 00:20:32,956
+Princesa, tranquila.
+
+366
+00:20:32,956 --> 00:20:35,747
+Además, yo estoy aquí, ¿eh? Estoy aquí.
+
+367
+00:20:38,331 --> 00:20:39,872
+Calma, las ayudaremos.
+
+368
+00:20:39,872 --> 00:20:43,581
+Todo el mundo sabe
+que a los galos nos encanta ayudar.
+
+369
+00:20:43,581 --> 00:20:44,622
+¡No!
+
+370
+00:20:45,122 --> 00:20:46,914
+No, no, no y no.
+
+371
+00:20:46,914 --> 00:20:48,539
+De ninguna manera.
+
+372
+00:20:48,539 --> 00:20:50,914
+Y la historia me pareció muy larga.
+
+373
+00:20:52,289 --> 00:20:56,372
+Por Belenos, ¿por qué siempre
+nos tienen que pedir ayuda a nosotros?
+
+374
+00:20:56,372 --> 00:20:58,372
+Oh, Abraracúrcix,
+
+375
+00:20:58,372 --> 00:20:59,747
+es nuestra tradición
+
+376
+00:20:59,747 --> 00:21:01,914
+ayudar a quien lo necesite.
+
+377
+00:21:02,414 --> 00:21:04,539
+Sin olvidar a Espigade...
+
+378
+00:21:04,539 --> 00:21:06,164
+Maíz.
+
+379
+00:21:06,164 --> 00:21:07,539
+Maíx.
+
+380
+00:21:07,539 --> 00:21:09,497
+Bueno... No, ya está.
+
+381
+00:21:09,497 --> 00:21:11,956
+Siempre digo que sí, pero esta vez no.
+
+382
+00:21:12,747 --> 00:21:14,039
+No me parece.
+
+383
+00:21:14,039 --> 00:21:17,289
+Está lejos, nunca fuimos.
+¡Ni siquiera sabemos dónde está!
+
+384
+00:21:17,289 --> 00:21:18,247
+Claro que sí.
+
+385
+00:21:18,247 --> 00:21:19,747
+Hasta yo sé dónde está.
+
+386
+00:21:19,747 --> 00:21:22,497
+Está por donde sale el sol.
+
+387
+00:21:23,206 --> 00:21:24,497
+Ni siquiera lo sabe...
+
+388
+00:21:24,997 --> 00:21:26,706
+Yo no sé y soy el que manda.
+
+389
+00:21:26,706 --> 00:21:28,789
+Gran jefe, respeto su decisión.
+
+390
+00:21:28,789 --> 00:21:31,289
+Me voy ya a ayudar a mi madre y a mi país.
+
+391
+00:21:31,289 --> 00:21:32,622
+No, espere, princesa.
+
+392
+00:21:35,289 --> 00:21:36,539
+Yo estoy de acuerdo.
+
+393
+00:21:37,039 --> 00:21:39,831
+Además, estoy libre.
+
+394
+00:21:40,956 --> 00:21:44,081
+Yo también estoy libre.
+Yo también quiero ir.
+
+395
+00:21:44,081 --> 00:21:46,247
+¡A ver! ¿Quién está en este trono?
+
+396
+00:21:47,539 --> 00:21:48,956
+¿Ahora son los jefes?
+
+397
+00:21:49,497 --> 00:21:51,372
+Se acabó la discusión, no es no.
+
+398
+00:21:51,372 --> 00:21:53,456
+Espera, ¿te volviste loco?
+
+399
+00:21:54,081 --> 00:21:55,747
+Se supone que eres el jefe.
+
+400
+00:21:56,247 --> 00:21:58,956
+- ¿Ignoras las lágrimas de una joven?
+- No, mi cielo...
+
+401
+00:21:58,956 --> 00:22:02,122
+¡Mi cielo, nada!
+¿Así recibes a nuestros amigos?
+
+402
+00:22:02,122 --> 00:22:03,497
+Tiene razón.
+
+403
+00:22:03,497 --> 00:22:05,206
+¡Qué bonita, esta Galia!
+
+404
+00:22:05,206 --> 00:22:08,664
+¿Y todo porque está lejos?
+¿Qué te importa si no vas a ir?
+
+405
+00:22:10,039 --> 00:22:12,456
+¡No! Irán Astérix y Obélix, como siempre.
+
+406
+00:22:13,539 --> 00:22:16,372
+Si un día escriben
+la historia de la aldea,
+
+407
+00:22:16,372 --> 00:22:19,831
+jamás la llamarán
+"Las aventuras de Abraracúrcix el galo".
+
+408
+00:22:19,831 --> 00:22:21,622
+Hasta Ideafix viaja más que tú.
+
+409
+00:22:22,414 --> 00:22:23,581
+¿Oíste, Ideafix?
+
+410
+00:22:26,331 --> 00:22:27,581
+Qué golpazo.
+
+411
+00:22:27,581 --> 00:22:30,997
+Para fabricar la poción mágica
+para los bigotudos siempre hay alguien,
+
+412
+00:22:30,997 --> 00:22:34,039
+pero si es algo más delicado,
+¿no queda nadie?
+
+413
+00:22:42,622 --> 00:22:43,664
+Está bien, pueden ir.
+
+414
+00:22:43,664 --> 00:22:44,997
+¡Sí!
+
+415
+00:22:46,914 --> 00:22:48,497
+Gracias, de todo corazón.
+
+416
+00:22:49,414 --> 00:22:52,789
+<i>Ya que se van de viaje,</i>
+
+417
+00:22:53,581 --> 00:22:55,872
+<i>nos despediremos esta noche.</i>
+
+418
+00:22:57,414 --> 00:22:59,206
+<i>Mi corazón palpit...</i>
+
+419
+00:23:08,956 --> 00:23:12,872
+<i>Mientras tanto, en la eterna
+y bien irrigada ciudad de Roma,</i>
+
+420
+00:23:12,872 --> 00:23:15,997
+<i>encontramos a Julio César
+en su magnífico palacio</i>
+
+421
+00:23:15,997 --> 00:23:19,497
+<i>que vive el amor idílico
+con la poderosa reina de Egipto,</i>
+
+422
+00:23:19,497 --> 00:23:21,997
+<i>la hermosa y dulce Cleopatra.</i>
+
+423
+00:23:21,997 --> 00:23:23,747
+¡No puedo más!
+
+424
+00:23:23,747 --> 00:23:26,581
+¿Sabes qué? ¡No puedo más!
+
+425
+00:23:31,789 --> 00:23:33,331
+¿Se puede saber qué haces?
+
+426
+00:23:33,331 --> 00:23:35,914
+Hago las maletas y vuelvo a casa.
+
+427
+00:23:35,914 --> 00:23:37,706
+Debí hacerle caso a mi madre.
+
+428
+00:23:38,664 --> 00:23:41,914
+Ahora que se acabó, te lo digo.
+Conocí a alguien.
+
+429
+00:23:41,914 --> 00:23:43,372
+¿Cómo dices?
+
+430
+00:23:44,997 --> 00:23:46,122
+¿Hablas en serio?
+
+431
+00:23:47,747 --> 00:23:49,831
+¿Cómo que conociste a alguien?
+
+432
+00:23:50,497 --> 00:23:53,247
+¿Qué es esto, una <i>infidelitatis</i>?
+
+433
+00:23:53,247 --> 00:23:54,331
+Así es.
+
+434
+00:23:56,289 --> 00:23:57,206
+Y...
+
+435
+00:23:58,789 --> 00:24:01,664
+¿Se puede saber
+por quién dejas al gran César?
+
+436
+00:24:03,039 --> 00:24:04,247
+¡Trancazos!
+
+437
+00:24:05,581 --> 00:24:06,414
+¿Trancazos?
+
+438
+00:24:06,414 --> 00:24:07,497
+¿El griego ese?
+
+439
+00:24:11,164 --> 00:24:13,247
+Trancazos el griego...
+
+440
+00:24:13,247 --> 00:24:16,206
+¿Así que abandonas al gran César
+
+441
+00:24:17,664 --> 00:24:19,747
+para irte con un profe de gimnasia?
+
+442
+00:24:21,456 --> 00:24:24,164
+Ya lo veremos. Después de los leones.
+
+443
+00:24:25,206 --> 00:24:27,081
+Te prohíbo que le hagas daño.
+
+444
+00:24:28,206 --> 00:24:29,747
+Lo amo, ¿me oyes?
+
+445
+00:24:30,372 --> 00:24:31,456
+¿Cómo que lo amas?
+
+446
+00:24:32,872 --> 00:24:34,081
+¿Cómo que lo amas?
+
+447
+00:24:35,622 --> 00:24:37,414
+¿Qué tiene él que no tenga yo?
+
+448
+00:24:37,414 --> 00:24:39,206
+Es un gimnasta internacional.
+
+449
+00:24:39,206 --> 00:24:41,831
+A ti, fuera de Roma
+y de la Galia, nadie te conoce.
+
+450
+00:24:43,914 --> 00:24:46,164
+¿Nadie conoce a Julio César? En serio...
+
+451
+00:24:46,664 --> 00:24:50,456
+Muy bien. ¿Ambiciones internacionales?
+Vete con tu atleta.
+
+452
+00:24:50,456 --> 00:24:53,122
+{\an8}¡Vete al diablo con los griegos!
+
+453
+00:24:54,456 --> 00:24:56,622
+¿Puedo, oh, César?
+
+454
+00:24:56,622 --> 00:24:59,372
+Una pequeña discusión conyugal,
+pero ya está arreglada.
+
+455
+00:25:00,206 --> 00:25:04,206
+Habla, Tullius Perfidus,
+mi embustero y vil asesor.
+
+456
+00:25:04,206 --> 00:25:05,122
+Ave, César.
+
+457
+00:25:05,122 --> 00:25:07,664
+Tu observación me describe perfectamente.
+
+458
+00:25:16,206 --> 00:25:18,164
+Te presento a Cha Fa,
+
+459
+00:25:18,164 --> 00:25:20,747
+representante del príncipe Dan Sin Qin,
+
+460
+00:25:20,747 --> 00:25:22,539
+el nuevo señor de China.
+
+461
+00:25:22,539 --> 00:25:26,206
+¿Un imperio tan grande
+tiene un asesor tan pequeño?
+
+462
+00:25:26,206 --> 00:25:29,497
+El tamaño no importa,
+sino hacerlo bien, oh, César.
+
+463
+00:25:29,497 --> 00:25:31,247
+Alguno, ni lo uno ni lo otro.
+
+464
+00:25:34,497 --> 00:25:36,081
+Es hermosa.
+
+465
+00:25:36,081 --> 00:25:37,539
+¿Qué deseas, enano?
+
+466
+00:25:37,539 --> 00:25:41,164
+Vengo a ofrecer las mayores riquezas
+de mi país de adopción
+
+467
+00:25:41,164 --> 00:25:43,581
+a cambio de un pequeño apoyo militar.
+
+468
+00:25:43,581 --> 00:25:44,789
+¿Tu país?
+
+469
+00:25:44,789 --> 00:25:47,206
+Hasta Alejandro Magno
+renunció a conquistar China.
+
+470
+00:25:47,206 --> 00:25:49,997
+Es una buena ocasión
+para expandir mi imperio...
+
+471
+00:25:49,997 --> 00:25:51,789
+Tu imperio, oh, César.
+
+472
+00:25:51,789 --> 00:25:53,497
+Ya conquisté bastante.
+
+473
+00:25:53,497 --> 00:25:56,872
+Mi nombre quedará grabado para siempre
+en el mármol de la historia.
+
+474
+00:25:56,872 --> 00:25:59,539
+Me encanta cuando dices eso. ¡Me encanta!
+
+475
+00:25:59,539 --> 00:26:01,914
+Qué bien hablas. ¿Verdad?
+
+476
+00:26:01,914 --> 00:26:04,206
+Biopix, mi biógrafo gallego.
+
+477
+00:26:04,206 --> 00:26:08,164
+¿Qué inspiradora es la asombrosa
+trayectoria del poderoso César!
+
+478
+00:26:08,164 --> 00:26:09,622
+<i>Vade retro</i>, largo.
+
+479
+00:26:09,622 --> 00:26:13,414
+Oh, César, un detalle, ya que quieres
+dejar huella en la Historia.
+
+480
+00:26:13,414 --> 00:26:15,664
+En China, nadie te conoce.
+
+481
+00:26:15,664 --> 00:26:17,206
+Lo que yo decía.
+
+482
+00:26:18,622 --> 00:26:20,497
+¡Basta ya con eso!
+
+483
+00:26:21,914 --> 00:26:24,414
+Soy Julio César, el de las mil conquistas,
+
+484
+00:26:24,414 --> 00:26:25,789
+¿y nadie me conoce?
+
+485
+00:26:25,789 --> 00:26:27,039
+Por desgracia.
+
+486
+00:26:38,831 --> 00:26:40,247
+Tiene razón.
+
+487
+00:26:40,247 --> 00:26:41,497
+En China, al menos.
+
+488
+00:26:42,081 --> 00:26:44,331
+Tranquilo. No pasa nada.
+
+489
+00:26:44,331 --> 00:26:47,914
+Bien. Cha Fa, acércate
+y háblame de esta alianza
+
+490
+00:26:48,414 --> 00:26:49,497
+y de tu país
+
+491
+00:26:49,497 --> 00:26:51,872
+¡que pronto sabrá quién soy yo!
+
+492
+00:26:54,122 --> 00:26:57,622
+Aclárame bien las cosas
+y no me vengas con cuentos chinos.
+
+493
+00:27:01,914 --> 00:27:04,497
+Cambié el carruaje
+para que sea más fuerte.
+
+494
+00:27:04,497 --> 00:27:07,747
+- ¡Esto sí es un carro!
+- Me lo prestó el primo Mecánix.
+
+495
+00:27:08,331 --> 00:27:10,081
+Tiene tripas de jabalí.
+
+496
+00:27:10,081 --> 00:27:11,997
+Son como almohadones inflables
+
+497
+00:27:11,997 --> 00:27:13,872
+para amortiguar los golpes.
+
+498
+00:27:14,456 --> 00:27:15,581
+Y techo descapotable.
+
+499
+00:27:15,581 --> 00:27:16,789
+¡Vaya!
+
+500
+00:27:16,789 --> 00:27:17,997
+¿Sabes?
+
+501
+00:27:17,997 --> 00:27:19,414
+Es perfecto.
+
+502
+00:27:19,956 --> 00:27:20,914
+Es magnífico.
+
+503
+00:27:25,331 --> 00:27:26,247
+Bien, vámonos.
+
+504
+00:27:27,997 --> 00:27:29,997
+Princesa, por favor.
+
+505
+00:27:34,039 --> 00:27:34,997
+Qué mal. Perdón.
+
+506
+00:27:36,914 --> 00:27:38,247
+Será un viaje precioso.
+
+507
+00:27:40,081 --> 00:27:43,581
+Astérix, te había preparado
+un poco de poción mágica,
+
+508
+00:27:43,581 --> 00:27:46,831
+pero como Obélix me dijo
+que ya no la necesitabas,
+
+509
+00:27:46,831 --> 00:27:48,706
+- no sé...
+- No, está bien.
+
+510
+00:27:51,539 --> 00:27:53,539
+Pero me la llevo por las dudas...
+
+511
+00:27:54,331 --> 00:27:55,664
+Quiero dejarla...
+
+512
+00:27:55,664 --> 00:27:58,247
+Pues ten cuidado,
+porque está bien cargada.
+
+513
+00:28:04,247 --> 00:28:05,331
+¿Tomaste?
+
+514
+00:28:06,622 --> 00:28:08,247
+Un sorbito nada más.
+
+515
+00:28:08,247 --> 00:28:09,622
+Para probar.
+
+516
+00:28:10,747 --> 00:28:11,789
+Sí...
+
+517
+00:28:12,372 --> 00:28:13,747
+Suerte, princesa.
+
+518
+00:28:14,289 --> 00:28:15,622
+Y ustedes dos,
+
+519
+00:28:15,622 --> 00:28:17,622
+sean valientes, imprudentes
+
+520
+00:28:17,622 --> 00:28:20,122
+y tengan mala fe. Resumiendo,
+
+521
+00:28:20,622 --> 00:28:21,581
+¡sean galos!
+
+522
+00:28:23,747 --> 00:28:24,872
+Agárrense fuerte.
+
+523
+00:28:25,372 --> 00:28:28,081
+No lo dijimos,
+pero tardaremos menos que a la ida.
+
+524
+00:28:30,831 --> 00:28:33,914
+Disculpen, pero me gustaría señalar
+
+525
+00:28:33,914 --> 00:28:37,831
+que el papel del bardo
+es alabar a los héroes
+
+526
+00:28:37,831 --> 00:28:39,206
+y sus hazañas.
+
+527
+00:28:39,206 --> 00:28:41,539
+Si no viajo nunca, ¿en qué me convierto?
+
+528
+00:28:41,539 --> 00:28:42,872
+Sí...
+
+529
+00:28:42,872 --> 00:28:43,956
+Excelente idea.
+
+530
+00:28:43,956 --> 00:28:46,414
+- ¡No!
+- Asurancetúrix se va a ir con...
+
+531
+00:28:50,622 --> 00:28:52,956
+No... ¡Se olvidaron de mí!
+
+532
+00:28:53,789 --> 00:28:56,789
+<i>¡Se olvidaron de mí!</i>
+
+533
+00:29:00,872 --> 00:29:02,331
+{\an8}ARMÓRICA
+
+534
+00:29:02,331 --> 00:29:05,664
+<i>Y nuestros amigos parten
+a toda velocidad hacia el sur</i>
+
+535
+00:29:05,664 --> 00:29:09,372
+<i>por una ruta marítima,
+que, según Panorámix,</i>
+
+536
+00:29:09,372 --> 00:29:11,956
+<i>es más rápida que la Ruta de la Seda.</i>
+
+537
+00:29:11,956 --> 00:29:14,706
+<i>Tras haber cruzado el Mediterráneo a remo,</i>
+
+538
+00:29:14,706 --> 00:29:16,081
+<i>gracias a Obélix,</i>
+
+539
+00:29:16,081 --> 00:29:18,331
+<i>llegan al norte de África.</i>
+
+540
+00:29:24,914 --> 00:29:26,414
+Frota y escurre.
+
+541
+00:29:26,997 --> 00:29:28,872
+For Tac Hon, enséñame kung-fu.
+
+542
+00:29:31,706 --> 00:29:32,831
+Frota...
+
+543
+00:29:33,872 --> 00:29:35,039
+y escurre.
+
+544
+00:29:42,081 --> 00:29:43,206
+No, otra vez no.
+
+545
+00:29:44,789 --> 00:29:47,414
+¿Te gusta el espectáculo? ¿Una cerveza?
+
+546
+00:29:47,414 --> 00:29:49,789
+¿Una silla? Espera, ya te la traigo.
+
+547
+00:29:50,706 --> 00:29:53,247
+¡No, no te la traigo! ¿Qué estás haciendo?
+
+548
+00:29:53,247 --> 00:29:54,414
+Lo mismo que tú.
+
+549
+00:29:54,414 --> 00:29:56,206
+¿Sabe que la espías?
+
+550
+00:29:56,206 --> 00:29:57,581
+¿Y si se lo digo?
+
+551
+00:30:01,247 --> 00:30:02,164
+Es maravillosa.
+
+552
+00:30:02,997 --> 00:30:06,789
+Aprende a lavar porque sabe
+que conmigo la vida será más rústica.
+
+553
+00:30:06,789 --> 00:30:08,664
+Se prepara para su nueva vida.
+
+554
+00:30:09,456 --> 00:30:13,664
+¿Una princesa china en la Galia?
+¿Con los aldeanos? ¡No me hagas reír!
+
+555
+00:30:13,664 --> 00:30:16,789
+Te digo que estamos juntos.
+¿No oyes, estás sordo?
+
+556
+00:30:16,789 --> 00:30:20,122
+- No están juntos.
+- Sí. Desde hace seis meses.
+
+557
+00:30:20,122 --> 00:30:21,206
+¿En serio?
+
+558
+00:30:21,831 --> 00:30:23,081
+¡No puede ser!
+
+559
+00:30:23,081 --> 00:30:26,331
+Amigos, de una vez por todas,
+lo nuestro es serio.
+
+560
+00:30:26,331 --> 00:30:28,206
+Nos queremos, vamos a casarnos.
+
+561
+00:30:29,372 --> 00:30:31,456
+- Felicitaciones.
+- Gracias, Obélix.
+
+562
+00:30:31,456 --> 00:30:33,206
+Me encantan las bodas.
+
+563
+00:30:33,206 --> 00:30:35,122
+- ¿Habrá banquete?
+- Claro.
+
+564
+00:30:35,122 --> 00:30:37,456
+¿Y sabes qué? Vas a ser el padrino.
+
+565
+00:30:38,414 --> 00:30:40,581
+¡Gracias! Nunca fui padrino de nada.
+
+566
+00:30:40,581 --> 00:30:44,872
+¿Puedes dejar de creerte todo?
+¡Es exasperante!
+
+567
+00:30:44,872 --> 00:30:47,497
+- No es mi culpa si se quieren.
+- Es verdad.
+
+568
+00:30:47,497 --> 00:30:49,081
+¡No se quieren!
+
+569
+00:30:49,081 --> 00:30:51,581
+Mientras Chi Le no esté con nadie,
+¡no está con nadie!
+
+570
+00:30:51,581 --> 00:30:52,789
+Que gane el mejor.
+
+571
+00:30:52,789 --> 00:30:56,206
+Qué ganas de ver su cara cuando le diga
+
+572
+00:30:56,789 --> 00:30:58,997
+que no eres galo y que no eres rubio.
+
+573
+00:30:58,997 --> 00:31:03,414
+¿Sí? Yo también quiero verle la cara
+cuando le diga que tu bigote...
+
+574
+00:31:03,414 --> 00:31:04,914
+Sí, ¿que mi bigote qué?
+
+575
+00:31:04,914 --> 00:31:06,664
+- Tu bigote...
+- ¿Sí?
+
+576
+00:31:07,289 --> 00:31:08,372
+¡Es horrible!
+
+577
+00:31:08,372 --> 00:31:09,456
+¡No!
+
+578
+00:31:11,581 --> 00:31:12,581
+Eso duele...
+
+579
+00:31:13,122 --> 00:31:14,581
+Ya.
+
+580
+00:31:15,331 --> 00:31:16,289
+Creo que me pasé.
+
+581
+00:31:16,289 --> 00:31:17,539
+¡El bigote no!
+
+582
+00:31:17,539 --> 00:31:19,081
+Sí, pero me obligó.
+
+583
+00:31:19,081 --> 00:31:20,956
+Sí, pero el bigote no.
+
+584
+00:31:22,039 --> 00:31:22,914
+¿Qué hace?
+
+585
+00:31:22,914 --> 00:31:25,914
+- Sí.
+- ¡No puede ser! ¡Se lo está contando!
+
+586
+00:31:25,914 --> 00:31:28,039
+¡Increíble! ¿Eso es un amigo?
+
+587
+00:31:28,039 --> 00:31:29,497
+Ahí viene...
+
+588
+00:31:31,872 --> 00:31:32,706
+¿Qué hacen?
+
+589
+00:31:32,706 --> 00:31:36,081
+Nada, buscábamos un... ramo.
+
+590
+00:31:36,081 --> 00:31:37,039
+Sí...
+
+591
+00:31:37,039 --> 00:31:40,081
+- Para la boda.
+- Sí. No, para comer.
+
+592
+00:31:40,081 --> 00:31:41,164
+Aceitunas...
+
+593
+00:31:41,164 --> 00:31:42,539
+No, para comer aquí.
+
+594
+00:31:42,539 --> 00:31:44,039
+¡Seré el padrino!
+
+595
+00:31:44,039 --> 00:31:46,789
+No puede ser... Puras tonterías.
+
+596
+00:31:48,206 --> 00:31:49,539
+Nos vamos. Vamos.
+
+597
+00:31:50,081 --> 00:31:51,081
+Perdón.
+
+598
+00:31:51,081 --> 00:31:53,622
+¿Qué parte de callarte no entiendes?
+
+599
+00:31:59,706 --> 00:32:01,789
+Buenas noches, señor sabelotodo.
+
+600
+00:32:02,706 --> 00:32:05,331
+A ti, señor "tengo un nuevo mejor amigo".
+
+601
+00:32:05,831 --> 00:32:07,706
+Buenas noches, señor comeverduras.
+
+602
+00:32:07,706 --> 00:32:10,372
+"¡Qué ricas las verduras! ¡Riquísimas!".
+
+603
+00:32:10,372 --> 00:32:12,081
+A ti, rubio de mentira.
+
+604
+00:32:12,664 --> 00:32:14,581
+¿Pueden darse
+las buenas noches de una vez?
+
+605
+00:32:15,622 --> 00:32:16,664
+Es él...
+
+606
+00:32:16,664 --> 00:32:18,581
+Buenas noches, For Tac Hon.
+
+607
+00:32:21,872 --> 00:32:22,706
+For Tac Hon.
+
+608
+00:32:24,247 --> 00:32:26,372
+¿Crees que mi madre sigue viva?
+
+609
+00:32:26,372 --> 00:32:29,789
+La emperatriz es hija del cielo, princesa.
+
+610
+00:32:30,289 --> 00:32:31,956
+No puede pasarle nada.
+
+611
+00:32:35,331 --> 00:32:37,747
+Buenas noches, señor "la amo
+y no me animo a hablar".
+
+612
+00:32:37,747 --> 00:32:41,539
+Buenas noches, señor "digo tonterías
+y la barriga me tapa los pies".
+
+613
+00:32:41,539 --> 00:32:45,747
+Buenas noches, señor "duermo solo
+como un bichito pequeñito".
+
+614
+00:32:45,747 --> 00:32:47,497
+- ¡Basta!
+- Sí...
+
+615
+00:32:47,497 --> 00:32:48,497
+Perdón.
+
+616
+00:33:08,997 --> 00:33:11,456
+Hola, ¿qué tal?
+
+617
+00:33:11,456 --> 00:33:12,956
+¿Qué tal el viaje?
+
+618
+00:33:28,539 --> 00:33:31,622
+Tu hija no aparece. Seguimos buscándola.
+El país es muy grande...
+
+619
+00:33:32,206 --> 00:33:34,831
+¿Hola? Somos dos. ¿Quién es...?
+
+620
+00:33:34,831 --> 00:33:37,706
+Haré que te decapiten
+apenas llegue mi ejército.
+
+621
+00:33:37,706 --> 00:33:39,872
+Sí, ya me acuerdo. Decapitar.
+
+622
+00:33:39,872 --> 00:33:42,122
+Es el señor al que le encanta decapitar.
+
+623
+00:33:42,122 --> 00:33:43,206
+A ti también.
+
+624
+00:33:43,789 --> 00:33:46,497
+No, yo no tengo nada que ver con esto...
+
+625
+00:33:46,497 --> 00:33:47,872
+Tengo algo para ustedes.
+
+626
+00:33:52,872 --> 00:33:54,081
+Día uno.
+
+627
+00:33:54,747 --> 00:33:57,706
+Al terminar el ábaco,
+si la princesa no se entrega,
+
+628
+00:33:59,456 --> 00:34:00,789
+los dos...
+
+629
+00:34:03,081 --> 00:34:04,206
+Tenemos dos vidas,
+
+630
+00:34:04,206 --> 00:34:07,331
+y la segunda empieza
+al descubrir que solo tenemos una.
+
+631
+00:34:08,997 --> 00:34:09,956
+Te lo agradezco.
+
+632
+00:34:13,747 --> 00:34:15,706
+¡Eso sí que es una emperatriz!
+
+633
+00:34:16,289 --> 00:34:17,164
+¡Me encanta!
+
+634
+00:34:17,164 --> 00:34:19,872
+Tenemos dos vidas, y termina...
+
+635
+00:34:19,872 --> 00:34:22,247
+cuando empieza la segunda.
+
+636
+00:34:23,164 --> 00:34:26,747
+Tenemos dos vidas, y cuando empieza...
+
+637
+00:34:27,331 --> 00:34:28,539
+Te lo agradezco.
+
+638
+00:34:35,164 --> 00:34:36,164
+<i>Mientras tanto,</i>
+
+639
+00:34:36,164 --> 00:34:39,122
+<i>César, su enorme ejército y Cha Fa</i>
+
+640
+00:34:39,122 --> 00:34:42,789
+<i>tomaron la Ruta de la Seda
+a toda velocidad hacia China.</i>
+
+641
+00:34:42,789 --> 00:34:43,956
+<i>Bueno, casi...</i>
+
+642
+00:34:45,539 --> 00:34:46,789
+¿Es la Ruta de la Seda?
+
+643
+00:34:46,789 --> 00:34:49,206
+Estamos perdidos, ¿no? Admítalo.
+
+644
+00:34:49,831 --> 00:34:51,914
+Versus, ¿cuál es el camino?
+
+645
+00:34:51,914 --> 00:34:54,706
+Al menos 9000 hombres se dirigen al norte.
+
+646
+00:34:54,706 --> 00:34:56,372
+¡No puedo trabajar así!
+
+647
+00:34:56,372 --> 00:34:57,831
+¡Es imposible!
+
+648
+00:34:58,622 --> 00:35:00,456
+"Alístate", decían.
+
+649
+00:35:04,664 --> 00:35:06,831
+Versus, elige. ¿Izquierda o derecha?
+
+650
+00:35:06,831 --> 00:35:08,914
+Es fácil, César. Izquierda.
+
+651
+00:35:08,914 --> 00:35:10,331
+Bien, por la derecha.
+
+652
+00:35:10,831 --> 00:35:13,831
+Perdón, ¿cuánto más va a durar esto?
+
+653
+00:35:13,831 --> 00:35:16,497
+A este paso, llegamos a China
+cuando las vacas vuelen.
+
+654
+00:35:17,081 --> 00:35:17,956
+¿Quién se cree?
+
+655
+00:35:17,956 --> 00:35:19,747
+Ave, Blindadus, seguridad.
+
+656
+00:35:20,331 --> 00:35:22,206
+Blindadus, seguridad del César.
+
+657
+00:35:22,789 --> 00:35:24,497
+Blindadus, seguridad del César.
+
+658
+00:35:24,497 --> 00:35:27,872
+Sí, ya te conocen todos.
+¿Qué haces aquí? ¿Dónde está Antivirus?
+
+659
+00:35:28,456 --> 00:35:32,039
+De campaña en Milán.
+Le envié varias palomas, pero no las lee.
+
+660
+00:35:33,706 --> 00:35:34,956
+Pero yo estoy aquí.
+
+661
+00:35:35,872 --> 00:35:38,706
+- No es lo mismo.
+- No, no es para nada lo mismo.
+
+662
+00:35:38,706 --> 00:35:39,956
+¿Qué quieres?
+
+663
+00:35:40,456 --> 00:35:44,122
+Poderoso César, Carioca,
+jefa de tus bailarinas, pide audiencia.
+
+664
+00:35:44,122 --> 00:35:46,831
+Algo de reivindicaciones, respeto... No sé...
+
+665
+00:35:46,831 --> 00:35:47,831
+¿Le pego?
+
+666
+00:35:48,539 --> 00:35:49,456
+¿Estás loco?
+
+667
+00:35:50,122 --> 00:35:51,164
+Haz que pase.
+
+668
+00:35:54,622 --> 00:35:55,456
+¡Tapioca!
+
+669
+00:36:01,956 --> 00:36:04,081
+Bien, Carioca, ¿qué deseas?
+
+670
+00:36:04,081 --> 00:36:08,039
+Oh, César, recibimos
+las nuevas túnicas, ¿y cómo son?
+
+671
+00:36:08,039 --> 00:36:10,206
+Cada vez más cortas, ¡qué casualidad!
+
+672
+00:36:11,706 --> 00:36:14,956
+Si quería tabernas de alterne,
+quédese en Roma, que hay muchas.
+
+673
+00:36:15,581 --> 00:36:16,997
+No sé, no conozco ninguna.
+
+674
+00:36:16,997 --> 00:36:21,539
+Sí, el Palladium, detrás del mercado.
+Frente al circo, Sternum, y bajo, Scrotum.
+
+675
+00:36:21,539 --> 00:36:22,581
+Bueno...
+
+676
+00:36:23,747 --> 00:36:26,956
+A ver, Carioca, ¿qué quieres?
+¿Túnicas más largas?
+
+677
+00:36:26,956 --> 00:36:28,039
+Para empezar.
+
+678
+00:36:28,039 --> 00:36:32,331
+Y luego deberíamos reflexionar sobre
+el rol de la mujer en la sociedad romana.
+
+679
+00:36:32,331 --> 00:36:35,497
+Porque si observamos bien,
+solo cuentan los hombres.
+
+680
+00:36:35,497 --> 00:36:37,331
+¿Gladiadores? ¡Hombres!
+
+681
+00:36:37,331 --> 00:36:38,789
+¿Senadores? ¡Hombres!
+
+682
+00:36:38,789 --> 00:36:40,331
+¿Legionarios? ¡Hombres!
+
+683
+00:36:40,331 --> 00:36:41,414
+¿Los césares?
+
+684
+00:36:41,414 --> 00:36:42,372
+Son hombres...
+
+685
+00:36:42,372 --> 00:36:44,122
+¿Reclamas un césar mujer?
+
+686
+00:36:47,956 --> 00:36:49,706
+¿Que una mujer dirija Roma?
+
+687
+00:36:52,081 --> 00:36:53,081
+Ya veo.
+
+688
+00:37:01,414 --> 00:37:03,289
+<i>Y aquí están nuestros amigos,</i>
+
+689
+00:37:03,289 --> 00:37:08,247
+<i>que tras haber cruzado el desierto egipcio
+bajo un calor sofocante,</i>
+
+690
+00:37:08,247 --> 00:37:12,122
+<i>llegan por fin a orillas del mar Rojo,
+a la ciudad de Klysma,</i>
+
+691
+00:37:12,122 --> 00:37:16,164
+<i>un pequeño puerto de Egipto
+que más tarde se llamará Suez.</i>
+
+692
+00:37:16,164 --> 00:37:17,664
+<i>Sí, como el canal...</i>
+
+693
+00:37:23,747 --> 00:37:27,372
+Si buscamos un capitán,
+les aseguro que lo encontraremos aquí.
+
+694
+00:37:28,039 --> 00:37:30,831
+Astérix, mira el nombre:
+"La pequeña Lutecia".
+
+695
+00:37:30,831 --> 00:37:37,747
+<i>Ose venir la primera a tirarme la piedra.</i>
+
+696
+00:37:40,581 --> 00:37:43,122
+<i>Estar perdidamente enamorado</i>
+
+697
+00:37:43,122 --> 00:37:44,997
+<i>es el peor de los males,</i>
+
+698
+00:37:44,997 --> 00:37:49,247
+<i>pero es conocer el verdadero amor.</i>
+
+699
+00:37:51,747 --> 00:37:54,956
+<i>Creo que hay que perdonar</i>
+
+700
+00:37:55,622 --> 00:37:58,497
+<i>cuando una mujer se entrega</i>...
+
+701
+00:38:00,414 --> 00:38:02,831
+- No te la sabes.
+- Me la sé muy bien.
+
+702
+00:38:02,831 --> 00:38:05,539
+...<i>al hombre que ama.</i>
+
+703
+00:38:06,039 --> 00:38:07,706
+- Me encanta.
+- ¡Bravo!
+
+704
+00:38:11,914 --> 00:38:13,622
+¿Ha visto? Eso es la Galia.
+
+705
+00:38:13,622 --> 00:38:15,122
+Me encanta este lugar.
+
+706
+00:38:15,122 --> 00:38:17,706
+Es exactamente como me imaginaba Lutecia.
+
+707
+00:38:19,497 --> 00:38:20,539
+Yo también.
+
+708
+00:38:25,581 --> 00:38:27,914
+¡Qué rico! Usted es gala, ¿verdad?
+
+709
+00:38:27,914 --> 00:38:30,206
+Sí, querido, de pura cepa.
+
+710
+00:38:30,206 --> 00:38:33,081
+- ¿Lleva aquí mucho tiempo?
+- Sí, un montón.
+
+711
+00:38:33,081 --> 00:38:35,289
+Tenía una tabernita en Lutecia.
+
+712
+00:38:35,289 --> 00:38:39,122
+Me iba bien, siempre estaba llena,
+pero me enamoré de un tipo,
+
+713
+00:38:39,122 --> 00:38:43,497
+un granuja que quería aprovecharse de mí,
+y, además, quitarme todo.
+
+714
+00:38:44,289 --> 00:38:46,956
+¿Y quién tomó el dinero y se vino aquí?
+
+715
+00:38:46,956 --> 00:38:49,331
+¡La Chela! ¡Sí!
+
+716
+00:38:50,247 --> 00:38:51,956
+¿Y qué los trae por aquí?
+
+717
+00:38:51,956 --> 00:38:54,372
+Buscamos al mejor capitán de la zona.
+
+718
+00:38:55,372 --> 00:38:56,581
+¡Ese, Titánix!
+
+719
+00:38:58,664 --> 00:38:59,914
+¿Es de fiar?
+
+720
+00:38:59,914 --> 00:39:02,831
+Titánix es un experto.
+Con él, no naufragarán.
+
+721
+00:39:03,831 --> 00:39:06,497
+- Gracias por su ayuda.
+- De nada.
+
+722
+00:39:07,497 --> 00:39:10,997
+Normalmente, los chuchos no entran.
+Pero tú eres muy bonito.
+
+723
+00:39:17,247 --> 00:39:19,622
+Buscamos un barco para ir a China.
+
+724
+00:39:19,622 --> 00:39:22,456
+¿A China por mar?
+Qué pereza, está muy lejos.
+
+725
+00:39:23,247 --> 00:39:26,622
+Les propongo una visita
+a las calas de Klysma,
+
+726
+00:39:26,622 --> 00:39:30,039
+unas brochetas,
+un chapuzón, los atardeceres.
+
+727
+00:39:30,622 --> 00:39:31,789
+No está mal.
+
+728
+00:39:33,122 --> 00:39:34,872
+No, para luego...
+
+729
+00:39:34,872 --> 00:39:37,206
+Esta piedra vale más que su barco.
+
+730
+00:39:38,206 --> 00:39:39,747
+¿Cómo no empezó por ahí?
+
+731
+00:39:40,247 --> 00:39:41,164
+Entonces...
+
+732
+00:39:41,164 --> 00:39:44,456
+¿Qué se creen?
+¿Que vine aquí para que me roben?
+
+733
+00:39:44,456 --> 00:39:46,914
+¡Fuera, antes de que les dé una paliza!
+
+734
+00:39:47,456 --> 00:39:49,581
+Si Chela se enoja, se pone feo.
+
+735
+00:39:49,581 --> 00:39:50,789
+¿Algún problema?
+
+736
+00:39:50,789 --> 00:39:53,456
+Estos caballeros vinieron a robarme.
+
+737
+00:39:53,456 --> 00:39:57,372
+Les voy a dar de su medicina.
+¡Van a ver quién es Chela!
+
+738
+00:39:58,706 --> 00:40:01,039
+Son poca cosa
+como para molestar a una gala.
+
+739
+00:40:01,039 --> 00:40:02,747
+¿Qué quieren con la dama?
+
+740
+00:40:04,206 --> 00:40:05,206
+Poca cosa serás tú.
+
+741
+00:40:10,539 --> 00:40:11,622
+¡Está loco!
+
+742
+00:40:11,622 --> 00:40:15,206
+En la Galia, cuando tipos de 130 kilos
+dicen ciertas cosas...
+
+743
+00:40:16,456 --> 00:40:18,997
+los que pesamos 60 no los escuchamos.
+
+744
+00:40:46,581 --> 00:40:47,581
+¡Es un lagarto!
+
+745
+00:40:47,581 --> 00:40:48,747
+¡Dios mío!
+
+746
+00:40:55,789 --> 00:40:57,164
+¿Qué es esto?
+
+747
+00:41:07,372 --> 00:41:09,581
+¡Está fortísima!
+
+748
+00:41:09,581 --> 00:41:10,747
+Se le fue la mano.
+
+749
+00:41:11,622 --> 00:41:13,706
+¿Puedo probar? No le diremos a nadie.
+
+750
+00:41:13,706 --> 00:41:14,747
+¡Claro que no!
+
+751
+00:41:18,622 --> 00:41:20,331
+Te dejo uno. ¿Cuál quieres?
+
+752
+00:41:20,914 --> 00:41:22,331
+El más grande...
+
+753
+00:41:25,456 --> 00:41:26,456
+Caballeros...
+
+754
+00:41:35,872 --> 00:41:39,706
+Yo no puedo beber porque me caí
+en la marmita cuando era pequeño.
+
+755
+00:41:39,706 --> 00:41:41,247
+Así que te dolerá menos.
+
+756
+00:42:00,206 --> 00:42:03,539
+Imagínate, un ánfora
+con dos alitas pintadas.
+
+757
+00:42:03,539 --> 00:42:07,497
+Echamos un poco de poción mágica,
+lo necesario para dar energía,
+
+758
+00:42:07,497 --> 00:42:10,247
+y la vendemos como bebida energizante...
+
+759
+00:42:10,247 --> 00:42:13,039
+No tengo el nombre,
+pero ya se me ocurrirá.
+
+760
+00:42:13,039 --> 00:42:17,914
+En Roma hay muchas orgías
+y los jóvenes bailan hasta tarde.
+
+761
+00:42:17,914 --> 00:42:19,081
+Nos haremos ricos.
+
+762
+00:42:19,081 --> 00:42:22,039
+Cuenta conmigo para el transporte.
+
+763
+00:42:22,997 --> 00:42:24,039
+¿Qué hacen?
+
+764
+00:42:24,039 --> 00:42:25,789
+Es taichí,
+
+765
+00:42:25,789 --> 00:42:28,789
+una técnica ancestral china
+para recargar energía.
+
+766
+00:42:29,747 --> 00:42:31,747
+Qué casualidad conocernos ahora.
+
+767
+00:42:31,747 --> 00:42:35,122
+Di un giro en mi vida
+y encaja perfectamente con su cultura:
+
+768
+00:42:35,706 --> 00:42:38,622
+equilibrio, alimentación,
+las energías y todo eso.
+
+769
+00:42:39,747 --> 00:42:41,164
+Estamos muy conectados.
+
+770
+00:42:47,039 --> 00:42:48,831
+- ¿Ya está?
+- Ahora meditamos.
+
+771
+00:42:48,831 --> 00:42:49,747
+¡Genial!
+
+772
+00:42:49,747 --> 00:42:51,206
+Sin hablar.
+
+773
+00:42:56,789 --> 00:42:58,122
+Qué moneda más bonita.
+
+774
+00:43:00,872 --> 00:43:02,039
+¿Es usted?
+
+775
+00:43:02,539 --> 00:43:05,081
+Sí, es un regalo de mi madre.
+
+776
+00:43:06,206 --> 00:43:07,289
+Debe quererla mucho.
+
+777
+00:43:10,664 --> 00:43:11,997
+Cuando me la regaló,
+
+778
+00:43:12,831 --> 00:43:13,789
+ni sonreí.
+
+779
+00:43:14,872 --> 00:43:16,747
+No se preocupe, princesa.
+
+780
+00:43:16,747 --> 00:43:18,539
+Voy a rescatar a su madre.
+
+781
+00:43:19,706 --> 00:43:20,539
+Estoy aquí.
+
+782
+00:43:21,872 --> 00:43:23,331
+A ver, corrijamos eso...
+
+783
+00:43:23,331 --> 00:43:24,872
+Estamos aquí para usted.
+
+784
+00:43:24,872 --> 00:43:28,539
+Y algunos ya estábamos
+desde el principio de la aventura.
+
+785
+00:43:29,497 --> 00:43:30,872
+Perdón, disculpen.
+
+786
+00:43:30,872 --> 00:43:32,081
+Princesa...
+
+787
+00:43:37,997 --> 00:43:39,164
+¿Qué hace?
+
+788
+00:43:39,164 --> 00:43:40,956
+No, puso dos bolitas.
+
+789
+00:43:40,956 --> 00:43:42,789
+Quite una. Sí, puso dos.
+
+790
+00:43:42,789 --> 00:43:47,122
+Quite una. Y no me rompa las bolitas.
+Eso me suma días de cárcel.
+
+791
+00:43:48,664 --> 00:43:50,706
+Por cierto, ¿pensó...
+
+792
+00:43:52,081 --> 00:43:52,997
+mi oferta?
+
+793
+00:43:55,914 --> 00:43:57,497
+No será fácil negociar.
+
+794
+00:43:57,997 --> 00:44:00,831
+Aunque estoy acostumbrado
+a las negociaciones difíciles.
+
+795
+00:44:00,831 --> 00:44:02,622
+- Espigademaíz.
+- ¿Sí?
+
+796
+00:44:02,622 --> 00:44:04,789
+Si algún día salimos de aquí,
+
+797
+00:44:04,789 --> 00:44:07,289
+¿le gustaría seguir comerciando en China?
+
+798
+00:44:07,789 --> 00:44:09,497
+- Sí...
+- Entonces, cállese.
+
+799
+00:44:11,664 --> 00:44:13,914
+Nos encerraron juntos para torturarme.
+
+800
+00:44:14,539 --> 00:44:15,831
+No exagere...
+
+801
+00:44:16,997 --> 00:44:18,331
+Tal vez sea...
+
+802
+00:44:19,081 --> 00:44:20,414
+cosa del destino...
+
+803
+00:44:21,122 --> 00:44:22,914
+El <i>Mektoub</i>, como dicen en mí país.
+
+804
+00:44:24,164 --> 00:44:26,581
+¿Sabe que está preciosa cuando se enoja?
+
+805
+00:44:45,414 --> 00:44:46,289
+¡Caballeros!
+
+806
+00:44:46,289 --> 00:44:49,122
+En el mar Rojo, se acabaron los disgustos.
+
+807
+00:44:49,122 --> 00:44:51,622
+Aquí, ¿quiénes son los depredadores?
+
+808
+00:44:51,622 --> 00:44:53,372
+- ¡Nosotros!
+- ¡Eso es!
+
+809
+00:44:54,914 --> 00:44:57,164
+¡Barco a la vista!
+
+810
+00:44:58,372 --> 00:44:59,372
+¡Gracias, vigía!
+
+811
+00:44:59,372 --> 00:45:00,997
+- ¡Es mi trabajo!
+- ¡Vamos!
+
+812
+00:45:00,997 --> 00:45:03,497
+Ese barco no se nos escapará.
+
+813
+00:45:03,497 --> 00:45:04,789
+¡Hoy seremos ricos!
+
+814
+00:45:16,831 --> 00:45:17,706
+Los ga...
+
+815
+00:45:19,997 --> 00:45:20,831
+¿Los galos?
+
+816
+00:45:20,831 --> 00:45:23,247
+¡Los galos!
+
+817
+00:45:25,997 --> 00:45:27,081
+¡Hola!
+
+818
+00:45:27,581 --> 00:45:29,164
+¡Hola, amigos!
+
+819
+00:45:30,372 --> 00:45:32,206
+¡No!
+
+820
+00:45:33,331 --> 00:45:34,497
+¡Los galos no!
+
+821
+00:45:34,497 --> 00:45:35,831
+¿Por qué a nosotros?
+
+822
+00:45:36,997 --> 00:45:38,289
+¿No hay más barcos?
+
+823
+00:45:39,164 --> 00:45:41,622
+¿Hacen como si no nos hubieran visto?
+
+824
+00:45:41,622 --> 00:45:43,206
+Pero los vimos, así que...
+
+825
+00:45:43,789 --> 00:45:45,164
+Tienen razón.
+
+826
+00:45:45,706 --> 00:45:46,747
+¡Las defensas!
+
+827
+00:45:46,747 --> 00:45:47,914
+¡Vamos!
+
+828
+00:45:52,872 --> 00:45:54,706
+Estaba recién pintado...
+
+829
+00:45:54,706 --> 00:45:56,122
+¡Tengan cuidado!
+
+830
+00:46:00,914 --> 00:46:02,706
+¿Qué? No creas que me gusta...
+
+831
+00:46:03,872 --> 00:46:04,956
+No, espere.
+
+832
+00:46:05,914 --> 00:46:07,997
+Les mostraré cómo peleamos en China.
+
+833
+00:46:25,789 --> 00:46:27,039
+¿Qué hacemos?
+
+834
+00:46:28,456 --> 00:46:29,664
+Yo no lo siento.
+
+835
+00:46:29,664 --> 00:46:31,622
+Pelearemos igual. ¡Al ataque!
+
+836
+00:46:35,414 --> 00:46:36,664
+¡No! ¡Vamos, ataquen!
+
+837
+00:46:36,664 --> 00:46:38,331
+Michel, vamos.
+
+838
+00:46:38,331 --> 00:46:39,997
+Michel, no.
+
+839
+00:46:52,622 --> 00:46:54,081
+Se ve que eso duele.
+
+840
+00:47:02,372 --> 00:47:03,664
+¿Cuántos pies tiene?
+
+841
+00:47:05,039 --> 00:47:06,539
+Déjenme pasar para atrás.
+
+842
+00:47:10,039 --> 00:47:11,331
+Lo siento, capitán.
+
+843
+00:47:11,331 --> 00:47:12,664
+¿A dónde vas?
+
+844
+00:47:12,664 --> 00:47:14,331
+Abandono como un cobarde.
+
+845
+00:47:15,664 --> 00:47:17,164
+¡Cuidado, atrás de usted!
+
+846
+00:47:21,581 --> 00:47:23,372
+¡Oye, cálmate! ¡Está loca!
+
+847
+00:48:03,956 --> 00:48:05,164
+Camaradas,
+
+848
+00:48:05,164 --> 00:48:07,414
+la versión oficial de este naufragio
+
+849
+00:48:07,414 --> 00:48:09,581
+es que nos hundió un tornado chino.
+
+850
+00:48:19,539 --> 00:48:20,539
+¿Puedo?
+
+851
+00:48:21,122 --> 00:48:22,039
+Sí.
+
+852
+00:48:25,581 --> 00:48:26,914
+Qué bonito.
+
+853
+00:48:28,456 --> 00:48:29,747
+Quería decirle
+
+854
+00:48:30,331 --> 00:48:31,956
+que pelea superbién.
+
+855
+00:48:32,872 --> 00:48:33,747
+Gracias.
+
+856
+00:48:35,039 --> 00:48:37,372
+¿Y usted nunca toma la poción?
+
+857
+00:48:37,372 --> 00:48:38,622
+No, no me dejan.
+
+858
+00:48:40,497 --> 00:48:43,247
+Dicen que una dosis más
+y puede ser peligroso.
+
+859
+00:48:45,997 --> 00:48:49,289
+Aunque me encantaría volver a sentir
+una vez más ese efecto...
+
+860
+00:49:38,497 --> 00:49:39,331
+¿Obélix?
+
+861
+00:49:41,914 --> 00:49:42,997
+¡Mamá!
+
+862
+00:49:48,414 --> 00:49:51,914
+Es una sensación extraordinaria.
+Chispas en todo el cuerpo.
+
+863
+00:49:51,914 --> 00:49:52,872
+Es como...
+
+864
+00:49:52,872 --> 00:49:54,581
+cuando te enamoras.
+
+865
+00:50:21,414 --> 00:50:24,206
+<i>Después de haber encontrado
+por fin el camino,</i>
+
+866
+00:50:24,206 --> 00:50:26,456
+<i>César y su poderoso ejército</i>
+
+867
+00:50:26,456 --> 00:50:29,872
+<i>atravesaron Persia,
+las montañas de la India,</i>
+
+868
+00:50:29,872 --> 00:50:31,664
+<i>las estepas mongolas</i>
+
+869
+00:50:31,664 --> 00:50:34,372
+<i>y finalmente llegaron
+a las puertas de China</i>,
+
+870
+00:50:34,372 --> 00:50:36,539
+<i>donde el terrible Dan Sin Qin</i>
+
+871
+00:50:36,539 --> 00:50:40,872
+<i>da los últimos toques a su maléfico plan
+para conquistar los seis reinos.</i>
+
+872
+00:50:47,706 --> 00:50:48,622
+¡Ave!
+
+873
+00:50:49,122 --> 00:50:50,122
+¿Es aquí la guerra?
+
+874
+00:50:50,122 --> 00:50:53,414
+Príncipe Dan Sin Qin, le presento a...
+
+875
+00:50:53,414 --> 00:50:55,081
+Julio César. En persona.
+
+876
+00:50:55,081 --> 00:50:58,664
+Sí, impresiono, pero calma.
+Respiren y todo estará bien.
+
+877
+00:50:58,664 --> 00:51:02,247
+¿Y tus rebeldes?
+Al parecer te cuesta controlarlos.
+
+878
+00:51:02,247 --> 00:51:06,039
+La guerra es un oficio. Hiciste bien
+en llamar a profesionales.
+
+879
+00:51:07,539 --> 00:51:09,289
+¿No es un poco complicado?
+
+880
+00:51:09,289 --> 00:51:11,622
+No, sigo los consejos de Sun Tzu,
+
+881
+00:51:11,622 --> 00:51:13,706
+el gran estratega chino.
+
+882
+00:51:13,706 --> 00:51:15,247
+Escribió <i>El arte de la guerra</i>.
+
+883
+00:51:15,914 --> 00:51:17,164
+Me suena a chino.
+
+884
+00:51:18,831 --> 00:51:22,789
+Muchachos, abran bien los ojos
+porque esto lo haremos rápido.
+
+885
+00:51:23,372 --> 00:51:24,206
+Vamos.
+
+886
+00:51:24,206 --> 00:51:26,164
+{\an8}- Si quieres paz...
+- ¡Prepara la guerra!
+
+887
+00:51:26,164 --> 00:51:27,164
+{\an8}Exacto.
+
+888
+00:51:28,456 --> 00:51:29,622
+Es insoportable.
+
+889
+00:51:29,622 --> 00:51:34,122
+Está loco y es superpretencioso.
+Del primer decanato de cáncer, los peores.
+
+890
+00:51:34,706 --> 00:51:37,497
+No lo imaginaba.
+Me voy a dormir, tengo <i>jet lag</i>.
+
+891
+00:51:41,622 --> 00:51:43,289
+Biopix, nuevo capítulo.
+
+892
+00:51:43,289 --> 00:51:46,081
+Después de <i>César</i>, <i>el seductor</i>,
+
+893
+00:51:46,581 --> 00:51:47,997
+<i>César, el estratega.</i>
+
+894
+00:51:47,997 --> 00:51:50,622
+Espera, cambio de rollo y te sigo.
+
+895
+00:51:50,622 --> 00:51:52,372
+- ¡Casco!
+- ¡Galopus!
+
+896
+00:52:03,997 --> 00:52:04,997
+¡Espada!
+
+897
+00:52:08,539 --> 00:52:09,456
+¿Qué es esto?
+
+898
+00:52:09,456 --> 00:52:12,414
+- Como la última vez te lastimaste...
+- Bueno...
+
+899
+00:52:13,372 --> 00:52:14,997
+¿Hay noticias de Antivirus?
+
+900
+00:52:14,997 --> 00:52:18,414
+- Está aquí, está listo, poderoso César.
+- Bien, vamos.
+
+901
+00:52:23,456 --> 00:52:24,372
+¡Todos juntos!
+
+902
+00:52:24,372 --> 00:52:27,914
+<i>¡Anti... Antivirus!</i>
+
+903
+00:52:27,914 --> 00:52:29,164
+La piel de gallina.
+
+904
+00:52:29,164 --> 00:52:30,497
+Yo igual.
+
+905
+00:53:22,372 --> 00:53:24,039
+{\an8}MAR DE CHINA
+
+906
+00:53:49,997 --> 00:53:51,289
+¡Antivirus, te quiero!
+
+907
+00:54:04,372 --> 00:54:07,497
+Antivirus, pierdes los nervios rápido.
+
+908
+00:54:07,497 --> 00:54:09,414
+No empujes así. Duele.
+
+909
+00:54:09,414 --> 00:54:11,456
+Querían a Antivirus,
+
+910
+00:54:11,456 --> 00:54:13,372
+les di a Antivirus.
+
+911
+00:54:13,372 --> 00:54:16,622
+Vuelvan a las carreras de cuadrigas.
+
+912
+00:54:18,372 --> 00:54:21,039
+¿Por qué hablar cuando puedes volar?
+
+913
+00:54:45,831 --> 00:54:47,414
+¡Ha sido pan comido!
+
+914
+00:54:49,914 --> 00:54:53,289
+En unos días,
+seré el amo y señor de China.
+
+915
+00:54:54,039 --> 00:54:58,247
+Desearía estar en su lugar y sentir
+por primera vez el poder romano.
+
+916
+00:54:58,831 --> 00:55:01,122
+<i>Veni, vidi, vici.</i>
+
+917
+00:55:02,081 --> 00:55:04,372
+Ay, César, qué placer.
+
+918
+00:55:04,372 --> 00:55:06,331
+Anoto todo sin cambiar nada.
+
+919
+00:55:06,331 --> 00:55:07,289
+Qué incómodo...
+
+920
+00:55:07,289 --> 00:55:08,914
+- ¿Vamos a comer así?
+- Sí.
+
+921
+00:55:08,914 --> 00:55:10,747
+- ¿No hay sillas?
+- No.
+
+922
+00:55:11,914 --> 00:55:13,747
+¿Y Antivirus? ¿No está aquí?
+
+923
+00:55:13,747 --> 00:55:15,122
+Está durmiendo.
+
+924
+00:55:15,122 --> 00:55:16,122
+¿Durmiendo?
+
+925
+00:55:16,122 --> 00:55:17,289
+Pero yo estoy aquí.
+
+926
+00:55:17,289 --> 00:55:19,664
+- No es lo mismo.
+- No, no es lo mismo.
+
+927
+00:55:19,664 --> 00:55:21,331
+Oh, César,
+
+928
+00:55:21,331 --> 00:55:23,956
+te queda un último reino por conquistar.
+
+929
+00:55:23,956 --> 00:55:25,039
+El más difícil.
+
+930
+00:55:26,206 --> 00:55:30,122
+Nuestras victorias causan revuelo
+y los Deng tienen fama de tercos.
+
+931
+00:55:30,122 --> 00:55:32,956
+Muy bien, ya veremos quién es más terco.
+
+932
+00:55:35,081 --> 00:55:38,081
+No me hace gracia.
+El padre Pa Deng murió este invierno.
+
+933
+00:55:38,872 --> 00:55:41,664
+Dejó un heredero.
+Su hijo Deng, de 20 años.
+
+934
+00:55:41,664 --> 00:55:44,539
+Se oculta tras una máscara
+por una terrible malformación.
+
+935
+00:55:44,539 --> 00:55:46,289
+El hombre de la máscara de bambú.
+
+936
+00:55:46,789 --> 00:55:49,539
+Un fallecido
+y pronto una paliza del César.
+
+937
+00:55:49,539 --> 00:55:51,247
+No es el año de los Deng.
+
+938
+00:55:52,414 --> 00:55:53,539
+Por cierto...
+
+939
+00:55:54,914 --> 00:55:56,539
+¿Tú no eres un Deng?
+
+940
+00:55:57,122 --> 00:55:59,539
+No, yo soy un Qin y me llamo Dan.
+
+941
+00:55:59,539 --> 00:56:00,539
+Sí, pero...
+
+942
+00:56:03,539 --> 00:56:05,039
+Eres como ellos, ¿no?
+
+943
+00:56:11,414 --> 00:56:16,164
+No entiendo por qué me pediste ayuda
+para que te echen de tu propio reino.
+
+944
+00:56:16,164 --> 00:56:18,206
+¿Qué ganas a cambio,
+
+945
+00:56:18,206 --> 00:56:20,497
+Dan Sin Qin?
+
+946
+00:56:21,622 --> 00:56:25,914
+¿No pensarás hacerme una cesárea
+y echarme cuando conquistes los reinos?
+
+947
+00:56:25,914 --> 00:56:27,122
+Claro que no.
+
+948
+00:56:27,706 --> 00:56:29,039
+Nunca haría algo así.
+
+949
+00:56:29,039 --> 00:56:30,372
+¿En serio?
+
+950
+00:56:31,914 --> 00:56:32,789
+Porque yo sí.
+
+951
+00:56:33,664 --> 00:56:35,122
+¡Y no me importaría!
+
+952
+00:56:36,581 --> 00:56:37,581
+¡Qué bueno!
+
+953
+00:56:39,581 --> 00:56:41,372
+Dime, oh, César,
+
+954
+00:56:41,997 --> 00:56:45,747
+¿sabías que la gran reina Cleopatra
+es muy respetada en China?
+
+955
+00:56:46,456 --> 00:56:47,456
+Sí, es verdad.
+
+956
+00:56:47,456 --> 00:56:50,831
+Ayudó mucho en la defensa
+y conservación de los pandas...
+
+957
+00:56:51,372 --> 00:56:53,581
+¿Cómo es en realidad? ¿Es simpática?
+
+958
+00:57:08,622 --> 00:57:10,247
+Por fin vuelvo a mi país.
+
+959
+00:57:11,581 --> 00:57:14,414
+¿Sienten el aroma a bambú,
+eucaliptus y jengibre?
+
+960
+00:57:15,831 --> 00:57:17,997
+No se moleste, no saben lo que es.
+
+961
+00:57:17,997 --> 00:57:19,581
+Pero yo sí...
+
+962
+00:57:20,789 --> 00:57:21,914
+¡Qué aroma dulce!
+
+963
+00:57:22,497 --> 00:57:25,622
+Titánix, ¿piensas volver directo a Egipto?
+
+964
+00:57:25,622 --> 00:57:30,081
+No, seguiré hasta el principio
+y demostraré que la Tierra es redonda.
+
+965
+00:57:59,331 --> 00:58:02,331
+¿No le dije
+que volveríamos a su país, princesa?
+
+966
+00:58:08,164 --> 00:58:10,872
+For Tac Hon,
+¿cómo encontraremos a tu maestro?
+
+967
+00:58:10,872 --> 00:58:12,247
+Él nos encontrará.
+
+968
+00:58:30,539 --> 00:58:32,539
+- ¿Qué decía ese mensaje?
+- Nada.
+
+969
+00:58:33,747 --> 00:58:35,164
+¿El calvo es amigo tuyo?
+
+970
+00:58:36,539 --> 00:58:38,664
+¿Por qué no me lo dices si no es nada?
+
+971
+00:58:40,497 --> 00:58:44,289
+Mi maestro Car Ca Cha nos espera
+esta noche en la posada donde dormiremos.
+
+972
+00:58:45,372 --> 00:58:47,747
+¿Y por qué tanto misterio?
+
+973
+00:58:47,747 --> 00:58:49,039
+¡Ya no tengo hambre!
+
+974
+00:58:50,497 --> 00:58:51,497
+¿Qué le pasa?
+
+975
+00:58:52,122 --> 00:58:53,664
+Nunca lo había visto así.
+
+976
+00:58:55,081 --> 00:58:59,122
+Creo que es el cansancio,
+el desfase horario, el choque cultural.
+
+977
+00:58:59,122 --> 00:59:01,081
+¿Puedo serte sincero, Astérix?
+
+978
+00:59:01,664 --> 00:59:05,206
+Tú y yo no nos caemos bien.
+Te odio, y creo que es recíproco.
+
+979
+00:59:06,372 --> 00:59:10,664
+Pero la cosa está muy tensa entre los dos,
+y eso nos afecta a los demás.
+
+980
+00:59:11,289 --> 00:59:12,789
+- ¿En serio?
+- Sí.
+
+981
+00:59:13,581 --> 00:59:15,206
+Tengo algo para ustedes
+
+982
+00:59:15,206 --> 00:59:18,664
+y creo que podría venirles muy bien.
+
+983
+00:59:21,664 --> 00:59:23,581
+Obélix, tenemos que hablar.
+
+984
+00:59:24,122 --> 00:59:25,331
+Te escucho.
+
+985
+00:59:25,331 --> 00:59:29,247
+Ya sabes que entre la princesa y yo
+hay una historia muy bonita.
+
+986
+00:59:29,831 --> 00:59:31,039
+¿Ah, sí?
+
+987
+00:59:31,039 --> 00:59:32,164
+Sí.
+
+988
+00:59:33,789 --> 00:59:36,164
+Y creo que sería más fácil si...
+
+989
+00:59:36,706 --> 00:59:38,956
+se mudara con nosotros a la aldea.
+
+990
+00:59:38,956 --> 00:59:40,039
+De acuerdo.
+
+991
+00:59:41,081 --> 00:59:44,164
+Bueno, tú y yo...
+vivimos juntos desde hace tiempo.
+
+992
+00:59:45,247 --> 00:59:47,539
+Pero nunca dijimos que sería para siempre.
+
+993
+00:59:48,539 --> 00:59:51,914
+Y como en principio
+era la cabaña de mis padres...
+
+994
+00:59:52,747 --> 00:59:53,956
+Bueno...
+
+995
+00:59:56,081 --> 00:59:57,831
+¿Quieres que me vaya?
+
+996
+00:59:58,956 --> 00:59:59,914
+Sí.
+
+997
+01:00:02,706 --> 01:00:03,539
+¡Astérix!
+
+998
+01:00:04,039 --> 01:00:05,539
+¡No sabes qué alivio!
+
+999
+01:00:05,539 --> 01:00:08,706
+Yo también quería irme,
+pero no sabía cómo decírtelo.
+
+1000
+01:00:09,539 --> 01:00:10,372
+¿En serio?
+
+1001
+01:00:12,872 --> 01:00:14,414
+También estoy enamorado.
+
+1002
+01:00:15,914 --> 01:00:16,914
+¿Estás enamorado?
+
+1003
+01:00:17,914 --> 01:00:19,539
+De la bella For Tac Hon.
+
+1004
+01:00:22,706 --> 01:00:23,581
+¿For Tac Hon?
+
+1005
+01:00:24,456 --> 01:00:27,122
+¿Nuestra For Tac Hon? ¿En serio?
+
+1006
+01:00:27,706 --> 01:00:29,122
+Obélix y For Tac Hon...
+
+1007
+01:00:29,831 --> 01:00:31,247
+¿Por qué te ríes?
+
+1008
+01:00:32,081 --> 01:00:34,664
+- Estoy sorprendido.
+- ¿Porque estoy enamorado?
+
+1009
+01:00:35,289 --> 01:00:36,539
+No, pero, Obe...
+
+1010
+01:00:36,539 --> 01:00:37,997
+Obe, nada.
+
+1011
+01:00:37,997 --> 01:00:39,164
+¡Nada de Obe!
+
+1012
+01:00:40,747 --> 01:00:43,706
+¿Cuál es la gracia?
+¿No tengo derecho a enamorarme?
+
+1013
+01:00:43,706 --> 01:00:46,997
+- ¡No tengo derecho a nada!
+- ¡Basta, solo piensas en ti!
+
+1014
+01:00:46,997 --> 01:00:48,122
+¡No es así!
+
+1015
+01:00:48,122 --> 01:00:49,497
+- ¡Sí!
+- ¡No!
+
+1016
+01:00:50,081 --> 01:00:53,456
+Obélix no puede tomar la poción mágica.
+No puede enamorarse.
+
+1017
+01:00:53,456 --> 01:00:56,706
+Pobre Obélix,
+no puede tomar la poción mágica.
+
+1018
+01:00:56,706 --> 01:00:58,289
+¡Pobre Obélix!
+
+1019
+01:00:58,289 --> 01:01:03,081
+¡Ni siquiera puedo asar mis jabalíes
+en mi propia cabaña!
+
+1020
+01:01:03,081 --> 01:01:06,456
+No, no es mía,
+es de los padres de Astérix.
+
+1021
+01:01:06,456 --> 01:01:09,456
+- ¡Pues sí!
+- Solo quiere que coma verdura.
+
+1022
+01:01:09,456 --> 01:01:12,039
+¿Y por qué quiero que comamos verdura?
+
+1023
+01:01:12,039 --> 01:01:14,414
+¡Por ti! ¡Es por tu bien!
+
+1024
+01:01:14,414 --> 01:01:16,581
+¡No lo digas! ¡Ni se te ocurra!
+
+1025
+01:01:16,581 --> 01:01:18,831
+- ¡Porque estás gordo!
+- ¡No!
+
+1026
+01:01:20,372 --> 01:01:22,456
+¡Estoy rellenito!
+
+1027
+01:01:23,539 --> 01:01:26,289
+Pero yo al menos soy fuerte.
+
+1028
+01:01:26,289 --> 01:01:28,414
+¡Claro, gracias!
+
+1029
+01:01:28,414 --> 01:01:31,539
+¿Crees que es fácil para mí
+ser siempre el más débil
+
+1030
+01:01:31,539 --> 01:01:33,039
+y depender de una cantimplora?
+
+1031
+01:01:33,039 --> 01:01:34,289
+¡Te lo mereces!
+
+1032
+01:01:34,789 --> 01:01:36,081
+Ya está, ya lo dije.
+
+1033
+01:01:37,914 --> 01:01:40,456
+Agujas funcionar bien, sacar tensiones.
+
+1034
+01:01:42,081 --> 01:01:44,372
+Liberar palabras.
+
+1035
+01:01:56,456 --> 01:01:58,289
+- ¡Romanos!
+- No, Obélix.
+
+1036
+01:01:58,289 --> 01:01:59,497
+¿Y ahora qué pasa?
+
+1037
+01:01:59,497 --> 01:02:02,081
+No podemos comprometer
+la identidad de la princesa.
+
+1038
+01:02:02,956 --> 01:02:04,414
+¿Qué hace César en China?
+
+1039
+01:02:04,414 --> 01:02:07,539
+Ese traidor Dan Sin Qin
+nos vendió a los romanos.
+
+1040
+01:02:09,997 --> 01:02:11,747
+¡Atención!
+
+1041
+01:02:11,747 --> 01:02:13,247
+Pueblo de China,
+
+1042
+01:02:13,789 --> 01:02:16,206
+al príncipe Dan Sin Qin y a Julio César
+
+1043
+01:02:16,206 --> 01:02:20,164
+les complace anunciar la ejecución pública
+de la caída emperatriz.
+
+1044
+01:02:21,247 --> 01:02:24,664
+La decapitación será
+dentro de siete días al atardecer.
+
+1045
+01:02:25,872 --> 01:02:29,831
+Se ofrecerá cena wok.
+Plazas limitadas, se aconseja reservar.
+
+1046
+01:02:29,831 --> 01:02:30,872
+No me avisaron.
+
+1047
+01:02:30,872 --> 01:02:34,664
+- ¿Y el papiro? ¿No estás en el grupo?
+- ¡Nunca me meten en el grupo!
+
+1048
+01:02:34,664 --> 01:02:36,789
+¡Soy la princesa Chi Le!
+
+1049
+01:02:36,789 --> 01:02:38,997
+¡Nadie tocará a la hija del cielo!
+
+1050
+01:02:38,997 --> 01:02:41,581
+Su majestad la emperatriz, ¡mi madre!
+
+1051
+01:02:41,581 --> 01:02:43,081
+¡Atrápenla!
+
+1052
+01:02:49,747 --> 01:02:50,581
+Vamos.
+
+1053
+01:02:51,456 --> 01:02:52,331
+Allá vamos.
+
+1054
+01:02:52,331 --> 01:02:55,831
+¡El que le toque
+un solo pelo a mi futura esposa
+
+1055
+01:02:55,831 --> 01:02:58,164
+se las verá conmigo!
+
+1056
+01:02:59,539 --> 01:03:00,747
+¿Yo dije eso?
+
+1057
+01:03:07,789 --> 01:03:09,872
+Esperen, tiempo muerto, pausa.
+
+1058
+01:03:09,872 --> 01:03:11,206
+Dos segundos.
+
+1059
+01:03:11,206 --> 01:03:12,664
+¡Vuelvo enseguida!
+
+1060
+01:03:13,831 --> 01:03:15,039
+No puede ser...
+
+1061
+01:03:17,622 --> 01:03:18,622
+¿Todo bien?
+
+1062
+01:03:22,581 --> 01:03:23,539
+¿Ya está?
+
+1063
+01:03:23,539 --> 01:03:24,914
+Sí, fui al baño.
+
+1064
+01:03:24,914 --> 01:03:27,122
+- Claro.
+- Sabemos dónde estabas.
+
+1065
+01:03:38,747 --> 01:03:39,622
+¡Ven, romano!
+
+1066
+01:03:57,331 --> 01:03:58,372
+¡Escurre!
+
+1067
+01:04:21,539 --> 01:04:22,747
+Vaya...
+
+1068
+01:04:28,247 --> 01:04:31,122
+El acupuntor me recomendó
+que esté tranquilo dos días.
+
+1069
+01:04:31,122 --> 01:04:32,581
+Con lo que nos pagan...
+
+1070
+01:04:34,414 --> 01:04:35,706
+No nos vimos, ¿sí?
+
+1071
+01:04:35,706 --> 01:04:36,789
+No nos vimos.
+
+1072
+01:05:31,956 --> 01:05:34,372
+¡Oye! ¿Viste qué lejos lo mandé?
+
+1073
+01:05:34,372 --> 01:05:35,539
+¡Sí, lo vi!
+
+1074
+01:05:35,539 --> 01:05:37,581
+Eres el más fuerte, Obélix.
+
+1075
+01:05:38,414 --> 01:05:39,706
+¿Qué haces?
+
+1076
+01:05:42,706 --> 01:05:45,956
+- ¡Cuánta complicidad!
+- Vamos, no es prudente quedarnos.
+
+1077
+01:05:45,956 --> 01:05:48,122
+"Vamos, no es prudente quedarnos".
+
+1078
+01:05:49,831 --> 01:05:50,872
+¿Algún problema?
+
+1079
+01:05:50,872 --> 01:05:51,997
+No sé...
+
+1080
+01:05:52,872 --> 01:05:55,747
+- ¿La poción aún te hace efecto?
+- No sé, prueba.
+
+1081
+01:05:57,372 --> 01:05:58,414
+Hablamos luego.
+
+1082
+01:05:59,164 --> 01:06:00,372
+Cuando quieras.
+
+1083
+01:06:19,289 --> 01:06:20,456
+¡Alto!
+
+1084
+01:06:25,247 --> 01:06:27,081
+DOS CABALLOS
+
+1085
+01:06:32,372 --> 01:06:34,081
+LOS JABONES DE CLEO
+
+1086
+01:06:36,539 --> 01:06:38,331
+¿Quién silbó?
+
+1087
+01:06:49,331 --> 01:06:50,414
+Voy a la guerra.
+
+1088
+01:06:51,289 --> 01:06:53,331
+Arriesgo mi vida. Y ella, nada.
+
+1089
+01:06:53,914 --> 01:06:55,622
+Ni un mensaje, ni noticias.
+
+1090
+01:06:55,622 --> 01:06:57,622
+Ni un papiro o una paloma.
+
+1091
+01:06:57,622 --> 01:06:59,414
+¡Tienes que recuperarte!
+
+1092
+01:06:59,414 --> 01:07:02,331
+Estabas lleno de energía,
+con ansias de victoria...
+
+1093
+01:07:02,331 --> 01:07:04,706
+- Y ahora no te reconozco.
+- Tiene razón.
+
+1094
+01:07:04,706 --> 01:07:06,331
+¿Le mandaste un mensaje?
+
+1095
+01:07:06,331 --> 01:07:08,206
+¡No, nada de mensajes!
+
+1096
+01:07:08,206 --> 01:07:12,247
+Hay que ser de piedra. Sin mover.
+La dejamos marinar como un pulpo.
+
+1097
+01:07:12,247 --> 01:07:14,372
+No te metas, pastelito.
+
+1098
+01:07:14,372 --> 01:07:16,331
+¿Cómo dices, vigilante?
+
+1099
+01:07:16,331 --> 01:07:19,706
+¡Blindadus! Acuario con agua en la cabeza.
+
+1100
+01:07:19,706 --> 01:07:22,872
+¿Te crees Antivirus?
+No le llegas ni a los talones.
+
+1101
+01:07:22,872 --> 01:07:24,622
+¡Así que cállate la boca!
+
+1102
+01:07:27,164 --> 01:07:28,247
+César.
+
+1103
+01:07:28,247 --> 01:07:31,289
+¿Quién lleva la toga en casa?
+¿Quién es el jefe?
+
+1104
+01:07:31,872 --> 01:07:32,747
+Yo.
+
+1105
+01:07:33,331 --> 01:07:34,581
+¿Lo oyeron?
+
+1106
+01:07:35,164 --> 01:07:36,622
+¿Quién es el jefe?
+
+1107
+01:07:38,081 --> 01:07:39,456
+- Yo.
+- ¡Eso!
+
+1108
+01:07:39,456 --> 01:07:43,039
+Eso es, ahí está Julio César.
+¡Nuestro campeón, el número uno!
+
+1109
+01:07:44,456 --> 01:07:48,789
+Si le envías un mensaje, dile
+que recoja sus cosas ¡y vuelva a Egipto!
+
+1110
+01:07:48,789 --> 01:07:51,664
+De perfil o de frente, ¡que se largue!
+
+1111
+01:07:55,622 --> 01:07:56,914
+Tienes razón. ¡Escribe!
+
+1112
+01:08:05,664 --> 01:08:08,247
+Cleo... No. Cleopatra.
+
+1113
+01:08:08,247 --> 01:08:09,289
+Sí, eso es.
+
+1114
+01:08:09,789 --> 01:08:13,289
+Cuando vuelva a Roma,
+espero que no quede ni un sarcófago.
+
+1115
+01:08:14,247 --> 01:08:17,331
+A partir de hoy,
+sabrás quién lleva la toga en casa.
+
+1116
+01:08:17,331 --> 01:08:18,331
+Eso es.
+
+1117
+01:08:18,331 --> 01:08:21,081
+- A buen entendedor... ¡Ave, yo!
+- ¡Eso es!
+
+1118
+01:08:21,081 --> 01:08:23,872
+Eso es un César de honor, es magistral.
+
+1119
+01:08:23,872 --> 01:08:25,664
+La reina de Egipto...
+
+1120
+01:08:25,664 --> 01:08:27,581
+¡Qué sinvergüenza!
+
+1121
+01:08:28,539 --> 01:08:30,539
+<i>¿Dónde están?</i>
+
+1122
+01:08:30,539 --> 01:08:33,456
+<i>¿Los egipcios dónde están?</i>
+
+1123
+01:08:33,456 --> 01:08:35,164
+- Envíalo.
+- ¡Sí!
+
+1124
+01:08:39,206 --> 01:08:40,497
+¡Palomita!
+
+1125
+01:08:43,789 --> 01:08:45,039
+¡Un conejo!
+
+1126
+01:08:45,997 --> 01:08:47,497
+Es un conejo.
+
+1127
+01:08:47,497 --> 01:08:48,872
+¡Qué susto!
+
+1128
+01:08:48,872 --> 01:08:50,581
+¡Un mapache!
+
+1129
+01:08:54,247 --> 01:08:55,206
+¡Una cabra!
+
+1130
+01:08:56,039 --> 01:08:57,247
+Un macho.
+
+1131
+01:09:03,289 --> 01:09:04,956
+Vamos, pequeña.
+
+1132
+01:09:14,122 --> 01:09:15,289
+Es de Cleopatra.
+
+1133
+01:09:15,289 --> 01:09:16,247
+¿Ya?
+
+1134
+01:09:17,831 --> 01:09:18,706
+¡Léemelo!
+
+1135
+01:09:31,039 --> 01:09:32,164
+No entiendo nada.
+
+1136
+01:09:32,164 --> 01:09:33,539
+No entiendo.
+
+1137
+01:09:35,247 --> 01:09:36,997
+"Quiero disculparme
+
+1138
+01:09:37,664 --> 01:09:39,039
+por mi comportamiento.
+
+1139
+01:09:39,039 --> 01:09:40,414
+Fui demasiado lejos".
+
+1140
+01:09:40,414 --> 01:09:41,497
+Eso está claro.
+
+1141
+01:09:42,664 --> 01:09:46,622
+"Llevo cuatro meses sin verte
+y sueño con reencontrarme contigo.
+
+1142
+01:09:47,164 --> 01:09:49,872
+Te espero en Roma, vuelve pronto.
+
+1143
+01:09:50,706 --> 01:09:51,997
+Te quiero, Cleo".
+
+1144
+01:09:53,706 --> 01:09:56,622
+¡Paren a la paloma! ¡Hay que cancelarla!
+
+1145
+01:09:56,622 --> 01:09:58,497
+- ¡Rápido!
+- No se puede.
+
+1146
+01:09:58,497 --> 01:10:00,081
+Ya está enviada.
+
+1147
+01:10:00,081 --> 01:10:01,456
+¿Le pego?
+
+1148
+01:10:01,456 --> 01:10:02,914
+¡Todo el mundo afuera!
+
+1149
+01:10:07,664 --> 01:10:08,914
+Dije todo el mundo.
+
+1150
+01:11:26,289 --> 01:11:28,706
+¿Alguien tiene hambre? Aquí hay fruta.
+
+1151
+01:11:28,706 --> 01:11:29,997
+- ¿Qué hace?
+- ¿Qué?
+
+1152
+01:11:29,997 --> 01:11:31,372
+Son ofrendas.
+
+1153
+01:11:32,039 --> 01:11:33,664
+Perdón, no había...
+
+1154
+01:11:41,372 --> 01:11:42,372
+Nada...
+
+1155
+01:11:42,372 --> 01:11:45,831
+No se puede quedar ahí.
+Buenas noches. Suerte.
+
+1156
+01:11:46,831 --> 01:11:47,956
+Era un mendigo.
+
+1157
+01:11:52,789 --> 01:11:53,831
+Maestro Car Ca Cha.
+
+1158
+01:11:55,289 --> 01:11:56,372
+Perdón.
+
+1159
+01:11:57,331 --> 01:11:59,997
+Mil disculpas, maestro Car Ca Cha, creí...
+
+1160
+01:11:59,997 --> 01:12:03,706
+Es un ermitaño
+que ha dedicado su vida a la meditación.
+
+1161
+01:12:03,706 --> 01:12:05,581
+Hizo voto de pobreza absoluta.
+
+1162
+01:12:06,164 --> 01:12:09,414
+Felicitaciones por su juramento,
+no sé cómo lo hace.
+
+1163
+01:12:09,414 --> 01:12:10,747
+Yo no podría.
+
+1164
+01:12:10,747 --> 01:12:13,872
+Bueno, ¿me devuelve mi moneda...?
+
+1165
+01:12:13,872 --> 01:12:16,831
+Intenta recuperar tu moneda,
+
+1166
+01:12:16,831 --> 01:12:18,372
+pequeño escarabajo.
+
+1167
+01:12:22,747 --> 01:12:24,497
+Es fácil, usted es ciego.
+
+1168
+01:12:24,497 --> 01:12:26,039
+Nunca supongas
+
+1169
+01:12:26,039 --> 01:12:28,497
+que un hombre no ve porque es ciego...
+
+1170
+01:12:29,747 --> 01:12:31,456
+¿Y esa? ¿La viste venir?
+
+1171
+01:12:33,331 --> 01:12:34,831
+¡Listo!
+
+1172
+01:12:35,331 --> 01:12:36,622
+No, empezó él.
+
+1173
+01:12:36,622 --> 01:12:38,997
+Déjalo. ¡Pequeño escarabajo!
+
+1174
+01:12:39,581 --> 01:12:41,206
+No, señor, estoy aquí.
+
+1175
+01:12:41,206 --> 01:12:42,206
+Sí.
+
+1176
+01:12:42,206 --> 01:12:44,164
+Eres rápido como una cobra.
+
+1177
+01:12:44,164 --> 01:12:45,247
+Sí, Car Ca Cha.
+
+1178
+01:12:45,247 --> 01:12:47,831
+¿Podemos pasar a cosas más importantes?
+
+1179
+01:12:54,039 --> 01:12:55,581
+¡Por Tutatis!
+
+1180
+01:12:55,581 --> 01:12:59,456
+Dan Sin Qin siembra
+el terror en todo el país.
+
+1181
+01:13:00,039 --> 01:13:01,622
+No lo toques.
+
+1182
+01:13:02,581 --> 01:13:03,414
+Es tentador.
+
+1183
+01:13:03,997 --> 01:13:07,206
+Veo un viejo templo abandonado...
+
+1184
+01:13:07,789 --> 01:13:09,497
+Es el de Xuan.
+
+1185
+01:13:09,497 --> 01:13:13,289
+Su majestad la emperatriz
+está retenida como prisionera.
+
+1186
+01:13:14,539 --> 01:13:16,581
+Después de liberarla,
+
+1187
+01:13:16,581 --> 01:13:19,581
+tendrán que ir lo antes posible
+
+1188
+01:13:19,581 --> 01:13:21,414
+al palacio de los Deng
+
+1189
+01:13:21,414 --> 01:13:25,664
+antes de que el César
+se apodere del último reino.
+
+1190
+01:13:26,247 --> 01:13:30,039
+Allí conocerán al espantoso,
+
+1191
+01:13:30,039 --> 01:13:32,039
+feísimo
+
+1192
+01:13:32,039 --> 01:13:36,164
+y monstruoso príncipe heredero
+
+1193
+01:13:36,164 --> 01:13:37,706
+Du Deng,
+
+1194
+01:13:37,706 --> 01:13:40,872
+el hombre de la máscara de bambú.
+
+1195
+01:13:42,914 --> 01:13:44,622
+No te asustes, es mentira.
+
+1196
+01:13:45,206 --> 01:13:46,539
+Buena suerte.
+
+1197
+01:13:47,122 --> 01:13:49,539
+Aquí se separan nuestros caminos.
+
+1198
+01:13:49,539 --> 01:13:50,664
+Gran maestro,
+
+1199
+01:13:51,956 --> 01:13:53,622
+¿ya terminó con la bola?
+
+1200
+01:13:55,122 --> 01:13:55,956
+Sí.
+
+1201
+01:13:58,456 --> 01:13:59,372
+¡No!
+
+1202
+01:14:00,414 --> 01:14:01,414
+¡Santo cielo!
+
+1203
+01:14:04,581 --> 01:14:06,539
+¡Ya está! La rompieron.
+
+1204
+01:14:06,539 --> 01:14:08,289
+Les dijo que no la tocaran.
+
+1205
+01:14:10,331 --> 01:14:11,372
+Tiene razón.
+
+1206
+01:14:12,289 --> 01:14:14,122
+¡Les dije que no la tocaran!
+
+1207
+01:14:20,164 --> 01:14:21,622
+¿Por qué la tocaste?
+
+1208
+01:14:27,206 --> 01:14:29,747
+¿Viste a la princesa Chi Le?
+La acompañan dos guerreros...
+
+1209
+01:14:33,914 --> 01:14:35,247
+¿La princesa Chi Le?
+
+1210
+01:14:35,247 --> 01:14:38,747
+¿La viste? La acompañan dos guerreros
+con fuerza sobrehumana
+
+1211
+01:14:39,247 --> 01:14:40,081
+y un perrito.
+
+1212
+01:14:55,456 --> 01:14:57,997
+¿Qué esperan? ¿Una cerveza? ¡Tráiganmelos!
+
+1213
+01:14:58,747 --> 01:15:00,831
+- ¡Astérix!
+- ¿Qué? ¡Corre!
+
+1214
+01:15:00,831 --> 01:15:02,289
+- ¡Astérix!
+- ¿Qué?
+
+1215
+01:15:02,289 --> 01:15:05,081
+- ¿Por qué corremos?
+- Porque no quiero pelear.
+
+1216
+01:15:05,081 --> 01:15:05,997
+¿Por qué?
+
+1217
+01:15:05,997 --> 01:15:10,039
+No quiero tomar poción frente a ella.
+Estoy harto de parecer un perdedor.
+
+1218
+01:15:10,539 --> 01:15:12,664
+¡Vamos, rápido! Conseguí un carrito.
+
+1219
+01:15:12,664 --> 01:15:13,831
+¡Vamos!
+
+1220
+01:15:15,622 --> 01:15:16,622
+Date prisa.
+
+1221
+01:15:17,289 --> 01:15:18,414
+¡Date prisa!
+
+1222
+01:15:22,039 --> 01:15:22,914
+Princesa.
+
+1223
+01:15:22,914 --> 01:15:24,331
+Lo hace a propósito.
+
+1224
+01:16:16,456 --> 01:16:18,372
+Es impresionante...
+
+1225
+01:16:22,664 --> 01:16:23,539
+Bueno...
+
+1226
+01:16:24,039 --> 01:16:26,789
+Una bolita más y estaremos acabados.
+
+1227
+01:16:27,831 --> 01:16:31,247
+Es nuestra última noche,
+y estaba pensando que...
+
+1228
+01:16:31,872 --> 01:16:33,956
+quizá, para no olvidarnos...
+
+1229
+01:16:33,956 --> 01:16:34,872
+¡Su majestad!
+
+1230
+01:16:36,664 --> 01:16:37,747
+¡Qué susto!
+
+1231
+01:16:37,747 --> 01:16:39,331
+Majestad, la sacaremos.
+
+1232
+01:16:39,914 --> 01:16:41,164
+¿Quién es?
+
+1233
+01:16:42,622 --> 01:16:43,956
+- Atrás.
+- De acuerdo.
+
+1234
+01:16:46,122 --> 01:16:46,997
+¡For Tac Hon!
+
+1235
+01:16:54,747 --> 01:16:55,956
+¿Todo bien?
+
+1236
+01:17:04,331 --> 01:17:05,414
+Perdón.
+
+1237
+01:17:17,664 --> 01:17:18,539
+Levántate.
+
+1238
+01:17:20,372 --> 01:17:22,622
+Vamos. Salten, los atraparemos abajo.
+
+1239
+01:17:22,622 --> 01:17:24,497
+¿Qué? ¿Saltar? ¿Está loca?
+
+1240
+01:17:24,497 --> 01:17:26,206
+No me voy a ir ahora.
+
+1241
+01:17:26,206 --> 01:17:28,414
+Llevo meses negociando. No me voy.
+
+1242
+01:17:29,039 --> 01:17:33,497
+Estoy a punto de convencer al guardia.
+Váyanse sin mí. Ya las alcanzaré.
+
+1243
+01:17:34,081 --> 01:17:35,372
+¿Está seguro?
+
+1244
+01:17:35,956 --> 01:17:37,372
+- Sí.
+- Bueno...
+
+1245
+01:17:37,956 --> 01:17:38,914
+Como quiera.
+
+1246
+01:17:42,414 --> 01:17:43,497
+Cuídese.
+
+1247
+01:17:44,206 --> 01:17:45,497
+Y cuidado con la cabeza.
+
+1248
+01:17:47,789 --> 01:17:49,206
+¿Teme por mí?
+
+1249
+01:17:50,497 --> 01:17:54,414
+Mire, es aún más hermosa cuando sonríe.
+
+1250
+01:18:02,247 --> 01:18:03,956
+¡Es impresionante!
+
+1251
+01:18:04,914 --> 01:18:05,747
+Gracias.
+
+1252
+01:18:07,956 --> 01:18:08,914
+¡Madre!
+
+1253
+01:18:09,497 --> 01:18:11,539
+Me alegro de volver a verte.
+
+1254
+01:18:21,581 --> 01:18:22,914
+- ¡Alerta!
+- ¡Vámonos!
+
+1255
+01:18:22,914 --> 01:18:24,122
+¡Se escapan!
+
+1256
+01:18:35,081 --> 01:18:36,539
+¿Por dónde voy?
+
+1257
+01:18:38,081 --> 01:18:39,122
+Esperen.
+
+1258
+01:18:40,081 --> 01:18:42,206
+Ya está, los despistamos.
+
+1259
+01:18:42,206 --> 01:18:44,497
+Amigos galos, gracias por su ayuda.
+
+1260
+01:18:44,497 --> 01:18:46,456
+Un placer, su majestad.
+
+1261
+01:18:47,247 --> 01:18:49,581
+Bueno, como nadie me presenta...
+
+1262
+01:18:51,164 --> 01:18:52,456
+Granodemaíz.
+
+1263
+01:18:52,456 --> 01:18:55,539
+No sé si se acuerda,
+nos vimos en el mercado.
+
+1264
+01:18:55,539 --> 01:18:59,206
+Sí. La vida está llena de sorpresas.
+
+1265
+01:19:01,622 --> 01:19:03,747
+La emperatriz tiene problemas de atención.
+
+1266
+01:19:03,747 --> 01:19:07,872
+Chi Le, lleva a nuestros amigos galos
+con los Deng y consigue su apoyo.
+
+1267
+01:19:07,872 --> 01:19:11,331
+Yo intentaré reunir
+a nuestro ejército y a los fieles.
+
+1268
+01:19:11,997 --> 01:19:13,247
+For Tac Hon, acompáñame.
+
+1269
+01:19:13,914 --> 01:19:16,831
+No te fallaré, madre.
+Estarás orgullosa de mí.
+
+1270
+01:19:18,747 --> 01:19:20,414
+Ya estoy orgullosa de ti.
+
+1271
+01:19:21,997 --> 01:19:23,247
+Vamos, For Tac Hon.
+
+1272
+01:19:40,706 --> 01:19:42,122
+Esto va a terminar mal.
+
+1273
+01:19:49,747 --> 01:19:50,872
+For Tac Hon.
+
+1274
+01:20:04,956 --> 01:20:06,997
+Tuvo un flechazo por Obélix.
+
+1275
+01:20:08,914 --> 01:20:09,831
+Obélix también.
+
+1276
+01:20:12,664 --> 01:20:15,664
+Hay demasiados flechazos
+en esta aventura, ¿no?
+
+1277
+01:20:16,747 --> 01:20:17,789
+Bueno, vámonos.
+
+1278
+01:20:19,247 --> 01:20:20,789
+Obélix, vamos.
+
+1279
+01:20:29,206 --> 01:20:31,831
+- ¿De qué es este alcohol?
+- De arroz.
+
+1280
+01:20:32,997 --> 01:20:35,081
+Tú no eres nada refinado.
+
+1281
+01:20:39,872 --> 01:20:42,164
+Es fuerte, pero no está tan mal.
+
+1282
+01:20:42,706 --> 01:20:43,831
+Además, relaja.
+
+1283
+01:20:43,831 --> 01:20:44,914
+Alcohol de arroz.
+
+1284
+01:20:45,497 --> 01:20:48,872
+Me llevaré unas ánforas
+para cuando discuta con mi mujer.
+
+1285
+01:20:51,289 --> 01:20:52,331
+¿Sabes?
+
+1286
+01:20:52,331 --> 01:20:54,122
+En momentos como estos...
+
+1287
+01:20:57,497 --> 01:20:58,872
+la extraño.
+
+1288
+01:20:58,872 --> 01:21:00,747
+¿Qué es esa música?
+
+1289
+01:21:00,747 --> 01:21:01,747
+¿Cuántos son?
+
+1290
+01:21:01,747 --> 01:21:03,164
+Cuatro y una cantante.
+
+1291
+01:21:03,664 --> 01:21:05,539
+- ¿Viaja siempre con músicos?
+- Sí.
+
+1292
+01:21:05,539 --> 01:21:06,914
+Es práctico.
+
+1293
+01:21:07,789 --> 01:21:09,914
+Llevo conmigo la música que me gusta.
+
+1294
+01:21:11,456 --> 01:21:12,289
+¿La conoces?
+
+1295
+01:21:12,289 --> 01:21:14,081
+¡Obvio que sí!
+
+1296
+01:21:14,831 --> 01:21:17,081
+¡Eso sí que es música!
+
+1297
+01:21:18,247 --> 01:21:20,414
+No es como sus...
+
+1298
+01:21:34,039 --> 01:21:35,247
+<i>¡Amore!</i>
+
+1299
+01:21:36,289 --> 01:21:37,664
+Pero ¿qué hace?
+
+1300
+01:21:39,164 --> 01:21:41,581
+- Te confundí con mi mujer.
+- No soy de nadie.
+
+1301
+01:21:43,456 --> 01:21:44,289
+¿Sabes qué?
+
+1302
+01:21:44,289 --> 01:21:46,956
+Tu brebaje me devolvió las ganas de creer.
+
+1303
+01:21:49,622 --> 01:21:52,581
+Me convertiré
+en el nuevo emperador de China.
+
+1304
+01:21:53,122 --> 01:21:54,039
+Y eso...
+
+1305
+01:21:54,039 --> 01:21:56,831
+Cleo no se lo va a poder creer.
+
+1306
+01:21:57,664 --> 01:22:00,414
+Mañana al amanecer,
+mandaremos al infierno a los Deng.
+
+1307
+01:22:17,831 --> 01:22:20,206
+Obélix, despacio, es la próxima salida.
+
+1308
+01:22:20,206 --> 01:22:21,622
+Sí, es la siguiente.
+
+1309
+01:22:23,539 --> 01:22:28,039
+<i>Una vez más, gracias a Obélix,
+nuestros amigos llegan antes que César</i>
+
+1310
+01:22:28,039 --> 01:22:29,789
+<i>al palacio del príncipe Deng,</i>
+
+1311
+01:22:29,789 --> 01:22:33,122
+<i>el hombre de la máscara de bambú,
+para los que no lo saben.</i>
+
+1312
+01:22:36,747 --> 01:22:38,331
+Soy To Fu,
+
+1313
+01:22:38,872 --> 01:22:41,956
+asesor del príncipe regente Deng.
+
+1314
+01:22:42,539 --> 01:22:46,747
+¿Qué me demuestra
+que es la auténtica princesa Chi Le?
+
+1315
+01:22:47,872 --> 01:22:50,581
+Tiene mi palabra.
+Soy la hija de la emperatriz.
+
+1316
+01:22:50,581 --> 01:22:54,289
+Lamentablemente,
+su palabra no es suficiente.
+
+1317
+01:22:55,456 --> 01:22:57,247
+Podría ser una espía
+
+1318
+01:22:57,831 --> 01:22:58,997
+a sueldo
+
+1319
+01:22:58,997 --> 01:23:00,581
+de Dan Sin Qin.
+
+1320
+01:23:03,164 --> 01:23:04,581
+¡La moneda!
+
+1321
+01:23:09,872 --> 01:23:13,372
+¿Ahora se arrodillará
+ante la hija de su emperatriz?
+
+1322
+01:23:15,414 --> 01:23:17,497
+Mil disculpas, princesa Chi Le.
+
+1323
+01:23:17,497 --> 01:23:19,289
+Debemos ser prudentes.
+
+1324
+01:23:19,872 --> 01:23:22,289
+¡Su alteza el príncipe
+
+1325
+01:23:22,289 --> 01:23:23,456
+Du Deng!
+
+1326
+01:23:35,831 --> 01:23:37,331
+¿Qué haces?
+
+1327
+01:23:37,331 --> 01:23:39,581
+¡Date la vuelta! Eso no se hace.
+
+1328
+01:23:39,581 --> 01:23:40,872
+Estamos en su reino.
+
+1329
+01:24:03,289 --> 01:24:04,289
+Princesa Chi Le,
+
+1330
+01:24:04,289 --> 01:24:06,997
+soy el príncipe Du Deng,
+y estamos a su servicio.
+
+1331
+01:24:06,997 --> 01:24:09,622
+Nos uniremos a su madre,
+nuestra emperatriz.
+
+1332
+01:24:11,289 --> 01:24:12,331
+Gracias...
+
+1333
+01:24:12,997 --> 01:24:14,081
+No sé qué decir.
+
+1334
+01:24:14,664 --> 01:24:15,622
+Es culpa mía.
+
+1335
+01:24:15,622 --> 01:24:16,956
+Mi cabello la asustó.
+
+1336
+01:24:17,622 --> 01:24:19,539
+Al contrario, le queda muy bien.
+
+1337
+01:24:21,206 --> 01:24:22,581
+Es la primera que me lo dice.
+
+1338
+01:24:22,581 --> 01:24:25,122
+Es el primero
+al que me atrevo a decírselo.
+
+1339
+01:24:39,997 --> 01:24:42,164
+Eso sí que es amor a primera vista.
+
+1340
+01:24:42,164 --> 01:24:44,581
+Semanas trabajando para nada.
+
+1341
+01:24:47,872 --> 01:24:49,331
+Volvemos a la <i>friendzone</i>.
+
+1342
+01:24:49,914 --> 01:24:51,747
+¿Nos vamos?
+
+1343
+01:24:53,206 --> 01:24:54,914
+Hay que salvar un país, ¿no?
+
+1344
+01:25:08,164 --> 01:25:11,206
+Hay que estar loco para construir
+un palacio en una hondonada.
+
+1345
+01:25:11,206 --> 01:25:12,539
+No hay salida.
+
+1346
+01:25:13,039 --> 01:25:15,206
+Acorralados por César. Será rápido.
+
+1347
+01:25:18,914 --> 01:25:21,581
+Vaya, nos toca hablar otra vez.
+
+1348
+01:25:33,456 --> 01:25:35,331
+Soy la princesa Chi Le.
+
+1349
+01:25:35,331 --> 01:25:38,331
+Ríndanse al poder
+de la única emperatriz de China.
+
+1350
+01:25:39,914 --> 01:25:42,497
+Chi Le, mi amor, al fin podremos casarnos.
+
+1351
+01:25:42,497 --> 01:25:45,997
+No cuentes con ello.
+Te arrepentirás, Dan Sin Qin.
+
+1352
+01:25:46,914 --> 01:25:49,706
+- No será fácil.
+- Tampoco fue un flechazo.
+
+1353
+01:25:49,706 --> 01:25:52,206
+Tengo una pregunta para ti.
+
+1354
+01:25:53,497 --> 01:25:54,872
+¿Cuántos son?
+
+1355
+01:25:54,872 --> 01:25:56,206
+Diez mil.
+
+1356
+01:25:56,206 --> 01:25:59,831
+¡Es que nosotros somos 80 000!
+
+1357
+01:26:05,997 --> 01:26:09,247
+Es experiencia, nada más.
+No tengo mérito, nunca pierdo.
+
+1358
+01:26:09,247 --> 01:26:10,289
+Eres maravilloso.
+
+1359
+01:26:10,289 --> 01:26:11,997
+¡Contó mal, princesa!
+
+1360
+01:26:11,997 --> 01:26:13,664
+Son diez mil más dos.
+
+1361
+01:26:13,664 --> 01:26:14,956
+Si aún me necesita.
+
+1362
+01:26:14,956 --> 01:26:16,206
+¡Hola, Julio!
+
+1363
+01:26:16,206 --> 01:26:17,414
+¡Somos nosotros!
+
+1364
+01:26:17,414 --> 01:26:18,331
+¡Los locos!
+
+1365
+01:26:18,331 --> 01:26:19,622
+No más dos,
+
+1366
+01:26:19,622 --> 01:26:20,872
+¡más tres!
+
+1367
+01:26:21,414 --> 01:26:23,122
+¡El hombre de la máscara de bambú!
+
+1368
+01:26:25,081 --> 01:26:26,622
+Qué horror, pobre...
+
+1369
+01:26:26,622 --> 01:26:27,872
+Es rubio.
+
+1370
+01:26:27,872 --> 01:26:28,872
+A mí me gusta.
+
+1371
+01:26:28,872 --> 01:26:30,497
+No más tres, ¡más cuatro!
+
+1372
+01:26:31,247 --> 01:26:34,247
+Soy el hombre... ¡con los pies de pluma!
+
+1373
+01:26:34,247 --> 01:26:35,539
+¿Qué es esto?
+
+1374
+01:26:38,789 --> 01:26:39,664
+<i>Basta così.</i>
+
+1375
+01:26:42,164 --> 01:26:44,372
+¿Por qué hablar cuando puedes correr?
+
+1376
+01:26:52,497 --> 01:26:54,497
+<i>Mamma mia...</i>
+
+1377
+01:26:56,831 --> 01:26:59,081
+Salió sin calentar... ¡Qué idiota!
+
+1378
+01:26:59,081 --> 01:27:00,872
+- ¿Dije "a la carga"?
+- No.
+
+1379
+01:27:03,831 --> 01:27:04,872
+Bueno, cambio.
+
+1380
+01:27:05,456 --> 01:27:06,747
+¡Cambio!
+
+1381
+01:27:09,081 --> 01:27:10,456
+¡Antivirus!
+
+1382
+01:27:47,331 --> 01:27:49,206
+Astérix, yo también quiero.
+
+1383
+01:27:49,206 --> 01:27:50,831
+No, no hay para cuatro.
+
+1384
+01:27:50,831 --> 01:27:52,081
+"No hay para cuatro..."<i>.</i>
+
+1385
+01:27:55,789 --> 01:27:57,164
+¡Qué tramposos!
+
+1386
+01:27:57,164 --> 01:27:58,331
+No les servirá.
+
+1387
+01:27:59,872 --> 01:28:01,747
+¡A la carga!
+
+1388
+01:28:18,997 --> 01:28:19,872
+¿Sí?
+
+1389
+01:28:20,581 --> 01:28:21,539
+Claro.
+
+1390
+01:29:11,206 --> 01:29:12,164
+Ayúdame.
+
+1391
+01:29:12,789 --> 01:29:13,872
+No digas nada.
+
+1392
+01:29:13,872 --> 01:29:14,956
+Hazte el muerto.
+
+1393
+01:29:15,497 --> 01:29:16,331
+O nos matan.
+
+1394
+01:29:16,331 --> 01:29:17,414
+¡Ahora!
+
+1395
+01:29:30,289 --> 01:29:32,956
+- ¿Puedo atacar?
+- Sí...
+
+1396
+01:29:32,956 --> 01:29:34,039
+¡Arqueros!
+
+1397
+01:29:35,039 --> 01:29:36,414
+¡Preparen!
+
+1398
+01:29:36,414 --> 01:29:37,497
+¡Apunten!
+
+1399
+01:29:37,997 --> 01:29:39,081
+¡Disparen!
+
+1400
+01:29:40,456 --> 01:29:42,747
+¡Dan Sin Qin, emperador de China!
+
+1401
+01:29:45,706 --> 01:29:46,706
+¡Flechas!
+
+1402
+01:30:01,247 --> 01:30:02,706
+¿En serio?
+
+1403
+01:30:02,706 --> 01:30:04,164
+No me juzgues.
+
+1404
+01:30:06,747 --> 01:30:07,747
+Sí, ya lo noto.
+
+1405
+01:30:08,997 --> 01:30:10,456
+¡Siento cómo sube!
+
+1406
+01:30:13,622 --> 01:30:14,747
+¡Qué locura!
+
+1407
+01:30:16,206 --> 01:30:18,247
+¿Ya está? ¿Eso es todo?
+
+1408
+01:30:20,747 --> 01:30:22,331
+¡No puede ser! ¡Qué mierda!
+
+1409
+01:30:32,247 --> 01:30:33,497
+¡Ya huele a victoria!
+
+1410
+01:30:33,497 --> 01:30:36,414
+"Huele a victoria".
+¿Algún aroma en particular?
+
+1411
+01:30:37,664 --> 01:30:39,747
+¿A los lectores
+les interesan esos detalles?
+
+1412
+01:30:39,747 --> 01:30:41,164
+Les da contexto.
+
+1413
+01:30:42,956 --> 01:30:44,622
+Entonces, huele a laurel.
+
+1414
+01:30:45,206 --> 01:30:47,831
+¡Excelente!
+
+1415
+01:31:09,581 --> 01:31:10,539
+Gracias.
+
+1416
+01:31:10,539 --> 01:31:11,789
+De nada.
+
+1417
+01:31:15,122 --> 01:31:17,039
+Estamos peleados, pero puedo ayudarte.
+
+1418
+01:31:17,622 --> 01:31:18,456
+Lo sé.
+
+1419
+01:31:18,456 --> 01:31:20,539
+Siempre dije que te defendería.
+
+1420
+01:31:21,164 --> 01:31:22,081
+Lo sé.
+
+1421
+01:31:23,456 --> 01:31:25,247
+Porque siempre serás mi amigo.
+
+1422
+01:31:28,247 --> 01:31:29,247
+Lo sé.
+
+1423
+01:31:30,372 --> 01:31:31,706
+Perdón, Obélix.
+
+1424
+01:31:34,581 --> 01:31:36,706
+¡Astérix! ¡Obélix!
+
+1425
+01:31:56,581 --> 01:31:58,831
+¡Para! Para...
+
+1426
+01:32:12,039 --> 01:32:13,497
+Antes de morir...
+
+1427
+01:32:14,706 --> 01:32:16,622
+quisiera decirle algo, princesa.
+
+1428
+01:32:42,664 --> 01:32:43,497
+¡Miren!
+
+1429
+01:32:45,289 --> 01:32:47,039
+<i>Cuando todo parecía perdido,</i>
+
+1430
+01:32:47,581 --> 01:32:49,247
+<i>llega la emperatriz</i>
+
+1431
+01:32:49,247 --> 01:32:52,289
+<i>seguida de su ejército
+y de todo su pueblo.</i>
+
+1432
+01:32:52,289 --> 01:32:53,747
+<i>Vinieron todos.</i>
+
+1433
+01:32:53,747 --> 01:32:57,372
+<i>Todos la siguieron por las rutas
+del Reino Medio</i>
+
+1434
+01:32:57,372 --> 01:32:59,831
+<i>para llegar a pie
+al lugar de la batalla final.</i>
+
+1435
+01:33:16,872 --> 01:33:18,789
+- ¿Qué es eso?
+- No lo sé.
+
+1436
+01:33:18,789 --> 01:33:21,372
+Pero de repente huele menos a laurel.
+
+1437
+01:33:22,081 --> 01:33:23,831
+Y más a corona de muerto.
+
+1438
+01:33:30,539 --> 01:33:31,539
+¡César!
+
+1439
+01:33:32,122 --> 01:33:33,747
+Soy la emperatriz de China.
+
+1440
+01:33:33,747 --> 01:33:36,372
+Le ordeno que abandone ya mi imperio.
+
+1441
+01:33:37,456 --> 01:33:38,497
+¡Nunca!
+
+1442
+01:33:38,997 --> 01:33:41,164
+¡Qué carácter! Me recuerda a alguien.
+
+1443
+01:33:43,164 --> 01:33:44,414
+Su majestad,
+
+1444
+01:33:45,164 --> 01:33:47,497
+antes de enfurecerse y estropearlo todo,
+
+1445
+01:33:47,497 --> 01:33:50,164
+podríamos considerar
+una especie de alianza.
+
+1446
+01:33:50,164 --> 01:33:53,122
+Cuando la nube pase delante del sol,
+
+1447
+01:33:53,122 --> 01:33:55,497
+mi ejército los convertirá en polvo.
+
+1448
+01:33:56,372 --> 01:33:58,997
+¿Qué dice? ¿Es otro proverbio de esos?
+
+1449
+01:33:58,997 --> 01:34:01,789
+No, es literal. Ocurre ahora mismo.
+
+1450
+01:34:07,497 --> 01:34:08,706
+¿Cuántos son?
+
+1451
+01:34:08,706 --> 01:34:09,997
+Lo va a repetir.
+
+1452
+01:34:10,664 --> 01:34:11,497
+¡Un...
+
+1453
+01:34:11,997 --> 01:34:12,831
+millón!
+
+1454
+01:34:15,997 --> 01:34:17,414
+Ahora no pega tanto.
+
+1455
+01:34:18,747 --> 01:34:21,081
+Pues yo me voy, no es mi territorio.
+
+1456
+01:34:21,081 --> 01:34:23,497
+Vuelvo a Roma. ¿Estamos en contacto?
+
+1457
+01:34:23,497 --> 01:34:25,164
+¡César! ¿Nos dejas así?
+
+1458
+01:34:25,164 --> 01:34:26,706
+¡Son un millón!
+
+1459
+01:34:27,497 --> 01:34:28,831
+Esta no era mi guerra.
+
+1460
+01:34:34,289 --> 01:34:35,581
+No me puedo ir así.
+
+1461
+01:34:38,622 --> 01:34:39,664
+¡Sobre dos patas!
+
+1462
+01:34:40,914 --> 01:34:41,997
+Sobre dos patas.
+
+1463
+01:34:51,247 --> 01:34:52,372
+¡MENSAJE RECIBIDO!
+
+1464
+01:34:52,372 --> 01:34:56,456
+¡NO VOLVERÁS A VER MI PIRÁMIDE! CLEOPATRA
+
+1465
+01:34:56,456 --> 01:34:58,289
+Qué día más duro...
+
+1466
+01:34:59,039 --> 01:34:59,914
+Qué duro.
+
+1467
+01:35:00,664 --> 01:35:01,872
+Vamos...
+
+1468
+01:35:05,664 --> 01:35:06,831
+¡Sí!
+
+1469
+01:35:39,414 --> 01:35:41,039
+<i>Qué alegría.</i>
+
+1470
+01:35:42,331 --> 01:35:44,789
+<i>Ya estamos de vuelta en la Galia.</i>
+
+1471
+01:35:44,789 --> 01:35:48,039
+<i>No solo por el banquete habitual
+de nuestros amigos,</i>
+
+1472
+01:35:48,039 --> 01:35:52,122
+<i>sino también para celebrar
+una ceremonia galo-china.</i>
+
+1473
+01:35:55,289 --> 01:35:58,122
+¡Atención, la emperatriz va a hablar!
+
+1474
+01:35:59,997 --> 01:36:01,039
+Valientes galos,
+
+1475
+01:36:02,122 --> 01:36:04,164
+les estaré eternamente agradecida.
+
+1476
+01:36:04,664 --> 01:36:06,581
+Es un honor, su majestad.
+
+1477
+01:36:06,581 --> 01:36:09,206
+De hecho, fui yo quien insistió en ayudar.
+
+1478
+01:36:10,622 --> 01:36:12,456
+Hicimos este largo viaje
+
+1479
+01:36:12,456 --> 01:36:14,497
+para celebrar una bonita unión.
+
+1480
+01:36:23,206 --> 01:36:24,747
+Es mi primo Popurrix.
+
+1481
+01:36:25,372 --> 01:36:27,789
+Es experto en músicas del mundo.
+
+1482
+01:36:27,789 --> 01:36:29,206
+Es mi primo, el mío.
+
+1483
+01:36:29,206 --> 01:36:31,456
+Es mío, no tuyo. Mío.
+
+1484
+01:37:18,164 --> 01:37:20,664
+Usted y yo tenemos algo en común.
+
+1485
+01:37:20,664 --> 01:37:21,789
+Somos jefes.
+
+1486
+01:37:21,789 --> 01:37:25,206
+No me negará que el poder aísla, ¿no cree?
+
+1487
+01:37:28,206 --> 01:37:30,081
+Y... No terminé.
+
+1488
+01:37:30,081 --> 01:37:33,539
+Y que detrás de cada gran hombre
+hay una gran mujer.
+
+1489
+01:37:33,539 --> 01:37:36,622
+Sin Karabella no soy nada.
+En casa, ella lleva el escudo.
+
+1490
+01:37:36,622 --> 01:37:39,372
+¿Te molesto? ¿Pasas un buen día?
+
+1491
+01:37:40,747 --> 01:37:41,706
+Hablamos en casa.
+
+1492
+01:37:43,414 --> 01:37:44,289
+¡Mi cielo!
+
+1493
+01:37:44,956 --> 01:37:47,497
+Disculpe, un pequeño
+malentendido conyugal.
+
+1494
+01:37:48,164 --> 01:37:50,122
+¡Mi cielo!
+
+1495
+01:37:51,164 --> 01:37:53,372
+Pensé que no se iba a ir nunca.
+
+1496
+01:37:54,456 --> 01:37:57,581
+Cuando salió de la celda,
+recuperé la memoria.
+
+1497
+01:37:59,164 --> 01:38:00,247
+En cambio...
+
+1498
+01:38:00,747 --> 01:38:01,997
+perdí el corazón.
+
+1499
+01:38:02,789 --> 01:38:03,831
+Qué dulce...
+
+1500
+01:38:04,331 --> 01:38:06,997
+Bueno, ¿dónde está mi corazoncito?
+
+1501
+01:38:09,622 --> 01:38:12,997
+Granodemaíz, ¿viste?
+¡No perdí el tiempo en prisión!
+
+1502
+01:38:13,872 --> 01:38:14,997
+¡Qué elegante!
+
+1503
+01:38:21,872 --> 01:38:22,789
+Un plato más.
+
+1504
+01:38:22,789 --> 01:38:24,914
+Mejor una fuente. ¿Tú también?
+
+1505
+01:38:24,914 --> 01:38:26,831
+No, no voy a saltarme la dieta.
+
+1506
+01:38:26,831 --> 01:38:28,289
+Qué tonto soy.
+
+1507
+01:38:29,081 --> 01:38:30,622
+¿No lo extrañas?
+
+1508
+01:38:31,206 --> 01:38:32,747
+No, para nada.
+
+1509
+01:38:32,747 --> 01:38:34,206
+Sinceramente...
+
+1510
+01:38:34,206 --> 01:38:35,456
+El olor me da asco.
+
+1511
+01:38:36,789 --> 01:38:39,247
+Pero hay cosas
+que me despiertan las ganas.
+
+1512
+01:38:39,747 --> 01:38:41,872
+Con una cerveza, se complica.
+
+1513
+01:38:43,331 --> 01:38:44,331
+Hola, Obélix.
+
+1514
+01:38:44,997 --> 01:38:45,872
+Hola, Falbalá.
+
+1515
+01:38:46,956 --> 01:38:47,831
+¿Te molesto?
+
+1516
+01:38:47,831 --> 01:38:50,164
+- No.
+- Sí, yo creo que sí.
+
+1517
+01:38:50,747 --> 01:38:52,539
+Volviste y ya no me miras.
+
+1518
+01:38:53,372 --> 01:38:56,039
+¿Es verdad lo que dicen?
+¿Tú y For Tac Hon?
+
+1519
+01:38:57,081 --> 01:38:57,956
+¿En serio?
+
+1520
+01:38:57,956 --> 01:39:03,039
+Una relación a distancia no tiene sentido.
+Ella allá y tú acá... Yo estoy aquí.
+
+1521
+01:39:03,664 --> 01:39:06,331
+Meses esperándote, muerta de preocupación,
+
+1522
+01:39:06,331 --> 01:39:07,914
+¿y tú te enamoras?
+
+1523
+01:39:08,789 --> 01:39:09,914
+¿Ya no me amas?
+
+1524
+01:39:10,831 --> 01:39:12,206
+¿Es un sí o es un no?
+
+1525
+01:39:12,206 --> 01:39:13,956
+Ayer me querías.
+
+1526
+01:39:13,956 --> 01:39:15,289
+¿Es un sí o es un no?
+
+1527
+01:39:15,289 --> 01:39:17,331
+- ¿Debo olvidarte?
+- ¡Di que sí!
+
+1528
+01:39:17,331 --> 01:39:18,581
+Mira, Falbalá...
+
+1529
+01:39:19,747 --> 01:39:20,581
+No insistas.
+
+1530
+01:39:20,581 --> 01:39:23,456
+Esta aldea siempre vive nuevas aventuras.
+
+1531
+01:39:25,289 --> 01:39:26,664
+Y es hora de que yo también.
+
+1532
+01:39:26,664 --> 01:39:28,414
+No eres tú, soy yo.
+
+1533
+01:39:29,497 --> 01:39:30,539
+Si me disculpas...
+
+1534
+01:39:31,414 --> 01:39:32,331
+¿Estás loco?
+
+1535
+01:39:34,122 --> 01:39:35,414
+Pero...
+
+1536
+01:39:35,414 --> 01:39:36,581
+Yo...
+
+1537
+01:41:59,164 --> 01:42:00,622
+Estuvo bien, ¿no?
+
+1538
+01:42:00,622 --> 01:42:02,539
+Creo que todos se divirtieron.
+
+1539
+01:42:04,206 --> 01:42:05,539
+Fue una linda fiesta.
+
+1540
+01:42:08,414 --> 01:42:10,581
+¿Y For Tac Hon? ¿Se fue?
+
+1541
+01:42:10,581 --> 01:42:12,539
+Sí, es un viaje muy largo.
+
+1542
+01:42:14,539 --> 01:42:16,164
+Me dijo que soy su novio.
+
+1543
+01:42:17,414 --> 01:42:19,872
+¿En serio? Es fantástico.
+
+1544
+01:42:21,039 --> 01:42:22,164
+Y entonces...
+
+1545
+01:42:22,164 --> 01:42:23,664
+¿No se quiso quedar?
+
+1546
+01:42:23,664 --> 01:42:25,497
+Le habría gustado, pero...
+
+1547
+01:42:26,039 --> 01:42:29,247
+tiene mucho trabajo,
+responsabilidades en el palacio...
+
+1548
+01:42:30,164 --> 01:42:31,789
+No pasa nada, habrá tiempo.
+
+1549
+01:42:32,331 --> 01:42:33,664
+Cuando seamos grandes.
+
+1550
+01:42:34,206 --> 01:42:35,039
+¿Grandes?
+
+1551
+01:42:35,039 --> 01:42:36,289
+Sí.
+
+1552
+01:42:37,581 --> 01:42:38,414
+Sí...
+
+1553
+01:42:38,997 --> 01:42:41,247
+Estoy cansado, me voy a dormir.
+
+1554
+01:42:43,997 --> 01:42:44,956
+¡Obe!
+
+1555
+01:42:46,122 --> 01:42:47,456
+¿Comemos la última?
+
+1556
+01:42:47,456 --> 01:42:49,331
+Eso no se rechaza.
+
+1557
+01:42:56,831 --> 01:42:57,872
+Obe...
+
+1558
+01:42:58,622 --> 01:42:59,747
+Amigo mío.
+
+1559
+01:43:02,456 --> 01:43:03,456
+¡Obe!
+
+1560
+01:43:03,456 --> 01:43:04,581
+Astérix...
+
+1561
+01:43:04,581 --> 01:43:05,789
+Obélix...
+
+1562
+01:43:09,039 --> 01:43:10,164
+¡Me ahogas!
+
+1563
+01:43:16,664 --> 01:43:19,289
+{\an8}PARA RENÉ GOSCINNY Y ALBERT UDERZO
+
+1564
+01:44:18,747 --> 01:44:20,539
+<i>¿No quieren que cante?</i>
+
+1565
+01:44:25,081 --> 01:44:26,497
+<i>Pues voy a cantar igual.</i>
+
+1566
+01:44:28,664 --> 01:44:30,372
+<i>¿No quieren que cante?</i>
+
+1567
+01:44:32,164 --> 01:44:34,081
+<i>¿No quieren que cante?</i>
+
+1568
+01:44:34,081 --> 01:44:35,456
+¡Olvidé la sorpresa!
+
+1569
+01:44:35,456 --> 01:44:37,122
+- ¿Qué sorpresa?
+- Espera.
+
+1570
+01:44:39,831 --> 01:44:45,372
+<i>Y bien, ¿qué pasó?
+¿Es por mí o por mi voz?</i>
+
+1571
+01:44:45,872 --> 01:44:47,872
+<i>¿Y bien? ¿No les gusta mi canto?</i>
+
+1572
+01:44:47,872 --> 01:44:49,247
+<i>¿Acaso es mi voz?</i>
+
+1573
+01:44:49,247 --> 01:44:50,956
+<i>¿O simplemente soy yo?</i>
+
+1574
+01:44:51,622 --> 01:44:54,414
+<i>¿Qué es lo que pasa? No les gusta nada.</i>
+
+1575
+01:44:55,706 --> 01:44:57,497
+<i>No hagas esto, no hagas nada.</i>
+
+1576
+01:44:57,497 --> 01:45:00,331
+<i>¿Son mis letras o mi voz?
+Sinceramente, no lo entiendo.</i>
+
+1577
+01:45:00,331 --> 01:45:03,206
+<i>Sin ser paranoico,
+¡en mi contra están todos!</i>
+
+1578
+01:45:05,081 --> 01:45:06,581
+<i>¿No quieren que cante?</i>
+
+1579
+01:45:10,622 --> 01:45:12,247
+<i>Pues voy a cantar igual.</i>
+
+1580
+01:45:16,164 --> 01:45:18,372
+<i>¿No quieren que cante?</i>
+
+1581
+01:45:21,789 --> 01:45:24,081
+<i>Pues voy a cantar igual.</i>
+
+1582
+01:45:28,247 --> 01:45:29,831
+César dijo:
+
+1583
+01:45:29,831 --> 01:45:32,081
+"Cuando vuelva, todo debe brillar".
+
+1584
+01:45:32,747 --> 01:45:34,081
+¡Así que a pulir!
+
+1585
+01:45:34,664 --> 01:45:35,956
+¡Pulir, pulir, pulir!
+
+1586
+01:45:37,497 --> 01:45:39,622
+Eso es. Con energía.
+
+1587
+01:45:42,914 --> 01:45:44,289
+Te quedas con la Galia
+
+1588
+01:45:44,289 --> 01:45:46,331
+y yo, con China y el resto del mundo.
+
+1589
+01:45:46,331 --> 01:45:47,747
+Será todo un éxito.
+
+1590
+01:45:47,747 --> 01:45:49,997
+Tómalo o déjalo. Responde ya.
+
+1591
+01:45:50,497 --> 01:45:52,206
+¿Qué va a ser un éxito?
+
+1592
+01:45:52,206 --> 01:45:54,081
+- No dije eso...
+- Sí.
+
+1593
+01:45:54,081 --> 01:45:58,664
+Maldito <i>hmar</i>, los mercaderes
+leemos los labios a 5 km de distancia.
+
+1594
+01:45:58,664 --> 01:46:00,914
+- ¿Por qué dijiste eso?
+- ¡No dije nada!
+
+1595
+01:46:00,914 --> 01:46:02,872
+- ¡Ay!
+- ¡Te pego!
+
+1596
+01:46:04,997 --> 01:46:07,872
+Querida, puedes recuperar a tu Julio.
+
+1597
+01:46:07,872 --> 01:46:10,372
+Envíale un mensaje:
+
+1598
+01:46:10,372 --> 01:46:13,497
+"Iré hasta el fin del mundo,
+me teñiré de rubia...".
+
+1599
+01:46:13,497 --> 01:46:16,122
+Y listo, volverá corriendo.
+
+1600
+01:46:17,081 --> 01:46:17,956
+Tienes razón.
+
+1601
+01:46:17,956 --> 01:46:20,247
+No sé por qué me hago la cabeza.
+
+1602
+01:46:22,997 --> 01:46:24,331
+Está sin batería.
+
+1603
+01:46:24,331 --> 01:46:25,872
+¿Tienes un cargador?
+
+1604
+01:46:26,414 --> 01:46:28,414
+Espera, te conseguiré uno.
+
+1605
+01:46:29,706 --> 01:46:31,497
+Con enchufe egipcio.
+
+1606
+01:46:32,122 --> 01:46:32,997
+¿Por qué egipcio?
+
+1607
+01:46:38,456 --> 01:46:40,664
+<i>Pues voy a cantar igual.</i>
+
+1608
+01:46:45,206 --> 01:46:47,706
+¿Pueden dejar de hacer ruido?
+
+1609
+01:46:47,706 --> 01:46:49,789
+¡Queremos dormir!
+
+1610
+01:46:55,039 --> 01:46:56,039
+Perdón.
+
+1611
+01:46:59,997 --> 01:47:01,664
+¡Buenas noches!
+
+1612
+01:47:01,664 --> 01:47:04,081
+¡Buenas noches, pequeños galos!
+
+1613
+01:50:32,956 --> 01:50:35,956
+Subtítulos: Elizabeth Añasco Machado
+

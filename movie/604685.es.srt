@@ -1,0 +1,5419 @@
+1
+00:01:03,250 --> 00:01:04,528
+<i>Visibilidad, uno.</i>
+
+2
+00:01:04,729 --> 00:01:06,997
+<i>Techo a 4.000 y nublado.
+Temperatura...</i>
+
+3
+00:01:07,197 --> 00:01:11,071
+<i>Salah 1-1-4, despejado
+para aterrizar, pista 1-1.</i>
+
+4
+00:01:11,271 --> 00:01:13,942
+<i>Despejado para aterrizar,
+Salah 1-1-4.</i>
+
+5
+00:01:17,381 --> 00:01:20,964
+<i>Estas calles son diferentes.</i>
+
+6
+00:01:21,646 --> 00:01:23,488
+<i>Son viejas.</i>
+
+7
+00:01:23,832 --> 00:01:27,190
+<i>Los lazos son profundos y ocultos.</i>
+
+8
+00:01:27,390 --> 00:01:30,269
+<i>Es donde Oriente se
+aferra a Occidente.</i>
+
+9
+00:01:30,468 --> 00:01:33,094
+<i>Donde el Sur busca al Norte.</i>
+
+10
+00:01:34,223 --> 00:01:38,112
+<i>Aquí hay un honor que
+debe de ser respetado.</i>
+
+11
+00:01:38,502 --> 00:01:41,737
+<i>Reglas que no se pueden romper.</i>
+
+12
+00:01:42,767 --> 00:01:45,567
+<i>Y si se comete un error...</i>
+
+13
+00:01:46,774 --> 00:01:48,984
+<i>No habrá dónde esconderse.</i>
+
+14
+00:01:49,209 --> 00:01:51,050
+Servicio de habitaciones.
+
+15
+00:01:56,731 --> 00:02:01,231
+BÉLGICA
+
+16
+00:02:04,168 --> 00:02:09,246
+AEROPUERTO INTERNACIONAL
+DE AMBERES
+
+17
+00:02:36,048 --> 00:02:38,300
+<i>Ronin 1, aquí Cleopatra.</i>
+
+18
+00:02:39,218 --> 00:02:41,253
+<i>Ronin 1, recibido.</i>
+
+19
+00:02:41,453 --> 00:02:42,888
+<i>Cleopatra, adelante.</i>
+
+20
+00:02:43,088 --> 00:02:45,298
+<i>Estoy en vigilancia.</i>
+
+21
+00:02:46,240 --> 00:02:48,735
+<i>Apagando motores.</i>
+
+22
+00:02:49,194 --> 00:02:52,259
+<i>Ronin 1, el taxi ha llegado.
+Esperen.</i>
+
+23
+00:02:52,459 --> 00:02:55,693
+<i>Ronin 1, a la espera.</i>
+
+24
+00:02:58,974 --> 00:03:01,298
+<i>Ronin 1, ¡puertas!
+¡Puertas!</i>
+
+25
+00:03:01,498 --> 00:03:03,183
+<i>Ronin 1, recibido.
+Chófer, puertas.</i>
+
+26
+00:03:03,383 --> 00:03:05,355
+<i>¡Chófer a puertas!</i>
+
+27
+00:03:15,556 --> 00:03:17,140
+<i>Ronin 5 listo para partir.</i>
+
+28
+00:03:17,340 --> 00:03:19,364
+<i>Recibido, Ronin 5, espera.</i>
+
+29
+00:03:19,564 --> 00:03:22,058
+<i>Ronin 1, ¡adelante!
+¡Adelante!</i>
+
+30
+00:03:22,850 --> 00:03:25,475
+<i>Cleopatra.
+Ronin 1 recibido, adelante.</i>
+
+31
+00:04:12,628 --> 00:04:13,475
+¿Cuál es el problema?
+
+32
+00:04:13,675 --> 00:04:16,439
+¡Disculpen! Alguien ha llamado para
+avisar de una amenaza de bomba.
+
+33
+00:04:16,639 --> 00:04:18,349
+¡Esta es un área restringida!
+
+34
+00:04:22,362 --> 00:04:24,568
+¡Arrodíllense!
+¡Arrodíllense!
+
+35
+00:04:24,768 --> 00:04:25,961
+¡De rodillas!
+¡Enséñame las manos!
+
+36
+00:04:26,161 --> 00:04:27,054
+¡De rodillas!
+
+37
+00:04:27,254 --> 00:04:29,531
+¡Ponte de rodillas,
+carajo, ahora mismo!
+
+38
+00:04:32,123 --> 00:04:36,150
+¡Túmbate! ¡Túmbate!
+¡Túmbate, carajo!
+
+39
+00:04:36,350 --> 00:04:39,775
+¡Túmbate! Túmbate ahora mismo.
+¡No te muevas!
+
+40
+00:04:39,975 --> 00:04:42,600
+¡No te muevas!
+¡Conmigo!
+
+41
+00:04:50,612 --> 00:04:52,140
+¡Manos, manos!
+¡Enséñenme las manos!
+
+42
+00:04:52,340 --> 00:04:55,064
+¡Tú, sal! ¡Sal!
+Tú, sal. ¡Al suelo!
+
+43
+00:04:55,264 --> 00:04:56,932
+¡Al suelo!
+
+44
+00:05:02,192 --> 00:05:03,860
+¡Despejado!
+
+45
+00:05:20,850 --> 00:05:25,871
+POLICÍA AERONÁUTICA
+
+46
+00:05:35,009 --> 00:05:38,949
+<i>Delta 2, Delta 2, por favor,
+revisa el hangar 4.</i>
+
+47
+00:05:39,149 --> 00:05:40,392
+<i>Mi pantalla está en blanco.</i>
+
+48
+00:05:40,958 --> 00:05:43,069
+<i>No sé qué estará pasando ahí.
+Cambio.</i>
+
+49
+00:05:43,269 --> 00:05:44,576
+<i>Recibido, en camino.</i>
+
+50
+00:05:48,248 --> 00:05:50,742
+<i>Unidad en camino al hangar 4.</i>
+
+51
+00:05:51,015 --> 00:05:53,031
+Perros en busca del rastro.
+
+52
+00:05:53,707 --> 00:05:55,320
+¡Reloj, reloj, reloj!
+
+53
+00:05:55,659 --> 00:05:57,653
+<i>Ronin 1, ¡reloj!
+¡Hora de irse!</i>
+
+54
+00:05:57,853 --> 00:06:00,873
+Paquete en mano.
+Paquete en mano. Saliendo.
+
+55
+00:06:01,073 --> 00:06:02,536
+¡Vamos! ¡Vamos! ¡Vamos!
+
+56
+00:06:02,736 --> 00:06:04,115
+¡No está mal!
+
+57
+00:06:04,315 --> 00:06:06,114
+<i>Nos movemos.</i>
+
+58
+00:06:11,340 --> 00:06:15,010
+<i>Cleopatra, Ronin 1.
+Ruedan las ruedas. Ruedan las ruedas.</i>
+
+59
+00:06:22,873 --> 00:06:25,890
+<i>- Si nos atrapan...
+- ¡Más rápido, más rápido!</i>
+
+60
+00:06:27,235 --> 00:06:29,730
+<i>Dos unidades abandonan
+el hangar 4.</i>
+
+61
+00:06:31,029 --> 00:06:33,176
+<i>Identifiquen a ambas unidades.</i>
+
+62
+00:06:36,496 --> 00:06:37,962
+<i>Chófer, aquí Ronin 1.</i>
+
+63
+00:06:38,162 --> 00:06:39,961
+<i>¡Puertas!
+¡Puertas!</i>
+
+64
+00:06:47,619 --> 00:06:48,269
+¿Estamos bien?
+
+65
+00:06:48,469 --> 00:06:51,138
+Estamos limpios.
+Estamos limpios. Sigue bien.
+
+66
+00:07:10,760 --> 00:07:14,300
+<i>Cleopatra,
+estamos despejados y en movimiento.</i>
+
+67
+00:07:52,698 --> 00:07:58,298
+CORTE DEL CONDADO DE LOS ÁNGELES
+DIVISIÓN FAMILIAR
+
+68
+00:08:27,476 --> 00:08:28,195
+<i>En Bélgica anoche,</i>
+
+69
+00:08:28,395 --> 00:08:30,097
+<i>el vuelo 1-1-4 de la aerolínea Salah,</i>
+
+70
+00:08:30,297 --> 00:08:31,535
+<i>que era un vuelo de África,</i>
+
+71
+00:08:31,735 --> 00:08:32,429
+<i>procedente de la
+industria del diamante...</i>
+
+72
+00:08:32,629 --> 00:08:35,618
+<i>se convirtió en el epicentro de un
+atraco meticulosamente ejecutado,</i>
+
+73
+00:08:35,818 --> 00:08:38,592
+<i>en la terminal de carga del
+Aeropuerto Internacional de Amberes.</i>
+
+74
+00:08:38,792 --> 00:08:41,282
+<i>El incidente se desarrolló cuando
+el vuelo llegó de Johannesburgo,</i>
+
+75
+00:08:41,482 --> 00:08:43,540
+<i>y los sospechosos, vestidos
+con equipo táctico policial,</i>
+
+76
+00:08:43,740 --> 00:08:44,837
+<i>corrieron por la pista...</i>
+
+77
+00:08:45,037 --> 00:08:47,083
+<i>para asaltar al hangar de carga.</i>
+
+78
+00:08:47,283 --> 00:08:49,477
+<i>Los informes preliminares sugieren
+que los ladrones se llevaron...</i>
+
+79
+00:08:49,677 --> 00:08:51,648
+<i>diamantes por valor
+de millones de dólares.</i>
+
+80
+00:08:51,848 --> 00:08:53,842
+<i>Los indicios apuntan
+a la mafia Pantera,</i>
+
+81
+00:08:54,042 --> 00:08:55,096
+<i>como posibles organizadores...</i>
+
+82
+00:08:55,296 --> 00:08:57,463
+<i>detrás de este robo
+meticulosamente planeado.</i>
+
+83
+00:08:57,663 --> 00:09:02,670
+COSTA DE AZUR, FRANCIA
+
+84
+00:09:09,587 --> 00:09:13,910
+<i>Sigue caminando,
+estás en el lugar correcto.</i>
+
+85
+00:09:15,080 --> 00:09:16,281
+NIZA, FRANCIA
+
+86
+00:09:16,481 --> 00:09:18,324
+Al asiento trasero.
+
+87
+00:09:39,487 --> 00:09:41,938
+Confío en que sepas cómo usarla.
+
+88
+00:09:44,340 --> 00:09:46,052
+Glock.
+
+89
+00:09:46,711 --> 00:09:48,122
+Sin seguro.
+
+90
+00:09:48,322 --> 00:09:50,207
+Sin seguro.
+
+91
+00:09:52,779 --> 00:09:54,772
+Entonces, ¿cuál será mi tapadera?
+
+92
+00:09:54,972 --> 00:09:57,192
+Eres francés de
+ascendencia marfileña.
+
+93
+00:09:57,392 --> 00:09:59,181
+Eres un comerciante de diamantes
+que trabaja en Londres,
+
+94
+00:09:59,381 --> 00:10:00,397
+y nosotros somos promotores de
+Clubes de música electrónica
+
+95
+00:10:00,597 --> 00:10:01,562
+y estamos aquí para
+promocionar el Festival...
+
+96
+00:10:01,762 --> 00:10:04,648
+durante las próximas dos semanas.
+Así que ese será nuestro reloj.
+
+97
+00:10:14,265 --> 00:10:16,412
+Espero que me tengan
+una buena vista.
+
+98
+00:10:20,850 --> 00:10:22,900
+Nos reuniremos con
+el contacto esta tarde.
+
+99
+00:10:23,100 --> 00:10:25,942
+Es una vendedora y te ha
+preparado un espacio de oficina.
+
+100
+00:10:26,142 --> 00:10:28,105
+Y hemos desinfectado todo el piso ya.
+
+101
+00:10:28,305 --> 00:10:32,672
+Así que ya puedes irte.
+Bienvenido a Niza, Jean-Jacques.
+
+102
+00:10:33,254 --> 00:10:34,965
+Allá vamos.
+
+103
+00:11:16,551 --> 00:11:21,879
+DISTRITO MUNDIAL DEL DIAMANTE
+
+104
+00:11:26,816 --> 00:11:28,789
+Jean-Jacques Dyallo.
+
+105
+00:11:40,163 --> 00:11:43,924
+LONG BEACH
+
+106
+00:12:07,875 --> 00:12:10,413
+- ¿Qué carajos estás haciendo?
+- Síguelo.
+
+107
+00:12:11,034 --> 00:12:12,876
+Sigue a ese maldito auto.
+
+108
+00:12:27,181 --> 00:12:28,805
+¿Qué estamos haciendo?
+
+109
+00:12:29,936 --> 00:12:32,996
+Relájate.
+Todo estará bien.
+
+110
+00:12:47,414 --> 00:12:49,082
+Sal.
+
+111
+00:13:22,336 --> 00:13:24,831
+Una desnudista que no fuma.
+
+112
+00:13:25,687 --> 00:13:26,749
+Eso es nuevo.
+
+113
+00:13:26,949 --> 00:13:28,878
+Vete a la mierda.
+
+114
+00:13:32,986 --> 00:13:35,916
+¿Sigues repartiendo
+comida mala en el Club?
+
+115
+00:13:43,300 --> 00:13:45,594
+De acuerdo.
+Tu amigo te lo ha contado todo.
+
+116
+00:13:45,794 --> 00:13:47,593
+Siempre lo hago.
+
+117
+00:13:48,305 --> 00:13:50,234
+Sabías de los Federales.
+
+118
+00:13:50,917 --> 00:13:53,150
+¿Siempre te coges
+a tus sospechosas?
+
+119
+00:13:53,397 --> 00:13:55,413
+¿Es ese el procedimiento policial?
+
+120
+00:13:59,577 --> 00:14:02,045
+Sabes, podría cerrar estas
+puertas del contenedor,
+
+121
+00:14:02,245 --> 00:14:04,435
+y luego este se enviará a China.
+
+122
+00:14:05,105 --> 00:14:06,471
+Y cuando llegue allí,
+
+123
+00:14:06,671 --> 00:14:10,472
+abrirán las puertas y ahí estarás tú...
+
+124
+00:14:11,106 --> 00:14:12,434
+Muerta.
+
+125
+00:14:12,634 --> 00:14:14,610
+Un desnudista muerta en China.
+
+126
+00:14:14,810 --> 00:14:16,913
+Suena pervertido.
+
+127
+00:14:17,478 --> 00:14:19,102
+No, no lo es.
+
+128
+00:14:19,859 --> 00:14:21,831
+Lo haremos simple.
+
+129
+00:14:22,209 --> 00:14:23,388
+Ya que Merrimen está muerto,
+
+130
+00:14:23,588 --> 00:14:25,721
+vas a decirme dos cosas.
+
+131
+00:14:25,921 --> 00:14:29,809
+¿A dónde iban él y Donnie
+que no llegaron?
+
+132
+00:14:31,392 --> 00:14:34,365
+¿Y qué hicieron con el dinero?
+
+133
+00:14:53,836 --> 00:14:55,461
+¿Quién es el afortunado?
+
+134
+00:14:55,733 --> 00:14:58,011
+Era todo un rarito de la prisión.
+
+135
+00:14:58,462 --> 00:15:00,087
+No me cogió.
+
+136
+00:15:00,882 --> 00:15:02,550
+Tú sí.
+
+137
+00:15:02,871 --> 00:15:04,844
+Y puedo publicar esto...
+
+138
+00:15:05,817 --> 00:15:07,650
+en cualquier momento.
+
+139
+00:15:07,850 --> 00:15:11,433
+¡Dios!
+Parezco mucho más joven ahí.
+
+140
+00:15:14,652 --> 00:15:16,582
+Sé a dónde fue Donnie.
+
+141
+00:15:17,451 --> 00:15:21,024
+Sé dónde puso el dinero.
+Pero quiero mi parte.
+
+142
+00:15:21,224 --> 00:15:22,430
+Siete millones.
+
+143
+00:15:22,630 --> 00:15:25,028
+O el Departamento del Alguacil del
+Condado de Los Ángeles y tus hijas...
+
+144
+00:15:25,228 --> 00:15:28,245
+estarán súper orgullosas de
+tu carrera porno amateur.
+
+145
+00:15:31,321 --> 00:15:33,337
+¿Lo entiendes, hijo de perra?
+
+146
+00:15:40,039 --> 00:15:43,621
+¿Dónde está el dinero?
+
+147
+00:15:45,231 --> 00:15:48,117
+El Banco Diamantino en Niza.
+
+148
+00:15:53,356 --> 00:15:55,232
+Jean-Jacques,
+esta es mi encantadora amiga Chava.
+
+149
+00:15:55,432 --> 00:15:56,573
+<i>- Buen día.
+- Buen día.</i>
+
+150
+00:15:57,243 --> 00:15:59,393
+<i>Entonces,
+¿entiendo que eres francés?</i>
+
+151
+00:15:59,593 --> 00:16:01,225
+<i>¿Podemos hablar en francés?</i>
+
+152
+00:16:01,425 --> 00:16:03,136
+<i>Tengo pasaporte francés...</i>
+
+153
+00:16:03,336 --> 00:16:05,181
+<i>pero estoy un poco...</i>
+
+154
+00:16:05,381 --> 00:16:07,006
+oxidado.
+
+155
+00:16:07,432 --> 00:16:08,326
+Bueno, en este negocio tienes que...
+
+156
+00:16:08,526 --> 00:16:10,353
+hablar el inglés de todos modos,
+así que...
+
+157
+00:16:10,926 --> 00:16:12,989
+¿Creciste en Abiyán o...
+
+158
+00:16:13,189 --> 00:16:14,295
+Tengrela.
+
+159
+00:16:14,495 --> 00:16:16,223
+Entonces, eres Baoule, étnicamente.
+
+160
+00:16:16,423 --> 00:16:19,443
+¿Étnicamente?
+Sinfra.
+
+161
+00:16:19,643 --> 00:16:20,736
+Estoy impresionado.
+
+162
+00:16:20,936 --> 00:16:22,638
+Sabes mucho sobre el país.
+
+163
+00:16:22,838 --> 00:16:24,231
+Quiero decir, tengo muchos amigos...
+
+164
+00:16:24,431 --> 00:16:26,320
+en este negocio de
+África Occidental.
+
+165
+00:16:26,520 --> 00:16:28,004
+Negociadores duros.
+
+166
+00:16:28,204 --> 00:16:29,742
+¿Y quién no?
+
+167
+00:16:31,425 --> 00:16:33,180
+Entonces, Jean-Jacques,
+
+168
+00:16:33,949 --> 00:16:35,459
+¿tienes algo que quieras que vea?
+
+169
+00:16:35,659 --> 00:16:37,240
+Sí.
+
+170
+00:16:56,458 --> 00:16:58,843
+- ¿Y cómo encontraste esto...
+- Mi familia.
+
+171
+00:16:59,043 --> 00:17:01,712
+Hacemos negocios en Botsuana.
+
+172
+00:17:07,774 --> 00:17:08,649
+Vete.
+
+173
+00:17:08,849 --> 00:17:10,430
+Genial.
+
+174
+00:17:10,855 --> 00:17:12,654
+Los dejo a ello.
+
+175
+00:17:17,352 --> 00:17:20,153
+Vamos a colocarte en la Bolsa.
+
+176
+00:17:23,220 --> 00:17:24,021
+<i>Saludos.</i>
+
+177
+00:17:24,221 --> 00:17:26,542
+<i>- Buen día.
+- Buen día.</i>
+
+178
+00:17:27,162 --> 00:17:29,789
+<i>¿Puedo ver su identificación,
+por favor?</i>
+
+179
+00:17:36,794 --> 00:17:38,811
+<i>El saco.</i>
+
+180
+00:17:44,032 --> 00:17:45,918
+<i>Muchas gracias.</i>
+
+181
+00:17:48,154 --> 00:17:49,778
+<i>Señor.</i>
+
+182
+00:18:14,771 --> 00:18:16,386
+<i>- Buen día.
+- Buen día.</i>
+
+183
+00:18:16,586 --> 00:18:18,298
+<i>Buen día.</i>
+
+184
+00:18:23,537 --> 00:18:24,934
+<i>El chico nuevo...</i>
+
+185
+00:18:25,134 --> 00:18:26,527
+<i>camina por la Bolsa.</i>
+
+186
+00:18:26,727 --> 00:18:28,656
+<i>De acuerdo.</i>
+
+187
+00:18:30,400 --> 00:18:31,836
+Vigílalo, ¿muy bien?
+
+188
+00:18:32,036 --> 00:18:33,661
+<i>Sí.</i>
+
+189
+00:18:36,184 --> 00:18:39,680
+<i>Maravilloso.
+Sólo deme un momento, por favor.</i>
+
+190
+00:18:40,997 --> 00:18:44,014
+<i>- Gracias. Ya pueden irse.
+- Gracias.</i>
+
+191
+00:18:53,767 --> 00:18:55,760
+<i>- ¡Hola, Chava! ¿Cómo estás?
+- ¡Hola!</i>
+
+192
+00:18:55,960 --> 00:18:58,141
+<i>Jean-Jacques Dyallo,
+te presento a Olivier, el encargado.</i>
+
+193
+00:18:58,341 --> 00:19:00,096
+<i>¡Bienvenido!</i>
+
+194
+00:19:25,002 --> 00:19:26,604
+<i>Aquí tiene.</i>
+
+195
+00:19:26,804 --> 00:19:28,328
+¿Puedo ver su inventario?
+
+196
+00:19:28,528 --> 00:19:30,152
+Puede.
+
+197
+00:19:37,998 --> 00:19:42,016
+<i>De acuerdo.
+Está bien.</i>
+
+198
+00:19:44,544 --> 00:19:46,998
+<i>Aquí tiene, señor Dyallo.
+Su oficina.</i>
+
+199
+00:19:47,198 --> 00:19:50,063
+Su oficina.
+Teléfono fijo aquí.
+
+200
+00:19:50,263 --> 00:19:53,414
+Marque 3 para seguridad,
+7 para el encargado,
+
+201
+00:19:53,614 --> 00:19:54,963
+y 8 para marcar al exterior.
+
+202
+00:19:55,163 --> 00:19:56,086
+Su caja fuerte.
+
+203
+00:19:56,286 --> 00:19:58,301
+Aquí se marca su código personal.
+
+204
+00:19:58,501 --> 00:20:00,712
+Pero, podría dejarla abierta,
+para ser sincero.
+
+205
+00:20:00,912 --> 00:20:03,650
+Está en el edificio más
+seguro en Europa continental.
+
+206
+00:20:03,850 --> 00:20:05,291
+Eso espero.
+
+207
+00:20:05,491 --> 00:20:07,876
+Esta semana me va a
+llegar algo de inventario.
+
+208
+00:20:08,076 --> 00:20:10,739
+¿Sería posible alquilar una de las
+cajas de la bóveda acorazada?
+
+209
+00:20:10,939 --> 00:20:12,489
+Lo siento, no es posible.
+
+210
+00:20:12,689 --> 00:20:15,057
+Actualmente, todas las cajas de la
+bóveda acorazada están ocupadas.
+
+211
+00:20:15,257 --> 00:20:17,926
+Y de todos modos están reservadas
+para los concesionarios.
+
+212
+00:20:18,465 --> 00:20:20,350
+Esperemos que se abra algo.
+
+213
+00:20:20,710 --> 00:20:22,813
+<i>- Buenos días.
+- Buenos días.</i>
+
+214
+00:20:30,838 --> 00:20:31,987
+¿Y bien?
+
+215
+00:20:32,187 --> 00:20:34,307
+Estamos dentro.
+Pero tenemos un problema.
+
+216
+00:20:34,507 --> 00:20:35,486
+No hay acceso a la
+bóveda acorazada.
+
+217
+00:20:35,686 --> 00:20:38,267
+Sólo los concesionarios
+de Dali tienen acceso,
+
+218
+00:20:38,467 --> 00:20:40,113
+y no hay cajas de
+seguridad disponibles.
+
+219
+00:20:40,313 --> 00:20:42,171
+Tienes que estar bromeando.
+
+220
+00:20:42,371 --> 00:20:44,474
+Déjame encargarme.
+
+221
+00:20:49,209 --> 00:20:53,407
+ULASSAI, CERDEÑA
+
+222
+00:21:41,922 --> 00:21:44,128
+<i>Jefe, lo siento...</i>
+
+223
+00:21:44,328 --> 00:21:46,701
+<i>pero hay algo que necesito
+discutir con usted.</i>
+
+224
+00:21:46,901 --> 00:21:49,657
+<i>¿Tienes que volver a moverme?</i>
+
+225
+00:21:51,714 --> 00:21:53,817
+Siéntate.
+
+226
+00:22:05,411 --> 00:22:10,180
+<i>El diamante en el que invirtió.
+Fue robado.</i>
+
+227
+00:22:10,380 --> 00:22:13,349
+<i>Los ladrones robaron al
+avión que lo transportaba.</i>
+
+228
+00:22:13,549 --> 00:22:16,204
+<i>Ahora está en Niza,
+cerca del Centro de Diamantes...</i>
+
+229
+00:22:16,404 --> 00:22:19,639
+<i>Alguien lo está vendiendo.</i>
+
+230
+00:22:21,688 --> 00:22:23,573
+<i>Encuéntramelo.</i>
+
+231
+00:22:28,782 --> 00:22:33,974
+<i>3274 quilates.
+Excelente calidad.</i>
+
+232
+00:22:34,174 --> 00:22:36,930
+<i>¿Y el de 30 quilates?</i>
+
+233
+00:22:38,848 --> 00:22:40,694
+<i>Vaya, vaya...</i>
+
+234
+00:22:40,894 --> 00:22:43,302
+<i>Esto es realmente una obra de arte.</i>
+
+235
+00:22:50,164 --> 00:22:52,006
+<i>Baliza GPS.</i>
+
+236
+00:22:52,314 --> 00:22:54,678
+<i>Alguien está buscando esto.</i>
+
+237
+00:22:55,151 --> 00:22:56,645
+<i>¿Puedo?</i>
+
+238
+00:23:03,369 --> 00:23:07,734
+<i>Oferta 5.2. Si se va rápido,
+quita 45.</i>
+
+239
+00:23:07,934 --> 00:23:10,493
+<i>Si es en efectivo, quita 55.</i>
+
+240
+00:23:10,693 --> 00:23:12,073
+<i>¿Y en bruto?</i>
+
+241
+00:23:12,273 --> 00:23:15,163
+<i>3.87 con todo incluido.</i>
+
+242
+00:23:15,363 --> 00:23:17,165
+¿Tienes una cuenta al
+otro lado de la calle?
+
+243
+00:23:17,365 --> 00:23:19,963
+Por supuesto.
+¿Cuál sería la oferta?
+
+244
+00:23:20,163 --> 00:23:21,722
+Bueno,
+estas piedras obviamente no vienen...
+
+245
+00:23:21,922 --> 00:23:23,737
+con certificados Kimberley.
+
+246
+00:23:23,937 --> 00:23:25,692
+4.2.
+
+247
+00:23:26,753 --> 00:23:28,846
+Yo...
+No puedo bajar de 5.
+
+248
+00:23:29,046 --> 00:23:32,760
+También es la única oferta que
+vas a recibir, Jean-Jacques.
+
+249
+00:23:36,876 --> 00:23:40,154
+<i>¡De acuerdo!
+¡Hemos terminado!</i>
+
+250
+00:23:41,115 --> 00:23:43,483
+BANCO DIAMANTINO DE NIZA
+- 4.2.
+Aquí está su dinero.
+
+251
+00:23:43,683 --> 00:23:46,569
+Tengo entendido que
+tenemos un Marsala.
+
+252
+00:24:39,900 --> 00:24:42,045
+<i>Cambiaremos al inglés
+para que todos lo entiendan.</i>
+
+253
+00:24:42,245 --> 00:24:42,777
+<i>De acuerdo.</i>
+
+254
+00:24:42,977 --> 00:24:43,826
+Las comunicaciones son seguras,
+
+255
+00:24:44,026 --> 00:24:45,999
+- así que podemos hablar libremente.
+- Está bien.
+
+256
+00:24:46,963 --> 00:24:48,852
+Soy Cleopatra.
+
+257
+00:24:49,052 --> 00:24:51,246
+Ahora, he estado trabajando con
+cada uno de ustedes individualmente,
+
+258
+00:24:51,446 --> 00:24:53,117
+pero nunca como grupo.
+
+259
+00:24:53,317 --> 00:24:56,077
+Hay una razón por la
+que están todos aquí.
+
+260
+00:24:56,277 --> 00:24:58,397
+Este será nuestro mayor trabajo
+en el continente, hasta la fecha.
+
+261
+00:24:58,597 --> 00:24:59,994
+Esto no es un robo rápido.
+
+262
+00:25:00,194 --> 00:25:03,432
+Estamos aquí para robar
+el Centro Mundial de Diamantes.
+
+263
+00:25:03,632 --> 00:25:07,362
+Estimamos que el botín asciende
+a €850 millones de euros.
+
+264
+00:25:07,562 --> 00:25:11,580
+Usen estas tarjetas SIM y sólo estas
+para todas las comunicaciones.
+
+265
+00:25:12,119 --> 00:25:15,501
+Vuk, logística.
+Marko, vehículos y transporte.
+
+266
+00:25:15,701 --> 00:25:17,929
+Dragan, cajas fuertes, entrada.
+
+267
+00:25:18,129 --> 00:25:20,741
+Slavko, comunicaciones,
+vigilancia celular.
+
+268
+00:25:20,941 --> 00:25:22,812
+<i>- ¿Quién es este tipo?
+- Jean-Jacques.</i>
+
+269
+00:25:23,012 --> 00:25:24,466
+Él se encargará del
+reconocimiento y la planificación.
+
+270
+00:25:24,666 --> 00:25:26,107
+<i>¿Qué carajos está haciendo él aquí?</i>
+
+271
+00:25:26,307 --> 00:25:27,948
+<i>Este es mi atraco.</i>
+
+272
+00:25:28,148 --> 00:25:30,820
+<i>Y yo pago las facturas.</i>
+
+273
+00:25:31,020 --> 00:25:31,605
+Eso es lo que estoy haciendo aquí,
+carajo.
+
+274
+00:25:31,805 --> 00:25:33,933
+De acuerdo, de acuerdo, chicos.
+Cálmense, carajo, ¿de acuerdo?
+
+275
+00:25:34,133 --> 00:25:35,986
+Este tipo es uno de los mejores
+ladrones en el planeta, ¿muy bien?
+
+276
+00:25:36,186 --> 00:25:36,758
+¿Qué carajos te pasa?
+
+277
+00:25:36,958 --> 00:25:37,939
+<i>¿Te has vuelto loca
+trayéndolo aquí?</i>
+
+278
+00:25:38,139 --> 00:25:41,996
+Sí, es jodidamente normal.
+¡Oye! ¡Cierra la puta boca!
+
+279
+00:25:44,773 --> 00:25:46,475
+De acuerdo.
+Tenemos hasta el último domingo...
+
+280
+00:25:46,675 --> 00:25:48,259
+del mes, para ejecutar el trabajo.
+
+281
+00:25:48,459 --> 00:25:49,417
+Así que, procedamos al...
+
+282
+00:25:49,617 --> 00:25:51,825
+reconocimiento de nuestro
+objetivo aquí,
+
+283
+00:25:52,855 --> 00:25:54,414
+el Centro Mundial de Diamantes.
+
+284
+00:25:54,614 --> 00:25:57,630
+Reunir toda la información
+que necesitaremos será difícil.
+
+285
+00:25:57,830 --> 00:26:00,663
+Jean-Jacques será nuestro
+activo en el interior.
+
+286
+00:26:00,863 --> 00:26:03,097
+Él encontrará nuestro
+camino a la bóveda.
+
+287
+00:26:03,966 --> 00:26:05,333
+Y si tienen algún problema con eso,
+
+288
+00:26:05,533 --> 00:26:07,727
+pueden largarse ahora mismo.
+
+289
+00:26:07,927 --> 00:26:10,569
+Estoy bien, jefe.
+
+290
+00:26:10,769 --> 00:26:11,683
+¿Qué necesitas?
+
+291
+00:26:11,883 --> 00:26:15,069
+Necesitaré marcas, fabricantes y modelos
+de todos los sistemas de seguridad,
+
+292
+00:26:15,269 --> 00:26:16,331
+y, por supuesto,
+de la bóveda acorazada.
+
+293
+00:26:16,531 --> 00:26:18,302
+Necesito identificar
+a todo su personal.
+
+294
+00:26:18,502 --> 00:26:19,508
+Averiguar con quién
+estamos tratando,
+
+295
+00:26:19,708 --> 00:26:21,697
+y de alguna manera,
+acceder a sus comunicaciones.
+
+296
+00:26:21,897 --> 00:26:23,991
+Confirmar rutas,
+encontrar las salidas.
+
+297
+00:26:24,191 --> 00:26:28,208
+Prepararé las rutas. Y necesitaré verlas,
+antes de seleccionar los vehículos.
+
+298
+00:26:28,408 --> 00:26:30,497
+- Entonces, ¿estamos bien?
+- Sí.
+
+299
+00:26:30,697 --> 00:26:32,452
+<i>Bravo.</i>
+
+300
+00:26:34,654 --> 00:26:37,657
+<i>- Haz tu trabajo.
+- ¿Qué te pasa?</i>
+
+301
+00:26:37,857 --> 00:26:40,613
+<i>- Y déjate de tonterías ya.
+- ¡Vete a la mierda!</i>
+
+302
+00:27:04,331 --> 00:27:08,460
+AEROPUERTO INTERNACIONAL DE NIZA
+
+303
+00:27:10,877 --> 00:27:12,545
+Allá vamos.
+
+304
+00:27:15,242 --> 00:27:19,173
+Francia.
+Italia.
+
+305
+00:27:19,581 --> 00:27:22,032
+ALPES MARÍTIMOS
+- Esa curva, esa es la frontera.
+
+306
+00:27:22,523 --> 00:27:23,603
+Esta es la ruta alpina.
+
+307
+00:27:23,803 --> 00:27:26,432
+¿No hay cámaras de seguridad, ni lectores
+de matrículas en estos caminos?
+
+308
+00:27:26,632 --> 00:27:28,882
+Cero.
+Todo está allá en la costa.
+
+309
+00:27:29,082 --> 00:27:30,636
+Esta es la ruta.
+
+310
+00:27:30,836 --> 00:27:31,972
+Necesito tracción en
+las cuatro ruedas.
+
+311
+00:27:32,172 --> 00:27:34,975
+Quita la automatización.
+Sin antibloqueo.
+
+312
+00:27:35,175 --> 00:27:37,238
+<i>¿También querrá que
+le chupe la verga?</i>
+
+313
+00:27:37,438 --> 00:27:39,122
+Disculpa, ¿qué has dicho?
+
+314
+00:27:39,322 --> 00:27:40,990
+Sí, señor.
+
+315
+00:27:53,206 --> 00:27:55,204
+FUERZA DE TRABAJO PANTERA
+- Disculpe. Lo siento.
+
+316
+00:27:55,404 --> 00:27:59,614
+<i>¿Está el Capitán aquí?
+¿Capitán?</i>
+
+317
+00:27:59,947 --> 00:28:00,483
+<i>Sí, sí.</i>
+
+318
+00:28:00,683 --> 00:28:02,219
+- No hay problema.
+- De acuerdo.
+
+319
+00:28:02,419 --> 00:28:04,513
+Tenemos cita a la 1:00,
+la 1:00 p. m.
+
+320
+00:28:04,713 --> 00:28:06,685
+Es... es... es la 1:30 p. m. ya.
+
+321
+00:28:06,885 --> 00:28:08,417
+¿Él sabe que estoy aquí o...
+
+322
+00:28:08,617 --> 00:28:11,211
+Nicholas. Hugo.
+
+323
+00:28:11,411 --> 00:28:12,526
+Bienvenido.
+
+324
+00:28:12,726 --> 00:28:14,374
+Me alegro de conocerte por fin.
+
+325
+00:28:14,574 --> 00:28:15,985
+Creía que habíamos quedado a la 1:00,
+pero...
+
+326
+00:28:16,185 --> 00:28:17,810
+No...
+
+327
+00:28:18,884 --> 00:28:21,034
+Bueno, de todos modos,
+te he traído algunos regalos.
+
+328
+00:28:21,234 --> 00:28:23,106
+Pensé que a ti y a los
+chicos les gustaría.
+
+329
+00:28:23,306 --> 00:28:25,732
+<i>Gracias, amigo, es genial.</i>
+
+330
+00:28:25,965 --> 00:28:30,160
+Tengo LAPD, pero no LASD.
+Está muy genial.
+
+331
+00:28:30,360 --> 00:28:32,032
+¿Quieres algo de comer, beber?
+
+332
+00:28:32,232 --> 00:28:34,482
+Café. Quizá uno de esos
+croissants pequeños.
+
+333
+00:28:34,682 --> 00:28:35,731
+No, no, Nick.
+
+334
+00:28:35,931 --> 00:28:38,386
+Es "cruasán", no, croissant.
+
+335
+00:28:38,586 --> 00:28:39,940
+Bueno, está claro que no
+hablo francés, ¿verdad?
+
+336
+00:28:40,140 --> 00:28:41,094
+¿Qué estadounidense lo hace?
+
+337
+00:28:41,294 --> 00:28:43,284
+Este es el Teniente Varane.
+Teniente O'Brien.
+
+338
+00:28:43,917 --> 00:28:45,767
+<i>- Encantado de conocerte.
+- Un café y un cruasán.</i>
+
+339
+00:28:45,967 --> 00:28:46,851
+<i>¡Querida!</i>
+
+340
+00:28:47,051 --> 00:28:49,003
+<i>¿Podrías traer un café
+y un cruasán aquí, por favor?</i>
+
+341
+00:28:49,203 --> 00:28:50,518
+<i>De acuerdo.</i>
+
+342
+00:28:53,322 --> 00:28:54,110
+Aquí están.
+
+343
+00:28:54,310 --> 00:28:54,964
+<i>Sí.</i>
+
+344
+00:28:55,164 --> 00:28:57,720
+Es muy difícil de descifrar.
+Étnicamente insulares.
+
+345
+00:28:58,053 --> 00:29:00,064
+Trabajan con los italianos y
+los albaneses de vez en cuando,
+
+346
+00:29:00,264 --> 00:29:02,128
+pero tácticamente son brillantes.
+
+347
+00:29:02,328 --> 00:29:04,225
+Los jugadores sólo saben
+quién está en la célula,
+
+348
+00:29:04,425 --> 00:29:05,356
+para un trabajo en particular.
+
+349
+00:29:05,556 --> 00:29:07,328
+Así que, si los atrapan,
+no habrá nadie a quien delatar.
+
+350
+00:29:07,528 --> 00:29:08,095
+<i>Sí.</i>
+
+351
+00:29:08,295 --> 00:29:09,618
+Y es difícil identificarlos.
+
+352
+00:29:09,818 --> 00:29:11,939
+No recibimos mucha
+ayuda de Balkan Alley.
+
+353
+00:29:12,272 --> 00:29:14,509
+Y todos son como de servicios
+de seguridad y militares.
+
+354
+00:29:14,709 --> 00:29:16,267
+Saben cómo mantenerse
+fuera de la red.
+
+355
+00:29:16,467 --> 00:29:19,819
+A menudo utilizan a mujeres
+que fueron modelos o atletas...
+
+356
+00:29:20,019 --> 00:29:21,777
+que pasan mucho tiempo
+en Europa Occidental.
+
+357
+00:29:21,977 --> 00:29:25,560
+Así que tienen contactos.
+Saben cómo moverse.
+
+358
+00:29:25,951 --> 00:29:27,230
+Este tipo.
+Slobodan.
+
+359
+00:29:27,430 --> 00:29:28,579
+Es un receptor de dinero
+de procedencia delictiva.
+
+360
+00:29:28,779 --> 00:29:29,703
+Tiene tratos con la 'Ndrangheta
+
+361
+00:29:29,903 --> 00:29:32,192
+y con todas las principales
+joyerías en Italia.
+
+362
+00:29:32,392 --> 00:29:35,931
+Da luz verde a todos los
+trabajos en el continente.
+
+363
+00:29:36,513 --> 00:29:39,286
+Llevamos casi una década
+intentando atraparlo.
+
+364
+00:29:39,486 --> 00:29:41,284
+Siéntate, Nick.
+
+365
+00:29:44,317 --> 00:29:46,889
+Cuéntanos sobre tu sospechoso.
+
+366
+00:29:47,089 --> 00:29:48,978
+Tenemos razones para creer...
+Gracias.
+
+367
+00:29:49,178 --> 00:29:52,865
+Que opera desde Europa,
+posiblemente en Francia.
+
+368
+00:29:53,065 --> 00:29:55,389
+Empezamos a investigarlo
+después del atraco de Amberes.
+
+369
+00:29:55,589 --> 00:29:57,826
+Muchas de las firmas en
+ese trabajo, eran similares...
+
+370
+00:29:58,026 --> 00:30:01,261
+a algunas de las que
+investigamos en Los Ángeles.
+
+371
+00:30:02,061 --> 00:30:03,489
+Pero, tú sabes,
+la Policía Aeronáutica...
+
+372
+00:30:03,689 --> 00:30:06,039
+cree que la mayoría
+eran de los Balcanes.
+
+373
+00:30:06,239 --> 00:30:09,029
+Pensaba que habías dicho que todos
+eran de los Balcanes, excepto por uno.
+
+374
+00:30:09,229 --> 00:30:10,578
+El que los reclutó.
+
+375
+00:30:10,778 --> 00:30:14,143
+De acuerdo.
+¿Y era negro?
+
+376
+00:30:15,478 --> 00:30:16,332
+<i>Sí.</i>
+
+377
+00:30:16,532 --> 00:30:18,468
+Está bien. Entonces,
+no todos eran de los Balcanes.
+
+378
+00:30:18,668 --> 00:30:19,943
+Esa es la cuestión.
+
+379
+00:30:20,143 --> 00:30:22,116
+No eran.
+
+380
+00:30:22,803 --> 00:30:25,549
+¿Han podido conseguir las imágenes
+de vigilancia que les solicité?
+
+381
+00:30:25,749 --> 00:30:27,334
+Por supuesto.
+
+382
+00:30:27,534 --> 00:30:29,245
+De acuerdo.
+
+383
+00:30:30,450 --> 00:30:32,422
+¿Puedo verlas?
+
+384
+00:30:37,731 --> 00:30:39,834
+¿Cómo está tu croissant?
+
+385
+00:30:40,747 --> 00:30:41,623
+Genial.
+
+386
+00:30:41,823 --> 00:30:44,379
+Te haré la vida un poco más fácil,
+mientras estés aquí.
+
+387
+00:30:44,612 --> 00:30:47,354
+Sabes, algunas de las
+letras en francés son mudas.
+
+388
+00:30:47,554 --> 00:30:50,461
+Como la "T" en croissant,
+por ejemplo.
+
+389
+00:30:50,661 --> 00:30:54,535
+¿Sabes?
+En inglés se dice samon, ¿verdad?
+
+390
+00:30:54,735 --> 00:30:56,842
+Pero la "L" no se pronuncia, ¿no?
+
+391
+00:30:57,042 --> 00:30:58,874
+¿Estoy en Cámara Escondida
+o algo así?
+
+392
+00:30:59,074 --> 00:31:01,847
+Sabes, en realidad yo digo "salmón".
+Siempre lo he hecho.
+
+393
+00:31:02,047 --> 00:31:04,998
+Sal-món.
+Así que ahí lo tienes.
+
+394
+00:31:05,198 --> 00:31:07,056
+Es un tipo gracioso ¿no?
+
+395
+00:31:07,256 --> 00:31:09,463
+De acuerdo.
+Esto es del día que nos solicitaste.
+
+396
+00:31:09,663 --> 00:31:11,278
+Avísame cuando haga una pausa.
+
+397
+00:31:11,478 --> 00:31:13,973
+Eso es.
+Banco Diamantino.
+
+398
+00:31:18,659 --> 00:31:22,459
+Espera, espera, espera, detente.
+Ahí mismo. ¿Puedes hacer zoom?
+
+399
+00:31:23,403 --> 00:31:25,430
+Intenta encontrarlo cuando salga.
+
+400
+00:31:27,307 --> 00:31:29,497
+De acuerdo, sólo...
+Detente.
+
+401
+00:31:30,192 --> 00:31:32,469
+Está bien.
+Un paso adelante.
+
+402
+00:31:35,632 --> 00:31:37,317
+Congela.
+Congela ahí.
+
+403
+00:31:37,517 --> 00:31:39,141
+Acerca.
+
+404
+00:31:44,985 --> 00:31:46,783
+<i>Y bueno, ¿es él?</i>
+
+405
+00:31:47,893 --> 00:31:52,215
+No, no. No, no.
+Él no es.
+
+406
+00:31:52,445 --> 00:31:53,320
+¿No?
+
+407
+00:31:53,520 --> 00:31:55,101
+No.
+
+408
+00:32:03,069 --> 00:32:06,376
+Si necesitas algo más,
+tienes mi número.
+
+409
+00:32:06,576 --> 00:32:08,291
+Quizá podamos salir a comer salmón.
+
+410
+00:32:08,491 --> 00:32:09,440
+Gracias.
+
+411
+00:32:09,640 --> 00:32:11,613
+Pero la comida francesa es un asco.
+
+412
+00:32:13,583 --> 00:32:17,036
+En realidad, Nick, es la mejor.
+
+413
+00:32:18,301 --> 00:32:21,449
+Pero ustedes los
+estadounidenses no tienen gusto.
+
+414
+00:32:45,309 --> 00:32:46,960
+EL ALTO DE ENMEDIO, FLORENTINO, SOLTERO
+
+415
+00:32:47,160 --> 00:32:49,248
+AQUÍ ESTÁ EL ARCHIVO
+DE CONTACTO PARA PEGASUS
+
+416
+00:33:17,233 --> 00:33:18,988
+Así es.
+
+417
+00:33:37,058 --> 00:33:39,771
+Trampa de miel preparada.
+Revisa tu Pegasus.
+
+418
+00:33:45,353 --> 00:33:47,108
+Lo tenemos.
+
+419
+00:34:18,795 --> 00:34:20,462
+Señorita.
+
+420
+00:34:21,755 --> 00:34:23,422
+Siéntate.
+
+421
+00:34:27,165 --> 00:34:31,531
+Vamos, viejo, siéntate.
+Me estás poniendo nervioso.
+
+422
+00:34:35,029 --> 00:34:38,002
+No muerdo.
+Lo prometo.
+
+423
+00:35:02,813 --> 00:35:04,612
+Entonces, ¿qué llevas ahí?
+
+424
+00:35:13,894 --> 00:35:16,345
+Aquí no tienes jurisdicción.
+
+425
+00:35:34,928 --> 00:35:37,336
+Yo no he robado la Reserva Federal.
+
+426
+00:35:38,497 --> 00:35:41,166
+¿Quién ha dicho algo
+de la Reserva Federal?
+
+427
+00:35:44,216 --> 00:35:46,614
+¿Sabes en qué estaba
+pensando ahora mismo?
+
+428
+00:35:46,814 --> 00:35:51,528
+Tú y yo somos parte de
+esta extraña simbiosis.
+
+429
+00:35:52,454 --> 00:35:56,821
+Verás, sólo existes,
+Fraulein, gracias a mí.
+
+430
+00:35:57,485 --> 00:35:58,844
+Sí no estuviéramos allí para
+intentar impedirte...
+
+431
+00:35:59,044 --> 00:36:01,611
+de que pases mierda de
+contrabando y robes mierda,
+
+432
+00:36:01,811 --> 00:36:06,308
+entonces, tu mierda no
+valdría una jodida cosa.
+
+433
+00:36:06,947 --> 00:36:08,370
+Sólo vale la pena
+el esfuerzo,
+
+434
+00:36:08,570 --> 00:36:10,677
+porque nosotros estamos ahí
+intentando detenerte.
+
+435
+00:36:10,877 --> 00:36:13,459
+Así que, en realidad,
+tienes que agradecérmelo...
+
+436
+00:36:15,142 --> 00:36:18,116
+de que tu mierda valga algo.
+
+437
+00:36:20,278 --> 00:36:22,642
+- De nada.
+- De acuerdo.
+
+438
+00:36:25,587 --> 00:36:29,779
+Me parto de risa, cuando la gente
+saca pistolas contra la gente.
+
+439
+00:36:30,649 --> 00:36:32,926
+¿Por qué no les disparas y ya está?
+
+440
+00:36:38,935 --> 00:36:42,257
+Tú no eres un asesino.
+Yo sí.
+
+441
+00:36:44,524 --> 00:36:48,934
+Me has engañado, Fräulein.
+Y nadie me engaña.
+
+442
+00:36:57,258 --> 00:36:59,100
+Estoy arruinado.
+
+443
+00:37:00,218 --> 00:37:01,715
+Y estoy harto de ser el cazador.
+
+444
+00:37:01,915 --> 00:37:04,323
+Es jodidamente agotador.
+
+445
+00:37:07,137 --> 00:37:09,004
+Echemos un vistazo
+a tu punto de vista.
+
+446
+00:37:22,501 --> 00:37:26,258
+Por las calles de Los Ángeles
+se dice que te han despedido.
+
+447
+00:37:29,869 --> 00:37:31,754
+Entonces, ¿cómo vas a entrar?
+
+448
+00:37:38,586 --> 00:37:40,341
+Tómala.
+
+449
+00:37:47,408 --> 00:37:49,642
+Te lo voy a preguntar de nuevo.
+
+450
+00:37:50,093 --> 00:37:52,066
+¿Cómo vas a entrar ahí?
+
+451
+00:37:55,373 --> 00:37:57,084
+Estoy en ello.
+
+452
+00:38:02,292 --> 00:38:04,212
+No, no puedes confiar en mí.
+
+453
+00:38:04,412 --> 00:38:07,402
+Y sí, puedo meterte en cintura
+en cualquier momento que quiera.
+
+454
+00:38:07,602 --> 00:38:09,187
+Dependerá de mi estado de ánimo.
+
+455
+00:38:09,387 --> 00:38:13,318
+Ahora mismo, Fraulein,
+estoy de buen humor.
+
+456
+00:38:15,205 --> 00:38:19,354
+Vas a robar ese sitio.
+Y yo voy a hacerlo contigo.
+
+457
+00:38:22,125 --> 00:38:24,490
+Quiero conocer a esos Panteras.
+
+458
+00:38:26,316 --> 00:38:28,202
+Organízalo.
+
+459
+00:38:48,195 --> 00:38:49,637
+Carajo.
+
+460
+00:39:06,461 --> 00:39:08,129
+<i>Hola, jefe.</i>
+
+461
+00:39:08,594 --> 00:39:10,335
+<i>¿Cómo está la comida
+en este maldito sitio?</i>
+
+462
+00:39:10,535 --> 00:39:12,672
+<i>Está bien.
+Nada de la "nouvelle cuisine".</i>
+
+463
+00:39:12,872 --> 00:39:14,888
+<i>La nouvelle cuisine es una mierda.</i>
+
+464
+00:39:15,322 --> 00:39:17,150
+<i>El cliente está enojado.</i>
+
+465
+00:39:17,350 --> 00:39:18,895
+<i>Invirtió la mitad de su maldita
+jubilación, en ese diamante.</i>
+
+466
+00:39:19,095 --> 00:39:21,637
+<i>Y él es el maldito Pulpo, así que
+más vale que lo encontremos.</i>
+
+467
+00:39:21,837 --> 00:39:23,396
+<i>Me gusta un poco jugar
+a las escondidas.</i>
+
+468
+00:39:23,596 --> 00:39:26,220
+Esta es nuestra ciudad.
+Nadie podrá esconderse de nosotros aquí.
+
+469
+00:39:26,420 --> 00:39:30,351
+<i>Ni siquiera una mosca puede
+volar aquí, sin que lo sepamos...</i>
+
+470
+00:39:41,000 --> 00:39:42,972
+¡Jesús, qué fuerte!
+
+471
+00:39:54,927 --> 00:39:56,725
+¿Es ella?
+
+472
+00:39:57,556 --> 00:39:59,445
+Sí, es ella.
+
+473
+00:39:59,645 --> 00:40:02,662
+No recuerdo haber recibido un memorándum
+que dijera que era una supermodelo.
+
+474
+00:40:08,168 --> 00:40:09,563
+<i>¿Me das uno?</i>
+
+475
+00:40:21,980 --> 00:40:24,257
+<i>¿Inglés? ¿Sí?</i>
+
+476
+00:40:34,296 --> 00:40:36,234
+¿Has trabajado en seguridad?
+
+477
+00:40:36,434 --> 00:40:38,493
+Entre otras cosas.
+
+478
+00:40:38,710 --> 00:40:39,728
+¿Cómo se conocieron?
+
+479
+00:40:39,928 --> 00:40:41,466
+En la prisión.
+
+480
+00:40:42,000 --> 00:40:44,495
+En realidad, en un crucero gay.
+
+481
+00:40:52,972 --> 00:40:55,293
+El hombre Marlboro.
+
+482
+00:41:13,632 --> 00:41:14,650
+<i>Ese era Policía.</i>
+
+483
+00:41:14,850 --> 00:41:16,091
+<i>Nosotros también.</i>
+
+484
+00:41:16,291 --> 00:41:19,128
+<i>- Hay Policías de todo tipo.
+- Ellos no son como nosotros.</i>
+
+485
+00:41:19,328 --> 00:41:21,696
+Sí. Pero, bueno, por eso les dejo
+que hagan el trabajo por nosotros.
+
+486
+00:41:21,896 --> 00:41:24,094
+Yo me hago pasar por Policía,
+cómo me hago pasar por lo que sea.
+
+487
+00:41:24,294 --> 00:41:25,240
+<i>Sólo conduce el auto.</i>
+
+488
+00:41:25,440 --> 00:41:28,301
+Ahora mismo, él es nuestra llave
+a la bóveda. No hay otra opción.
+
+489
+00:41:28,934 --> 00:41:32,128
+<i>El dinero no tiene bandera.</i>
+
+490
+00:41:32,328 --> 00:41:33,713
+Invítalo esta noche.
+
+491
+00:41:33,913 --> 00:41:36,920
+Lo meteremos en un agujero profundo
+y veremos si sale arrastrándose.
+
+492
+00:41:37,120 --> 00:41:39,528
+<i>- ¿De acuerdo?
+- Estoy de acuerdo.</i>
+
+493
+00:41:42,529 --> 00:41:44,489
+<i>Buen día.</i>
+
+494
+00:41:44,689 --> 00:41:47,369
+<i>Escuche, ya hemos hablado de esto.</i>
+
+495
+00:41:47,569 --> 00:41:49,972
+<i>Esto es agotador,
+hablaremos más tarde.</i>
+
+496
+00:41:50,172 --> 00:41:51,874
+Lo siento.
+Cuanto más ricos son,
+
+497
+00:41:52,074 --> 00:41:54,133
+mayores sinvergüenzas se vuelven.
+Los muy idiotas.
+
+498
+00:41:54,333 --> 00:41:57,015
+Una vez que te conviertes en
+un esclavo de la codicia, estás jodido.
+
+499
+00:41:57,215 --> 00:41:59,187
+Entonces, supongo que
+los dos estaremos jodidos.
+
+500
+00:42:00,635 --> 00:42:02,102
+Entonces, ¿cómo puedo ayudarle?
+
+501
+00:42:02,302 --> 00:42:04,291
+Me preguntaba si
+puedo alquilar espacio...
+
+502
+00:42:04,491 --> 00:42:06,498
+en una de sus cajas de seguridad,
+durante unas semanas.
+
+503
+00:42:06,698 --> 00:42:08,400
+Tengo un poco de inventario
+que está llegando y...
+
+504
+00:42:08,600 --> 00:42:11,486
+No me gusta la idea de
+guardarlo en la oficina.
+
+505
+00:42:12,268 --> 00:42:14,170
+¿Cuánto espacio exactamente?
+
+506
+00:42:14,370 --> 00:42:16,300
+Para alrededor de 3.000 quilates.
+
+507
+00:42:17,883 --> 00:42:19,567
+Divida el coste mensual
+y podremos hacerlo.
+
+508
+00:42:19,767 --> 00:42:21,305
+Perfecto.
+
+509
+00:42:21,551 --> 00:42:23,698
+<i>Bueno.</i>
+
+510
+00:42:28,907 --> 00:42:31,489
+<i>Ya está aquí.</i>
+
+511
+00:42:35,030 --> 00:42:38,265
+<i>- ¿Estás bien?
+- Estoy bien, ¿y tú?</i>
+
+512
+00:42:42,033 --> 00:42:43,657
+Enséñaselo.
+
+513
+00:42:48,074 --> 00:42:49,872
+<i>Dámelo a mí.</i>
+
+514
+00:43:00,865 --> 00:43:02,018
+<i>¿Qué hago con esto?</i>
+
+515
+00:43:02,218 --> 00:43:04,800
+<i>Sujételo de lado,
+y toque la pantalla.</i>
+
+516
+00:43:08,324 --> 00:43:11,406
+¿Ese es el tipo que
+tenía la baliza GPS?
+
+517
+00:43:11,606 --> 00:43:13,703
+<i>¿Es el tipo que
+tenía la baliza GPS?</i>
+
+518
+00:43:13,903 --> 00:43:15,505
+<i>Es él.</i>
+
+519
+00:43:15,705 --> 00:43:17,635
+Envíamelo por mensaje de texto.
+
+520
+00:43:18,173 --> 00:43:18,879
+<i>Envíanoslo por mensaje de texto.</i>
+
+521
+00:43:19,079 --> 00:43:21,269
+- De acuerdo.
+- Buen trabajo.
+
+522
+00:43:26,529 --> 00:43:28,763
+<i>Esto es una mierda.</i>
+
+523
+00:44:00,407 --> 00:44:02,815
+¡Oye!
+
+524
+00:44:03,749 --> 00:44:05,547
+Tienes buen aspecto.
+
+525
+00:44:06,082 --> 00:44:07,157
+Con una mierda.
+
+526
+00:44:07,357 --> 00:44:09,504
+¿Verdad?
+
+527
+00:44:10,660 --> 00:44:12,807
+¿Así que estas son
+tus nuevas novias?
+
+528
+00:44:13,359 --> 00:44:16,115
+Tómalo con calma, viejo.
+No tenemos prisa.
+
+529
+00:44:19,434 --> 00:44:21,284
+- Nick.
+- Slavko.
+
+530
+00:44:21,484 --> 00:44:23,256
+Bonito nombre.
+Un placer.
+
+531
+00:44:23,456 --> 00:44:25,516
+- Dragan.
+- Nick.
+
+532
+00:44:25,971 --> 00:44:27,900
+A ti ya te conozco.
+
+533
+00:44:28,274 --> 00:44:29,942
+Nick.
+
+534
+00:44:31,477 --> 00:44:33,580
+Tómate tu tiempo, hermano.
+
+535
+00:44:34,158 --> 00:44:35,168
+Marko.
+
+536
+00:44:35,368 --> 00:44:36,922
+Marko.
+
+537
+00:44:37,122 --> 00:44:39,241
+<i>- Nicko.
+- Vete a la mierda.</i>
+
+538
+00:44:39,441 --> 00:44:40,478
+<i>¡Basta!</i>
+
+539
+00:44:40,678 --> 00:44:42,520
+Toma asiento.
+
+540
+00:44:46,218 --> 00:44:47,929
+Gracias.
+
+541
+00:44:53,181 --> 00:44:54,809
+¿Cómo se llama ese juego?
+
+542
+00:44:55,009 --> 00:44:57,799
+Ya sabes, ¿ese con las bolitas
+de metal que se lanzan?
+
+543
+00:44:57,999 --> 00:44:59,340
+- Bocce.
+- Bocce.
+
+544
+00:44:59,540 --> 00:45:03,923
+Sabes, en la cafetería hoy...
+Los vi allí.
+
+545
+00:45:04,123 --> 00:45:07,183
+Tu Academia de Policía
+te enseñó bien, Nicko.
+
+546
+00:45:07,617 --> 00:45:09,302
+Que se joda la Policía.
+
+547
+00:45:09,502 --> 00:45:11,431
+Sí, que se joda la Policía.
+
+548
+00:45:15,260 --> 00:45:16,849
+- ¿Qué es eso?
+- Sljivo.
+
+549
+00:45:17,049 --> 00:45:19,952
+- ¿Perdón?
+- Sljivo. Sljivovica.
+
+550
+00:45:20,152 --> 00:45:23,343
+Cuando te quedes sin gasolina,
+puedes echar esto en tu auto.
+
+551
+00:45:27,420 --> 00:45:29,523
+Eso es una mierda asquerosa.
+
+552
+00:45:33,252 --> 00:45:36,138
+- ¿Qué es?
+- Pruébalo.
+
+553
+00:45:38,344 --> 00:45:40,333
+Los Policías no se meten drogas.
+
+554
+00:45:40,533 --> 00:45:42,104
+Así que hazte un favor...
+
+555
+00:45:42,304 --> 00:45:45,191
+Deja de ser un maricón.
+Y absorbe esa mierda.
+
+556
+00:45:55,665 --> 00:45:57,508
+Con una mierda.
+
+557
+00:46:04,083 --> 00:46:06,502
+En serio. ¿Qué estamos...
+qué estamos fumando?
+
+558
+00:46:06,702 --> 00:46:08,013
+Hachís.
+
+559
+00:46:08,213 --> 00:46:09,610
+Con un poco de polvo de hadas.
+
+560
+00:46:09,810 --> 00:46:11,478
+¿Cuáles hadas?
+
+561
+00:46:11,812 --> 00:46:14,093
+E.
+¿Nunca probaste, E?
+
+562
+00:46:14,293 --> 00:46:16,004
+Sí, claro.
+
+563
+00:46:27,445 --> 00:46:29,200
+De acuerdo.
+
+564
+00:46:56,391 --> 00:46:59,408
+¡Ojalá pudiera bailar, carajo!
+
+565
+00:47:05,026 --> 00:47:07,042
+¡Carajo, Europa es genial!
+
+566
+00:47:08,260 --> 00:47:11,119
+Viejo, lamento que los bombardeáramos
+en los '90.
+
+567
+00:47:11,319 --> 00:47:12,960
+Ahora, eso... eso fue una mierda.
+
+568
+00:47:13,160 --> 00:47:15,584
+Mataron a mi madre ahí.
+
+569
+00:47:15,784 --> 00:47:17,082
+No, ¿en serio?
+
+570
+00:47:17,282 --> 00:47:18,461
+Fuimos a unirnos a Occidente,
+
+571
+00:47:18,661 --> 00:47:19,637
+pero Occidente no nos quiso.
+
+572
+00:47:19,837 --> 00:47:21,434
+Así que, lo robamos.
+
+573
+00:47:21,634 --> 00:47:22,957
+Los quiero, carajo.
+
+574
+00:47:23,157 --> 00:47:24,529
+- ¡Qué se joda la OTAN!
+- ¡Qué se joda la OTAN!
+
+575
+00:47:24,729 --> 00:47:25,904
+- ¡Qué se joda la OTAN!
+- ¡Qué se jodan!
+
+576
+00:47:26,104 --> 00:47:28,163
+¡Sí, sí, qué se joda la OTAN!
+
+577
+00:47:29,524 --> 00:47:31,976
+Tengo una en camino.
+
+578
+00:47:45,253 --> 00:47:48,183
+¡Está bien jodido ya!
+
+579
+00:48:15,203 --> 00:48:19,579
+Eso no está bien.
+Ve con Nicko. Ve, ve.
+
+580
+00:48:19,779 --> 00:48:21,534
+Sabes que te quiero.
+
+581
+00:48:25,006 --> 00:48:27,717
+Esta es la ex de Marko, viejo,
+y él se está enojando.
+
+582
+00:48:27,917 --> 00:48:30,717
+Tranquilízate un poco, ¿de acuerdo?
+
+583
+00:48:34,346 --> 00:48:36,928
+- Ya le dije.
+- Sí.
+
+584
+00:48:46,410 --> 00:48:48,208
+¿Qué carajos estás haciendo?
+
+585
+00:48:50,244 --> 00:48:52,130
+A la mierda con esto.
+
+586
+00:48:54,875 --> 00:48:56,055
+Quítame las putas manos de encima.
+
+587
+00:48:56,255 --> 00:48:58,402
+Jodida Reina del drama.
+Vámonos.
+
+588
+00:49:16,836 --> 00:49:18,417
+¡Jódanse!
+
+589
+00:49:20,118 --> 00:49:21,846
+Tranquilo, tranquilo.
+
+590
+00:49:22,046 --> 00:49:23,801
+¿Qué carajos?
+
+591
+00:49:25,105 --> 00:49:27,721
+- De acuerdo, de acuerdo, de acuerdo.
+- Está bien.
+
+592
+00:49:27,921 --> 00:49:29,518
+<i>¡Hijo de perra!</i>
+
+593
+00:49:29,718 --> 00:49:31,190
+¿Por qué, quieres pleito?
+
+594
+00:49:31,390 --> 00:49:33,754
+No.
+No quiero pleito.
+
+595
+00:49:39,253 --> 00:49:40,329
+¿De verdad vamos a
+hacer esto ahora mismo?
+
+596
+00:49:40,529 --> 00:49:42,110
+<i>¡Hijo de perra!</i>
+
+597
+00:49:42,522 --> 00:49:43,903
+Carajo.
+Mierda, sí.
+
+598
+00:49:44,103 --> 00:49:45,695
+Sí, el gran tipo duro estadounidense.
+
+599
+00:49:45,895 --> 00:49:48,411
+¿Vas a empezar a meterte
+en nuestros asuntos?
+
+600
+00:49:48,611 --> 00:49:50,362
+¿Crees que aquí somos unos
+maricones socialistas?
+
+601
+00:49:50,562 --> 00:49:52,813
+Oye,
+¿a qué carajos estás jugando?
+
+602
+00:49:53,046 --> 00:49:54,474
+Espera, espera, espera.
+Tengo una.
+
+603
+00:49:54,674 --> 00:49:56,606
+Voy a hacer que te sientas
+orgulloso ahora mismo.
+
+604
+00:49:56,806 --> 00:50:00,136
+Un cruasán.
+Un cruasán.
+
+605
+00:50:00,336 --> 00:50:02,700
+Ahí lo tienes.
+¿No te gustó?
+
+606
+00:50:02,900 --> 00:50:04,727
+Croiss... ¡carajo!
+Croissant.
+
+607
+00:50:04,927 --> 00:50:05,959
+¡Es una mierda!
+
+608
+00:50:06,159 --> 00:50:06,726
+¡Vamos!
+
+609
+00:50:06,926 --> 00:50:08,873
+Pensé que eso era...
+Pensé que eso era bueno.
+
+610
+00:50:09,206 --> 00:50:10,129
+¡Donnie!
+
+611
+00:50:10,329 --> 00:50:13,128
+Me cubriste el trasero.
+
+612
+00:50:25,657 --> 00:50:26,449
+¿Qué?
+
+613
+00:50:26,649 --> 00:50:28,086
+- Sigue caminando.
+- De acuerdo, de acuerdo.
+
+614
+00:50:28,286 --> 00:50:29,910
+Sigue caminando.
+Vamos.
+
+615
+00:50:30,579 --> 00:50:31,703
+¡Ni siquiera llamé a un Uber!
+
+616
+00:50:31,903 --> 00:50:33,008
+Carajo...
+
+617
+00:50:33,208 --> 00:50:35,181
+¡Sube... sube al maldito auto!
+
+618
+00:51:38,225 --> 00:51:41,310
+<i>¡Moussa!
+Vamos. ¡Acelera!</i>
+
+619
+00:51:41,510 --> 00:51:43,875
+<i>Sí, sí.</i>
+
+620
+00:52:16,494 --> 00:52:19,511
+<i>Vamos a darles una lección.</i>
+
+621
+00:52:21,020 --> 00:52:21,956
+Hace unas semanas,
+
+622
+00:52:22,156 --> 00:52:26,305
+hubo un vuelo de África a Amberes.
+
+623
+00:52:27,448 --> 00:52:32,511
+Llevaba algo.
+Algo que nos pertenece.
+
+624
+00:52:33,106 --> 00:52:35,209
+Al Pulpo.
+
+625
+00:52:38,459 --> 00:52:40,606
+Y tú lo robaste.
+
+626
+00:52:44,944 --> 00:52:46,742
+Recupéralo.
+
+627
+00:53:01,615 --> 00:53:04,106
+¡Vuelvan aquí, carajo!
+
+628
+00:53:04,306 --> 00:53:05,757
+¿Es una broma?
+
+629
+00:53:05,957 --> 00:53:08,333
+¿Robaste diamantes
+de la jodida mafia?
+
+630
+00:53:08,533 --> 00:53:10,044
+¡No lo sabía, carajo!
+
+631
+00:53:10,377 --> 00:53:12,393
+¡Carajo!
+
+632
+00:53:14,743 --> 00:53:18,413
+¿Adónde vas?
+¡Nick! ¡Nick!
+
+633
+00:53:20,967 --> 00:53:23,025
+Quítate los zapatos.
+O te hundirás.
+
+634
+00:53:23,225 --> 00:53:25,416
+Zapatos.
+Zapatos.
+
+635
+00:53:31,977 --> 00:53:32,731
+¿Y ahora qué?
+
+636
+00:53:32,931 --> 00:53:35,286
+¿Qué carajos crees?
+Nadar.
+
+637
+00:53:35,486 --> 00:53:37,244
+¿Nadar?
+¿A dónde, Nick?
+
+638
+00:53:37,444 --> 00:53:38,398
+A Libia.
+
+639
+00:53:38,598 --> 00:53:40,434
+¿Qué carajos crees,
+tonto de la mierda? ¡A la orilla!
+
+640
+00:53:40,634 --> 00:53:42,136
+No puedo nadar tan lejos.
+
+641
+00:53:42,336 --> 00:53:45,484
+Tengo flotabilidad negativa.
+¿No conoces a David Goggins?
+
+642
+00:53:47,267 --> 00:53:49,661
+- No seas tan maricón.
+- ¡Jódete!
+
+643
+00:53:49,861 --> 00:53:51,289
+¿Crees que habrá tiburones por aquí?
+
+644
+00:53:51,489 --> 00:53:53,826
+En realidad, sí.
+Creo que estará infestado.
+
+645
+00:53:54,026 --> 00:53:55,436
+Y tú pareces comida para tiburones.
+
+646
+00:53:55,636 --> 00:53:57,696
+Deja de hablarme.
+
+647
+00:54:02,643 --> 00:54:03,836
+¡Te odio!
+
+648
+00:54:04,036 --> 00:54:06,009
+Yo también te odio, carajo.
+
+649
+00:54:48,894 --> 00:54:52,016
+Al carajo.
+Me largo de aquí.
+
+650
+00:54:52,249 --> 00:54:53,277
+¿Qué quieres decir?
+
+651
+00:54:53,477 --> 00:54:55,192
+<i>Me retiro.
+El capo di tutti i capi</i>
+
+652
+00:54:55,392 --> 00:54:56,441
+o como carajos se llame ese...
+
+653
+00:54:56,641 --> 00:54:58,573
+Es ahí donde pinto mi línea.
+
+654
+00:54:58,773 --> 00:55:00,954
+Van tras las familias.
+Les importa una mierda.
+
+655
+00:55:01,154 --> 00:55:02,708
+No puedes hacerme eso.
+
+656
+00:55:02,908 --> 00:55:04,840
+De acuerdo,
+estoy muerto si lo haces.
+
+657
+00:55:05,040 --> 00:55:08,147
+Bueno, tú eres el que robó el
+maldito diamante. Yo no lo hice.
+
+658
+00:55:11,699 --> 00:55:14,326
+Sí vas a dejarme colgado,
+bien podrías arrestarme.
+
+659
+00:55:14,902 --> 00:55:16,875
+Al carajo.
+
+660
+00:55:24,538 --> 00:55:25,818
+No me sigas, carajo.
+
+661
+00:55:26,018 --> 00:55:27,903
+Tú me seguiste hasta aquí.
+
+662
+00:55:29,282 --> 00:55:31,298
+Lárgate de aquí, perra.
+
+663
+00:56:22,291 --> 00:56:24,612
+¿Cómo va la resaca, señorita?
+
+664
+00:56:25,382 --> 00:56:27,050
+¿Estás mirando?
+
+665
+00:56:27,392 --> 00:56:28,868
+<i>Sí.</i>
+
+666
+00:56:29,068 --> 00:56:31,131
+La mayoría de los guardias
+no hacen una mierda.
+
+667
+00:56:31,331 --> 00:56:34,479
+Fuman, hacen el tonto con
+los teléfonos, ven porno.
+
+668
+00:56:35,435 --> 00:56:37,516
+- Esos chicos son diferentes.
+- Mucho.
+
+669
+00:56:37,716 --> 00:56:40,514
+Llevo semanas vigilando a esos tipos.
+Esos perros saben cazar.
+
+670
+00:56:40,714 --> 00:56:42,155
+Sí.
+
+671
+00:56:42,355 --> 00:56:44,736
+Esto va a ser interesante.
+
+672
+00:56:44,936 --> 00:56:46,647
+¿Lo sientes?
+
+673
+00:56:48,461 --> 00:56:50,216
+Sí, lo estoy sintiendo.
+
+674
+00:56:50,881 --> 00:56:53,201
+Y el Policía se vuelve un gánster.
+
+675
+00:56:54,236 --> 00:56:57,254
+Trae el trasero hasta aquí, viejo.
+Tu expreso se está enfriando.
+
+676
+00:57:04,973 --> 00:57:06,701
+El WDC no tiene
+puertas cortafuegos,
+
+677
+00:57:06,901 --> 00:57:09,051
+ni salida de emergencia,
+ni punto de salida.
+
+678
+00:57:09,251 --> 00:57:12,594
+Sólo hay una puerta.
+Que es entrada y salida.
+
+679
+00:57:12,794 --> 00:57:14,592
+Cualquier movimiento
+dentro del distrito,
+
+680
+00:57:14,792 --> 00:57:17,625
+dará lugar a que
+salgas en una foto.
+
+681
+00:57:17,825 --> 00:57:20,451
+Así que sólo hay un lugar
+donde no están mirando.
+
+682
+00:57:22,477 --> 00:57:24,276
+Arriba.
+
+683
+00:57:24,776 --> 00:57:27,575
+<i>Bravo.
+Dragan.</i>
+
+684
+00:57:33,593 --> 00:57:35,827
+Vas a tener que ponerte esto.
+
+685
+00:57:36,404 --> 00:57:38,508
+¿Están en oferta o algo así?
+
+686
+00:57:39,481 --> 00:57:42,037
+¿Dónde están mis dos novios?
+
+687
+00:57:42,670 --> 00:57:45,644
+Han salido.
+
+688
+00:57:51,524 --> 00:57:53,192
+Bienvenidos.
+
+689
+00:58:07,222 --> 00:58:12,372
+Marko y Vuk se fueron a casa.
+Ahora eres un Pantera.
+
+690
+00:58:13,267 --> 00:58:15,279
+Este es todo el teatro.
+
+691
+00:58:15,479 --> 00:58:18,077
+Hemos reconocido todas las
+medidas de seguridad del distrito.
+
+692
+00:58:18,277 --> 00:58:22,034
+Como pueden ver,
+no hay zonas muertas.
+
+693
+00:58:22,773 --> 00:58:24,692
+Así que tendremos que crear una.
+
+694
+00:58:24,892 --> 00:58:28,087
+Hay 127 cámaras conectadas
+a la seguridad central...
+
+695
+00:58:28,287 --> 00:58:30,407
+justo aquí en este quiosco.
+
+696
+00:58:30,607 --> 00:58:33,875
+Sólo tienen diez monitores de
+Circuito Cerrado de Televisión.
+
+697
+00:58:34,075 --> 00:58:36,182
+Así que esas 127 señales...
+
+698
+00:58:36,382 --> 00:58:40,012
+se desplazan en intervalos
+de diez segundos.
+
+699
+00:58:40,212 --> 00:58:46,323
+En cualquier momento dado,
+117 de esas vistas están a oscuras.
+
+700
+00:58:46,523 --> 00:58:48,990
+Realizaremos un
+descenso cronometrado...
+
+701
+00:58:49,190 --> 00:58:51,980
+que nos moverá sin ser detectados,
+a través de esas zonas oscuras...
+
+702
+00:58:52,180 --> 00:58:56,373
+como resultado del ciclo de monitoreo
+de Circuito Cerrado de Televisión.
+
+703
+00:58:56,720 --> 00:58:58,217
+¿Qué hay con imágenes grabadas,
+
+704
+00:58:58,417 --> 00:58:59,484
+una vez que las cámaras
+estén desconectadas?
+
+705
+00:58:59,684 --> 00:59:01,816
+Hay una ley de privacidad
+del WDC que lo impide.
+
+706
+00:59:02,016 --> 00:59:03,427
+Así que no se graba
+ninguna secuencia.
+
+707
+00:59:03,627 --> 00:59:05,250
+Sólo se estará viendo en tiempo real.
+
+708
+00:59:05,450 --> 00:59:10,390
+Pero, tenemos un punto ciego
+y un problema.
+
+709
+00:59:10,590 --> 00:59:11,733
+Así que las únicas personas a las que...
+
+710
+00:59:11,933 --> 00:59:13,493
+se les concede acceso a
+la bóveda acorazada...
+
+711
+00:59:13,693 --> 00:59:15,961
+son el encargado, los concesionarios,
+
+712
+00:59:16,161 --> 00:59:19,617
+y su seguridad privada que debe
+de ser de las Fuerzas del Orden.
+
+713
+00:59:19,817 --> 00:59:23,360
+Intentamos intercambiar algunos
+activos internos con acceso, pero...
+
+714
+00:59:23,560 --> 00:59:25,358
+Entonces,
+ustedes serán nuestra entrada.
+
+715
+00:59:26,127 --> 00:59:27,795
+De acuerdo.
+
+716
+00:59:28,795 --> 00:59:29,670
+¿Cuándo pasará esto?
+
+717
+00:59:29,870 --> 00:59:30,889
+Ahora mismo.
+
+718
+00:59:31,089 --> 00:59:33,410
+Como, ahora mismo, carajo.
+
+719
+00:59:41,216 --> 00:59:42,783
+<i>¿Todo bien?</i>
+
+720
+00:59:42,983 --> 00:59:45,086
+No.
+
+721
+00:59:47,322 --> 00:59:49,329
+El señor O'Brien ha trabajado
+conmigo durante años.
+
+722
+00:59:49,529 --> 00:59:50,580
+Envié un correo electrónico al
+administrador de la oficina...
+
+723
+00:59:50,780 --> 00:59:52,837
+del Alguacil de Los Ángeles,
+para verificarlo de buena fe,
+
+724
+00:59:53,037 --> 00:59:55,130
+pero no recibí respuesta.
+
+725
+00:59:55,330 --> 00:59:57,042
+¿Quiere decir...
+
+726
+00:59:57,419 --> 00:59:59,221
+¿Está seguro de que tiene el
+correo electrónico correcto?
+
+727
+00:59:59,421 --> 01:00:00,714
+Quizá... quizás deba revisar más.
+
+728
+01:00:00,914 --> 01:00:03,670
+Sí. No lo entiendo.
+
+729
+01:00:04,775 --> 01:00:07,444
+Aquí está.
+Se fue a mi correo basura.
+
+730
+01:00:08,622 --> 01:00:11,030
+- Lo siento por eso.
+- Pasa.
+
+731
+01:00:12,809 --> 01:00:14,520
+Todo está bien.
+
+732
+01:00:14,841 --> 01:00:17,205
+- Sí.
+- Maravilloso.
+
+733
+01:00:23,545 --> 01:00:26,026
+De acuerdo, viejo.
+Ya viene.
+
+734
+01:00:26,226 --> 01:00:28,681
+¿Me quedo aquí parado?
+
+735
+01:00:28,881 --> 01:00:30,501
+Sí.
+
+736
+01:00:30,701 --> 01:00:32,891
+<i>- Buen día.
+- Buen día.</i>
+
+737
+01:00:35,401 --> 01:00:36,781
+Este es Nick, mi jefe de seguridad.
+
+738
+01:00:36,981 --> 01:00:38,910
+Nick.
+Chava Falcone.
+
+739
+01:00:39,170 --> 01:00:41,755
+<i>- Buen día.
+- Buen día.</i>
+
+740
+01:00:41,955 --> 01:00:44,179
+<i>No hablas francés.</i>
+
+741
+01:00:44,379 --> 01:00:47,313
+Por cierto, el partido.
+Niza-Mónaco. ¿Vas a ir?
+
+742
+01:00:47,513 --> 01:00:48,754
+- Olivier, el encargado...
+- Sí.
+
+743
+01:00:48,954 --> 01:00:51,317
+yo y algunos amigos;
+Iremos a un bar de aficionados.
+
+744
+01:00:51,517 --> 01:00:52,684
+- ¿El sábado?
+- Sí.
+
+745
+01:00:52,884 --> 01:00:55,677
+- Puede que me una a ustedes.
+- Sí, ven. Ven con nosotros.
+
+746
+01:00:55,877 --> 01:00:56,662
+<i>Gracias.</i>
+
+747
+01:00:56,862 --> 01:01:00,034
+Entonces, Nick irá contigo
+a depositar el inventario.
+
+748
+01:01:00,234 --> 01:01:01,219
+¿Mañana sigue en pie?
+
+749
+01:01:01,419 --> 01:01:03,272
+Sí. Pero a primera hora
+temprano, a las ocho,
+
+750
+01:01:03,472 --> 01:01:05,257
+<i>porque mañana estoy muy ocupada.
+¿De acuerdo?</i>
+
+751
+01:01:05,457 --> 01:01:06,632
+- Claro.
+- Gracias.
+
+752
+01:01:06,832 --> 01:01:08,500
+Nos veremos.
+
+753
+01:01:35,335 --> 01:01:37,630
+<i># Para que se hagan una
+idea equivocada de mí</i>
+
+754
+01:01:37,863 --> 01:01:38,725
+<i># No tengo nada que ocultar</i>
+
+755
+01:01:38,925 --> 01:01:40,166
+¿Por qué, hermano?
+¿Por qué?
+
+756
+01:01:40,366 --> 01:01:44,254
+<i># Quiero que el mundo
+vea que soy un gangsta</i>
+
+757
+01:01:45,149 --> 01:01:46,141
+<i># Negros gánsteres</i>
+
+758
+01:01:46,341 --> 01:01:48,227
+<i># Hagan su baile</i>
+
+759
+01:01:49,980 --> 01:01:51,973
+<i># Perras gangsta,
+hagan su gesto con las manos</i>
+
+760
+01:01:52,173 --> 01:01:54,411
+<i># Mírame, estoy por mi dinero
+Mi papel, estoy por mis dólares</i>
+
+761
+01:01:54,611 --> 01:01:57,118
+<i># Llamando la atención con
+esta Mac y este holgado...</i>
+
+762
+01:02:00,686 --> 01:02:02,053
+Para un verdadero gánster.
+
+763
+01:02:02,253 --> 01:02:02,954
+Cuidado con lo que dices.
+
+764
+01:02:03,154 --> 01:02:04,899
+<i>¡Con un carajo!</i>
+
+765
+01:02:05,099 --> 01:02:07,768
+Por eso están tan
+acelerados todo el tiempo.
+
+766
+01:02:08,146 --> 01:02:09,814
+¡Dios mío!
+
+767
+01:02:15,583 --> 01:02:19,471
+Ahora, esto sí es música.
+
+768
+01:02:22,386 --> 01:02:23,918
+De acuerdo.
+
+769
+01:02:24,118 --> 01:02:25,786
+<i>Romántico.</i>
+
+770
+01:02:26,090 --> 01:02:27,039
+¡Dios mío!
+
+771
+01:02:27,239 --> 01:02:29,354
+<i>¿Me estás tomando el pelo?</i>
+
+772
+01:02:29,554 --> 01:02:31,182
+Tienes que hacer el amor
+más a menudo, hermano.
+
+773
+01:02:31,382 --> 01:02:32,666
+Mira, Dragan, él es relajado con eso.
+
+774
+01:02:32,866 --> 01:02:36,291
+Esas gafas no me engañan.
+¡Te veo!
+
+775
+01:02:36,491 --> 01:02:40,379
+¡Sí!
+Hermano, estás reprimido.
+
+776
+01:02:41,758 --> 01:02:46,620
+Tu traje. Es un ISR.
+Graba en todas direcciones.
+
+777
+01:02:47,453 --> 01:02:49,087
+Muy bien.
+
+778
+01:02:49,287 --> 01:02:51,089
+¿Segura que esto va a funcionar?
+
+779
+01:02:51,289 --> 01:02:54,192
+He llevado de estos en 500 joyerías.
+Sí funcionan.
+
+780
+01:02:54,392 --> 01:02:56,268
+Bueno, eres una mujer.
+
+781
+01:02:56,468 --> 01:02:59,027
+Suelen no ser cacheadas,
+especialmente las guapas.
+
+782
+01:02:59,227 --> 01:03:02,375
+Bueno, los Policías tampoco,
+especialmente los buenos.
+
+783
+01:03:03,488 --> 01:03:04,942
+Odio los trajes.
+
+784
+01:03:05,142 --> 01:03:07,550
+Nunca pasa nada bueno con un traje.
+
+785
+01:03:13,894 --> 01:03:17,564
+Fue divertido la otra noche.
+
+786
+01:03:18,925 --> 01:03:20,506
+Ya sabes, en el Club.
+
+787
+01:03:20,840 --> 01:03:25,468
+Sí.
+Buen DJ. Buena pelea.
+
+788
+01:03:25,932 --> 01:03:27,644
+Me acabo de divorciar.
+
+789
+01:03:28,065 --> 01:03:29,689
+Qué triste.
+
+790
+01:03:31,372 --> 01:03:34,346
+Y para que conste, no me atraes.
+
+791
+01:03:34,693 --> 01:03:38,537
+De acuerdo.
+¿Tienes hijos?
+
+792
+01:03:39,728 --> 01:03:41,396
+No.
+
+793
+01:03:45,486 --> 01:03:47,154
+En realidad, sí.
+
+794
+01:03:49,403 --> 01:03:52,333
+Ya sabes, prefiero la honestidad
+a las tonteras.
+
+795
+01:03:53,555 --> 01:03:55,981
+Entonces, sí, tengo.
+Tengo... tengo dos.
+
+796
+01:03:56,214 --> 01:03:57,721
+¡Maldita sea!
+
+797
+01:03:57,921 --> 01:04:00,328
+Pensé que ibas a casarte conmigo.
+
+798
+01:04:00,545 --> 01:04:02,648
+¿Puedo cambiar mi respuesta?
+
+799
+01:04:10,207 --> 01:04:12,136
+No la cagues.
+
+800
+01:04:17,201 --> 01:04:19,043
+Y no me jodas.
+
+801
+01:04:29,791 --> 01:04:32,678
+Vamos.
+Vamos.
+
+802
+01:04:34,792 --> 01:04:36,498
+<i>- Buen día.
+- Buen día.</i>
+
+803
+01:04:36,698 --> 01:04:38,209
+<i>Mi protección.</i>
+
+804
+01:04:38,409 --> 01:04:39,445
+Tenemos una cita en la Bolsa...
+
+805
+01:04:39,645 --> 01:04:41,969
+con la señorita Falcone
+y el encargado.
+
+806
+01:04:42,169 --> 01:04:43,318
+Muy bien.
+
+807
+01:04:43,518 --> 01:04:45,320
+<i>Identificación, por favor.</i>
+
+808
+01:04:45,520 --> 01:04:47,145
+<i>Gracias.</i>
+
+809
+01:04:50,656 --> 01:04:53,032
+<i>No van a cachearles.</i>
+
+810
+01:04:53,232 --> 01:04:55,031
+<i>Pueden irse.</i>
+
+811
+01:05:02,476 --> 01:05:04,405
+- Cámara, ahí.
+- Cámara.
+
+812
+01:05:11,311 --> 01:05:13,850
+De acuerdo.
+Carga preciosa.
+
+813
+01:05:14,184 --> 01:05:16,334
+<i>Muchas gracias, Chava.</i>
+
+814
+01:05:16,534 --> 01:05:20,030
+<i>Tengo que ir a fiestas
+de bienvenida. Vamos.</i>
+
+815
+01:05:21,687 --> 01:05:23,180
+<i>- Buen día.
+- Buen día.</i>
+
+816
+01:05:23,380 --> 01:05:25,051
+Buenos días.
+
+817
+01:05:25,251 --> 01:05:26,226
+Buenos días.
+
+818
+01:05:26,426 --> 01:05:27,964
+Por favor.
+
+819
+01:05:36,275 --> 01:05:39,444
+El encargado opera la bóveda 24/7,
+vive en el séptimo piso,
+
+820
+01:05:39,644 --> 01:05:42,038
+acompaña en todas las citas,
+él cierra todas las noches.
+
+821
+01:05:42,238 --> 01:05:43,709
+Mover todo esto con él
+en cualquier parte...
+
+822
+01:05:43,909 --> 01:05:46,320
+cerca de allí, sería...
+muy arriesgado.
+
+823
+01:05:46,520 --> 01:05:49,146
+Sí. Pero lo sincronizaremos
+con sus movimientos.
+
+824
+01:05:52,861 --> 01:05:55,226
+¿Así que se acabó
+lo de ser Alguacil para ti?
+
+825
+01:05:56,474 --> 01:05:58,724
+Tiendo a herir los
+sentimientos de la gente.
+
+826
+01:05:58,924 --> 01:06:01,158
+Entonces, encajarás perfectamente.
+
+827
+01:06:17,969 --> 01:06:19,637
+<i>Por favor.</i>
+
+828
+01:06:20,541 --> 01:06:22,717
+- Hay movimiento térmico.
+- Sí.
+
+829
+01:06:22,917 --> 01:06:25,282
+<i>- ¿Puede darse la vuelta?
+- Lo siento.</i>
+
+830
+01:06:25,851 --> 01:06:28,912
+Ahí está la bóveda acorazada.
+Una Armon.
+
+831
+01:06:38,168 --> 01:06:40,039
+Puedes dejar el maletín en
+el escritorio, por favor.
+
+832
+01:06:40,239 --> 01:06:41,820
+Claro.
+
+833
+01:07:32,370 --> 01:07:35,312
+<i>¿Vendrás al partido del sábado,
+Olivier?</i>
+
+834
+01:07:35,512 --> 01:07:37,479
+<i>¡Por supuesto!
+¡Estoy deseándolo!</i>
+
+835
+01:07:37,679 --> 01:07:40,523
+<i>- He reservado una mesa.
+- ¡Perfecto!</i>
+
+836
+01:07:42,183 --> 01:07:44,177
+<i>Aquí vamos.</i>
+
+837
+01:07:44,377 --> 01:07:45,487
+<i>El problema que queda es el de...</i>
+
+838
+01:07:45,687 --> 01:07:48,238
+la cámara de seguridad
+del pasillo al vestíbulo,
+
+839
+01:07:48,438 --> 01:07:49,778
+está demasiado alta para
+que podamos cubrirla.
+
+840
+01:07:49,978 --> 01:07:52,303
+Y esa es la única
+cámara que no hace ciclo.
+
+841
+01:07:52,503 --> 01:07:53,895
+¿Y si nos cubrimos nosotros mismos?
+
+842
+01:07:54,095 --> 01:07:55,149
+¿Un sigilo cuántico?
+
+843
+01:07:55,349 --> 01:07:57,409
+<i>Tenemos que joder con
+los dedos con esa tecnología.</i>
+
+844
+01:08:03,801 --> 01:08:05,006
+¿Qué estamos mirando?
+
+845
+01:08:05,206 --> 01:08:07,136
+Vi la piedra.
+
+846
+01:08:10,838 --> 01:08:12,336
+Lado superior izquierdo.
+
+847
+01:08:12,536 --> 01:08:14,726
+Segunda fila, quinta desde arriba.
+
+848
+01:08:15,191 --> 01:08:18,599
+¡Vi la jodida piedra!
+
+849
+01:08:37,169 --> 01:08:39,393
+Allen, Darko, este es Vuk.
+
+850
+01:08:39,593 --> 01:08:42,785
+Vuk, estos son los Tigres.
+
+851
+01:08:47,826 --> 01:08:49,930
+Bien.
+
+852
+01:10:10,467 --> 01:10:13,179
+La baja tecnología supera
+a la alta tecnología.
+
+853
+01:10:16,046 --> 01:10:18,018
+Mira ahora.
+
+854
+01:10:23,101 --> 01:10:24,769
+<i>¡Voilà!</i>
+
+855
+01:10:26,060 --> 01:10:27,728
+Carajo.
+
+856
+01:10:32,053 --> 01:10:34,160
+No estoy acostumbrado
+a tanto ajo por aquí.
+
+857
+01:10:37,057 --> 01:10:38,429
+<i>Pasen.</i>
+
+858
+01:10:46,416 --> 01:10:49,041
+Ahora, ya sabe, dese la vuelta.
+
+859
+01:10:55,120 --> 01:10:57,789
+Supongo que él estará
+haciendo algunas ventas.
+
+860
+01:11:16,454 --> 01:11:17,321
+¿Esto es helado?
+
+861
+01:11:17,521 --> 01:11:19,379
+¿Qué?
+
+862
+01:11:19,579 --> 01:11:21,786
+<i>"Gelato".</i>
+
+863
+01:11:21,986 --> 01:11:23,567
+Está jodidamente bueno.
+
+864
+01:11:24,467 --> 01:11:27,110
+Oye, ¿eso es térmico?
+
+865
+01:11:27,343 --> 01:11:28,693
+¿Es... es eso térmico?
+
+866
+01:11:28,893 --> 01:11:30,953
+Sí.
+
+867
+01:12:11,979 --> 01:12:13,067
+<i>¿Todo listo?
+¿Todo cerrado ya?</i>
+
+868
+01:12:13,267 --> 01:12:13,825
+<i>Sí.</i>
+
+869
+01:12:14,025 --> 01:12:15,187
+<i>Genial.
+Disfruta del partido.</i>
+
+870
+01:12:15,387 --> 01:12:16,767
+<i>Estás en racha.
+¡Vamos!</i>
+
+871
+01:12:16,967 --> 01:12:18,722
+<i>Sí.</i>
+
+872
+01:12:24,265 --> 01:12:25,719
+El encargado acaba de irse.
+
+873
+01:12:25,919 --> 01:12:27,286
+Nos vemos con la camioneta
+en el punto de salida.
+
+874
+01:12:27,486 --> 01:12:29,328
+<i>- Buena suerte.
+- Recibido.</i>
+
+875
+01:12:47,537 --> 01:12:49,156
+<i>Perforante.</i>
+
+876
+01:12:49,356 --> 01:12:51,721
+<i>Cada cinco rondas.
+Aquí tienes.</i>
+
+877
+01:12:53,356 --> 01:12:56,677
+<i>- ¿Dijiste 50, en total?
+- 50, sí.</i>
+
+878
+01:13:37,687 --> 01:13:39,790
+<i>Mónaco 1-0.</i>
+
+879
+01:13:40,372 --> 01:13:42,714
+<i>- ¡Eso fue fuera de juego!
+- ¿Por qué?</i>
+
+880
+01:13:42,914 --> 01:13:44,933
+<i>¡Es tan molesto, el rugby es mejor!</i>
+
+881
+01:13:45,133 --> 01:13:47,106
+<i>- Siempre.
+- Mira...</i>
+
+882
+01:14:28,276 --> 01:14:29,787
+Houdini Uno, aquí Carbón Actual.
+
+883
+01:14:29,987 --> 01:14:31,655
+Comprobación de comunicaciones.
+
+884
+01:14:32,816 --> 01:14:33,747
+<i>Carbón Actual, recibido.</i>
+
+885
+01:14:33,947 --> 01:14:35,296
+<i>Comunicaciones despejadas.</i>
+
+886
+01:14:35,496 --> 01:14:37,764
+Houdini Uno moviéndose
+al teatro.
+
+887
+01:14:37,964 --> 01:14:39,589
+<i>Recibido.</i>
+
+888
+01:14:42,416 --> 01:14:44,520
+Houdini Uno en el teatro.
+
+889
+01:17:55,205 --> 01:17:56,228
+<i>¡Bien!</i>
+
+890
+01:17:56,428 --> 01:17:58,051
+<i>Estamos empatados.
+Volvemos al partido.</i>
+
+891
+01:17:58,251 --> 01:18:00,703
+<i>Vamos, chicos.</i>
+
+892
+01:18:18,028 --> 01:18:20,234
+Houdini Uno,
+estás en rojo en Amstel.
+
+893
+01:18:20,434 --> 01:18:22,249
+Veinte segundos para
+el semáforo en verde.
+
+894
+01:18:22,449 --> 01:18:23,355
+Recibido, Carbón Actual.
+
+895
+01:18:23,555 --> 01:18:25,397
+Esperando a que se ponga en verde.
+
+896
+01:18:32,546 --> 01:18:34,998
+<i>Diez segundos para luz verde.</i>
+
+897
+01:18:42,152 --> 01:18:45,082
+<i>Cinco, cuatro...</i>
+
+898
+01:18:48,549 --> 01:18:50,408
+Tienen luz verde.
+Luz verde para Becks.
+
+899
+01:18:50,608 --> 01:18:52,145
+Luz verde.
+
+900
+01:19:05,410 --> 01:19:09,122
+Recibido, están en rojo en Becks.
+En rojo en Becks.
+
+901
+01:19:09,322 --> 01:19:12,156
+Doce segundos para luz verde.
+Esperen.
+
+902
+01:19:12,356 --> 01:19:14,981
+Houdini Uno, esperando en Becks.
+
+903
+01:19:16,490 --> 01:19:20,247
+<i>Cinco, cuatro, tres...</i>
+
+904
+01:19:23,881 --> 01:19:25,710
+ACCESO A LA AZOTEA
+
+905
+01:19:44,431 --> 01:19:46,709
+Jesús, eso está profundo.
+
+906
+01:19:47,591 --> 01:19:49,259
+Sí.
+
+907
+01:20:07,554 --> 01:20:09,396
+Carajo, no.
+
+908
+01:20:14,810 --> 01:20:16,624
+Ochenta segundos para el rojo.
+
+909
+01:20:16,824 --> 01:20:19,102
+Recibido, Carbón Actual.
+
+910
+01:20:37,223 --> 01:20:38,903
+Sesenta segundos para el rojo.
+
+911
+01:20:39,103 --> 01:20:40,640
+Vamos.
+
+912
+01:20:47,451 --> 01:20:49,511
+Cuarenta segundos para el rojo.
+
+913
+01:20:58,214 --> 01:21:00,709
+<i>Veinte segundos para el rojo.</i>
+
+914
+01:21:11,127 --> 01:21:13,360
+<i>Diez segundos para el rojo.</i>
+
+915
+01:21:15,305 --> 01:21:19,897
+<i>Cinco, cuatro, tres, dos, uno.</i>
+
+916
+01:21:20,097 --> 01:21:22,461
+<i>Corona está en rojo.
+Rojo en Corona.</i>
+
+917
+01:21:29,854 --> 01:21:32,339
+Houdini Uno, ubicación.
+
+918
+01:21:32,539 --> 01:21:35,948
+Houdini Uno en
+Pozo de la Mina.
+
+919
+01:21:39,995 --> 01:21:41,305
+Houdini Uno,
+Quantum en Diamond.
+
+920
+01:21:41,505 --> 01:21:43,434
+Quantum en Diamond.
+
+921
+01:23:06,198 --> 01:23:10,173
+<i>¡Vamos, chicos, sólo un gol!</i>
+
+922
+01:24:58,193 --> 01:25:01,471
+Mierda.
+Houdini en el manto.
+
+923
+01:25:02,161 --> 01:25:04,395
+Recibido.
+
+924
+01:25:22,004 --> 01:25:24,523
+No está aquí.
+¡No está aquí, carajo!
+
+925
+01:25:24,723 --> 01:25:26,950
+¿Qué quieres decir con
+que no está aquí, carajo?
+
+926
+01:25:28,588 --> 01:25:29,899
+De acuerdo, sigue, sigue.
+
+927
+01:25:30,099 --> 01:25:33,551
+¡Por favor, apaguen eso!
+¡Se acabó!
+
+928
+01:25:43,760 --> 01:25:45,689
+¡Carajo!
+Tampoco está aquí.
+
+929
+01:25:46,466 --> 01:25:48,744
+Vamos, vamos.
+
+930
+01:26:02,008 --> 01:26:03,580
+¿Qué estás haciendo?
+
+931
+01:26:03,780 --> 01:26:04,977
+¡No! No te vayas.
+¿Qué?
+
+932
+01:26:05,177 --> 01:26:07,367
+Lo siento.
+Adiós, chicos.
+
+933
+01:26:28,017 --> 01:26:29,114
+¡Carajo!
+
+934
+01:26:29,314 --> 01:26:31,068
+Houdini Uno,
+el ama de llaves está en casa.
+
+935
+01:26:31,268 --> 01:26:33,423
+Vuelvan al Pozo de la Mina.
+
+936
+01:26:33,623 --> 01:26:35,117
+¿Qué dices?
+
+937
+01:26:36,913 --> 01:26:39,155
+<i>El ama de llaves está en casa.
+¡Lárguense ya de una puta vez!</i>
+
+938
+01:26:39,355 --> 01:26:42,067
+¡Carajo! ¡Tenemos que irnos,
+tenemos que irnos!
+
+939
+01:26:49,173 --> 01:26:51,189
+- ¿Lo ves?
+- No.
+
+940
+01:26:54,644 --> 01:26:56,878
+Mierda, ¿dónde está?
+
+941
+01:27:01,159 --> 01:27:02,913
+<i>¿Qué tal el partido?</i>
+
+942
+01:27:03,113 --> 01:27:03,849
+<i>Increíble.</i>
+
+943
+01:27:04,049 --> 01:27:06,936
+<i>Hubo oportunidad de gol.
+Y sin defensa.</i>
+
+944
+01:27:09,424 --> 01:27:10,177
+Debe estar aquí.
+Debe estar aquí.
+
+945
+01:27:10,377 --> 01:27:11,939
+- Tenemos que irnos, Donnie.
+- No, no, no.
+
+946
+01:27:12,139 --> 01:27:12,710
+- Espera.
+- Tenemos que irnos.
+
+947
+01:27:12,910 --> 01:27:13,972
+Debe estar aquí.
+
+948
+01:27:14,172 --> 01:27:15,417
+Vamos. Vamos.
+Vamos.
+
+949
+01:27:15,617 --> 01:27:17,459
+Un segundo más.
+
+950
+01:27:18,781 --> 01:27:19,430
+Donnie, levántate.
+
+951
+01:27:19,630 --> 01:27:20,936
+- ¡Vamos! ¡Vamos!
+- ¡Espera!
+
+952
+01:27:21,136 --> 01:27:22,211
+<i>Necesitamos un nuevo entrenador.</i>
+
+953
+01:27:22,411 --> 01:27:25,057
+<i>- Eso saldría caro.
+- Cierto.</i>
+
+954
+01:27:25,257 --> 01:27:26,705
+<i>Yo cierro.
+Puedes irte a casa ya.</i>
+
+955
+01:27:26,905 --> 01:27:29,941
+<i>- Hasta mañana.
+- Que pases una buena noche.</i>
+
+956
+01:27:33,191 --> 01:27:34,284
+Donnie, déjalo ya, carajo.
+
+957
+01:27:34,484 --> 01:27:35,307
+¡Tenemos que irnos ya!
+
+958
+01:27:35,507 --> 01:27:36,913
+- Carajo, espera.
+- ¡Levántate!
+
+959
+01:27:37,113 --> 01:27:38,401
+¡Espera! ¡Espera! ¡Espera!
+¡Espera!
+
+960
+01:27:38,601 --> 01:27:40,660
+¡Espera!
+
+961
+01:27:41,617 --> 01:27:43,502
+Gracias a Dios.
+
+962
+01:28:00,170 --> 01:28:02,273
+Houdini Uno, adelante.
+
+963
+01:28:52,905 --> 01:28:55,444
+<i>Houdini Uno subiendo
+por el Pozo de la Mina.</i>
+
+964
+01:28:56,934 --> 01:29:00,343
+Recibido.
+
+965
+01:29:25,608 --> 01:29:27,885
+Houdini Uno esperando en Corona.
+
+966
+01:29:31,775 --> 01:29:33,704
+Están en verde en Corona.
+
+967
+01:29:40,631 --> 01:29:44,345
+<i>140 segundos en verde en Corona.</i>
+
+968
+01:29:45,075 --> 01:29:47,004
+Las bolsas están seguras.
+
+969
+01:30:02,962 --> 01:30:05,631
+Sesenta segundos en Corona.
+
+970
+01:30:12,668 --> 01:30:14,078
+¡En Becks!
+¡En Becks!
+
+971
+01:30:14,278 --> 01:30:18,601
+<i>Esperen en Becks.
+Corona en rojo en 45.</i>
+
+972
+01:30:27,565 --> 01:30:30,191
+<i>Corona en rojo en 30.</i>
+
+973
+01:30:30,394 --> 01:30:32,367
+¡Carajo!
+
+974
+01:30:43,829 --> 01:30:46,645
+Esperen en Becks.
+Corona en rojo en 20.
+
+975
+01:30:46,845 --> 01:30:48,600
+Becks en rojo.
+
+976
+01:30:49,953 --> 01:30:53,231
+<i>Tres segundos para cambiar de ruta.
+Esperen la orden.</i>
+
+977
+01:30:59,205 --> 01:31:01,483
+Becks en verde.
+Becks en verde.
+
+978
+01:31:17,920 --> 01:31:19,667
+Carbón Actual, estamos despejados.
+
+979
+01:31:20,770 --> 01:31:22,786
+De acuerdo.
+
+980
+01:31:31,281 --> 01:31:33,057
+<i>¿Qué vamos a hacer con esto?</i>
+
+981
+01:31:33,257 --> 01:31:35,578
+<i>Mira a estos idiotas.</i>
+
+982
+01:31:38,854 --> 01:31:40,609
+Carajo.
+
+983
+01:31:48,646 --> 01:31:50,619
+¡Mierda!
+
+984
+01:31:53,181 --> 01:31:55,414
+¡Nick! ¡Nick!
+
+985
+01:31:57,612 --> 01:31:59,845
+<i>Monitor 14.</i>
+
+986
+01:32:00,632 --> 01:32:02,431
+<i>¿Qué diablos es eso?</i>
+
+987
+01:32:03,834 --> 01:32:05,471
+<i>¿Qué demonios es eso?</i>
+
+988
+01:32:05,671 --> 01:32:06,246
+Ni idea.
+
+989
+01:32:06,446 --> 01:32:07,465
+<i>¿Crees que cayó del techo?</i>
+
+990
+01:32:07,665 --> 01:32:08,558
+<i>No lo sé.</i>
+
+991
+01:32:08,758 --> 01:32:10,600
+¿Qué caraj...
+
+992
+01:32:11,687 --> 01:32:14,660
+<i>Tenemos que asegurar el techo.</i>
+
+993
+01:32:17,288 --> 01:32:18,450
+- Vamos, vamos, vamos.
+- Vamos.
+
+994
+01:32:18,650 --> 01:32:19,969
+Vamos.
+
+995
+01:32:20,169 --> 01:32:21,880
+<i>Lo revisaré.</i>
+
+996
+01:32:27,759 --> 01:32:29,966
+Houdini Uno, los perros
+siguen el rastro. Desaparezcan.
+
+997
+01:32:30,166 --> 01:32:31,750
+- ¡Carajo!
+- Vamos, vamos, vamos.
+
+998
+01:32:31,950 --> 01:32:34,637
+- Vamos.
+- Vamos, Nick.
+
+999
+01:32:34,970 --> 01:32:37,204
+Ya lo tienes.
+
+1000
+01:32:38,161 --> 01:32:39,976
+Sí.
+
+1001
+01:32:40,176 --> 01:32:42,584
+- Lanza la mochila.
+- ¡Carajo!
+
+1002
+01:32:47,705 --> 01:32:49,059
+De acuerdo, vamos.
+Vamos, vamos.
+
+1003
+01:32:49,259 --> 01:32:51,188
+¡El poste!
+¡El poste!
+
+1004
+01:32:52,754 --> 01:32:54,399
+Muévanse, muévanse, muévanse.
+¡Muévanse!
+
+1005
+01:32:54,599 --> 01:32:55,871
+Carbón Actual, ¿está Becks en verde?
+
+1006
+01:32:56,071 --> 01:32:58,740
+<i>Recibido. Confirmado Houdini Uno,
+Becks en verde.</i>
+
+1007
+01:33:02,041 --> 01:33:03,930
+<i>Recibido.
+Cierren las puertas</i>
+
+1008
+01:33:04,130 --> 01:33:07,207
+<i>y restrinjan el movimiento del personal,
+hasta que resolvamos esto.</i>
+
+1009
+01:33:07,407 --> 01:33:08,979
+<i>- Algo se ha caído del techo.
+- ¿Qué cosa?</i>
+
+1010
+01:33:09,179 --> 01:33:10,976
+<i>Yo despejaré el techo y luego bajaré.
+Tú patrulla el nivel 2,</i>
+
+1011
+01:33:11,176 --> 01:33:12,530
+<i>toma las escaleras.
+Nos encontramos en el medio.</i>
+
+1012
+01:33:12,730 --> 01:33:13,318
+<i>Así que quiero que despejes...</i>
+
+1013
+01:33:13,518 --> 01:33:14,567
+<i>las escaleras del atrio,
+¿muy bien?</i>
+
+1014
+01:33:14,767 --> 01:33:16,174
+<i>De acuerdo, genial.</i>
+
+1015
+01:33:17,648 --> 01:33:19,755
+<i>Y no te olvides de cerrar el
+maldito ascensor, ¿sí?</i>
+
+1016
+01:33:19,955 --> 01:33:21,753
+<i>Entendido.</i>
+
+1017
+01:34:14,810 --> 01:34:16,434
+Techo despejado.
+
+1018
+01:34:30,155 --> 01:34:30,904
+Carbón Actual,
+
+1019
+01:34:31,104 --> 01:34:32,758
+necesito la ubicación
+de Houdini Uno.
+
+1020
+01:34:32,958 --> 01:34:34,974
+Ubicación de Houdini Uno.
+
+1021
+01:34:48,970 --> 01:34:52,683
+<i>5 despejado, pasando a 4.</i>
+
+1022
+01:35:05,556 --> 01:35:07,224
+¿Qué carajos?
+
+1023
+01:35:15,113 --> 01:35:18,566
+Suelta el arma.
+Tranquilo.
+
+1024
+01:35:19,944 --> 01:35:23,048
+No seas estúpido.
+¿De acuerdo?
+
+1025
+01:35:23,748 --> 01:35:24,628
+<i>¿Quién carajos eres tú?</i>
+
+1026
+01:35:24,828 --> 01:35:26,931
+No seas estúpido, carajo.
+
+1027
+01:35:29,140 --> 01:35:30,934
+¿Qué carajos?
+¿Qué carajos?
+
+1028
+01:35:31,134 --> 01:35:32,557
+<i>¡Disparos!
+¡Disparos!</i>
+
+1029
+01:35:32,757 --> 01:35:34,280
+<i>- ¡Disparos! ¡Disparos!
+- ¿Qué mierdas?</i>
+
+1030
+01:35:34,480 --> 01:35:36,322
+<i>Activa la alarma.</i>
+
+1031
+01:35:37,962 --> 01:35:39,761
+¿Qué carajos?
+
+1032
+01:35:40,796 --> 01:35:43,508
+Tranquilo, tranquilo.
+Te apunté directo al chaleco.
+
+1033
+01:35:47,885 --> 01:35:48,834
+Estás bien.
+¿Muy bien?
+
+1034
+01:35:49,034 --> 01:35:51,061
+Aunque te dolerá unos días.
+
+1035
+01:35:52,233 --> 01:35:53,944
+Lo siento por esto.
+
+1036
+01:36:12,214 --> 01:36:14,481
+Extraño. A desaparecer. Zona norte.
+¡Ahora, ahora, ahora!
+
+1037
+01:36:14,681 --> 01:36:15,226
+Lo tenemos.
+Lo tenemos.
+
+1038
+01:36:15,426 --> 01:36:16,801
+Zona norte, zona norte.
+
+1039
+01:36:17,001 --> 01:36:19,061
+<i>Recibido.</i>
+
+1040
+01:36:30,132 --> 01:36:31,756
+¡Es él!
+¡Es él!
+
+1041
+01:36:35,511 --> 01:36:37,962
+¡Vamos, vamos!
+¡Tenemos que irnos!
+
+1042
+01:36:42,818 --> 01:36:43,428
+¡Carajo!
+
+1043
+01:36:43,628 --> 01:36:45,514
+<i>¡Otra vez ese maldito Porsche!</i>
+
+1044
+01:36:46,857 --> 01:36:48,703
+<i>TRC solicitando revisión
+por WDC 14.</i>
+
+1045
+01:36:48,903 --> 01:36:49,930
+<i>Sedán Porsche, blanco,
+número de matrícula...</i>
+
+1046
+01:36:50,130 --> 01:36:52,190
+¿Qué carajos?
+
+1047
+01:37:05,180 --> 01:37:07,239
+Mierda. ANPR.
+
+1048
+01:37:08,650 --> 01:37:12,752
+CENTRO DE COMUNICACIONES
+DE LA GENDARMERÍA
+
+1049
+01:37:12,952 --> 01:37:15,708
+<i>Toma esa matrícula de ahí.
+Búscala.</i>
+
+1050
+01:37:18,062 --> 01:37:18,898
+<i>¿Qué dice?</i>
+
+1051
+01:37:19,098 --> 01:37:21,348
+<i>Repito, Porsche blanco.</i>
+
+1052
+01:37:21,548 --> 01:37:26,002
+<i>Un Porsche blanco en dirección Este,
+en la cuadra 400 de la Rue de Robert.</i>
+
+1053
+01:37:54,703 --> 01:37:55,557
+Si alguno de nosotros se quema,
+
+1054
+01:37:55,757 --> 01:37:57,428
+Slobodan guardará su parte.
+
+1055
+01:37:57,628 --> 01:38:00,744
+Y les estará esperando para
+cuando salgan. Buena suerte.
+
+1056
+01:38:00,944 --> 01:38:02,254
+Concéntrate.
+
+1057
+01:38:02,454 --> 01:38:04,645
+Buena suerte, hermano.
+
+1058
+01:39:23,566 --> 01:39:24,659
+<i>Carajo.
+Esto no es posible.</i>
+
+1059
+01:39:24,859 --> 01:39:27,919
+<i>- Carajo.
+- Con una mierda.</i>
+
+1060
+01:39:29,751 --> 01:39:32,202
+<i>¡Atención!
+Nos han robado.</i>
+
+1061
+01:39:33,036 --> 01:39:37,011
+<i>Repito, nos han robado aquí.</i>
+
+1062
+01:40:29,962 --> 01:40:30,625
+Vigila nuestra retaguardia.
+
+1063
+01:40:30,825 --> 01:40:32,692
+Esos no son faros de Policía.
+
+1064
+01:40:37,553 --> 01:40:39,787
+Tampoco son amistosos.
+
+1065
+01:40:48,359 --> 01:40:49,984
+¡Carajo!
+
+1066
+01:40:51,319 --> 01:40:53,030
+Cargador.
+
+1067
+01:40:57,181 --> 01:41:00,041
+Conduce. Dispararemos.
+Sí grito, frenas.
+
+1068
+01:41:00,241 --> 01:41:01,952
+Recibido.
+
+1069
+01:41:04,301 --> 01:41:06,491
+Mierda.
+Hay dos.
+
+1070
+01:41:09,075 --> 01:41:09,938
+- ¡Dios!
+- ¡Carajo!
+
+1071
+01:41:10,138 --> 01:41:11,893
+¡Toma el volante!
+¡El volante!
+
+1072
+01:41:16,874 --> 01:41:19,543
+- ¡Muévete! ¡Muévete!
+- ¡Estoy bien! ¡Estoy bien!
+
+1073
+01:41:33,783 --> 01:41:35,581
+Cambio de cargador.
+
+1074
+01:41:43,109 --> 01:41:44,033
+Necesito mejor tiro.
+
+1075
+01:41:44,233 --> 01:41:46,597
+- ¡Espera! No te oigo.
+- ¡Frena!
+
+1076
+01:42:01,258 --> 01:42:02,978
+¡Carajo!
+¡Me han dado, viejo!
+
+1077
+01:42:03,178 --> 01:42:04,715
+¡Espera!
+
+1078
+01:42:14,532 --> 01:42:16,130
+- Cambio de cargador.
+- ¿Estás bien?
+
+1079
+01:42:16,330 --> 01:42:17,998
+Sí, estoy bien.
+
+1080
+01:42:18,293 --> 01:42:20,439
+<i>¡Estamos cambiando el cargador!</i>
+
+1081
+01:42:20,973 --> 01:42:21,774
+<i>¡Listo de nuevo!</i>
+
+1082
+01:42:21,974 --> 01:42:23,642
+<i>¡Vamos!</i>
+
+1083
+01:42:24,194 --> 01:42:24,974
+Mierda, todavía nos persiguen.
+
+1084
+01:42:25,174 --> 01:42:26,341
+- ¿Puedes despistarlos?
+- Lo estoy intentando, carajo.
+
+1085
+01:42:26,541 --> 01:42:28,687
+- Esos tipos saben conducir.
+- ¡Ay, mierda!
+
+1086
+01:42:43,457 --> 01:42:47,127
+<i>¡El de la derecha,
+mantente en el carril derecho!</i>
+
+1087
+01:42:51,987 --> 01:42:53,893
+- ¡Mierda!
+- ¡Carajo!
+
+1088
+01:42:54,093 --> 01:42:55,995
+De este lado.
+Tengo un tiro limpio.
+
+1089
+01:42:56,195 --> 01:42:57,863
+Te tengo, frena.
+
+1090
+01:43:08,934 --> 01:43:10,301
+Me quedo sin munición.
+Cambio de cargador.
+
+1091
+01:43:10,501 --> 01:43:12,343
+Tengo munición aquí.
+
+1092
+01:43:16,960 --> 01:43:18,497
+<i>¡Ahora! ¡Ahora!
+¡Ahora!</i>
+
+1093
+01:43:27,035 --> 01:43:28,790
+Al carajo con esto.
+
+1094
+01:43:41,476 --> 01:43:42,394
+¡Carajo, sí!
+
+1095
+01:43:42,594 --> 01:43:44,161
+<i>¡Hijo de perra!</i>
+
+1096
+01:43:44,361 --> 01:43:46,595
+<i>¡Dale! ¡Dale!</i>
+
+1097
+01:43:51,873 --> 01:43:54,106
+De acuerdo, ya no tengo.
+
+1098
+01:43:59,985 --> 01:44:02,002
+¡Carajo!
+
+1099
+01:44:04,990 --> 01:44:06,571
+¡Carajo!
+
+1100
+01:46:23,115 --> 01:46:24,870
+¿Qué carajos ha sido eso?
+
+1101
+01:46:25,770 --> 01:46:27,438
+Es culpa de él.
+
+1102
+01:46:31,641 --> 01:46:34,049
+¿Eso es todo?
+
+1103
+01:47:08,531 --> 01:47:12,782
+CINQUE TERRE, ITALIA
+
+1104
+01:47:23,946 --> 01:47:26,093
+<i>- Buenos días.
+- Buenos días.</i>
+
+1105
+01:47:27,384 --> 01:47:28,965
+<i>Por aquí.</i>
+
+1106
+01:47:29,934 --> 01:47:32,176
+<i>Mi marido está arriba.</i>
+
+1107
+01:47:32,376 --> 01:47:35,089
+<i>¡Mario!
+Ya están aquí.</i>
+
+1108
+01:47:37,407 --> 01:47:39,206
+<i>Han llegado.</i>
+
+1109
+01:47:44,967 --> 01:47:46,582
+Hola, tú.
+
+1110
+01:47:46,782 --> 01:47:48,929
+- ¿Estás bien?
+- Sí, viejo.
+
+1111
+01:47:49,872 --> 01:47:51,961
+- Slobodan.
+- Jean-Jacques.
+
+1112
+01:47:52,161 --> 01:47:53,528
+- Encantado de conocerte.
+- Encantado de conocerte.
+
+1113
+01:47:53,728 --> 01:47:55,873
+Slobodan, él es Nick.
+
+1114
+01:47:56,073 --> 01:47:56,948
+<i>Siéntate con nosotros.</i>
+
+1115
+01:47:57,148 --> 01:47:58,947
+Tomen asiento, por favor.
+
+1116
+01:48:21,033 --> 01:48:22,265
+¡Sí!
+
+1117
+01:48:22,465 --> 01:48:23,545
+<i>Gracias.</i>
+
+1118
+01:48:23,745 --> 01:48:25,630
+<i>- Gracias.
+- De nada.</i>
+
+1119
+01:48:26,856 --> 01:48:28,140
+<i>Señor.</i>
+
+1120
+01:48:28,340 --> 01:48:30,287
+Gracias.
+Gracias.
+
+1121
+01:48:30,520 --> 01:48:31,274
+Has salvado la ciudad.
+
+1122
+01:48:31,474 --> 01:48:34,448
+De acuerdo, chicos.
+Levántense, por favor.
+
+1123
+01:48:35,460 --> 01:48:36,645
+Por el atraco del siglo.
+
+1124
+01:48:36,845 --> 01:48:38,426
+Y por los Panteras.
+
+1125
+01:48:51,076 --> 01:48:52,918
+- ¿Estás bien?
+- Estoy bien.
+
+1126
+01:49:04,681 --> 01:49:05,600
+Vamos.
+
+1127
+01:49:05,800 --> 01:49:07,903
+- Mira eso.
+- ¡No!
+
+1128
+01:49:10,078 --> 01:49:12,228
+Guardamos este,
+guardamos este para ti.
+
+1129
+01:49:12,428 --> 01:49:14,909
+- Gracias. Gracias.
+- Es de tu estilo.
+
+1130
+01:49:15,109 --> 01:49:17,995
+Mantén las manos quietas,
+viejo.
+
+1131
+01:49:36,095 --> 01:49:38,023
+<i>¡Quietos!</i>
+
+1132
+01:49:38,223 --> 01:49:41,458
+<i>- ¡Quietos!
+- ¡Policía!</i>
+
+1133
+01:49:41,749 --> 01:49:43,678
+¡De acuerdo, de acuerdo!
+
+1134
+01:49:44,808 --> 01:49:46,650
+¡No se muevan!
+
+1135
+01:49:49,539 --> 01:49:50,645
+¡No te muevas, no te muevas!
+
+1136
+01:49:50,845 --> 01:49:53,078
+¡No te muevas!
+¡Las manos atrás!
+
+1137
+01:49:53,556 --> 01:49:56,094
+<i>¡Vamos! ¡Vamos!</i>
+
+1138
+01:49:56,807 --> 01:49:59,911
+<i>¡Vamos! ¡Vamos!</i>
+
+1139
+01:50:02,608 --> 01:50:04,323
+<i>¡Vamos! ¡Vamos!</i>
+
+1140
+01:50:04,523 --> 01:50:06,322
+¡Muévanse, muévanse!
+
+1141
+01:50:07,222 --> 01:50:08,197
+¡Muévanse!
+
+1142
+01:50:08,397 --> 01:50:10,326
+¡Vamos!
+
+1143
+01:50:43,388 --> 01:50:45,003
+¿Estás bien?
+
+1144
+01:50:45,203 --> 01:50:47,611
+Sí.
+
+1145
+01:50:48,032 --> 01:50:50,310
+¿Quieres hacer los honores?
+
+1146
+01:50:51,048 --> 01:50:54,196
+Hazlo tú.
+Es tu jurisdicción.
+
+1147
+01:51:34,583 --> 01:51:36,390
+Todo lo que digan podrá ser
+utilizado y será utilizado...
+
+1148
+01:51:36,590 --> 01:51:37,969
+en su contra, en un
+Tribunal de Justicia.
+
+1149
+01:51:38,169 --> 01:51:40,534
+Tienen derecho a un abogado...
+
+1150
+01:51:52,936 --> 01:51:56,258
+Teniendo en cuenta estos derechos,
+¿desean hablar conmigo?
+
+1151
+01:52:06,902 --> 01:52:08,744
+Bien jugado.
+
+1152
+01:52:09,387 --> 01:52:11,055
+Supongo.
+
+1153
+01:52:12,477 --> 01:52:14,363
+¿Deseas algo más?
+
+1154
+01:52:14,697 --> 01:52:16,626
+Te aceptaré un cruasán.
+
+1155
+01:52:19,484 --> 01:52:21,413
+Perfecto.
+
+1156
+01:52:23,941 --> 01:52:26,567
+¿Sabes?
+Has hecho lo correcto al avisarnos.
+
+1157
+01:52:31,719 --> 01:52:33,343
+Es extraño...
+
+1158
+01:52:34,617 --> 01:52:37,895
+Vivir en el otro lado sienta bien,
+¿no?
+
+1159
+01:52:41,306 --> 01:52:43,018
+Sí.
+
+1160
+01:52:43,769 --> 01:52:45,481
+Demasiado bien.
+
+1161
+01:52:51,460 --> 01:52:53,128
+Respeto.
+
+1162
+01:52:57,292 --> 01:52:59,090
+¿Hora de ir a casa?
+
+1163
+01:53:00,830 --> 01:53:02,498
+¿A dónde?
+
+1164
+01:53:48,081 --> 01:53:51,203
+DETENCIONES DE LA MAFIA PANTERA
+EN CINQUE TERRE
+
+1165
+01:54:06,972 --> 01:54:12,583
+PENITENCIARÍA, MAISON D'ARRÊT
+NIZA, FRANCIA
+
+1166
+01:54:13,547 --> 01:54:16,041
+<i>Visitante.
+Esposas.</i>
+
+1167
+01:54:16,762 --> 01:54:22,913
+<i>Date prisa. No tengo todo el día.
+Vamos, rápido.</i>
+
+1168
+01:54:28,222 --> 01:54:32,588
+<i>Siéntate.
+Y no hagas tonterías.</i>
+
+1169
+01:54:35,142 --> 01:54:37,158
+<i>Tienen cinco minutos.</i>
+
+1170
+01:54:48,011 --> 01:54:49,940
+Ha sido divertido.
+
+1171
+01:54:54,365 --> 01:54:55,990
+Entonces, ¿estamos a mano?
+
+1172
+01:54:59,588 --> 01:55:03,084
+Sí.
+Estamos a mano.
+
+1173
+01:55:06,073 --> 01:55:08,002
+¿Te sientes bien contigo mismo?
+
+1174
+01:55:12,557 --> 01:55:14,490
+En realidad, no.
+
+1175
+01:55:14,690 --> 01:55:17,925
+Pensé que me sentiría un
+poco mejor, para serte honesto.
+
+1176
+01:55:20,970 --> 01:55:23,639
+Eres un pedazo de mierda.
+
+1177
+01:55:35,419 --> 01:55:37,914
+Aunque sí te salvé la vida.
+
+1178
+01:55:38,988 --> 01:55:40,743
+Entonces,
+¿eso sí fue real?
+
+1179
+01:55:41,146 --> 01:55:42,945
+Sí...
+
+1180
+01:55:43,645 --> 01:55:45,748
+Sí.
+
+1181
+01:55:46,100 --> 01:55:50,466
+¿Así que me has estado
+jodiendo todo este tiempo?
+
+1182
+01:55:54,699 --> 01:55:57,891
+No. No.
+No todo el tiempo.
+
+1183
+01:55:59,213 --> 01:56:01,403
+Pero al final del día,
+
+1184
+01:56:01,798 --> 01:56:04,728
+un tigre no puede
+cambiar sus rayas.
+
+1185
+01:56:05,841 --> 01:56:07,509
+Simplemente no puede.
+
+1186
+01:56:13,270 --> 01:56:15,069
+Nos veremos, Fraulein.
+
+1187
+01:56:25,339 --> 01:56:27,137
+Por cierto...
+
+1188
+01:56:28,037 --> 01:56:30,271
+Siéntate a la izquierda.
+
+1189
+01:58:09,491 --> 01:58:12,558
+<i>¡Abre la puerta!
+¡Y las manos en la ventana!</i>
+
+1190
+01:58:16,593 --> 01:58:18,522
+¡Atrás ve a la izquierda!
+
+1191
+01:58:29,071 --> 01:58:30,870
+Prepárate para moverte.
+
+1192
+01:59:36,830 --> 01:59:43,052
+CERDEÑA
+
+1193
+02:00:40,058 --> 02:00:42,553
+¿Terminamos ya con esto?
+
+1194
+02:00:43,323 --> 02:00:46,731
+<i>Está diciendo que
+deberíamos acabar con esto.</i>
+
+1195
+02:00:46,991 --> 02:00:48,833
+No.
+
+1196
+02:00:51,082 --> 02:00:53,729
+<i>Chicos.
+Denle algo de beber.</i>
+
+1197
+02:00:53,929 --> 02:00:57,904
+<i>Sean educados.
+Él es nuestro invitado.</i>
+
+1198
+02:01:00,814 --> 02:01:04,069
+<i>Chico.
+¿Qué pasa?</i>
+
+1199
+02:01:04,269 --> 02:01:06,811
+<i>Relájate, tranquilo.</i>
+
+1200
+02:01:07,011 --> 02:01:10,986
+Él dice: "Relájate.
+Disfruta de tu cerveza".
+
+1201
+02:01:27,976 --> 02:01:30,909
+Él dice que si
+te quisiera muerto,
+
+1202
+02:01:31,109 --> 02:01:33,778
+eso habría ocurrido
+hace mucho tiempo.
+
+1203
+02:01:38,769 --> 02:01:40,829
+Quiere conocerte.
+
+1204
+02:01:46,542 --> 02:01:48,205
+Porque quería conocer al hombre...
+
+1205
+02:01:48,405 --> 02:01:50,552
+que recuperó sus pertenencias.
+
+1206
+02:01:59,399 --> 02:02:00,852
+Porque quiere saber...
+
+1207
+02:02:01,052 --> 02:02:03,072
+cómo demonios lo hiciste.
+
+1208
+02:02:03,272 --> 02:02:08,857
+¡Eres el maldito Harry Houdini!
+
+1209
+02:02:17,112 --> 02:02:23,002
+Y ahora, trabajarás para mí.
+
+1210
+02:02:32,954 --> 02:02:34,796
+Entonces, ¿qué sigue?
+
+1211
+02:02:45,158 --> 02:02:49,846
+<i># Si yo fuera el Rey
+de mi propia tierra</i>
+
+1212
+02:02:50,046 --> 02:02:53,255
+Y EL TIGRE CAMBIÓ DE RAYAS.
+LOS GATOS HAN SALIDO DE LA JAULA.
+
+1213
+02:02:53,455 --> 02:02:55,048
+NOS VEREMOS PRONTO, FRAULEIN.
+
+1214
+02:02:55,248 --> 02:02:58,401
+<i># Enfrentando tempestades de polvo</i>
+
+1215
+02:02:58,601 --> 02:03:04,402
+<i># Lucharía hasta el final</i>
+
+1216
+02:03:07,380 --> 02:03:13,443
+<i># Criaturas de mis sueños,
+levántense y bailen conmigo</i>
+
+1217
+02:03:21,681 --> 02:03:24,793
+<i># Ahora y por siempre</i>
+
+1218
+02:03:24,991 --> 02:03:33,274
+<i># Yo soy su Rey...</i>
+
+
