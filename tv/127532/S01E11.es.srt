@@ -1,0 +1,1383 @@
+1
+00:00:07,990 --> 00:00:10,520
+Ya estoy bastante lejos de la ciudad.
+
+2
+00:00:10,950 --> 00:00:13,080
+No sé qué va a pasar.
+
+3
+00:00:13,860 --> 00:00:16,060
+
+
+4
+00:00:13,860 --> 00:00:16,060
+NOTIFICACIÓN
+
+¿Quieres aceptar la
+</b> misión de cambio de clase?
+
+
+Sí          No
+
+5
+00:00:14,450 --> 00:00:15,800
+Cambio de clase.
+
+6
+00:00:16,060 --> 00:00:17,320
+
+
+7
+00:00:16,060 --> 00:00:17,320
+NOTIFICACIÓN
+
+El Jugador ha alcanzado
+el nivel requerido.
+
+8
+00:00:16,700 --> 00:00:20,360
+La misión apareció al superar
+el nivel 40 en la última incursión.
+
+9
+00:00:18,330 --> 00:00:18,600
+
+
+10
+00:00:18,330 --> 00:00:18,600
+NOTIFICACIÓN
+
+El Jugador ha alcanzado
+el nivel requerido.
+
+11
+00:00:18,600 --> 00:00:19,330
+
+
+12
+00:00:18,600 --> 00:00:19,330
+NOTIFICACIÓN
+
+La</b> misión de cambio de clase
+ ya puede solicitarse.
+
+13
+00:00:19,330 --> 00:00:20,540
+La misión de cambio de clase
+
+14
+00:00:21,420 --> 00:00:25,000
+Ya había conseguido
+dos llaves de mazmorra,
+
+15
+00:00:25,000 --> 00:00:25,460
+
+
+16
+00:00:25,000 --> 00:00:25,460
+ADVERTENCIA: No cumplir la misión
+diaria puede conllevar un castigo.
+
+17
+00:00:25,420 --> 00:00:26,240
+
+
+18
+00:00:25,500 --> 00:00:26,240
+NOTIFICACIÓN
+
+Aquí llega el entrenamiento de fuerza
+
+19
+00:00:25,710 --> 00:00:28,440
+pero esta intervención
+directa del sistema
+
+20
+00:00:27,500 --> 00:00:28,680
+
+
+21
+00:00:27,500 --> 00:00:28,680
+ADVERTENCIA: No cumplir la misión
+TE DETENDRÁ EL CORAZÓN.
+
+22
+00:00:28,840 --> 00:00:31,760
+solo se dio en la misión de castigo
+y la de emergencia.
+
+23
+00:00:32,880 --> 00:00:42,350
+
+
+24
+00:00:32,880 --> 00:00:42,350
+NOTIFICACIÓN
+
+¿Quieres aceptar la
+</b> misión de cambio de clase?
+
+
+Sí          No
+
+25
+00:00:33,300 --> 00:00:39,000
+Y esta vez puedo elegir
+si hacer la misión o no y cuándo.
+
+26
+00:00:39,480 --> 00:00:42,000
+Imagino que es porque será complicada.
+
+27
+00:00:42,940 --> 00:00:47,580
+Sería lógico esperar
+recibir una habilidad de clase.
+
+28
+00:00:49,820 --> 00:00:51,800
+Podré hacerme más fuerte.
+
+29
+00:00:54,740 --> 00:00:56,110
+
+
+30
+00:00:54,740 --> 00:00:56,110
+NOTIFICACIÓN
+
+¿Quieres aceptar la
+</b> misión de cambio de clase?
+
+
+Sí          No
+
+31
+00:00:55,120 --> 00:00:56,120
+"Sí".
+
+32
+00:00:56,360 --> 00:00:56,940
+
+
+33
+00:00:56,360 --> 00:00:56,940
+Inicia la</b> misión de cambio de clase.
+Entra a la mazmorra por el portal.
+
+34
+00:01:08,300 --> 00:01:11,180
+Olvidé la misión diaria…
+
+35
+00:01:11,970 --> 00:01:13,840
+Ya la haré cuando vuelva.
+
+36
+00:01:14,720 --> 00:01:19,720
+Empiezo a ver señales de que el juego
+por fin empieza de verdad.
+
+37
+00:01:20,140 --> 00:01:23,060
+¿Qué me esperará adentro?
+
+38
+00:01:24,020 --> 00:01:25,460
+Va a ser divertido.
+
+39
+00:03:18,340 --> 00:03:19,860
+Siento llegar tarde.
+
+40
+00:03:20,220 --> 00:03:22,840
+Llegaste puntual, Jinsung.
+
+41
+00:03:23,810 --> 00:03:25,850
+Cuánto tiempo sin verte, Jinho.
+
+42
+00:03:26,270 --> 00:03:27,420
+Hermano…
+
+43
+00:03:32,020 --> 00:03:34,150
+Es más normal de lo que esperaba.
+
+44
+00:03:34,420 --> 00:03:35,520
+
+
+45
+00:03:34,420 --> 00:03:35,520
+NOTIFICACIÓN
+
+Has entrado a la mazmorra.
+
+46
+00:03:35,740 --> 00:03:37,360
+
+
+47
+00:03:35,780 --> 00:03:37,360
+NOTIFICACIÓN
+
+En esta área, las </b>pociones y el acceso a la
+tienda están prohibidos
+y no te</b> recuperarás al subir de nivel.
+
+48
+00:03:37,910 --> 00:03:40,570
+¿No puedo usar pociones
+ni recuperaciones?
+
+49
+00:03:41,120 --> 00:03:44,080
+Tampoco puedo salir
+hasta completar la misión.
+
+50
+00:03:44,620 --> 00:03:46,540
+Tendré que ser precavido.
+
+51
+00:03:51,210 --> 00:03:55,170
+
+
+52
+00:03:51,210 --> 00:03:55,170
+INVENTARIO
+
+53
+00:03:57,380 --> 00:04:01,360
+CABALLERO
+
+54
+00:03:57,800 --> 00:03:59,740
+¿Un monstruo de tipo armadura?
+
+55
+00:04:17,320 --> 00:04:18,580
+¿No le hice nada?
+
+56
+00:04:24,950 --> 00:04:25,660
+
+
+57
+00:04:25,040 --> 00:04:25,660
+HABILIDADES
+
+[Habilidad activa]
+
+
+Golpe Fatal (solo dagas)  Nv. 1
+
+MP: 70
+-Beneficio: Golpe crítico
+
+
+Has aprendido a atacar con mayor eficiencia.
+
+58
+00:04:34,250 --> 00:04:35,400
+No funciona.
+
+59
+00:04:38,670 --> 00:04:40,540
+¿Un enemigo de piel resistente?
+
+60
+00:04:47,140 --> 00:04:48,480
+¡No eres el primero!
+
+61
+00:04:56,280 --> 00:04:57,040
+
+
+62
+00:04:56,320 --> 00:04:57,040
+NOTIFICACIÓN
+
+Has derrotado a<b>
+
+[Caballero]</b>
+
+63
+00:04:58,280 --> 00:05:00,600
+Desperdicié un Golpe Fatal.
+
+64
+00:05:01,280 --> 00:05:03,870
+Y ni puedo curarme ni recuperar maná.
+
+65
+00:05:05,200 --> 00:05:06,280
+Aunque…
+
+66
+00:05:07,200 --> 00:05:10,960
+eso a ustedes
+no les importa, obviamente.
+
+67
+00:05:14,630 --> 00:05:16,040
+¿Qué pasa, Jinho?
+
+68
+00:05:16,460 --> 00:05:18,600
+No has probado ni un bocado.
+
+69
+00:05:18,840 --> 00:05:20,260
+No es nada.
+
+70
+00:05:21,590 --> 00:05:24,880
+¿Cómo va la creación
+del gremio, Jinsung?
+
+71
+00:05:25,180 --> 00:05:30,080
+Supe que te rechazaron
+algunos cazadores de rango S.
+
+72
+00:05:30,430 --> 00:05:34,580
+Es cierto que Min Byung-gu
+y Cha Hae-in no se me unieron,
+
+73
+00:05:34,860 --> 00:05:36,230
+pero no hay problema.
+
+74
+00:05:37,020 --> 00:05:41,700
+Estoy negociando con cazadores europeos.
+
+75
+00:05:42,910 --> 00:05:45,440
+Firmarán dependiendo de las condiciones.
+
+76
+00:05:45,620 --> 00:05:47,660
+Hwang Dongsoo ha sentado precedentes.
+
+77
+00:05:47,900 --> 00:05:48,910
+Así es.
+
+78
+00:05:49,540 --> 00:05:51,920
+Conque extranjeros…
+
+79
+00:05:54,540 --> 00:05:55,620
+Jinho.
+
+80
+00:05:57,250 --> 00:06:00,440
+Sé que estás moviendo hilos
+en las sombras.
+
+81
+00:06:01,050 --> 00:06:06,140
+Intentas acumular logros
+comprando incursiones de rango C.
+
+82
+00:06:06,510 --> 00:06:09,100
+Mientras sea una afición, adelante.
+
+83
+00:06:10,600 --> 00:06:12,310
+Pero no me pongas trabas.
+
+84
+00:06:16,940 --> 00:06:19,480
+Dice eso porque no lo conoce.
+
+85
+00:06:20,110 --> 00:06:22,940
+Con su fuerza, estoy seguro de que él…
+
+86
+00:06:31,540 --> 00:06:34,220
+Luchar constantemente cansa.
+
+87
+00:06:34,790 --> 00:06:36,380
+Por fin podré descan…
+
+88
+00:06:38,670 --> 00:06:39,880
+¿Sigilo?
+
+89
+00:06:40,880 --> 00:06:43,080
+¿También hay enemigos con Sigilo?
+
+90
+00:06:42,600 --> 00:06:43,710
+
+
+91
+00:06:42,630 --> 00:06:43,710
+NOTIFICACIÓN
+
+Has derrotado a<b>
+
+[Asesino]</b>
+
+92
+00:06:46,550 --> 00:06:48,360
+Ahora un mago.
+
+93
+00:06:48,640 --> 00:06:50,560
+Y lanzó un destello.
+
+94
+00:06:51,010 --> 00:06:54,160
+Sigilo y magia de destello.
+
+95
+00:06:54,730 --> 00:06:59,310
+Es como si repasara
+todas mis anteriores batallas.
+
+96
+00:07:02,320 --> 00:07:04,780
+Es una misión más pesada de lo esperado.
+
+97
+00:07:06,400 --> 00:07:09,620
+Hay un atributo útil
+contra cada monstruo.
+
+98
+00:07:10,100 --> 00:07:11,700
+Para el Caballero, fuerza.
+
+99
+00:07:11,910 --> 00:07:13,180
+El Asesino, percepción.
+
+100
+00:07:13,370 --> 00:07:14,720
+El Arquero, velocidad.
+
+101
+00:07:16,120 --> 00:07:19,160
+Con poca fuerza no dañaría al Caballero.
+
+102
+00:07:21,960 --> 00:07:25,020
+Con poca percepción
+no detectaría al Asesino.
+
+103
+00:07:26,180 --> 00:07:28,720
+El problema es el mago.
+
+104
+00:07:29,470 --> 00:07:32,060
+Imagino que la inteligencia
+sería lo útil.
+
+105
+00:07:32,310 --> 00:07:34,500
+Pero no la he subido mucho.
+
+106
+00:07:34,930 --> 00:07:36,210
+De ahí mi poco maná.
+
+107
+00:07:36,640 --> 00:07:38,660
+Preferiría reservar habilidades.
+
+108
+00:07:42,400 --> 00:07:44,360
+Pero empiezo a cansarme.
+
+109
+00:07:44,350 --> 00:07:47,840
+
+
+110
+00:07:44,350 --> 00:07:47,840
+CANSANCIO: 65
+
+111
+00:07:44,940 --> 00:07:46,500
+Tengo que acabar rápido.
+
+112
+00:07:59,040 --> 00:08:02,090
+Ya están todos, ¿verdad?
+
+113
+00:08:04,090 --> 00:08:05,440
+Es la hora.
+
+114
+00:08:15,060 --> 00:08:16,960
+Hasta esto es valioso.
+
+115
+00:08:17,140 --> 00:08:19,340
+Qué suerte que lo soltaron.
+
+116
+00:08:21,230 --> 00:08:24,690
+
+
+117
+00:08:21,230 --> 00:08:24,690
+OBJETO: Pechera de caballero de alto rango
+
+Dificultad de adquisición: <b>Rango B</b>
+Categoría: <b>Armadura</b>
+
+118
+00:08:21,230 --> 00:08:24,690
+Daño físico -7 %
+
+119
+00:08:21,230 --> 00:08:24,690
+
+
+120
+00:08:21,230 --> 00:08:24,690
+OBJETO: Bolsa de cuero
+
+Dificultad de adquisición: <b>Ninguna</b>
+Categoría: <b>Miscelánea</b>
+
+Oro: 10,000
+
+121
+00:08:22,520 --> 00:08:24,690
+¿"Pechera de caballero de alto rango"?
+
+122
+00:08:25,230 --> 00:08:28,000
+Aún no he intentado equiparme cosas.
+
+123
+00:08:33,490 --> 00:08:35,580
+¿Se vuelve transparente?
+
+124
+00:08:35,740 --> 00:08:37,920
+Agradezco que no cambie mi aspecto.
+
+125
+00:08:40,170 --> 00:08:42,000
+No entorpece mis movimientos.
+
+126
+00:08:42,000 --> 00:08:45,680
+
+
+127
+00:08:42,000 --> 00:08:45,680
+OBJETO: Collar del guardián
+de la puerta
+
+Dificultad de adquisición: <b>Rango A</b>
+Categoría: <b>Collar</b>
+
+128
+00:08:42,000 --> 00:08:45,680
+AGI +20
+PER +20
+
+129
+00:08:42,000 --> 00:08:45,680
+
+
+130
+00:08:42,000 --> 00:08:45,680
+OBJETO: Guantelete
+de caballero de alto rango
+
+Dificultad de adquisición: <b>Rango B</b>
+Categoría: <b>Armadura</b>
+
+131
+00:08:42,000 --> 00:08:45,680
+Daño físico -3 %
+
+132
+00:08:43,000 --> 00:08:47,560
+Al no recuperarme, no lo noté,
+pero subí de nivel.
+
+133
+00:08:47,620 --> 00:08:53,380
+
+
+134
+00:08:47,620 --> 00:08:53,380
+INVENTARIO
+
+135
+00:08:48,340 --> 00:08:50,480
+Junté bastante oro y objetos.
+
+136
+00:08:50,970 --> 00:08:52,720
+Y ya no tengo fatiga.
+
+137
+00:08:53,390 --> 00:08:56,620
+Es hora de pasar a la siguiente fase.
+
+138
+00:09:04,730 --> 00:09:10,360
+Veamos qué tan fuerte es
+el enemigo al otro lado de la puerta.
+
+139
+00:09:14,830 --> 00:09:18,540
+Si no puedo salir sin completarla,
+tengo que avanzar.
+
+140
+00:09:26,000 --> 00:09:28,140
+Este sitio da escalofríos.
+
+141
+00:09:46,570 --> 00:09:48,320
+¿Una sala de audiencias real?
+
+142
+00:09:56,070 --> 00:09:59,500
+Mis ojos, oídos, dedos…
+
+143
+00:10:00,000 --> 00:10:01,920
+Todo mi cuerpo lo recuerda.
+
+144
+00:10:02,410 --> 00:10:06,380
+Es la misma sensación imponente
+de la mazmorra doble.
+
+145
+00:10:12,300 --> 00:10:16,180
+Y esa aura proviene de él, ¿no?
+
+146
+00:10:16,180 --> 00:10:20,660
+{\an1}COMANDANTE DE LOS CABALLEROS, IGRIS EL CARMESÍ
+
+147
+00:10:17,680 --> 00:10:20,120
+El comandante Igris el Carmesí.
+
+148
+00:10:21,060 --> 00:10:22,760
+El nombre está en rojo.
+
+149
+00:10:23,690 --> 00:10:26,600
+No es como los monstruos de antes.
+
+150
+00:10:28,230 --> 00:10:30,860
+Un caballero defendiendo un trono vacío.
+
+151
+00:10:37,320 --> 00:10:38,240
+Ahí viene.
+
+152
+00:10:47,330 --> 00:10:50,460
+Rompió la columna
+como si fuera una rama.
+
+153
+00:10:59,350 --> 00:11:01,080
+Es demasiado fuerte.
+
+154
+00:11:12,440 --> 00:11:15,080
+Es rapidísimo incluso con esa armadura.
+
+155
+00:11:15,780 --> 00:11:17,110
+Es un monstruo.
+
+156
+00:11:28,830 --> 00:11:30,200
+No funciona.
+
+157
+00:11:43,600 --> 00:11:45,440
+Tenemos una velocidad similar.
+
+158
+00:11:45,850 --> 00:11:47,660
+Pero él es más destructor.
+
+159
+00:11:49,190 --> 00:11:51,150
+La daga no penetra la armadura.
+
+160
+00:11:52,070 --> 00:11:54,700
+¿Tengo alguna forma de vencerlo?
+
+161
+00:11:56,320 --> 00:11:58,480
+Es más duro de lo que esperaba.
+
+162
+00:11:59,110 --> 00:12:00,200
+Pero…
+
+163
+00:12:01,280 --> 00:12:03,560
+No sé si podré ganar con los puños,
+
+164
+00:12:04,450 --> 00:12:09,000
+pero es la única forma de hacerle
+daño a través de la armadura.
+
+165
+00:12:16,880 --> 00:12:18,510
+¿Está siendo caballeroso?
+
+166
+00:12:19,800 --> 00:12:21,720
+Está muy seguro de sí mismo.
+
+167
+00:12:26,480 --> 00:12:27,580
+Adelante.
+
+168
+00:12:28,600 --> 00:12:31,150
+¿Aún no se ha ido, presidente?
+
+169
+00:12:31,560 --> 00:12:33,500
+No me apetecía.
+
+170
+00:12:33,900 --> 00:12:36,740
+Me puse a hacer trabajo pendiente.
+
+171
+00:12:36,940 --> 00:12:38,340
+Yo igual.
+
+172
+00:12:38,650 --> 00:12:41,420
+Terminé algunas cosas
+que no eran para hoy.
+
+173
+00:12:43,490 --> 00:12:44,800
+Va siendo hora, ¿no?
+
+174
+00:12:45,080 --> 00:12:46,080
+Sí.
+
+175
+00:12:47,500 --> 00:12:49,280
+Hablando del tema…
+
+176
+00:12:49,960 --> 00:12:53,280
+-Soy yo. ¿Van saliendo?
+-<i>Sí. </i>
+
+177
+00:12:53,560 --> 00:12:55,480
+Primero déjeme agradecérselo.
+
+178
+00:12:55,670 --> 00:13:00,000
+Gracias por aprobar
+esta operación, presidente.
+
+179
+00:13:00,180 --> 00:13:01,760
+No hay de qué.
+
+180
+00:13:02,260 --> 00:13:05,460
+Es el resultado de sus
+menciones de la isla
+
+181
+00:13:05,640 --> 00:13:09,000
+en revistas y entrevistas de televisión.
+
+182
+00:13:09,310 --> 00:13:14,140
+Las masas no han olvidado la tragedia
+y la corriente está cambiando.
+
+183
+00:13:14,940 --> 00:13:18,740
+Yo solo ayudé
+a dirigir el flujo ligeramente.
+
+184
+00:13:19,150 --> 00:13:22,100
+Algunos dirán que es mejor
+no revolver las aguas.
+
+185
+00:13:22,450 --> 00:13:24,450
+De eso sí podré escudarlos.
+
+186
+00:13:24,910 --> 00:13:26,320
+Pero ten cuidado.
+
+187
+00:13:26,490 --> 00:13:28,620
+Jeju es un lugar peligroso.
+
+188
+00:13:28,910 --> 00:13:30,790
+Soy plenamente consciente.
+
+189
+00:13:31,290 --> 00:13:33,680
+El objetivo es reconocer el terreno.
+
+190
+00:13:33,920 --> 00:13:37,980
+Investigaremos la fuerza
+y la escala de los enemigos.
+
+191
+00:13:38,340 --> 00:13:40,800
+Admiro tus esfuerzos.
+
+192
+00:13:41,340 --> 00:13:43,520
+La tercera incursión a Jeju…
+
+193
+00:13:44,010 --> 00:13:46,400
+En mi mente…
+
+194
+00:13:47,760 --> 00:13:50,020
+aquella batalla aún sigue.
+
+195
+00:13:58,980 --> 00:14:00,150
+Qué rapidez.
+
+196
+00:14:23,880 --> 00:14:25,390
+Aunque me protegí,
+
+197
+00:14:25,550 --> 00:14:27,860
+creo que perdí unos 500 PV.
+
+198
+00:14:28,680 --> 00:14:30,880
+Hice bien en equiparme.
+
+199
+00:14:32,230 --> 00:14:35,120
+Un impacto directo pudo haberme matado.
+
+200
+00:14:36,020 --> 00:14:38,400
+Es fuertísimo incluso sin la espada.
+
+201
+00:14:38,860 --> 00:14:40,240
+Es demasiado.
+
+202
+00:14:43,610 --> 00:14:45,910
+Si no puedo igualar su potencia,
+
+203
+00:14:46,070 --> 00:14:47,820
+aumentaré la velocidad.
+
+204
+00:14:47,110 --> 00:14:47,910
+
+
+205
+00:14:47,160 --> 00:14:47,910
+[Habilidad activa]
+
+
+Carrera         Nv. 2
+
+206
+00:15:04,670 --> 00:15:06,010
+No lo alcanzo.
+
+207
+00:15:12,180 --> 00:15:12,750
+
+
+208
+00:15:12,220 --> 00:15:12,750
+[Habilidad activa]
+
+
+Fuerza de voluntad         Nv. 1
+
+209
+00:15:13,060 --> 00:15:15,130
+Una pasiva me subió la defensa.
+
+210
+00:16:32,640 --> 00:16:34,000
+Ya está.
+
+211
+00:16:38,510 --> 00:16:41,040
+
+
+212
+00:16:38,510 --> 00:16:41,040
+Querido hermano,
+la cena está en la nevera.
+De tu atenta hermanita</b>
+
+213
+00:17:28,150 --> 00:17:29,360
+Yo…
+
+214
+00:17:30,950 --> 00:17:31,990
+aún…
+
+215
+00:17:32,700 --> 00:17:36,080
+¡no he perdido!
+
+216
+00:17:57,680 --> 00:17:59,620
+No puedo deshacerme de la daga.
+
+217
+00:17:59,810 --> 00:18:02,230
+¡Vuelve a mí a través del inventario!
+
+218
+00:18:06,020 --> 00:18:08,230
+Demasiado superficial. ¡Más hondo!
+
+219
+00:18:11,460 --> 00:18:11,970
+
+
+220
+00:18:11,490 --> 00:18:11,970
+[Habilidad activa]
+
+
+Golpe Fatal         Nv. 1
+
+221
+00:18:37,680 --> 00:18:40,300
+Le gané, ¿verdad?
+
+222
+00:18:40,510 --> 00:18:42,430
+
+
+223
+00:18:40,560 --> 00:18:42,430
+NOTIFICACIÓN
+
+Has derrotado a<b>
+
+[COMANDANTE DE LOS CABALLEROS, IGRIS EL CARMESÍ]</b>
+
+224
+00:18:45,150 --> 00:18:47,300
+Estuvo muy cerca.
+
+225
+00:18:50,070 --> 00:18:52,000
+Tuve suerte.
+
+226
+00:18:52,530 --> 00:18:55,660
+Habilidades, talento, experiencia…
+
+227
+00:18:56,030 --> 00:18:58,830
+Sentí que me superaba en todo.
+
+228
+00:18:59,580 --> 00:19:01,500
+Pude haber muerto.
+
+229
+00:19:02,370 --> 00:19:04,790
+Vaya, cuatro recompensas.
+
+230
+00:19:04,800 --> 00:19:08,020
+
+
+231
+00:19:04,800 --> 00:19:08,020
+OBJETO: Bolsa de cuero
+
+Dificultad de adquisición: <b>Ninguna</b>
+Categoría: <b>Miscelánea</b>
+
+232
+00:19:04,800 --> 00:19:08,020
+ Oro: 1 500 000
+
+Una bolsa para llevar dinero.
+Al abrirla obtendrás oro.
+
+233
+00:19:05,370 --> 00:19:08,060
+Una bolsa con un millón y medio
+
+234
+00:19:08,160 --> 00:19:13,250
+
+
+235
+00:19:08,160 --> 00:19:13,250
+OBJETO: Casco del caballero carmesí
+
+Dificultad de adquisición: <b>Rango S</b>
+Categoría: <b>Armadura</b>
+
+236
+00:19:08,160 --> 00:19:13,250
+Daño físico -20 %
+
+VIT +20          FUE +20
+
+237
+00:19:08,500 --> 00:19:11,700
+y un casco idéntico al de Igris.
+
+238
+00:19:11,880 --> 00:19:13,260
+¡Y es de rango S!
+
+239
+00:19:14,050 --> 00:19:16,320
+La llave del Castillo del Demonio era S,
+
+240
+00:19:16,470 --> 00:19:19,420
+pero es la primera
+pieza de equipo que me toca.
+
+241
+00:19:19,720 --> 00:19:26,930
+
+
+242
+00:19:19,720 --> 00:19:26,930
+{\an4}EQUIPO
+
+243
+00:19:19,720 --> 00:19:26,930
+
+
+244
+00:19:19,720 --> 00:19:26,930
+Pechera de caballero
+de alto rango
+Daño físico -7 %
+
+245
+00:19:19,720 --> 00:19:26,930
+
+
+246
+00:19:19,720 --> 00:19:26,930
+Guantelete de caballero
+de alto rango
+Daño físico -3 %
+
+247
+00:19:19,720 --> 00:19:26,930
+
+
+248
+00:19:19,720 --> 00:19:26,930
+Collar del guardián
+de la puerta
+AGI +20
+PER +20
+
+249
+00:19:19,720 --> 00:19:26,930
+
+
+250
+00:19:19,720 --> 00:19:26,930
+Guantelete de caballero
+de bajo rango
+Daño físico -1 %
+
+251
+00:19:19,720 --> 00:19:26,930
+
+
+252
+00:19:19,720 --> 00:19:26,930
+Anillo de mago
+de alto rango
+Daño mágico -1%
+
+253
+00:19:19,720 --> 00:19:26,930
+
+
+254
+00:19:19,720 --> 00:19:26,930
+Bota de caballero
+de rango medio
+AGI +10
+
+255
+00:19:19,970 --> 00:19:26,930
+
+
+256
+00:19:19,970 --> 00:19:26,930
+Casco del caballero carmesí
+Daño físico -15 %
+VIT +20
+FUE +20
+
+257
+00:19:20,390 --> 00:19:22,840
+Reduce un 15 % el daño físico
+
+258
+00:19:23,020 --> 00:19:25,700
+y aumenta 20 puntos
+la vitalidad y la fuerza.
+
+259
+00:19:25,890 --> 00:19:26,940
+Es buenísimo.
+
+260
+00:19:26,930 --> 00:19:30,390
+
+
+261
+00:19:26,930 --> 00:19:30,390
+PIEDRA RUNA: Mano del gobernante
+
+Dificultad de adquisición: <b></b>
+Categoría: <b>Piedra runa</b>
+
+Obtén la habilidad
+pulverizando la piedra.
+
+262
+00:19:27,690 --> 00:19:30,400
+"Piedra runa: Mano del gobernante".
+
+263
+00:19:30,860 --> 00:19:32,260
+¿Qué habilidad será?
+
+264
+00:19:33,110 --> 00:19:34,880
+En fin, ya lo descubriré.
+
+265
+00:19:36,570 --> 00:19:39,950
+También tengo una piedra
+de teletransporte instantáneo.
+
+266
+00:19:39,940 --> 00:19:46,720
+
+
+267
+00:19:39,940 --> 00:19:46,720
+PIEDRA RUNA: Piedra de teletransporte instantáneo
+
+Dificultad de adquisición: <b></b>
+Categoría: <b>Suministros</b>
+
+Este objeto solo se obtiene durante la misión de cambio de clase.
+Rompe la piedra para transportarse fuera de la mazmorra.
+Si no se usa, se destruirá una vez finalice la misión
+de cambio de clase.
+
+No se puede almacenar en el inventario.
+
+268
+00:19:40,830 --> 00:19:42,900
+No se almacena en el inventario.
+
+269
+00:19:43,290 --> 00:19:46,140
+¿Por qué me dan una piedra
+de teletransporte ahora?
+
+270
+00:19:48,170 --> 00:19:51,420
+¿Acaso la misión de cambio de clase…
+
+271
+00:19:52,300 --> 00:19:54,280
+aún no ha terminado?
+
+272
+00:20:02,100 --> 00:20:04,830
+¿"El tiempo que puedas"? ¿"Puntos"?
+
+273
+00:20:04,790 --> 00:20:07,240
+
+
+274
+00:20:04,790 --> 00:20:07,240
+NOTIFICACIÓN
+
+La misión de cambio de clase empieza ahora.
+
+Sobrevive todo el tiempo que puedas para ganar
+puntos de promoción, necesarios para
+que se te asigne una clase superior.
+
+275
+00:20:05,230 --> 00:20:06,880
+¿"Clase superior"?
+
+276
+00:20:07,440 --> 00:20:09,040
+
+
+277
+00:20:07,480 --> 00:20:09,040
+NOTIFICACIÓN
+
+Buena suerte.
+
+278
+00:20:09,810 --> 00:20:11,640
+"Buena suerte", dice.
+
+279
+00:20:13,070 --> 00:20:14,520
+¿Son oleadas infinitas?
+
+280
+00:20:19,910 --> 00:20:21,860
+Si fueran como Igris,
+
+281
+00:20:22,080 --> 00:20:24,360
+habría muerto a los pocos segundos.
+
+282
+00:20:25,120 --> 00:20:28,400
+Pero a estos puedo derrotarlos.
+
+283
+00:20:28,870 --> 00:20:31,640
+Aunque son muchos para mi gusto.
+
+284
+00:20:47,350 --> 00:20:48,420
+¡Maldición!
+
+285
+00:20:48,690 --> 00:20:52,310
+Por muchos que mate,
+siguen saliendo más de los portales.
+
+286
+00:20:54,270 --> 00:20:56,780
+El tiempo trascurrido es la clave.
+
+287
+00:20:56,920 --> 00:20:58,030
+Entonces…
+
+288
+00:20:57,420 --> 00:20:58,020
+
+
+289
+00:20:57,440 --> 00:20:58,020
+[Habilidad activa]
+
+
+Sigilo         Nv. 1
+
+290
+00:21:00,610 --> 00:21:02,760
+Sigilo gasta 200 MP por uso
+
+291
+00:21:03,160 --> 00:21:05,420
+más uno por cada segundo que pase.
+
+292
+00:21:07,040 --> 00:21:08,370
+Me quedan 190.
+
+293
+00:21:09,160 --> 00:21:11,360
+Ganaré todo el tiempo que pueda.
+
+294
+00:21:16,000 --> 00:21:17,510
+¿Me expusieron?
+
+295
+00:21:27,100 --> 00:21:28,600
+Esto no me lo esperaba.
+
+296
+00:21:28,850 --> 00:21:31,160
+No puedo usar ni Sigilo
+ni Sed de sangre.
+
+297
+00:21:37,860 --> 00:21:39,060
+¿Cuánto tiempo llevo?
+
+298
+00:21:40,070 --> 00:21:41,490
+¿Solo cinco minutos?
+
+299
+00:21:42,030 --> 00:21:45,400
+No puedo ganar.
+Usaré la piedra de teletransporte…
+
+300
+00:23:36,230 --> 00:23:41,700
+{\an2}Surjan
+

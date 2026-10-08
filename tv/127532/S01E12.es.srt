@@ -1,0 +1,1781 @@
+1
+00:00:12,580 --> 00:00:14,660
+Perdí la piedra instantánea.
+
+2
+00:00:15,080 --> 00:00:16,870
+Y no puedo ponerme a buscarla.
+
+3
+00:00:17,040 --> 00:00:20,960
+Solo sobreviviré si los venzo a todos.
+
+4
+00:00:26,710 --> 00:00:30,260
+Me queda poca vida.
+No puedo usar Sigilo ni Sed de sangre.
+
+5
+00:00:32,890 --> 00:00:35,930
+Aun así no pienso rendirme.
+
+6
+00:00:37,510 --> 00:00:38,950
+
+
+7
+00:00:37,560 --> 00:00:38,950
+ESTADO
+
+8
+00:00:37,560 --> 00:00:38,950
+NIVEL
+
+9
+00:00:37,560 --> 00:00:38,950
+TRABAJO: Ninguno
+TÍTULO: Asesino de Lobos
+
+10
+00:00:37,560 --> 00:00:38,950
+47
+
+11
+00:00:37,560 --> 00:00:38,950
+PV:   PM:   CANSANCIO: 87
+
+12
+00:00:37,560 --> 00:00:38,950
+FUE: 138 (+20)        VIT: 87 (+20)
+
+AGI: 107 (+20)         INT: 66
+
+PER: 89 (+20)          0
+
+13
+00:00:37,560 --> 00:00:38,950
+Puntos de
+atributo disponibles
+
+14
+00:00:37,890 --> 00:00:40,700
+¡Voy a sobrevivir!
+
+15
+00:00:48,280 --> 00:00:50,030
+Siempre estuve en lo más bajo.
+
+16
+00:00:50,610 --> 00:00:52,740
+Sé mejor que nadie
+lo miserable que es.
+
+17
+00:00:53,410 --> 00:00:56,200
+¡Pero no podía renunciar
+a querer llegar a la cima!
+
+18
+00:01:08,710 --> 00:01:12,510
+Lo llaman "el arma
+más débil de la humanidad".
+
+19
+00:01:15,510 --> 00:01:17,850
+¿La más débil y no la más fuerte?
+
+20
+00:01:19,640 --> 00:01:23,810
+Sí. Acabó hospitalizado al salir
+de un portal de rango E.
+
+21
+00:01:24,230 --> 00:01:26,690
+Debe ser el cazador más débil.
+
+22
+00:01:28,860 --> 00:01:32,700
+Ya basta, Sung.
+No te sobreexijas.
+
+23
+00:01:33,030 --> 00:01:36,620
+Es verdad, Jinwoo. Deberías parar.
+
+24
+00:01:41,040 --> 00:01:42,770
+Tú te lo buscaste.
+
+25
+00:01:46,340 --> 00:01:49,590
+¿Por qué eliges el camino más peligroso?
+
+26
+00:01:50,170 --> 00:01:53,090
+Eras de rango E
+y mira cuánto mejoraste.
+
+27
+00:01:53,630 --> 00:01:55,770
+Deberías conformarte con eso,
+
+28
+00:01:56,350 --> 00:01:59,440
+¿no, Jinwoo?
+
+29
+00:03:32,690 --> 00:03:34,780
+La tercera incursión a Jeju…
+
+30
+00:03:34,770 --> 00:03:37,440
+
+
+31
+00:03:34,770 --> 00:03:37,440
+
+
+32
+00:03:34,770 --> 00:03:37,440
+
+     PLAN DE OPERACIONES
+Misión de reconocimiento
+de la isla de Jeju      <b></b>
+
+33
+00:03:34,770 --> 00:03:37,440
+Choi Jong-in,
+maestro del Gremio de Cazadores</b>
+
+34
+00:03:35,690 --> 00:03:41,460
+No pude ir porque mi cuerpo
+ya no soportaba el combate.
+
+35
+00:03:42,450 --> 00:03:44,450
+Tú te uniste, ¿verdad?
+
+36
+00:03:45,040 --> 00:03:48,300
+Sí, aunque solo patrullaba
+el exterior y servía de mensajero.
+
+37
+00:03:48,830 --> 00:03:51,920
+Fallecieron muchas personas.
+
+38
+00:03:52,290 --> 00:03:56,010
+Y las que regresaron
+no lo hicieron con la mente intacta.
+
+39
+00:03:57,420 --> 00:04:01,410
+Son heridas que cualquier Cazador porta.
+
+40
+00:04:02,350 --> 00:04:08,190
+Pero si no las superamos,
+solo nos espera la ruina.
+
+41
+00:04:09,770 --> 00:04:12,350
+¿De verdad este soy yo?
+
+42
+00:04:12,610 --> 00:04:14,150
+Parece otra persona.
+
+43
+00:04:14,650 --> 00:04:16,740
+Es más alto y tiene mejor cuerpo.
+
+44
+00:04:17,150 --> 00:04:18,200
+Parece fuerte.
+
+45
+00:04:19,410 --> 00:04:21,700
+Aunque solo cambió su aspecto.
+
+46
+00:04:22,070 --> 00:04:24,200
+Sigue siendo débil por dentro.
+
+47
+00:04:24,370 --> 00:04:26,120
+Se está muriendo otra vez.
+
+48
+00:04:31,170 --> 00:04:33,570
+Sung Jinwoo, cazador de rango E.
+
+49
+00:04:33,840 --> 00:04:35,920
+No vas a llegar más lejos.
+
+50
+00:04:36,630 --> 00:04:38,800
+Eres un imprudente que abarca demasiado.
+
+51
+00:04:39,340 --> 00:04:40,430
+Cállate.
+
+52
+00:04:54,150 --> 00:04:55,770
+Aún te falta mucho.
+
+53
+00:04:55,980 --> 00:04:59,950
+Tú te lo buscaste al lanzarte
+por una determinación egoísta.
+
+54
+00:05:00,360 --> 00:05:03,410
+Tú mismo te matarás.
+
+55
+00:05:05,280 --> 00:05:10,100
+¿Al final voy a acabar como aquella vez?
+
+56
+00:05:12,620 --> 00:05:15,410
+¿Qué pasó después de eso?
+
+57
+00:05:16,540 --> 00:05:19,010
+
+
+58
+00:05:16,540 --> 00:05:19,010
+[Misión diaria: Aquí llega
+el entrenamiento de fuerza.]
+
+
+OBJETIVOS
+
+Flexiones [0/100]
+Abdominales [0/100]
+Sentadillas [0/100]
+Correr [0/10km]
+
+ADVERTENCIA: No cumplir la misión
+diaria puede conllevar un castigo.
+
+59
+00:05:19,010 --> 00:05:20,470
+No cumplir la misión
+
+diaria puede conllevar un castigo.
+
+60
+00:05:20,800 --> 00:05:22,120
+¿La misión?
+
+61
+00:05:23,550 --> 00:05:26,010
+La suerte es otro talento.
+
+62
+00:05:27,430 --> 00:05:30,480
+Y parece que no quiere dejarte morir.
+
+63
+00:05:31,140 --> 00:05:32,410
+Hasta otra.
+
+64
+00:05:34,180 --> 00:05:34,810
+
+
+65
+00:05:34,180 --> 00:05:34,810
+Flexiones [0/100]
+Abdominales [0/100]
+Sentadillas [0/100]
+Correr [0/10km]
+
+ADVERTENCIA: No cumplir la misión
+diaria puede conllevar un castigo.
+
+66
+00:05:34,840 --> 00:05:35,940
+
+
+67
+00:05:34,900 --> 00:05:35,940
+NOTIFICACIÓN
+
+Misión diaria: Aquí llega
+el entrenamiento de fuerza
+
+68
+00:05:35,940 --> 00:05:37,510
+
+
+69
+00:05:35,940 --> 00:05:37,510
+NOTIFICACIÓN
+
+Desplazándote a la zona de castigo.
+
+70
+00:05:44,950 --> 00:05:48,480
+¿Esta es la zona de castigo?
+
+71
+00:05:50,830 --> 00:05:55,210
+Es verdad, hoy no terminé
+la misión diaria.
+
+72
+00:05:57,210 --> 00:05:59,170
+En fin…
+
+73
+00:06:01,800 --> 00:06:05,550
+Llegó en el momento
+justo para salvarme.
+
+74
+00:06:05,550 --> 00:06:06,460
+
+
+75
+00:06:05,550 --> 00:06:06,460
+NOTIFICACIÓN
+
+La misión de cambio de clase empieza ahora.
+
+Sobrevive todo el tiempo que puedas para ganar
+puntos de promoción, necesarios para
+que se te asigne una clase superior.
+
+76
+00:06:06,100 --> 00:06:08,260
+"Buena suerte", ¿eh?
+
+77
+00:06:06,640 --> 00:06:08,260
+
+
+78
+00:06:06,720 --> 00:06:08,260
+NOTIFICACIÓN
+
+Buena suerte.
+
+79
+00:06:09,060 --> 00:06:11,810
+¿Tan complicada es la misión?
+
+80
+00:06:12,270 --> 00:06:15,900
+¿O es una señal de que me apoyan?
+
+81
+00:06:16,480 --> 00:06:17,490
+Da igual.
+
+82
+00:06:17,650 --> 00:06:18,860
+Tienda.
+
+83
+00:06:20,360 --> 00:06:23,210
+Es la primera vez
+que el cansancio supera el 90.
+
+84
+00:06:25,910 --> 00:06:28,110
+CANSANCIO
+
+85
+00:06:31,930 --> 00:06:34,210
+
+
+86
+00:06:31,930 --> 00:06:34,210
+NOTIFICACIÓN
+
+Debido a que los puntos de vitalidad son
+demasiado bajos, la poción no surte efecto.
+
+87
+00:06:32,450 --> 00:06:36,990
+¿Si estás herido de gravedad
+las pociones no te sanan?
+
+88
+00:06:34,240 --> 00:06:36,370
+
+
+89
+00:06:34,240 --> 00:06:36,370
+ESTADO
+
+90
+00:06:34,240 --> 00:06:36,370
+NIVEL
+
+91
+00:06:34,240 --> 00:06:36,370
+TRABAJO: Ninguno
+TÍTULO: Asesino de Lobos
+
+92
+00:06:34,240 --> 00:06:36,370
+47
+
+93
+00:06:34,240 --> 00:06:36,370
+PV:   PM:   CANSANCIO: 0
+
+94
+00:06:34,240 --> 00:06:36,370
+FUE: 138 (+20)        VIT: 87 (+20)
+
+AGI: 107 (+20)         INT: 66
+
+PER: 89 (+20)          0
+
+95
+00:06:34,240 --> 00:06:36,370
+Puntos de
+atributo disponibles
+
+96
+00:06:37,580 --> 00:06:39,550
+O me espero a curarme naturalmente
+
+97
+00:06:39,710 --> 00:06:42,480
+o rezo por que subir de nivel funcione.
+
+98
+00:06:43,970 --> 00:06:46,510
+Parece que no tenía que preocuparme.
+
+99
+00:06:48,550 --> 00:06:49,970
+CIEMPIÉS DESÉRTICO GIGANTE DE COLMILLO VENENOSO
+
+100
+00:06:48,550 --> 00:06:49,970
+CIEMPIÉS DESÉRTICO GIGANTE DE COLMILLO VENENOSO
+
+101
+00:06:49,970 --> 00:06:51,680
+
+
+102
+00:06:50,010 --> 00:06:51,680
+INFO DE MISIÓN
+
+Sobrevive
+
+103
+00:06:51,680 --> 00:06:53,350
+¿"Hasta otra"?
+
+104
+00:06:54,560 --> 00:06:58,080
+Sí. Si sobrevivo, volveremos a vernos.
+
+105
+00:06:58,440 --> 00:07:00,550
+Si no puede matarme,
+
+106
+00:07:00,730 --> 00:07:05,030
+haciéndome sufrir solo conseguirá
+que me vuelva más fuerte.
+
+107
+00:07:21,000 --> 00:07:23,080
+Qué sueño tan raro.
+
+108
+00:07:25,630 --> 00:07:28,050
+¿Jinwoo aún no ha vuelto?
+
+109
+00:07:28,890 --> 00:07:32,140
+Espero que no siga trabajando
+a estas horas.
+
+110
+00:07:33,100 --> 00:07:35,390
+¿Habrá conseguido novia?
+
+111
+00:07:35,980 --> 00:07:37,750
+Lo dudo.
+
+112
+00:07:38,440 --> 00:07:41,770
+Le dije que hoy era
+la reunión de padres.
+
+113
+00:07:41,980 --> 00:07:44,080
+Espero que venga.
+
+114
+00:07:45,460 --> 00:07:47,400
+
+
+115
+00:07:45,460 --> 00:07:47,400
+NOTIFICACIÓN
+
+¡Subes de nivel!
+
+116
+00:07:50,030 --> 00:07:52,830
+Es muy útil
+que me cure al subir de nivel.
+
+117
+00:07:54,240 --> 00:07:56,640
+Quedan más de diez minutos.
+
+118
+00:07:57,210 --> 00:08:00,040
+Voy a revisar el equipo.
+
+119
+00:08:00,040 --> 00:08:02,750
+Hoja de Gravedad
+
+Martillo de Cocytus
+
+Gran Lanza
+
+Filo carmesí
+
+Matacaballeros
+
+Hacha de piedra
+
+120
+00:08:00,060 --> 00:08:02,770
+
+
+121
+00:08:00,060 --> 00:08:02,770
+
+
+122
+00:08:00,130 --> 00:08:02,770
+TIENDA
+
+COMPRAR   VENDER
+
+123
+00:08:02,750 --> 00:08:03,250
+Matacaballeros
+
+124
+00:08:02,750 --> 00:08:03,340
+Filo carmesí
+
+125
+00:08:02,750 --> 00:08:03,340
+Hacha de piedra
+
+126
+00:08:03,110 --> 00:08:05,950
+¿Quieres comprar [Matacaballeros]?
+
+127
+00:08:03,110 --> 00:08:05,950
+CANCELAR                      COMPRAR</b>
+
+128
+00:08:03,550 --> 00:08:04,610
+Comprar.
+
+129
+00:08:09,930 --> 00:08:14,640
+Matacaballeros. Un 25 % de daño
+adicional a monstruos con armadura.
+
+130
+00:08:14,890 --> 00:08:16,640
+Es algo cara, pero no está mal.
+
+131
+00:08:17,350 --> 00:08:19,100
+Bien. Y tengo esto.
+
+132
+00:08:19,650 --> 00:08:22,060
+La piedra runa que soltó Igris.
+
+133
+00:08:22,480 --> 00:08:24,880
+Seguro que será útil.
+
+134
+00:08:36,550 --> 00:08:42,120
+
+
+135
+00:08:36,620 --> 00:08:42,120
+HABILIDADES
+
+[Habilidad activa]
+
+
+Mano del gobernante  Nv. 1
+
+El usuario puede influenciar objetos físicamente
+sin tocarlos con las manos.
+
+136
+00:08:37,200 --> 00:08:38,860
+Mano del gobernante.
+
+137
+00:08:39,080 --> 00:08:42,130
+No necesita maná. Parece eficiente.
+
+138
+00:08:42,710 --> 00:08:45,770
+Permite influenciar físicamente
+sin tocar con las manos.
+
+139
+00:08:46,960 --> 00:08:48,680
+¿Fue lo que hizo él?
+
+140
+00:08:53,730 --> 00:08:54,350
+
+
+141
+00:08:53,730 --> 00:08:54,350
+NOTIFICACIÓN
+
+No puedes usarlo por falta de competencia.
+
+142
+00:08:54,720 --> 00:08:57,560
+Aún no puedo mover cosas grandes.
+
+143
+00:08:59,020 --> 00:09:02,020
+
+
+144
+00:08:59,020 --> 00:09:02,020
+INFO DE MISIÓN
+
+Sobrevive
+
+145
+00:08:59,600 --> 00:09:01,810
+Ya no puedo prepararme más.
+
+146
+00:09:05,270 --> 00:09:07,190
+Ahora dependo de la suerte.
+
+147
+00:09:08,640 --> 00:09:10,190
+
+
+148
+00:09:08,640 --> 00:09:10,190
+INFO DE MISIÓN
+
+Sobrevive
+
+149
+00:09:10,190 --> 00:09:11,690
+Sobrevive
+
+150
+00:09:15,530 --> 00:09:18,660
+En pocas horas se multiplicaron
+una barbaridad.
+
+151
+00:09:25,210 --> 00:09:28,580
+En breve entraremos en la zona
+marítima vigilada de Jeju.
+
+152
+00:09:28,760 --> 00:09:29,880
+De acuerdo.
+
+153
+00:09:30,550 --> 00:09:34,300
+Lo siento.
+Para ti esto debe ser muy duro.
+
+154
+00:09:34,510 --> 00:09:36,660
+No hay problema.
+
+155
+00:09:36,930 --> 00:09:41,700
+Durante la tercera incursión
+yo no era cazadora,
+
+156
+00:09:41,980 --> 00:09:44,680
+pero entiendo como se siente.
+
+157
+00:09:44,900 --> 00:09:47,060
+Gracias por decir eso.
+
+158
+00:09:47,270 --> 00:09:50,110
+Presidente Choi,
+reacción de maná en la superficie.
+
+159
+00:09:50,530 --> 00:09:51,860
+Pongo las imágenes.
+
+160
+00:09:55,780 --> 00:09:56,970
+¿Qué…?
+
+161
+00:10:02,120 --> 00:10:04,190
+¡La Matacaballeros es muy útil!
+
+162
+00:10:04,420 --> 00:10:06,130
+Es mucho mejor que los puños.
+
+163
+00:10:06,750 --> 00:10:09,460
+Pero tengo una sensación extraña.
+
+164
+00:10:09,760 --> 00:10:11,550
+No siento que esté haciendo nada.
+
+165
+00:10:11,720 --> 00:10:13,760
+Y no parece que vaya a subir de nivel.
+
+166
+00:10:14,380 --> 00:10:17,810
+Además, ¿qué hacen los Magos?
+
+167
+00:10:18,060 --> 00:10:20,870
+Lanzan hechizos,
+pero no son ataques mágicos.
+
+168
+00:10:21,020 --> 00:10:22,500
+Solo atacan los Caballeros.
+
+169
+00:10:22,770 --> 00:10:24,520
+¿Qué hacen los otros, pues?
+
+170
+00:10:25,810 --> 00:10:27,860
+¡Un portal! ¿Están invocando?
+
+171
+00:10:28,230 --> 00:10:31,360
+Los Caballeros no son más
+que armas invocadas.
+
+172
+00:10:31,940 --> 00:10:34,240
+Por eso no me dan experiencia.
+
+173
+00:10:34,990 --> 00:10:36,160
+Entonces…
+
+174
+00:10:36,320 --> 00:10:38,870
+¡Debo ir por ustedes, Magos!
+
+175
+00:10:45,830 --> 00:10:47,010
+Lo sabía.
+
+176
+00:10:47,250 --> 00:10:48,920
+Mis blancos son los Magos.
+
+177
+00:10:49,500 --> 00:10:50,960
+Y ahora que lo sé…
+
+178
+00:10:52,460 --> 00:10:53,630
+Quedan cinco.
+
+179
+00:10:58,390 --> 00:10:59,390
+¡Cuatro más!
+
+180
+00:11:16,700 --> 00:11:19,070
+¡Deja de esconderte al fondo!
+
+181
+00:11:24,790 --> 00:11:26,420
+¡Quedan tres!
+
+182
+00:11:33,380 --> 00:11:34,520
+¿Un gólem?
+
+183
+00:11:50,520 --> 00:11:53,770
+Creen que juntándolos
+crearán algo más fuerte…
+
+184
+00:11:54,820 --> 00:11:57,950
+¡pero al haber menos,
+me es más fácil perseguiros!
+
+185
+00:12:14,380 --> 00:12:16,630
+Tus invocadores ya no están.
+
+186
+00:12:17,130 --> 00:12:19,590
+Sé bueno y…
+
+187
+00:12:20,680 --> 00:12:23,920
+¡detente!
+
+188
+00:12:47,950 --> 00:12:51,870
+
+
+189
+00:12:48,040 --> 00:12:51,870
+NOTIFICACIÓN
+
+Has derrotado a todos los monstruos.
+Finaliza la misión de cambio de clase.
+
+190
+00:12:49,580 --> 00:12:51,410
+Parece que se acabó.
+
+191
+00:12:51,880 --> 00:12:53,500
+¿Qué va a pasar ahora?
+
+192
+00:12:54,090 --> 00:12:59,920
+"Los puntos obtenidos permiten
+el cambio a una clase superior.
+
+193
+00:13:00,510 --> 00:13:05,120
+Se analizará el desempeño en la misión
+para otorgarte una clase".
+
+194
+00:13:05,350 --> 00:13:07,480
+¿No se puede elegir?
+
+195
+00:13:06,470 --> 00:13:06,600
+
+
+196
+00:13:06,470 --> 00:13:06,600
+NOTIFICACIÓN
+
+Se analizará el desempeño en la misión
+de cambio de clase para otorgarte una clase.
+
+197
+00:13:06,560 --> 00:13:08,310
+NOTIFICACIÓN
+
+Análisis finalizado.
+
+198
+00:13:06,600 --> 00:13:08,310
+
+
+199
+00:13:08,280 --> 00:13:11,530
+NOTIFICACIÓN
+
+El aliento de la muerte
+acompaña al Jugador allí donde esté.
+
+200
+00:13:08,280 --> 00:13:15,440
+
+
+201
+00:13:11,530 --> 00:13:15,440
+NOTIFICACIÓN
+
+Los cadáveres se apilan en el camino
+recorrido por el Jugador,
+donde permanece el olor a sangre.
+
+202
+00:13:15,610 --> 00:13:17,400
+¿Qué significa?
+
+203
+00:13:17,400 --> 00:13:18,570
+NOTIFICACIÓN
+
+Además, el Jugador anhela
+hacerse fuerte y desea el poder
+de abrirse camino sin depender de otros.
+
+204
+00:13:17,400 --> 00:13:27,200
+
+
+205
+00:13:18,400 --> 00:13:21,910
+Además, el Jugador anhela
+hacerse fuerte y desea el poder
+de abrirse camino sin depender de otros.
+
+206
+00:13:21,890 --> 00:13:25,890
+Su ansia de fuerza puede despertar
+a los espíritus que vagan
+por el valle de la muerte.
+
+207
+00:13:25,890 --> 00:13:27,200
+Los espíritus invocados por el ejército
+sombrío obedecerán las órdenes del
+Jugador y le abrirán camino únicamente a él.
+
+208
+00:13:27,200 --> 00:13:27,480
+obedecerán las órdenes
+
+209
+00:13:27,480 --> 00:13:27,700
+le abrirán camino
+
+210
+00:13:27,700 --> 00:13:32,110
+
+
+211
+00:13:27,700 --> 00:13:32,110
+Los espíritus invocados por el ejército
+sombrío obedecerán las órdenes del
+Jugador y le abrirán camino únicamente a él.
+
+212
+00:13:32,110 --> 00:13:33,830
+por el ejército sombrío obedecerán
+
+213
+00:13:32,670 --> 00:13:34,880
+¿Ejército sombrío?
+
+214
+00:13:37,500 --> 00:13:39,590
+Espera, ¿qué…?
+
+215
+00:13:39,970 --> 00:13:42,660
+¿Esta es mi clase?
+
+216
+00:13:42,130 --> 00:13:43,590
+
+
+217
+00:13:42,130 --> 00:13:43,590
+NOTIFICACIÓN
+
+Tu clase es [nigromante].
+
+218
+00:13:43,590 --> 00:13:45,060
+
+
+219
+00:13:43,590 --> 00:13:45,060
+NOTIFICACIÓN
+
+Tu clase es [nigromante].
+
+220
+00:13:43,760 --> 00:13:45,050
+¿Nigromante?
+
+221
+00:13:45,390 --> 00:13:46,420
+¡Un momento!
+
+222
+00:13:46,600 --> 00:13:50,640
+¡Si prácticamente no he subido
+mi inteligencia! ¿Cómo…?
+
+223
+00:13:51,600 --> 00:13:57,400
+Nigromante es una clase de mago
+que invoca muertos vivientes.
+
+224
+00:13:58,320 --> 00:14:00,090
+Yo soy más bien un asesino.
+
+225
+00:14:00,280 --> 00:14:02,040
+Lucho cuerpo a cuerpo.
+
+226
+00:14:02,360 --> 00:14:05,870
+Mi atributo principal es
+la fuerza y mis habilidades…
+
+227
+00:14:06,280 --> 00:14:10,610
+Si me volviera nigromante,
+tiraría todo por la borda.
+
+228
+00:14:11,580 --> 00:14:15,290
+
+
+229
+00:14:11,580 --> 00:14:15,290
+¿Quieres aceptar esta clase?
+
+
+Sí       No
+
+230
+00:14:12,000 --> 00:14:15,290
+¿Sí o no? ¿Puedo rechazarlo?
+
+231
+00:14:15,670 --> 00:14:19,550
+No tengo ni idea de qué
+me aportaría cambiar a nigromante.
+
+232
+00:14:19,840 --> 00:14:20,840
+No.
+
+233
+00:14:22,240 --> 00:14:24,090
+
+
+234
+00:14:22,240 --> 00:14:24,090
+NOTIFICACIÓN
+
+[Nigromante] </b>es una clase oculta.
+¿Seguro que quieres rechazarla?
+
+235
+00:14:22,420 --> 00:14:24,090
+¿Una clase secreta?
+
+236
+00:14:24,280 --> 00:14:26,460
+
+
+237
+00:14:24,340 --> 00:14:26,460
+NOTIFICACIÓN
+
+¿Quieres aceptar esta clase?
+
+
+Sí       No
+
+238
+00:14:30,720 --> 00:14:33,640
+¿Significa que tiene
+algún poder especial?
+
+239
+00:14:36,100 --> 00:14:37,550
+Nigromante…
+
+240
+00:14:37,730 --> 00:14:40,150
+Si tuviera algún ejemplo…
+
+241
+00:14:43,780 --> 00:14:45,240
+¡Magia de invocación!
+
+242
+00:14:45,610 --> 00:14:48,700
+Claro, esos Magos usaban
+a otros con su magia,
+
+243
+00:14:49,160 --> 00:14:52,770
+por lo que se asemejan
+a los nigromantes.
+
+244
+00:14:53,040 --> 00:14:57,990
+Y todos los combates que tuve
+parecían un repaso de lo anterior.
+
+245
+00:14:59,040 --> 00:15:03,900
+¿Estaba planeado pese a que pareciera
+darte opciones con el cambio de clase?
+
+246
+00:15:04,220 --> 00:15:06,010
+¿Es cosa del sistema?
+
+247
+00:15:06,840 --> 00:15:08,140
+Qué interesante.
+
+248
+00:15:08,640 --> 00:15:11,370
+Ellos no podían luchar por sí mismos.
+
+249
+00:15:11,600 --> 00:15:13,170
+Pero yo sí.
+
+250
+00:15:13,520 --> 00:15:16,600
+Nada impide que un nigromante
+luche a la vanguardia.
+
+251
+00:15:17,190 --> 00:15:19,540
+Si la clase es parte
+de mis estadísticas,
+
+252
+00:15:19,700 --> 00:15:22,840
+se potenciará al subir de nivel.
+
+253
+00:15:23,360 --> 00:15:27,150
+Tendría sentido que Ejército
+sombrío se fortaleciera.
+
+254
+00:15:27,490 --> 00:15:28,660
+Es decir…
+
+255
+00:15:29,030 --> 00:15:31,640
+dejaré de subir de nivel solo yo.
+
+256
+00:15:32,360 --> 00:15:34,950
+Sí
+
+257
+00:15:32,740 --> 00:15:34,000
+Muy bien.
+
+258
+00:15:39,880 --> 00:15:42,340
+-Tenga.
+-Gracias.
+
+259
+00:15:46,550 --> 00:15:48,320
+Está amaneciendo.
+
+260
+00:15:48,760 --> 00:15:52,350
+Choi y los cazadores
+pronto llegarán a la isla.
+
+261
+00:15:53,890 --> 00:15:56,320
+-Gracias por quedarte.
+-Ni lo mencione.
+
+262
+00:15:56,730 --> 00:16:01,720
+Ya que estás aquí,
+¿me escucharías un rato?
+
+263
+00:16:04,370 --> 00:16:05,710
+
+
+264
+00:16:04,400 --> 00:16:05,710
+NOTIFICACIÓN
+
+Cambio de clase finalizado.
+
+265
+00:16:07,400 --> 00:16:09,130
+
+
+266
+00:16:07,530 --> 00:16:09,130
+NOTIFICACIÓN
+
+Dependiendo de los puntos
+obtenidos podrás acceder
+a una clase superior.
+
+267
+00:16:11,310 --> 00:16:12,200
+
+
+268
+00:16:11,310 --> 00:16:12,200
+NOTIFICACIÓN
+
+Superaste el tiempo de supervivencia previsto.
+
+269
+00:16:12,410 --> 00:16:13,530
+
+
+270
+00:16:12,450 --> 00:16:13,530
+NOTIFICACIÓN
+
+Se conceden puntos adicionales.
+
+271
+00:16:16,230 --> 00:16:16,830
+
+
+272
+00:16:16,230 --> 00:16:16,830
+NOTIFICACIÓN
+
+No usaste la piedra de teletransporte instantáneo.
+
+273
+00:16:17,040 --> 00:16:17,700
+
+
+274
+00:16:17,080 --> 00:16:17,700
+NOTIFICACIÓN
+
+Se conceden puntos adicionales.
+
+275
+00:16:19,650 --> 00:16:20,250
+
+
+276
+00:16:19,650 --> 00:16:20,250
+NOTIFICACIÓN
+
+Más del 50 % de vida restante.
+
+277
+00:16:20,380 --> 00:16:21,350
+
+
+278
+00:16:20,420 --> 00:16:21,350
+NOTIFICACIÓN
+
+Se conceden puntos adicionales.
+
+279
+00:16:21,350 --> 00:16:22,420
+
+
+280
+00:16:21,350 --> 00:16:22,420
+NOTIFICACIÓN
+
+Venciste a todos los enemigos.
+
+281
+00:16:22,380 --> 00:16:23,370
+
+
+282
+00:16:22,460 --> 00:16:23,370
+NOTIFICACIÓN
+
+Se conceden puntos adicionales.
+
+283
+00:16:23,380 --> 00:16:25,010
+
+
+284
+00:16:23,460 --> 00:16:25,010
+NOTIFICACIÓN
+
+Superaste el límite de puntos
+de promoción totales.
+
+285
+00:16:58,710 --> 00:16:59,950
+
+
+286
+00:16:58,790 --> 00:16:59,950
+NOTIFICACIÓN
+
+Cambio de clase
+[Nigromante]
+
+[Rey de las sombras]
+
+287
+00:17:00,290 --> 00:17:03,720
+¿Rey de las sombras?
+¡Un segundo cambio de clase!
+
+288
+00:17:03,960 --> 00:17:06,250
+¿Tantos puntos gané?
+
+289
+00:17:07,590 --> 00:17:12,460
+Una habilidad de clase, 10 puntos
+de atributo y un título.
+
+290
+00:17:13,050 --> 00:17:16,970
+Si recibí la recompensa,
+es porque se acabó la misión, ¿no?
+
+291
+00:17:17,430 --> 00:17:19,840
+¿Ya cambié de clase?
+
+292
+00:17:22,480 --> 00:17:24,860
+Oigo una especie de gemido.
+
+293
+00:17:25,360 --> 00:17:28,260
+Es como si agonizaran.
+
+294
+00:17:26,820 --> 00:17:27,520
+{\an7}[Habilidad: Extracción de sombra] disponible.<b></b>
+
+295
+00:17:29,280 --> 00:17:30,490
+Extracción de sombra…
+
+296
+00:17:30,570 --> 00:17:31,930
+
+
+297
+00:17:30,610 --> 00:17:31,930
+
+
+298
+00:17:30,700 --> 00:17:31,930
+NOTIFICACIÓN
+
+Establece la orden para
+[Habilidad: Extracción de sombra].
+
+299
+00:17:32,660 --> 00:17:34,680
+Establecer la orden…
+
+300
+00:17:38,790 --> 00:17:39,870
+Surge.
+
+301
+00:17:39,870 --> 00:17:41,620
+Establece la orden para
+
+[Habilidad: Extracción de sombra].
+
+302
+00:17:39,950 --> 00:17:41,620
+Surge
+
+303
+00:17:58,810 --> 00:18:00,410
+Esto es increíble.
+
+304
+00:18:00,930 --> 00:18:05,350
+¿Extracción de sombra
+y Almacenaje de sombra?
+
+305
+00:18:04,680 --> 00:18:12,150
+
+
+306
+00:18:04,680 --> 00:18:12,150
+HABILIDADES
+
+[Habilidad de clase exclusiva]
+
+
+Extracción de sombra         Nv. 1
+
+307
+00:18:04,680 --> 00:18:12,150
+MP: 0
+· Extracciones de sombra disponibles: 30/30
+
+ Absorbe el maná de un cuerpo sin vida
+y lo convierte en un soldado sombrío.
+Si ha pasado mucho tiempo desde la muerte del objetivo
+o este tiene atributos muy altos, aumenta la probabilidad
+de que la extracción fracase.
+
+308
+00:18:04,680 --> 00:18:12,150
+
+
+309
+00:18:04,680 --> 00:18:12,150
+HABILIDADES
+
+[Habilidad de clase exclusiva]
+
+
+Almacenaje de sombra         Nv. 1
+
+310
+00:18:04,680 --> 00:18:12,150
+MP: 0
+· Sombras almacenadas: 0/20
+
+ La sombra del usuario absorbe y almacena a los
+soldados sombra.
+Los soldados almacenados pueden invocarse
+y volver a absorberse en cualquier momento.
+
+311
+00:18:05,810 --> 00:18:08,760
+Una habilidad absorbe maná
+y crea un soldado sombrío
+
+312
+00:18:08,940 --> 00:18:12,150
+y la otra permite almacenarlo
+y sacarlo cuando quiera.
+
+313
+00:18:12,950 --> 00:18:16,100
+¿Y estos son esos soldados sombríos?
+
+314
+00:18:16,530 --> 00:18:21,260
+La extracción puede fallar según
+la fuerza y el tiempo que lleve muerto.
+
+315
+00:18:21,450 --> 00:18:23,280
+Tendré que tener cuidado.
+
+316
+00:18:23,960 --> 00:18:25,970
+El Caballero y el Mago.
+
+317
+00:18:26,170 --> 00:18:28,670
+Y parece que tienen rangos.
+
+318
+00:18:26,580 --> 00:18:28,670
+Infantería sombría - Nv. 1
+Rango: Normal
+
+319
+00:18:26,670 --> 00:18:28,670
+Mago sombrío - Nv. 1
+Rango: Normal
+
+320
+00:18:30,380 --> 00:18:33,460
+Si extraigo sombras de rango A o S
+
+321
+00:18:33,760 --> 00:18:37,600
+y su fuerza depende
+de la que tenían en vida…
+
+322
+00:18:46,270 --> 00:18:47,430
+{\an7}[Habilidad: Extracción de sombra] disponible</b>.
+
+323
+00:18:47,770 --> 00:18:49,060
+¡Sí!
+
+324
+00:18:49,360 --> 00:18:52,350
+Hay un límite
+de extracción y almacenaje.
+
+325
+00:18:52,820 --> 00:18:54,810
+Cancelo la extracción de 11 soldados.
+
+326
+00:18:56,610 --> 00:18:58,460
+Siento haberlos despertado.
+
+327
+00:18:59,660 --> 00:19:00,830
+Ahora…
+
+328
+00:19:01,290 --> 00:19:03,610
+Comandante Igris el Carmesí.
+
+329
+00:19:04,000 --> 00:19:06,290
+Si lograra controlarlo…
+
+330
+00:19:07,630 --> 00:19:08,750
+Surge.
+
+331
+00:19:18,090 --> 00:19:19,280
+¿Qué?
+
+332
+00:19:21,020 --> 00:19:22,150
+{\an7}[Habilidad: Extracción de sombra] fracasó.
+
+333
+00:19:22,310 --> 00:19:24,480
+Esto era lo que decía antes.
+
+334
+00:19:24,470 --> 00:19:24,820
+{\an2}[Habilidad: Extracción de sombra] fracasó.
+
+335
+00:19:24,810 --> 00:19:25,340
+{\an2}Número de extracciones posibles:  3/3
+
+336
+00:19:25,340 --> 00:19:25,930
+{\an2}Número de extracciones posibles:  2/3
+
+337
+00:19:26,270 --> 00:19:27,610
+Quedan dos veces.
+
+338
+00:19:31,900 --> 00:19:33,120
+¡Surge!
+
+339
+00:19:37,130 --> 00:19:37,600
+{\an2}Número de extracciones posibles:  2/3
+
+340
+00:19:37,600 --> 00:19:38,320
+{\an2}Número de extracciones posibles:  1/3
+
+341
+00:19:38,740 --> 00:19:40,010
+Mierda.
+
+342
+00:19:40,490 --> 00:19:42,300
+Supongo que no necesito decirlo,
+
+343
+00:19:42,540 --> 00:19:45,750
+pero los cazadores
+ni empeoramos ni mejoramos
+
+344
+00:19:45,910 --> 00:19:49,170
+a no ser que haya un segundo despertar.
+
+345
+00:19:49,380 --> 00:19:52,460
+Por eso practicamos
+artes marciales y nos agrupamos.
+
+346
+00:19:53,710 --> 00:19:55,420
+¿Esperas que regrese tu rey?
+
+347
+00:19:56,170 --> 00:19:58,720
+¿Un rey que no sabes cuándo volverá?
+
+348
+00:19:59,640 --> 00:20:03,100
+Comandante Igris, tú eres un guerrero.
+
+349
+00:20:03,510 --> 00:20:06,260
+Te sientes realizado
+blandiendo la espada.
+
+350
+00:20:07,190 --> 00:20:10,950
+¿Vas a dejar que se oxide
+en este sitio mohoso?
+
+351
+00:20:12,860 --> 00:20:17,640
+Si necesitas alguien a quien
+ofrecerle tu espada, sírveme a mí.
+
+352
+00:20:18,240 --> 00:20:21,280
+En vez de proteger el trono
+de quien se fue,
+
+353
+00:20:21,620 --> 00:20:24,120
+protege al hombre que tienes delante.
+
+354
+00:20:24,790 --> 00:20:25,970
+Surge.
+
+355
+00:20:38,800 --> 00:20:42,930
+Pero confieso que a veces
+sueño con algo.
+
+356
+00:20:52,940 --> 00:20:53,980
+
+
+357
+00:20:53,020 --> 00:20:53,980
+NOTIFICACIÓN
+
+[Habilidad: Extracción de sombra]
+realizada con éxito.
+
+358
+00:20:54,150 --> 00:20:55,310
+
+
+359
+00:20:54,150 --> 00:20:55,310
+NOTIFICACIÓN
+
+Nv. 7, Rango: Caballero
+Puedes asignarle un nombre.
+
+360
+00:20:54,230 --> 00:20:55,310
+
+
+361
+00:20:55,650 --> 00:21:00,740
+Sueño que entre los nuevos despertados…
+
+362
+00:21:02,120 --> 00:21:03,500
+Está claro cuál será.
+
+363
+00:21:04,530 --> 00:21:05,810
+Igris.
+
+364
+00:21:06,200 --> 00:21:07,320
+Igris
+
+365
+00:21:06,200 --> 00:21:07,450
+
+
+366
+00:21:06,200 --> 00:21:07,450
+
+
+367
+00:21:06,200 --> 00:21:07,450
+NOTIFICACIÓN
+
+Nv. 7, Rango: Caballero
+Puedes asignarle un nombre.
+
+368
+00:21:07,450 --> 00:21:09,660
+
+
+369
+00:21:07,540 --> 00:21:09,660
+NOTIFICACIÓN
+
+[Igris  Nv. 7]
+Rango: Caballero
+
+370
+00:21:07,950 --> 00:21:09,660
+Ese es tu nombre.
+
+371
+00:21:11,080 --> 00:21:15,260
+… ya podría haber surgido
+una nueva esperanza
+
+372
+00:21:15,590 --> 00:21:23,060
+con un poder que supere
+nuestra imaginación.
+
+373
+00:21:38,230 --> 00:21:39,720
+Cuento con ustedes.
+
+374
+00:23:19,000 --> 00:23:21,990
+Presidente Choi, ¿qué es esto?
+
+375
+00:23:22,170 --> 00:23:23,380
+No lo sé.
+
+376
+00:23:23,710 --> 00:23:26,700
+Que yo supiera,
+esto no estaba aquí antes.
+
+377
+00:23:27,050 --> 00:23:29,510
+Es increíble.
+
+378
+00:23:31,760 --> 00:23:33,460
+¿Están evolucionando?
+
+379
+00:23:34,980 --> 00:23:36,810
+{\an2}Surge
+

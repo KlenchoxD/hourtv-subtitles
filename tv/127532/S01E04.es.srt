@@ -1,0 +1,1454 @@
+1
+00:00:01,980 --> 00:00:03,740
+LOBO DE COLMILLOS DE ACERO
+
+2
+00:00:19,670 --> 00:00:21,800
+Siento el cuerpo muy ligero.
+
+3
+00:00:26,710 --> 00:00:28,680
+¿Para esto sobreviví?
+
+4
+00:00:29,050 --> 00:00:30,840
+¿Para tener miedo eternamente?
+
+5
+00:00:32,220 --> 00:00:33,930
+¡No pienso morir!
+
+6
+00:00:38,520 --> 00:00:41,660
+¿Será porque aumenté mis atributos?
+
+7
+00:00:43,860 --> 00:00:46,360
+Pero aún es más fuerte que yo.
+
+8
+00:00:50,320 --> 00:00:51,780
+No le hago nada.
+
+9
+00:00:59,790 --> 00:01:01,460
+¿Qué puedo hacer?
+
+10
+00:02:41,890 --> 00:02:43,520
+No puedo ganar yo solo.
+
+11
+00:02:47,230 --> 00:02:49,110
+No tengo ni grupo ni sanador.
+
+12
+00:02:49,570 --> 00:02:51,320
+Y solo llevo agua y comida.
+
+13
+00:02:53,150 --> 00:02:54,450
+A este paso…
+
+14
+00:02:56,030 --> 00:02:58,280
+Si tuviera un arma con poder mágico…
+
+15
+00:02:58,450 --> 00:02:59,530
+¿Un arma?
+
+16
+00:02:59,700 --> 00:03:00,870
+¡Inventario!
+
+17
+00:03:16,680 --> 00:03:19,090
+No sé qué hace esto aquí, pero…
+
+18
+00:03:20,760 --> 00:03:24,230
+
+
+19
+00:03:20,890 --> 00:03:24,230
+NOTIFICACIÓN
+
+Venciste a
+[Lobo de colmillos de acero]
+
+20
+00:03:21,260 --> 00:03:24,230
+Kim dijo que la había
+comprado por 300 000.
+
+21
+00:03:21,470 --> 00:03:24,230
+
+
+22
+00:03:21,560 --> 00:03:24,230
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+23
+00:03:25,060 --> 00:03:26,940
+Es un objeto fuera de mi alcance.
+
+24
+00:03:27,810 --> 00:03:30,440
+No tengo muchas opciones. La usaré.
+
+25
+00:03:31,570 --> 00:03:33,230
+¿Ya no siento dolor?
+
+26
+00:03:35,950 --> 00:03:37,360
+Con un arma…
+
+27
+00:03:38,110 --> 00:03:39,200
+¡no tengo miedo!
+
+28
+00:03:42,870 --> 00:03:44,870
+¿Eh? ¡Se atascó!
+
+29
+00:03:47,250 --> 00:03:48,920
+¡Por favor, suéltate!
+
+30
+00:03:58,880 --> 00:04:00,800
+Sí que son colmillos de acero, ¿eh?
+
+31
+00:04:01,850 --> 00:04:03,640
+Por fin tengo una espada.
+
+32
+00:04:04,930 --> 00:04:07,140
+¡Ni se te ocurra tocarla!
+
+33
+00:04:12,820 --> 00:04:14,150
+Para empezar…
+
+34
+00:04:15,150 --> 00:04:16,690
+comparados con esos otros,
+
+35
+00:04:17,820 --> 00:04:19,150
+estos no son nada.
+
+36
+00:04:35,630 --> 00:04:42,090
+
+
+37
+00:04:35,630 --> 00:04:42,090
+ESTADO
+
+38
+00:04:35,630 --> 00:04:42,090
+NIVEL
+
+39
+00:04:35,630 --> 00:04:42,090
+TRABAJO: Ninguno
+TÍTULO: Ninguno
+
+40
+00:04:35,630 --> 00:04:42,090
+2
+
+41
+00:04:35,630 --> 00:04:42,090
+PV: 220/220 | PM: 22/22 | CANSANCIO: 3
+
+42
+00:04:36,050 --> 00:04:38,630
+¿Eh? Dice que soy de nivel 2.
+
+43
+00:04:38,970 --> 00:04:41,470
+Las misiones diarias no lo cambiaron.
+
+44
+00:04:42,260 --> 00:04:44,850
+Pero esto fue un combate real.
+
+45
+00:04:45,010 --> 00:04:46,890
+Por eso me curé hace poco.
+
+46
+00:04:47,390 --> 00:04:51,440
+Así que al subir de nivel,
+todos los atributos aumentan un punto.
+
+47
+00:04:51,440 --> 00:04:59,400
+
+
+48
+00:04:51,440 --> 00:04:59,400
+FUE: 32        VIT: 11
+
+AGI: 11         INT: 11
+
+PER: 11        0
+
+49
+00:04:51,440 --> 00:04:59,400
+Puntos de
+atributo disponibles
+
+50
+00:04:52,270 --> 00:04:53,690
+Son cinco puntos en total.
+
+51
+00:04:53,980 --> 00:04:55,980
+Las misiones diarias dan tres,
+
+52
+00:04:56,150 --> 00:04:58,690
+así que sale más a cuenta luchar.
+
+53
+00:04:59,570 --> 00:05:02,910
+¿Cuánta diferencia marcará un punto?
+
+54
+00:05:03,240 --> 00:05:05,870
+Inteligencia y percepción
+tienen un número.
+
+55
+00:05:06,740 --> 00:05:08,500
+Lo más simple es la fuerza.
+
+56
+00:05:08,830 --> 00:05:10,750
+Aunque solo tengo 32,
+
+57
+00:05:10,910 --> 00:05:12,830
+me siento mucho más ligero.
+
+58
+00:05:13,750 --> 00:05:15,130
+Es una suposición mía,
+
+59
+00:05:15,380 --> 00:05:17,840
+pero cuanto mayor sea el número base,
+
+60
+00:05:18,010 --> 00:05:20,510
+más evidentes serán los efectos.
+
+61
+00:05:22,340 --> 00:05:25,350
+Realmente puedo hacerme más fuerte.
+
+62
+00:05:28,310 --> 00:05:32,690
+Aunque igual estoy exagerando.
+Solo he matado cinco monstruos.
+
+63
+00:05:34,810 --> 00:05:37,940
+¿Tendrán piedras mágicas?
+
+64
+00:05:38,820 --> 00:05:39,570
+
+
+65
+00:05:38,940 --> 00:05:39,570
+OBJETO: Colmillo de lobo
+
+Dificultad de adquisición: <b>Ninguna</b>
+Categoría: <b>Misceláneo</b>
+
+Colmillo de lobo, grande y afilado.
+Puede venderse en la tienda.
+
+66
+00:05:40,610 --> 00:05:43,610
+Parece que en vez
+de piedras dan objetos.
+
+67
+00:05:44,620 --> 00:05:46,990
+Si este fenómeno tan curioso
+
+68
+00:05:47,450 --> 00:05:50,660
+se rige por el sistema
+parecido al de un videojuego,
+
+69
+00:05:51,160 --> 00:05:55,420
+la mazmorra y los monstruos podrían
+no ser como los de los portales.
+
+70
+00:05:57,420 --> 00:05:58,920
+Hay una tienda.
+
+71
+00:05:59,420 --> 00:06:00,340
+Comprar.
+
+72
+00:06:00,340 --> 00:06:06,550
+
+
+73
+00:06:00,340 --> 00:06:06,550
+TIENDA
+
+74
+00:06:00,340 --> 00:06:06,550
+
+
+75
+00:06:00,340 --> 00:06:06,550
+VENDER<b></b>
+
+76
+00:06:00,550 --> 00:06:06,550
+No puedes comprar con tu nivel actual.
+
+77
+00:06:01,420 --> 00:06:03,930
+Los nuevos no pueden comprar.
+
+78
+00:06:04,720 --> 00:06:05,720
+Vender.
+
+79
+00:06:10,390 --> 00:06:11,980
+¿20 oros?
+
+80
+00:06:12,850 --> 00:06:15,520
+¿A cuánto dinero equivaldrá eso?
+
+81
+00:06:16,230 --> 00:06:19,110
+Supongo que es una mazmorra de rango E,
+
+82
+00:06:19,270 --> 00:06:21,990
+así que 20 oros no debe ser mucho.
+
+83
+00:06:23,240 --> 00:06:25,910
+¿Qué hago ahora?
+
+84
+00:06:26,700 --> 00:06:29,120
+No puedo salir hasta matar al jefe.
+
+85
+00:06:29,450 --> 00:06:31,910
+Bueno, con una piedra
+de teletransporte sí.
+
+86
+00:06:32,250 --> 00:06:34,420
+Pero no sé dónde están.
+
+87
+00:06:35,040 --> 00:06:37,170
+Pero no tengo mucha comida.
+
+88
+00:06:41,340 --> 00:06:45,130
+Hablando de rango E,
+yo solo no puedo vencer a un jefe.
+
+89
+00:06:45,840 --> 00:06:49,220
+No. Subiendo de nivel, tal vez sí.
+
+90
+00:06:51,850 --> 00:06:55,100
+Aunque puede que muera antes.
+
+91
+00:06:59,610 --> 00:07:05,070
+LOBO DE COLMILLOS DE ACERO
+
+92
+00:07:00,730 --> 00:07:05,070
+LOBO DE COLMILLOS DE ACERO
+
+93
+00:07:01,110 --> 00:07:05,070
+LOBO DE COLMILLOS DE ACERO
+
+94
+00:07:08,200 --> 00:07:09,740
+No tengas miedo.
+
+95
+00:07:10,450 --> 00:07:12,790
+Ya experimentaste la muerte.
+
+96
+00:07:29,510 --> 00:07:32,180
+No me dejaré matar tan fácilmente.
+
+97
+00:07:32,810 --> 00:07:34,640
+Ustedes también aguanten.
+
+98
+00:07:37,230 --> 00:07:41,150
+Me sabría mal matarlos en un parpadeo.
+
+99
+00:07:43,070 --> 00:07:45,240
+Estás cualificado como cazador.
+
+100
+00:07:47,110 --> 00:07:49,110
+¡Podré pagar el tratamiento de mamá!
+
+101
+00:07:49,360 --> 00:07:51,620
+Si tuviera otra oportunidad…
+
+102
+00:07:54,370 --> 00:07:57,920
+Vamos a luchar con pasión.
+
+103
+00:08:03,500 --> 00:08:06,840
+Mientras viva, que no falte la pasión.
+
+104
+00:08:06,800 --> 00:08:07,590
+
+
+105
+00:08:06,880 --> 00:08:07,590
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+106
+00:08:07,090 --> 00:08:07,590
+
+
+107
+00:08:07,220 --> 00:08:07,590
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+108
+00:08:08,130 --> 00:08:09,930
+Si puedo hacerme fuerte…
+
+109
+00:08:10,010 --> 00:08:10,800
+
+
+110
+00:08:10,140 --> 00:08:10,800
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+111
+00:08:10,300 --> 00:08:10,800
+
+
+112
+00:08:10,390 --> 00:08:10,800
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+113
+00:08:10,550 --> 00:08:10,800
+
+
+114
+00:08:10,640 --> 00:08:10,800
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+115
+00:08:11,390 --> 00:08:14,220
+¡seguiré estas normas retorcidas!
+
+116
+00:08:13,010 --> 00:08:14,640
+
+
+117
+00:08:13,140 --> 00:08:14,640
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+118
+00:08:13,220 --> 00:08:14,640
+
+
+119
+00:08:13,390 --> 00:08:14,640
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+120
+00:08:13,560 --> 00:08:14,640
+
+
+121
+00:08:13,680 --> 00:08:14,640
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+122
+00:08:13,810 --> 00:08:14,640
+
+
+123
+00:08:13,930 --> 00:08:14,640
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+124
+00:08:14,100 --> 00:08:14,640
+
+
+125
+00:08:14,220 --> 00:08:14,640
+NOTIFICACIÓN
+
+
+¡Subiste de nivel!
+
+126
+00:08:17,770 --> 00:08:19,850
+
+
+127
+00:08:17,810 --> 00:08:19,850
+NOTIFICACIÓN
+
+Obtuviste
+[Título: Asesino de Lobos]</b>
+
+128
+00:08:23,900 --> 00:08:25,150
+Eso no luce nada bien.
+
+129
+00:08:25,570 --> 00:08:27,690
+La Asociación debería hacer algo.
+
+130
+00:08:38,370 --> 00:08:40,830
+La espada está en las últimas.
+
+131
+00:08:42,080 --> 00:08:45,750
+Las armas también son desechables.
+
+132
+00:08:46,260 --> 00:08:50,430
+Por mucho que pagues,
+si las usas mucho, se desgastan.
+
+133
+00:08:50,550 --> 00:08:51,640
+Pero…
+
+134
+00:08:52,050 --> 00:08:54,140
+Parece que las cosas se calmaron.
+
+135
+00:08:55,600 --> 00:08:57,810
+
+
+136
+00:08:55,600 --> 00:08:57,810
+[Título: Asesino de lobos]</b>
+
+Título otorgado a los que
+cazan lobos hábilmente.
+
+<b>Monstruos de tipo animal:
+TODOS LOS ATRIBUTOS +40 %<b></b>
+
+137
+00:08:57,890 --> 00:08:59,560
+
+
+138
+00:08:57,930 --> 00:08:59,560
+INVENTARIO
+
+139
+00:08:59,980 --> 00:09:02,150
+Treinta y cuatro colmillos de lobo.
+
+140
+00:09:02,480 --> 00:09:04,150
+Dos dagas gastadas.
+
+141
+00:09:04,310 --> 00:09:05,570
+Ropajes de viajero.
+
+142
+00:09:06,480 --> 00:09:11,240
+Y una piedra de teletransporte
+que no me costó mucho conseguir.
+
+143
+00:09:12,410 --> 00:09:13,870
+¿Me voy?
+
+144
+00:09:15,870 --> 00:09:20,660
+No sé si tendré otra oportunidad
+para hacerme fuerte tan fácilmente.
+
+145
+00:09:21,250 --> 00:09:24,250
+¿Qué pasará con la mazmorra
+si uso la piedra?
+
+146
+00:09:24,670 --> 00:09:25,710
+¿Desaparecerá?
+
+147
+00:09:26,590 --> 00:09:28,960
+Si es como un evento temporal,
+
+148
+00:09:29,130 --> 00:09:31,430
+puede que al salir no quede ni rastro.
+
+149
+00:09:32,510 --> 00:09:36,850
+Sea como sea, estoy bajo el control
+de algo desconocido.
+
+150
+00:09:38,180 --> 00:09:40,600
+Estoy en manos de los dioses.
+
+151
+00:09:43,690 --> 00:09:46,570
+¿Sigo adelante o vuelvo atrás?
+
+152
+00:10:02,460 --> 00:10:04,170
+Sí, soy Lee Joohee.
+
+153
+00:10:05,130 --> 00:10:07,290
+¿Es de la Asociación de Cazadores?
+
+154
+00:10:07,670 --> 00:10:09,840
+Siento mucho lo del otro día.
+
+155
+00:10:12,510 --> 00:10:14,970
+¿Hubo una brecha de mazmorra?
+
+156
+00:10:15,470 --> 00:10:16,970
+Es aquí cerca.
+
+157
+00:10:17,640 --> 00:10:19,770
+Todo porque me negué a ir.
+
+158
+00:10:19,930 --> 00:10:23,940
+Estamos reuniendo
+a los cazadores disponibles,
+
+159
+00:10:24,140 --> 00:10:26,770
+pero no hay suficientes sanadores.
+
+160
+00:10:32,110 --> 00:10:33,240
+Entendido.
+
+161
+00:10:34,780 --> 00:10:36,660
+Cuánto más subo de nivel,
+
+162
+00:10:34,950 --> 00:10:36,870
+Venciste a  [Briga garras afiladas]
+
+163
+00:10:37,490 --> 00:10:40,790
+más fácil me resulta
+matar a los monstruos.
+
+164
+00:10:37,660 --> 00:10:38,830
+Venciste a  [Razan sombra negra]
+
+165
+00:10:39,620 --> 00:10:40,790
+Venciste a  [Razan sombra negra]
+
+166
+00:10:49,170 --> 00:10:51,840
+LOBO DE COLMILLOS DE ACERO
+
+167
+00:10:49,840 --> 00:10:51,840
+El color de las letras cambió.
+
+168
+00:10:52,670 --> 00:10:55,260
+El blanco debe significar
+que son más débiles.
+
+169
+00:10:54,840 --> 00:10:57,300
+LOBO DE COLMILLOS DE ACERO
+
+170
+00:10:55,510 --> 00:10:57,300
+El naranja, que son como yo.
+
+171
+00:10:57,590 --> 00:10:59,890
+CIEMPIÉS DESÉRTICO GIGANTE
+
+172
+00:10:57,930 --> 00:10:59,680
+El rojo, que son más fuertes.
+
+173
+00:10:59,890 --> 00:11:04,350
+LOBO DE COLMILLOS DE ACERO
+
+174
+00:11:00,430 --> 00:11:02,850
+Los lobos que antes veía en rojo
+
+175
+00:11:03,020 --> 00:11:04,850
+ahora son de color blanco.
+
+176
+00:11:05,440 --> 00:11:07,940
+Eso significa que me he fortalecido.
+
+177
+00:11:08,520 --> 00:11:13,320
+Pero con mi nivel actual
+no puedo vencer a lo que está abajo.
+
+178
+00:11:13,990 --> 00:11:16,740
+No sé si es porque
+ha mejorado mi percepción,
+
+179
+00:11:17,030 --> 00:11:18,780
+pero me lo dice mi instinto.
+
+180
+00:11:19,740 --> 00:11:23,450
+Ahí hay una monstruosidad.
+Me pone los pelos de punta.
+
+181
+00:11:25,500 --> 00:11:28,460
+
+
+182
+00:11:25,500 --> 00:11:28,460
+ESTADO
+
+183
+00:11:25,500 --> 00:11:28,460
+NIVEL
+
+184
+00:11:25,500 --> 00:11:28,460
+TRABAJO: Ninguno
+TÍTULO: Ninguno
+
+185
+00:11:25,500 --> 00:11:28,460
+15
+
+186
+00:11:25,500 --> 00:11:28,460
+PV: 1105/1105 | PM: 200/200 | CANSANCIO: 30
+
+187
+00:11:25,500 --> 00:11:28,460
+FUE: 45        VIT: 24
+
+AGI: 24         INT: 24
+
+PER: 24        0
+
+188
+00:11:25,500 --> 00:11:28,460
+Puntos de
+atributo disponibles
+
+189
+00:11:26,000 --> 00:11:28,460
+No podré subir más de nivel aquí.
+
+190
+00:11:29,330 --> 00:11:31,920
+Y la espada no aguantará
+más peleas en vano.
+
+191
+00:11:44,890 --> 00:11:48,230
+¿Estas escaleras
+siempre fueron tan largas?
+
+192
+00:12:02,700 --> 00:12:04,660
+Esto no parece una estación.
+
+193
+00:12:11,540 --> 00:12:12,630
+¡Qué veloz!
+
+194
+00:12:17,220 --> 00:12:18,260
+¡La espada!
+
+195
+00:12:24,350 --> 00:12:26,180
+Subí bastante de nivel
+
+196
+00:12:26,980 --> 00:12:28,600
+y, pese a ello, el nombre…
+
+197
+00:12:30,190 --> 00:12:31,440
+está en naranja.
+
+198
+00:12:31,310 --> 00:12:32,650
+REY DEL PANTANO KASAKA DE COLMILLOS VENENOSOS AZULES
+
+199
+00:12:33,060 --> 00:12:35,360
+Tú eres el jefe, ¿no?
+
+200
+00:12:36,190 --> 00:12:39,450
+Esta espada no puede hacer nada
+contra sus escamas.
+
+201
+00:12:39,820 --> 00:12:41,870
+Y mis manos, menos.
+
+202
+00:12:52,290 --> 00:12:54,920
+Ataques pesados a toda velocidad.
+
+203
+00:12:55,130 --> 00:12:57,210
+Tengo que reducir su defensa.
+
+204
+00:12:57,590 --> 00:13:00,220
+Pero ¿qué hago contra esta armadura?
+
+205
+00:13:08,430 --> 00:13:10,940
+Si me da de lleno, moriré.
+
+206
+00:13:31,580 --> 00:13:34,330
+Pensaba que ahora era más fuerte.
+
+207
+00:13:43,340 --> 00:13:46,640
+¿Aún no tengo suficiente fuerza?
+
+208
+00:13:47,810 --> 00:13:50,770
+¿Cuánto más debo fortalecerme
+
+209
+00:13:51,850 --> 00:13:55,860
+para reconquistar la vida
+de la que tanto se han burlado?
+
+210
+00:14:00,190 --> 00:14:02,240
+¿"El arma más débil de la humanidad"?
+
+211
+00:14:02,860 --> 00:14:05,490
+Así te llaman últimamente, ¿no?
+
+212
+00:14:05,660 --> 00:14:06,660
+Sí.
+
+213
+00:14:06,990 --> 00:14:10,620
+Aún hay gente muy infantil por el mundo.
+
+214
+00:14:11,450 --> 00:14:14,540
+Esfuérzate para limpiar tu nombre.
+
+215
+00:14:16,880 --> 00:14:19,300
+Sí. Eso haré.
+
+216
+00:14:36,860 --> 00:14:39,690
+Me pusieron ese apodo porque era débil.
+
+217
+00:14:40,440 --> 00:14:42,570
+Por eso se burlan de mí.
+
+218
+00:14:45,280 --> 00:14:47,490
+Me doy vergüenza a mí mismo.
+
+219
+00:14:48,990 --> 00:14:50,330
+Si fuera fuerte…
+
+220
+00:14:52,200 --> 00:14:55,790
+Si tuviera un poder arrollador,
+siempre tendría ventaja.
+
+221
+00:14:56,170 --> 00:14:59,000
+Pero soy impotente ante los fuertes.
+
+222
+00:14:59,170 --> 00:15:02,710
+Tiemblo de miedo y me quedo paralizado.
+
+223
+00:15:03,130 --> 00:15:04,970
+Me desprecian por ser débil.
+
+224
+00:15:05,340 --> 00:15:09,720
+Aunque sea listo,
+ingenioso y piense en los demás,
+
+225
+00:15:10,470 --> 00:15:12,220
+ante los fuertes…
+
+226
+00:15:13,220 --> 00:15:15,390
+siempre me traicionarán.
+
+227
+00:15:15,890 --> 00:15:17,600
+La bondad es inútil.
+
+228
+00:15:17,810 --> 00:15:21,230
+Por eso me haré fuerte.
+¡Para eso llegué hasta aquí!
+
+229
+00:15:35,290 --> 00:15:36,830
+Yo…
+
+230
+00:15:42,210 --> 00:15:45,130
+tengo que hacerme fuerte.
+
+231
+00:15:51,350 --> 00:15:52,560
+No he terminado.
+
+232
+00:15:53,560 --> 00:15:55,140
+Comparado con él…
+
+233
+00:15:55,480 --> 00:15:57,640
+Comparado con ese miedo…
+
+234
+00:15:58,520 --> 00:16:00,190
+¡Esto no es nada!
+
+235
+00:16:15,080 --> 00:16:18,120
+He mejorado mis atributos,
+sobretodo la fuerza.
+
+236
+00:16:23,340 --> 00:16:24,840
+Ahora sí puedo.
+
+237
+00:16:28,930 --> 00:16:30,890
+¡Ahora sí puedo!
+
+238
+00:16:32,550 --> 00:16:35,430
+¡Te mataré!
+
+239
+00:16:36,470 --> 00:16:40,100
+¡Muere!
+
+240
+00:17:03,630 --> 00:17:04,630
+
+
+241
+00:17:03,630 --> 00:17:04,630
+NOTIFICACIÓN
+
+242
+00:17:03,630 --> 00:17:04,630
+¡Subiste de nivel!
+
+243
+00:17:03,960 --> 00:17:04,630
+¡Subiste de nivel!
+
+244
+00:17:04,170 --> 00:17:04,630
+¡Subiste de nivel!
+
+245
+00:17:12,470 --> 00:17:17,270
+Parece que sí me volví
+un poco más fuerte.
+
+246
+00:17:18,270 --> 00:17:21,230
+
+
+247
+00:17:18,350 --> 00:17:21,230
+NOTIFICACIÓN
+
+Venciste a<b>
+
+[Rey del pantano, Kasaka
+de colmillos venenosos azules]</b>
+
+248
+00:17:26,070 --> 00:17:29,150
+Al menos conseguí algo bueno.
+
+249
+00:17:29,150 --> 00:17:39,660
+
+
+250
+00:17:29,150 --> 00:17:39,660
+OBJETO: Colmillo venenoso de Kasaka
+
+Dificultad de adquisición: <b>Rango C</b>
+Categoría: <b>Daga</b>
+
+251
+00:17:29,150 --> 00:17:39,660
+ATQ +25
+
+- Parálisis: El oponente no puede
+                 moverse temporalmente.
+- Drenaje: PV -1 %/1 seg.
+
+Daga hecha de un colmillo de Kasaka. Contiene veneno de Kasaka.
+
+252
+00:17:29,820 --> 00:17:33,070
+Una daga hecha
+de un colmillo y no de huesos.
+
+253
+00:17:34,450 --> 00:17:37,040
+Tiene el doble de ataque que la de Kim
+
+254
+00:17:37,290 --> 00:17:39,660
+y provoca parálisis y drenaje.
+
+255
+00:17:40,210 --> 00:17:41,790
+En comparación,
+
+256
+00:17:41,370 --> 00:17:46,000
+
+
+257
+00:17:41,370 --> 00:17:46,000
+OBJETO: Glándula de veneno de Kasaka
+
+Dificultad de adquisición: <b>Rango A</b>
+Categoría: <b>Veneno</b>
+
+258
+00:17:41,370 --> 00:17:46,000
+
+- Escamas acorazadas de Kasaka: Daño físico -20 %
+- Músculo dañado: FUE -35 %
+
+
+Este saco contiene veneno de Kasaka refinado. En raras ocasiones
+se puede extraer de un Kasaka. Al beberlo, endurece la piel, pero
+el veneno daña permanentemente los músculos.
+
+259
+00:17:42,120 --> 00:17:44,080
+esto me da miedo usarlo.
+
+260
+00:17:44,290 --> 00:17:45,880
+Lo guardaré de momento.
+
+261
+00:17:46,840 --> 00:17:49,800
+
+
+262
+00:17:46,920 --> 00:17:49,800
+NOTIFICACIÓN
+
+Al derrotar al jefe,
+la mazmorra volverá
+a su estado original.
+
+263
+00:17:55,300 --> 00:17:56,890
+¿La completé?
+
+264
+00:18:08,020 --> 00:18:10,860
+No hay nadie. ¿Qué hora será?
+
+265
+00:18:11,280 --> 00:18:14,070
+¡Oye! No puedes entrar aquí.
+
+266
+00:18:14,610 --> 00:18:16,450
+¿No escuchaste el anuncio?
+
+267
+00:18:16,700 --> 00:18:17,830
+¿Qué anuncio?
+
+268
+00:18:17,990 --> 00:18:19,700
+No te hagas el tonto.
+
+269
+00:18:20,700 --> 00:18:22,620
+¿Eres un cazador?
+
+270
+00:18:22,790 --> 00:18:24,830
+Sí, técnicamente sí.
+
+271
+00:18:25,000 --> 00:18:26,330
+Disculpa.
+
+272
+00:18:26,540 --> 00:18:28,920
+Te llevaré hasta allí. Sígueme.
+
+273
+00:18:29,090 --> 00:18:30,090
+Claro.
+
+274
+00:18:30,880 --> 00:18:32,630
+¿Volvió a pasar algo?
+
+275
+00:18:38,050 --> 00:18:39,600
+Una brecha de mazmorra.
+
+276
+00:18:39,850 --> 00:18:42,180
+Salieron los monstruos, ¿no?
+
+277
+00:18:42,390 --> 00:18:44,690
+Ya no queda casi ninguno.
+
+278
+00:18:45,020 --> 00:18:47,690
+Solo uno gigantesco.
+
+279
+00:18:48,060 --> 00:18:51,650
+No sé si es porque mejoró
+mi percepción, pero puedo sentirlo.
+
+280
+00:18:52,990 --> 00:18:54,740
+El que está ahí es el jefe.
+
+281
+00:19:00,450 --> 00:19:02,500
+¡No tomen fotos!
+
+282
+00:19:02,700 --> 00:19:04,210
+Es muy peligroso.
+
+283
+00:19:06,080 --> 00:19:07,380
+¡Mátenlo de una vez!
+
+284
+00:19:07,790 --> 00:19:10,130
+¿Qué harán si causa más destrucción?
+
+285
+00:19:10,550 --> 00:19:14,380
+¡Sanadores, céntrense en el tanque!
+
+286
+00:19:14,550 --> 00:19:16,260
+¡Eso hacemos!
+
+287
+00:19:18,430 --> 00:19:20,810
+¿Qué hacen los DPS?
+
+288
+00:19:20,970 --> 00:19:23,430
+¡No parece que vaya a caer!
+
+289
+00:19:24,100 --> 00:19:26,270
+Tiene demasiada defensa.
+
+290
+00:19:26,980 --> 00:19:29,230
+Y hay pocos cazadores magos.
+
+291
+00:19:29,610 --> 00:19:31,440
+Disculpen. Abran paso.
+
+292
+00:19:31,730 --> 00:19:34,690
+Al ser un grupo improvisado,
+no se coordinan.
+
+293
+00:19:36,530 --> 00:19:38,070
+Y son de rango bajo.
+
+294
+00:19:38,620 --> 00:19:42,370
+Debe haber ocho E y un D.
+
+295
+00:19:43,160 --> 00:19:44,580
+Y el D es el tanque.
+
+296
+00:19:44,790 --> 00:19:47,290
+No pueden rematarlo y se está alargando.
+
+297
+00:19:48,120 --> 00:19:51,250
+Hay dos sanadores D y uno B.
+
+298
+00:19:52,380 --> 00:19:55,550
+¡Oye, cúrame de una vez!
+
+299
+00:19:55,760 --> 00:19:57,510
+¿No eres de rango B?
+
+300
+00:19:57,930 --> 00:19:59,510
+¿Qué haces ahí parada?
+
+301
+00:19:59,680 --> 00:20:00,760
+¡Sí!
+
+302
+00:20:03,350 --> 00:20:05,520
+Reacciona de una vez.
+
+303
+00:20:10,940 --> 00:20:14,650
+Ha pasado una semana
+y aún no lo ha superado.
+
+304
+00:20:15,240 --> 00:20:16,400
+La entiendo.
+
+305
+00:20:17,360 --> 00:20:18,360
+Yo también…
+
+306
+00:20:19,820 --> 00:20:20,950
+No.
+
+307
+00:20:23,950 --> 00:20:25,580
+El jefe es de rango D.
+
+308
+00:20:26,960 --> 00:20:29,330
+¡Es más débil que el de hace poco!
+
+309
+00:20:30,670 --> 00:20:32,420
+¡Nos matará a todos!
+
+310
+00:20:32,840 --> 00:20:34,880
+¡Necesitamos a alguien de rango alto!
+
+311
+00:20:35,340 --> 00:20:37,590
+Si logro romper sus defensas,
+
+312
+00:20:38,260 --> 00:20:39,260
+¡ganarán!
+
+313
+00:20:44,010 --> 00:20:45,930
+Un golpe que rompa la piedra.
+
+314
+00:20:46,930 --> 00:20:48,020
+¡Toma esto!
+
+315
+00:20:50,650 --> 00:20:53,480
+-¡Bajó la guardia!
+-¡Podemos con él!
+
+316
+00:21:02,120 --> 00:21:04,830
+¡Lo conseguimos!
+
+317
+00:21:06,120 --> 00:21:08,290
+Antes no le hacíamos nada.
+
+318
+00:21:08,450 --> 00:21:10,290
+¿Qué rompió sus defensas?
+
+319
+00:21:10,670 --> 00:21:14,000
+Nuestros ataques
+no le hacían nada.
+
+320
+00:21:15,000 --> 00:21:16,670
+Lo que pasó volando…
+
+321
+00:21:18,720 --> 00:21:23,090
+Era un gólem jefe al que no habíamos
+hecho ni un rasguño entre diez.
+
+322
+00:21:23,340 --> 00:21:25,140
+¿Cómo lo vencieron con esto?
+
+323
+00:21:26,890 --> 00:21:28,810
+-Disculpa.
+-¿Sí?
+
+324
+00:21:29,350 --> 00:21:31,770
+¿Quién lanzó eso?
+
+325
+00:21:31,940 --> 00:21:35,230
+Ese cazador de… ¿Eh?
+
+326
+00:21:35,940 --> 00:21:38,480
+-Estaba ahí hace un momento.
+-<i>Qué poder destructivo.</i>
+
+327
+00:21:39,650 --> 00:21:41,650
+¿Es de rango alto?
+
+328
+00:21:48,950 --> 00:21:51,160
+No esperaba matarlo de un golpe.
+
+329
+00:21:51,540 --> 00:21:54,880
+A ese gólem no debían
+quedarle muchos PV.
+
+330
+00:21:59,380 --> 00:22:01,130
+¿Jinwoo?
+
+331
+00:23:36,230 --> 00:23:39,980
+{\an2}Un muy buen trato
+

@@ -1,0 +1,1401 @@
+1
+00:00:02,060 --> 00:00:05,480
+<font size="20" face="Trebuchet MS" size="1" face="Arial" face="" size="" color="#d7edf3">HACE 3 AÑOS</font>
+
+2
+00:00:10,320 --> 00:00:12,200
+{\an8}<font size="24" face="Trebuchet MS">Capitán, deberíamos ayudar.</font>
+
+3
+00:00:12,620 --> 00:00:14,600
+<font size="24" face="Trebuchet MS">Ya sabes que es inútil.</font>
+
+4
+00:00:15,120 --> 00:00:19,520
+<font size="24" face="Trebuchet MS">Nuestras armas no les hacen daño.</font>
+
+5
+00:00:21,000 --> 00:00:25,660
+<font size="24" face="Trebuchet MS">Solo podemos depender de los cazadores.</font>
+
+6
+00:00:42,400 --> 00:00:43,780
+<font size="24" face="Trebuchet MS">¡Atacad!</font>
+
+7
+00:00:43,940 --> 00:00:46,740
+<font size="24" face="Trebuchet MS">¡Si pasan, romperán la línea defensiva!</font>
+
+8
+00:00:48,360 --> 00:00:49,500
+<font size="24" face="Trebuchet MS">¡No retrocedáis!</font>
+
+9
+00:01:02,880 --> 00:01:07,460
+<font size="24" face="Trebuchet MS">Es inútil. Con nuestro rango
+no podemos vencerlos.</font>
+
+10
+00:01:08,550 --> 00:01:12,550
+<font size="24" face="Trebuchet MS"><i>Mierda, voy a desmayarme.</i></font>
+
+11
+00:01:23,100 --> 00:01:24,520
+<font size="24" face="Trebuchet MS"><i>¿Magia curativa?</i></font>
+
+12
+00:01:26,650 --> 00:01:29,480
+<font size="24" face="Trebuchet MS"><i>Me ha curado en un instante.</i></font>
+
+13
+00:01:31,200 --> 00:01:32,200
+<font size="24" face="Trebuchet MS">¡Cuidado!</font>
+
+14
+00:01:32,360 --> 00:01:33,880
+<font size="24" face="Trebuchet MS">¡Agáchate, Byung-gu!</font>
+
+15
+00:01:35,870 --> 00:01:37,870
+<font size="24" face="Trebuchet MS">- ¡Yoonho!
+- Sí.</font>
+
+16
+00:01:50,130 --> 00:01:51,540
+<font size="24" face="Trebuchet MS">Son de rango S.</font>
+
+17
+00:01:51,720 --> 00:01:53,660
+<font size="24" face="Trebuchet MS">¡Han venido cazadores de rango S!</font>
+
+18
+00:01:53,840 --> 00:01:55,880
+<font size="24" face="Trebuchet MS">No te adelantes tanto, Byung-gu.</font>
+
+19
+00:01:56,140 --> 00:01:59,300
+<font size="24" face="Trebuchet MS">Lo siento.
+Quería salvar a todos los que pudiera.</font>
+
+20
+00:01:59,470 --> 00:02:03,350
+<font size="24" face="Trebuchet MS">Además, confiaba en que me protegierais.</font>
+
+21
+00:02:11,440 --> 00:02:14,320
+<font size="24" face="Trebuchet MS">No parece un jefe.</font>
+
+22
+00:02:14,530 --> 00:02:16,990
+<font size="24" face="Trebuchet MS">Será el líder de esta manada.</font>
+
+23
+00:02:17,620 --> 00:02:19,580
+<font size="24" face="Trebuchet MS">Encárgate de los heridos, Byung-gu.</font>
+
+24
+00:02:19,870 --> 00:02:22,080
+<font size="24" face="Trebuchet MS">Por supuesto, Yoonho.</font>
+
+25
+00:02:22,250 --> 00:02:24,120
+<font size="24" face="Trebuchet MS">¡Vamos, Eunseok!</font>
+
+26
+00:02:24,290 --> 00:02:25,420
+<font size="24" face="Trebuchet MS">Recibido.</font>
+
+27
+00:02:46,940 --> 00:02:47,980
+<font size="24" face="Trebuchet MS">¡Toma!</font>
+
+28
+00:02:55,700 --> 00:02:57,020
+<font size="24" face="Trebuchet MS">Cuánta fuerza bruta.</font>
+
+29
+00:03:00,990 --> 00:03:03,410
+<font size="24" face="Trebuchet MS">Diría que tampoco era el líder.</font>
+
+30
+00:03:03,580 --> 00:03:05,370
+<font size="24" face="Trebuchet MS">Qué divertido.</font>
+
+31
+00:03:18,010 --> 00:03:21,280
+<font size="24" face="Trebuchet MS">Parece que han llegado a tiempo.</font>
+
+32
+00:03:24,640 --> 00:03:27,270
+<font size="24" face="Trebuchet MS">Empecemos nosotros también.</font>
+
+33
+00:03:28,100 --> 00:03:29,900
+<font size="24" face="Trebuchet MS">Estamos listos, Choi.</font>
+
+34
+00:03:30,060 --> 00:03:31,110
+<font size="24" face="Trebuchet MS">Vale.</font>
+
+35
+00:03:44,910 --> 00:03:47,040
+<font size="24" face="Trebuchet MS">¡Iniciad el ataque!</font>
+
+36
+00:03:52,670 --> 00:03:54,680
+<font size="24" face="Trebuchet MS"><i>Hace varias décadas</i></font>
+
+37
+00:03:54,920 --> 00:04:00,320
+<font size="24" face="Trebuchet MS"><i>aparecieron los portales, pasillos entre
+nuestro mundo y otras dimensiones.</i></font>
+
+38
+00:04:00,930 --> 00:04:02,520
+<font size="24" face="Trebuchet MS"><i>Tras estos portales</i></font>
+
+39
+00:04:02,720 --> 00:04:05,800
+<font size="24" face="Trebuchet MS"><i>habitan monstruos, seres grotescos.</i></font>
+
+40
+00:04:06,060 --> 00:04:08,320
+<font size="24" face="Trebuchet MS"><i>Las armas corrientes no les afectan.</i></font>
+
+41
+00:04:08,480 --> 00:04:12,120
+<font size="24" face="Trebuchet MS"><i>A quienes despertaron
+con poderes capaces de combatirlos</i></font>
+
+42
+00:04:12,520 --> 00:04:14,190
+<font size="24" face="Trebuchet MS"><i>se les llama "cazadores".</i></font>
+
+43
+00:04:14,730 --> 00:04:17,820
+<font size="24" face="Trebuchet MS"><i>Según la cantidad
+de poder mágico que posean,</i></font>
+
+44
+00:04:17,990 --> 00:04:25,440
+<font size="24" face="Trebuchet MS"><i>se clasifican
+en rangos S, A, B, C, D y E.</i></font>
+
+45
+00:04:26,410 --> 00:04:31,300
+<font size="24" face="Trebuchet MS"><i>No obstante, cuando despiertan,
+por mucho que se esfuercen,</i></font>
+
+46
+00:04:32,000 --> 00:04:35,030
+<font size="24" face="Trebuchet MS"><i>sus atributos nunca mejoran.</i></font>
+
+47
+00:04:38,490 --> 00:04:40,490
+<font size="20" face="Trebuchet MS" size="1" face="Arial" face="" size="">TRES AÑOS MÁS TARDE</font>
+
+48
+00:04:40,490 --> 00:04:42,510
+- <font size="20" face="Trebuchet MS" color="#000000">m 0 0 l 100 0 100 100 0 100<font face="\fs\b0"></font>
+- </font><font size="20" face="Trebuchet MS" size="1" face="Arial" face="" size="">ACTUALIDAD</font>
+
+49
+00:04:58,490 --> 00:05:00,440
+<font size="24" face="Trebuchet MS">Ánimo en la incursión de hoy.</font>
+
+50
+00:05:00,650 --> 00:05:01,720
+<font size="24" face="Trebuchet MS">Gracias.</font>
+
+51
+00:05:02,660 --> 00:05:04,640
+<font size="24" face="Trebuchet MS">¡Hola, Kim!</font>
+
+52
+00:05:05,080 --> 00:05:06,220
+<font size="24" face="Trebuchet MS">Cuánto tiempo.</font>
+
+53
+00:05:06,410 --> 00:05:09,250
+<font size="24" face="Trebuchet MS">Anda, si es Park. ¿Qué haces aquí?</font>
+
+54
+00:05:09,750 --> 00:05:12,380
+<font size="24" face="Trebuchet MS">Pensaba que te habías retirado.</font>
+
+55
+00:05:13,670 --> 00:05:15,710
+<font size="24" face="Trebuchet MS">Mi mujer está embarazada del segundo.</font>
+
+56
+00:05:15,880 --> 00:05:20,160
+<font size="24" face="Trebuchet MS">Ah, claro. En las incursiones
+puedes ganar mucho dinero.</font>
+
+57
+00:05:20,340 --> 00:05:22,460
+<font size="24" face="Trebuchet MS">Sí, aunque estoy preocupado.</font>
+
+58
+00:05:22,630 --> 00:05:25,460
+<font size="24" face="Trebuchet MS">Hace tiempo que no voy.
+No sé si aguantaré.</font>
+
+59
+00:05:25,640 --> 00:05:27,240
+<font size="24" face="Trebuchet MS">Y ya soy bastante débil.</font>
+
+60
+00:05:27,390 --> 00:05:29,580
+<font size="24" face="Trebuchet MS">Vaya, es Sung.</font>
+
+61
+00:05:29,810 --> 00:05:31,560
+<font size="24" face="Trebuchet MS">Hola, Sung.</font>
+
+62
+00:05:31,810 --> 00:05:33,720
+<font size="24" face="Trebuchet MS">Con el frío que hace…</font>
+
+63
+00:05:35,770 --> 00:05:37,570
+<font size="24" face="Trebuchet MS">Hoy también vengo.</font>
+
+64
+00:05:37,730 --> 00:05:41,820
+<font size="24" face="Trebuchet MS">Oye, Sung, ¿ya has comido?</font>
+
+65
+00:05:42,110 --> 00:05:44,780
+<font size="24" face="Trebuchet MS">Sí. Vengo comido.</font>
+
+66
+00:05:45,450 --> 00:05:47,600
+<font size="24" face="Trebuchet MS">¿Quién es ese? ¿Es fuerte?</font>
+
+67
+00:05:47,790 --> 00:05:49,500
+<font size="24" face="Trebuchet MS">Lo saluda todo el mundo.</font>
+
+68
+00:05:50,660 --> 00:05:52,040
+<font size="24" face="Trebuchet MS">Al contrario.</font>
+
+69
+00:05:52,210 --> 00:05:55,790
+<font size="24" face="Trebuchet MS">El chico se unió después
+de que lo dejaras, Park.</font>
+
+70
+00:05:55,960 --> 00:05:58,760
+<font size="24" face="Trebuchet MS">Lo llaman "el arma
+más débil de la humanidad".</font>
+
+71
+00:05:58,960 --> 00:06:01,320
+<font size="24" face="Trebuchet MS">¿La más débil y no la más fuerte?</font>
+
+72
+00:06:01,510 --> 00:06:05,300
+<font size="24" face="Trebuchet MS">Sí. Acabó hospitalizado al salir
+de un portal de rango E.</font>
+
+73
+00:06:05,840 --> 00:06:08,300
+<font size="24" face="Trebuchet MS">Debe ser el cazador más débil.</font>
+
+74
+00:06:08,470 --> 00:06:10,810
+<font size="24" face="Trebuchet MS">¿El más débil? ¿Tan grave es?</font>
+
+75
+00:06:10,970 --> 00:06:14,960
+<font size="24" face="Trebuchet MS">Si va él,
+es porque la incursión es de nivel bajo.</font>
+
+76
+00:06:15,150 --> 00:06:16,350
+<font size="24" face="Trebuchet MS">Ya veo.</font>
+
+77
+00:06:16,810 --> 00:06:20,480
+<font size="24" face="Trebuchet MS">Dejémoslo aquí,
+que no quiero que nos oiga.</font>
+
+78
+00:06:21,240 --> 00:06:23,400
+<font size="24" face="Trebuchet MS"><i>Lo he oído todo.</i></font>
+
+79
+00:06:23,740 --> 00:06:27,640
+<font size="24" face="Trebuchet MS"><i>Pero es cierto,
+así que no puedo reprochárselo.</i></font>
+
+80
+00:06:27,830 --> 00:06:30,540
+<font size="24" face="Trebuchet MS">Estás herido de nuevo, Jinwoo.</font>
+
+81
+00:06:31,040 --> 00:06:34,260
+<font size="24" face="Trebuchet MS">Hola, Joohee. Coincidimos de nuevo.</font>
+
+82
+00:06:34,790 --> 00:06:37,840
+<font size="24" face="Trebuchet MS">¿De dónde han salido
+esas heridas de tu cara?</font>
+
+83
+00:06:38,000 --> 00:06:40,640
+<font size="24" face="Trebuchet MS">Pasó lo de siempre.</font>
+
+84
+00:06:41,920 --> 00:06:44,340
+<font size="24" face="Trebuchet MS">Tienes que tener cuidado.</font>
+
+85
+00:06:45,430 --> 00:06:47,700
+<font size="24" face="Trebuchet MS">He oído que te hospitalizaron.</font>
+
+86
+00:06:47,890 --> 00:06:50,400
+<font size="24" face="Trebuchet MS">Fui el único herido
+en una mazmorra de rango E.</font>
+
+87
+00:06:51,010 --> 00:06:52,680
+<font size="24" face="Trebuchet MS">¿Y el sanador?</font>
+
+88
+00:06:53,020 --> 00:06:55,360
+<font size="24" face="Trebuchet MS">Los demás eran de rangos más altos,</font>
+
+89
+00:06:55,520 --> 00:06:57,810
+<font size="24" face="Trebuchet MS">así que no llevaron a ninguno.</font>
+
+90
+00:06:57,980 --> 00:07:01,230
+<font size="24" face="Trebuchet MS">¿Qué? Aunque ellos no lo necesitaran…</font>
+
+91
+00:07:01,650 --> 00:07:04,480
+<font size="24" face="Trebuchet MS">No pasa nada.
+Es porque soy demasiado débil.</font>
+
+92
+00:07:04,900 --> 00:07:07,260
+<font size="24" face="Trebuchet MS">Tú también lo sabes, Joohee.</font>
+
+93
+00:07:07,610 --> 00:07:09,140
+<font size="24" face="Trebuchet MS">Ya estoy acostumbrado.</font>
+
+94
+00:07:11,240 --> 00:07:14,160
+<font size="24" face="Trebuchet MS">Parece que ya entramos. Vamos.</font>
+
+95
+00:07:15,370 --> 00:07:20,920
+<font size="24" face="Trebuchet MS">Soy Song Chiyul,
+el líder de esta incursión.</font>
+
+96
+00:07:21,380 --> 00:07:22,800
+<font size="24" face="Trebuchet MS">Encantado.</font>
+
+97
+00:07:23,050 --> 00:07:24,780
+<font size="24" face="Trebuchet MS">Era de esperar.</font>
+
+98
+00:07:24,970 --> 00:07:27,780
+<font size="24" face="Trebuchet MS">Eres el mejor de los que hay aquí.</font>
+
+99
+00:07:28,010 --> 00:07:29,760
+<font size="24" face="Trebuchet MS">Podemos estar tranquilos.</font>
+
+100
+00:07:30,390 --> 00:07:32,500
+<font size="24" face="Trebuchet MS">Hola, Song.</font>
+
+101
+00:07:33,850 --> 00:07:37,020
+<font size="24" face="Trebuchet MS">¿Estáis preparados? Entremos.</font>
+
+102
+00:07:42,570 --> 00:07:43,740
+<font size="24" face="Trebuchet MS">Sung.</font>
+
+103
+00:07:45,030 --> 00:07:47,780
+<font size="24" face="Trebuchet MS">Quédate atrás y procura no lastimarte.</font>
+
+104
+00:07:49,070 --> 00:07:51,910
+<font size="24" face="Trebuchet MS">- Sí.
+- Trabajemos duro.</font>
+
+105
+00:07:55,290 --> 00:07:58,300
+<font size="24" face="Trebuchet MS"><i>Un cuchillo que solo acepta
+un poco de magia.</i></font>
+
+106
+00:07:58,870 --> 00:08:02,060
+<font size="24" face="Trebuchet MS"><i>Es lo único
+que puedo comprar con mis ingresos.</i></font>
+
+107
+00:08:02,590 --> 00:08:04,020
+<font size="24" face="Trebuchet MS"><i>Mejor esto que nada.</i></font>
+
+108
+00:08:07,170 --> 00:08:08,940
+<font size="24" face="Trebuchet MS">Hoy conseguiré algo más.</font>
+
+109
+00:08:18,230 --> 00:08:20,660
+<font size="24" face="Trebuchet MS">Buen trabajo, presidente Go.</font>
+
+110
+00:08:21,230 --> 00:08:23,420
+<font size="24" face="Trebuchet MS">¿Cómo fue la reunión con el gobierno?</font>
+
+111
+00:08:24,020 --> 00:08:28,500
+<font size="24" face="Trebuchet MS">Siempre dicen lo mismo.
+No puede haber brechas de mazmorra,</font>
+
+112
+00:08:28,700 --> 00:08:33,030
+<font size="24" face="Trebuchet MS">pero quieren provisiones estables
+de los materiales que hay en ellas.</font>
+
+113
+00:08:34,620 --> 00:08:37,640
+<font size="24" face="Trebuchet MS">No se equivocan en pedir lo que piden.</font>
+
+114
+00:08:37,960 --> 00:08:43,360
+<font size="24" face="Trebuchet MS">Los cazadores vivimos de la venta
+de los recursos de las mazmorras.</font>
+
+115
+00:08:48,380 --> 00:08:51,380
+<font size="24" face="Trebuchet MS">Los monstruos derrotados
+dejan caer cristales,</font>
+
+116
+00:08:51,640 --> 00:08:54,780
+<font size="24" face="Trebuchet MS">piedras mágicas que dan dinero.</font>
+
+117
+00:09:01,140 --> 00:09:02,350
+<font size="24" face="Trebuchet MS">Lo conseguí.</font>
+
+118
+00:09:02,730 --> 00:09:04,320
+<font size="24" face="Trebuchet MS">Por fin tengo uno.</font>
+
+119
+00:09:04,520 --> 00:09:05,540
+<font size="24" face="Trebuchet MS">¡Jinwoo!</font>
+
+120
+00:09:20,160 --> 00:09:21,240
+<font size="24" face="Trebuchet MS">¡Jinwoo!</font>
+
+121
+00:09:21,420 --> 00:09:22,710
+<font size="24" face="Trebuchet MS">¡Atrás, Joohee!</font>
+
+122
+00:09:27,800 --> 00:09:29,620
+<font size="24" face="Trebuchet MS">Yo iré a por el siguiente.</font>
+
+123
+00:09:30,010 --> 00:09:31,760
+<font size="24" face="Trebuchet MS">Encárgate de Sung.</font>
+
+124
+00:09:32,130 --> 00:09:33,180
+<font size="24" face="Trebuchet MS">¡Sí!</font>
+
+125
+00:09:35,260 --> 00:09:38,920
+<font size="24" face="Trebuchet MS">Te pondrás bien. Te sanaré.</font>
+
+126
+00:09:55,490 --> 00:09:59,260
+<font size="24" face="Trebuchet MS">Las piedras mágicas
+de los monstruos de alto rango</font>
+
+127
+00:09:59,540 --> 00:10:05,330
+<font size="24" face="Trebuchet MS">también pueden convertirse en armas
+o equipo más poderoso.</font>
+
+128
+00:10:05,920 --> 00:10:10,340
+<font size="24" face="Trebuchet MS">El mineral de maná que se excava
+en las mazmorras sirve para lo mismo,</font>
+
+129
+00:10:10,510 --> 00:10:13,010
+<font size="24" face="Trebuchet MS">pero sus efectos son menores.</font>
+
+130
+00:10:13,180 --> 00:10:15,900
+<font size="24" face="Trebuchet MS">Pero el gobierno
+las quiere para otra cosa.</font>
+
+131
+00:10:16,600 --> 00:10:19,160
+<font size="24" face="Trebuchet MS">Como fuente de energía.</font>
+
+132
+00:10:20,140 --> 00:10:22,000
+<font size="24" face="Trebuchet MS">Una más segura que la nuclear,</font>
+
+133
+00:10:22,180 --> 00:10:25,200
+<font size="24" face="Trebuchet MS">más eficaz que la hidráulica,
+eólica o geotérmica</font>
+
+134
+00:10:25,350 --> 00:10:28,200
+<font size="24" face="Trebuchet MS">y menos contaminante
+que la termoeléctrica.</font>
+
+135
+00:10:29,110 --> 00:10:31,440
+<font size="24" face="Trebuchet MS">La energía sostenible ideal.</font>
+
+136
+00:10:31,740 --> 00:10:36,240
+<font size="24" face="Trebuchet MS">Promueven generar energía a través
+de mineral de maná y piedras mágicas.</font>
+
+137
+00:10:36,450 --> 00:10:39,500
+<font size="24" face="Trebuchet MS">Recursos raros
+que solo obtienen los cazadores.</font>
+
+138
+00:10:40,080 --> 00:10:43,860
+<font size="24" face="Trebuchet MS">Por eso el papel de los cazadores
+es tan importante.</font>
+
+139
+00:10:49,590 --> 00:10:50,800
+<font size="24" face="Trebuchet MS">¡Toma!</font>
+
+140
+00:10:50,960 --> 00:10:52,180
+<font size="24" face="Trebuchet MS">¡Sí!</font>
+
+141
+00:10:52,340 --> 00:10:53,760
+<font size="24" face="Trebuchet MS">¡Hemos vencido al jefe!</font>
+
+142
+00:10:53,920 --> 00:10:55,520
+<font size="24" face="Trebuchet MS">Así se hace, Song.</font>
+
+143
+00:10:55,800 --> 00:10:56,800
+<font size="24" face="Trebuchet MS">Buen trabajo.</font>
+
+144
+00:10:58,600 --> 00:11:03,080
+<font size="24" face="Trebuchet MS">Jinwoo, espero que no sigas siendo
+cazador por orgullo.</font>
+
+145
+00:11:03,850 --> 00:11:07,280
+<font size="24" face="Trebuchet MS">A este paso te pasará
+algo grave de verdad.</font>
+
+146
+00:11:07,600 --> 00:11:10,840
+<font size="24" face="Trebuchet MS">Tienes heridas por todo el cuerpo.</font>
+
+147
+00:11:11,000 --> 00:11:12,000
+<font size="24" face="Trebuchet MS">Lo siento.</font>
+
+148
+00:11:12,150 --> 00:11:14,400
+<font size="24" face="Trebuchet MS">¡No lo digo para que te disculpes!</font>
+
+149
+00:11:14,780 --> 00:11:16,280
+<font size="24" face="Trebuchet MS">Estoy preocupada.</font>
+
+150
+00:11:21,990 --> 00:11:24,860
+<font size="24" face="Trebuchet MS">¿Habéis cogido el botín?</font>
+
+151
+00:11:25,080 --> 00:11:27,520
+<font size="24" face="Trebuchet MS">Algo tenemos, sí.</font>
+
+152
+00:11:27,670 --> 00:11:30,040
+<font size="24" face="Trebuchet MS">Aquí hay pocas venas de mineral de maná.</font>
+
+153
+00:11:30,460 --> 00:11:33,220
+<font size="24" face="Trebuchet MS">No es recompensa suficiente.</font>
+
+154
+00:11:34,050 --> 00:11:35,760
+<font size="24" face="Trebuchet MS"><i>Se acabó.</i></font>
+
+155
+00:11:36,720 --> 00:11:40,240
+<font size="24" face="Trebuchet MS"><i>Solo he conseguido
+una piedra mágica de rango E.</i></font>
+
+156
+00:11:41,300 --> 00:11:43,930
+<font size="24" face="Trebuchet MS"><i>Para estar tan cerca morir,
+no merece la pena.</i></font>
+
+157
+00:11:45,560 --> 00:11:49,040
+<font size="24" face="Trebuchet MS">¡Eh! Venid aquí.</font>
+
+158
+00:11:49,810 --> 00:11:51,820
+<font size="24" face="Trebuchet MS">- ¿Una cueva?
+- ¿Un túnel?</font>
+
+159
+00:11:51,980 --> 00:11:54,510
+<font size="24" face="Trebuchet MS">Parece bastante largo.</font>
+
+160
+00:11:54,860 --> 00:11:56,700
+<font size="24" face="Trebuchet MS">¿Será una mazmorra doble?</font>
+
+161
+00:11:56,900 --> 00:11:58,700
+<font size="24" face="Trebuchet MS">He oído hablar de ellas.</font>
+
+162
+00:11:58,860 --> 00:12:02,800
+<font size="24" face="Trebuchet MS">Por eso no se cierra
+aunque hayamos vencido al jefe.</font>
+
+163
+00:12:02,950 --> 00:12:05,330
+<font size="24" face="Trebuchet MS">Sí, ya me parecía raro.</font>
+
+164
+00:12:05,500 --> 00:12:06,760
+<font size="24" face="Trebuchet MS">Entonces…</font>
+
+165
+00:12:06,910 --> 00:12:10,290
+<font size="24" face="Trebuchet MS">Sí. Al fondo hay más presas.</font>
+
+166
+00:12:10,460 --> 00:12:12,250
+<font size="24" face="Trebuchet MS">Escuchadme.</font>
+
+167
+00:12:12,750 --> 00:12:14,940
+<font size="24" face="Trebuchet MS">Cuando sucede algo inesperado</font>
+
+168
+00:12:15,130 --> 00:12:18,400
+<font size="24" face="Trebuchet MS">generalmente se piden
+instrucciones a la asociación.</font>
+
+169
+00:12:18,630 --> 00:12:20,540
+<font size="24" face="Trebuchet MS">Un momento, Song.</font>
+
+170
+00:12:20,720 --> 00:12:24,000
+<font size="24" face="Trebuchet MS">Entonces los demás se quedarán
+con todo lo bueno.</font>
+
+171
+00:12:24,390 --> 00:12:28,060
+<font size="24" face="Trebuchet MS">Es otra mazmorra de rango D.
+Podemos hacerlo.</font>
+
+172
+00:12:28,230 --> 00:12:32,190
+<font size="24" face="Trebuchet MS">Su segundo hijo va a nacer
+y había poco mineral de maná.</font>
+
+173
+00:12:32,560 --> 00:12:35,320
+<font size="24" face="Trebuchet MS">Piensa un poco en él.</font>
+
+174
+00:12:35,480 --> 00:12:36,660
+<font size="24" face="Trebuchet MS">¿No podemos ir?</font>
+
+175
+00:12:36,820 --> 00:12:41,020
+<font size="24" face="Trebuchet MS">Os entiendo. Pero es un riesgo.</font>
+
+176
+00:12:41,490 --> 00:12:42,780
+<font size="24" face="Trebuchet MS">Decidamos por mayoría.</font>
+
+177
+00:12:42,950 --> 00:12:45,080
+<font size="24" face="Trebuchet MS">- Yo no quiero ir.
+- Vamos.</font>
+
+178
+00:12:45,240 --> 00:12:47,320
+<font size="24" face="Trebuchet MS">- Estoy en contra.
+- Yo también.</font>
+
+179
+00:12:47,500 --> 00:12:49,360
+<font size="24" face="Trebuchet MS">- Podemos probar.
+- Sí.</font>
+
+180
+00:12:49,540 --> 00:12:51,480
+<font size="24" face="Trebuchet MS">- Venga.
+- Mejor no.</font>
+
+181
+00:12:51,920 --> 00:12:54,090
+<font size="24" face="Trebuchet MS">- Yo voy.
+- Naturalmente.</font>
+
+182
+00:12:54,250 --> 00:12:57,050
+<font size="24" face="Trebuchet MS">Lo siento, pero no quiero ir.</font>
+
+183
+00:12:57,210 --> 00:13:00,820
+<font size="24" face="Trebuchet MS">Seis votos a favor y seis en contra.</font>
+
+184
+00:13:01,260 --> 00:13:03,980
+<font size="24" face="Trebuchet MS">Quedas tú, Sung. ¿Qué opinas?</font>
+
+185
+00:13:04,140 --> 00:13:05,580
+<font size="24" face="Trebuchet MS">Yo…</font>
+
+186
+00:13:07,020 --> 00:13:11,200
+<font size="24" face="Trebuchet MS"><i>Para mí, las mazmorras
+de rango D son peligrosas.</i></font>
+
+187
+00:13:12,020 --> 00:13:17,150
+<font size="24" face="Trebuchet MS"><i>Pero tras la desaparición de mi padre,
+soy el único que puede trabajar.</i></font>
+
+188
+00:13:18,030 --> 00:13:19,360
+<font size="24" face="Trebuchet MS"><i>Mamá necesita tratamiento</i></font>
+
+189
+00:13:19,510 --> 00:13:22,070
+<font size="24" face="Trebuchet MS"><i>y mi hermana tiene
+los exámenes de la universidad.</i></font>
+
+190
+00:13:22,780 --> 00:13:25,530
+<font size="24" face="Trebuchet MS"><i>Necesito dinero.</i></font>
+
+191
+00:13:26,620 --> 00:13:27,740
+<font size="24" face="Trebuchet MS">Iré.</font>
+
+192
+00:13:34,580 --> 00:13:38,000
+<font size="24" face="Trebuchet MS">Toca el cristal negro con una mano.</font>
+
+193
+00:13:44,680 --> 00:13:46,600
+<font size="24" face="Trebuchet MS">Que pase el siguiente.</font>
+
+194
+00:13:50,230 --> 00:13:53,440
+<font size="24" face="Trebuchet MS">¿Eres de rango C?
+Únete a nuestro gremio.</font>
+
+195
+00:13:53,600 --> 00:13:56,580
+<font size="24" face="Trebuchet MS">Estas son las condiciones del contrato.</font>
+
+196
+00:13:56,730 --> 00:14:00,160
+<font size="24" face="Trebuchet MS">Estas, las del trabajo.
+El precio por el contrato anual…</font>
+
+197
+00:14:01,780 --> 00:14:07,200
+<font size="24" face="Trebuchet MS">Sí. Aseguramos los contratos
+de un rango B y dos C.</font>
+
+198
+00:14:07,620 --> 00:14:09,960
+<font size="24" face="Trebuchet MS">De momento va todo bien, señor Choi.</font>
+
+199
+00:14:10,160 --> 00:14:11,660
+<font size="24" face="Trebuchet MS">Magnífico.</font>
+
+200
+00:14:11,830 --> 00:14:16,380
+<font size="24" face="Trebuchet MS">Seguid trayendo a todo el que parezca
+hábil, sin importar género o edad.</font>
+
+201
+00:14:16,920 --> 00:14:22,340
+<font size="24" face="Trebuchet MS">Aunque dudo que nadie supere
+a nuestra Cha Hae-in.</font>
+
+202
+00:14:24,300 --> 00:14:25,640
+<font size="24" face="Trebuchet MS">¡Atrapadlo!</font>
+
+203
+00:14:25,970 --> 00:14:27,300
+<font size="24" face="Trebuchet MS">¡Fuera!</font>
+
+204
+00:14:31,930 --> 00:14:34,100
+<font size="24" face="Trebuchet MS">¡Apártate! ¿Quieres te arrolle?</font>
+
+205
+00:14:56,210 --> 00:14:58,000
+<font size="24" face="Trebuchet MS">- Esto…
+- Toma.</font>
+
+206
+00:14:58,750 --> 00:15:01,260
+<font size="24" face="Trebuchet MS">- ¡Muchas gracias!
+- ¡Es Cha Hae-in!</font>
+
+207
+00:15:01,420 --> 00:15:03,470
+<font size="24" face="Trebuchet MS">- ¡Cha Hae-in!
+- ¡La cazadora de rango S!</font>
+
+208
+00:15:03,630 --> 00:15:05,520
+<font size="24" face="Trebuchet MS">- Increíble.
+- Es ella.</font>
+
+209
+00:15:06,090 --> 00:15:07,500
+{\an8}<font size="24" face="Trebuchet MS">-Qué guapa.
+- Soy fan tuyo.</font>
+
+210
+00:15:07,500 --> 00:15:09,100
+<font size="24" face="Trebuchet MS">Esto…</font>
+
+211
+00:15:07,680 --> 00:15:09,490
+{\an8}<font size="24" face="Trebuchet MS">-Dame la mano.
+- Quiero una foto.</font>
+
+212
+00:15:15,390 --> 00:15:16,840
+<font size="24" face="Trebuchet MS">Es impresionante.</font>
+
+213
+00:15:17,150 --> 00:15:19,020
+<font size="24" face="Trebuchet MS">Está claro que es de rango S.</font>
+
+214
+00:15:21,230 --> 00:15:23,660
+<font size="24" face="Trebuchet MS">¿Cuánto tiempo llevamos caminando?</font>
+
+215
+00:15:23,820 --> 00:15:25,520
+<font size="24" face="Trebuchet MS">Unos 40 minutos.</font>
+
+216
+00:15:25,700 --> 00:15:28,400
+<font size="24" face="Trebuchet MS">El portal se cierra
+una hora tras vencer al jefe.</font>
+
+217
+00:15:28,570 --> 00:15:30,140
+<font size="24" face="Trebuchet MS">Aún nos quedan 20 minutos.</font>
+
+218
+00:15:30,660 --> 00:15:32,800
+<font size="24" face="Trebuchet MS">Esto… Lo siento.</font>
+
+219
+00:15:32,950 --> 00:15:34,360
+<font size="24" face="Trebuchet MS">¿Por qué?</font>
+
+220
+00:15:34,540 --> 00:15:38,500
+<font size="24" face="Trebuchet MS">Vinimos a buscar a otro jefe
+porque voté que sí.</font>
+
+221
+00:15:38,670 --> 00:15:41,960
+<font size="24" face="Trebuchet MS">Estoy bien. No te preocupes.</font>
+
+222
+00:15:42,340 --> 00:15:44,620
+<font size="24" face="Trebuchet MS">¿Seguro que estás bien?</font>
+
+223
+00:15:45,220 --> 00:15:48,260
+<font size="24" face="Trebuchet MS">¿Seguro que…? ¡Claro que no!</font>
+
+224
+00:15:48,430 --> 00:15:50,240
+<font size="24" face="Trebuchet MS">¿Ya se te ha olvidado?</font>
+
+225
+00:15:50,430 --> 00:15:54,300
+<font size="24" face="Trebuchet MS">Si te hubiera dado más arriba,
+ahora estarías muerto.</font>
+
+226
+00:15:54,470 --> 00:15:57,730
+<font size="24" face="Trebuchet MS">Te curé el brazo y la pierna de milagro.</font>
+
+227
+00:15:58,100 --> 00:15:59,520
+<font size="24" face="Trebuchet MS">Estás loco.</font>
+
+228
+00:15:59,690 --> 00:16:02,840
+<font size="24" face="Trebuchet MS">¿Te has golpeado en la cabeza?
+Tiene que ser eso.</font>
+
+229
+00:16:03,230 --> 00:16:04,690
+<font size="24" face="Trebuchet MS">Lo siento.</font>
+
+230
+00:16:05,150 --> 00:16:10,160
+<font size="24" face="Trebuchet MS"><i>Es cierto que Joohee, sanadora
+de rango B, siempre me salva.</i></font>
+
+231
+00:16:10,320 --> 00:16:12,560
+<font size="24" face="Trebuchet MS">¿De verdad te arrepientes?</font>
+
+232
+00:16:12,740 --> 00:16:13,760
+<font size="24" face="Trebuchet MS">Sí.</font>
+
+233
+00:16:15,540 --> 00:16:19,620
+<font size="24" face="Trebuchet MS">Entonces tendrás
+que invitarme a comer algo.</font>
+
+234
+00:16:20,750 --> 00:16:24,300
+<font size="24" face="Trebuchet MS">¿Qué pasa,
+no quieres ir a comer conmigo?</font>
+
+235
+00:16:24,500 --> 00:16:26,480
+<font size="24" face="Trebuchet MS">¡No es eso!</font>
+
+236
+00:16:26,630 --> 00:16:29,050
+<font size="24" face="Trebuchet MS">Llegamos. Es la sala del jefe.</font>
+
+237
+00:16:31,640 --> 00:16:34,620
+<font size="24" face="Trebuchet MS">Es raro que tenga una puerta.</font>
+
+238
+00:16:34,810 --> 00:16:36,220
+<font size="24" face="Trebuchet MS">Tiene mala pinta.</font>
+
+239
+00:16:36,390 --> 00:16:37,510
+<font size="24" face="Trebuchet MS">Sí.</font>
+
+240
+00:16:37,680 --> 00:16:40,760
+<font size="24" face="Trebuchet MS">Yo voy a entrar.
+A estas alturas ya no me voy.</font>
+
+241
+00:16:40,940 --> 00:16:42,520
+<font size="24" face="Trebuchet MS">Yo también entraré.</font>
+
+242
+00:16:43,360 --> 00:16:48,360
+<font size="24" face="Trebuchet MS">Decidimos seguir adelante
+en grupo, ¿no, líder?</font>
+
+243
+00:16:49,320 --> 00:16:50,840
+<font size="24" face="Trebuchet MS">Así es.</font>
+
+244
+00:16:54,990 --> 00:16:57,040
+<font size="24" face="Trebuchet MS">Nuevos despertados, soy Go Gunhee,</font>
+
+245
+00:16:57,200 --> 00:17:00,360
+<font size="24" face="Trebuchet MS">presidente
+de la Asociación de Cazadores.</font>
+
+246
+00:17:00,540 --> 00:17:03,940
+<font size="24" face="Trebuchet MS">Algunos de vosotros elegiréis
+ser cazadores</font>
+
+247
+00:17:04,130 --> 00:17:07,460
+<font size="24" face="Trebuchet MS">y otros rechazaréis ese camino.</font>
+
+248
+00:17:07,630 --> 00:17:10,040
+<font size="24" face="Trebuchet MS">Hace décadas que aparecen portales</font>
+
+249
+00:17:10,220 --> 00:17:12,920
+<font size="24" face="Trebuchet MS">y aún desconocemos mucho
+sobre las mazmorras.</font>
+
+250
+00:17:13,140 --> 00:17:15,430
+<font size="24" face="Trebuchet MS">Los cazadores se juegan la vida.</font>
+
+251
+00:17:15,600 --> 00:17:19,400
+<font size="24" face="Trebuchet MS">Incluso cuando uno se acostumbra
+nunca se debe bajar la guardia.</font>
+
+252
+00:17:19,600 --> 00:17:22,220
+<font size="24" face="Trebuchet MS">No seáis arrogantes.
+No las subestiméis.</font>
+
+253
+00:17:22,400 --> 00:17:24,400
+<font size="24" face="Trebuchet MS">Para sobrevivir…</font>
+
+254
+00:17:24,560 --> 00:17:26,640
+<font size="24" face="Trebuchet MS">hay que ser un cobarde.</font>
+
+255
+00:17:35,030 --> 00:17:36,330
+<font size="24" face="Trebuchet MS">Se ha encendido el fuego.</font>
+
+256
+00:17:36,910 --> 00:17:38,380
+<font size="24" face="Trebuchet MS">Qué ambientazo.</font>
+
+257
+00:17:38,540 --> 00:17:40,540
+<font size="24" face="Trebuchet MS">Nunca he visto una mazmorra así.</font>
+
+258
+00:17:49,800 --> 00:17:51,580
+<font size="24" face="Trebuchet MS">¿Y esas estatuas?</font>
+
+259
+00:17:51,760 --> 00:17:53,520
+<font size="24" face="Trebuchet MS">Parecen viejas.</font>
+
+260
+00:17:53,760 --> 00:17:55,580
+<font size="24" face="Trebuchet MS">Hay unas con instrumentos.</font>
+
+261
+00:18:01,560 --> 00:18:03,640
+<font size="24" face="Trebuchet MS">Esta es más grande.</font>
+
+262
+00:18:04,350 --> 00:18:05,740
+<font size="24" face="Trebuchet MS">Es enorme.</font>
+
+263
+00:18:05,900 --> 00:18:06,900
+<font size="24" face="Trebuchet MS">¿Qué es?</font>
+
+264
+00:18:07,020 --> 00:18:08,420
+<font size="24" face="Trebuchet MS">Es siniestra.</font>
+
+265
+00:18:08,860 --> 00:18:11,400
+<font size="24" face="Trebuchet MS">No hay monstruos, ¿no?</font>
+
+266
+00:18:11,570 --> 00:18:14,160
+<font size="24" face="Trebuchet MS">- Es verdad.
+- No veo ni uno.</font>
+
+267
+00:18:15,410 --> 00:18:17,780
+<font size="24" face="Trebuchet MS">¿Esto es un círculo mágico?</font>
+
+268
+00:18:18,120 --> 00:18:20,750
+<font size="24" face="Trebuchet MS">Aquí hay algo escrito, Song.</font>
+
+269
+00:18:21,700 --> 00:18:24,210
+<font size="24" face="Trebuchet MS">Es escritura antigua. A ver…</font>
+
+270
+00:18:24,870 --> 00:18:27,540
+<font size="24" face="Trebuchet MS">"Reglas del Templo Cartenon.</font>
+
+271
+00:18:27,710 --> 00:18:30,300
+<font size="24" face="Trebuchet MS">Primera: respeta a Dios.</font>
+
+272
+00:18:30,630 --> 00:18:33,590
+<font size="24" face="Trebuchet MS">- Jinwoo.
+- Segunda: ensalza a Dios.</font>
+
+273
+00:18:34,300 --> 00:18:40,720
+<font size="24" face="Trebuchet MS">- Tercera: cree en Dios.
+- Esa estatua gigante movió los ojos.</font>
+
+274
+00:18:41,270 --> 00:18:43,640
+<font size="24" face="Trebuchet MS">Nos ha mirado.</font>
+
+275
+00:18:44,940 --> 00:18:48,340
+<font size="24" face="Trebuchet MS">- Te habrás confundido.
+- Quien no cumpla estas reglas</font>
+
+276
+00:18:49,270 --> 00:18:50,880
+<font size="24" face="Trebuchet MS">no saldrá de aquí con vida".</font>
+
+277
+00:18:55,410 --> 00:18:57,260
+<font size="24" face="Trebuchet MS">¡Se ha cerrado la puerta!</font>
+
+278
+00:18:58,030 --> 00:18:59,040
+<font size="24" face="Trebuchet MS">¿Por qué?</font>
+
+279
+00:18:59,240 --> 00:19:01,980
+<font size="24" face="Trebuchet MS">¿Estamos encerrados aquí?</font>
+
+280
+00:19:03,290 --> 00:19:04,840
+<font size="24" face="Trebuchet MS">Por eso no quería venir.</font>
+
+281
+00:19:05,000 --> 00:19:07,040
+<font size="24" face="Trebuchet MS">Esto nos pasa por subestimarla.</font>
+
+282
+00:19:07,500 --> 00:19:10,750
+<font size="24" face="Trebuchet MS">No deberíamos haber venido.
+Yo me piro.</font>
+
+283
+00:19:11,340 --> 00:19:14,160
+<font size="24" face="Trebuchet MS">Quedaos con los tesoros o lo que haya.</font>
+
+284
+00:19:14,550 --> 00:19:15,800
+<font size="24" face="Trebuchet MS">Adiós.</font>
+
+285
+00:19:17,050 --> 00:19:18,740
+<font size="24" face="Trebuchet MS">¡Aléjate de ahí!</font>
+
+286
+00:19:35,650 --> 00:19:37,240
+<font size="24" face="Trebuchet MS">¡No!</font>
+
+287
+00:19:37,390 --> 00:19:38,950
+<font size="24" face="Trebuchet MS">- No puede ser.
+- ¡Se ha movido!</font>
+
+288
+00:19:39,530 --> 00:19:42,060
+<font size="24" face="Trebuchet MS">¿Hay que luchar contra eso?</font>
+
+289
+00:19:43,700 --> 00:19:47,370
+<font size="24" face="Trebuchet MS"><i>¿De qué rango era
+el que acaban de matar? ¿D?</i></font>
+
+290
+00:19:47,830 --> 00:19:50,880
+<font size="24" face="Trebuchet MS"><i>Era más fuerte que un rango E como yo.</i></font>
+
+291
+00:19:52,380 --> 00:19:54,920
+<font size="24" face="Trebuchet MS"><i>Y no duró ni un segundo.</i></font>
+
+292
+00:19:55,840 --> 00:19:56,620
+<font size="24" face="Trebuchet MS"><i>No es normal.</i></font>
+
+293
+00:19:56,800 --> 00:19:58,480
+<font size="24" face="Trebuchet MS"><i>Es una mazmorra de rango D.</i></font>
+
+294
+00:19:58,640 --> 00:20:00,640
+<font size="24" face="Trebuchet MS"><i>No puede haber seres así.</i></font>
+
+295
+00:20:01,220 --> 00:20:04,360
+<font size="24" face="Trebuchet MS">Si las estatuas se mueven…</font>
+
+296
+00:20:18,240 --> 00:20:22,180
+<font size="24" face="Trebuchet MS"><i>He estado al borde de la muerte
+muchas veces.</i></font>
+
+297
+00:20:22,830 --> 00:20:26,660
+<font size="24" face="Trebuchet MS"><i>Cuando me separé del grupo
+en mi primera incursión.</i></font>
+
+298
+00:20:26,960 --> 00:20:30,460
+<font size="24" face="Trebuchet MS"><i>Cuando un monstruo de rango E
+hizo que me hospitalizaran.</i></font>
+
+299
+00:20:30,750 --> 00:20:33,800
+<font size="24" face="Trebuchet MS"><i>Cuando casi muero de hambre
+en un laberinto.</i></font>
+
+300
+00:20:34,250 --> 00:20:36,620
+<font size="24" face="Trebuchet MS"><i>Aunque sean mazmorras de rango bajo,</i></font>
+
+301
+00:20:36,800 --> 00:20:38,930
+<font size="24" face="Trebuchet MS"><i>yo siempre me juego la vida.</i></font>
+
+302
+00:20:39,930 --> 00:20:43,920
+<font size="24" face="Trebuchet MS"><i>Los cazadores se equipan
+con el dinero de las piedras mágicas,</i></font>
+
+303
+00:20:44,140 --> 00:20:48,300
+<font size="24" face="Trebuchet MS"><i>vencen a monstruos más fuertes
+y consiguen recompensas mejores.</i></font>
+
+304
+00:20:48,890 --> 00:20:51,560
+<font size="24" face="Trebuchet MS"><i>Yo solo tengo un cuchillo barato.</i></font>
+
+305
+00:20:51,730 --> 00:20:54,560
+<font size="24" face="Trebuchet MS"><i>Si se rompe, tengo que usar las manos.</i></font>
+
+306
+00:20:56,480 --> 00:20:58,570
+<font size="24" face="Trebuchet MS"><i>Estos zapatos ya no aguantan más.</i></font>
+
+307
+00:20:59,400 --> 00:21:02,280
+<font size="24" face="Trebuchet MS"><i>Así paso un día tras otro.</i></font>
+
+308
+00:21:05,410 --> 00:21:07,300
+<font size="24" face="Trebuchet MS"><i>Aguanto las burlas</i></font>
+
+309
+00:21:07,450 --> 00:21:10,320
+<font size="24" face="Trebuchet MS"><i>y me juego la vida
+por recompensas de mierda.</i></font>
+
+310
+00:21:10,750 --> 00:21:13,220
+<font size="24" face="Trebuchet MS"><i>Busco cómo sobrevivir</i></font>
+
+311
+00:21:13,380 --> 00:21:15,760
+<font size="24" face="Trebuchet MS"><i>observando atentamente lo que me rodea.</i></font>
+
+312
+00:21:16,800 --> 00:21:19,420
+<font size="24" face="Trebuchet MS"><i>Tal vez por eso lo sé.</i></font>
+
+313
+00:21:20,220 --> 00:21:21,470
+<font size="24" face="Trebuchet MS">¡Agachaos!</font>
+
+314
+00:21:36,650 --> 00:21:38,580
+<font size="24" face="Trebuchet MS">- ¡No puede ser!
+- No contaba con esto.</font>
+
+315
+00:21:38,740 --> 00:21:40,780
+<font size="24" face="Trebuchet MS">- ¿Qué está pasando?
+- Ni idea.</font>
+
+316
+00:21:40,950 --> 00:21:42,990
+<font size="24" face="Trebuchet MS">- ¿Estás bien?
+- Sí.</font>
+
+317
+00:21:43,160 --> 00:21:44,260
+<font size="24" face="Trebuchet MS">¿Y tú, Kim?</font>
+
+318
+00:21:44,450 --> 00:21:45,500
+<font size="24" face="Trebuchet MS">También.</font>
+
+319
+00:21:45,870 --> 00:21:48,410
+<font size="24" face="Trebuchet MS">No… No…</font>
+
+320
+00:21:48,870 --> 00:21:51,140
+<font size="24" face="Trebuchet MS"><i>¿Qué está pasando?</i></font>
+
+321
+00:21:52,080 --> 00:21:54,080
+<font size="24" face="Trebuchet MS"><i>¿Cómo hemos acabado así?</i></font>
+
+322
+00:21:54,630 --> 00:21:57,050
+<font size="24" face="Trebuchet MS"><i>Estamos encerrados. No podemos huir.</i></font>
+
+323
+00:21:57,210 --> 00:21:59,510
+<font size="24" face="Trebuchet MS"><i>Moriremos. Voy a morir.</i></font>
+
+324
+00:22:03,010 --> 00:22:04,380
+<font size="24" face="Trebuchet MS"><i>¡Me van matar!</i></font>
+
+325
+.
+
+326
+00:23:36,230 --> 00:23:40,070
+<font color="#f7f3fe" size="14" face="Trebuchet MS" color="#69feff" color="#c5dbec">Si tuviera otra oportunidad</font><font face="\fs"></font></b> face="Verdana" size="24"
+color="#ea0017">Si tuviera otra oportunidad</b></font>
+
