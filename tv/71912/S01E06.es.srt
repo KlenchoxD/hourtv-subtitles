@@ -1,0 +1,3011 @@
+1
+00:00:11,660 --> 00:00:14,530
+<i>♪ Soy débil y tengo ganas</i> ♪
+
+2
+00:00:15,040 --> 00:00:17,550
+♪ Si es mi camino a seguir ♪
+
+3
+00:00:17,620 --> 00:00:19,430
+♪ Acepto mi suerte ♪
+
+4
+00:00:19,500 --> 00:00:21,700
+♪ Y abrazo mis penas ♪
+
+5
+00:00:21,790 --> 00:00:27,150
+♪ Hasta la horca voy a llegar ♪
+
+6
+00:00:28,000 --> 00:00:30,070
+♪ Amada horca ♪
+
+7
+00:00:30,660 --> 00:00:32,530
+♪ Hasta la ♪
+
+8
+00:00:33,160 --> 00:00:36,030
+¿Cuál prefieren: amada horca,
+hasta la horca?
+
+9
+00:00:36,700 --> 00:00:39,530
+¿Se entiende la metáfora
+o es muy complicada?
+
+10
+00:00:39,790 --> 00:00:41,500
+Ya pasó una hora.
+
+11
+00:00:41,550 --> 00:00:43,750
+Vámonos, antes que a la bestia
+le vuelva el hambre.
+
+12
+00:00:43,870 --> 00:00:47,030
+- Pero hicimos un trato.
+- Con un brujo vivo.
+
+13
+00:00:47,330 --> 00:00:49,630
+No me quedaré a pagarle a un muerto.
+
+14
+00:00:49,700 --> 00:00:51,320
+♪ El garrotero ♪
+
+15
+00:00:52,200 --> 00:00:54,360
+¡Mierda! ¡Oigan, no!
+
+16
+00:00:54,870 --> 00:00:56,720
+Deténganse o...
+
+17
+00:00:56,790 --> 00:00:59,490
+¿O qué? ¿Nos matarás con tu canto?
+
+18
+00:01:00,000 --> 00:01:01,760
+Tal vez no lo oyó bien.
+
+19
+00:01:01,830 --> 00:01:03,860
+¡Sí! Quizá no...
+
+20
+00:01:04,290 --> 00:01:05,700
+Perdón, ¿quién eres?
+
+21
+00:01:05,790 --> 00:01:08,400
+Lárgate, anciano.
+
+22
+00:01:09,290 --> 00:01:12,470
+Hazle caso al bardo
+o me obligarás a usar mis armas.
+
+23
+00:01:12,540 --> 00:01:13,950
+¿Qué armas?
+
+24
+00:01:14,830 --> 00:01:16,530
+No veo acero por aquí.
+
+25
+00:01:20,290 --> 00:01:22,110
+El acero no es necesario.
+
+26
+00:01:32,290 --> 00:01:34,070
+Me parece que eso es mío.
+
+27
+00:01:35,410 --> 00:01:36,970
+Geralt, ellos...
+
+28
+00:01:37,040 --> 00:01:38,260
+Con la...
+
+29
+00:01:38,330 --> 00:01:42,010
+Ella acaba de matar a un hombre
+porque casi te roba la yegua.
+
+30
+00:01:42,080 --> 00:01:44,570
+Sería mejor compañera de viaje que tú.
+
+31
+00:01:46,370 --> 00:01:48,340
+Perdón, ¿quiénes son exactamente?
+
+32
+00:01:48,410 --> 00:01:51,010
+Soy Borch Tres Grajos.
+
+33
+00:01:51,080 --> 00:01:54,450
+Y ellas son mis compañeras, Tea y Vea.
+
+34
+00:01:55,200 --> 00:01:58,570
+Te estaba buscando, Geralt de Rivia.
+
+35
+00:02:02,540 --> 00:02:05,220
+Es la primera vez para mí,
+lo cual dice mucho.
+
+36
+00:02:05,290 --> 00:02:07,450
+Me quedan pocas primeras veces.
+
+37
+00:02:08,000 --> 00:02:11,280
+Pero cenar
+con el gran Geralt de Rivia...
+
+38
+00:02:11,620 --> 00:02:13,130
+Tus hazañas son leyenda.
+
+39
+00:02:13,200 --> 00:02:14,300
+De nada.
+
+40
+00:02:14,370 --> 00:02:16,010
+Vino Est Est, pequeño.
+
+41
+00:02:16,080 --> 00:02:20,430
+Querrás saber por qué buscaba
+a un cazador de monstruos tan talentoso.
+
+42
+00:02:20,500 --> 00:02:23,550
+No te preocupes por mí.
+Solo quiero comida.
+
+43
+00:02:23,620 --> 00:02:26,990
+Sabía que me agradarías.
+Esa fue la primera razón.
+
+44
+00:02:27,330 --> 00:02:30,550
+Uno de todo lo que haya.
+¡Y no dejen de enviar cerveza!
+
+45
+00:02:30,620 --> 00:02:31,740
+¡En camino!
+
+46
+00:02:33,410 --> 00:02:35,240
+La segunda es la siguiente.
+
+47
+00:02:35,870 --> 00:02:36,880
+Hace poco...
+
+48
+00:02:36,950 --> 00:02:41,820
+...un dragón verde cruzó la frontera
+y llegó a las montañas del rey Niedamir.
+
+49
+00:02:43,450 --> 00:02:44,740
+Ya sé qué piensas.
+
+50
+00:02:45,500 --> 00:02:48,530
+"Imposible,
+casi no existen los dragones".
+
+51
+00:02:48,950 --> 00:02:50,470
+Pero es cierto.
+
+52
+00:02:50,540 --> 00:02:53,840
+Los lugareños lo vieron
+y lo persiguieron en busca de tesoro.
+
+53
+00:02:53,910 --> 00:02:56,680
+Por supuesto,
+solo lograron herir a la criatura...
+
+54
+00:02:56,750 --> 00:02:58,720
+...y hacerla enojar tanto...
+
+55
+00:02:58,790 --> 00:03:02,150
+...que bajó de su guarida
+y quemó media ladera.
+
+56
+00:03:02,750 --> 00:03:04,570
+Ovejas muertas por doquier.
+
+57
+00:03:04,790 --> 00:03:06,990
+Tu cuello es de lo más increíble.
+
+58
+00:03:07,700 --> 00:03:10,070
+Como de un ganso sensual.
+
+59
+00:03:12,040 --> 00:03:13,180
+Que engulle.
+
+60
+00:03:13,250 --> 00:03:15,380
+Verás, el rey está en un embrollo.
+
+61
+00:03:15,450 --> 00:03:19,300
+Va a casarse con la princesa
+de su reino rival, Malleore...
+
+62
+00:03:19,370 --> 00:03:23,780
+...o sea que es mal momento para tener
+una plaga asesina en las montañas.
+
+63
+00:03:24,330 --> 00:03:27,150
+Encargó una cacería para matarlo.
+
+64
+00:03:27,500 --> 00:03:29,490
+Nos alistamos cuatro equipos.
+
+65
+00:03:29,620 --> 00:03:31,760
+El ganador
+obtiene el tesoro del dragón...
+
+66
+00:03:31,830 --> 00:03:35,380
+...y el título de lord sobre
+uno de los nuevos estados vasallos.
+
+67
+00:03:35,450 --> 00:03:37,530
+Eso, claro, si sobrevive.
+
+68
+00:03:38,500 --> 00:03:40,650
+¿Qué tiene que ver eso conmigo?
+
+69
+00:03:43,370 --> 00:03:45,490
+Quiero que te unas a mi equipo.
+
+70
+00:03:57,830 --> 00:03:59,130
+Ya puedo oírla...
+
+71
+00:03:59,200 --> 00:04:04,780
+...la historia de dos zerrikanas
+y su valiente amante poeta.
+
+72
+00:04:05,580 --> 00:04:07,490
+No hay dudas. Aceptamos.
+
+73
+00:04:08,330 --> 00:04:10,650
+Gastaste saliva en vano, Borch.
+
+74
+00:04:11,200 --> 00:04:12,780
+No mato dragones.
+
+75
+00:04:14,000 --> 00:04:18,280
+Sigue mi consejo, no hay tesoro
+por el que valga la pena morir.
+
+76
+00:04:19,870 --> 00:04:21,860
+Depende del tesoro.
+
+77
+00:04:22,830 --> 00:04:25,150
+Lo que necesito...
+
+78
+00:04:25,830 --> 00:04:27,570
+...es una nueva aventura.
+
+79
+00:04:27,910 --> 00:04:32,070
+La última, antes de que sea muy viejo
+y solo me quede morir.
+
+80
+00:04:32,620 --> 00:04:35,400
+¿Crees que matar un dragón te dará eso?
+
+81
+00:04:36,580 --> 00:04:41,200
+Solo sé que hay un camino por la montaña
+y está lleno de monstruos.
+
+82
+00:04:41,330 --> 00:04:45,030
+Contigo en mi equipo, querido brujo,
+seremos invencibles.
+
+83
+00:04:46,120 --> 00:04:48,200
+¡Denme algo de beber, carajo!
+
+84
+00:04:49,250 --> 00:04:52,240
+- ¡Cantinero!
+- Esos enanos irán a la cacería.
+
+85
+00:04:52,790 --> 00:04:53,790
+¡Cantinero!
+
+86
+00:04:53,890 --> 00:04:56,950
+- Geralt podría con ellos hasta dormido.
+- ¡Mierda!
+
+87
+00:04:58,000 --> 00:05:01,400
+¡Dijo que quiere cuatro putas pintas!
+
+88
+00:05:01,910 --> 00:05:02,910
+Ya.
+
+89
+00:05:02,990 --> 00:05:04,630
+O tal vez un poco despierto.
+
+90
+00:05:04,700 --> 00:05:06,700
+También están los Sableros.
+
+91
+00:05:08,950 --> 00:05:10,550
+¿Oíste de ellos, brujo?
+
+92
+00:05:10,620 --> 00:05:11,820
+Sí.
+
+93
+00:05:13,500 --> 00:05:15,280
+Y la respuesta es que no.
+
+94
+00:05:16,750 --> 00:05:19,450
+Sé que sientes lo mismo que yo.
+
+95
+00:05:19,660 --> 00:05:21,650
+Ese vacío en tu interior.
+
+96
+00:05:21,870 --> 00:05:26,780
+Esa comezón que no se puede rascar,
+te quema el cerebro y te quita el sueño.
+
+97
+00:05:28,120 --> 00:05:29,280
+Ven conmigo.
+
+98
+00:05:29,750 --> 00:05:31,950
+Te mostraré lo que te falta.
+
+99
+00:05:33,080 --> 00:05:34,700
+¿Qué es lo que me falta?
+
+100
+00:05:37,250 --> 00:05:40,470
+Lamento interrumpir este lindo momento,
+pero van tres.
+
+101
+00:05:40,540 --> 00:05:42,900
+¿Quiénes son el cuarto equipo?
+
+102
+00:05:44,580 --> 00:05:45,610
+Ellos.
+
+103
+00:05:51,370 --> 00:05:54,590
+No, no. Muchas gracias. Fue un placer.
+
+104
+00:05:54,660 --> 00:05:58,800
+Gracias por el vino y las tartas,
+pero ya ve, no podemos involucrarnos.
+
+105
+00:05:58,870 --> 00:06:00,320
+Geralt, ¿vamos?
+
+106
+00:06:00,450 --> 00:06:02,400
+- Acepto.
+- Madre de...
+
+107
+00:06:03,700 --> 00:06:06,280
+La cacería comienza al amanecer.
+
+108
+00:06:23,160 --> 00:06:28,150
+Podría haber dicho desde el principio
+que el camino no era apto para caballos.
+
+109
+00:06:28,330 --> 00:06:30,280
+Bienvenido al mundo, Jaskier.
+
+110
+00:06:30,950 --> 00:06:32,280
+¡Me lleva el Korath!
+
+111
+00:06:32,870 --> 00:06:33,930
+¿Qué pasó?
+
+112
+00:06:34,000 --> 00:06:37,740
+Alguien tomó mis cosas.
+¡Seguro los idiotas de los Sableros!
+
+113
+00:06:41,330 --> 00:06:42,650
+Bueno...
+
+114
+00:06:42,910 --> 00:06:45,630
+...tres días de viaje
+y solo una ruta a la cima.
+
+115
+00:06:45,700 --> 00:06:49,070
+Tiempo suficiente
+¡para orinarle la comida!
+
+116
+00:06:59,160 --> 00:07:00,650
+Soy Yarpen Zigrin.
+
+117
+00:07:02,000 --> 00:07:03,180
+Geralt de Rivia.
+
+118
+00:07:03,250 --> 00:07:06,780
+- Y yo soy Julian Alfred Pankratz...
+- Sí. Ya sé.
+
+119
+00:07:07,750 --> 00:07:11,320
+¡Te pagarán bien por esa yegua
+si la vendes ahora!
+
+120
+00:07:12,080 --> 00:07:15,550
+Fascinante que de pronto
+todos aprecien a Sardinilla, ¿no?
+
+121
+00:07:15,620 --> 00:07:17,610
+Se refería a que no sobreviviremos.
+
+122
+00:07:18,160 --> 00:07:20,880
+¿Qué? Nadie mencionó nada
+de una muerte inminente.
+
+123
+00:07:20,950 --> 00:07:23,980
+¿Cómo es que caminé décadas
+por la Tierra...
+
+124
+00:07:24,030 --> 00:07:26,130
+...sin encontrarme con un brujo...
+
+125
+00:07:26,290 --> 00:07:28,800
+...pero conozco a uno
+y no logro librarme de él?
+
+126
+00:07:28,870 --> 00:07:30,510
+Diría que es bastante raro...
+
+127
+00:07:30,580 --> 00:07:34,070
+...pero, oye, los brujos
+siempre se topan con monstruos.
+
+128
+00:07:35,700 --> 00:07:37,740
+- Jaskier.
+- Yennefer.
+
+129
+00:07:38,040 --> 00:07:39,990
+Esas arrugas son nuevas.
+
+130
+00:07:40,330 --> 00:07:42,650
+Sí, bueno, y tus bromas son...
+
+131
+00:07:43,700 --> 00:07:44,740
+...viejas.
+
+132
+00:07:49,750 --> 00:07:51,150
+Gracias, Sardinilla.
+
+133
+00:07:52,660 --> 00:07:55,550
+- ¿Qué haces aquí, Yen?
+- Vine con mi escolta.
+
+134
+00:07:55,620 --> 00:07:57,860
+El noble sir Eyck de Denesle.
+
+135
+00:07:58,500 --> 00:08:00,860
+Lo ayudaré a matar al dragón.
+
+136
+00:08:02,000 --> 00:08:04,360
+¡Por el reino y la gloria!
+
+137
+00:08:07,330 --> 00:08:09,030
+Hasta la próxima, Geralt.
+
+138
+00:08:24,120 --> 00:08:25,740
+Nos vemos, Sardinilla.
+
+139
+00:08:54,200 --> 00:08:56,110
+¿Quién es Geralt exactamente?
+
+140
+00:08:56,660 --> 00:08:58,430
+¿Mi abuela lo conocía bien?
+
+141
+00:08:58,500 --> 00:09:02,220
+¿Por qué nunca me lo mencionó
+antes de... esa noche?
+
+142
+00:09:02,290 --> 00:09:04,760
+Protegerla
+siempre fue nuestra prioridad.
+
+143
+00:09:04,830 --> 00:09:07,650
+¿Por qué lo dejó apelar
+al Derecho de la Sorpresa?
+
+144
+00:09:07,790 --> 00:09:09,130
+¿Y qué significa?
+
+145
+00:09:09,200 --> 00:09:11,900
+Al salvar a alguien
+de una muerte segura...
+
+146
+00:09:12,120 --> 00:09:14,690
+...uno puede apelar
+al Derecho de la Sorpresa...
+
+147
+00:09:14,740 --> 00:09:16,240
+...para saldar esa deuda.
+
+148
+00:09:16,540 --> 00:09:18,360
+¿A quién rescató Geralt?
+
+149
+00:09:19,500 --> 00:09:20,740
+A su padre.
+
+150
+00:09:22,040 --> 00:09:24,990
+Duny. Como pago, la unió a Geralt.
+
+151
+00:09:26,250 --> 00:09:27,860
+Es su destino.
+
+152
+00:09:29,040 --> 00:09:30,930
+¿Y por qué aún no me encontró?
+
+153
+00:09:31,000 --> 00:09:33,030
+Preguntas y más preguntas.
+
+154
+00:09:35,660 --> 00:09:37,450
+Pronto se reunirán.
+
+155
+00:09:38,580 --> 00:09:40,990
+Justo como su abuela quería.
+
+156
+00:09:56,250 --> 00:09:58,530
+Apresúrense, niños.
+
+157
+00:10:19,290 --> 00:10:22,380
+Qué gran gesto compartir
+el botín de esta expedición...
+
+158
+00:10:22,450 --> 00:10:24,610
+...con un anciano como Borch.
+
+159
+00:10:24,830 --> 00:10:28,240
+Son como dos amigas ferozmente...
+
+160
+00:10:28,830 --> 00:10:29,830
+...leales.
+
+161
+00:10:29,950 --> 00:10:31,950
+Quiero pensar que amigas, familia.
+
+162
+00:10:32,080 --> 00:10:33,340
+Seguridad contratada.
+
+163
+00:10:33,410 --> 00:10:36,800
+Cazar con él es un honor
+que no se corrompe con el dinero.
+
+164
+00:10:36,870 --> 00:10:38,240
+Pero ¿por qué?
+
+165
+00:10:40,200 --> 00:10:42,280
+Él es el más hermoso.
+
+166
+00:10:51,500 --> 00:10:54,700
+Te da miedo parpadear
+y no volver a verla.
+
+167
+00:10:55,660 --> 00:10:57,320
+Estás enamorado de ella.
+
+168
+00:10:57,750 --> 00:11:01,610
+O puede ser que lo peligroso aquí
+no sea el dragón.
+
+169
+00:11:02,040 --> 00:11:04,950
+Por eso te traje, Geralt de Rivia.
+
+170
+00:11:05,660 --> 00:11:07,360
+Nada te asusta.
+
+171
+00:11:08,290 --> 00:11:11,150
+No conoces a Yennefer de Vengerberg.
+
+172
+00:11:12,040 --> 00:11:14,900
+Entonces, que sea ella
+el peor enfrentamiento.
+
+173
+00:11:22,040 --> 00:11:24,030
+Válgame Melitele.
+
+174
+00:11:24,750 --> 00:11:26,240
+¿Qué pasó aquí?
+
+175
+00:11:30,200 --> 00:11:32,050
+Los dragones evitan a la gente.
+
+176
+00:11:32,120 --> 00:11:34,530
+Debió haberse ido cuando lo atacaron.
+
+177
+00:11:34,700 --> 00:11:37,450
+No entiendo. ¿Por qué las represalias?
+
+178
+00:11:38,450 --> 00:11:41,450
+Cuando tu especie pende de un hilo...
+
+179
+00:11:41,660 --> 00:11:44,490
+...tal vez
+todo se vuelve más desesperado.
+
+180
+00:11:49,620 --> 00:11:51,990
+Sí, se pueden usar ramitas...
+
+181
+00:11:52,250 --> 00:11:56,090
+...pero yo, personalmente,
+prefiero usar flores, ¿saben?
+
+182
+00:11:56,160 --> 00:11:57,180
+Rosas.
+
+183
+00:11:57,250 --> 00:11:58,650
+Narcisos.
+
+184
+00:11:58,830 --> 00:12:02,280
+Flora y, guácala, fauna.
+Un cactus si a ella le gusta.
+
+185
+00:12:02,700 --> 00:12:04,260
+Damas, se ven hambrientas.
+
+186
+00:12:04,330 --> 00:12:07,300
+Permítanme vagar sin rumbo
+por este matorral...
+
+187
+00:12:07,370 --> 00:12:09,530
+...y conseguirles...
+
+188
+00:12:10,080 --> 00:12:13,150
+...un sabroso tentempié para esta tarde.
+
+189
+00:12:15,160 --> 00:12:16,200
+Bien.
+
+190
+00:12:16,370 --> 00:12:19,010
+Tengo hambre. ¿Alguien más tiene hambre?
+
+191
+00:12:19,080 --> 00:12:21,070
+Realmente me comería un...
+
+192
+00:12:22,120 --> 00:12:23,240
+Bien.
+
+193
+00:12:32,250 --> 00:12:34,200
+Hay algo aquí.
+
+194
+00:12:34,540 --> 00:12:36,130
+Parece un fauno.
+
+195
+00:12:36,200 --> 00:12:37,340
+Jaskier.
+
+196
+00:12:37,410 --> 00:12:38,610
+Hola.
+
+197
+00:12:39,080 --> 00:12:40,780
+Hola, amiguito.
+
+198
+00:12:41,080 --> 00:12:43,860
+Pero si eres la cosita más tierna...
+
+199
+00:12:45,620 --> 00:12:48,930
+...y aterradora
+que he visto en toda mi vida.
+
+200
+00:12:49,000 --> 00:12:50,650
+Bien, a correr. ¡Geralt!
+
+201
+00:12:53,750 --> 00:12:55,820
+Es otro de tus amigos.
+
+202
+00:12:59,040 --> 00:13:01,220
+En el nombre de Bloëmenmagde, ¿qué es?
+
+203
+00:13:01,290 --> 00:13:02,290
+Una hirika.
+
+204
+00:13:02,360 --> 00:13:04,780
+Con hambre, seguro. Guarden las armas.
+
+205
+00:13:28,290 --> 00:13:31,200
+- ¡Por el reino y la gloria!
+- ¡Sir Eyck!
+
+206
+00:13:32,580 --> 00:13:34,400
+¡Podrías haber muerto!
+
+207
+00:13:38,830 --> 00:13:41,430
+Si le hubiéramos dado comida,
+se habría ido.
+
+208
+00:13:41,500 --> 00:13:42,530
+Gracias.
+
+209
+00:13:42,700 --> 00:13:44,680
+Este caballero será un imbécil...
+
+210
+00:13:44,750 --> 00:13:47,700
+...pero el dragón
+no podrá escapar de él.
+
+211
+00:14:00,080 --> 00:14:02,650
+No sé si yo comería eso, buen señor.
+
+212
+00:14:04,200 --> 00:14:06,240
+Un caballero nunca desperdicia.
+
+213
+00:14:07,910 --> 00:14:11,200
+Por eso seré un gran lord
+para el estado vasallo de Niedamir.
+
+214
+00:14:12,000 --> 00:14:14,760
+Un gran caballero
+predica con el ejemplo por...
+
+215
+00:14:14,830 --> 00:14:16,430
+El reino y la gloria.
+
+216
+00:14:16,500 --> 00:14:17,740
+Ya sabemos.
+
+217
+00:14:18,160 --> 00:14:22,010
+Mis súbditos serán los siervos
+más afortunados del Continente.
+
+218
+00:14:22,080 --> 00:14:25,010
+En especial,
+con la hermosa Yennefer como mi maga.
+
+219
+00:14:25,080 --> 00:14:28,240
+Me muero de ganas por servirte, milord.
+
+220
+00:14:31,000 --> 00:14:34,760
+¿Te gustaría servirme a mí
+esta noche, bruja?
+
+221
+00:14:34,830 --> 00:14:36,280
+Cuidado, Boholt.
+
+222
+00:14:38,660 --> 00:14:41,320
+El brujo también quiere ser caballero.
+
+223
+00:14:41,830 --> 00:14:43,240
+No.
+
+224
+00:14:43,410 --> 00:14:46,570
+Ella tiene todos los medios
+para asesinarte sola.
+
+225
+00:14:48,250 --> 00:14:51,590
+¿Qué es tan gracioso,
+cara de gallo peludo?
+
+226
+00:14:51,660 --> 00:14:54,490
+Me pregunto a quién mataré primero...
+
+227
+00:14:55,370 --> 00:14:56,900
+...si al monstruo...
+
+228
+00:14:58,290 --> 00:15:00,110
+...o al cazador de monstruos.
+
+229
+00:15:10,870 --> 00:15:12,070
+Cielos.
+
+230
+00:15:13,450 --> 00:15:15,760
+Me temo que me voy a retirar.
+
+231
+00:15:15,830 --> 00:15:18,110
+Yennefer, ¿la acompaño a su tienda?
+
+232
+00:15:18,370 --> 00:15:19,570
+¿Vendrás conmigo?
+
+233
+00:15:21,250 --> 00:15:24,450
+<i>Milady, </i>nunca degradaría su honor
+de esa manera.
+
+234
+00:15:24,910 --> 00:15:26,180
+Perdón que te lo diga...
+
+235
+00:15:26,250 --> 00:15:30,110
+...pero ese barco ya zarpó, naufragó
+y se hundió en el fondo del océano.
+
+236
+00:15:33,950 --> 00:15:35,530
+Necesito cagar.
+
+237
+00:15:42,540 --> 00:15:44,470
+¿Le decimos al pobre infeliz...
+
+238
+00:15:44,540 --> 00:15:47,720
+...que compite por un estado vasallo
+que desaparecerá en 10 años?
+
+239
+00:15:47,790 --> 00:15:50,700
+Los estados van y vienen como la marea.
+
+240
+00:15:51,080 --> 00:15:52,090
+Nada nuevo.
+
+241
+00:15:52,160 --> 00:15:54,650
+¡Esto es nuevo, carajo!
+
+242
+00:15:54,950 --> 00:15:57,800
+El hijo legítimo de Nilfgaard
+volvió veloz por el sur.
+
+243
+00:15:57,870 --> 00:15:59,900
+Con Fringilla como su maga.
+
+244
+00:16:00,830 --> 00:16:02,110
+Es ridículo.
+
+245
+00:16:02,580 --> 00:16:05,320
+Lo vi con mis propios ojos en Ebbing.
+
+246
+00:16:06,080 --> 00:16:08,720
+Esos locos de la religión
+se acercan cada día más.
+
+247
+00:16:08,790 --> 00:16:11,010
+No tardarán en intentar tomar Sodden.
+
+248
+00:16:11,080 --> 00:16:14,280
+Y le siguen Temeria, Redania.
+
+249
+00:16:14,750 --> 00:16:16,200
+- Cintra.
+- No.
+
+250
+00:16:17,160 --> 00:16:20,280
+La reina Calanthe moriría
+antes de ceder su reino.
+
+251
+00:16:22,080 --> 00:16:26,090
+Ojalá el fervor religioso de Nilfgaard
+hubiera sido templado antes...
+
+252
+00:16:26,160 --> 00:16:28,150
+...por una mano más dura.
+
+253
+00:16:33,160 --> 00:16:34,650
+Si me disculpan...
+
+254
+00:16:35,410 --> 00:16:37,530
+...me espera mi sueño reparador.
+
+255
+00:16:40,410 --> 00:16:44,200
+Dudo que el sueño me repare nada,
+pero también debo dormir.
+
+256
+00:16:48,750 --> 00:16:52,380
+Así que estamos a punto de tener
+nuevos lores malvados...
+
+257
+00:16:52,450 --> 00:16:56,050
+...y los dragones, de hecho, existen.
+
+258
+00:16:56,120 --> 00:16:57,450
+Lindo día.
+
+259
+00:16:59,790 --> 00:17:02,050
+¿Qué, ustedes ya vieron un dragón?
+
+260
+00:17:02,120 --> 00:17:03,530
+Geralt, diles.
+
+261
+00:17:04,290 --> 00:17:06,400
+Están disminuyendo en número...
+
+262
+00:17:06,700 --> 00:17:09,900
+...gracias a los buscadores de tesoros,
+pero existen.
+
+263
+00:17:10,700 --> 00:17:15,570
+Lo que la gente llama dragones verdes,
+como el que tenemos aquí...
+
+264
+00:17:16,120 --> 00:17:17,610
+...son los más comunes.
+
+265
+00:17:17,790 --> 00:17:19,530
+Dragones rojos, menos.
+
+266
+00:17:20,120 --> 00:17:22,030
+Los negros son los más raros.
+
+267
+00:17:22,250 --> 00:17:24,400
+Los dorados son los más raros.
+
+268
+00:17:25,410 --> 00:17:27,450
+Los dorados son un mito.
+
+269
+00:17:28,200 --> 00:17:30,300
+Para que exista un dragón dorado...
+
+270
+00:17:30,370 --> 00:17:33,950
+...primero tendría que haber...
+
+271
+00:17:34,160 --> 00:17:36,990
+...una mutación única y fortuita.
+
+272
+00:17:37,200 --> 00:17:39,530
+Y, según mi experiencia...
+
+273
+00:17:39,910 --> 00:17:42,530
+...las mutaciones son intencionales.
+
+274
+00:17:42,950 --> 00:17:44,220
+Pero no importa.
+
+275
+00:17:44,290 --> 00:17:45,380
+Mutantes o mito...
+
+276
+00:17:45,450 --> 00:17:49,820
+...los dorados padecieron la suerte de
+ser demasiado diferentes para perdurar.
+
+277
+00:17:52,290 --> 00:17:53,530
+Se extinguieron.
+
+278
+00:17:55,200 --> 00:17:57,530
+Hay otras formas de perdurar.
+
+279
+00:17:57,870 --> 00:17:59,930
+Si lo que buscas es un legado...
+
+280
+00:18:00,000 --> 00:18:03,030
+...sigue el consejo
+del cara de gallo peludo...
+
+281
+00:18:03,080 --> 00:18:04,580
+...y vuélvete un caballero.
+
+282
+00:18:05,290 --> 00:18:06,780
+Sir Brujo...
+
+283
+00:18:07,200 --> 00:18:10,240
+...el Peloblanco de Rivia.
+
+284
+00:18:12,540 --> 00:18:16,110
+Serías un pésimo caballero
+si te negaras a matar dragones.
+
+285
+00:18:17,330 --> 00:18:21,360
+Pero, probablemente, no tan pésimo
+como sir Eyck de Denesle.
+
+286
+00:18:27,700 --> 00:18:31,300
+Caminen, los nilfgaardianos
+podrían estar en cualquier parte.
+
+287
+00:18:31,370 --> 00:18:32,630
+No estamos a salvo.
+
+288
+00:18:32,700 --> 00:18:34,930
+¿Cómo escapaste del ataque, Myszowor?
+
+289
+00:18:35,000 --> 00:18:36,320
+Dara, por favor.
+
+290
+00:18:36,500 --> 00:18:38,380
+Ciri dice que te desapareciste.
+
+291
+00:18:38,450 --> 00:18:40,820
+¿Por qué abandonaste a tu princesa?
+
+292
+00:18:41,040 --> 00:18:42,240
+Es que nos...
+
+293
+00:18:43,330 --> 00:18:46,320
+Me hicieron atravesar un portal
+hacia Nilfgaard...
+
+294
+00:18:46,750 --> 00:18:49,400
+...me mantuvieron prisionero
+varios días.
+
+295
+00:18:49,540 --> 00:18:51,070
+¿Y cómo escapaste?
+
+296
+00:18:51,790 --> 00:18:52,900
+Geralt.
+
+297
+00:18:53,370 --> 00:18:55,400
+Me envió a buscar a Ciri.
+
+298
+00:18:55,910 --> 00:18:57,070
+¿El brujo?
+
+299
+00:18:57,500 --> 00:19:00,320
+Entrenado para pelear y unido a Ciri.
+
+300
+00:19:01,080 --> 00:19:04,950
+¿Y te rescató a ti
+para que tú la rescataras a ella?
+
+301
+00:19:05,580 --> 00:19:07,700
+- ¿Solo?
+- Pregúntale tú mismo.
+
+302
+00:19:09,500 --> 00:19:13,860
+Está en una aldea
+pasando esta espesura de árboles.
+
+303
+00:19:14,750 --> 00:19:16,450
+Debemos encontrarlo.
+
+304
+00:19:16,910 --> 00:19:18,240
+Para estar a salvo.
+
+305
+00:19:20,160 --> 00:19:22,630
+- Hay algo raro, Ciri.
+- El agua de allá...
+
+306
+00:19:22,700 --> 00:19:26,150
+Ya se pasó el efecto,
+lo que significa que estoy lúcido.
+
+307
+00:19:26,450 --> 00:19:29,220
+¿Sabes qué les pasa
+a quienes escapan de un asedio?
+
+308
+00:19:29,290 --> 00:19:31,010
+No desaparecen así como así.
+
+309
+00:19:31,080 --> 00:19:33,360
+Los atrapan y los convierten.
+
+310
+00:19:34,120 --> 00:19:38,570
+Recuerda lo que dijo la reina dríada:
+"Haz las preguntas correctas".
+
+311
+00:19:38,790 --> 00:19:42,150
+No es solo tu vida, Ciri.
+Es la mía también.
+
+312
+00:19:43,580 --> 00:19:46,450
+Princesa, lo había olvidado.
+
+313
+00:19:46,950 --> 00:19:48,400
+Le traje esto.
+
+314
+00:19:49,950 --> 00:19:51,820
+La banda de mi abuela.
+
+315
+00:20:19,950 --> 00:20:21,740
+¿Alguien vio a mi escolta?
+
+316
+00:20:24,290 --> 00:20:25,990
+<i>¡Por mis testículos!</i>
+
+317
+00:20:34,500 --> 00:20:37,860
+¿Quién degüella a alguien
+que está evacuando los intestinos?
+
+318
+00:20:38,700 --> 00:20:40,820
+¿Ya no hay nada sagrado?
+
+319
+00:20:42,790 --> 00:20:43,950
+¡Mierda!
+
+320
+00:20:48,830 --> 00:20:52,650
+Estamos a medio camino,
+y se está poniendo peligroso.
+
+321
+00:20:52,790 --> 00:20:55,950
+- No podemos seguir así.
+- La guerrera tiene razón.
+
+322
+00:20:56,040 --> 00:21:00,030
+Alguien mató a ese tonto arrogante,
+y no fue ninguno de nosotros.
+
+323
+00:21:00,200 --> 00:21:02,280
+Alguien está jugando sucio.
+
+324
+00:21:03,160 --> 00:21:05,470
+Nuestra gente excavaba estas montañas.
+
+325
+00:21:05,540 --> 00:21:08,220
+Conocemos un atajo
+que nos ahorrará medio día.
+
+326
+00:21:08,290 --> 00:21:10,340
+Que los Sableros tomen el camino largo.
+
+327
+00:21:10,410 --> 00:21:13,340
+Le echaremos mano al tesoro
+antes de que pisen la cueva.
+
+328
+00:21:13,410 --> 00:21:16,090
+Cuidémonos la espalda
+hasta el próximo pico.
+
+329
+00:21:16,160 --> 00:21:18,340
+Luego, cada uno va por su lado.
+
+330
+00:21:18,410 --> 00:21:19,410
+¿Qué dices?
+
+331
+00:21:19,480 --> 00:21:20,610
+Andando.
+
+332
+00:21:24,040 --> 00:21:26,110
+Ve. Luego los alcanzo.
+
+333
+00:21:36,370 --> 00:21:37,740
+¿Tú mataste a Eyck?
+
+334
+00:21:38,040 --> 00:21:39,200
+¿Si lo maté?
+
+335
+00:21:39,370 --> 00:21:41,030
+Eso sería poco refinado.
+
+336
+00:21:41,200 --> 00:21:44,490
+Tú eres el que no le quitó el ojo
+desde que llegamos.
+
+337
+00:21:46,290 --> 00:21:47,490
+Fueron los Sableros.
+
+338
+00:21:48,910 --> 00:21:51,090
+El maldito de Boholt
+mató a mi escolta...
+
+339
+00:21:51,160 --> 00:21:54,400
+...antes de que llevara a cabo
+lo que necesitaba de él.
+
+340
+00:21:54,660 --> 00:21:56,070
+¿Y qué necesitabas?
+
+341
+00:21:57,160 --> 00:21:58,490
+¡Yen!
+
+342
+00:21:59,830 --> 00:22:01,740
+¿Qué estás haciendo aquí?
+
+343
+00:22:02,660 --> 00:22:04,200
+Vine por el dragón.
+
+344
+00:22:07,950 --> 00:22:11,030
+Se dice que poseen
+ciertas propiedades curativas.
+
+345
+00:22:12,200 --> 00:22:16,610
+Creí que la transformación
+había curado todas tus partes.
+
+346
+00:22:17,290 --> 00:22:19,320
+A costa de perder otras, sí.
+
+347
+00:22:20,330 --> 00:22:21,740
+Yennefer...
+
+348
+00:22:22,660 --> 00:22:25,380
+No me digas que viajaste hasta aquí...
+
+349
+00:22:25,450 --> 00:22:28,550
+...por el cuento de que
+el corazón de dragón cura la fertilidad.
+
+350
+00:22:28,620 --> 00:22:30,490
+- ¡No son cuentos!
+- Que sí.
+
+351
+00:22:30,580 --> 00:22:31,880
+Además, ¿en serio?
+
+352
+00:22:31,950 --> 00:22:33,970
+¿Tú? ¿Madre?
+
+353
+00:22:34,040 --> 00:22:35,700
+¿Crees que no es lo mío?
+
+354
+00:22:37,370 --> 00:22:38,650
+Definitivamente.
+
+355
+00:22:43,580 --> 00:22:44,740
+Yen...
+
+356
+00:22:46,620 --> 00:22:49,590
+¿Un niño? ¿Para qué querrías un niño?
+
+357
+00:22:49,660 --> 00:22:52,820
+Me quitaron la posibilidad.
+Quiero recuperarla.
+
+358
+00:22:55,120 --> 00:22:57,450
+Pero no espero que tú lo entiendas.
+
+359
+00:22:57,620 --> 00:23:00,030
+Yo no elegí ser brujo.
+
+360
+00:23:02,120 --> 00:23:03,280
+Escucha...
+
+361
+00:23:04,830 --> 00:23:06,490
+...la gente que nos creó...
+
+362
+00:23:06,910 --> 00:23:09,530
+...nos hizo estériles
+por muchas razones.
+
+363
+00:23:10,080 --> 00:23:11,880
+Una de las más amables...
+
+364
+00:23:11,950 --> 00:23:15,450
+...es que este estilo de vida
+no es adecuado para un niño.
+
+365
+00:23:19,250 --> 00:23:20,320
+¿Qué?
+
+366
+00:23:20,870 --> 00:23:24,430
+¿Ibas a invocar el Caos
+entre darle de comer y hacerlo dormir?
+
+367
+00:23:24,500 --> 00:23:27,110
+- No seas condescendiente.
+- No lo soy.
+
+368
+00:23:27,500 --> 00:23:29,990
+Yo reflexioné al respecto. Bastante.
+
+369
+00:23:30,250 --> 00:23:34,470
+¡Prefiero usar a mi Niño de la Sorpresa
+de carnada que someterlo a esta vida!
+
+370
+00:23:34,540 --> 00:23:36,070
+¿Qué dijiste?
+
+371
+00:23:38,660 --> 00:23:39,900
+¡Mierda!
+
+372
+00:23:41,160 --> 00:23:43,240
+¿Tienes un Niño de la Sorpresa?
+
+373
+00:23:46,580 --> 00:23:48,090
+Pero qué paradójico.
+
+374
+00:23:48,160 --> 00:23:51,610
+Me sermoneas sobre
+curas inventadas para tener hijos...
+
+375
+00:23:51,910 --> 00:23:54,740
+...pero tú engañas al destino
+y te robas uno.
+
+376
+00:23:55,330 --> 00:23:57,610
+Cada vez que te tengo cerca...
+
+377
+00:23:58,750 --> 00:24:02,070
+...digo más en cinco minutos
+de lo que digo en semanas.
+
+378
+00:24:03,700 --> 00:24:05,200
+Y siempre me arrepiento.
+
+379
+00:24:13,910 --> 00:24:15,400
+Los enanos...
+
+380
+00:24:16,250 --> 00:24:18,650
+...nos guiarán por un atajo.
+
+381
+00:24:19,540 --> 00:24:20,860
+Ven con nosotros.
+
+382
+00:24:21,580 --> 00:24:23,010
+Puedo cuidarme sola.
+
+383
+00:24:23,080 --> 00:24:25,110
+No siempre tienes por qué.
+
+384
+00:24:30,160 --> 00:24:31,530
+Ven conmigo.
+
+385
+00:24:42,290 --> 00:24:44,320
+Nos está esperando.
+
+386
+00:24:49,200 --> 00:24:51,820
+¿Alguna vez
+dejaste de extrañar Skellige?
+
+387
+00:24:53,370 --> 00:24:54,400
+¿Qué?
+
+388
+00:24:54,580 --> 00:24:57,950
+Es que siento
+que nunca dejaré de extrañar Cintra...
+
+389
+00:24:58,450 --> 00:25:02,740
+...pero tú dejaste tu hogar
+para venir a criarme, ¿cómo lo sentiste?
+
+390
+00:25:03,370 --> 00:25:04,400
+La verdad...
+
+391
+00:25:06,040 --> 00:25:07,780
+...es que extrañaba mucho.
+
+392
+00:25:10,870 --> 00:25:12,450
+¿Recuerdas que íbamos?
+
+393
+00:25:12,870 --> 00:25:15,150
+¿Y patinábamos con Crach an Craite?
+
+394
+00:25:15,750 --> 00:25:18,860
+Decía que me dejaba ganar,
+pero yo era más rápida.
+
+395
+00:25:19,790 --> 00:25:22,780
+- ¿También extrañabas el frío?
+- Sí, mucho.
+
+396
+00:25:24,040 --> 00:25:26,010
+Pero ¡tienes artritis!
+
+397
+00:25:26,080 --> 00:25:27,720
+¡Odias el frío!
+
+398
+00:25:27,790 --> 00:25:29,880
+Decías que Skellige
+era tu lugar de origen...
+
+399
+00:25:29,950 --> 00:25:32,470
+...pero que Cintra era tu hogar,
+con nosotros.
+
+400
+00:25:32,540 --> 00:25:34,010
+- ¡Oye!
+- Ya me hartaste.
+
+401
+00:25:34,080 --> 00:25:37,840
+- ¡Myszowor, basta!
+- ¡Nuestro nombre no es Myszowor!
+
+402
+00:25:37,910 --> 00:25:40,070
+Matamos a Myszowor...
+
+403
+00:25:40,370 --> 00:25:44,030
+...y tomamos su repugnante forma
+para encontrarte.
+
+404
+00:25:57,160 --> 00:26:00,150
+De todos modos, lo preferimos así.
+
+405
+00:26:23,120 --> 00:26:25,340
+¿Adónde nos llevas? ¿Quién la quiere?
+
+406
+00:26:25,410 --> 00:26:26,970
+El hombre del casco alado.
+
+407
+00:26:27,040 --> 00:26:28,470
+¿Y por qué tanto empeño?
+
+408
+00:26:28,540 --> 00:26:32,150
+Soy especial. No sé cómo ni por qué,
+pero hay algo en mí.
+
+409
+00:26:32,540 --> 00:26:34,490
+- ¡Mátalo!
+- ¿Qué?
+
+410
+00:26:35,370 --> 00:26:36,380
+Yo lo haré.
+
+411
+00:26:36,450 --> 00:26:37,950
+¡Espera, no!
+
+412
+00:26:57,700 --> 00:27:00,130
+Cuidado con las piedras, ¿oyeron?
+
+413
+00:27:00,200 --> 00:27:02,950
+Pueden ser golpeados por una
+si hay viento.
+
+414
+00:27:03,200 --> 00:27:04,360
+Y parece...
+
+415
+00:27:05,000 --> 00:27:06,360
+...que sí hay.
+
+416
+00:27:12,040 --> 00:27:13,070
+Llegamos.
+
+417
+00:27:13,580 --> 00:27:15,360
+Tienes razón, es un atajo...
+
+418
+00:27:15,620 --> 00:27:16,680
+...a la muerte.
+
+419
+00:27:16,750 --> 00:27:18,590
+¿Quieren vencer a los Sableros?
+
+420
+00:27:18,660 --> 00:27:20,130
+Deberíamos regresar.
+
+421
+00:27:20,200 --> 00:27:22,510
+No. Estamos muy cerca.
+
+422
+00:27:22,580 --> 00:27:23,840
+¿Cómo lo sabes?
+
+423
+00:27:23,910 --> 00:27:25,260
+La ruta está perfecta.
+
+424
+00:27:25,330 --> 00:27:26,820
+Para enanos.
+
+425
+00:27:27,080 --> 00:27:29,240
+Sin quejas, te las arreglarás.
+
+426
+00:27:30,790 --> 00:27:32,780
+Mientras no mires hacia abajo.
+
+427
+00:27:37,160 --> 00:27:39,570
+- Nos vemos del otro lado.
+- Sí.
+
+428
+00:27:45,120 --> 00:27:46,530
+¿Primero las damas?
+
+429
+00:27:46,950 --> 00:27:48,360
+Bueno, sí.
+
+430
+00:27:48,870 --> 00:27:53,150
+Vamos, Jaskier. Tú puedes.
+
+431
+00:27:57,370 --> 00:27:58,400
+¡Cuidado!
+
+432
+00:28:02,790 --> 00:28:03,900
+¡Mierda!
+
+433
+00:28:06,790 --> 00:28:10,400
+No es buena señal. Para nada buena.
+
+434
+00:29:04,370 --> 00:29:06,530
+- ¡Geralt!
+- ¡Retrocedan!
+
+435
+00:29:09,080 --> 00:29:12,110
+Sir Brujo, nos salvarás...
+
+436
+00:29:12,370 --> 00:29:14,570
+...pero, primero, debes soltarnos.
+
+437
+00:29:14,950 --> 00:29:16,150
+No.
+
+438
+00:29:19,620 --> 00:29:22,530
+¡Geralt! ¡Las tablas no van a aguantar!
+
+439
+00:29:24,000 --> 00:29:25,280
+Gracias.
+
+440
+00:30:28,500 --> 00:30:30,070
+Hiciste lo que pudiste.
+
+441
+00:30:31,450 --> 00:30:33,450
+No había nada más que hacer.
+
+442
+00:30:40,120 --> 00:30:42,030
+¿Por qué no nos vamos mañana?
+
+443
+00:30:43,500 --> 00:30:46,630
+Claro, si me das otra oportunidad
+para demostrar...
+
+444
+00:30:46,700 --> 00:30:49,030
+...que soy un digno compañero de viaje.
+
+445
+00:30:51,410 --> 00:30:53,070
+Podríamos ir a la costa.
+
+446
+00:30:54,000 --> 00:30:55,490
+Alejarnos un tiempo.
+
+447
+00:30:59,160 --> 00:31:01,490
+Suena a algo que diría Borch, ¿no?
+
+448
+00:31:03,660 --> 00:31:05,360
+La vida es muy corta.
+
+449
+00:31:07,160 --> 00:31:08,900
+Haz lo que te plazca.
+
+450
+00:31:10,160 --> 00:31:11,530
+Mientras puedas.
+
+451
+00:31:13,080 --> 00:31:15,530
+¿Estás componiendo tu próxima canción?
+
+452
+00:31:17,080 --> 00:31:18,780
+No, solo intento...
+
+453
+00:31:21,290 --> 00:31:23,490
+...averiguar qué es lo que me place.
+
+454
+00:31:47,750 --> 00:31:49,650
+Qué sencilla.
+
+455
+00:31:54,620 --> 00:31:55,860
+¿Te gusta?
+
+456
+00:32:10,080 --> 00:32:12,200
+¿No es esto para lo que viniste?
+
+457
+00:32:15,200 --> 00:32:16,860
+Vine por ti.
+
+458
+00:32:21,870 --> 00:32:24,490
+Temía que la montaña te llevara.
+
+459
+00:32:25,540 --> 00:32:28,110
+Ahora temo
+que se haya llevado tus sentidos.
+
+460
+00:32:28,450 --> 00:32:30,200
+Solo mis sinsentidos.
+
+461
+00:32:31,790 --> 00:32:33,780
+Me gustan tus sinsentidos.
+
+462
+00:32:41,540 --> 00:32:42,990
+Ese aroma.
+
+463
+00:32:45,330 --> 00:32:48,530
+<i>El momento que más miedo me da</i>
+<i>cada vez que te vas...</i>
+
+464
+00:32:50,500 --> 00:32:52,400
+<i>...es cuando se desvanece.</i>
+
+465
+00:32:57,330 --> 00:32:59,360
+Cuando ya no queda nada de ti.
+
+466
+00:33:01,290 --> 00:33:02,950
+Tú te fuiste primero.
+
+467
+00:33:04,160 --> 00:33:05,450
+En Rinde.
+
+468
+00:33:06,750 --> 00:33:09,860
+<i>Desperté en esa casa destruida</i>
+<i>y tú ya no estabas.</i>
+
+469
+00:33:15,370 --> 00:33:16,650
+Perdóname.
+
+470
+00:34:08,120 --> 00:34:09,570
+¿Sientes dolor?
+
+471
+00:34:10,040 --> 00:34:11,860
+No hablo de dolor físico.
+
+472
+00:34:13,040 --> 00:34:16,030
+Dicen que los brujos
+no sienten las emociones humanas.
+
+473
+00:34:18,160 --> 00:34:21,820
+Dicen lo que sea para
+despreciar a los de nuestra especie.
+
+474
+00:34:23,830 --> 00:34:25,240
+¿Te arrepientes?
+
+475
+00:34:26,000 --> 00:34:27,360
+¿De ser brujo?
+
+476
+00:34:30,410 --> 00:34:33,360
+Cuesta arrepentirse de algo
+que uno no eligió.
+
+477
+00:34:34,080 --> 00:34:36,360
+Pero, si te hubieran dado a elegir...
+
+478
+00:34:37,500 --> 00:34:39,400
+...¿qué hubieras sido?
+
+479
+00:34:41,200 --> 00:34:42,450
+¿Granjero?
+
+480
+00:34:44,830 --> 00:34:46,110
+¿Cuidador de caballos?
+
+481
+00:34:48,540 --> 00:34:50,700
+Los caballos son buena compañía.
+
+482
+00:34:52,040 --> 00:34:54,900
+Pero, si alguna vez soñé con ser...
+
+483
+00:34:56,200 --> 00:34:59,200
+...algo diferente de lo que soy...
+
+484
+00:35:02,250 --> 00:35:04,320
+...fue hace tanto que ya no recuerdo.
+
+485
+00:35:06,160 --> 00:35:08,200
+¿Tu sueño era ser hechicera?
+
+486
+00:35:10,120 --> 00:35:12,450
+Tampoco tuve mucha alternativa.
+
+487
+00:35:18,620 --> 00:35:20,610
+¿Siempre quisiste ser madre?
+
+488
+00:35:25,910 --> 00:35:27,700
+Mi sueño era...
+
+489
+00:35:29,000 --> 00:35:31,820
+...ser importante para alguien.
+
+490
+00:35:32,790 --> 00:35:34,030
+Algún día.
+
+491
+00:35:38,410 --> 00:35:40,200
+¿Te aburro?
+
+492
+00:35:42,040 --> 00:35:43,400
+Para nada.
+
+493
+00:35:46,080 --> 00:35:47,490
+Antes de conocernos...
+
+494
+00:35:48,120 --> 00:35:49,820
+...los días eran apacibles...
+
+495
+00:35:50,700 --> 00:35:52,780
+...y las noches eran intranquilas.
+
+496
+00:35:54,700 --> 00:35:56,200
+Pero ahora...
+
+497
+00:36:00,540 --> 00:36:02,700
+...eres importante para mí.
+
+498
+00:37:23,120 --> 00:37:24,450
+Buenos días.
+
+499
+00:37:37,200 --> 00:37:41,320
+Si apuramos el paso, podemos regresar
+al Dragón Pensativo antes del atardecer.
+
+500
+00:37:41,620 --> 00:37:44,240
+¿Qué dices?
+Ya casi estamos en la cumbre.
+
+501
+00:37:47,200 --> 00:37:49,360
+Vine por una razón, Geralt.
+
+502
+00:37:49,700 --> 00:37:51,800
+No me iré hasta matar a ese dragón.
+
+503
+00:37:51,870 --> 00:37:53,860
+¡Yen, no!
+
+504
+00:37:54,160 --> 00:37:56,650
+- ¿Qué resolverá eso?
+- Todo.
+
+505
+00:37:58,830 --> 00:37:59,860
+Espera.
+
+506
+00:38:04,160 --> 00:38:06,360
+¿Dónde están esos malditos enanos?
+
+507
+00:38:08,410 --> 00:38:09,450
+¡Yen!
+
+508
+00:38:35,040 --> 00:38:36,110
+No grites.
+
+509
+00:38:38,330 --> 00:38:40,490
+Entiendo por qué tienes miedo.
+
+510
+00:38:43,750 --> 00:38:47,320
+Si hubiera podido traerte de otra forma,
+lo habría hecho.
+
+511
+00:38:51,910 --> 00:38:54,820
+Nunca fue mi intención atormentarte,
+princesa.
+
+512
+00:38:56,000 --> 00:38:57,400
+Lo único que quiero...
+
+513
+00:38:58,330 --> 00:39:02,200
+...lo único que siempre quise
+es ayudarte a cumplir tu destino.
+
+514
+00:39:03,290 --> 00:39:05,820
+La Llama Blanca nos unió.
+
+515
+00:39:07,580 --> 00:39:09,820
+Eres la clave de todo, Cirilla.
+
+516
+00:39:17,620 --> 00:39:19,240
+Debes tener hambre.
+
+517
+00:39:21,580 --> 00:39:23,320
+Te traeré algo de comer.
+
+518
+00:39:53,660 --> 00:39:55,070
+¿Qué hiciste?
+
+519
+00:39:55,200 --> 00:39:56,800
+Nos mentiste.
+
+520
+00:39:56,870 --> 00:40:00,820
+No nos dijiste qué era ella
+ni de qué era capaz.
+
+521
+00:40:01,660 --> 00:40:03,490
+¡Maldito idiota!
+
+522
+00:40:17,790 --> 00:40:19,530
+Conocemos bien tus trucos.
+
+523
+00:40:37,250 --> 00:40:41,680
+¿De veras te crees todos esos delirios
+que tienes sobre la profecía?
+
+524
+00:40:41,750 --> 00:40:43,450
+¡Creemos que estás loco!
+
+525
+00:40:54,870 --> 00:40:57,070
+¡Eres una abominación!
+
+526
+00:40:57,410 --> 00:40:59,070
+¡Te destruiré!
+
+527
+00:41:23,120 --> 00:41:25,360
+Sigues aquí, ¿no es así?
+
+528
+00:42:39,290 --> 00:42:40,950
+¡Ni un paso más!
+
+529
+00:42:42,870 --> 00:42:44,070
+¿Qué carajo?
+
+530
+00:42:45,500 --> 00:42:47,130
+¡Atrás!
+
+531
+00:42:47,200 --> 00:42:49,240
+Debieron quedarse muertas.
+
+532
+00:42:50,290 --> 00:42:51,570
+¡Basta!
+
+533
+00:42:56,700 --> 00:42:57,780
+¿Cómo...?
+
+534
+00:43:01,540 --> 00:43:02,740
+Está muerto.
+
+535
+00:43:04,160 --> 00:43:05,650
+Está muerta.
+
+536
+00:43:29,620 --> 00:43:32,650
+Sir Brujo y su hechicera.
+
+537
+00:43:34,660 --> 00:43:36,150
+Hola de nuevo.
+
+538
+00:43:42,660 --> 00:43:43,990
+Imposible.
+
+539
+00:43:44,410 --> 00:43:46,570
+Cuando hirieron a la dragona...
+
+540
+00:43:46,950 --> 00:43:49,260
+...Villentretenmerth oyó sus alaridos.
+
+541
+00:43:49,330 --> 00:43:51,400
+Pero no podía mover el huevo...
+
+542
+00:43:51,620 --> 00:43:53,590
+...o moriría la vida en su interior.
+
+543
+00:43:53,660 --> 00:43:55,860
+Por eso el dragón atacaba.
+
+544
+00:43:57,500 --> 00:43:59,240
+Protegía a su cría.
+
+545
+00:44:01,370 --> 00:44:03,700
+Luego, supimos de la cacería del rey...
+
+546
+00:44:04,000 --> 00:44:07,090
+...y entendimos
+que debíamos estar cerca del enemigo.
+
+547
+00:44:07,160 --> 00:44:09,200
+Así que te busqué a ti...
+
+548
+00:44:09,500 --> 00:44:11,320
+...el brujo de pelo blanco.
+
+549
+00:44:11,500 --> 00:44:15,740
+El caballero que aprendió
+a salvar dragones en vez de a matarlos.
+
+550
+00:44:20,330 --> 00:44:22,680
+Vamos a joder a toda la familia.
+
+551
+00:44:22,750 --> 00:44:24,530
+¡Maten a ese dragón!
+
+552
+00:44:28,660 --> 00:44:30,260
+¡Mátenlos!
+
+553
+00:44:30,330 --> 00:44:31,610
+¡Boholt es mío!
+
+554
+00:44:52,750 --> 00:44:54,240
+¡Aard, ahora!
+
+555
+00:45:08,290 --> 00:45:10,200
+Me temo que vienen más.
+
+556
+00:45:11,330 --> 00:45:13,700
+¡Vayan! Yo protegeré el huevo.
+
+557
+00:45:18,620 --> 00:45:19,780
+¡A ellos!
+
+558
+00:46:09,500 --> 00:46:12,400
+Al fin
+me daré el gusto de matarte, brujo.
+
+559
+00:46:26,700 --> 00:46:28,860
+¡Ni en tus sueños!
+
+560
+00:46:52,160 --> 00:46:55,150
+¡Qué pena
+que no me veas romper ese huevo!
+
+561
+00:47:37,500 --> 00:47:38,700
+¿Geralt?
+
+562
+00:47:40,410 --> 00:47:41,610
+¿Enanos?
+
+563
+00:47:43,080 --> 00:47:44,240
+Cielos.
+
+564
+00:47:46,040 --> 00:47:47,360
+¿De qué me perdí?
+
+565
+00:47:49,250 --> 00:47:50,340
+¿Chicos?
+
+566
+00:47:50,410 --> 00:47:52,680
+¿Estamos haciendo cola para algo?
+
+567
+00:47:52,750 --> 00:47:53,950
+¿Qué pasa?
+
+568
+00:47:54,830 --> 00:47:56,030
+No...
+
+569
+00:48:02,700 --> 00:48:04,110
+¡Mierda!
+
+570
+00:48:05,200 --> 00:48:06,700
+¿Qué pasó?
+
+571
+00:48:08,500 --> 00:48:09,650
+¡Dios mío!
+
+572
+00:48:10,000 --> 00:48:13,490
+Maldita sea. ¿Qué mierda hacen aquí?
+
+573
+00:48:20,870 --> 00:48:24,740
+¡Vaya día de mierda!
+Nos perdimos toda la puta diversión.
+
+574
+00:48:30,910 --> 00:48:32,340
+Si no hacen preguntas...
+
+575
+00:48:32,410 --> 00:48:36,110
+...les ofrezco estos a cambio
+para que se los lleven al rey.
+
+576
+00:48:38,200 --> 00:48:39,530
+¿Dientes de dragón?
+
+577
+00:48:40,080 --> 00:48:43,050
+Nunca le miro los dientes
+a dragón regalado...
+
+578
+00:48:43,120 --> 00:48:46,150
+...pero quizá no alcance
+para cobrar la recompensa.
+
+579
+00:48:46,830 --> 00:48:48,930
+Dile al rey que, si no lo convence...
+
+580
+00:48:49,000 --> 00:48:52,900
+...el cadáver del dragón
+caerá en medio de su boda real.
+
+581
+00:48:53,120 --> 00:48:54,450
+Sin cargo.
+
+582
+00:49:45,580 --> 00:49:48,590
+Me atrapó. Va a volver, Dara.
+Tenemos que apurarnos.
+
+583
+00:49:49,700 --> 00:49:52,340
+De habernos quedado en Brokilón,
+estaríamos bien.
+
+584
+00:49:52,410 --> 00:49:55,280
+- ¿Cómo iba a saberlo?
+- Lo habíamos acordado.
+
+585
+00:49:56,790 --> 00:49:59,450
+Si voy contigo, también moriré pronto.
+
+586
+00:49:59,950 --> 00:50:01,820
+Dices que eres muy especial.
+
+587
+00:50:02,080 --> 00:50:05,010
+Lo que quieres decir
+es que eres igual a Calanthe.
+
+588
+00:50:05,080 --> 00:50:07,900
+¡Traes terror y muerte
+dondequiera que estés!
+
+589
+00:50:10,290 --> 00:50:12,200
+Hago lo mejor que puedo.
+
+590
+00:50:14,370 --> 00:50:16,760
+Me cansé de disculparme y de todo esto.
+
+591
+00:50:16,830 --> 00:50:18,400
+Tengo que seguir.
+
+592
+00:50:24,540 --> 00:50:26,360
+Tienes razón, princesa.
+
+593
+00:50:29,200 --> 00:50:30,590
+Búscate otra familia...
+
+594
+00:50:30,660 --> 00:50:32,820
+...porque ya no puedo acompañarte.
+
+595
+00:50:55,910 --> 00:50:58,400
+Esta es mi última primera vez en algo.
+
+596
+00:51:00,080 --> 00:51:01,360
+Un hijo.
+
+597
+00:51:02,790 --> 00:51:04,820
+Este tesoro, este legado...
+
+598
+00:51:05,040 --> 00:51:06,530
+...debe perdurar.
+
+599
+00:51:07,250 --> 00:51:09,700
+No hay más razones para continuar.
+
+600
+00:51:10,750 --> 00:51:12,650
+Gracias por protegerlo.
+
+601
+00:51:13,700 --> 00:51:16,400
+Y gracias, Yennefer de Vengerberg.
+
+602
+00:51:17,120 --> 00:51:20,360
+Entiendo por qué Geralt
+no quería perderte.
+
+603
+00:51:21,540 --> 00:51:22,740
+¿Qué significa eso?
+
+604
+00:51:31,950 --> 00:51:33,240
+En Rinde.
+
+605
+00:51:35,540 --> 00:51:36,820
+El djinn.
+
+606
+00:51:38,910 --> 00:51:41,280
+Por eso no me libro de ti.
+
+607
+00:51:43,160 --> 00:51:45,150
+Y por eso me siento así.
+
+608
+00:51:45,500 --> 00:51:48,110
+- No.
+- No es por nada real...
+
+609
+00:51:48,790 --> 00:51:50,200
+...o verdadero.
+
+610
+00:51:52,250 --> 00:51:53,700
+Pediste un deseo.
+
+611
+00:51:54,950 --> 00:51:56,200
+Es magia.
+
+612
+00:51:56,790 --> 00:51:58,990
+- Es real, Yen.
+- ¿Cómo saberlo?
+
+613
+00:52:02,330 --> 00:52:05,570
+Ignorar la libertad de otros
+se volvió propio de ti.
+
+614
+00:52:05,870 --> 00:52:07,720
+Pedí ese deseo para salvarte.
+
+615
+00:52:07,790 --> 00:52:08,880
+¡No te necesitaba!
+
+616
+00:52:08,950 --> 00:52:10,360
+¡Claro que sí!
+
+617
+00:52:10,750 --> 00:52:12,130
+¿Y tú qué?
+
+618
+00:52:12,200 --> 00:52:15,880
+Vas de aquí para allá como un tornado
+causando estragos...
+
+619
+00:52:15,950 --> 00:52:17,150
+...¿y para qué?
+
+620
+00:52:17,500 --> 00:52:18,950
+¿Para tener un bebé?
+
+621
+00:52:19,660 --> 00:52:22,760
+Un niño no mejorará
+tu ego de cristal, Yen.
+
+622
+00:52:22,830 --> 00:52:24,220
+Aceptaré tus consejos...
+
+623
+00:52:24,290 --> 00:52:28,050
+...cuando te responsabilices por
+el niño que uniste a ti y abandonaste.
+
+624
+00:52:28,120 --> 00:52:29,530
+Suficiente.
+
+625
+00:52:34,160 --> 00:52:38,110
+Les ahorraré mucho sufrimiento
+con un poco de dolor ahora.
+
+626
+00:52:39,410 --> 00:52:42,280
+La hechicera nunca recuperará su útero.
+
+627
+00:52:43,910 --> 00:52:46,570
+Y, aunque no querías perderla, Geralt...
+
+628
+00:52:47,620 --> 00:52:48,820
+...la perderás.
+
+629
+00:52:53,540 --> 00:52:54,820
+Ya me perdió.
+
+630
+00:53:11,700 --> 00:53:14,240
+Querías mostrarme lo que me faltaba.
+
+631
+00:53:16,290 --> 00:53:17,570
+Ahí va.
+
+632
+00:53:19,790 --> 00:53:22,360
+Lo que te falta sigue ahí afuera.
+
+633
+00:53:22,870 --> 00:53:24,150
+Tu legado.
+
+634
+00:53:24,790 --> 00:53:27,360
+Tu destino. Lo sé.
+
+635
+00:53:28,200 --> 00:53:29,610
+Y tú también.
+
+636
+00:53:44,750 --> 00:53:46,030
+¡Qué día!
+
+637
+00:53:47,040 --> 00:53:49,610
+- Me imagino que...
+- ¡Maldición, Jaskier!
+
+638
+00:53:50,370 --> 00:53:54,430
+¿Por qué, cada vez que me hundo
+en mierda, tú estás ahí con una pala?
+
+639
+00:53:54,500 --> 00:53:55,500
+Eso no es justo.
+
+640
+00:53:55,570 --> 00:53:59,070
+¡El Niño de la Sorpresa, el djinn, todo!
+
+641
+00:53:59,200 --> 00:54:04,900
+Si la vida me concediera un milagro,
+sería apartarte de mi camino.
+
+642
+00:54:13,040 --> 00:54:14,070
+Claro.
+
+643
+00:54:17,830 --> 00:54:18,900
+Muy bien.
+
+644
+00:54:20,790 --> 00:54:24,320
+Pediré... que me cuenten
+el resto de la historia.
+
+645
+00:54:29,370 --> 00:54:30,780
+Nos vemos, Geralt.
+
+646
+00:55:00,580 --> 00:55:02,490
+Están inspeccionando la zona.
+
+647
+00:55:03,500 --> 00:55:05,070
+No lo encontraron.
+
+648
+00:55:05,410 --> 00:55:06,700
+Ni a la chica.
+
+649
+00:55:12,540 --> 00:55:14,880
+Una simple prueba de plata
+hubiera bastado.
+
+650
+00:55:14,950 --> 00:55:16,820
+Tenía el acero listo.
+
+651
+00:55:18,250 --> 00:55:21,400
+Podemos traer más soldados
+para que sigan buscando.
+
+652
+00:55:22,200 --> 00:55:23,650
+No pararemos.
+
+653
+00:55:26,200 --> 00:55:29,930
+No hay que confundir los espejismos
+con la realidad.
+
+654
+00:55:30,000 --> 00:55:32,110
+Ahórrate la lección, Fringilla.
+
+655
+00:55:42,700 --> 00:55:44,860
+Te rebelaste contra el usurpador.
+
+656
+00:55:47,290 --> 00:55:50,400
+Ayudaste a liberar a nuestra gente
+de sus cadenas.
+
+657
+00:55:51,910 --> 00:55:54,780
+Yo reconocí la Llama Blanca en ti.
+
+658
+00:55:57,160 --> 00:55:58,530
+Te moldeó.
+
+659
+00:55:59,500 --> 00:56:02,110
+Te consagró.
+
+660
+00:56:04,200 --> 00:56:06,400
+Arde en tu interior, Cahir.
+
+661
+00:56:08,450 --> 00:56:10,070
+Ella es la clave.
+
+662
+00:56:10,950 --> 00:56:12,070
+Pero tú...
+
+663
+00:56:13,250 --> 00:56:15,320
+...tú eres el que manda.
+
+664
+00:56:17,290 --> 00:56:18,700
+No desesperes.
+
+665
+00:56:19,160 --> 00:56:20,570
+La encontraremos.
+
+666
+00:56:20,790 --> 00:56:23,510
+Y diseminaremos su supremacía
+por cada reino...
+
+667
+00:56:23,580 --> 00:56:26,990
+...ya sea que lo merezcan o no.
+
+668
+00:56:30,620 --> 00:56:32,200
+Reúne a los hombres.
+
+669
+00:56:35,370 --> 00:56:37,200
+No podemos fallarle a él.
+
+670
+00:56:47,790 --> 00:56:51,150
+Se acerca el tiempo
+de la espada y el hacha.
+
+671
+00:56:57,910 --> 00:57:00,930
+<i>♪ Dicen que la justicia
+Tiene rostro de mujer ♪</i>
+
+672
+00:57:01,000 --> 00:57:03,680
+<i>♪ Pero el amor de esta dama
+Es injusto por demás ♪</i>
+
+673
+00:57:03,750 --> 00:57:05,300
+<i>♪ Se roba toda mi cordura ♪</i>
+
+674
+00:57:05,370 --> 00:57:07,800
+<i>♪ Traiciona la lógica pura ♪</i>
+
+675
+00:57:07,870 --> 00:57:11,070
+<i>♪ Con tan solo una mirada ♪</i>
+
+676
+00:57:11,330 --> 00:57:14,070
+<i>♪ Una furiosa tormenta desata ♪</i>
+
+677
+00:57:14,620 --> 00:57:16,970
+<i>♪ De angustia, lujuria y anhelo ♪</i>
+
+678
+00:57:17,040 --> 00:57:18,760
+<i>♪ Y eso nunca trae nada bueno ♪</i>
+
+679
+00:57:18,830 --> 00:57:20,380
+<i>♪ No hay cómo ganar con ella ♪</i>
+
+680
+00:57:20,450 --> 00:57:24,200
+<i>♪ Dime, amor, dime, amor
+¿Te parece justo eso? ♪</i>
+
+681
+00:57:24,500 --> 00:57:26,010
+<i>♪ Pero la historia va así ♪</i>
+
+682
+00:57:26,080 --> 00:57:28,430
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+683
+00:57:28,500 --> 00:57:30,650
+<i>♪ Su beso carmesí ♪</i>
+
+684
+00:57:31,000 --> 00:57:32,680
+<i>♪ Pero la historia va así ♪</i>
+
+685
+00:57:32,750 --> 00:57:36,490
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+686
+00:57:37,120 --> 00:57:40,030
+<i>♪ Hacia ella te atrae silenciosa ♪</i>
+
+687
+00:57:40,370 --> 00:57:42,880
+<i>♪ Como un imán en la noche calurosa ♪</i>
+
+688
+00:57:42,950 --> 00:57:45,930
+<i>♪ El cielo del amanecer
+Sirve de advertencia ♪</i>
+
+689
+00:57:46,000 --> 00:57:49,900
+<i>♪ Oye, tonto
+Es mejor que nadie te vea ♪</i>
+
+690
+00:57:50,370 --> 00:57:53,400
+<i>♪ Soy débil, mi amor, y estoy deseoso ♪</i>
+
+691
+00:57:53,830 --> 00:57:56,220
+<i>♪ Si este es el camino que he de tomar ♪</i>
+
+692
+00:57:56,290 --> 00:57:57,930
+<i>♪ Recibiré mi sentencia ♪</i>
+
+693
+00:57:58,000 --> 00:57:59,550
+<i>♪ Te doy mi penitencia ♪</i>
+
+694
+00:57:59,620 --> 00:58:03,360
+<i>♪ Verduga, jurado y jueza ♪</i>
+
+695
+00:58:03,580 --> 00:58:05,130
+<i>♪ Pero la historia va así ♪</i>
+
+696
+00:58:05,200 --> 00:58:07,680
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+697
+00:58:07,750 --> 00:58:09,700
+<i>♪ Su beso carmesí ♪</i>
+
+698
+00:58:10,330 --> 00:58:11,840
+<i>♪ Pero la historia va así ♪</i>
+
+699
+00:58:11,910 --> 00:58:15,570
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+700
+00:58:17,040 --> 00:58:18,510
+<i>♪ Pero la historia va así ♪</i>
+
+701
+00:58:18,580 --> 00:58:21,030
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+702
+00:58:21,160 --> 00:58:22,990
+<i>♪ Su beso carmesí ♪</i>
+
+703
+00:58:23,580 --> 00:58:25,130
+<i>♪ Pero la historia va así ♪</i>
+
+704
+00:58:25,200 --> 00:58:29,070
+<i>♪ Destruirá con su beso carmesí ♪</i>
+
+705
+00:58:30,450 --> 00:58:31,840
+<i>♪ La historia va así ♪</i>
+
+706
+00:58:31,910 --> 00:58:37,860
+<i>♪ Destruirá con su beso carmesí ♪</i>
+

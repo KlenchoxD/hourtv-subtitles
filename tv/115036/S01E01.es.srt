@@ -1,0 +1,845 @@
+1
+00:01:11,208 --> 00:01:12,458
+(TRUENOS)
+
+2
+00:01:43,958 --> 00:01:46,000
+(INHALA PROFUNDO Y TOSE)
+
+3
+00:02:03,916 --> 00:02:05,083
+(GRUÑE)
+
+4
+00:02:26,458 --> 00:02:27,791
+(GRITA)
+
+5
+00:02:42,750 --> 00:02:44,000
+(GRUÑE)
+
+6
+00:03:33,208 --> 00:03:35,416
+(HABLAN JAWÉS)
+
+7
+00:05:04,791 --> 00:05:06,291
+(TUSKEN HABLA EN OTRO IDIOMA)
+
+8
+00:06:28,791 --> 00:06:31,666
+(HABLAN EN OTRO IDIOMA)
+
+9
+00:06:39,916 --> 00:06:44,125
+EL LIBRO DE
+BOBA FETT
+
+10
+00:06:45,000 --> 00:06:49,500
+Capítulo 1
+UN FORASTERO EN TIERRA EXTRAÑA
+
+11
+00:06:57,708 --> 00:07:00,875
+(HABLA EN OTRO IDIOMA)
+
+12
+00:07:10,208 --> 00:07:13,000
+(HABLA EN OTRO IDIOMA)
+
+13
+00:08:37,958 --> 00:08:39,708
+(GRUÑIDO)
+
+14
+00:08:53,916 --> 00:08:56,291
+-(RUGE)
+-(QUEJIDO)
+
+15
+00:09:16,000 --> 00:09:19,500
+Rodiano. ¿Qué te parece
+si te ayudo a escapar?
+
+16
+00:09:22,666 --> 00:09:25,083
+-(GRITA EN OTRO IDIOMA)
+-¡Cállate, no grites!
+
+17
+00:09:52,583 --> 00:09:53,875
+(RUGIDO)
+
+18
+00:10:06,958 --> 00:10:08,541
+(RUGIDO)
+
+19
+00:11:32,125 --> 00:11:34,500
+(HABLA EN OTRO IDIOMA)
+
+20
+00:12:05,916 --> 00:12:07,125
+FENNEC: Despierta, jefe.
+
+21
+00:12:18,833 --> 00:12:20,791
+DROIDE: <i>Sesión de curación: suspendida.</i>
+
+22
+00:12:34,625 --> 00:12:36,125
+Los sueños volvieron.
+
+23
+00:12:39,541 --> 00:12:40,541
+Hay que irnos.
+
+24
+00:12:41,416 --> 00:12:43,166
+Todos esperan para presentarse.
+
+25
+00:12:44,958 --> 00:12:46,375
+Les avisaré que ahora bajas.
+
+26
+00:13:22,625 --> 00:13:24,833
+(HABLA EN OTRO IDIOMA)
+
+27
+00:13:40,500 --> 00:13:42,041
+¿Entendiste lo que dijo?
+
+28
+00:13:43,125 --> 00:13:44,416
+¿Te habló sobre amistad?
+
+29
+00:13:46,375 --> 00:13:48,625
+Nos urge un droide de protocolo.
+
+30
+00:13:48,708 --> 00:13:50,541
+<i>Le presento a Dokk Strassi,</i>
+
+31
+00:13:51,041 --> 00:13:52,916
+<i>líder de la familia trandoshana.</i>
+
+32
+00:13:53,000 --> 00:13:54,750
+<i>Protectores del centro de la ciudad</i>
+
+33
+00:13:54,833 --> 00:13:56,791
+<i>y sus territorios comerciales.</i>
+
+34
+00:13:57,250 --> 00:13:58,333
+Qué incómodo.
+
+35
+00:13:58,875 --> 00:14:00,291
+Antes trabajaba para él.
+
+36
+00:14:00,666 --> 00:14:02,000
+Para él es más incómodo.
+
+37
+00:14:04,541 --> 00:14:08,625
+Le doy la bienvenida al nuevo daimyo.
+
+38
+00:14:09,041 --> 00:14:12,583
+Es un honor ser bienvenido
+a Mos Espa por usted, Dokk Strassi.
+
+39
+00:14:19,250 --> 00:14:22,500
+Espero nunca abandone Mos Espa.
+
+40
+00:14:23,916 --> 00:14:25,166
+DOKK: Hmm.
+
+41
+00:14:25,250 --> 00:14:27,375
+Esta manera de hablar de los trandoshanos
+
+42
+00:14:27,458 --> 00:14:30,041
+hace de un cumplido toda una amenaza.
+
+43
+00:14:31,166 --> 00:14:33,791
+<i>Le presento a su excelencia, Mok Shaiz,</i>
+
+44
+00:14:33,875 --> 00:14:36,958
+<i>alcalde de Mos Espa</i>
+<i>y las mesetas que lo rodean.</i>
+
+45
+00:14:37,916 --> 00:14:40,750
+Soy el mayordomo del alcalde, de hecho.
+
+46
+00:14:43,166 --> 00:14:45,541
+Nos dijeron que vendría
+en persona a presentar tributo.
+
+47
+00:14:45,625 --> 00:14:48,375
+Oh, así es. Sí. Una disculpa.
+
+48
+00:14:48,458 --> 00:14:52,416
+Entiendo cómo sacaron dicha conclusión
+por la correspondencia.
+
+49
+00:14:52,958 --> 00:14:57,000
+Muy bien. Extiende mis saludos
+y agradecimiento
+
+50
+00:14:57,083 --> 00:14:59,000
+al alcalde por su tributo.
+
+51
+00:14:59,416 --> 00:15:00,416
+Otro...
+
+52
+00:15:00,958 --> 00:15:03,500
+Comprensible malentendido.
+
+53
+00:15:03,833 --> 00:15:07,250
+El único tributo que porto es
+
+54
+00:15:07,333 --> 00:15:11,958
+el más cálido recibimiento del alcalde
+que expreso en su lugar.
+
+55
+00:15:14,416 --> 00:15:16,416
+Entonces, ¿no presentas tributo?
+
+56
+00:15:17,083 --> 00:15:19,166
+El más cálido recibimiento del alcalde
+
+57
+00:15:19,250 --> 00:15:24,083
+y una disculpa por no asistir
+por asuntos apremiantes, milady.
+
+58
+00:15:25,416 --> 00:15:27,833
+Si le hubieras dicho
+esa insolencia a Jabba,
+
+59
+00:15:28,583 --> 00:15:30,375
+habrías sido alimento para sus fieras.
+
+60
+00:15:31,875 --> 00:15:33,541
+Oh, disculpas, eh...
+
+61
+00:15:33,916 --> 00:15:36,916
+-Disculpas.
+-Dile al alcalde que estoy aquí.
+
+62
+00:15:38,041 --> 00:15:39,333
+Está enterado.
+
+63
+00:15:40,500 --> 00:15:42,458
+Sí, está enterado.
+
+64
+00:15:43,458 --> 00:15:45,500
+Ya será en otra ocasión. Siguiente.
+
+65
+00:15:45,583 --> 00:15:48,666
+Eh, la verdad, queda algo pendiente,
+si me permite.
+
+66
+00:15:50,416 --> 00:15:51,416
+Dilo ya.
+
+67
+00:15:52,083 --> 00:15:53,458
+Nos falta el tributo.
+
+68
+00:15:54,583 --> 00:15:55,583
+Me confundes.
+
+69
+00:15:58,625 --> 00:16:00,541
+Él quiere que tú le pagues.
+
+70
+00:16:01,958 --> 00:16:05,916
+¿Qué? Yo soy el señor del crimen,
+él tiene que pagarme.
+
+71
+00:16:06,000 --> 00:16:07,458
+¿Quieres que lo liquide?
+
+72
+00:16:10,625 --> 00:16:12,250
+Trabaja para el alcalde.
+
+73
+00:16:13,833 --> 00:16:14,875
+¿Es un no?
+
+74
+00:16:15,791 --> 00:16:16,833
+Es un no.
+
+75
+00:16:21,291 --> 00:16:24,208
+Lord Fett te ofrece el tributo
+
+76
+00:16:24,291 --> 00:16:26,083
+de salir en una pieza.
+
+77
+00:16:27,458 --> 00:16:28,500
+Mmm.
+
+78
+00:16:29,208 --> 00:16:31,166
+Disculpas y mi gratitud.
+
+79
+00:16:32,250 --> 00:16:36,375
+El alcalde tal vez lo tome diferente,
+pero, aun así, expresaré sus sentimientos.
+
+80
+00:16:41,708 --> 00:16:43,750
+Yo no estaría sorprendido
+
+81
+00:16:43,833 --> 00:16:46,916
+si reciben otra delegación
+en un futuro cercano.
+
+82
+00:16:50,958 --> 00:16:52,375
+Vigílalo de cerca.
+
+83
+00:16:52,458 --> 00:16:53,958
+Tengo a todos vigilados.
+
+84
+00:16:54,291 --> 00:16:57,791
+<i>Estos dos gamorreanos fueron</i>
+<i>los guardias de Jabba el Hutt.</i>
+
+85
+00:16:57,875 --> 00:16:59,583
+<i>Y luego, de Bib Fortuna.</i>
+
+86
+00:17:00,083 --> 00:17:03,208
+<i>No se rindieron,</i>
+<i>aun después de que mataron a su jefe.</i>
+
+87
+00:17:03,750 --> 00:17:07,083
+<i>Los atraparon con vida</i>
+<i>como tributo a usted, lord Fett.</i>
+
+88
+00:17:07,875 --> 00:17:10,416
+<i>Sus gritos de tortura serán</i>
+<i>un mensaje sólido</i>
+
+89
+00:17:10,500 --> 00:17:13,291
+<i>para todos</i>
+<i>los que intenten sacarlo del trono.</i>
+
+90
+00:17:13,375 --> 00:17:14,791
+(HABLA GAMORRÉS)
+
+91
+00:17:14,875 --> 00:17:16,083
+Yo no torturo.
+
+92
+00:17:16,791 --> 00:17:18,541
+<i>Eh, con todo respeto, lord Fett,</i>
+
+93
+00:17:18,625 --> 00:17:21,416
+<i>en Tatooine tiene que proyectar fuerza</i>
+
+94
+00:17:21,500 --> 00:17:24,125
+<i>si quiere ser aceptado como daimyo.</i>
+
+95
+00:17:26,250 --> 00:17:28,458
+(HABLA GAMORRÉS)
+
+96
+00:17:31,666 --> 00:17:33,500
+Fueron leales a sus dos jefes.
+
+97
+00:17:34,666 --> 00:17:35,833
+(HABLA GAMORRÉS)
+
+98
+00:17:37,291 --> 00:17:39,958
+¿Me serían leales a mí
+si perdono sus vidas?
+
+99
+00:17:41,166 --> 00:17:42,250
+(HABLA GAMORRÉS)
+
+100
+00:17:45,791 --> 00:17:47,083
+Es una mala idea.
+
+101
+00:18:12,500 --> 00:18:15,083
+FENNEC: Debiste dejar
+que te llevaran en una litera.
+
+102
+00:18:15,541 --> 00:18:19,125
+FETT: A mí no me van a cargar
+por las calles como a un noble inútil.
+
+103
+00:18:20,375 --> 00:18:23,541
+FENNEC: Es un símbolo de poder
+para la gente de Mos Espa.
+
+104
+00:18:24,125 --> 00:18:26,916
+Están acostumbrados
+a ver a los hutts por las calles.
+
+105
+00:18:28,291 --> 00:18:31,458
+La transición sería más fácil
+si aceptaras sus costumbres.
+
+106
+00:18:33,875 --> 00:18:36,375
+(MÚSICA ALEGRE)
+
+107
+00:18:37,166 --> 00:18:39,375
+(CONVERSACIONES INDISTINTAS)
+
+108
+00:18:58,916 --> 00:19:00,291
+(PITIDOS ELECTRÓNICOS)
+
+109
+00:19:00,625 --> 00:19:02,208
+No, no vinimos por tragos.
+
+110
+00:19:02,291 --> 00:19:04,041
+Queremos hablar con Garsa Fwip.
+
+111
+00:19:04,125 --> 00:19:05,250
+(PITIDOS ELECTRÓNICOS)
+
+112
+00:19:05,916 --> 00:19:07,333
+(CONVERSACIONES INDISTINTAS)
+
+113
+00:19:07,416 --> 00:19:09,208
+Le va bien al negocio, ¿no?
+
+114
+00:19:15,208 --> 00:19:18,125
+¿Limpiamos y pulimos sus cascos
+en lo que esperan a <i>madame</i> Garsa?
+
+115
+00:19:18,250 --> 00:19:19,833
+-No.
+-Claro.
+
+116
+00:19:20,625 --> 00:19:21,875
+Gracias. Llévate ambos.
+
+117
+00:19:25,333 --> 00:19:28,291
+La transición será más fácil
+si aceptas sus costumbres.
+
+118
+00:19:33,333 --> 00:19:35,750
+Sean bienvenidos al Santuario.
+
+119
+00:19:35,833 --> 00:19:38,916
+¿Quieren participar
+en alguna de nuestras ofrendas?
+
+120
+00:19:39,000 --> 00:19:40,208
+Tal vez otro día.
+
+121
+00:19:40,916 --> 00:19:42,166
+Vengo a hablar de negocios.
+
+122
+00:19:42,250 --> 00:19:43,916
+Oh. Hablemos de negocios.
+
+123
+00:19:44,000 --> 00:19:46,875
+¿Sugiero algo de agua y comida
+para sus gamorreanos,
+
+124
+00:19:46,958 --> 00:19:48,250
+mientras nos aislamos?
+
+125
+00:19:48,625 --> 00:19:51,250
+No, no, no, está bien.
+No quiero tardar, hay que hacerlo aquí.
+
+126
+00:19:51,750 --> 00:19:53,916
+Ella es la maestra asesina, Fennec Shand.
+
+127
+00:19:54,583 --> 00:19:55,833
+Y yo soy Boba Fett.
+
+128
+00:19:56,708 --> 00:19:58,625
+Reemplacé a Bib Fortuna.
+
+129
+00:19:59,583 --> 00:20:01,291
+Disculpe, no vi su litera.
+
+130
+00:20:01,416 --> 00:20:03,041
+No me trajeron en una litera.
+
+131
+00:20:03,833 --> 00:20:05,875
+Suelo utilizar mis dos pies.
+
+132
+00:20:06,583 --> 00:20:08,291
+(RISITA) Mil perdones.
+
+133
+00:20:08,416 --> 00:20:11,750
+Solo vine a presentarme
+y a asegurarte que tu, eh,
+
+134
+00:20:12,291 --> 00:20:14,666
+negocio seguirá así de bien
+
+135
+00:20:15,041 --> 00:20:16,500
+bajo mi liderazgo.
+
+136
+00:20:17,083 --> 00:20:19,000
+Le agradezco, lord Fett.
+
+137
+00:20:22,250 --> 00:20:24,750
+Y gracias por la gentil presentación
+
+138
+00:20:24,875 --> 00:20:28,333
+y por hacer el largo recorrido
+para visitar nuestro establecimiento.
+
+139
+00:20:28,416 --> 00:20:30,750
+Es nuestro trocito de paraíso.
+
+140
+00:20:31,083 --> 00:20:32,833
+Y aquí será bienvenido,
+
+141
+00:20:33,541 --> 00:20:34,916
+ya que es suyo ahora.
+
+142
+00:20:41,833 --> 00:20:44,458
+Hmm. El tuyo brilla más que el mío.
+
+143
+00:20:52,416 --> 00:20:54,416
+Jabba tenía muchos feudatarios.
+
+144
+00:20:55,625 --> 00:20:57,041
+Hay mucho terreno que cubrir
+
+145
+00:20:57,125 --> 00:20:59,500
+si queremos mantener
+su emporio así de intacto.
+
+146
+00:21:00,208 --> 00:21:02,000
+Puedo hacer el recorrido sin ti.
+
+147
+00:21:02,083 --> 00:21:04,250
+Jabba casi no dejaba sus aposentos.
+
+148
+00:21:04,333 --> 00:21:05,833
+Jabba gobernó con miedo.
+
+149
+00:21:07,500 --> 00:21:09,791
+Yo quiero hacerlo con respeto.
+
+150
+00:21:12,333 --> 00:21:13,416
+¿Puedo opinar?
+
+151
+00:21:14,041 --> 00:21:15,416
+Di lo que piensas.
+
+152
+00:21:15,541 --> 00:21:18,791
+En tiempos difíciles,
+el miedo es una gran opción.
+
+153
+00:21:33,958 --> 00:21:35,000
+(HABLA JAWÉS)
+
+154
+00:22:11,875 --> 00:22:13,583
+(RUGIDO)
+
+155
+00:22:56,500 --> 00:22:57,958
+(GRITA)
+
+156
+00:22:59,166 --> 00:23:00,541
+(GRITA)
+
+157
+00:23:21,958 --> 00:23:22,958
+¡Fennec!
+
+158
+00:23:24,000 --> 00:23:25,083
+Con vida.
+
+159
+00:23:27,833 --> 00:23:29,833
+(QUEJIDO) Llévenme al tanque bacta.
+
+160
+00:24:54,041 --> 00:24:55,625
+(HABLA GAMORRÉS)
+
+161
+00:25:15,166 --> 00:25:17,958
+(HABLAN EN OTRO IDIOMA)
+
+162
+00:25:28,500 --> 00:25:30,666
+(HABLA EN OTRO IDIOMA)
+
+163
+00:26:32,958 --> 00:26:34,083
+(HABLA EN OTRO IDIOMA)
+
+164
+00:27:30,458 --> 00:27:32,333
+(HABLA EN OTRO IDIOMA)
+
+165
+00:27:52,333 --> 00:27:53,875
+-(HABLA EN OTRO IDIOMA)
+-¿Qué?
+
+166
+00:27:53,958 --> 00:27:55,416
+(HABLA EN OTRO IDIOMA)
+
+167
+00:27:58,958 --> 00:28:00,500
+¿Qué esperas que haga?
+
+168
+00:28:01,250 --> 00:28:04,333
+-(HABLA EN OTRO IDIOMA)
+-¿Qué?
+
+169
+00:28:05,458 --> 00:28:09,291
+(HABLA EN OTRO IDIOMA)
+
+170
+00:28:10,250 --> 00:28:13,250
+¿Dijiste "cavar"? Ah, quieres que cave.
+
+171
+00:28:16,916 --> 00:28:20,250
+Agua. Tú quieres que cave por agua.
+
+172
+00:28:30,125 --> 00:28:34,583
+(HABLAN EN OTRO IDIOMA)
+
+173
+00:28:43,125 --> 00:28:45,166
+(GRUÑE)
+
+174
+00:28:45,250 --> 00:28:46,958
+Sin resentimientos, amigo.
+
+175
+00:28:47,041 --> 00:28:48,958
+(GRITA EN OTRO IDIOMA)
+
+176
+00:28:49,916 --> 00:28:50,916
+Sí.
+
+177
+00:28:59,541 --> 00:29:01,500
+(HABLA EN OTRO IDIOMA)
+
+178
+00:29:18,791 --> 00:29:19,958
+(GRITA EN OTRO IDIOMA)
+
+179
+00:29:21,833 --> 00:29:23,333
+Ya, tranquilízate.
+
+180
+00:29:24,708 --> 00:29:26,041
+Necesito agua.
+
+181
+00:29:29,291 --> 00:29:30,583
+(GRITA EN OTRO IDIOMA)
+
+182
+00:29:35,875 --> 00:29:37,208
+Quiero un trago.
+
+183
+00:30:12,750 --> 00:30:15,875
+Los dos hubiéramos escapado,
+pero alertaste a los demás.
+
+184
+00:30:19,208 --> 00:30:21,125
+Si no abres el hocico,
+
+185
+00:30:22,166 --> 00:30:25,416
+llegaremos a Anchorhead,
+y nos sacaré al espacio.
+
+186
+00:30:28,750 --> 00:30:31,083
+O te puedo estrangular con esta cadena
+
+187
+00:30:31,166 --> 00:30:33,333
+y darle tu pierna al vigilante.
+
+188
+00:30:33,416 --> 00:30:36,833
+-(GRITA EN OTRO IDIOMA)
+-Ah, eso sí lo entendiste, ¿eh?
+
+189
+00:30:37,125 --> 00:30:40,208
+-(GRITA EN OTRO IDIOMA)
+-Ya no digas más.
+
+190
+00:30:42,583 --> 00:30:43,666
+Callado.
+
+191
+00:31:03,083 --> 00:31:04,208
+(HABLA EN OTRO IDIOMA)
+
+192
+00:31:28,250 --> 00:31:29,875
+(RUGE)
+
+193
+00:31:56,833 --> 00:31:58,541
+(GRITA EN OTRO IDIOMA)
+
+194
+00:31:59,500 --> 00:32:01,166
+(RUGE)
+
+195
+00:32:13,083 --> 00:32:15,208
+(RUGE)
+
+196
+00:33:21,375 --> 00:33:23,333
+(GRITA EN OTRO IDIOMA)
+
+197
+00:33:30,625 --> 00:33:32,416
+(HABLA EN OTRO IDIOMA)
+
+198
+00:33:33,041 --> 00:33:35,291
+(HABLAN EN OTRO IDIOMA)
+
+199
+00:34:05,208 --> 00:34:06,625
+(HABLA EN OTRO IDIOMA)
+
+200
+00:34:12,875 --> 00:34:14,791
+(HABLAN EN OTRO IDIOMA)
+
