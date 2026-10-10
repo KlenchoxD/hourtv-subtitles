@@ -1,0 +1,5018 @@
+1
+00:00:33,708 --> 00:00:35,791
+CERVECERÍA DE RUST BANK
+
+2
+00:00:35,875 --> 00:00:39,791
+¿Bromean?
+La cervecería es el corazón de la ciudad.
+
+3
+00:00:39,875 --> 00:00:41,583
+No, Sr. y Sra. Klaxon.
+
+4
+00:00:41,666 --> 00:00:43,083
+<i>¿Sabe quién soy?</i>
+
+5
+00:00:43,166 --> 00:00:47,416
+No venderemos la cervecería.
+Ni a ustedes ni a nadie.
+
+6
+00:00:47,500 --> 00:00:49,208
+- <i>Espere…</i>
+- ¿Entendido?
+
+7
+00:00:49,708 --> 00:00:53,041
+- ¿Lo resolviste, Delroy?
+- Se acabó, Wilma.
+
+8
+00:00:53,125 --> 00:00:56,000
+Dije: "Más cerveza, menos prisiones".
+
+9
+00:00:56,958 --> 00:00:58,916
+¡Y nos fue muy bien aquí!
+
+10
+00:00:59,458 --> 00:01:00,541
+¡Qué bueno!
+
+11
+00:01:00,625 --> 00:01:03,166
+Podré mantener mi biblioteca.
+
+12
+00:01:03,250 --> 00:01:05,250
+BEBER PARA LEER
+
+13
+00:01:05,333 --> 00:01:07,541
+- Hora de irnos, Kat.
+- Bien.
+
+14
+00:01:08,041 --> 00:01:10,958
+- Harás quebrar al Sr. Fawzi.
+- ¡Papá!
+
+15
+00:01:12,250 --> 00:01:13,208
+¡Adiós, Kat!
+
+16
+00:01:20,500 --> 00:01:21,833
+¿Qué es eso, Kat?
+
+17
+00:01:23,000 --> 00:01:26,166
+- ¡El postre!
+- No, cielo. Vas a explotar.
+
+18
+00:01:35,416 --> 00:01:40,375
+- Delroy, amor, detente. No me gusta esto.
+- No pasa nada, Wilma.
+
+19
+00:01:41,666 --> 00:01:43,083
+Ya casi llegamos.
+
+20
+00:01:44,125 --> 00:01:47,000
+PUENTE DE RUST BANK
+
+21
+00:01:52,333 --> 00:01:53,375
+¿Qué, nena?
+
+22
+00:01:53,458 --> 00:01:54,333
+¡Cuidado!
+
+23
+00:01:56,083 --> 00:01:57,208
+¡No!
+
+24
+00:01:58,833 --> 00:01:59,666
+¡Delroy!
+
+25
+00:02:00,666 --> 00:02:01,500
+¡Papi!
+
+26
+00:02:02,125 --> 00:02:04,916
+- Kat, nada como te enseñamos.
+- ¡No!
+
+27
+00:02:05,000 --> 00:02:07,708
+- Mamá, ¿no vienes?
+- ¡Te seguiré!
+
+28
+00:02:07,791 --> 00:02:10,666
+- Mamá, ¡tengo miedo!
+- Bien, escucha.
+
+29
+00:02:10,750 --> 00:02:13,041
+- Debes respirar hondo.
+- ¡No!
+
+30
+00:02:15,375 --> 00:02:16,250
+Ahora, ¡ve!
+
+31
+00:02:22,166 --> 00:02:24,208
+NETFLIX PRESENTA
+
+32
+00:02:32,083 --> 00:02:35,750
+<i>Un grito, y perdí a mis padres.</i>
+
+33
+00:02:36,791 --> 00:02:41,041
+<i>Pensé que me odiaría</i>
+<i>por el resto de mi vida.</i>
+
+34
+00:02:42,625 --> 00:02:45,416
+<i>Pero el destino tenía otros planes.</i>
+
+35
+00:02:46,166 --> 00:02:47,958
+TRIBUNAL DE MENORES
+
+36
+00:02:48,041 --> 00:02:50,541
+<i>Dicen que todos tienen demonios.</i>
+
+37
+00:02:51,791 --> 00:02:53,916
+<i>Mis demonios tienen nombre.</i>
+
+38
+00:02:56,666 --> 00:02:58,500
+<i>¡Almadictos!</i>
+
+39
+00:02:58,583 --> 00:02:59,541
+<i>¡Vamos!</i>
+
+40
+00:03:03,208 --> 00:03:08,291
+Bienvenidos al lugar más aterrador
+del inframundo.
+
+41
+00:03:09,000 --> 00:03:11,666
+Soy su anfitrión, Búfalo Belzer,
+
+42
+00:03:11,750 --> 00:03:16,791
+¡y esta es la Feria de los Gritos!
+
+43
+00:03:52,125 --> 00:03:53,458
+¡Sí!
+
+44
+00:04:01,083 --> 00:04:02,208
+¡Electrizante!
+
+45
+00:04:19,166 --> 00:04:21,916
+¡Miren cómo vuelan!
+
+46
+00:04:22,000 --> 00:04:24,416
+LA PLANTACIÓN DE PELO DE BELZER
+
+47
+00:04:32,708 --> 00:04:36,791
+GUAPO
+
+48
+00:04:56,875 --> 00:04:57,875
+Bien.
+
+49
+00:04:57,958 --> 00:05:00,833
+Basta. Wild, ¡lo volviste a hacer!
+
+50
+00:05:00,916 --> 00:05:03,708
+- ¿Qué, Wendell?
+- ¡Robaste la crema!
+
+51
+00:05:03,791 --> 00:05:06,625
+Ese implante no sirve. Es eso.
+
+52
+00:05:06,708 --> 00:05:10,000
+No, tú le quitaste
+los nutrientes que necesita.
+
+53
+00:05:13,958 --> 00:05:20,041
+¿Debo recordártelo? Esto es tu culpa.
+¡Belzer nos encarceló por traición!
+
+54
+00:05:20,125 --> 00:05:24,000
+Y, si se queda calvo,
+¡nos matará a los dos!
+
+55
+00:05:24,083 --> 00:05:25,125
+¿A los dos?
+
+56
+00:05:25,208 --> 00:05:27,958
+Tú estás poniendo implantes malos.
+
+57
+00:05:30,375 --> 00:05:34,000
+Como tu hermano mayor,
+¡exijo que la regurgites!
+
+58
+00:05:34,083 --> 00:05:37,291
+¿Y por qué lo haría? Wendell…
+
+59
+00:05:38,375 --> 00:05:43,458
+- La crema no revivirá ese implante.
+- ¿Admites que la robaste?
+
+60
+00:05:43,541 --> 00:05:44,958
+- Ajá.
+- ¿Por qué?
+
+61
+00:05:45,041 --> 00:05:48,666
+- Da cosquillas en la pancita.
+- Qué tont… ¿Qué?
+
+62
+00:05:53,208 --> 00:05:56,000
+¡Te mataré! Te estrangularé hasta…
+
+63
+00:05:57,583 --> 00:06:00,291
+Oye, ¡tienes razón! Se siente bien.
+
+64
+00:06:00,375 --> 00:06:02,000
+Sí, y la mejor parte…
+
+65
+00:06:02,500 --> 00:06:05,000
+Tres, dos, uno
+
+66
+00:06:05,083 --> 00:06:06,791
+y…
+
+67
+00:06:08,541 --> 00:06:09,375
+¡Sí!
+
+68
+00:06:09,458 --> 00:06:11,625
+Sí.
+
+69
+00:06:21,291 --> 00:06:24,875
+¡Estoy teniendo una visión, Wild!
+
+70
+00:06:24,958 --> 00:06:26,833
+Una niña de pelo verde.
+
+71
+00:06:26,916 --> 00:06:29,208
+- ¿Tú también la ves?
+- Sí.
+
+72
+00:06:29,291 --> 00:06:33,250
+¡Parece tan real!
+
+73
+00:06:33,333 --> 00:06:34,750
+¡Qué raro!
+
+74
+00:06:34,833 --> 00:06:36,208
+¡Rarísimo!
+
+75
+00:06:36,291 --> 00:06:38,708
+¡Levántense!
+
+76
+00:06:39,208 --> 00:06:41,250
+¡Mis hijos rebeldes!
+
+77
+00:06:42,250 --> 00:06:43,791
+¡Vuelvan a trabajar!
+
+78
+00:06:47,000 --> 00:06:49,583
+Le toqué la mano.
+
+79
+00:06:49,666 --> 00:06:50,625
+¡Yo también!
+
+80
+00:06:56,958 --> 00:07:01,333
+<i>Quedé huérfana</i>
+<i>y los siguientes 5 años fueron terribles.</i>
+
+81
+00:07:02,583 --> 00:07:04,833
+<i>Me metí en algunos problemas.</i>
+
+82
+00:07:05,541 --> 00:07:07,666
+<i>Bueno, en muchos problemas.</i>
+
+83
+00:07:08,625 --> 00:07:14,208
+<i>Pero, a los 13, pude volver a empezar</i>
+<i>en una escuela para niñas, RBC.</i>
+
+84
+00:07:15,416 --> 00:07:16,916
+<i>El único problema</i>
+
+85
+00:07:18,416 --> 00:07:20,583
+<i>era que estaba en Rust Bank.</i>
+
+86
+00:07:20,666 --> 00:07:21,791
+PRECAUCIÓN
+
+87
+00:07:24,125 --> 00:07:27,541
+PELIGRO
+OBRA EN CONSTRUCCIÓN
+
+88
+00:07:42,125 --> 00:07:45,750
+REFORMATORIO
+
+89
+00:07:50,208 --> 00:07:51,541
+¿Estás bien, Kat?
+
+90
+00:07:52,041 --> 00:07:55,125
+- ¿Qué?
+- Tuviste un ataque de pánico.
+
+91
+00:07:55,208 --> 00:07:57,208
+Estoy bien, señora Hunter.
+
+92
+00:08:04,958 --> 00:08:08,583
+CERVECERÍA DE RUST BANK
+
+93
+00:08:12,250 --> 00:08:14,250
+La cervecería de papá.
+
+94
+00:08:14,333 --> 00:08:16,166
+¿Cuándo se incendió?
+
+95
+00:08:17,208 --> 00:08:20,666
+- En el funeral de tus padres.
+- ¿Qué?
+
+96
+00:08:20,750 --> 00:08:26,166
+Ya estabas en el norte, en el hogar.
+No necesitabas más malas noticias.
+
+97
+00:08:26,250 --> 00:08:27,541
+¿Hubo heridos?
+
+98
+00:08:28,791 --> 00:08:29,791
+Fue terrible.
+
+99
+00:08:34,833 --> 00:08:37,166
+PROPIEDAD DE KLAX KORP
+
+100
+00:08:37,250 --> 00:08:41,208
+<i>Mi hogar definitivamente</i>
+<i>no era lo que solía ser.</i>
+
+101
+00:08:41,708 --> 00:08:46,916
+<i>El incendio tuvo un efecto dominó,</i>
+<i>y toda la ciudad había muerto.</i>
+
+102
+00:08:47,000 --> 00:08:49,083
+ESO ES TODO, AMIGOS
+
+103
+00:08:49,583 --> 00:08:51,708
+PROPIEDAD DE KLAX KORP
+
+104
+00:08:51,791 --> 00:08:53,875
+¿Qué es Klax Korp?
+
+105
+00:08:58,875 --> 00:09:00,458
+AVENIDA WATERMAN
+
+106
+00:09:05,666 --> 00:09:07,083
+¡Mi antigua casa!
+
+107
+00:09:08,916 --> 00:09:10,541
+<i>Los buenos recuerdos…</i>
+
+108
+00:09:12,541 --> 00:09:14,333
+<i>son los que más duelen.</i>
+
+109
+00:09:17,375 --> 00:09:22,916
+<i>Pero no fue solo un nuevo comienzo.</i>
+<i>Algo en esa escuela me atraía.</i>
+
+110
+00:09:23,541 --> 00:09:27,000
+<i>Algo que supo lo que era antes que yo.</i>
+
+111
+00:10:18,541 --> 00:10:20,625
+Escuela Católica Rust Bank.
+
+112
+00:10:21,875 --> 00:10:22,958
+¡Qué lujo!
+
+113
+00:10:24,083 --> 00:10:26,625
+Los lugareños le dicen "pocilga".
+
+114
+00:10:27,208 --> 00:10:28,416
+Bien, lugareña.
+
+115
+00:10:30,458 --> 00:10:36,416
+- ¿Qué clase de niñas estudian aquí?
+- Caniches premiados. Los mejores.
+
+116
+00:10:38,583 --> 00:10:40,791
+¡El cíclope de papá!
+
+117
+00:10:40,875 --> 00:10:42,750
+También hay otras cosas.
+
+118
+00:10:43,375 --> 00:10:47,583
+Fue la primera escuela
+en inscribirse en Rompe el Ciclo.
+
+119
+00:10:47,666 --> 00:10:49,833
+Prometí que te comportarías.
+
+120
+00:10:49,916 --> 00:10:51,416
+Sí, bueno, yo no.
+
+121
+00:10:51,500 --> 00:10:53,041
+¿Puedes intentarlo?
+
+122
+00:10:55,416 --> 00:10:57,916
+Aposté la receta de mi abuela.
+
+123
+00:10:58,000 --> 00:10:59,333
+¿Qué diab…? ¿Qué?
+
+124
+00:10:59,416 --> 00:11:01,125
+¡Así que pórtate bien!
+
+125
+00:11:08,250 --> 00:11:09,333
+- ¡Pum!
+- ¡Pan!
+
+126
+00:11:09,416 --> 00:11:12,250
+- Bienvenida a Rust Bank.
+- Y tú…
+
+127
+00:11:12,333 --> 00:11:14,666
+- Devuelves el golpe.
+- ¿Qué?
+
+128
+00:11:14,750 --> 00:11:17,500
+- ¡Tardaste!
+- No hay devoluciones.
+
+129
+00:11:19,541 --> 00:11:20,416
+Somos…
+
+130
+00:11:20,500 --> 00:11:21,333
+¡Siobhan!
+
+131
+00:11:21,416 --> 00:11:22,333
+¡Sweetie!
+
+132
+00:11:22,416 --> 00:11:23,250
+¡Sloane!
+
+133
+00:11:23,333 --> 00:11:25,666
+Y ella es Gabby la cabra.
+
+134
+00:11:25,750 --> 00:11:26,875
+Bienvenida a…
+
+135
+00:11:26,958 --> 00:11:29,291
+¡RBC para niñas!
+
+136
+00:11:30,375 --> 00:11:33,750
+- Relájate, Katherine Koniqua Elliot.
+- Kat.
+
+137
+00:11:33,833 --> 00:11:35,875
+Se nos ocurrió otro apodo.
+
+138
+00:11:35,958 --> 00:11:37,041
+¡Es muy lindo!
+
+139
+00:11:37,541 --> 00:11:38,833
+¡Kay-Kay!
+
+140
+00:11:39,625 --> 00:11:42,500
+- ¡No!
+- Nuevo nombre, nuevo comienzo.
+
+141
+00:11:42,583 --> 00:11:46,500
+Es tu segunda oportunidad.
+Te ayudaremos a sanar.
+
+142
+00:11:46,583 --> 00:11:52,625
+- Hay yoga con cabras al mediodía.
+- Alimenta el alma, no la cintura.
+
+143
+00:11:52,708 --> 00:11:55,291
+Meditamos por el medio ambiente.
+
+144
+00:11:55,375 --> 00:11:59,166
+- La tierra resuena bajo tu trasero.
+- Y lo mejor…
+
+145
+00:11:59,250 --> 00:12:02,333
+¡El evento "Moda para la Paz Mundial"!
+
+146
+00:12:02,416 --> 00:12:05,916
+Quizá el estilo "prisionera chic"
+tenga éxito.
+
+147
+00:12:06,000 --> 00:12:09,750
+- Te ayudaremos a instalarte.
+- Oye, ¡no toques!
+
+148
+00:12:09,833 --> 00:12:12,000
+- ¿Qué es eso?
+- Es retro.
+
+149
+00:12:12,083 --> 00:12:12,916
+¡Lo toqué!
+
+150
+00:12:22,708 --> 00:12:23,875
+¿Qué diab…?
+
+151
+00:12:25,500 --> 00:12:26,333
+Oye, ¡tú!
+
+152
+00:12:28,250 --> 00:12:30,250
+¿Vieron lo que hizo?
+
+153
+00:12:30,333 --> 00:12:32,916
+¡Kay-Kay me salvó la vida!
+
+154
+00:12:34,666 --> 00:12:36,083
+¡Suéltame!
+
+155
+00:12:36,166 --> 00:12:40,375
+- Por aquí, señorita Elliot.
+- El director la espera.
+
+156
+00:12:44,333 --> 00:12:47,500
+- ¿Qué sucede, Siobhan?
+- ¿Cómo lo supo?
+
+157
+00:12:48,000 --> 00:12:53,333
+No sé. Creo que Kay-Kay es lo mejor
+que nos ha pasado en mucho tiempo.
+
+158
+00:12:54,875 --> 00:12:57,291
+LIBERTAD CONDICIONAL
+FONDOS TRANSFERIDOS
+
+159
+00:12:57,375 --> 00:13:00,375
+¡Mi puerta siempre está abierta!
+
+160
+00:13:03,000 --> 00:13:07,000
+Bienvenida a casa,
+señorita Elliot, a Rust Bank.
+
+161
+00:13:22,416 --> 00:13:27,416
+¡Y bienvenida a RBC para niñas!
+
+162
+00:13:27,500 --> 00:13:30,208
+Soy el padre Level Bests.
+
+163
+00:13:30,791 --> 00:13:32,750
+Y ahora me va a echar.
+
+164
+00:13:32,833 --> 00:13:38,291
+- No. Recién llega, señorita Elliot.
+- Debería haberse roto la espalda.
+
+165
+00:13:40,666 --> 00:13:44,208
+Si Dios quiere, vamos a romper el ciclo.
+
+166
+00:13:44,291 --> 00:13:48,166
+Una segunda oportunidad
+para niñas como usted, sí.
+
+167
+00:13:48,250 --> 00:13:52,583
+La escuela necesita
+el dinero de Rompe el Ciclo.
+
+168
+00:13:52,666 --> 00:13:56,291
+Y usted necesita un nuevo comienzo.
+
+169
+00:13:56,375 --> 00:13:59,666
+Les dije:
+"Traigan a esa niña problemática.
+
+170
+00:13:59,750 --> 00:14:04,291
+Rodeada de los más brillantes,
+Katherine Koniqua Elliot"…
+
+171
+00:14:04,375 --> 00:14:06,750
+- Kat.
+- …"florecerá".
+
+172
+00:14:08,000 --> 00:14:11,166
+Ahora eres una niña de RBC.
+
+173
+00:14:16,125 --> 00:14:17,791
+Los Klaxon.
+
+174
+00:14:33,541 --> 00:14:35,833
+No pierda el tiempo.
+
+175
+00:14:47,041 --> 00:14:49,291
+LOS FAVORITOS DE PAPÁ
+
+176
+00:15:34,583 --> 00:15:35,666
+¿Kay-Kay?
+
+177
+00:15:49,416 --> 00:15:50,750
+¡Eres el asesino!
+
+178
+00:15:50,833 --> 00:15:56,375
+- No, el ladrillo estaba suelto.
+- Mira al frente. Llamas la atención.
+
+179
+00:15:56,458 --> 00:16:00,625
+- Menos mal que la salvaste.
+- No lo hice. Tuvo suerte.
+
+180
+00:16:00,708 --> 00:16:01,666
+Ella…
+
+181
+00:16:02,708 --> 00:16:06,250
+- Éramos amigos.
+- ¿Te cae bien ese caniche?
+
+182
+00:16:06,333 --> 00:16:07,208
+Sí.
+
+183
+00:16:08,375 --> 00:16:09,916
+¿Qué hacías ahí?
+
+184
+00:16:10,000 --> 00:16:11,541
+Un proyecto de arte.
+
+185
+00:16:11,625 --> 00:16:15,125
+Para cuando la nieve se derrita. Soy Raúl.
+
+186
+00:16:15,625 --> 00:16:20,708
+No tengo amigos, Raúl.
+Les pasan cosas malas a los que quiero.
+
+187
+00:16:20,791 --> 00:16:22,083
+¿Como qué?
+
+188
+00:16:23,833 --> 00:16:25,041
+Se mueren.
+
+189
+00:16:28,333 --> 00:16:29,750
+Vaya…
+
+190
+00:16:36,583 --> 00:16:37,875
+Traidora.
+
+191
+00:16:43,000 --> 00:16:43,958
+LECCIÓN:
+
+192
+00:16:44,041 --> 00:16:45,583
+Disculpen la demora.
+
+193
+00:16:47,041 --> 00:16:51,291
+Naturaleza adaptable.
+
+194
+00:16:52,583 --> 00:16:57,500
+Bien, esta criatura espectacular
+se llama <i>Thaumoctopus mimicus</i>.
+
+195
+00:16:58,250 --> 00:17:00,083
+El pulpo imitador.
+
+196
+00:17:00,958 --> 00:17:06,750
+Es la única criatura que cambia de forma
+para engañar a predadores y presas.
+
+197
+00:17:08,250 --> 00:17:09,750
+¡Santo cielo!
+
+198
+00:17:15,791 --> 00:17:16,625
+¡Guau!
+
+199
+00:17:16,708 --> 00:17:18,291
+¡Vaya!
+
+200
+00:17:21,041 --> 00:17:22,166
+¡Es increíble!
+
+201
+00:17:23,000 --> 00:17:25,416
+Tú pareces una chica adaptable.
+
+202
+00:17:25,500 --> 00:17:26,541
+Soy Kat.
+
+203
+00:17:26,625 --> 00:17:31,041
+Acércate, Kat.
+¡Ven a ver este maravilloso molusco!
+
+204
+00:17:33,791 --> 00:17:35,125
+¡Kay-Kay!
+
+205
+00:17:46,791 --> 00:17:48,875
+- ¡No!
+- ¿Qué está pasando?
+
+206
+00:17:49,375 --> 00:17:50,208
+¡Gabby!
+
+207
+00:18:01,041 --> 00:18:01,875
+Bien…
+
+208
+00:18:03,500 --> 00:18:06,083
+Respira lento y profundo, Kat.
+
+209
+00:18:08,791 --> 00:18:10,291
+Echemos un vistazo.
+
+210
+00:18:15,500 --> 00:18:17,250
+¿Qué tengo en la mano?
+
+211
+00:18:18,416 --> 00:18:19,250
+Bueno.
+
+212
+00:18:19,833 --> 00:18:23,250
+- Nunca habías visto esto, ¿verdad?
+- ¡Nunca!
+
+213
+00:18:24,750 --> 00:18:28,541
+Esa marca prueba que eres especial, Kat.
+
+214
+00:18:29,041 --> 00:18:31,458
+Pero debe ser nuestro secreto.
+
+215
+00:18:31,541 --> 00:18:32,583
+¿Qué?
+
+216
+00:18:32,666 --> 00:18:35,875
+- Así podré protegerte.
+- ¿De qué?
+
+217
+00:18:36,375 --> 00:18:38,958
+Ese tonto pulpo me mordió, ¿no?
+
+218
+00:18:39,041 --> 00:18:42,000
+- No fue él.
+- ¡Solo cuida su empleo!
+
+219
+00:18:44,250 --> 00:18:46,250
+¡No le digas a nadie, Kat!
+
+220
+00:18:48,083 --> 00:18:49,041
+Bueno.
+
+221
+00:18:49,125 --> 00:18:51,083
+¿Qué acaba de pasar?
+
+222
+00:18:51,166 --> 00:18:52,041
+¿Sweetie?
+
+223
+00:18:52,125 --> 00:18:54,000
+¡Kay-Kay es una bruja!
+
+224
+00:18:54,083 --> 00:18:58,583
+No, tiene poderes telequinéticos.
+Mueve cosas con la mente.
+
+225
+00:18:58,666 --> 00:19:04,500
+Yo propongo que Kay-Kay es una agitadora.
+Una perturbadora del <i>statu quo</i>.
+
+226
+00:19:04,583 --> 00:19:07,750
+Vamos, Siobhan. Déjala en paz.
+
+227
+00:19:09,041 --> 00:19:11,041
+No es asunto tuyo, Ramona.
+
+228
+00:19:12,125 --> 00:19:14,833
+¡Perdón, Raúl! Siempre me olvido.
+
+229
+00:19:18,708 --> 00:19:23,625
+Mira. Nuestra feria es mucho mejor
+que el basurero de Belzer.
+
+230
+00:19:23,708 --> 00:19:26,916
+Pero no pudiste mantener la boca cerrada.
+
+231
+00:19:27,625 --> 00:19:28,625
+Lo sé.
+
+232
+00:19:29,458 --> 00:19:32,958
+- Presumí con el demonio equivocado.
+- ¡Claro!
+
+233
+00:19:33,041 --> 00:19:37,250
+Y Belzer dijo que era
+una insurrección, una rebelión.
+
+234
+00:19:37,333 --> 00:19:39,541
+Estaremos aquí para siempre.
+
+235
+00:19:39,625 --> 00:19:41,625
+Supongo que lo merecemos.
+
+236
+00:19:41,708 --> 00:19:45,916
+¿Qué? Tú ni has empezado
+a recibir lo que mereces.
+
+237
+00:20:03,875 --> 00:20:05,708
+¡Es una belzeburbuja!
+
+238
+00:20:07,500 --> 00:20:09,666
+¡De la Tierra de los Vivos!
+
+239
+00:20:10,500 --> 00:20:14,791
+<i>¡Buenas noticias, primos!</i>
+<i>¡Tienen una doncella infernal!</i>
+
+240
+00:20:15,791 --> 00:20:18,958
+- ¡La niña de nuestra visión!
+- ¡Es ella!
+
+241
+00:20:19,041 --> 00:20:21,958
+<i>Le marqué la mano para que la reconozcan.</i>
+
+242
+00:20:22,041 --> 00:20:24,500
+- ¿La mano?
+- <i>¡Alégrense!</i>
+
+243
+00:20:24,583 --> 00:20:27,750
+<i>¡Es un nuevo día en sus miserables vidas!</i>
+
+244
+00:20:31,458 --> 00:20:34,541
+¡Las doncellas infernales existen, Wild!
+
+245
+00:20:34,625 --> 00:20:37,958
+¡Podría invocarnos
+a la Tierra de los Vivos!
+
+246
+00:20:38,041 --> 00:20:41,750
+No podemos ir allí.
+Belzer dice que es peligroso.
+
+247
+00:20:41,833 --> 00:20:45,208
+¿Peligroso?
+Wild, ni siquiera ha estado ahí.
+
+248
+00:20:45,750 --> 00:20:49,333
+¡Entonces construiremos
+nuestra feria allí!
+
+249
+00:20:49,416 --> 00:20:50,375
+FERIA DE ENSUEÑO
+
+250
+00:20:50,458 --> 00:20:51,291
+¿Qué?
+
+251
+00:20:52,500 --> 00:20:55,750
+¡Qué gran idea, Wild! Nunca se enteraría.
+
+252
+00:20:56,833 --> 00:20:58,208
+¡Nos rebelaremos!
+
+253
+00:20:58,291 --> 00:21:01,333
+Silencio, ¡estamos bajo sus narices!
+
+254
+00:21:02,250 --> 00:21:03,500
+¿Qué haremos?
+
+255
+00:21:03,583 --> 00:21:06,916
+Hora de ver a la doncella. ¿Hay más crema?
+
+256
+00:21:07,500 --> 00:21:10,666
+Que comiencen las visiones.
+
+257
+00:21:14,583 --> 00:21:15,458
+Míralos.
+
+258
+00:21:17,208 --> 00:21:20,083
+Malditos concejales en sus casitas.
+
+259
+00:21:20,958 --> 00:21:27,416
+Ya han rechazado la prisión, Lane.
+¡Y vomitaré si lo vuelven a hacer!
+
+260
+00:21:28,541 --> 00:21:30,833
+No soy optimista, Irmgard.
+
+261
+00:21:30,916 --> 00:21:34,166
+No aceptan sobornos y son muy listos para…
+
+262
+00:21:34,750 --> 00:21:35,833
+ser retirados.
+
+263
+00:21:38,291 --> 00:21:40,916
+Bueno, tengo buenas noticias.
+
+264
+00:21:41,000 --> 00:21:44,166
+Tenemos una niña nueva en RBC.
+
+265
+00:21:45,791 --> 00:21:47,500
+¡Beca completa!
+
+266
+00:21:48,083 --> 00:21:51,375
+Siobhan le contó a mamá todo sobre ella.
+
+267
+00:21:51,458 --> 00:21:54,875
+El estado paga
+para que acepte delincuentes.
+
+268
+00:21:55,458 --> 00:22:01,291
+Ese es nuestro negocio, Bests.
+¿Cómo se atreve a competir con Klax Korp?
+
+269
+00:22:01,375 --> 00:22:06,041
+Técnicamente, no estoy compitiendo.
+No tienen una prisión.
+
+270
+00:22:06,916 --> 00:22:11,708
+Es cierto, Lane. Necesitamos concejales
+para ganar la votación.
+
+271
+00:22:11,791 --> 00:22:16,583
+Sí, los de la vieja guardia.
+Ellos votarían por ustedes.
+
+272
+00:22:17,125 --> 00:22:23,875
+- ¿Dónde los encontramos, padre?
+- En los mejores mausoleos del cementerio.
+
+273
+00:22:24,666 --> 00:22:25,875
+¿Están muertos?
+
+274
+00:22:26,625 --> 00:22:28,583
+Se acabó, Bests.
+
+275
+00:22:28,666 --> 00:22:32,333
+Ya no financiaremos su preciada RBC.
+
+276
+00:22:32,416 --> 00:22:36,666
+Yo los defendí
+la noche del incendio de la cervecería.
+
+277
+00:22:37,416 --> 00:22:38,250
+Es verdad.
+
+278
+00:22:38,958 --> 00:22:40,416
+Elimínalo.
+
+279
+00:22:41,541 --> 00:22:42,625
+¿Qué es eso?
+
+280
+00:22:53,875 --> 00:22:56,750
+Morir ahogado es muy pacífico.
+
+281
+00:22:57,250 --> 00:22:59,458
+Así es, querida Irmgard.
+
+282
+00:23:10,416 --> 00:23:12,708
+Raúl, ¿tu proyecto, ahora?
+
+283
+00:23:12,791 --> 00:23:15,208
+Ya casi termino el mural, mami.
+
+284
+00:23:17,416 --> 00:23:18,416
+Hola, Irwin.
+
+285
+00:23:20,000 --> 00:23:22,500
+¿Cómo "aplacar la situación"?
+
+286
+00:23:23,333 --> 00:23:28,583
+Pero soy la mejor asistente legal.
+Mi tasa de éxito es la más alta.
+
+287
+00:23:32,166 --> 00:23:35,125
+Estoy luchando por conservar mi casa.
+
+288
+00:23:35,750 --> 00:23:39,291
+¿Qué voy a hacer?
+Tengo un hijo que alimentar.
+
+289
+00:23:39,375 --> 00:23:41,500
+¡No! Un hijo, ¿recuerdas?
+
+290
+00:23:41,583 --> 00:23:43,291
+INFIERNO EN CERVECERÍA
+
+291
+00:23:43,375 --> 00:23:46,541
+Sí. Sigo investigando el incendio.
+
+292
+00:23:46,625 --> 00:23:50,666
+Win, esos empleados
+eran mis amigos, mis vecinos.
+
+293
+00:23:51,458 --> 00:23:54,000
+Sé que los Klaxon son peligrosos.
+
+294
+00:23:54,500 --> 00:23:59,916
+Si pruebo que son culpables,
+no habrá prisión. Solo necesito un testi…
+
+295
+00:24:00,625 --> 00:24:02,500
+¿Eso es todo? ¿Se acabó?
+
+296
+00:24:03,166 --> 00:24:05,041
+¡No te atrevas a colgar!
+
+297
+00:24:06,916 --> 00:24:07,750
+Cobarde.
+
+298
+00:24:10,916 --> 00:24:14,250
+CONCEJO MUNICIPAL
+
+299
+00:26:11,000 --> 00:26:14,583
+De verdad necesito hablar con ustedes.
+
+300
+00:26:35,125 --> 00:26:36,708
+<i>Ya casi llegamos.</i>
+
+301
+00:26:41,208 --> 00:26:42,083
+<i>¿Qué, nena?</i>
+
+302
+00:26:42,583 --> 00:26:43,416
+<i>¡Cuidado!</i>
+
+303
+00:26:43,500 --> 00:26:44,333
+<i>¡No!</i>
+
+304
+00:26:45,000 --> 00:26:46,250
+<i>¡Delroy!</i>
+
+305
+00:26:46,333 --> 00:26:48,500
+<i>Escucha, escúchame, Kat.</i>
+
+306
+00:26:48,583 --> 00:26:51,583
+<i>Nada como te enseñamos. Hasta arriba.</i>
+
+307
+00:26:51,666 --> 00:26:53,791
+<i>- ¿No vienes?</i>
+<i>- ¡Te seguiré!</i>
+
+308
+00:26:53,875 --> 00:26:56,791
+<i>- Mamá, ¡tengo miedo!</i>
+- <i>Bien, escucha.</i>
+
+309
+00:26:56,875 --> 00:26:59,041
+<i>Debes respirar hondo.</i>
+
+310
+00:27:01,000 --> 00:27:01,916
+<i>Ahora, ¡ve!</i>
+
+311
+00:27:33,125 --> 00:27:36,000
+¿Quiénes son? ¿Qué hacen en mi sueño?
+
+312
+00:27:36,083 --> 00:27:38,583
+- Hola, doncella infernal.
+- ¿Yo?
+
+313
+00:27:39,583 --> 00:27:40,916
+Tienes la marca.
+
+314
+00:27:41,000 --> 00:27:42,833
+<i>¡No le digas a nadie!</i>
+
+315
+00:27:43,333 --> 00:27:45,625
+¿Qué marca? Yo no tengo nada.
+
+316
+00:27:45,708 --> 00:27:46,791
+Claro que sí.
+
+317
+00:27:47,583 --> 00:27:48,750
+Está justo ahí.
+
+318
+00:27:49,333 --> 00:27:50,208
+¡Oye!
+
+319
+00:27:50,291 --> 00:27:51,583
+¿Qué quieren?
+
+320
+00:27:52,291 --> 00:27:56,333
+- Somos Wendell y Wild.
+- Tus demonios personales.
+
+321
+00:27:56,916 --> 00:27:59,083
+- ¿Qué?
+- Puedes invocarnos.
+
+322
+00:27:59,166 --> 00:28:03,125
+- ¿Por qué lo haría?
+- Te daremos lo que quieras.
+
+323
+00:28:03,833 --> 00:28:06,000
+Solo quiero a mis padres.
+
+324
+00:28:06,875 --> 00:28:08,166
+Y están muertos.
+
+325
+00:28:08,250 --> 00:28:09,125
+Ajá.
+
+326
+00:28:09,208 --> 00:28:10,166
+¡Reunión!
+
+327
+00:28:10,666 --> 00:28:14,458
+- No podemos resucitarlos.
+- Pero sabemos mentir.
+
+328
+00:28:14,541 --> 00:28:15,750
+Gran idea.
+
+329
+00:28:16,333 --> 00:28:19,333
+- ¡No hay problema!
+- ¡Sí! Haz lo tuyo.
+
+330
+00:28:19,416 --> 00:28:21,333
+Y haremos que revivan.
+
+331
+00:28:21,958 --> 00:28:23,125
+Qué ridículo.
+
+332
+00:28:23,208 --> 00:28:25,333
+- Bueno…
+- No pierdes nada.
+
+333
+00:28:28,583 --> 00:28:29,416
+Está bien.
+
+334
+00:28:30,000 --> 00:28:30,958
+¿Qué hago?
+
+335
+00:28:31,041 --> 00:28:34,750
+- Primero, encuentra a Belzeboso.
+- ¿Qué es eso?
+
+336
+00:28:34,833 --> 00:28:38,083
+Busca doncellas infernales. Te halló a ti.
+
+337
+00:28:38,166 --> 00:28:40,500
+- Te marcó la mano.
+- ¿Y luego?
+
+338
+00:28:40,583 --> 00:28:44,000
+Llévalo a la tumba la próxima luna llena.
+
+339
+00:28:44,083 --> 00:28:47,083
+- Te dirá qué hacer.
+- ¡Una cosa más!
+
+340
+00:28:47,166 --> 00:28:49,500
+¡Debes tener un testigo!
+
+341
+00:29:01,041 --> 00:29:02,041
+Belzeboso.
+
+342
+00:29:35,625 --> 00:29:37,791
+CIENCIA
+
+343
+00:30:24,291 --> 00:30:25,250
+¿Belzeboso?
+
+344
+00:30:32,000 --> 00:30:33,083
+<i>¡Ladrona!</i>
+
+345
+00:30:53,750 --> 00:30:55,416
+La hermana…
+
+346
+00:30:57,000 --> 00:31:00,875
+Helley es una…
+
+347
+00:31:03,833 --> 00:31:04,916
+¡ladrona!
+
+348
+00:31:07,833 --> 00:31:10,208
+¡Vuelve aquí, espía!
+
+349
+00:31:20,125 --> 00:31:21,791
+Ay, Helley.
+
+350
+00:31:22,375 --> 00:31:24,416
+Deberías haberlo devuelto.
+
+351
+00:31:25,875 --> 00:31:28,333
+Ahora ambos estamos a oscuras.
+
+352
+00:31:32,916 --> 00:31:36,833
+¡Despierten, almas de los condenados!
+
+353
+00:31:37,333 --> 00:31:42,000
+¡Es el papá de la Feria de los Gritos!
+¡Digan mi nombre!
+
+354
+00:31:42,083 --> 00:31:44,291
+¡Belzer!
+
+355
+00:31:44,375 --> 00:31:45,916
+¡Digan mi nombre!
+
+356
+00:31:46,000 --> 00:31:47,791
+¡Belzer!
+
+357
+00:31:48,541 --> 00:31:49,916
+¡Digan mi nombre!
+
+358
+00:31:50,000 --> 00:31:52,000
+¡Belzer!
+
+359
+00:31:54,958 --> 00:32:00,500
+- ¡Cielos! ¡Qué fanfarrón presumido!
+- Debes amarlo, no puedes irte.
+
+360
+00:32:00,583 --> 00:32:03,125
+¡Los condenados deben alabarlo!
+
+361
+00:32:03,208 --> 00:32:06,666
+En nuestra feria, harán fila para entrar.
+
+362
+00:32:06,750 --> 00:32:07,583
+¡Así es!
+
+363
+00:32:08,083 --> 00:32:11,458
+- Pero ¿cómo conseguiremos dinero?
+- Lo sé.
+
+364
+00:32:11,541 --> 00:32:12,541
+¿Sí, Wild?
+
+365
+00:32:12,625 --> 00:32:17,250
+- ¿Recuerdas esa alma en pena rica?
+- ¿El príncipe nigeriano?
+
+366
+00:32:17,333 --> 00:32:20,333
+Dijo que, si lo ayudábamos a escapar…
+
+367
+00:32:20,416 --> 00:32:25,250
+- ¡Eso es una estafa, Wild!
+- ¡Es un plan de financiación!
+
+368
+00:32:25,333 --> 00:32:29,166
+¿Y si te saco los cuernos,
+los froto y hago una fogata?
+
+369
+00:32:31,125 --> 00:32:32,291
+¡Qué asco!
+
+370
+00:32:43,833 --> 00:32:46,333
+Detén el carro. ¡Detén el carro!
+
+371
+00:32:46,833 --> 00:32:47,833
+Muy bien, sí.
+
+372
+00:32:49,333 --> 00:32:52,208
+Esa garrapata estaba muerta.
+
+373
+00:32:52,291 --> 00:32:53,916
+¿Por qué me molestas?
+
+374
+00:32:54,000 --> 00:32:57,125
+Tenemos un problema serio, y dices…
+
+375
+00:33:09,375 --> 00:33:10,208
+¡Otra vez!
+
+376
+00:33:16,958 --> 00:33:18,458
+¿Ves, Wendell?
+
+377
+00:33:18,541 --> 00:33:22,625
+La gente pagaría mucho para revivir, ¿no?
+
+378
+00:33:23,291 --> 00:33:25,916
+Sí, pero solo era una garrapata.
+
+379
+00:33:26,000 --> 00:33:29,250
+Debemos probar la crema
+en algo más grande.
+
+380
+00:33:32,416 --> 00:33:34,375
+Oye, Sparkigrado…
+
+381
+00:33:43,125 --> 00:33:45,500
+¿Y si no podemos revivirlo?
+
+382
+00:33:45,583 --> 00:33:47,458
+No podría con la culpa.
+
+383
+00:33:48,333 --> 00:33:49,541
+Yo tampoco.
+
+384
+00:33:52,583 --> 00:33:55,416
+Mira, la luna llena saldrá pronto.
+
+385
+00:33:55,500 --> 00:34:01,166
+- La doncella infernal nos invocará.
+- ¡Probaremos la crema en sus padres!
+
+386
+00:34:01,250 --> 00:34:05,500
+- ¿Y si funciona?
+- ¡Conseguiremos dinero para la feria!
+
+387
+00:34:07,458 --> 00:34:09,583
+Necesitaremos transporte.
+
+388
+00:34:16,333 --> 00:34:21,041
+CEMENTERIO DE RUST BANK
+
+389
+00:34:21,125 --> 00:34:23,166
+Encomendamos al hermano…
+
+390
+00:34:23,250 --> 00:34:24,583
+PADRE LEVEL BESTS
+
+391
+00:34:37,041 --> 00:34:38,208
+Luna llena.
+
+392
+00:35:22,500 --> 00:35:26,583
+Quizá sea más difícil
+porque acababas de conocerlo.
+
+393
+00:35:26,666 --> 00:35:29,750
+- No.
+- El padre Bests te salvó la vida.
+
+394
+00:35:29,833 --> 00:35:32,500
+Solo quería salvar la escuela.
+
+395
+00:35:32,583 --> 00:35:37,041
+Kay-Kay, se acostumbra
+arrojar un clavel sobre el ataúd.
+
+396
+00:35:37,125 --> 00:35:39,833
+¡No soy Kay-Kay! Y yo no hago eso.
+
+397
+00:35:40,416 --> 00:35:42,583
+Hora de despedirse, Kay-Kay.
+
+398
+00:35:43,333 --> 00:35:44,333
+¡Bien!
+
+399
+00:35:45,333 --> 00:35:46,333
+¡Adiós!
+
+400
+00:35:50,166 --> 00:35:52,333
+- Ven conmigo.
+- ¿Por qué?
+
+401
+00:35:52,416 --> 00:35:54,916
+Necesito un testigo, y serás tú.
+
+402
+00:36:01,500 --> 00:36:04,291
+¿Por qué esos caniches me molestan?
+
+403
+00:36:04,375 --> 00:36:06,333
+Para que seas como ellas.
+
+404
+00:36:10,166 --> 00:36:12,833
+Vaya, tú también eras un caniche.
+
+405
+00:36:13,333 --> 00:36:16,041
+Lo intenté, pero…
+
+406
+00:36:17,208 --> 00:36:19,041
+No eres tan molesto.
+
+407
+00:36:20,083 --> 00:36:23,333
+Siobhan es buena
+para los padres que tiene.
+
+408
+00:36:23,416 --> 00:36:24,458
+¿Los padres?
+
+409
+00:36:24,541 --> 00:36:26,750
+Los Klaxon. ¿Klax Korp?
+
+410
+00:36:27,458 --> 00:36:28,958
+¿Es una Klaxon?
+
+411
+00:36:35,083 --> 00:36:36,083
+Ahí está.
+
+412
+00:36:39,333 --> 00:36:41,625
+Y… ¡bum! Listo, muy bien.
+
+413
+00:36:41,708 --> 00:36:44,750
+¡Cielos! ¿Es una escultura o un espejo?
+
+414
+00:36:46,666 --> 00:36:49,291
+No. Eso no funcionará.
+
+415
+00:36:50,916 --> 00:36:52,166
+Bueno, muy bien.
+
+416
+00:36:54,416 --> 00:36:56,916
+Estoy haciendo algo importante.
+
+417
+00:36:57,000 --> 00:36:59,875
+LA FERIA DE ENSUEÑO DE WENDELL Y WILD
+
+418
+00:37:00,541 --> 00:37:03,625
+¡Vamos, doncella infernal! ¡Invócanos!
+
+419
+00:37:12,583 --> 00:37:15,250
+La Sra. Hunter dijo que fue terrible.
+
+420
+00:37:16,750 --> 00:37:21,333
+EN MEMORIA DE LOS FALLECIDOS
+EN EL INCENDIO DE LA CERVECERÍA
+
+421
+00:37:23,833 --> 00:37:24,666
+Vamos.
+
+422
+00:37:26,958 --> 00:37:31,708
+Mi mamá cree que fue intencional,
+pero necesita un testigo.
+
+423
+00:37:46,083 --> 00:37:47,541
+¿Tus padres?
+
+424
+00:37:48,125 --> 00:37:52,125
+EL AMOR ES MÁS FUERTE QUE LA MUERTE
+
+425
+00:37:56,833 --> 00:37:59,625
+¿Vas a hacer un altar?
+
+426
+00:37:59,708 --> 00:38:00,541
+No.
+
+427
+00:38:01,166 --> 00:38:04,250
+Bien, ahora dime qué hacer.
+
+428
+00:38:04,333 --> 00:38:05,166
+¿Con qué?
+
+429
+00:38:05,250 --> 00:38:06,875
+Tú no, Raúl. El oso.
+
+430
+00:38:18,916 --> 00:38:23,250
+<i>- Pásame con la doncella infernal.</i>
+¿Doncella infernal?
+
+431
+00:38:24,750 --> 00:38:25,666
+Kat…
+
+432
+00:38:25,750 --> 00:38:28,166
+<i>Ahora, repite después de mí.</i>
+
+433
+00:38:28,250 --> 00:38:29,541
+¿Qué pasa, Kat?
+
+434
+00:38:29,625 --> 00:38:32,625
+Hice un trato. Reviviré a mis padres.
+
+435
+00:38:32,708 --> 00:38:33,583
+¿Qué?
+
+436
+00:38:33,666 --> 00:38:34,500
+¡Silencio!
+
+437
+00:38:35,458 --> 00:38:39,250
+Per Virginem, facultates, infernum.
+
+438
+00:38:39,833 --> 00:38:43,791
+<i>Per Virginem, facultates, infernum.</i>
+
+439
+00:38:44,708 --> 00:38:46,958
+Aperire portas…
+
+440
+00:38:47,041 --> 00:38:49,291
+<i>Aperire portas…</i>
+
+441
+00:38:50,041 --> 00:38:54,166
+Ut redeat daemones parentibus.
+
+442
+00:38:54,250 --> 00:38:59,041
+<i>Ut redeat daemones parentibus.</i>
+
+443
+00:39:11,041 --> 00:39:13,833
+Aquí está la crema. Hay que poner…
+
+444
+00:39:24,208 --> 00:39:25,625
+¡La invocación!
+
+445
+00:39:25,708 --> 00:39:27,083
+¡La invocación!
+
+446
+00:39:27,166 --> 00:39:29,583
+¡El hechizo de invocación!
+
+447
+00:39:32,791 --> 00:39:33,625
+¡Vamos!
+
+448
+00:39:33,708 --> 00:39:36,083
+¡Aleteen!
+
+449
+00:39:36,708 --> 00:39:38,083
+Aquí vamos.
+
+450
+00:39:38,166 --> 00:39:40,291
+¡Muy bien, Sparki!
+
+451
+00:39:41,708 --> 00:39:44,333
+Tranquilo, Sparki. Aquí vamos.
+
+452
+00:39:44,416 --> 00:39:46,125
+¡Muy bien, Almadictos!
+
+453
+00:39:58,500 --> 00:39:59,541
+¡No!
+
+454
+00:39:59,625 --> 00:40:01,250
+Vuelve a dormir.
+
+455
+00:40:03,833 --> 00:40:05,250
+¡Eso estuvo cerca!
+
+456
+00:40:19,083 --> 00:40:20,208
+¿Qué?
+
+457
+00:40:21,166 --> 00:40:22,125
+¡Sí!
+
+458
+00:40:22,208 --> 00:40:26,791
+POR AQUÍ
+
+459
+00:40:36,208 --> 00:40:39,083
+¡Hola, doncella infernal!
+
+460
+00:40:39,166 --> 00:40:41,083
+¡Ya llegamos!
+
+461
+00:40:49,083 --> 00:40:52,125
+¡No seas tímida!
+
+462
+00:40:55,041 --> 00:40:56,416
+¡No, por favor!
+
+463
+00:40:57,375 --> 00:40:58,458
+¡Vamos!
+
+464
+00:40:58,541 --> 00:41:01,708
+¡Di algo! ¡Dime qué hacer! ¡Por favor!
+
+465
+00:41:06,875 --> 00:41:08,166
+¡Me mintieron!
+
+466
+00:41:28,958 --> 00:41:29,791
+Vaya.
+
+467
+00:41:31,125 --> 00:41:32,750
+Hola, hermana Helley.
+
+468
+00:41:32,833 --> 00:41:37,750
+- ¿Por qué no estaban en el autobús?
+- ¿Kat quería un testigo?
+
+469
+00:41:37,833 --> 00:41:41,333
+Fue mi culpa. No quería ver la tumba sola.
+
+470
+00:41:41,833 --> 00:41:42,958
+Claro.
+
+471
+00:41:43,458 --> 00:41:48,291
+Bien. Tendremos
+una fría y larga caminata de regreso.
+
+472
+00:41:51,125 --> 00:41:52,833
+Ya aparecerá.
+
+473
+00:41:53,583 --> 00:41:54,750
+Mientras tanto…
+
+474
+00:41:54,833 --> 00:41:56,833
+¡Probemos la crema!
+
+475
+00:41:59,000 --> 00:42:01,791
+Mira, ¡una tumba recién cavada!
+
+476
+00:42:02,583 --> 00:42:05,000
+¡Hora de tragar tierra, Sparki!
+
+477
+00:42:14,208 --> 00:42:15,375
+Aquí vamos.
+
+478
+00:42:21,083 --> 00:42:23,708
+Ese cura sí que está hecho trizas.
+
+479
+00:42:23,791 --> 00:42:28,166
+Pero, si podemos revivirlo,
+podemos revivir a cualquiera.
+
+480
+00:42:39,000 --> 00:42:39,875
+¿Wendell?
+
+481
+00:42:40,583 --> 00:42:41,791
+No funciona.
+
+482
+00:42:46,416 --> 00:42:49,500
+- ¡Funcionó!
+- ¿Lo puedes creer?
+
+483
+00:42:53,125 --> 00:42:54,916
+- ¿Quién lo hizo?
+- ¡Nosotros!
+
+484
+00:42:55,000 --> 00:42:57,875
+¡Dios mío! ¡Estoy en el infierno!
+
+485
+00:42:57,958 --> 00:42:59,375
+¡No, padre!
+
+486
+00:42:59,458 --> 00:43:02,416
+¡Está de vuelta en Rust Bank, vivo!
+
+487
+00:43:03,375 --> 00:43:06,000
+¡Gracias, Señor, por este milagro!
+
+488
+00:43:06,083 --> 00:43:08,000
+¡Fuimos nosotros, no Él!
+
+489
+00:43:08,083 --> 00:43:09,583
+- ¿Qué?
+- Wendell y Wild.
+
+490
+00:43:09,666 --> 00:43:11,958
+¿Ustedes? Pero son demonios.
+
+491
+00:43:12,041 --> 00:43:13,500
+Tranquilo, padre.
+
+492
+00:43:13,583 --> 00:43:15,916
+Somos fenómenos funerarios.
+
+493
+00:43:16,000 --> 00:43:18,291
+Los artistas del más allá.
+
+494
+00:43:28,791 --> 00:43:29,625
+Y…
+
+495
+00:43:33,250 --> 00:43:35,875
+¡Qué trabajo extraordinario!
+
+496
+00:43:37,041 --> 00:43:39,958
+Ahora, en cuanto al pago…
+
+497
+00:43:40,500 --> 00:43:42,083
+¿Tengo que pagarles?
+
+498
+00:43:42,583 --> 00:43:45,000
+- ¿Cuánto?
+- Todo lo que tenga.
+
+499
+00:43:45,083 --> 00:43:50,250
+- ¡Haremos el mejor parque de diversiones!
+- ¡La Feria de Ensueño!
+
+500
+00:43:51,250 --> 00:43:54,625
+Y usted y todos sus vecinos lo pagarán.
+
+501
+00:43:56,583 --> 00:43:59,708
+Tengo que mostrarles algo.
+
+502
+00:43:59,791 --> 00:44:00,625
+Vengan.
+
+503
+00:44:04,583 --> 00:44:05,458
+Esto…
+
+504
+00:44:06,666 --> 00:44:08,041
+es Rust Bank.
+
+505
+00:44:08,916 --> 00:44:09,875
+Miren.
+
+506
+00:44:12,666 --> 00:44:13,750
+No hay empleo.
+
+507
+00:44:14,958 --> 00:44:16,041
+No hay bancos.
+
+508
+00:44:17,000 --> 00:44:19,083
+No hay gente.
+
+509
+00:44:19,958 --> 00:44:23,500
+Adelante, resuciten
+a todos los que quieran,
+
+510
+00:44:23,583 --> 00:44:27,208
+pero no hay nadie
+que pueda pagar por esa feria.
+
+511
+00:44:35,916 --> 00:44:40,000
+¿Qué nos impide
+poner su trasero de nuevo en el suelo?
+
+512
+00:44:40,583 --> 00:44:43,916
+Sí, su trasero apestoso.
+
+513
+00:44:45,708 --> 00:44:50,500
+<i>Es cierto, Lane. Necesitamos concejales</i>
+<i>para ganar la votación.</i>
+
+514
+00:44:50,583 --> 00:44:55,000
+<i>Sí, los de la vieja guardia.</i>
+<i>¡Ellos votarían por ustedes!</i>
+
+515
+00:44:56,291 --> 00:44:59,083
+¡Esperen! Acabo de tener una visión.
+
+516
+00:44:59,583 --> 00:45:03,708
+Los Klaxon pagarían por sus servicios.
+
+517
+00:45:03,791 --> 00:45:06,916
+- ¿Alcanzará para la feria?
+- ¿Y todos los adornos?
+
+518
+00:45:07,750 --> 00:45:11,791
+Alcanzará para todo eso
+y para salvar mi escuela.
+
+519
+00:45:18,500 --> 00:45:20,166
+Bueno, llegamos, Kat.
+
+520
+00:45:21,375 --> 00:45:26,250
+Solo dime una cosa antes de irte.
+¿Guardaste nuestro secreto?
+
+521
+00:45:29,708 --> 00:45:32,375
+Sé que eres una doncella infernal.
+
+522
+00:45:32,958 --> 00:45:37,166
+- ¿Cómo puede saberlo?
+- Soy una especie de experta.
+
+523
+00:45:38,125 --> 00:45:41,875
+Y no quieres
+que cierta gente se entere de eso.
+
+524
+00:45:42,791 --> 00:45:47,875
+- ¿Por qué se preocupa por mí?
+- Me preocupo porque era como tú.
+
+525
+00:45:47,958 --> 00:45:50,166
+¿Usted también era tonta?
+
+526
+00:45:50,250 --> 00:45:54,083
+- No eres tonta, Kat.
+- Maté a mis padres.
+
+527
+00:45:54,166 --> 00:45:57,666
+¡Los vi ahogarse,
+ni siquiera traté de ayudar!
+
+528
+00:45:57,750 --> 00:46:02,291
+- Soy tan tonta que creí que…
+- ¡Basta! No fue tu culpa.
+
+529
+00:46:02,375 --> 00:46:04,416
+No se parece en nada a mí.
+
+530
+00:46:15,416 --> 00:46:19,708
+Estábamos muy preocupadas, Kay-Kay.
+¿Dónde estabas?
+
+531
+00:46:19,791 --> 00:46:23,041
+- ¿Me arrestarás, Klax Korp?
+- ¿Arrestarte?
+
+532
+00:46:23,125 --> 00:46:26,958
+- Son los de la prisión.
+- Sí. Prisiones privadas.
+
+533
+00:46:27,041 --> 00:46:30,375
+Con terapia, desintoxicación y limpiezas.
+
+534
+00:46:30,458 --> 00:46:34,250
+- ¿Has estado en una prisión privada?
+- Bueno, no.
+
+535
+00:46:40,041 --> 00:46:41,125
+Me imaginaba.
+
+536
+00:46:44,458 --> 00:46:47,666
+ADAPTACIONES DE PLANTAS CARNÍVORAS
+
+537
+00:46:48,250 --> 00:46:49,250
+Es muy lindo.
+
+538
+00:46:49,333 --> 00:46:51,041
+Ese sueño que tuviste…
+
+539
+00:46:53,625 --> 00:46:57,041
+Quizá fue una broma de otras estudiantes.
+
+540
+00:46:57,125 --> 00:46:59,791
+¡Dije que eran demonios, Raúl!
+
+541
+00:46:59,875 --> 00:47:02,833
+Mis demonios personales. ¡Y mintieron!
+
+542
+00:47:03,916 --> 00:47:07,625
+Los demonios no son
+las criaturas más confiables.
+
+543
+00:47:09,916 --> 00:47:12,083
+<i>¡Buenos días, RBC!</i>
+
+544
+00:47:12,166 --> 00:47:14,833
+<i>Soy el mismísimo padre Bests.</i>
+
+545
+00:47:14,916 --> 00:47:19,791
+<i>Los rumores de mi muerte</i>
+<i>han sido muy exagerados.</i>
+
+546
+00:47:19,875 --> 00:47:22,833
+- ¿Qué?
+- <i>Así que volví al trabajo.</i>
+
+547
+00:47:22,916 --> 00:47:27,833
+<i>Guiaré a esta gloriosa institución</i>
+<i>hacia el futuro.</i>
+
+548
+00:47:28,625 --> 00:47:30,708
+¡Es el querido padre Bests!
+
+549
+00:47:30,791 --> 00:47:31,916
+¡Está vivo!
+
+550
+00:47:32,000 --> 00:47:34,833
+- ¡Dios!
+- ¡Muy bien, chicos! Bueno.
+
+551
+00:47:34,916 --> 00:47:36,958
+Por favor, ¡cálmense!
+
+552
+00:47:37,041 --> 00:47:39,750
+- Solo…
+- Es un milagro, ¿no?
+
+553
+00:47:50,666 --> 00:47:51,500
+¡Vamos!
+
+554
+00:47:53,541 --> 00:47:54,375
+¿Kay-Kay?
+
+555
+00:48:00,541 --> 00:48:04,291
+¡Debían revivir a mis padres, no a usted!
+
+556
+00:48:05,666 --> 00:48:10,083
+¡Vaya! ¿En serio, señorita Elliot?
+
+557
+00:48:11,166 --> 00:48:14,250
+Quizá yo soy más importante
+
+558
+00:48:15,208 --> 00:48:16,541
+que sus padres.
+
+559
+00:48:17,083 --> 00:48:20,666
+¡Viejo asqueroso!
+
+560
+00:48:20,750 --> 00:48:24,291
+Usted no estaría aquí si no fuera por Kat.
+
+561
+00:48:24,791 --> 00:48:28,833
+- ¿Cómo es eso?
+- Ella invocó a esos demonios…
+
+562
+00:48:30,416 --> 00:48:35,875
+Bueno, si no pueden explicarlo,
+tengo mejores cosas que hacer.
+
+563
+00:48:37,708 --> 00:48:40,250
+¡Código siete!
+
+564
+00:48:40,333 --> 00:48:43,333
+- Toma de rehenes en la oficina.
+- ¿Qué?
+
+565
+00:48:43,416 --> 00:48:47,000
+- ¡Despliéguense, pingüinos!
+- No hicimos nada.
+
+566
+00:48:47,083 --> 00:48:50,000
+Niños, la vida es valiosa.
+
+567
+00:48:51,000 --> 00:48:54,791
+- Y no la desperdiciaré con ustedes.
+- ¡Muévete!
+
+568
+00:49:00,208 --> 00:49:01,833
+MARCADO RÁPIDO
+
+569
+00:49:01,916 --> 00:49:05,000
+ESTA SEMANA SE VOTA
+EL PROYECTO DE LA PRISIÓN
+
+570
+00:49:05,083 --> 00:49:06,500
+LLAMANDO
+
+571
+00:49:06,583 --> 00:49:10,375
+¿Qué demonios? ¡El teléfono de Bests!
+
+572
+00:49:17,666 --> 00:49:20,375
+El padre Bests revivió.
+
+573
+00:49:21,041 --> 00:49:23,000
+¿Cómo puede ser, Manberg?
+
+574
+00:49:23,083 --> 00:49:24,583
+TROCITOS DE TOCINO
+
+575
+00:49:24,666 --> 00:49:30,166
+¿Recuerdas a tu primer demonio, Helley?
+Tenías 12 cuando lo capturamos.
+
+576
+00:49:30,250 --> 00:49:35,333
+Sí, me hacías invocar demonios
+para añadirlos a tu tonta colección.
+
+577
+00:49:35,916 --> 00:49:41,416
+¡Te hice mi pie derecho de la justicia,
+y tú me abandonaste!
+
+578
+00:49:41,500 --> 00:49:45,041
+¡No se trataba de justicia!
+Era una trampa.
+
+579
+00:49:45,833 --> 00:49:46,791
+Estaba mal.
+
+580
+00:49:56,583 --> 00:50:00,041
+Hay una nueva doncella infernal aquí, ¿no?
+
+581
+00:50:00,125 --> 00:50:03,208
+Está… ¡Está a salvo!
+
+582
+00:50:03,291 --> 00:50:09,083
+Mi oso me habría avisado con tiempo
+para que pudiera entrenarla y cuidarla.
+
+583
+00:50:09,166 --> 00:50:11,500
+Pero me lo robaste.
+
+584
+00:50:11,583 --> 00:50:15,791
+Y la nueva doncella infernal
+te lo robó a ti.
+
+585
+00:50:24,125 --> 00:50:26,083
+Estaré esperando, Helley.
+
+586
+00:50:40,791 --> 00:50:44,666
+NO TOMARÁS DE REHÉN AL PADRE BESTS
+
+587
+00:51:17,041 --> 00:51:19,000
+- No rías.
+- ¡A trabajar!
+
+588
+00:51:30,041 --> 00:51:34,166
+VOY A ELIMINAR A ESAS MONJAS
+
+589
+00:51:42,083 --> 00:51:43,625
+Manberg tenía razón.
+
+590
+00:51:51,166 --> 00:51:52,000
+Por fin.
+
+591
+00:51:56,666 --> 00:51:59,208
+¡Hermana Daley! ¡Hermana Cincha!
+
+592
+00:52:03,083 --> 00:52:05,125
+Vamos, ¡despierten!
+
+593
+00:52:07,791 --> 00:52:08,916
+¿Irás sola?
+
+594
+00:52:09,708 --> 00:52:10,875
+¡Son demonios!
+
+595
+00:52:10,958 --> 00:52:13,166
+Mis demonios, mi problema.
+
+596
+00:52:15,541 --> 00:52:18,291
+Abran. ¡Es una emergencia!
+
+597
+00:52:19,875 --> 00:52:21,708
+¡Cincha! ¡Despierta!
+
+598
+00:52:25,041 --> 00:52:27,375
+¿Dónde están Kat y Raúl?
+
+599
+00:52:39,250 --> 00:52:40,500
+¡Kat!
+
+600
+00:52:41,916 --> 00:52:43,625
+¡Raúl!
+
+601
+00:52:45,500 --> 00:52:47,833
+Parecía su voz en el teléfono.
+
+602
+00:52:48,875 --> 00:52:50,250
+No puede ser.
+
+603
+00:52:50,333 --> 00:52:52,000
+Lo ahogamos aquí.
+
+604
+00:52:57,458 --> 00:53:00,458
+- ¡Debería estar muerto!
+- ¡Está horrible!
+
+605
+00:53:00,541 --> 00:53:02,333
+Me gusta mi apariencia.
+
+606
+00:53:03,375 --> 00:53:05,041
+¡Atrápalo, Lane!
+
+607
+00:53:05,125 --> 00:53:06,666
+Venga aquí, pequeño…
+
+608
+00:53:08,583 --> 00:53:10,791
+¡Lo eliminaré para siempre!
+
+609
+00:53:11,791 --> 00:53:14,458
+¡Esperen! ¡Puedo conseguir votos!
+
+610
+00:53:15,666 --> 00:53:18,208
+- ¿Para la prisión?
+- ¿Cómo?
+
+611
+00:53:18,791 --> 00:53:20,666
+¡El concejo vota mañana!
+
+612
+00:53:21,666 --> 00:53:23,500
+Ellos son mis socios,
+
+613
+00:53:24,000 --> 00:53:25,375
+Wendell y Wild.
+
+614
+00:53:27,041 --> 00:53:30,583
+- Revivimos al padre.
+- De entre los muertos.
+
+615
+00:53:30,666 --> 00:53:35,666
+Pueden revivir
+a los concejales de la vieja guardia.
+
+616
+00:53:35,750 --> 00:53:37,708
+¿Los del cementerio?
+
+617
+00:53:37,791 --> 00:53:40,333
+¡Sí! Estarán listos para votar.
+
+618
+00:53:42,708 --> 00:53:43,541
+¡Sí!
+
+619
+00:53:43,625 --> 00:53:45,166
+Consigan esos votos,
+
+620
+00:53:45,250 --> 00:53:47,833
+y los haremos ricos.
+
+621
+00:53:47,916 --> 00:53:50,708
+¿Alcanzará para nuestra feria?
+
+622
+00:53:50,791 --> 00:53:51,708
+¡Claro!
+
+623
+00:53:51,791 --> 00:53:56,083
+- Sacaremos los permisos, construiremos…
+- ¡Y listo!
+
+624
+00:53:57,625 --> 00:53:59,000
+¿Y mi escuela?
+
+625
+00:53:59,083 --> 00:54:00,500
+Claro, padre.
+
+626
+00:54:00,583 --> 00:54:04,500
+¡RBC tendrá todo nuestro apoyo económico!
+
+627
+00:54:08,583 --> 00:54:12,708
+Los empleados de la cervecería
+están en el cementerio.
+
+628
+00:54:14,875 --> 00:54:18,375
+Por cierto,
+¿planean resucitar a alguien más?
+
+629
+00:54:18,458 --> 00:54:21,166
+Los padres de la doncella infernal…
+
+630
+00:54:21,250 --> 00:54:23,833
+¡No!
+
+631
+00:54:23,916 --> 00:54:26,666
+Si resucitan a alguien más…
+
+632
+00:54:26,750 --> 00:54:30,750
+¡No habrá feria ni dinero para RBC!
+
+633
+00:54:30,833 --> 00:54:33,250
+- Esperen…
+- ¡Lo prometo!
+
+634
+00:54:33,333 --> 00:54:35,791
+Solo revivirán a sus votantes.
+
+635
+00:54:37,750 --> 00:54:39,875
+Bien. ¡Adiosito!
+
+636
+00:54:46,250 --> 00:54:48,500
+Ahí están, Wild.
+
+637
+00:54:48,583 --> 00:54:53,083
+- ¿Las tumbas de los concejales?
+- Exacto. Todas en fila.
+
+638
+00:54:53,666 --> 00:54:54,916
+¡Qué práctico!
+
+639
+00:54:59,291 --> 00:55:01,000
+¿Qué pasa, amigo?
+
+640
+00:55:03,166 --> 00:55:04,583
+¿Dónde estaban?
+
+641
+00:55:04,666 --> 00:55:06,500
+¡Doncella infernal!
+
+642
+00:55:06,583 --> 00:55:09,750
+¡Basta! Prometieron revivir a mis padres.
+
+643
+00:55:10,458 --> 00:55:12,333
+- No estabas aquí.
+- No.
+
+644
+00:55:12,416 --> 00:55:15,500
+Usamos a Bests de conejillo de Indias.
+
+645
+00:55:15,583 --> 00:55:16,958
+Ajá. Mira esto.
+
+646
+00:55:19,500 --> 00:55:22,208
+- ¿Qué es?
+- Nuestra salsa secreta.
+
+647
+00:55:22,291 --> 00:55:24,541
+- ¿Revivirá a mis papás?
+- Sí.
+
+648
+00:55:25,208 --> 00:55:27,041
+¡Genial! ¡Vamos!
+
+649
+00:55:27,875 --> 00:55:30,750
+Dijeron que no revivamos a nadie más.
+
+650
+00:55:30,833 --> 00:55:33,291
+- ¡Espera!
+- ¡Todavía no! Mira…
+
+651
+00:55:33,375 --> 00:55:36,333
+Ya no funciona así.
+
+652
+00:55:37,166 --> 00:55:39,708
+Primero, debes…
+
+653
+00:55:40,500 --> 00:55:41,833
+jurar lealtad.
+
+654
+00:55:41,916 --> 00:55:44,250
+- ¡Sí!
+- ¡Ese no era el trato!
+
+655
+00:55:44,333 --> 00:55:48,083
+Doncella infernal, ¿prometes servirnos…?
+
+656
+00:55:49,666 --> 00:55:53,125
+¡Por toda la eternidad!
+
+657
+00:55:53,208 --> 00:55:55,583
+- ¿Bromean?
+- ¡Detente, Kat!
+
+658
+00:55:55,666 --> 00:55:56,500
+¡Detente!
+
+659
+00:55:58,541 --> 00:56:01,375
+- ¡Basta, Raúl!
+- ¿Qué hace ahí?
+
+660
+00:56:02,958 --> 00:56:03,791
+Está bien.
+
+661
+00:56:04,875 --> 00:56:08,416
+Lo juro.
+
+662
+00:56:14,250 --> 00:56:17,625
+- ¿Qué hiciste?
+- Nada. Fue la calavera.
+
+663
+00:56:21,083 --> 00:56:22,791
+Para tu primera tarea…
+
+664
+00:56:23,791 --> 00:56:26,958
+¡Lo sé! Compra comida. ¡Tenemos hambre!
+
+665
+00:56:27,041 --> 00:56:30,333
+Solo queda El Faláfel de Fawzi.
+
+666
+00:56:30,416 --> 00:56:31,333
+Te ayudaré.
+
+667
+00:56:31,416 --> 00:56:32,541
+No.
+
+668
+00:56:32,625 --> 00:56:35,083
+Tú y Sparki deben cavar tumbas.
+
+669
+00:56:35,166 --> 00:56:39,166
+Te dije. Le pasan cosas malas
+a la gente que quiero.
+
+670
+00:56:44,541 --> 00:56:46,666
+No tenemos toda la noche.
+
+671
+00:56:58,250 --> 00:56:59,083
+Uno…
+
+672
+00:57:01,208 --> 00:57:04,458
+dos, tres, cuatro, cinco,
+
+673
+00:57:06,125 --> 00:57:07,208
+seis.
+
+674
+00:57:13,416 --> 00:57:14,416
+¡Aquí vamos!
+
+675
+00:57:24,708 --> 00:57:25,583
+Bienvenido.
+
+676
+00:57:26,666 --> 00:57:27,916
+Me alegra verte.
+
+677
+00:57:41,125 --> 00:57:42,916
+¡Cambio de imagen!
+
+678
+00:57:43,000 --> 00:57:45,125
+¡Hora del cambio de imagen!
+
+679
+00:57:49,166 --> 00:57:50,000
+¡Hola!
+
+680
+00:57:54,375 --> 00:57:55,208
+¡Salgan!
+
+681
+00:57:59,625 --> 00:58:02,250
+Voten a favor de la prisión.
+
+682
+00:58:02,333 --> 00:58:04,875
+VOTEN POR KLAX KORP
+
+683
+00:58:10,500 --> 00:58:14,458
+- ¡Ese grupo fue un desafío!
+- ¿Crema para celebrar?
+
+684
+00:58:15,791 --> 00:58:16,916
+¿Qué hacen?
+
+685
+00:58:17,625 --> 00:58:21,625
+- Da cosquillas en la pancita.
+- Lo merecemos.
+
+686
+00:58:21,708 --> 00:58:22,541
+¡Paren!
+
+687
+00:58:23,333 --> 00:58:29,875
+- No quedará nada para los padres de Kat.
+- Adoro a esa doncella infernal, pero…
+
+688
+00:58:29,958 --> 00:58:35,041
+Si revivimos a sus padres,
+los Klaxon no construirán nuestra feria.
+
+689
+00:59:01,208 --> 00:59:04,500
+EL FALÁFEL DE FAWZI
+
+690
+00:59:04,583 --> 00:59:06,750
+¡Me alegra que hayas vuelto!
+
+691
+00:59:07,875 --> 00:59:10,708
+Rust Bank necesita colores vivos.
+
+692
+00:59:10,791 --> 00:59:13,083
+Huele muy bien, señor Fawzi.
+
+693
+00:59:13,166 --> 00:59:15,333
+Quieres salsa picante, ¿no?
+
+694
+00:59:15,916 --> 00:59:18,125
+- Sí.
+- Toma toda la botella.
+
+695
+00:59:19,666 --> 00:59:22,250
+- Y no desaparezcas.
+- Gracias.
+
+696
+00:59:28,625 --> 00:59:29,625
+Bien.
+
+697
+00:59:58,666 --> 00:59:59,750
+Delroy.
+
+698
+00:59:59,833 --> 01:00:00,666
+¿Wilma?
+
+699
+01:00:00,750 --> 01:00:03,083
+¿Qué pasó?
+
+700
+01:00:03,916 --> 01:00:07,625
+Hola. Tienen que ir a la ciudad.
+
+701
+01:00:07,708 --> 01:00:08,791
+Busquen a Kat.
+
+702
+01:00:09,291 --> 01:00:10,458
+¿Kat está aquí?
+
+703
+01:00:11,208 --> 01:00:12,083
+Sí.
+
+704
+01:00:14,125 --> 01:00:15,458
+¿Cómo te llamas?
+
+705
+01:00:16,666 --> 01:00:18,791
+Raúl. ¡Por favor, apúrense!
+
+706
+01:00:32,375 --> 01:00:37,791
+- Nos robaste la crema, Raúl.
+- ¡Reviviste a los padres de la doncella!
+
+707
+01:00:42,458 --> 01:00:45,375
+Algo no anda bien ahí arriba.
+
+708
+01:00:50,541 --> 01:00:54,375
+Despierten, vagos.
+Hay una emergencia capilar.
+
+709
+01:00:55,083 --> 01:00:57,166
+Vamos, despierten.
+
+710
+01:00:57,250 --> 01:00:58,083
+Está bien.
+
+711
+01:01:01,458 --> 01:01:03,875
+Se ven muy mal, muchachos.
+
+712
+01:01:05,958 --> 01:01:06,791
+¿Qué?
+
+713
+01:01:08,375 --> 01:01:09,875
+¡Almadictos!
+
+714
+01:01:10,375 --> 01:01:12,000
+¡Vamos!
+
+715
+01:01:19,750 --> 01:01:21,041
+¿Qué diab…?
+
+716
+01:01:41,833 --> 01:01:42,666
+¡Oye!
+
+717
+01:01:56,125 --> 01:01:58,500
+¿Cuántos muertos revivieron?
+
+718
+01:02:08,791 --> 01:02:09,625
+¿Qué?
+
+719
+01:02:55,416 --> 01:03:00,750
+8 AÑOS, 7 AÑOS, 6 AÑOS, 5 AÑOS, 4 AÑOS
+
+720
+01:03:02,958 --> 01:03:07,541
+¡PRIMER DÍA EN CASA!
+
+721
+01:03:08,250 --> 01:03:09,541
+¿Eres tú, Kat?
+
+722
+01:03:10,083 --> 01:03:12,458
+¡Cuánto has crecido!
+
+723
+01:03:12,541 --> 01:03:14,458
+¡Mamá! ¡Papá!
+
+724
+01:03:21,416 --> 01:03:22,416
+No importa.
+
+725
+01:03:23,250 --> 01:03:24,500
+Los recuperé.
+
+726
+01:03:30,916 --> 01:03:35,541
+Es maravilloso verte, Kat,
+pero ¿cómo es posible?
+
+727
+01:03:35,625 --> 01:03:37,833
+¿Por qué estamos vivos?
+
+728
+01:03:39,041 --> 01:03:40,625
+No importa, ¿verdad?
+
+729
+01:03:42,083 --> 01:03:45,166
+Oye, todavía tengo el cíclope, papá.
+
+730
+01:03:45,666 --> 01:03:48,333
+Ese estéreo sacudía habitaciones.
+
+731
+01:03:48,833 --> 01:03:52,250
+- Y esto, mamá.
+- Me preguntaba dónde estaba.
+
+732
+01:03:53,416 --> 01:03:56,916
+Juro que les dije que no había trato.
+
+733
+01:03:57,958 --> 01:04:01,083
+¡Esos carteles están por todos lados!
+
+734
+01:04:01,166 --> 01:04:04,250
+Te volviste mucho más dura, ¿no?
+
+735
+01:04:04,333 --> 01:04:05,583
+Tuve que hacerlo
+
+736
+01:04:06,166 --> 01:04:07,166
+porque…
+
+737
+01:04:08,541 --> 01:04:09,458
+los maté.
+
+738
+01:04:09,541 --> 01:04:11,208
+No nos mataste, Kat.
+
+739
+01:04:11,291 --> 01:04:13,958
+Solo chocaste porque grité.
+
+740
+01:04:14,041 --> 01:04:16,083
+Fue un accidente, Kat.
+
+741
+01:04:16,166 --> 01:04:17,625
+Solo tenías ocho.
+
+742
+01:04:18,875 --> 01:04:20,083
+¡Tu mano!
+
+743
+01:04:23,500 --> 01:04:24,333
+¡Kat!
+
+744
+01:04:25,000 --> 01:04:25,833
+¡Vaya!
+
+745
+01:04:33,000 --> 01:04:35,833
+Hice un trato con unos demonios.
+
+746
+01:04:36,416 --> 01:04:37,333
+¿Demonios?
+
+747
+01:04:37,875 --> 01:04:40,958
+- ¿Por qué?
+- Prometieron revivirlos.
+
+748
+01:04:41,041 --> 01:04:42,541
+¡Y lo hicieron!
+
+749
+01:04:42,625 --> 01:04:46,083
+No fueron demonios. Fue ese chico, Raúl.
+
+750
+01:04:46,166 --> 01:04:48,958
+- ¿Raúl?
+- Dijo que era tu amigo.
+
+751
+01:04:50,125 --> 01:04:51,750
+Yo no tengo amigos.
+
+752
+01:04:52,250 --> 01:04:54,875
+- Está en peligro, ¿no?
+- Tal vez…
+
+753
+01:04:54,958 --> 01:04:57,583
+En ese caso, debemos ayudarlo.
+
+754
+01:04:57,666 --> 01:04:59,666
+¡Pero acaban de volver!
+
+755
+01:04:59,750 --> 01:05:02,166
+Los amigos son como la familia.
+
+756
+01:05:02,250 --> 01:05:04,791
+Hacemos lo que podemos por ellos.
+
+757
+01:05:06,041 --> 01:05:07,291
+¡Bien!
+
+758
+01:05:07,375 --> 01:05:11,333
+Yo me encargo de Raúl,
+ustedes quédense en casa.
+
+759
+01:05:14,083 --> 01:05:15,458
+Sálvalo, cariño.
+
+760
+01:05:16,000 --> 01:05:17,125
+Pero cuídate.
+
+761
+01:05:17,625 --> 01:05:23,708
+- ¡Ay, no! ¿Qué haremos, Wendell?
+- Si los Klaxon se enteran, ¡adiós, feria!
+
+762
+01:05:23,791 --> 01:05:26,500
+- Díselo al padre.
+- No, hazlo tú.
+
+763
+01:05:26,583 --> 01:05:29,916
+Eres mayor, Wendell,
+tienes que hacerlo tú.
+
+764
+01:05:30,833 --> 01:05:33,958
+¡Calla, Sparkigrado! ¡No podemos pensar!
+
+765
+01:05:53,708 --> 01:05:55,250
+EL FALÁFEL DE FAWZI
+
+766
+01:06:00,500 --> 01:06:01,333
+¡Kat!
+
+767
+01:06:17,583 --> 01:06:20,083
+Juro…
+
+768
+01:06:23,708 --> 01:06:24,833
+¿Oíste algo?
+
+769
+01:06:25,333 --> 01:06:28,458
+Huelo algo. ¿Faláfel para la cena?
+
+770
+01:06:32,916 --> 01:06:38,000
+- ¡Maldito bicho glotón!
+- ¡Te comiste a la doncella infernal!
+
+771
+01:06:39,541 --> 01:06:41,416
+Y al pequeño Raúl.
+
+772
+01:06:44,541 --> 01:06:48,000
+¡Estoy literalmente traumatizado!
+
+773
+01:06:50,250 --> 01:06:54,625
+- Extrañaré la crema cuando se acabe.
+- No tanto como Belzer.
+
+774
+01:06:57,375 --> 01:06:59,958
+¿Dónde están?
+
+775
+01:07:03,166 --> 01:07:08,250
+¿Llevaron a los dos hijos que me quedan
+a la Tierra de los Vivos?
+
+776
+01:07:11,291 --> 01:07:13,458
+Con mi crema para el pelo.
+
+777
+01:07:15,416 --> 01:07:18,250
+¿Ven? No fue tan difícil, ¿verdad?
+
+778
+01:07:26,250 --> 01:07:27,916
+Gracias por salvarme.
+
+779
+01:07:28,708 --> 01:07:30,708
+Aún no somos amigos, Raúl.
+
+780
+01:07:34,208 --> 01:07:35,750
+Robaste a Belzeboso.
+
+781
+01:07:38,458 --> 01:07:40,583
+E invocaste a tus demonios.
+
+782
+01:07:40,666 --> 01:07:43,500
+¡Suélteme! Mis papás me esperan.
+
+783
+01:07:43,583 --> 01:07:47,666
+- ¿Tus padres muertos?
+- Murieron por mi culpa.
+
+784
+01:07:47,750 --> 01:07:50,375
+Tenía que revivirlos. ¡Suélteme!
+
+785
+01:07:50,458 --> 01:07:53,000
+Los demonios no pueden resucitar.
+
+786
+01:07:53,083 --> 01:07:55,791
+Tenían una crema mágica.
+
+787
+01:07:58,916 --> 01:08:00,375
+Tranquila, Wilma.
+
+788
+01:08:02,125 --> 01:08:06,041
+Raúl, diles a sus padres
+que la necesito un rato.
+
+789
+01:08:06,541 --> 01:08:09,083
+¿Por qué debería hacerle caso?
+
+790
+01:08:14,041 --> 01:08:16,833
+- ¿Usted también?
+- Así es.
+
+791
+01:08:32,291 --> 01:08:34,625
+Manberg, necesitamos tu ayuda.
+
+792
+01:08:35,208 --> 01:08:36,208
+¿En serio?
+
+793
+01:08:37,625 --> 01:08:38,791
+¡Mi oso!
+
+794
+01:08:39,916 --> 01:08:44,083
+- ¿Me extrañaste, cosita malvada?
+- Ahora, Manberg.
+
+795
+01:08:44,583 --> 01:08:45,666
+Está bien.
+
+796
+01:08:49,208 --> 01:08:53,750
+Vaya, les juró lealtad a sus demonios.
+
+797
+01:08:54,791 --> 01:08:57,500
+Y la fiebre se está extendiendo.
+
+798
+01:08:58,083 --> 01:08:59,083
+Es mi culpa.
+
+799
+01:08:59,583 --> 01:09:02,291
+Bueno, solo hay una cosa por hacer.
+
+800
+01:09:03,666 --> 01:09:05,583
+¡Cuarentena total!
+
+801
+01:09:08,958 --> 01:09:14,208
+No lo entiendes. ¡Sus demonios
+están creando un ejército de muertos!
+
+802
+01:09:14,291 --> 01:09:16,250
+¿Todo un ejército?
+
+803
+01:09:16,333 --> 01:09:20,958
+¡Sí! ¡Necesitaremos
+dos doncellas infernales para detenerlos!
+
+804
+01:09:23,375 --> 01:09:24,583
+¿Y ahora qué?
+
+805
+01:09:26,333 --> 01:09:28,916
+Une nuestra sangre, Manberg.
+
+806
+01:09:29,000 --> 01:09:31,333
+La unión podría matarte.
+
+807
+01:09:31,416 --> 01:09:32,958
+¡Hazlo!
+
+808
+01:09:45,333 --> 01:09:48,500
+Abre la Cámara de la Redención, Manberg.
+
+809
+01:10:00,583 --> 01:10:01,541
+Es terrible…
+
+810
+01:10:01,625 --> 01:10:05,541
+Me dijeron que ya no hay
+motivos para alegrarse.
+
+811
+01:10:05,625 --> 01:10:08,166
+No necesito estos problemas.
+
+812
+01:10:09,166 --> 01:10:13,458
+Dicen que Rust Bank está perdido,
+que es un pueblo fantasma.
+
+813
+01:10:14,416 --> 01:10:17,208
+¿Para qué bloquear a Klax Korp?
+
+814
+01:10:17,291 --> 01:10:21,041
+Causaron el incendio
+que mató a nuestros amigos
+
+815
+01:10:21,125 --> 01:10:22,666
+y arruinó la ciudad.
+
+816
+01:10:22,750 --> 01:10:26,625
+- No hace falta que lo digas, cariño.
+- ¡Votemos!
+
+817
+01:10:26,708 --> 01:10:28,166
+Claro, señoras.
+
+818
+01:10:28,666 --> 01:10:32,833
+Quienes estén a favor de la prisión,
+levanten la mano.
+
+819
+01:10:33,375 --> 01:10:35,208
+¡Sobre mi cadáver!
+
+820
+01:10:36,000 --> 01:10:38,083
+Ahora, los que se oponen.
+
+821
+01:10:42,625 --> 01:10:43,791
+¿Zombis?
+
+822
+01:10:43,875 --> 01:10:46,125
+- ¡Cadáveres!
+- ¡Nos atacan!
+
+823
+01:10:48,750 --> 01:10:51,291
+Esto es solo para concejales.
+
+824
+01:10:53,833 --> 01:10:56,291
+Coronel Bumstrop, ¿es usted?
+
+825
+01:10:59,125 --> 01:11:02,750
+¡Dios, Cassandra!
+¡Son los antiguos concejales!
+
+826
+01:11:02,833 --> 01:11:05,333
+¡Pero murieron hace años!
+
+827
+01:11:05,416 --> 01:11:08,875
+Como profesional, opino que están vivos.
+
+828
+01:11:08,958 --> 01:11:11,916
+Vamos, doctor, usted trata pies.
+
+829
+01:11:12,000 --> 01:11:14,875
+Los podólogos son médicos de verdad.
+
+830
+01:11:18,708 --> 01:11:23,041
+Parece que tienen derecho
+a estar aquí y a votar.
+
+831
+01:11:23,125 --> 01:11:25,541
+Mariana, ¿te volviste loca?
+
+832
+01:11:25,625 --> 01:11:29,833
+Debo permitirlo, Fawzi.
+Todo concejal vivo puede votar.
+
+833
+01:11:32,125 --> 01:11:36,875
+Quienes estén a favor de la prisión,
+levanten la mano derecha.
+
+834
+01:11:42,041 --> 01:11:44,291
+Ganó el "sí", seis a cinco.
+
+835
+01:11:46,875 --> 01:11:48,375
+¡Santo cielo!
+
+836
+01:11:48,458 --> 01:11:50,708
+¿Cómo puede ser correcto?
+
+837
+01:11:50,791 --> 01:11:52,833
+¿Sus votos cuentan?
+
+838
+01:11:56,250 --> 01:11:57,333
+Ganaron.
+
+839
+01:11:58,708 --> 01:11:59,583
+¡No!
+
+840
+01:12:00,791 --> 01:12:01,916
+KLUB KLAX
+
+841
+01:12:02,000 --> 01:12:02,833
+¡Por fin!
+
+842
+01:12:03,333 --> 01:12:06,375
+¡Excelente trabajo, padre!
+
+843
+01:12:06,458 --> 01:12:07,458
+¡Así es!
+
+844
+01:12:08,166 --> 01:12:14,208
+- Tome, para las hostias y el vino.
+- Mi escuela y mis socios se lo agradecen.
+
+845
+01:12:16,958 --> 01:12:19,083
+Dios te bendiga, hija mía.
+
+846
+01:12:19,583 --> 01:12:21,208
+¡Padre Bests!
+
+847
+01:12:21,291 --> 01:12:22,125
+¡Adiosito!
+
+848
+01:12:22,625 --> 01:12:23,500
+Siobhan,
+
+849
+01:12:24,000 --> 01:12:25,708
+¡ven a celebrar!
+
+850
+01:12:25,791 --> 01:12:28,041
+¡Por fin ganamos la votación!
+
+851
+01:12:29,583 --> 01:12:33,250
+Mamá, papá,
+sé la verdad sobre sus prisiones.
+
+852
+01:12:33,333 --> 01:12:35,000
+¿Y cuál es, Siobhan?
+
+853
+01:12:35,083 --> 01:12:38,791
+Ganan mucho dinero
+por cada prisionero que toman.
+
+854
+01:12:38,875 --> 01:12:42,833
+Están como sardinas,
+hay mala comida, mala atención médica,
+
+855
+01:12:42,916 --> 01:12:45,541
+condiciones peligrosas
+y cero rehabilitación.
+
+856
+01:12:47,375 --> 01:12:49,708
+Estoy orgulloso de ti, cariño.
+
+857
+01:12:49,791 --> 01:12:52,916
+Ese es nuestro modelo de negocios.
+
+858
+01:12:53,000 --> 01:12:56,625
+¿No merecen otra oportunidad?
+¡Como Kay-Kay!
+
+859
+01:12:56,708 --> 01:13:00,041
+Nos encantan los niños de Rompe el Ciclo.
+
+860
+01:13:00,125 --> 01:13:02,625
+Llevarán a muchos a tu escuela.
+
+861
+01:13:02,708 --> 01:13:08,041
+Haremos que sea imposible
+que les vaya bien allí y, cuando fracasen…
+
+862
+01:13:08,125 --> 01:13:12,916
+Nuestra prisión los estará esperando
+con los brazos abiertos.
+
+863
+01:13:16,333 --> 01:13:19,958
+En serio lo harán, ¿no?
+¿Demolerán Rust Bank?
+
+864
+01:13:20,041 --> 01:13:21,500
+Mañana temprano.
+
+865
+01:13:21,583 --> 01:13:24,916
+Vendrán la gobernadora, la prensa, todos.
+
+866
+01:13:25,000 --> 01:13:28,333
+Prométeme que estarás ahí con una sonrisa.
+
+867
+01:13:29,083 --> 01:13:30,166
+Debo irme.
+
+868
+01:13:30,250 --> 01:13:32,125
+Debo alimentar a Gabby.
+
+869
+01:13:32,208 --> 01:13:34,583
+¡Quiero mi promesa!
+
+870
+01:13:35,666 --> 01:13:38,625
+Ahí estaré, mami. Lo prometo.
+
+871
+01:13:38,708 --> 01:13:40,375
+¡Esa es mi niña!
+
+872
+01:13:43,916 --> 01:13:47,833
+Kat, tus recuerdos
+son lo que alimenta la fiebre.
+
+873
+01:13:48,416 --> 01:13:50,625
+¿Mis recuerdos?
+
+874
+01:13:50,708 --> 01:13:51,541
+Sí.
+
+875
+01:13:52,375 --> 01:13:54,791
+Es hora de enfrentar tu pasado.
+
+876
+01:13:55,291 --> 01:13:56,125
+¿Lista?
+
+877
+01:14:32,208 --> 01:14:33,583
+HOGAR DE NIÑOS
+
+878
+01:14:58,291 --> 01:14:59,291
+¡No!
+
+879
+01:15:05,291 --> 01:15:06,791
+TRIBUNAL DE MENORES
+
+880
+01:15:18,875 --> 01:15:22,000
+<i>Lo juro.</i>
+
+881
+01:15:26,125 --> 01:15:29,125
+¡Tus recuerdos crearon este monstruo!
+
+882
+01:15:43,083 --> 01:15:46,166
+¡Deténgalo, hermana Helley, por favor!
+
+883
+01:15:46,791 --> 01:15:49,000
+Solo tú puedes hacerlo, Kat.
+
+884
+01:15:50,416 --> 01:15:52,000
+Es demasiado fuerte.
+
+885
+01:15:52,083 --> 01:15:53,791
+¡Tú eres más fuerte!
+
+886
+01:15:54,291 --> 01:15:57,750
+Vamos, ¡acepta tus recuerdos!
+
+887
+01:16:04,791 --> 01:16:07,750
+Me has torturado durante años.
+
+888
+01:16:09,625 --> 01:16:12,375
+¡Pero me hiciste una sobreviviente!
+
+889
+01:16:13,875 --> 01:16:15,583
+¡Y muy poderosa!
+
+890
+01:16:32,708 --> 01:16:35,291
+¡Ahora yo controlo mi vida!
+
+891
+01:16:38,000 --> 01:16:39,375
+¡No tú!
+
+892
+01:16:45,250 --> 01:16:47,000
+¡Socios! ¡Miren!
+
+893
+01:16:48,041 --> 01:16:49,041
+¡Somos ricos!
+
+894
+01:16:50,541 --> 01:16:53,208
+Vamos, ¿qué pasa?
+
+895
+01:16:53,291 --> 01:16:56,750
+¡Salvamos a RBC y a la feria!
+
+896
+01:16:58,375 --> 01:17:01,208
+- Nos quitarán el dinero.
+- ¿Por qué?
+
+897
+01:17:02,375 --> 01:17:05,458
+No solo revivieron los concejales.
+
+898
+01:17:05,541 --> 01:17:09,708
+- ¿Revivieron a los papás de Kat?
+- No fuimos nosotros.
+
+899
+01:17:09,791 --> 01:17:14,791
+- ¡Fue nuestro ingrato sepulturero!
+- ¿Él? ¡No!
+
+900
+01:17:16,458 --> 01:17:19,250
+¡Sí! ¡Enganchen el carro!
+
+901
+01:17:20,791 --> 01:17:22,291
+¿Qué planea, padre?
+
+902
+01:17:22,875 --> 01:17:24,291
+¡Ring corre!
+
+903
+01:17:24,916 --> 01:17:26,208
+O algo parecido.
+
+904
+01:17:27,541 --> 01:17:31,541
+¡Kat!
+
+905
+01:17:58,541 --> 01:17:59,833
+Lo lograste.
+
+906
+01:18:01,041 --> 01:18:02,125
+Y ahora,
+
+907
+01:18:03,875 --> 01:18:05,041
+tu poder.
+
+908
+01:18:08,041 --> 01:18:08,875
+<i>¡Lo toqué!</i>
+
+909
+01:18:16,708 --> 01:18:19,291
+Puedo ver el futuro.
+
+910
+01:18:23,291 --> 01:18:24,250
+Ay, no.
+
+911
+01:18:26,333 --> 01:18:28,916
+¡Helley está en problemas! ¡Abre!
+
+912
+01:18:31,208 --> 01:18:34,666
+Iré a buscarlos, muchachos.
+
+913
+01:18:44,333 --> 01:18:45,458
+¡Almadictos!
+
+914
+01:18:47,875 --> 01:18:49,708
+¡Arre!
+
+915
+01:19:02,958 --> 01:19:03,833
+¡Es Kat!
+
+916
+01:19:07,625 --> 01:19:09,166
+Ya vamos, Kat.
+
+917
+01:19:10,916 --> 01:19:12,041
+¡Hola, cariño!
+
+918
+01:19:13,375 --> 01:19:14,416
+¡Oye! ¡Tú!
+
+919
+01:19:16,041 --> 01:19:18,416
+- ¿Qué sucede?
+- ¡Ay, no, vaya!
+
+920
+01:19:18,500 --> 01:19:20,125
+Veo tu sombrero.
+
+921
+01:19:20,208 --> 01:19:21,708
+- ¡Ring!
+- ¡Cayeron!
+
+922
+01:19:21,791 --> 01:19:23,083
+¿Quiénes son?
+
+923
+01:19:43,708 --> 01:19:44,875
+Hermana Helley.
+
+924
+01:19:49,166 --> 01:19:52,250
+Se desmayó, se golpeó la cabeza.
+
+925
+01:19:56,250 --> 01:19:57,583
+Háblame, Helley.
+
+926
+01:19:59,625 --> 01:20:01,458
+No puedes pegarme.
+
+927
+01:20:01,541 --> 01:20:03,291
+¡Estás viva!
+
+928
+01:20:04,416 --> 01:20:05,291
+Apenas.
+
+929
+01:20:05,791 --> 01:20:07,166
+¿Qué hay de Kat?
+
+930
+01:20:13,916 --> 01:20:16,958
+Bien. Le bajaste la fiebre, Helley.
+
+931
+01:20:17,041 --> 01:20:18,458
+Estará bien.
+
+932
+01:20:19,791 --> 01:20:22,333
+¡Muchas gracias, hermana Helley!
+
+933
+01:20:22,416 --> 01:20:23,625
+Lo logramos.
+
+934
+01:20:25,041 --> 01:20:27,541
+Este nuevo poder…
+
+935
+01:20:28,041 --> 01:20:30,500
+Al principio será impredecible,
+
+936
+01:20:30,583 --> 01:20:31,708
+pero luego…
+
+937
+01:20:31,791 --> 01:20:34,375
+¡Menos mal, Kat! Te estuve busca…
+
+938
+01:20:36,000 --> 01:20:37,500
+¿Más demonios?
+
+939
+01:20:38,666 --> 01:20:40,416
+Los colecciono.
+
+940
+01:20:40,500 --> 01:20:43,125
+- ¿Qué haces aquí?
+- Tus padres.
+
+941
+01:20:43,208 --> 01:20:45,791
+¡Los enterrarán de nuevo, lo sé!
+
+942
+01:20:45,875 --> 01:20:48,500
+¡Voy a matar a Wendell y Wild!
+
+943
+01:20:48,583 --> 01:20:52,291
+¡Con dos doncellas infernales,
+no podemos fallar!
+
+944
+01:20:52,375 --> 01:20:56,250
+Vayan, Manberg.
+Esta doncella necesita un momento.
+
+945
+01:20:56,333 --> 01:20:59,750
+Bien, pero no tardes.
+
+946
+01:21:07,125 --> 01:21:09,541
+¿Kay-Kay? Soy yo, Siobhan.
+
+947
+01:21:10,083 --> 01:21:11,666
+¡Y tu mayor fan!
+
+948
+01:21:15,291 --> 01:21:16,125
+Bien.
+
+949
+01:21:16,625 --> 01:21:20,416
+Merezco que no me hables.
+¡Pero es una emergencia!
+
+950
+01:21:27,125 --> 01:21:27,958
+¿Kat?
+
+951
+01:21:30,541 --> 01:21:32,708
+¡Cabra mala! ¡Deja eso!
+
+952
+01:21:33,291 --> 01:21:35,375
+Gabby, ¡para! ¿Adónde vas?
+
+953
+01:21:37,958 --> 01:21:38,958
+¡Gabby!
+
+954
+01:21:44,208 --> 01:21:46,625
+¿No están olvidando algo?
+
+955
+01:21:47,291 --> 01:21:48,208
+Sí.
+
+956
+01:21:51,291 --> 01:21:54,000
+¿Sus últimas palabras?
+
+957
+01:21:55,083 --> 01:21:57,375
+Pensé que serían más altos.
+
+958
+01:21:57,458 --> 01:21:59,041
+Soy más alto.
+
+959
+01:22:00,166 --> 01:22:02,416
+¿Son mazos de caricatura?
+
+960
+01:22:02,500 --> 01:22:05,250
+¿Qué? ¿Mazos de caricatura?
+
+961
+01:22:05,333 --> 01:22:06,375
+¡Padre!
+
+962
+01:22:06,458 --> 01:22:07,625
+Ah, sí.
+
+963
+01:22:07,708 --> 01:22:14,041
+Que el Señor los trate con bondad
+y les conceda la paz eterna.
+
+964
+01:22:18,416 --> 01:22:20,583
+- ¡Aquí vamos!
+- Uno, dos…
+
+965
+01:22:20,666 --> 01:22:21,666
+¡Bum!
+
+966
+01:22:22,625 --> 01:22:25,375
+Kat daba más miedo a los tres.
+
+967
+01:22:25,916 --> 01:22:28,166
+¡Y ahora doy mucho más miedo!
+
+968
+01:22:28,250 --> 01:22:30,083
+- ¡Doncella!
+- ¡Estás viva!
+
+969
+01:22:30,166 --> 01:22:32,041
+¡Dejen ir a mis padres!
+
+970
+01:22:32,750 --> 01:22:37,750
+- Imposible, doncella.
+- Aún tienes 800 tareas por completar.
+
+971
+01:22:37,833 --> 01:22:43,000
+Exacto. Así que, como tus amos,
+te ordenamos que te des vuelta y…
+
+972
+01:22:46,041 --> 01:22:47,083
+¡Están locos!
+
+973
+01:22:47,875 --> 01:22:50,083
+Ya no soy su títere.
+
+974
+01:22:50,166 --> 01:22:51,166
+¡Así es!
+
+975
+01:22:55,458 --> 01:22:58,500
+- ¡Sparkigrado!
+- ¡Ayuda, Sparki!
+
+976
+01:22:58,583 --> 01:23:00,291
+Me decepcionó, padre.
+
+977
+01:23:00,875 --> 01:23:01,958
+Ay, no.
+
+978
+01:23:02,875 --> 01:23:03,708
+Kat.
+
+979
+01:23:08,708 --> 01:23:12,708
+- ¿Por qué lo hiciste?
+- Eran de mi número, y yo…
+
+980
+01:23:12,791 --> 01:23:17,125
+Las botas no, ¡mis padres!
+¿Por qué querían enterrarlos?
+
+981
+01:23:17,208 --> 01:23:21,833
+- El padre dijo que era la única forma.
+- De salvar la feria.
+
+982
+01:23:21,916 --> 01:23:26,208
+- Y la única forma de salvar mi escuela.
+- ¿Qué?
+
+983
+01:23:28,166 --> 01:23:29,208
+¿Gabby?
+
+984
+01:23:29,291 --> 01:23:30,166
+¿Hola?
+
+985
+01:23:31,208 --> 01:23:32,708
+- ¿Qué?
+- ¿Quién es?
+
+986
+01:23:37,708 --> 01:23:40,083
+¿Qué está pasando, Kay-Kay?
+
+987
+01:23:41,250 --> 01:23:45,541
+Bueno, la hermana Helley y yo
+somos doncellas infernales
+
+988
+01:23:45,625 --> 01:23:48,083
+y si me dices Kay-Kay de nuevo…
+
+989
+01:23:48,166 --> 01:23:51,750
+Claro, eres una doncella infernal, Kat.
+
+990
+01:23:53,458 --> 01:23:54,750
+Padre Bests,
+
+991
+01:23:55,833 --> 01:24:00,291
+mis papás no salvarán su escuela
+ni construirán una feria.
+
+992
+01:24:00,375 --> 01:24:02,208
+Pero ya nos pagaron.
+
+993
+01:24:06,750 --> 01:24:08,750
+¿Qué es esto?
+
+994
+01:24:08,833 --> 01:24:13,333
+Así le pagan
+al personal de Klax Korp. No tiene valor.
+
+995
+01:24:15,583 --> 01:24:17,791
+Tengo que mostrarles algo.
+
+996
+01:24:22,166 --> 01:24:23,625
+Tenías razón, Kat.
+
+997
+01:24:24,166 --> 01:24:27,416
+Sobre mis padres y las prisiones privadas.
+
+998
+01:24:28,041 --> 01:24:29,541
+Hay que detenerlos.
+
+999
+01:24:52,000 --> 01:24:53,000
+Ya es tarde.
+
+1000
+01:24:53,583 --> 01:24:57,166
+- ¿Por qué?
+- Rust Bank dejará de existir.
+
+1001
+01:24:57,250 --> 01:24:59,666
+Viste el futuro.
+
+1002
+01:25:04,291 --> 01:25:05,500
+¿Qué pasa?
+
+1003
+01:25:06,833 --> 01:25:07,666
+¿Delroy?
+
+1004
+01:25:11,000 --> 01:25:12,041
+¡Es él!
+
+1005
+01:25:15,958 --> 01:25:20,750
+Uno, dos y tres.
+
+1006
+01:25:20,833 --> 01:25:24,958
+¡Huelo la sangre de dos vagos ladrones!
+
+1007
+01:25:27,416 --> 01:25:30,750
+¡Esto es mejor que el ejército de muertos!
+
+1008
+01:25:30,833 --> 01:25:35,375
+¿Dónde está mi crema para el cabello?
+
+1009
+01:25:35,458 --> 01:25:36,750
+¡La robaron!
+
+1010
+01:25:36,833 --> 01:25:38,625
+¡Ahora nos va a matar!
+
+1011
+01:25:38,708 --> 01:25:42,500
+Vayan al coche fúnebre
+y no llamen la atención.
+
+1012
+01:25:42,583 --> 01:25:43,708
+¿Wendell?
+
+1013
+01:25:44,291 --> 01:25:45,125
+¿Wild?
+
+1014
+01:25:45,916 --> 01:25:48,375
+¡Sé que están aquí arriba!
+
+1015
+01:25:50,583 --> 01:25:52,083
+Vamos, chicos,
+
+1016
+01:25:52,583 --> 01:25:54,250
+no los lastimaré.
+
+1017
+01:25:59,375 --> 01:26:02,125
+¡Mi mayor premio!
+
+1018
+01:26:03,833 --> 01:26:04,750
+¿Qué diab…?
+
+1019
+01:26:06,583 --> 01:26:08,708
+¿Quién está molestando?
+
+1020
+01:26:11,208 --> 01:26:12,458
+- ¡Rápido!
+- ¡Vamos!
+
+1021
+01:26:12,541 --> 01:26:14,958
+¡Hola, criaturas escurridizas!
+
+1022
+01:26:15,791 --> 01:26:19,000
+¡El papá de la Feria de los Gritos los…
+
+1023
+01:26:20,416 --> 01:26:21,250
+hará…
+
+1024
+01:26:24,416 --> 01:26:25,333
+trizas!
+
+1025
+01:26:28,000 --> 01:26:29,416
+¡No escaparán!
+
+1026
+01:26:33,958 --> 01:26:35,333
+¡Sí, muy bien!
+
+1027
+01:26:37,583 --> 01:26:38,541
+¡Muy bien!
+
+1028
+01:26:46,291 --> 01:26:47,166
+¡Los tengo!
+
+1029
+01:27:01,500 --> 01:27:04,250
+¿Por qué lo hicieron?
+
+1030
+01:27:05,708 --> 01:27:07,583
+¿Qué? ¿Robarte la crema?
+
+1031
+01:27:07,666 --> 01:27:10,166
+¿Venir a la Tierra de los Vivos?
+
+1032
+01:27:10,750 --> 01:27:14,458
+- Bueno, ¿por qué no, papá?
+- ¡Papá!
+
+1033
+01:27:14,541 --> 01:27:18,791
+¡Mi feria no necesitaba un cambio radical!
+
+1034
+01:27:20,375 --> 01:27:21,541
+Ahora sí.
+
+1035
+01:27:26,083 --> 01:27:28,250
+¡Mi crema!
+
+1036
+01:27:28,333 --> 01:27:30,500
+¡Se acabó!
+
+1037
+01:27:39,416 --> 01:27:41,583
+El proyecto de arte de Raúl.
+
+1038
+01:27:42,875 --> 01:27:44,166
+Un padre
+
+1039
+01:27:45,083 --> 01:27:47,083
+protegiendo a su hijo.
+
+1040
+01:27:47,166 --> 01:27:48,416
+Eso intentamos.
+
+1041
+01:27:48,500 --> 01:27:49,750
+Todos los papás.
+
+1042
+01:27:50,791 --> 01:27:51,625
+Yo no.
+
+1043
+01:27:52,500 --> 01:27:57,666
+- Hubo otros antes de ustedes que huyeron.
+- ¿Teníamos hermanos?
+
+1044
+01:27:57,750 --> 01:28:02,166
+"Al diablo con ellos", dije.
+"Ya volverán arrepentidos".
+
+1045
+01:28:02,250 --> 01:28:04,708
+Pero nunca volvieron a casa.
+
+1046
+01:28:04,791 --> 01:28:06,291
+¡Hola, allá arriba!
+
+1047
+01:28:07,375 --> 01:28:08,666
+¡Señor Demonio!
+
+1048
+01:28:09,666 --> 01:28:11,333
+Soy Búfalo Belzer.
+
+1049
+01:28:11,416 --> 01:28:12,750
+Bien, Sr. Belzer.
+
+1050
+01:28:12,833 --> 01:28:18,583
+Yo, Manberg el Despiadado,
+soy un enemigo declarado de los demonios.
+
+1051
+01:28:18,666 --> 01:28:20,666
+Pero no de las familias.
+
+1052
+01:28:22,166 --> 01:28:23,833
+¿Eres tú, Belissa?
+
+1053
+01:28:24,333 --> 01:28:27,416
+Tengo a todos sus hijos desaparecidos.
+
+1054
+01:28:27,500 --> 01:28:28,333
+Continúe.
+
+1055
+01:28:28,833 --> 01:28:32,000
+Deje ir a mis amigos, y serán suyos.
+
+1056
+01:28:32,500 --> 01:28:35,958
+Acepto, Manberg el Misericordioso.
+
+1057
+01:28:36,041 --> 01:28:37,583
+¡El Despiadado!
+
+1058
+01:28:41,625 --> 01:28:42,541
+Gnasher,
+
+1059
+01:28:43,041 --> 01:28:45,458
+Wincer, Heddie.
+
+1060
+01:28:45,541 --> 01:28:47,541
+¡Mírate, Zostril!
+
+1061
+01:28:49,541 --> 01:28:51,333
+Permítanme decirles
+
+1062
+01:28:51,416 --> 01:28:56,625
+que los rumores de mi muerte
+han sido muy exagerados…
+
+1063
+01:28:57,666 --> 01:29:00,833
+- ¿Se murió otra vez?
+- Le di mucha crema.
+
+1064
+01:29:00,916 --> 01:29:04,666
+Vaya, ¿lo resucitaron
+con crema para el cabello?
+
+1065
+01:29:04,750 --> 01:29:05,583
+Bueno…
+
+1066
+01:29:06,250 --> 01:29:07,083
+Sí.
+
+1067
+01:29:07,166 --> 01:29:08,833
+Vamos, chicos.
+
+1068
+01:29:08,916 --> 01:29:11,041
+Eso no dura.
+
+1069
+01:29:11,708 --> 01:29:13,458
+¿"Eso no dura"?
+
+1070
+01:29:14,333 --> 01:29:15,666
+No tarden, hijos.
+
+1071
+01:29:15,750 --> 01:29:19,041
+No puedo crear una feria sin diseñadores.
+
+1072
+01:29:19,125 --> 01:29:20,250
+¿Nosotros?
+
+1073
+01:29:20,333 --> 01:29:22,916
+- ¡Te enorgulleceremos!
+- ¡Así es!
+
+1074
+01:29:27,583 --> 01:29:29,416
+¿"Eso no dura"?
+
+1075
+01:29:29,500 --> 01:29:31,083
+¿Y mis padres?
+
+1076
+01:29:31,166 --> 01:29:35,708
+- Solo necesitan más crema.
+- Funcionó con el padre.
+
+1077
+01:29:35,791 --> 01:29:36,916
+¡Está vacío!
+
+1078
+01:29:37,000 --> 01:29:39,666
+- Alcanza para unos días.
+- ¡Semanas!
+
+1079
+01:29:41,625 --> 01:29:45,916
+Amamos estar contigo,
+pero Rust Bank está en problemas.
+
+1080
+01:29:46,000 --> 01:29:51,041
+¿Y si esa magia que queda
+podría ayudar a salvar a la ciudad?
+
+1081
+01:29:51,125 --> 01:29:53,833
+Ya les dije, ¡es demasiado tarde!
+
+1082
+01:29:53,916 --> 01:29:54,958
+No, Kat,
+
+1083
+01:29:55,041 --> 01:29:57,166
+puedes cambiar ese futuro.
+
+1084
+01:29:58,000 --> 01:29:58,833
+¿En serio?
+
+1085
+01:30:02,000 --> 01:30:06,875
+Mi mamá cree que fue intencional,
+pero necesita un testigo.
+
+1086
+01:30:08,208 --> 01:30:11,166
+Raúl, resucita a un cervecero muerto.
+
+1087
+01:30:12,583 --> 01:30:13,583
+Un testigo.
+
+1088
+01:30:14,291 --> 01:30:18,416
+- Aprieta bien y alcanzará para dos.
+- ¡Tres testigos!
+
+1089
+01:30:18,500 --> 01:30:22,458
+Protegeremos Rust Bank hasta que vuelva.
+
+1090
+01:30:22,541 --> 01:30:23,916
+¡Eso es, Kat!
+
+1091
+01:30:24,000 --> 01:30:26,083
+¿Listos para resistir?
+
+1092
+01:30:26,166 --> 01:30:28,458
+- ¡Hagámoslo!
+- ¡Sí!
+
+1093
+01:30:29,833 --> 01:30:33,875
+¡Abajo Klax Korp!
+
+1094
+01:30:33,958 --> 01:30:38,125
+KLAX KORP CREA PUESTOS DE TRABAJO
+
+1095
+01:30:38,208 --> 01:30:42,166
+Pero, Lane,
+Siobhan le prometió a mamá que vendría.
+
+1096
+01:30:42,250 --> 01:30:46,375
+Tenemos que empezar, Irmgard.
+Gobernadora Bribón.
+
+1097
+01:30:46,458 --> 01:30:51,916
+¡Basta de Klax Korp!
+
+1098
+01:30:52,625 --> 01:30:54,166
+¡Buen día, votantes!
+
+1099
+01:30:54,250 --> 01:30:56,375
+Le diremos adiós al pasado
+
+1100
+01:30:56,458 --> 01:31:01,875
+con el proyecto de construcción
+más grande de la historia del estado.
+
+1101
+01:31:03,416 --> 01:31:09,083
+Ahora, mis cómplices,
+¡Lane e Irmgard Klaxon!
+
+1102
+01:31:09,666 --> 01:31:12,416
+Gracias. No es necesario, gracias.
+
+1103
+01:31:12,500 --> 01:31:17,041
+Cuando su gobernadora
+nos ofreció millones para construir aquí,
+
+1104
+01:31:17,125 --> 01:31:19,291
+nos enamoramos de Rust Bank.
+
+1105
+01:31:19,375 --> 01:31:23,166
+¡Un amor que fue puesto a prueba
+por ese grupo!
+
+1106
+01:31:23,250 --> 01:31:25,666
+¡Los detuvimos todos los años!
+
+1107
+01:31:25,750 --> 01:31:27,958
+¿Hago los honores, Irmgard?
+
+1108
+01:31:28,041 --> 01:31:29,375
+Permítame.
+
+1109
+01:31:30,333 --> 01:31:33,750
+Caballeros, ¡enciendan los motores!
+
+1110
+01:31:39,750 --> 01:31:43,250
+Listos, preparados…
+
+1111
+01:31:43,333 --> 01:31:45,083
+¡Espera! ¡Mira!
+
+1112
+01:31:56,333 --> 01:31:59,541
+¡Dios! ¡Le lavaron el cerebro a Siobhan!
+
+1113
+01:32:02,166 --> 01:32:05,625
+¡Vamos! ¡Aplástenlos a todos!
+
+1114
+01:32:09,291 --> 01:32:10,375
+¡Vamos!
+
+1115
+01:32:10,458 --> 01:32:12,416
+¡Ese futuro no sucederá!
+
+1116
+01:32:54,958 --> 01:32:56,041
+¡Mi oso!
+
+1117
+01:33:31,333 --> 01:33:32,958
+HOGAR DE LA RUSTY ALE
+
+1118
+01:33:35,750 --> 01:33:36,708
+¡Tus padres!
+
+1119
+01:33:54,791 --> 01:33:56,083
+Wendell, ¡mira!
+
+1120
+01:34:00,083 --> 01:34:04,416
+- Los viejos Almadictos.
+- Papá debe haberlos enviado.
+
+1121
+01:34:15,666 --> 01:34:19,791
+Lane e Irmgard Klaxon,
+están arrestados por incendio y homicidio.
+
+1122
+01:34:19,875 --> 01:34:21,666
+¿Qué? ¡Eso es ridículo!
+
+1123
+01:34:21,750 --> 01:34:24,791
+¡No pueden probar nada sin testigos!
+
+1124
+01:34:26,333 --> 01:34:28,166
+CERVECERÍA DE RUST BANK
+
+1125
+01:34:28,250 --> 01:34:30,875
+Agentes, sus testigos.
+
+1126
+01:34:30,958 --> 01:34:33,083
+¡Esperen! ¡Fue ella!
+
+1127
+01:34:33,166 --> 01:34:37,208
+- Mi esposa es la asesina.
+- ¿Cómo te atreves, Lane?
+
+1128
+01:34:45,166 --> 01:34:46,708
+¡Buenas noticias!
+
+1129
+01:34:46,791 --> 01:34:48,916
+¡Klax Korp está acabada!
+
+1130
+01:34:49,000 --> 01:34:50,166
+¡Lo lograron!
+
+1131
+01:34:50,250 --> 01:34:52,416
+¡Lo logramos!
+
+1132
+01:34:53,583 --> 01:34:54,916
+¡Ganamos!
+
+1133
+01:35:03,500 --> 01:35:06,000
+Ay, no.
+
+1134
+01:35:07,291 --> 01:35:10,708
+- Pobre doncella.
+- La crema perdió su magia.
+
+1135
+01:35:11,791 --> 01:35:13,291
+Mamá, papá…
+
+1136
+01:35:14,875 --> 01:35:15,875
+Cuéntanos…
+
+1137
+01:35:16,458 --> 01:35:19,625
+Cuéntanos el futuro de Rust Bank, Kat.
+
+1138
+01:35:19,708 --> 01:35:20,916
+¿Qué ves?
+
+1139
+01:35:23,375 --> 01:35:26,458
+Agárrense fuerte y cierren los ojos.
+
+1140
+01:35:33,041 --> 01:35:35,208
+<i>Rust Bank renace.</i>
+
+1141
+01:35:36,041 --> 01:35:41,083
+CERVECERÍA DE RUST BANK
+
+1142
+01:35:44,708 --> 01:35:46,375
+<i>Todos vuelven a casa.</i>
+
+1143
+01:35:51,166 --> 01:35:53,958
+BIENVENIDOS A CASA
+
+1144
+01:35:54,041 --> 01:35:56,500
+<i>Trabajo con la hermana Helley</i>
+
+1145
+01:35:57,416 --> 01:35:58,750
+<i>y la Sra. Hunter.</i>
+
+1146
+01:35:59,291 --> 01:36:01,416
+ROMPE EL CICLO
+
+1147
+01:36:01,500 --> 01:36:06,250
+ESCUELA CATÓLICA RUST BANK
+
+1148
+01:36:09,583 --> 01:36:12,208
+Estoy muy orgullosa de ti, cariño.
+
+1149
+01:36:12,916 --> 01:36:17,666
+- ¿Cuánto la queremos, Delroy?
+- Muchísimo.
+
+1150
+01:36:23,250 --> 01:36:24,958
+Yo también los quiero.
+
+1151
+01:36:28,041 --> 01:36:31,083
+Cuando se construya nuestra feria…
+
+1152
+01:36:31,166 --> 01:36:35,791
+Será lo mejor del más allá,
+arriba o abajo.
+
+1153
+01:36:36,458 --> 01:36:39,458
+- ¿Qué quieren decir?
+- ¡Tus padres!
+
+1154
+01:36:39,541 --> 01:36:42,791
+¡Dales un pase vip con todo incluido!
+
+1155
+01:36:42,875 --> 01:36:44,333
+Qué ridículo.
+
+1156
+01:36:44,416 --> 01:36:46,666
+Bueno, espera, mira.
+
+1157
+01:37:00,041 --> 01:37:00,958
+¡Vaya!
+
+1158
+01:37:11,458 --> 01:37:13,000
+¡Santo cielo!
+
+1159
+01:37:13,083 --> 01:37:15,500
+¡Dios mío!
+
+1160
+01:37:19,666 --> 01:37:22,791
+<i>Pensé que me odiaría toda la vida.</i>
+
+1161
+01:37:22,875 --> 01:37:26,791
+Mamá, papá, yo… ¿Qué opinan?
+
+1162
+01:37:27,458 --> 01:37:29,083
+<i>Pero no debo hacerlo.</i>
+
+1163
+01:37:29,583 --> 01:37:33,125
+<i>Soy una doncella infernal</i>
+<i>con amigos geniales.</i>
+
+1164
+01:37:33,708 --> 01:37:36,291
+<i>Incluso ustedes, Wendell y Wild.</i>
+
+1165
+01:37:53,333 --> 01:37:56,250
+LA VIDA EN RBC
+YOGA HOLÍSTICO CON CABRAS
+
+1166
+01:38:02,333 --> 01:38:05,250
+MANUAL DE OPERACIÓN Y MANTENIMIENTO
+TOPADORA
+
+1167
+01:39:08,750 --> 01:39:13,000
+SIETE AÑOS, SEIS AÑOS…
+PRIMER DÍA EN CASA
+
+1168
+01:43:54,000 --> 01:43:55,208
+Hola, chicos.
+
+1169
+01:43:55,291 --> 01:43:58,583
+Es bastante tarde. Son las 3:30 a. m.
+
+1170
+01:43:59,125 --> 01:44:04,583
+Y me desperté porque escuché
+unos ruidos en la habitación de al lado,
+
+1171
+01:44:04,666 --> 01:44:07,208
+y no creerán lo que encontré.
+
+1172
+01:44:07,750 --> 01:44:08,791
+Vengan.
+
+1173
+01:44:12,041 --> 01:44:12,875
+Bien.
+
+1174
+01:44:16,583 --> 01:44:18,416
+Voy a abrir la puerta.
+
+1175
+01:44:28,625 --> 01:44:29,458
+Hola.
+
+1176
+01:44:30,125 --> 01:44:31,666
+¿Dónde te escondes?
+
+1177
+01:44:34,291 --> 01:44:35,125
+Vamos.
+
+1178
+01:44:36,250 --> 01:44:37,083
+Ahí estás.
+
+1179
+01:44:38,000 --> 01:44:39,791
+Hola, Kat. ¿Cómo estás?
+
+1180
+01:44:40,458 --> 01:44:41,875
+¿Qué haces aquí?
+
+1181
+01:44:43,708 --> 01:44:46,625
+Quizá se aburría sola en el estudio.
+
+1182
+01:44:46,708 --> 01:44:48,791
+Subtítulos: María Sol Punturere
+

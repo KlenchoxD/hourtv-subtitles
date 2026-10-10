@@ -1,0 +1,10201 @@
+1
+00:00:16,800 --> 00:00:18,598
+<i>Sí, sólo deja el dinero.</i>
+
+2
+00:00:19,339 --> 00:00:20,339
+<i>Sí.</i>
+
+3
+00:00:21,575 --> 00:00:22,653
+<i>¿Hola?</i>
+
+4
+00:00:22,687 --> 00:00:24,069
+<i>- ¡Hola!
+- De acuerdo.</i>
+
+5
+00:00:30,717 --> 00:00:33,177
+<i>Lo siguiente es una
+dramatización de hechos reales...</i>
+
+6
+00:00:33,276 --> 00:00:34,739
+<i>ocurridos entre 2004 y 2013.</i>
+
+7
+00:00:42,671 --> 00:00:45,088
+<i>EL MIRA
+HONG KONG</i>
+
+8
+00:01:01,197 --> 00:01:02,313
+¿Entonces?
+
+9
+00:01:02,829 --> 00:01:04,449
+Es el único lagarto.
+
+10
+00:01:07,467 --> 00:01:09,503
+Han pasado 4 minutos.
+En 1 minuto nos vamos.
+
+11
+00:01:09,600 --> 00:01:10,701
+Fue claro respecto a eso.
+
+12
+00:01:11,482 --> 00:01:12,870
+Él vendrá.
+
+13
+00:01:20,250 --> 00:01:21,250
+No.
+
+14
+00:01:22,138 --> 00:01:23,977
+Demasiado joven para
+tener ese tipo de acceso.
+
+15
+00:01:39,416 --> 00:01:40,901
+¿A qué hora abre el restaurante?
+
+16
+00:01:41,343 --> 00:01:42,428
+Al mediodía.
+
+17
+00:01:42,863 --> 00:01:44,521
+Pero la comida es
+demasiado picante.
+
+18
+00:01:45,984 --> 00:01:46,984
+Por aquí.
+
+19
+00:01:55,140 --> 00:02:00,551
+<i>HONG KONG, LUNES
+3 DE JUNIO DEL 2013</i>
+
+20
+00:02:07,627 --> 00:02:08,710
+Disculpen.
+
+21
+00:02:10,013 --> 00:02:11,013
+Gracias.
+
+22
+00:02:24,033 --> 00:02:25,033
+Es aquí.
+
+23
+00:02:37,469 --> 00:02:38,921
+<i>POR FAVOR NO MOLESTAR</i>
+
+24
+00:02:44,111 --> 00:02:46,341
+Es agradable...
+
+25
+00:02:46,374 --> 00:02:47,637
+conocernos, por fin.
+
+26
+00:02:48,255 --> 00:02:49,791
+Entonces, antes que nada,
+
+27
+00:02:49,824 --> 00:02:52,230
+¿puedo tener sus
+móviles, por favor?
+
+28
+00:02:53,490 --> 00:02:54,490
+Gracias.
+
+29
+00:02:55,193 --> 00:02:57,775
+Queremos que sólo sea Laura
+la que grabe. ¿De acuerdo?
+
+30
+00:02:57,943 --> 00:02:59,596
+- Según lo discutido.
+- Gracias.
+
+31
+00:03:01,060 --> 00:03:04,024
+Esto bloquea las
+frecuencias altas.
+
+32
+00:03:11,501 --> 00:03:13,212
+Ya fuiste fotografiado antes, ¿verdad?
+
+33
+00:03:13,758 --> 00:03:16,189
+Sí, ha pasado un tiempo desde
+que alguien tomó una foto mía.
+
+34
+00:03:16,223 --> 00:03:16,877
+Así que...
+
+35
+00:03:16,948 --> 00:03:18,658
+Trata de pensar
+que esta es tu amiga.
+
+36
+00:03:21,091 --> 00:03:22,209
+Tómate tu tiempo.
+
+37
+00:03:26,686 --> 00:03:29,675
+Puedes empezar por decirnos por
+qué has hecho lo que hiciste y...
+
+38
+00:03:30,317 --> 00:03:32,548
+y como tuviste acceso
+a tanta información.
+
+39
+00:03:32,648 --> 00:03:34,725
+De donde salió esta...
+
+40
+00:03:34,759 --> 00:03:36,144
+- Y...
+- Glenn.
+
+41
+00:03:37,655 --> 00:03:40,142
+Te parece si empezamos con
+tu nombre, ¿de acuerdo?
+
+42
+00:03:45,240 --> 00:03:48,469
+<i>Mi nombre es
+Edward Joseph Snowden.</i>
+
+43
+00:03:50,994 --> 00:03:52,700
+<i>Tengo 29 años de edad.</i>
+
+44
+00:03:53,430 --> 00:03:56,309
+<i>Trabajé como contratista privado
+para la NSA.</i>
+
+45
+00:03:57,079 --> 00:03:59,993
+<i>También trabajé como contratista
+privado para la CIA...</i>
+
+46
+00:04:00,437 --> 00:04:02,187
+<i>y directamente para la Agencia.</i>
+
+47
+00:04:02,222 --> 00:04:03,889
+<i>FORT BENNING, GEORGIA - 2004</i>
+
+48
+00:04:03,923 --> 00:04:05,053
+<i>He trabajado en
+varios empleos...</i>
+
+49
+00:04:05,077 --> 00:04:07,550
+<i>para la industria de la
+inteligencia en los últimos 9 años.</i>
+
+50
+00:04:07,769 --> 00:04:09,812
+<i>Fui un ingeniero de sistemas,</i>
+
+51
+00:04:11,392 --> 00:04:13,089
+<i>era un consejero de
+resoluciones,</i>
+
+52
+00:04:15,200 --> 00:04:16,807
+<i>y un asesor de alto rango...</i>
+
+53
+00:04:16,841 --> 00:04:19,096
+<i>para la Agencia
+Central de Inteligencia.</i>
+
+54
+00:04:22,581 --> 00:04:24,421
+Entonces, ¿son parte de
+las Fuerzas Especiales?
+
+55
+00:04:24,472 --> 00:04:25,591
+¡Señor, sí señor!
+
+56
+00:04:25,917 --> 00:04:28,519
+¡Las Fuerzas Especiales
+tendrán la vergüenza...
+
+57
+00:04:28,553 --> 00:04:29,833
+de llamarlos soldados!
+
+58
+00:04:29,852 --> 00:04:32,079
+- ¿Estoy en lo cierto?
+- ¡Señor, no señor!
+
+59
+00:04:32,122 --> 00:04:35,198
+Izquierda, derecha.
+
+60
+00:04:35,497 --> 00:04:36,787
+Izquierda...
+
+61
+00:04:37,432 --> 00:04:40,968
+<i>♪ ¡Primero
+condujo un Cadillac! ♪</i>
+
+62
+00:04:41,070 --> 00:04:44,392
+<i>♪ ¡Primero
+condujo un Cadillac! ♪</i>
+
+63
+00:04:44,626 --> 00:04:47,895
+<i>♪ ¡Nos condujo a
+un convoy en Irak! ♪</i>
+
+64
+00:04:48,314 --> 00:04:51,151
+<i>♪ ¡Nos condujo a
+un convoy en Irak! ♪</i>
+
+65
+00:04:51,249 --> 00:04:52,705
+¡Vamos, soldado!
+
+66
+00:04:56,589 --> 00:04:58,089
+¡Vamos! ¡Vamos!
+¡Muévanse!
+
+67
+00:05:03,950 --> 00:05:05,362
+- ¡Muévanse!
+- ¡Vamos!
+
+68
+00:05:07,248 --> 00:05:08,897
+¡Vamos soldado! ¡Vamos!
+
+69
+00:05:10,164 --> 00:05:11,164
+¡Vamos encanto!
+
+70
+00:05:12,466 --> 00:05:14,460
+Snowden, ¿qué
+demonios estás haciendo?
+
+71
+00:05:14,494 --> 00:05:15,354
+¡Nada, señor!
+
+72
+00:05:15,357 --> 00:05:17,423
+- ¿Dónde está tu maldito corazón?
+- ¡Aquí mismo, señor!
+
+73
+00:05:17,447 --> 00:05:20,074
+Quiero que busques en esa
+excusa patética de pecho...
+
+74
+00:05:20,107 --> 00:05:21,227
+¡y eches un buen vistazo!
+
+75
+00:05:21,329 --> 00:05:24,228
+Encuentra tu corazón,
+¡y lleva tu trasero a mi torre!
+
+76
+00:05:24,357 --> 00:05:25,840
+- ¿Entiendes?
+- ¡Señor, sí señor!
+
+77
+00:05:25,992 --> 00:05:27,412
+<i>¡Ahora, quítateme de enfrente!</i>
+
+78
+00:05:29,347 --> 00:05:32,260
+¡Los necesito en mi torre,
+caballeros! ¡Muévanse!
+
+79
+00:05:35,505 --> 00:05:36,911
+¡Muévanse! ¡Muévanse!
+
+80
+00:05:36,946 --> 00:05:37,946
+¡Vamos!
+
+81
+00:05:38,406 --> 00:05:40,278
+¡De pie, maricas!
+
+82
+00:05:40,482 --> 00:05:43,758
+¡Levanten el trasero y
+salgan de mis barracas!
+
+83
+00:05:44,027 --> 00:05:46,208
+¡Tienen un minuto! ¡Abajo!
+
+84
+00:05:46,234 --> 00:05:47,724
+¡Muévanse!
+¡Muévanse! ¡Muévanse!
+
+85
+00:05:51,192 --> 00:05:52,738
+- ¡Vamos!
+- ¡Vamos!
+
+86
+00:05:53,352 --> 00:05:54,422
+¡Muy bien, caballeros!
+
+87
+00:06:00,554 --> 00:06:01,554
+¡Mierda!
+
+88
+00:06:03,612 --> 00:06:04,903
+- ¡Ayuda!
+- Snowden.
+
+89
+00:06:06,320 --> 00:06:07,320
+<i>¡Snowden!</i>
+
+90
+00:06:08,247 --> 00:06:10,417
+- ¿Dónde coño está Snowden?
+- ¡Ayuda!
+
+91
+00:06:12,537 --> 00:06:14,764
+Has caminado sobre dos
+piernas rotas...
+
+92
+00:06:15,583 --> 00:06:17,453
+lo mejor que puedo decir,
+durante semanas.
+
+93
+00:06:19,099 --> 00:06:21,692
+Ahora. Esto es lo que sucede
+cuando pones...
+
+94
+00:06:22,010 --> 00:06:24,364
+una mochila de 35 libras
+en un cuerpo de 65.
+
+95
+00:06:24,451 --> 00:06:26,403
+Obtienes estas pequeñas
+fracturas de presión.
+
+96
+00:06:26,821 --> 00:06:28,148
+- Despacio.
+- Disculpe.
+
+97
+00:06:28,195 --> 00:06:32,394
+Se extienden en tus tibias y
+eventualmente se rompen los huesos.
+
+98
+00:06:32,757 --> 00:06:35,428
+Ahora, vas a estar aquí
+por un par de semanas,
+
+99
+00:06:35,494 --> 00:06:39,470
+<i>y entonces, cuento otras
+ocho semanas con muletas.</i>
+
+100
+00:06:40,073 --> 00:06:41,490
+<i>De acuerdo, ¿y cuando regresaré?</i>
+
+101
+00:06:41,949 --> 00:06:44,513
+Hijo, si aterrizas de
+nuevo sobre esas piernas,
+
+102
+00:06:45,120 --> 00:06:47,652
+en vuelo o no, tus
+huesos se desmoronaran.
+
+103
+00:06:48,519 --> 00:06:50,860
+Autorizaré que te den de baja.
+
+104
+00:06:53,317 --> 00:06:55,058
+Hay otras maneras
+de servir a tu país.
+
+105
+00:07:04,125 --> 00:07:05,427
+<i>Notificación de mensaje</i>
+
+106
+00:07:10,052 --> 00:07:13,304
+<i>"Ghost in the Shell" es
+también uno de mis favoritos.</i>
+
+107
+00:07:13,422 --> 00:07:15,574
+<i>¿Eres tan pálido en la realidad?</i>
+
+108
+00:07:18,223 --> 00:07:20,306
+¿Has cometido un crimen
+del que no te hayan atrapado?
+
+109
+00:07:22,234 --> 00:07:23,234
+No.
+
+110
+00:07:26,179 --> 00:07:27,907
+¿Nunca hiciste
+trampa en un examen?
+
+111
+00:07:29,611 --> 00:07:30,611
+No.
+
+112
+00:07:32,124 --> 00:07:34,967
+¿Crees que Estados Unidos
+es el mejor país del mundo?
+
+113
+00:07:35,389 --> 00:07:36,389
+Si.
+
+114
+00:07:37,368 --> 00:07:39,305
+¿Por qué quieres
+unirte a la CIA?
+
+115
+00:07:40,895 --> 00:07:42,858
+¿Cómo explicas la
+Internet a un niño?
+
+116
+00:07:44,877 --> 00:07:48,333
+Tu abuelo se retiró de Almirante
+y se unió al FBI.
+
+117
+00:07:48,673 --> 00:07:51,329
+Tu padre fue guardacostas
+durante 30 años.
+
+118
+00:07:51,449 --> 00:07:53,319
+¿Cuál fue el día mas
+importante de tu vida?
+
+119
+00:07:54,381 --> 00:07:55,483
+El 11 de septiembre.
+
+120
+00:07:55,980 --> 00:07:58,557
+Pensamos que mi abuelo
+estaba adentro del Pentágono.
+
+121
+00:07:58,877 --> 00:08:01,345
+Nos dimos cuenta de que estaba
+fuera ese día.
+
+122
+00:08:01,687 --> 00:08:03,529
+¿Quisiste unirte a
+las Fuerzas Especiales?
+
+123
+00:08:04,280 --> 00:08:05,218
+Sí, señor.
+
+124
+00:08:05,253 --> 00:08:06,382
+Yo...
+
+125
+00:08:06,416 --> 00:08:08,480
+Me encanta su lema,
+'libres de la opresión'.
+
+126
+00:08:08,726 --> 00:08:10,522
+¿Y eso quieres
+hacer con nosotros?
+
+127
+00:08:11,541 --> 00:08:13,281
+¿Liberar a la gente
+de la opresión?
+
+128
+00:08:13,463 --> 00:08:15,961
+Quiero ayudar a mi país a
+hacer una diferencia en el mundo.
+
+129
+00:08:17,028 --> 00:08:19,940
+El Internet es una tecnología...
+
+130
+00:08:21,008 --> 00:08:23,132
+que tiene el
+poder de hacernos...
+
+131
+00:08:23,166 --> 00:08:25,562
+entender unos a
+otros en todo el mundo.
+
+132
+00:08:26,034 --> 00:08:28,336
+Fallaste sólo una
+pregunta para...
+
+133
+00:08:28,454 --> 00:08:31,356
+tener la mejor puntuación
+en el examén para el Ejército.
+
+134
+00:08:31,687 --> 00:08:34,271
+Los mejores resultados en
+las pruebas de lenguaje.
+
+135
+00:08:34,389 --> 00:08:36,986
+Un poco de mandarín,
+un poco de japonés.
+
+136
+00:08:39,545 --> 00:08:41,117
+¿Y sin diploma de la Secundaria?
+
+137
+00:08:41,250 --> 00:08:43,370
+Entonces, ¿por qué dejaste
+de asistir a la Secundaria?
+
+138
+00:08:44,180 --> 00:08:45,683
+Tenía que ganar dinero.
+
+139
+00:08:45,793 --> 00:08:47,766
+Mis padres se estaban
+divorciando en ese momento.
+
+140
+00:08:48,919 --> 00:08:50,698
+¿Otras influencias?
+
+141
+00:08:51,126 --> 00:08:53,159
+Diría Joseph Campbell.
+
+142
+00:08:55,305 --> 00:08:56,376
+Star Wars.
+
+143
+00:08:56,643 --> 00:08:57,682
+Thoreau.
+
+144
+00:08:58,199 --> 00:08:59,199
+Ayn Rand.
+
+145
+00:09:00,076 --> 00:09:02,806
+"Un hombre puede detener
+al motor del mundo".
+
+146
+00:09:03,247 --> 00:09:05,719
+- ¿"Y el mundo temblará"?
+- Sí, señor. En eso creo.
+
+147
+00:09:06,897 --> 00:09:08,324
+Intentémoslo de nuevo.
+
+148
+00:09:09,310 --> 00:09:11,477
+¿Por qué quieres
+unirte a la CIA?
+
+149
+00:09:15,315 --> 00:09:16,773
+Bueno, honestamente,
+
+150
+00:09:17,329 --> 00:09:18,329
+señor...
+
+151
+00:09:19,996 --> 00:09:23,269
+Suena muy genial, el tener el más
+alto nivel de autorización.
+
+152
+00:09:32,428 --> 00:09:33,451
+No es suficiente.
+
+153
+00:09:41,438 --> 00:09:42,653
+Normalmente.
+
+154
+00:09:43,505 --> 00:09:45,408
+Pero estos no son
+tiempos normales.
+
+155
+00:09:46,968 --> 00:09:48,356
+Las bombas no
+detienen al terrorismo,
+
+156
+00:09:48,380 --> 00:09:50,968
+y no tenemos a
+suficientes cerebros.
+
+157
+00:09:52,627 --> 00:09:54,267
+Le daremos una
+oportunidad, Snowden.
+
+158
+00:09:55,333 --> 00:09:58,184
+Gracias, señor. Muchas gracias.
+No se arrepentirá de esto.
+
+159
+00:09:58,837 --> 00:10:00,526
+Me llamo Corbin O'Brian.
+
+160
+00:10:00,635 --> 00:10:03,212
+Tengo muchas tareas,
+incluyendo Jefe de Instrucción.
+
+161
+00:10:04,350 --> 00:10:06,314
+<i>Se unirá a mi clase,
+en "La Colina".</i>
+
+162
+00:10:07,020 --> 00:10:09,722
+Detenga el vehículo,
+apague el motor.
+
+163
+00:10:12,183 --> 00:10:13,423
+Necesito ver su identificación.
+
+164
+00:10:17,324 --> 00:10:19,770
+Está bien. Usando
+sólo la mano izquierda,
+
+165
+00:10:19,811 --> 00:10:20,828
+abra el maletero.
+
+166
+00:10:23,447 --> 00:10:25,263
+Ponga sus manos
+a través volante...
+
+167
+00:10:25,296 --> 00:10:26,776
+y hacia el tablero
+de instrumentos.
+
+168
+00:10:26,814 --> 00:10:28,229
+A través del volante,
+
+169
+00:10:28,716 --> 00:10:29,900
+y al tablero de instrumentos.
+
+170
+00:10:29,933 --> 00:10:31,593
+No salga del vehículo.
+
+171
+00:10:42,552 --> 00:10:46,416
+<i>CENTRO DE ENTRENAMIENTO DE LA CIA
+VIRGINIA, "LA COLINA", 2006</i>
+
+172
+00:10:48,740 --> 00:10:49,744
+Disculpe.
+
+173
+00:10:50,487 --> 00:10:52,275
+Buscas la clase Corbin.
+
+174
+00:10:52,308 --> 00:10:54,708
+Final del pasillo, continua
+hasta la segunda fila de puertas.
+
+175
+00:10:54,890 --> 00:10:55,899
+Gracias.
+
+176
+00:10:56,613 --> 00:10:58,361
+¿Es una Enigma?
+
+177
+00:10:58,940 --> 00:10:59,940
+No.
+
+178
+00:11:00,152 --> 00:11:01,800
+Enigma fue descifrada.
+Esta es...
+
+179
+00:11:01,878 --> 00:11:04,234
+la siguiente, la Sigaba,
+nunca fue descifrada.
+
+180
+00:11:05,104 --> 00:11:07,477
+La mejor máquina para el
+cifrado de la Guerra Fría.
+
+181
+00:11:07,672 --> 00:11:11,171
+La historia fue creada por este
+motor y estos rotores.
+
+182
+00:11:12,150 --> 00:11:14,433
+Un día, todo el mundo
+querrá una maquina como ésta.
+
+183
+00:11:15,602 --> 00:11:18,805
+Siempre quise aprender Criptografía.
+¿Qué es esto?
+
+184
+00:11:19,433 --> 00:11:20,573
+La línea de emergencia.
+
+185
+00:11:21,345 --> 00:11:23,903
+La primera línea directa
+entre Washington y Moscú.
+
+186
+00:11:24,181 --> 00:11:26,061
+Probablemente evitó a
+La Tercera Guerra Mundial.
+
+187
+00:11:29,013 --> 00:11:31,496
+¿Tienes un nombre? ¿Cómo sé
+que no eres el enemigo?
+
+188
+00:11:31,529 --> 00:11:34,097
+- Lo siento. Snowden. Ed Snowden.
+- Hank Forrester.
+
+189
+00:11:34,932 --> 00:11:38,417
+- ¿Dónde estudiaste, hijo?
+- En su mayoría soy autodidacta.
+
+190
+00:11:39,827 --> 00:11:42,158
+Puede decir que está ocupado,
+¿pero eso es una Cray-1?
+
+191
+00:11:42,854 --> 00:11:44,842
+Oh, sí.
+Sí, lo es.
+
+192
+00:11:45,668 --> 00:11:48,359
+La primer supercomputadora.
+
+193
+00:11:48,815 --> 00:11:51,101
+- Ahora lo tenemos todo en el móvil.
+- Si.
+
+194
+00:11:51,504 --> 00:11:53,394
+Por lo tanto, ¿es un ingeniero?
+
+195
+00:11:53,768 --> 00:11:54,896
+¿Si soy un ingeniero?
+
+196
+00:11:55,743 --> 00:11:57,323
+Instructor y asesor también.
+
+197
+00:11:57,357 --> 00:11:59,391
+Se supone debo echar
+un ojo a los nuevos.
+
+198
+00:11:59,647 --> 00:12:01,452
+Asegurarme de que no
+truenen ante la presión.
+
+199
+00:12:01,853 --> 00:12:03,312
+Tomen drogas o alcohol.
+
+200
+00:12:03,671 --> 00:12:07,351
+Bueno, conmigo no tendrá ese problema.
+Yo no bebo, ni uso drogas.
+
+201
+00:12:07,384 --> 00:12:08,775
+¿Cuál es tu asignatura?
+
+202
+00:12:09,882 --> 00:12:10,882
+Computadoras.
+
+203
+00:12:12,499 --> 00:12:13,835
+Bueno, Ed Snowden.
+
+204
+00:12:14,256 --> 00:12:16,138
+Viniste al maldito
+lugar correcto.
+
+205
+00:12:18,905 --> 00:12:21,893
+El frente de la guerra global
+contra el terrorismo...
+
+206
+00:12:21,962 --> 00:12:23,979
+no es Irak o en Afganistán.
+
+207
+00:12:25,031 --> 00:12:26,031
+Es aquí.
+
+208
+00:12:27,589 --> 00:12:28,589
+En Londres.
+
+209
+00:12:29,548 --> 00:12:30,548
+Berlín.
+
+210
+00:12:32,045 --> 00:12:33,161
+Estambul.
+
+211
+00:12:33,968 --> 00:12:35,941
+Cada servidor, cada conexión.
+
+212
+00:12:37,475 --> 00:12:39,012
+El moderno campo de batalla...
+
+213
+00:12:40,747 --> 00:12:41,809
+es en todas partes.
+
+214
+00:12:43,925 --> 00:12:45,171
+Lo que significa,
+
+215
+00:12:45,977 --> 00:12:48,465
+que no se sentarán
+en las trincheras...
+
+216
+00:12:48,498 --> 00:12:49,949
+o esquivarán fuego de mortero.
+
+217
+00:12:50,391 --> 00:12:53,181
+Significa que si hubiera
+otro 11 de septiembre...
+
+218
+00:12:54,748 --> 00:12:56,117
+seria su culpa.
+
+219
+00:12:58,304 --> 00:13:00,933
+Como el último
+de mi generación...
+
+220
+00:13:03,272 --> 00:13:06,011
+Créanme, no les gustaría
+vivir con esa carga.
+
+221
+00:13:11,302 --> 00:13:13,730
+Comenzaremos con una
+prueba de aptitud.
+
+222
+00:13:15,075 --> 00:13:16,826
+<i>Cada uno de ustedes va
+a construir una red...</i>
+
+223
+00:13:16,850 --> 00:13:19,567
+<i>de comunicaciones secreta
+en su ciudad natal.</i>
+
+224
+00:13:21,289 --> 00:13:22,673
+<i>La lanzaran,</i>
+
+225
+00:13:23,061 --> 00:13:25,106
+<i>regresan a su sitio
+y la destruyen,</i>
+
+226
+00:13:25,750 --> 00:13:27,312
+<i>y la restauran de nuevo.</i>
+
+227
+00:13:28,437 --> 00:13:29,797
+<i>El propósito del
+ejercicio es el...</i>
+
+228
+00:13:29,871 --> 00:13:32,597
+<i>mantener su infraestructura
+funcionando segura.</i>
+
+229
+00:13:33,362 --> 00:13:36,386
+<i>El tiempo promedio para
+la prueba es de 5 horas.</i>
+
+230
+00:13:36,673 --> 00:13:39,501
+Si emplean más de 8,
+habrán fallado.
+
+231
+00:13:41,192 --> 00:13:42,425
+<i>ÉXITO</i>
+
+232
+00:13:42,459 --> 00:13:43,459
+<i>CIUDAD DE MÉXICO</i>
+
+233
+00:14:05,046 --> 00:14:06,216
+¿Sr. O'Brian?
+
+234
+00:14:07,900 --> 00:14:09,261
+Ya he terminado señor.
+
+235
+00:14:09,690 --> 00:14:12,178
+No debes decirme cuando
+cumplas con una etapa.
+
+236
+00:14:12,356 --> 00:14:14,352
+No, he terminado todo.
+
+237
+00:14:15,110 --> 00:14:16,255
+¿En 40 minutos?
+
+238
+00:14:16,511 --> 00:14:17,511
+38.
+
+239
+00:14:17,879 --> 00:14:18,879
+¿Qué?
+
+240
+00:14:19,797 --> 00:14:20,797
+38 minutos.
+
+241
+00:14:23,810 --> 00:14:26,099
+De acuerdo. Vamos a ver en
+qué te equivocaste.
+
+242
+00:14:47,327 --> 00:14:50,597
+No dijo que teníamos que hacerlo
+en ese orden señor, así que...
+
+243
+00:14:51,530 --> 00:14:53,378
+dividí las secuencias
+para ahorrar tiempo,
+
+244
+00:14:53,404 --> 00:14:55,886
+y automaticé el proceso de
+guardado para funcionar...
+
+245
+00:14:55,919 --> 00:14:57,547
+mientras así
+construía el sistema.
+
+246
+00:14:59,012 --> 00:15:00,311
+Los ojos en las pantallas.
+
+247
+00:15:07,605 --> 00:15:08,786
+¿Entonces?
+
+248
+00:15:11,039 --> 00:15:12,435
+¿Qué debería hacer ahora?
+
+249
+00:15:12,809 --> 00:15:14,092
+Lo que sea que quieras.
+
+250
+00:15:24,954 --> 00:15:28,087
+<i>WASHINGTON, D.C.</i>
+
+251
+00:15:28,186 --> 00:15:30,338
+<i>¿Eres tan pálido en la realidad?</i>
+
+252
+00:15:52,080 --> 00:15:53,080
+Hola.
+
+253
+00:15:53,370 --> 00:15:54,370
+Hola.
+
+254
+00:15:55,500 --> 00:15:56,500
+- Finalmente.
+- Si.
+
+255
+00:16:02,070 --> 00:16:03,070
+Disculpa.
+
+256
+00:16:07,418 --> 00:16:08,467
+¿Quieres...
+
+257
+00:16:09,200 --> 00:16:10,200
+algo?
+
+258
+00:16:10,480 --> 00:16:11,480
+No.
+
+259
+00:16:11,677 --> 00:16:12,677
+Vamos a caminar.
+
+260
+00:16:13,247 --> 00:16:14,669
+Te vendría bien un poco de sol.
+
+261
+00:16:15,446 --> 00:16:16,446
+Si.
+
+262
+00:16:16,848 --> 00:16:19,234
+Lo has dicho... Antes...
+
+263
+00:16:20,203 --> 00:16:22,647
+Lo siento si me tomó
+mucho tiempo. Yo sólo...
+
+264
+00:16:23,063 --> 00:16:24,399
+No querrías verme en muletas.
+
+265
+00:16:25,186 --> 00:16:26,708
+No estaba muy ágil.
+
+266
+00:16:27,228 --> 00:16:28,588
+Entonces, tengo
+este nuevo trabajo.
+
+267
+00:16:29,518 --> 00:16:31,004
+¿A qué te dedicas de nuevo?
+
+268
+00:16:31,527 --> 00:16:33,568
+Hago análisis para el
+Ministerio de Asuntos Exteriores.
+
+269
+00:16:33,592 --> 00:16:35,626
+- Bien. ¡Felicitaciones!
+- Gracias.
+
+270
+00:16:35,659 --> 00:16:36,659
+De nada.
+
+271
+00:16:37,052 --> 00:16:38,274
+¿Me puedes hacer un favor,
+
+272
+00:16:38,973 --> 00:16:41,213
+y decirme donde está el
+Ministerio de Asuntos Exteriores?
+
+273
+00:16:46,319 --> 00:16:47,627
+Si. Es por ahí.
+
+274
+00:16:48,153 --> 00:16:49,153
+¿Donde?
+
+275
+00:16:49,469 --> 00:16:50,525
+¿Estás seguro?
+
+276
+00:16:51,702 --> 00:16:54,398
+Digo, no soy tan bueno orientándome.
+
+277
+00:16:54,547 --> 00:16:56,394
+Ni siquiera eres tan
+bueno mintiendo tampoco.
+
+278
+00:16:56,895 --> 00:16:59,135
+Debes trabajar ambos, si quieres
+convertirte en un espía.
+
+279
+00:17:01,149 --> 00:17:03,040
+De donde vengo, los padres
+de todos trabajaban...
+
+280
+00:17:03,064 --> 00:17:04,864
+para el "Ministerio
+de Asuntos Exteriores".
+
+281
+00:17:04,994 --> 00:17:06,150
+Además, todas las veces que...
+
+282
+00:17:06,174 --> 00:17:07,865
+has visitado mi
+sitio web esta semana,
+
+283
+00:17:07,900 --> 00:17:08,527
+lo cuál...
+
+284
+00:17:08,583 --> 00:17:11,510
+fue a menudo, era
+con una IP en Virginia.
+
+285
+00:17:11,818 --> 00:17:13,700
+- ¿Sabes rastrear una dirección IP?
+- Si.
+
+286
+00:17:14,598 --> 00:17:16,598
+Estoy muy segura de que el
+Ministerio de Asuntos Exteriores...
+
+287
+00:17:16,622 --> 00:17:18,495
+no tiene oficinas en Virginia.
+
+288
+00:17:27,566 --> 00:17:29,046
+De acuerdo, vamos
+a ver lo que tienes.
+
+289
+00:17:29,491 --> 00:17:30,491
+¿Ver qué?
+
+290
+00:17:30,632 --> 00:17:33,617
+Veamos que tienes. Muéstrame
+tu mejor forma de caminar.
+
+291
+00:17:35,352 --> 00:17:36,783
+No seas tímido.
+
+292
+00:17:37,684 --> 00:17:39,313
+Vamos. Puedes hacerlo.
+
+293
+00:17:43,490 --> 00:17:44,490
+No sé...
+
+294
+00:17:50,566 --> 00:17:54,185
+No a Bush, no a las bombas.
+No a Bush, no a las bombas.
+
+295
+00:17:54,211 --> 00:17:56,002
+No a Bush, no a las bombas.
+
+296
+00:17:56,036 --> 00:17:56,606
+Disculpen...
+
+297
+00:17:56,705 --> 00:17:59,892
+- ¿Quieren firmar la petición, por favor?
+- Si, por supuesto.
+
+298
+00:18:02,036 --> 00:18:03,833
+- Gracias.
+- Muchas gracias. ¿Señor?
+
+299
+00:18:04,130 --> 00:18:05,137
+No, gracias.
+
+300
+00:18:08,066 --> 00:18:10,133
+- Perdone señorita, ¿desea firmar?
+- Acabo de firmar ya.
+
+301
+00:18:10,151 --> 00:18:11,911
+- De acuerdo, muchas gracias.
+- Gracias a ti.
+
+302
+00:18:13,426 --> 00:18:14,966
+¿Exceso de pensamiento libre?
+
+303
+00:18:16,729 --> 00:18:18,954
+No. Sólo no me gusta
+criticar a mi país.
+
+304
+00:18:19,926 --> 00:18:23,449
+Es mi país también, y ahora mismo
+tiene sangre en sus manos.
+
+305
+00:18:26,327 --> 00:18:29,145
+Disculpa. Tengo
+amigos allá ahora.
+
+306
+00:18:29,546 --> 00:18:31,490
+No hablo de las tropas,
+hablo de los idiotas...
+
+307
+00:18:31,524 --> 00:18:32,770
+que los envían a la guerra.
+
+308
+00:18:33,942 --> 00:18:35,492
+¿Te refieres a nuestro
+Comandante en Jefe?
+
+309
+00:18:35,516 --> 00:18:37,844
+Si, como quieras llamarlo,
+aún está equivocado.
+
+310
+00:18:38,124 --> 00:18:39,856
+¿Cómo sabes que se equivoca?
+No haces más que criticarlo.
+
+311
+00:18:39,859 --> 00:18:41,529
+No, no estoy criticándolo.
+
+312
+00:18:41,562 --> 00:18:43,084
+Estoy cuestionando
+a nuestro Gobierno.
+
+313
+00:18:43,756 --> 00:18:45,000
+Eso hacemos en este país.
+
+314
+00:18:45,097 --> 00:18:47,198
+Es por el principio
+en que nos fundamos.
+
+315
+00:18:47,264 --> 00:18:50,718
+De acuerdo, pero, ¿por qué no
+cuestionar a los medios liberales?
+
+316
+00:18:51,786 --> 00:18:55,207
+Aceptas sin dudar lo
+que dice uno de los lados.
+
+317
+00:18:56,444 --> 00:18:58,644
+Tal vez lo hago. Porque mi
+lado es el correcto.
+
+318
+00:18:59,610 --> 00:19:01,488
+Es gracioso, porque
+mi lado es el correcto.
+
+319
+00:19:01,542 --> 00:19:02,620
+- ¿En serio?
+- Si.
+
+320
+00:19:04,886 --> 00:19:07,828
+¿Por qué un conservador
+inteligente me irrita tanto?
+
+321
+00:19:08,318 --> 00:19:10,118
+Tal vez porque no te
+gusta escuchar la verdad.
+
+322
+00:19:11,150 --> 00:19:13,723
+Eres una persona muy frustrante,
+
+323
+00:19:14,341 --> 00:19:15,341
+¿lo sabías?
+
+324
+00:19:16,913 --> 00:19:18,444
+¿Cómo puedo hacer que entiendas?
+
+325
+00:19:19,074 --> 00:19:20,860
+Entiendo muy bien, gracias.
+
+326
+00:19:28,942 --> 00:19:30,052
+¿Eso ayudo?
+
+327
+00:19:31,538 --> 00:19:33,802
+No, no sirvió de nada.
+
+328
+00:19:34,114 --> 00:19:35,305
+Sabía a liberal.
+
+329
+00:19:35,622 --> 00:19:37,392
+Verás, no es lo mío.
+
+330
+00:19:40,917 --> 00:19:44,522
+"Bush autoriza escuchas
+telefónicas sin los Tribunales".
+
+331
+00:19:45,274 --> 00:19:48,983
+¿Es constitucional evadir
+a los Tribunales?
+
+332
+00:19:49,122 --> 00:19:50,122
+No.
+
+333
+00:19:50,397 --> 00:19:51,552
+La cuarta enmienda impide la...
+
+334
+00:19:51,576 --> 00:19:53,378
+búsqueda y captura,
+sin una orden judicial.
+
+335
+00:19:53,413 --> 00:19:55,441
+Eso es absolutamente
+correcto, Río.
+
+336
+00:19:56,103 --> 00:19:57,419
+Lo que significa...
+
+337
+00:19:57,773 --> 00:20:00,619
+Que su Comandante en Jefe, el Presidente
+de los Estados Unidos...
+
+338
+00:20:00,679 --> 00:20:02,142
+está infringiendo la ley.
+
+339
+00:20:03,666 --> 00:20:05,307
+Eso es lo que dijiste, ¿no Río?
+
+340
+00:20:05,467 --> 00:20:08,089
+Bueno, supongo que depende de...
+
+341
+00:20:09,458 --> 00:20:12,246
+- con quién estoy hablando.
+- ¿Y si hablas con los periodistas?
+
+342
+00:20:13,274 --> 00:20:14,604
+Que muy a menudo no,
+
+343
+00:20:14,890 --> 00:20:18,386
+tienen el cuadro completo o son
+negligentes en reportarlo.
+
+344
+00:20:18,528 --> 00:20:20,496
+Sólo tienes una
+parte de la verdad.
+
+345
+00:20:24,072 --> 00:20:26,901
+Acta de Vigilancia para
+la Inteligencia Extranjera.
+
+346
+00:20:27,103 --> 00:20:28,463
+El Tribunal de la FISA.
+
+347
+00:20:29,328 --> 00:20:31,889
+Respetamos la Cuarta Enmienda
+en este país,
+
+348
+00:20:31,946 --> 00:20:34,445
+emitimos órdenes basadas
+en la sospecha, pero...
+
+349
+00:20:35,278 --> 00:20:39,537
+a veces, estas órdenes deben ser
+emitidas por Tribunales secretos,
+
+350
+00:20:39,570 --> 00:20:41,991
+por lo que no damos a sospechar
+de que estamos espiando.
+
+351
+00:20:42,150 --> 00:20:44,963
+Estos procedimientos
+legales son confidenciales,
+
+352
+00:20:45,386 --> 00:20:47,269
+lo que significa... Sorpresa...
+
+353
+00:20:48,559 --> 00:20:50,965
+No aparecen en los periódicos
+como el New York Times.
+
+354
+00:20:52,726 --> 00:20:53,929
+¿Has visto mis
+resultados de los exámenes?
+
+355
+00:20:53,953 --> 00:20:55,769
+Si. Era el mejor en mi clase.
+
+356
+00:20:55,807 --> 00:20:57,390
+- Al igual que tú.
+- ¿Aquí?
+
+357
+00:20:57,481 --> 00:20:58,481
+La NSA.
+
+358
+00:20:59,304 --> 00:21:02,533
+Me amaban. Me pusieron
+en los mejores equipos.
+
+359
+00:21:02,611 --> 00:21:05,065
+La frontera soviética,
+la Tormenta del Desierto.
+
+360
+00:21:05,471 --> 00:21:07,157
+Entonces, el
+siguiente gran desafío.
+
+361
+00:21:07,488 --> 00:21:10,384
+Encuentra a los terroristas
+en el pajar de la Internet.
+
+362
+00:21:10,744 --> 00:21:13,688
+Un enorme pajar. Cientos de
+terabytes por minuto.
+
+363
+00:21:13,730 --> 00:21:15,897
+Digo, nos tomó 400 años el leer
+el correo electrónico,
+
+364
+00:21:16,530 --> 00:21:18,086
+y entonces tienes
+que analizarlos.
+
+365
+00:21:19,590 --> 00:21:21,593
+A veces entre más miras, menos ves.
+
+366
+00:21:22,886 --> 00:21:25,475
+- ¿Qué lograste?
+- Una cosa hermosa. Local.
+
+367
+00:21:25,734 --> 00:21:29,239
+Por $3 millones. Un programa
+que puede distinguir...
+
+368
+00:21:29,291 --> 00:21:31,197
+entre extranjeros y locales.
+
+369
+00:21:31,261 --> 00:21:33,502
+Encriptar las demás cosas
+que no se están investigando,
+
+370
+00:21:33,535 --> 00:21:34,895
+para que continúen
+siendo privadas.
+
+371
+00:21:34,950 --> 00:21:36,844
+Era elegante, simplificado.
+
+372
+00:21:37,448 --> 00:21:38,856
+El mejor trabajo
+que he hecho nunca.
+
+373
+00:21:40,870 --> 00:21:41,870
+Siéntate.
+
+374
+00:21:43,610 --> 00:21:44,610
+¿Cuál era su nombre?
+
+375
+00:21:52,766 --> 00:21:55,359
+Ed, llegar a la cima,
+
+376
+00:21:56,403 --> 00:21:57,663
+en nuestro mundo,
+
+377
+00:21:58,085 --> 00:22:00,694
+puede a veces ser difícil
+para un hombre.
+
+378
+00:22:01,587 --> 00:22:02,587
+Es decir,
+
+379
+00:22:03,095 --> 00:22:05,167
+crees que estás
+haciendo progresos.
+
+380
+00:22:05,889 --> 00:22:07,976
+Crees que tomas la iniciativa,
+
+381
+00:22:09,475 --> 00:22:12,079
+y al minuto siguiente borran tu
+trabajo y deja de existir.
+
+382
+00:22:12,966 --> 00:22:14,433
+¿No lo usaron?
+¿Por qué no?
+
+383
+00:22:14,987 --> 00:22:17,066
+Bueno, ellos nunca
+te dicen el por qué.
+
+384
+00:22:19,026 --> 00:22:21,117
+Dos años más tarde, después
+del 11 de septiembre...
+
+385
+00:22:21,526 --> 00:22:24,287
+un amigo mío me habló
+de este nuevo contrato...
+
+386
+00:22:24,320 --> 00:22:25,760
+para un programa
+que están usando.
+
+387
+00:22:25,861 --> 00:22:28,473
+Costará 4 billones de
+dólares el desplegarlo,
+
+388
+00:22:28,506 --> 00:22:29,546
+modelado a partir del mío,
+
+389
+00:22:30,420 --> 00:22:33,216
+pero sin filtros,
+sin automatización,
+
+390
+00:22:34,233 --> 00:22:36,608
+ingiriéndolo todo.
+
+391
+00:22:36,796 --> 00:22:39,477
+Estaban ahogándose en datos.
+Era un maldito desastre.
+
+392
+00:22:39,837 --> 00:22:43,271
+De acuerdo, pero tuvo que
+haber un panorama más amplio, creo,
+
+393
+00:22:43,815 --> 00:22:46,107
+al gastar ese dinero.
+No son estúpidos.
+
+394
+00:22:46,261 --> 00:22:47,856
+Se creería que
+la inteligencia...
+
+395
+00:22:47,862 --> 00:22:50,450
+cuenta para algo, en el
+negocio de la inteligencia.
+
+396
+00:22:50,891 --> 00:22:51,891
+Cierto.
+
+397
+00:22:52,392 --> 00:22:54,025
+¿Quieres saber lo
+qué es en realidad?
+
+398
+00:22:54,467 --> 00:22:56,371
+¿Lo que realmente pone
+en marcha la agenda?
+
+399
+00:22:57,556 --> 00:23:01,566
+La felicidad de la
+gestión industrial militar.
+
+400
+00:23:02,851 --> 00:23:05,070
+Teniendo abiertas las
+arcas del Congreso,
+
+401
+00:23:05,071 --> 00:23:07,531
+mantienes fluyendo el dinero
+para los contratistas,
+
+402
+00:23:08,154 --> 00:23:09,954
+y la eficiencia
+y los resultados...
+
+403
+00:23:10,657 --> 00:23:11,883
+vuelan por la ventana.
+
+404
+00:23:12,688 --> 00:23:13,944
+Por no hablar de...
+
+405
+00:23:14,244 --> 00:23:15,638
+Bueno.
+
+406
+00:23:16,994 --> 00:23:17,994
+Llegarás tarde a clase.
+
+407
+00:23:19,497 --> 00:23:20,497
+De acuerdo.
+
+408
+00:23:20,647 --> 00:23:21,647
+Gracias.
+
+409
+00:23:23,234 --> 00:23:25,513
+- ¿Puedo tomar otro?
+- Claro.
+
+410
+00:23:32,666 --> 00:23:35,334
+¿Nunca dijiste nada a nadie?
+
+411
+00:23:35,358 --> 00:23:37,398
+Sí, fui a la oficina jurídica.
+
+412
+00:23:37,658 --> 00:23:39,075
+Presentamos un reclamo.
+
+413
+00:23:39,442 --> 00:23:43,109
+Ahora, aquí estoy,
+oculto, y enseñándote.
+
+414
+00:23:46,161 --> 00:23:48,364
+Tal vez a largo plazo,
+sea más importante.
+
+415
+00:23:49,596 --> 00:23:50,603
+Estás mejorando.
+
+416
+00:24:06,362 --> 00:24:08,227
+Mi lugar favorito en el Campus.
+
+417
+00:24:10,864 --> 00:24:12,220
+¿Vas de cacería, Ed?
+
+418
+00:24:15,734 --> 00:24:18,183
+Sólo unos tiros a los platos
+con mi papá, a veces...
+
+419
+00:24:18,262 --> 00:24:19,924
+pero nunca de cacería.
+
+420
+00:24:20,159 --> 00:24:22,658
+- Un día iremos.
+- Eso sería genial.
+
+421
+00:24:24,063 --> 00:24:25,717
+Sr. O'Brian, ¿puedo
+hacerle una pregunta?
+
+422
+00:24:25,835 --> 00:24:27,611
+¿Qué tal si me llamas Corbin?
+
+423
+00:24:27,883 --> 00:24:28,883
+De acuerdo.
+
+424
+00:24:29,126 --> 00:24:30,126
+Gracias, señor.
+
+425
+00:24:30,546 --> 00:24:31,546
+Corbin.
+
+426
+00:24:32,445 --> 00:24:36,363
+Estaba hablando con Hank Forrester,
+y quería saber...
+
+427
+00:24:37,003 --> 00:24:38,849
+¿si todos nuestros
+programas de observación,
+
+428
+00:24:39,226 --> 00:24:40,604
+tienen un propósito específico?
+
+429
+00:24:41,556 --> 00:24:44,555
+Claro. ¿De qué más servirían,
+si no fuera así?
+
+430
+00:24:46,858 --> 00:24:47,907
+Sí. No lo sé.
+
+431
+00:24:50,526 --> 00:24:52,325
+¿Tienes novia, Ed?
+
+432
+00:24:54,962 --> 00:24:56,253
+Nada serio.
+
+433
+00:24:56,286 --> 00:24:57,581
+- ¿Cuál es su nombre?
+- Lindsay.
+
+434
+00:24:57,615 --> 00:24:58,615
+¿Lindsay?
+
+435
+00:25:00,100 --> 00:25:01,322
+¿Se iría contigo?
+
+436
+00:25:02,542 --> 00:25:04,935
+No, yo no la pondría en peligro.
+
+437
+00:25:05,453 --> 00:25:06,555
+No tendrías que hacerlo.
+
+438
+00:25:06,898 --> 00:25:08,826
+No te asignaremos
+al Medio Oriente.
+
+439
+00:25:14,186 --> 00:25:16,625
+Señor, soy su mejor alumno.
+
+440
+00:25:17,636 --> 00:25:18,844
+¿No significa nada?
+
+441
+00:25:19,669 --> 00:25:21,448
+En 20 años, Irak
+será un agujero...
+
+442
+00:25:21,481 --> 00:25:23,081
+de mierda que no
+le importará a nadie.
+
+443
+00:25:24,040 --> 00:25:26,187
+El terrorismo es una
+amenaza a corto plazo.
+
+444
+00:25:26,322 --> 00:25:30,189
+Las amenazas reales vendrán
+de China, Rusia, Irán.
+
+445
+00:25:30,911 --> 00:25:33,341
+Ellos vendrán con una
+secuencia de malware.
+
+446
+00:25:33,755 --> 00:25:35,145
+Sin mentes como la tuya,
+
+447
+00:25:35,188 --> 00:25:37,636
+este país será desgarrado
+en el ciberespacio.
+
+448
+00:25:38,873 --> 00:25:40,507
+No voy a correr el
+riesgo de perderte...
+
+449
+00:25:40,541 --> 00:25:42,477
+por una guerra de mierda
+por arena y aceite.
+
+450
+00:25:45,592 --> 00:25:47,262
+Señor, me sorprende oírle
+decir eso.
+
+451
+00:25:47,640 --> 00:25:50,632
+No tienes que estar de acuerdo con
+los políticos para ser un patriota.
+
+452
+00:25:55,026 --> 00:25:57,054
+- Entonces, ¿adónde me mandará?
+- Espera un minuto.
+
+453
+00:25:58,128 --> 00:25:59,313
+Disfruta de la vista.
+
+454
+00:26:02,468 --> 00:26:03,468
+Hola.
+
+455
+00:26:06,758 --> 00:26:11,444
+<i>HONG KONG, MARTES
+4 DE JUNIO DEL 2013</i>
+
+456
+00:26:21,241 --> 00:26:22,246
+Esta es Laura.
+
+457
+00:26:23,026 --> 00:26:25,264
+- Hola.
+- Hola. Gusto en conocerte.
+
+458
+00:26:27,076 --> 00:26:29,604
+Ewen MacAskill de The Guardian.
+Un gusto conocerte.
+
+459
+00:26:29,645 --> 00:26:30,725
+Gusto en conocerlo también.
+
+460
+00:26:31,415 --> 00:26:33,988
+Si no te importa,
+me gustaría grabar...
+
+461
+00:26:34,135 --> 00:26:35,156
+No.
+
+462
+00:26:35,610 --> 00:26:38,454
+- Los móviles van al microondas.
+- ¿Puedo preguntar por qué?
+
+463
+00:26:38,487 --> 00:26:40,763
+Iremos a eso, después de
+que hagas tus preguntas.
+
+464
+00:26:41,902 --> 00:26:43,094
+Antes que nada...
+
+465
+00:26:43,122 --> 00:26:45,575
+Antes de ir a la historia,
+necesito saber más de ti,
+
+466
+00:26:45,705 --> 00:26:46,819
+como tu carrera,
+
+467
+00:26:47,631 --> 00:26:49,470
+has tenido una
+carrera interesante,
+
+468
+00:26:49,503 --> 00:26:51,243
+pero The Guardian
+necesita de evidencias.
+
+469
+00:26:51,287 --> 00:26:54,859
+Este, es mi pasaporte
+diplomático de países amigos.
+
+470
+00:26:54,892 --> 00:26:56,541
+Mi pasaporte de turista
+para los demás...
+
+471
+00:26:56,574 --> 00:26:58,036
+Puede revisar mi VISA.
+
+472
+00:26:58,065 --> 00:26:59,986
+Este es mi distintivo de la NSA.
+
+473
+00:27:00,616 --> 00:27:02,226
+Mi distintivo de
+la CIA con Dell.
+
+474
+00:27:02,231 --> 00:27:05,109
+Y este es mi distintivo de
+instructor informático.
+
+475
+00:27:05,562 --> 00:27:08,238
+Esta es una foto de mí
+con Michael Hayden,
+
+476
+00:27:08,318 --> 00:27:11,300
+ex-jefe de la NSA y la CIA.
+
+477
+00:27:12,609 --> 00:27:13,682
+¿Cuándo puede publicarlo?
+
+478
+00:27:14,902 --> 00:27:15,902
+De acuerdo...
+
+479
+00:27:16,516 --> 00:27:18,236
+- ¿Te importa si me siento?
+- No, por favor.
+
+480
+00:27:20,166 --> 00:27:22,027
+Glenn dice que quieres...
+
+481
+00:27:22,979 --> 00:27:24,615
+quieres revelar tu
+identidad a la gente.
+
+482
+00:27:24,639 --> 00:27:26,230
+¿Cómo crees que
+reaccionará tu Gobierno?
+
+483
+00:27:26,811 --> 00:27:29,191
+Me acusarán bajo la
+acta de espionaje.
+
+484
+00:27:29,282 --> 00:27:31,994
+Dirán que he puesto en
+peligro la Seguridad Nacional,
+
+485
+00:27:32,678 --> 00:27:34,859
+me demonizarán y a mi
+familia y amigos,
+
+486
+00:27:35,566 --> 00:27:37,044
+y me meterán en la cárcel.
+
+487
+00:27:37,742 --> 00:27:39,583
+Eso en el mejor de los casos.
+
+488
+00:27:39,872 --> 00:27:40,872
+¿Y en el peor?
+
+489
+00:27:41,018 --> 00:27:44,096
+Bueno, si no consigo
+una protección inmediata,
+
+490
+00:27:44,563 --> 00:27:46,353
+seré arrestado por la CIA...
+
+491
+00:27:46,386 --> 00:27:48,524
+e interrogado fuera de la ley.
+
+492
+00:27:48,533 --> 00:27:50,883
+Y tienen una estación
+aquí calle arriba.
+
+493
+00:27:51,318 --> 00:27:53,528
+Pero, ¿cómo saben lo que hiciste?
+
+494
+00:27:53,778 --> 00:27:56,193
+Porque dejé huellas
+digitales en mis registros,
+
+495
+00:27:56,248 --> 00:27:57,571
+entonces van a enterarse.
+
+496
+00:27:57,619 --> 00:27:59,372
+No quiero una cacería humana.
+
+497
+00:27:59,406 --> 00:28:01,125
+Sé lo que harían a mis colegas.
+
+498
+00:28:02,902 --> 00:28:05,026
+Mire, Sr. MacAskill,
+
+499
+00:28:05,824 --> 00:28:09,472
+no se trata de dinero o
+cualquier otra cosa, para mí.
+
+500
+00:28:09,505 --> 00:28:12,395
+No hay una agenda secreta.
+Sólo quiero llevar esta información...
+
+501
+00:28:12,407 --> 00:28:14,660
+a los periodistas establecidos
+como ustedes,
+
+502
+00:28:14,774 --> 00:28:16,302
+para que la presenten al mundo,
+
+503
+00:28:16,857 --> 00:28:18,570
+y que la gente pueda decidir,
+
+504
+00:28:18,963 --> 00:28:20,643
+si estoy equivocado,
+
+505
+00:28:21,474 --> 00:28:23,808
+o si hay algo en el
+interior del Gobierno...
+
+506
+00:28:23,842 --> 00:28:25,361
+que está realmente mal.
+
+507
+00:28:29,239 --> 00:28:30,318
+Así que...
+
+508
+00:28:32,801 --> 00:28:35,417
+este es todo lo que tengo de...
+
+509
+00:28:35,599 --> 00:28:38,290
+su inteligencia británica,
+el centro de interceptación.
+
+510
+00:28:38,547 --> 00:28:40,391
+Tiene una clave encriptada.
+
+511
+00:28:41,621 --> 00:28:44,232
+Quiero que sus técnicos
+de The Guardian...
+
+512
+00:28:44,286 --> 00:28:47,228
+revisen eso a conciencia,
+hay muchas cosas ahí.
+
+513
+00:28:50,438 --> 00:28:54,836
+Además, investigarán y se
+darán cuenta de lo que hice.
+
+514
+00:28:55,373 --> 00:28:56,551
+Y entonces vendrán por mí.
+
+515
+00:28:57,378 --> 00:28:58,970
+Y con otros que haya
+tenido contacto,
+
+516
+00:29:00,616 --> 00:29:02,059
+vendrán igual por todos ustedes.
+
+517
+00:29:11,745 --> 00:29:13,644
+¿Te importa si voy a
+mirar en el microondas?
+
+518
+00:29:19,858 --> 00:29:22,418
+<i>THE GUARDIAN - EE.UU.
+OFICINA DE NUEVA YORK</i>
+
+519
+00:29:22,426 --> 00:29:23,455
+Ewen.
+
+520
+00:29:23,804 --> 00:29:25,190
+Estoy con Stuart.
+
+521
+00:29:25,716 --> 00:29:26,780
+Hola Ewen.
+
+522
+00:29:27,332 --> 00:29:28,332
+Hola, Stuart.
+
+523
+00:29:28,980 --> 00:29:32,165
+Debo decir una cosa. La Guinness
+aquí es fantástica.
+
+524
+00:29:32,268 --> 00:29:33,358
+<i>Maravilloso.</i>
+
+525
+00:29:33,825 --> 00:29:35,729
+Y es absolutamente autentica.
+
+526
+00:29:35,762 --> 00:29:36,424
+<i>Bien.</i>
+
+527
+00:29:36,774 --> 00:29:39,443
+Pero, muy diferente
+de lo que esperabas.
+
+528
+00:29:39,757 --> 00:29:40,770
+Entonces...
+
+529
+00:29:41,342 --> 00:29:43,353
+Ahora debemos lidiar
+con los abogados,
+
+530
+00:29:43,658 --> 00:29:45,091
+y sin duda con la Casa Blanca.
+
+531
+00:29:46,929 --> 00:29:48,620
+- Tengo luz verde.
+- Eso es genial.
+
+532
+00:29:48,714 --> 00:29:51,151
+Está bien. Comencemos,
+tenemos mucho que repasar...
+
+533
+00:29:51,185 --> 00:29:52,299
+y no es fácil de leer.
+
+534
+00:29:52,464 --> 00:29:54,378
+Podemos empezar contigo
+mostrando XKeyscore.
+
+535
+00:29:54,414 --> 00:29:56,655
+Buena idea. ¿Podrías
+hablar de ello y explicarlo?
+
+536
+00:29:56,688 --> 00:29:57,688
+Si.
+
+537
+00:30:04,650 --> 00:30:06,174
+¿Debemos meternos ahí abajo?
+
+538
+00:30:06,742 --> 00:30:08,300
+Protege sus contraseñas.
+
+539
+00:30:10,023 --> 00:30:12,141
+De acuerdo. Entonces...
+
+540
+00:30:15,476 --> 00:30:16,476
+Esto...
+
+541
+00:30:17,139 --> 00:30:22,018
+se me presentó en mi primer
+trabajo en la CIA, en Ginebra.
+
+542
+00:30:22,934 --> 00:30:24,158
+XKeyscore.
+
+543
+00:30:25,592 --> 00:30:26,592
+¿Qué hace eso?
+
+544
+00:30:27,356 --> 00:30:30,019
+Es como una interfaz de búsqueda.
+
+545
+00:30:31,845 --> 00:30:33,064
+¿Y qué busca?
+
+546
+00:30:33,804 --> 00:30:35,100
+Todo lo que quieras.
+
+547
+00:30:36,799 --> 00:30:38,566
+<i>¿Cuál era tu
+asignación en Ginebra?</i>
+
+548
+00:30:38,569 --> 00:30:39,560
+<i>GINEBRA, SUIZA - 2007</i>
+
+549
+00:30:39,593 --> 00:30:41,959
+<i>Bueno, me asignaron con
+cobertura diplomática...</i>
+
+550
+00:30:41,993 --> 00:30:44,265
+<i>a la misión de la ONU,
+para salvaguardar...</i>
+
+551
+00:30:44,299 --> 00:30:46,537
+<i>la seguridad de la
+red informática de la CIA.</i>
+
+552
+00:30:50,489 --> 00:30:51,895
+<i>Había pasado casi dos años
+en las oficinas de la CIA.</i>
+
+553
+00:30:51,919 --> 00:30:54,858
+<i>MISIÓN DIPLOMÁTICA ESTADOUNIDENSE
+EN LA ONU</i>
+
+554
+00:31:02,573 --> 00:31:04,693
+Disculpe, señor, no lo entiendo.
+
+555
+00:31:05,072 --> 00:31:07,674
+Sherman dijo que hackeaste
+al sitio de Recursos Humanos.
+
+556
+00:31:07,884 --> 00:31:09,802
+Si. Es mi trabajo el
+encontrar desperfectos.
+
+557
+00:31:09,822 --> 00:31:12,240
+La seguridad de Recursos Humanos,
+no es tu problema.
+
+558
+00:31:12,395 --> 00:31:14,138
+Has hecho demasiado,
+¿de acuerdo?
+
+559
+00:31:14,486 --> 00:31:17,099
+Sólo para aclarar.
+No he "hackeado",
+
+560
+00:31:17,132 --> 00:31:18,981
+he demostrado que
+se puede hacer.
+
+561
+00:31:19,077 --> 00:31:20,417
+Me pidió encontrar un parche.
+
+562
+00:31:20,450 --> 00:31:22,691
+- ¿Lo hiciste rápido?
+- Si, lo hice.
+
+563
+00:31:23,014 --> 00:31:24,725
+Memorizando la
+prueba de concepto.
+
+564
+00:31:28,092 --> 00:31:30,012
+No importa lo que has
+hecho, Snowden. Bien o mal,
+
+565
+00:31:30,066 --> 00:31:32,350
+tienes que dejar que estas cosas
+sean problemas de alguien más.
+
+566
+00:31:32,374 --> 00:31:34,321
+- He puesto una marca en tu archivo.
+- ¿Disculpe?
+
+567
+00:31:34,357 --> 00:31:35,380
+Servirá como una lección.
+
+568
+00:31:35,589 --> 00:31:36,862
+No quiero que me
+llamen de nuevo...
+
+569
+00:31:36,886 --> 00:31:38,656
+por alguna otra
+ocurrencia de Ed Snowden.
+
+570
+00:31:39,729 --> 00:31:40,729
+¿De acuerdo?
+
+571
+00:31:44,387 --> 00:31:45,907
+Llévalo con calma el resto del día.
+
+572
+00:31:46,221 --> 00:31:48,221
+Ve a trabajar en los archivos
+que hay que eliminar.
+
+573
+00:31:53,997 --> 00:31:55,317
+No parece que haya
+resultado bien.
+
+574
+00:31:56,437 --> 00:31:57,045
+Oye, hombre.
+
+575
+00:31:57,419 --> 00:31:59,776
+Sí, no, recibí una
+llamada de atención...
+
+576
+00:31:59,809 --> 00:32:01,094
+por hacer mi trabajo.
+
+577
+00:32:01,127 --> 00:32:02,127
+Política, hombre.
+
+578
+00:32:02,605 --> 00:32:04,552
+La cultura del miedo
+gana de nuevo.
+
+579
+00:32:04,818 --> 00:32:06,832
+- No puedo hacer nada aquí.
+- Si.
+
+580
+00:32:07,586 --> 00:32:08,586
+¡Oye!
+
+581
+00:32:09,349 --> 00:32:11,171
+¿Qué hay de esa idea
+de la que hablábamos?
+
+582
+00:32:11,204 --> 00:32:13,030
+Estoy trabajando en ello.
+Espero una llamada...
+
+583
+00:32:13,054 --> 00:32:14,174
+de un amigo de La Colina.
+
+584
+00:32:14,541 --> 00:32:16,107
+¿Quién, Corbin? ¿Has
+llamado a Corbin?
+
+585
+00:32:16,141 --> 00:32:17,270
+¿Crees que pueda hacer algo?
+
+586
+00:32:17,686 --> 00:32:19,210
+Ya veremos, tal vez
+operaciones de...
+
+587
+00:32:19,244 --> 00:32:20,804
+campo limitadas,
+bajo mi supervisión.
+
+588
+00:32:21,032 --> 00:32:23,573
+- Sí, eso sería genial...
+- Tranquilo, Ed.
+
+589
+00:32:24,103 --> 00:32:26,252
+Debo hablar con alguien en Milán.
+Ya hablaremos más adelante.
+
+590
+00:32:26,276 --> 00:32:27,276
+De acuerdo.
+
+591
+00:32:27,404 --> 00:32:28,404
+Gracias.
+
+592
+00:32:46,565 --> 00:32:49,021
+A la CIA no le gusta
+dejar rastros, ¿cierto?
+
+593
+00:32:49,054 --> 00:32:49,715
+¿Puedo ayudarte?
+
+594
+00:32:50,062 --> 00:32:51,542
+¿Has tenido curiosidad
+de revisar uno?
+
+595
+00:32:52,381 --> 00:32:54,685
+¿Para ver la loca
+misión secreta...
+
+596
+00:32:54,718 --> 00:32:55,853
+que estás a punto de
+borrar de la historia?
+
+597
+00:32:55,864 --> 00:32:58,224
+- Lo siento. ¿Con quién estás?
+- Ninguna Agencia especifica.
+
+598
+00:32:58,646 --> 00:33:00,123
+Gabriel Sol. Soy...
+
+599
+00:33:00,395 --> 00:33:02,795
+Soy el genio de 50 libras, del
+Consejo de Hechiceros y Magos.
+
+600
+00:33:03,770 --> 00:33:04,770
+¿Disculpa?
+
+601
+00:33:04,949 --> 00:33:06,533
+Te daré tu inteligencia
+sobre Bucarest.
+
+602
+00:33:07,286 --> 00:33:08,766
+Al menos no eres
+otro Dave Churchyard.
+
+603
+00:33:09,079 --> 00:33:10,188
+No sé.
+Ese soy yo.
+
+604
+00:33:10,698 --> 00:33:11,698
+Por aquí.
+
+605
+00:33:16,180 --> 00:33:18,122
+- Estaré aquí afuera.
+- Quédate, si quieres.
+
+606
+00:33:19,475 --> 00:33:22,868
+No tengo la autorización.
+Para programas de la NSA.
+
+607
+00:33:22,942 --> 00:33:24,324
+Si eres el mensajero de Bucarest,
+
+608
+00:33:24,383 --> 00:33:26,783
+debes tener permiso para acceder
+a inteligencia privada, ¿no?
+
+609
+00:33:28,434 --> 00:33:29,029
+Si.
+
+610
+00:33:29,100 --> 00:33:31,295
+Si. ¿Qué diferencia hace
+si la CIA la recopila?
+
+611
+00:33:34,420 --> 00:33:35,420
+Depende de ti, hombre.
+
+612
+00:33:36,357 --> 00:33:38,641
+<i>XKEYSCORE</i>
+
+613
+00:33:41,150 --> 00:33:43,417
+¿Me darás sólo nombres?
+
+614
+00:33:43,586 --> 00:33:45,238
+Mucho más que nombres.
+
+615
+00:33:45,557 --> 00:33:48,580
+Lo que te doy y a los buenos
+caballeros del Servicio Secreto,
+
+616
+00:33:48,603 --> 00:33:49,884
+es una lista...
+
+617
+00:33:50,295 --> 00:33:53,183
+de todas las amenazas echas al
+Presidente, desde el 3 de febrero.
+
+618
+00:33:53,683 --> 00:33:55,810
+Y un perfil de los
+que han amenazado.
+
+619
+00:33:56,870 --> 00:34:00,718
+Y, son una especie de...
+¿Objetivos existentes?
+
+620
+00:34:01,080 --> 00:34:03,884
+99 por ciento provienen de
+programas de recolección, así que...
+
+621
+00:34:04,402 --> 00:34:06,325
+Upstream, Muscular,
+Tempora, PRISM.
+
+622
+00:34:07,250 --> 00:34:08,250
+¿PRISM?
+
+623
+00:34:10,256 --> 00:34:11,742
+Hay algo de Blancanieves en ti.
+
+624
+00:34:13,000 --> 00:34:14,815
+Me hace sentir como la bruja...
+
+625
+00:34:14,848 --> 00:34:16,362
+que te da una
+manzana envenenada.
+
+626
+00:34:16,396 --> 00:34:17,396
+Aquí.
+
+627
+00:34:17,849 --> 00:34:21,863
+Prueba A: El ciudadano de Oakland,
+Justin Pinsky, escribió en un foro:
+
+628
+00:34:22,230 --> 00:34:24,816
+"Rumanía tiene una gloriosa historia
+de ejecución a sus líderes".
+
+629
+00:34:24,956 --> 00:34:27,110
+"¿No nos podrían hacer un
+favor y eliminar a Bush?
+
+630
+00:34:28,905 --> 00:34:29,959
+Esto suena cursi.
+
+631
+00:34:30,708 --> 00:34:31,775
+Es de un chat de Google.
+
+632
+00:34:31,808 --> 00:34:33,623
+<i>Cuando vaya a Bucarest,
+atacaré a Bush...</i>
+
+633
+00:34:33,741 --> 00:34:35,921
+con el pitón más grande
+que hayas visto en tu vida.
+
+634
+00:34:38,547 --> 00:34:39,941
+¿Cómo es esto posible?
+
+635
+00:34:41,393 --> 00:34:44,820
+Palabras clave: 'Atacar',
+'Eliminar a Bush'.
+
+636
+00:34:46,499 --> 00:34:47,748
+Piensa en esto
+como una búsqueda...
+
+637
+00:34:47,772 --> 00:34:49,267
+de Google, pero
+en lugar de revisar...
+
+638
+00:34:49,291 --> 00:34:50,631
+lo que publican,
+también revisamos...
+
+639
+00:34:50,655 --> 00:34:51,699
+lo que mantienen en secreto.
+
+640
+00:34:51,723 --> 00:34:52,723
+Así que...
+
+641
+00:34:53,025 --> 00:34:54,706
+Correo electrónico, chats,
+SMS, de todo.
+
+642
+00:34:54,963 --> 00:34:56,321
+Sí, ¿pero en cuáles personas?
+
+643
+00:34:57,805 --> 00:34:59,311
+En todo el Reino, Blancanieves.
+
+644
+00:35:06,856 --> 00:35:08,339
+¿Qué Embajador era, otra vez?
+
+645
+00:35:08,706 --> 00:35:11,468
+De la Hoya, Organización
+Mundial de Comercio.
+
+646
+00:35:11,559 --> 00:35:12,559
+Muy bien.
+
+647
+00:35:26,454 --> 00:35:27,454
+Entonces,
+
+648
+00:35:27,916 --> 00:35:29,579
+O'Brian hablo por ti.
+
+649
+00:35:29,620 --> 00:35:31,650
+Está de acuerdo en que tu
+talento se está desperdiciando.
+
+650
+00:35:31,655 --> 00:35:33,095
+¿Estás listo para un poco de acción?
+
+651
+00:35:34,202 --> 00:35:35,202
+¿En serio?
+
+652
+00:35:35,477 --> 00:35:36,589
+¿Quieres decir aquí mismo?
+
+653
+00:35:37,236 --> 00:35:38,384
+Sí, hombre.
+
+654
+00:35:39,105 --> 00:35:40,942
+¿Ves a la mujer de
+rosa por allá?
+
+655
+00:35:41,360 --> 00:35:43,965
+Crédito suizo. La JP Morgan
+la está buscando.
+
+656
+00:35:44,026 --> 00:35:45,659
+La abuela del Banco Deutsche.
+
+657
+00:35:46,261 --> 00:35:47,821
+10.000 banqueros
+en esta ciudad.
+
+658
+00:35:48,349 --> 00:35:49,895
+Y sólo necesitas convertir
+a uno.
+
+659
+00:35:50,685 --> 00:35:52,382
+<i>Socializa. Conoce a alguien.</i>
+
+660
+00:35:52,388 --> 00:35:55,050
+<i>Preferiblemente lleno
+de dinero saudí sucio...</i>
+
+661
+00:35:55,083 --> 00:35:56,479
+<i>que financie a Bin Laden.</i>
+
+662
+00:35:56,576 --> 00:35:59,620
+- Sr. Churc...
+- Si. Churchill.
+
+663
+00:36:02,694 --> 00:36:04,746
+<i>Este hombre es estúpido
+o es un espía.</i>
+
+664
+00:36:07,883 --> 00:36:10,593
+El señor le pide su
+tarjeta de visita, por favor.
+
+665
+00:36:10,943 --> 00:36:11,943
+Un Embajador.
+
+666
+00:36:13,451 --> 00:36:15,491
+Me gustaría tener tus
+capacidades para congraciarme.
+
+667
+00:36:16,263 --> 00:36:17,418
+Para eso me tienes a mí.
+
+668
+00:36:17,756 --> 00:36:19,420
+¿No conoces a algún banquero,
+de casualidad?
+
+669
+00:36:19,444 --> 00:36:20,444
+¿Banqueros?
+
+670
+00:36:21,010 --> 00:36:22,746
+¿Tienes algún tipo de
+asignación o algo así?
+
+671
+00:36:24,808 --> 00:36:27,222
+Bueno, tengo que
+cultivar relaciones.
+
+672
+00:36:28,352 --> 00:36:29,581
+Y no va bien.
+
+673
+00:36:30,812 --> 00:36:31,812
+Déjame ayudarte.
+
+674
+00:36:32,174 --> 00:36:33,275
+- No.
+- Si.
+
+675
+00:36:33,544 --> 00:36:35,854
+- Es un asunto serio.
+- Sé que es serio.
+
+676
+00:36:36,064 --> 00:36:37,092
+Confía en mí.
+
+677
+00:36:39,148 --> 00:36:40,148
+¿Ha habido suerte?
+
+678
+00:36:40,842 --> 00:36:41,842
+No, nadie muerde.
+
+679
+00:36:43,501 --> 00:36:45,761
+¿Existe algún tipo de truco?
+
+680
+00:36:46,403 --> 00:36:48,104
+Todo está en encontrar un
+punto de presión.
+
+681
+00:36:48,860 --> 00:36:50,777
+Todo lo demás es sólo empujarlo.
+
+682
+00:36:53,479 --> 00:36:54,846
+Parece que has sido convocado.
+
+683
+00:36:54,881 --> 00:36:56,195
+<i>¡Es maravilloso verte!</i>
+
+684
+00:37:00,796 --> 00:37:03,846
+Marwan, ¿puedo interrumpir?
+Él es mi novio, Dave.
+
+685
+00:37:04,018 --> 00:37:06,187
+- Hola, Dave. Gusto en conocerte.
+- Gusto en conocerte.
+
+686
+00:37:06,581 --> 00:37:07,780
+Marwan trabaja en Monfort.
+
+687
+00:37:08,650 --> 00:37:10,118
+Estuvimos hablando y...
+
+688
+00:37:10,268 --> 00:37:12,694
+después de lo de la semana
+pasada podría dar consejos.
+
+689
+00:37:13,051 --> 00:37:15,236
+- Caballeros, ¿nos vemos adentro?
+- ¿La semana pasada?
+
+690
+00:37:17,293 --> 00:37:20,198
+Se avergüenza. Fue mucho
+dinero para nosotros.
+
+691
+00:37:22,834 --> 00:37:25,151
+La bolsa es un
+deporte peligroso.
+
+692
+00:37:25,328 --> 00:37:26,675
+No te avergüences
+de las pérdidas.
+
+693
+00:37:26,849 --> 00:37:27,849
+Si.
+
+694
+00:37:28,386 --> 00:37:30,480
+Voy a buscar algo de comer.
+¿Nos vemos adentro?
+
+695
+00:37:31,131 --> 00:37:32,131
+Seguro.
+
+696
+00:37:33,933 --> 00:37:36,025
+- Tienes una novia encantadora.
+- Muchas gracias.
+
+697
+00:37:37,559 --> 00:37:40,704
+Trabajo en Informática y pensaba
+en entrar al Mercado...
+
+698
+00:37:40,789 --> 00:37:42,202
+como con una red débil.
+
+699
+00:37:42,447 --> 00:37:45,107
+¿Puedo preguntar cuál es
+la cantidad de tus pérdidas?
+
+700
+00:37:46,746 --> 00:37:49,482
+Bueno, le dije a
+Lindsay que fueron $20.000,
+
+701
+00:37:49,503 --> 00:37:52,437
+pero, entre los dos,
+fue casi de $45.000.
+
+702
+00:37:53,137 --> 00:37:54,945
+Traté de recuperarlas, pero...
+
+703
+00:37:55,918 --> 00:37:56,607
+eso fue un error,
+
+704
+00:37:56,667 --> 00:37:58,436
+y ahora sin bases
+sólidas, me siento...
+
+705
+00:37:58,506 --> 00:37:59,983
+como que estoy
+perdiendo el control.
+
+706
+00:38:00,007 --> 00:38:01,314
+Lo he visto muchas veces.
+
+707
+00:38:01,960 --> 00:38:04,630
+Siempre estoy dispuesto a ayudar
+a un hombre con malos hábitos,
+
+708
+00:38:04,729 --> 00:38:08,114
+- antes de que sea demasiado tarde.
+- Gracias. Realmente lo aprecio.
+
+709
+00:38:10,128 --> 00:38:11,936
+Es el paquistaní más
+limpio que haya visto.
+
+710
+00:38:13,175 --> 00:38:14,539
+No tiene lazos directos
+con el Gobierno...
+
+711
+00:38:14,563 --> 00:38:17,123
+o alguna Agencia de Seguridad,
+no tiene una familia de mierda.
+
+712
+00:38:17,988 --> 00:38:19,526
+Muchos contactos indirectos,
+
+713
+00:38:19,916 --> 00:38:22,293
+pero en el Medio Oriente
+todos son ricos.
+
+714
+00:38:22,574 --> 00:38:24,254
+No necesariamente se
+necesita algo podrido.
+
+715
+00:38:24,344 --> 00:38:28,597
+Necesitamos un punto de presión.
+Algo íntimo, alguna debilidad.
+
+716
+00:38:29,631 --> 00:38:32,126
+¿Podemos investigar
+a su familia?
+
+717
+00:38:33,741 --> 00:38:37,388
+¿Qué hay de su cuñada?
+
+718
+00:38:38,505 --> 00:38:39,613
+Sí.
+
+719
+00:38:42,312 --> 00:38:43,412
+¿Qué es eso?
+
+720
+00:38:43,767 --> 00:38:45,683
+¿Un video que alguien te filmó?
+
+721
+00:38:45,883 --> 00:38:48,119
+No, es en vivo.
+A las afueras de París.
+
+722
+00:38:48,502 --> 00:38:49,782
+¿Qué quieres decir
+con "en vivo"?
+
+723
+00:38:50,502 --> 00:38:51,502
+"Nervio Óptico".
+
+724
+00:38:52,181 --> 00:38:53,527
+Activa a la cámara web.
+
+725
+00:38:53,594 --> 00:38:55,733
+Me gustaría tomarme el crédito,
+pero los británicos lo escribieron.
+
+726
+00:38:55,757 --> 00:38:56,757
+¿La activa?
+
+727
+00:38:57,105 --> 00:38:58,185
+Sí, la laptop está apagada.
+
+728
+00:38:59,116 --> 00:39:00,805
+O lo estaba.
+Sólo que se olvidó de cerrarla.
+
+729
+00:39:00,829 --> 00:39:01,576
+Por supuesto, ¿cómo
+va a saberlo ella?
+
+730
+00:39:01,610 --> 00:39:02,418
+Esta mierda es tan discreta.
+
+731
+00:39:02,451 --> 00:39:04,531
+Que la luz de la cámara web, ni
+siquiera se enciende.
+
+732
+00:39:13,263 --> 00:39:15,343
+Siempre me he preguntado
+lo que había debajo de esos.
+
+733
+00:39:22,586 --> 00:39:24,026
+De acuerdo, vamos a
+apegarnos a lo de la...
+
+734
+00:39:24,050 --> 00:39:25,779
+familia en Ginebra, ¿de acuerdo?
+
+735
+00:39:26,524 --> 00:39:27,524
+De acuerdo, Blancanieves.
+
+736
+00:39:30,193 --> 00:39:32,065
+Una hija de 15 años en
+la escuela internacional.
+
+737
+00:39:32,089 --> 00:39:33,089
+Si...
+
+738
+00:39:34,288 --> 00:39:36,518
+¿El Facebovale? ¿Sería posible?
+
+739
+00:39:36,534 --> 00:39:37,906
+El Facebook es mi cabrona.
+
+740
+00:39:38,268 --> 00:39:39,268
+¿En serio?
+
+741
+00:39:40,137 --> 00:39:43,281
+Si pelea con los padres o...
+
+742
+00:39:43,314 --> 00:39:44,609
+No te preocupes, no te
+preocupes, conozco...
+
+743
+00:39:44,633 --> 00:39:46,633
+toda clase de anzuelos,
+para este tipo de pesca.
+
+744
+00:39:48,013 --> 00:39:49,172
+El nombre es obligatorio.
+Luego el...
+
+745
+00:39:49,196 --> 00:39:51,596
+correo electrónico, la clave
+o lo que quieras seleccionar.
+
+746
+00:39:51,656 --> 00:39:53,093
+Y la justificación...
+
+747
+00:39:53,415 --> 00:39:54,474
+es donde escribo.
+
+748
+00:39:57,224 --> 00:39:58,819
+En otras palabras,
+transforma a su...
+
+749
+00:39:58,853 --> 00:40:00,413
+papi en un informante de la CIA.
+
+750
+00:40:00,427 --> 00:40:02,561
+- Espera, ¿eso es todo?
+- Eso es todo, hermano.
+
+751
+00:40:03,435 --> 00:40:05,966
+¿No debes tener una orden
+del Tribunal de FISA?
+
+752
+00:40:07,166 --> 00:40:09,329
+No aquí. XKey cae
+bajo la Sección 702,
+
+753
+00:40:09,362 --> 00:40:11,162
+que significa que no se
+necesita de una orden.
+
+754
+00:40:11,430 --> 00:40:12,771
+De acuerdo, ¿pero para los
+objetivos estadounidenses...
+
+755
+00:40:12,795 --> 00:40:14,817
+ahí si necesitas
+autorización de los Tribunales?
+
+756
+00:40:14,850 --> 00:40:17,806
+¿Te refieres a la FISA?
+Eso es más una formalidad.
+
+757
+00:40:18,636 --> 00:40:19,895
+Digo, los jueces
+de la FISA son...
+
+758
+00:40:19,919 --> 00:40:21,719
+designados por el
+Tribunal Supremo, ¿sabes?
+
+759
+00:40:24,256 --> 00:40:26,810
+Si Darth Vader quiere meterse
+con la Seguridad Nacional. ¡Boom!
+
+760
+00:40:27,396 --> 00:40:28,396
+Aquí vamos.
+
+761
+00:40:31,760 --> 00:40:36,229
+De acuerdo, y el chico
+en la tercera base es...
+
+762
+00:40:38,571 --> 00:40:39,636
+Nadim.
+
+763
+00:40:40,312 --> 00:40:41,340
+De acuerdo.
+
+764
+00:40:43,065 --> 00:40:44,065
+Él tiene 18 años.
+
+765
+00:40:44,790 --> 00:40:46,211
+Salma dice que
+quiere casarse con él,
+
+766
+00:40:46,235 --> 00:40:47,835
+pero tiene miedo de
+decirle a sus padres.
+
+767
+00:40:48,147 --> 00:40:50,543
+Lo que ellos no saben es que...
+
+768
+00:40:50,557 --> 00:40:52,367
+su segundo nombre es...
+
+769
+00:40:52,726 --> 00:40:53,726
+Nicolas.
+
+770
+00:40:54,959 --> 00:40:57,326
+Y actualmente se coge
+a Geraldine y a Julie.
+
+771
+00:40:59,366 --> 00:41:00,366
+Y...
+
+772
+00:41:05,327 --> 00:41:07,174
+Él y su madre turca
+están aquí ilegalmente.
+
+773
+00:41:12,612 --> 00:41:13,612
+Eso es.
+
+774
+00:41:22,081 --> 00:41:23,767
+¿Te gusta eso?
+
+775
+00:41:23,801 --> 00:41:25,948
+¡Muy bien, muy bien!
+
+776
+00:41:28,510 --> 00:41:30,599
+¿Qué estamos haciendo aquí?
+
+777
+00:41:31,013 --> 00:41:32,827
+Estás poniendo a
+la gente muy feliz.
+
+778
+00:41:33,537 --> 00:41:36,111
+El banco del Sr. Marwan
+maneja dinero saudí serio...
+
+779
+00:41:36,177 --> 00:41:38,572
+y a muchos
+multimillonarios rusos.
+
+780
+00:41:38,612 --> 00:41:41,570
+¿Qué hay con el
+dinero de Al Qaeda?
+
+781
+00:41:41,603 --> 00:41:42,742
+¿Hay algo prometedor?
+
+782
+00:41:44,208 --> 00:41:46,747
+Ed, pronto seré promovido y...
+
+783
+00:41:46,780 --> 00:41:48,444
+no me olvidaré de mis amigos.
+
+784
+00:41:49,081 --> 00:41:51,898
+Gracias. Pero esto
+va demasiado rápido.
+
+785
+00:41:51,931 --> 00:41:54,000
+Digo, acabo de enviar la
+información inicial.
+
+786
+00:41:54,167 --> 00:41:56,027
+¡Aquí está, el hombre!
+
+787
+00:41:56,353 --> 00:41:57,596
+Hola, Marwan.
+
+788
+00:41:57,761 --> 00:41:58,761
+Dave.
+
+789
+00:41:59,506 --> 00:42:01,769
+- Es maravilloso verte.
+- Es bueno verte también.
+
+790
+00:42:02,573 --> 00:42:06,464
+Estaba contando Marwan.
+Te pasaste media hora ahí atrás.
+
+791
+00:42:07,350 --> 00:42:10,822
+Mis disculpas, estaba escuchando
+las quejas de un anciano.
+
+792
+00:42:10,855 --> 00:42:11,950
+Oh, ya veo.
+
+793
+00:42:12,695 --> 00:42:13,695
+¿Cómo estás Marwan?
+
+794
+00:42:16,354 --> 00:42:19,599
+Tengo que decírtelo, Dave.
+Desde que nos conocimos,
+
+795
+00:42:20,533 --> 00:42:23,613
+mi vida fue distorsionada.
+
+796
+00:42:24,727 --> 00:42:26,423
+Ay no, siento oír eso.
+
+797
+00:42:27,418 --> 00:42:30,631
+Sin embargo, tu colega
+Charles aquí, ofreció ayudarme.
+
+798
+00:42:31,268 --> 00:42:33,115
+Entonces estoy en
+deuda con ambos.
+
+799
+00:42:33,227 --> 00:42:35,109
+¿Puedo preguntar qué pasó?
+
+800
+00:42:36,953 --> 00:42:38,696
+Mi hija...
+
+801
+00:42:39,128 --> 00:42:41,858
+La hija de Marwan
+tomó demasiadas...
+
+802
+00:42:41,891 --> 00:42:43,447
+pastillas para dormir.
+Está bien.
+
+803
+00:42:44,373 --> 00:42:47,238
+Tuvo que ver con su novio,
+quien fue recientemente deportado.
+
+804
+00:42:47,368 --> 00:42:49,282
+Estamos tratando de
+obtener una Visa para él.
+
+805
+00:42:49,328 --> 00:42:50,328
+Pero aún así,
+
+806
+00:42:50,898 --> 00:42:52,634
+temo que Salma va a...
+
+807
+00:42:54,628 --> 00:42:56,779
+Lo siento.
+No quiero molestarlos...
+
+808
+00:42:56,897 --> 00:42:58,948
+- con estos problemas.
+- No. No. ¡Oye!
+
+809
+00:42:59,150 --> 00:43:01,643
+Habla todo lo que
+quieras, ¿de acuerdo?
+
+810
+00:43:02,042 --> 00:43:03,355
+La familia es primero.
+
+811
+00:43:16,612 --> 00:43:18,683
+- ¿Dónde está mi belleza?
+- No sé.
+
+812
+00:43:19,827 --> 00:43:23,413
+- Nunca he entendido esta cosa.
+- No, seguro. No, claro que no.
+
+813
+00:43:23,742 --> 00:43:24,742
+Tú siéntate.
+
+814
+00:43:25,040 --> 00:43:26,040
+Siéntate.
+
+815
+00:43:27,714 --> 00:43:28,714
+Siéntate.
+
+816
+00:43:32,396 --> 00:43:33,698
+¿Qué coño está pasando?
+
+817
+00:43:34,055 --> 00:43:36,179
+He actuado con rapidez
+y eficacia...
+
+818
+00:43:36,226 --> 00:43:38,809
+con la inteligencia que
+nos has proporcionado.
+
+819
+00:43:39,387 --> 00:43:41,281
+¿Y si su hija hubiera muerto?
+
+820
+00:43:41,687 --> 00:43:42,881
+Podríamos usar eso también.
+
+821
+00:43:43,576 --> 00:43:45,290
+¿En serio? ¿Para
+una promoción?
+
+822
+00:43:48,813 --> 00:43:51,894
+Marwan no puede alejarse
+de su familia, en este momento.
+
+823
+00:43:52,237 --> 00:43:54,458
+Así que por la mañana, cuando vaya a
+ir a la cárcel una semana,
+
+824
+00:43:54,482 --> 00:43:56,101
+podremos ofrecerle un trato.
+
+825
+00:43:56,323 --> 00:43:59,042
+- Y no lo rechazará.
+- Espera, ¿cárcel por qué?
+
+826
+00:43:59,997 --> 00:44:00,795
+Por conducir borracho.
+
+827
+00:44:00,829 --> 00:44:01,537
+Ahora...
+
+828
+00:44:01,722 --> 00:44:03,260
+Quiero que tú
+llames a la Policía.
+
+829
+00:44:03,293 --> 00:44:04,722
+Diles que viste un
+Mercedes rumbo al Norte...
+
+830
+00:44:04,746 --> 00:44:07,573
+No, no conducirá ahorita.
+Míralo, podría matarse.
+
+831
+00:44:11,136 --> 00:44:12,879
+- De acuerdo. Yo los llamo.
+- ¡Oye!
+
+832
+00:44:14,456 --> 00:44:15,456
+Él no conducirá.
+
+833
+00:44:16,681 --> 00:44:18,617
+Recuérdame, ¿se te autorizó...
+
+834
+00:44:18,651 --> 00:44:21,603
+a usar alguno de los programas
+de la NSA?
+
+835
+00:44:22,790 --> 00:44:24,857
+Entonces, los dos estamos
+un poco en la mierda.
+
+836
+00:44:26,311 --> 00:44:28,345
+- Cuídate, Ed.
+- Les diré quién eres.
+
+837
+00:44:30,136 --> 00:44:32,532
+Si revelas la identidad
+de un Oficial encubierto,
+
+838
+00:44:32,749 --> 00:44:35,526
+irás a la cárcel por
+mucho más que Marwan.
+
+839
+00:44:41,952 --> 00:44:42,952
+¡Oye!
+
+840
+00:44:56,555 --> 00:44:57,555
+Hola.
+
+841
+00:44:58,244 --> 00:44:59,366
+Lo siento, llego muy tarde.
+
+842
+00:45:02,438 --> 00:45:03,438
+¿Cómo estuvo el trabajo?
+
+843
+00:45:06,160 --> 00:45:07,718
+Estuvo...
+
+844
+00:45:09,396 --> 00:45:10,396
+bien.
+
+845
+00:45:11,120 --> 00:45:12,120
+Si.
+
+846
+00:45:13,762 --> 00:45:15,639
+Tengo que levantarme
+en tres horas.
+
+847
+00:45:16,021 --> 00:45:17,417
+Mi vuelo es a las 7:00 a.m.
+
+848
+00:45:21,159 --> 00:45:22,769
+Entonces, tenemos
+que darnos prisa.
+
+849
+00:46:08,962 --> 00:46:09,897
+<i>Voy a ofrecer a nuestras...</i>
+
+850
+00:46:09,898 --> 00:46:12,179
+<i>Agencias de Inteligencia
+y aplicación de la ley...</i>
+
+851
+00:46:12,398 --> 00:46:15,030
+<i>las herramientas para rastrear
+y perseguir a los terroristas,</i>
+
+852
+00:46:15,309 --> 00:46:18,086
+<i>sin comprometer nuestra
+Constitución y nuestra libertad.</i>
+
+853
+00:46:19,118 --> 00:46:21,109
+<i>Eso significa, no más
+escuchas telefónicas ilegales...</i>
+
+854
+00:46:21,133 --> 00:46:22,331
+<i>a ciudadanos estadounidenses.</i>
+
+855
+00:46:22,355 --> 00:46:24,748
+<i>No más ignorar a la ley,
+cuando no les conviene.</i>
+
+856
+00:46:25,747 --> 00:46:26,829
+<i>No es lo que somos...</i>
+
+857
+00:46:27,190 --> 00:46:28,462
+- Hola, mi amor.
+- Hola.
+
+858
+00:46:29,947 --> 00:46:31,267
+¿Qué pasó con tu viaje a Londres?
+
+859
+00:46:34,352 --> 00:46:35,483
+Resulta que ya no iré.
+
+860
+00:46:39,558 --> 00:46:40,946
+¿Qué ocurre?
+¿Quién está ganando?
+
+861
+00:46:41,046 --> 00:46:43,353
+<i>Y Michelle Obama ha votado
+esta mañana en Chicago.</i>
+
+862
+00:46:43,634 --> 00:46:44,634
+<i>He votado.</i>
+
+863
+00:46:45,208 --> 00:46:46,348
+Es todavía prematuro.
+
+864
+00:46:49,002 --> 00:46:50,225
+Hola.
+
+865
+00:46:51,485 --> 00:46:53,194
+Veamos.
+
+866
+00:46:53,397 --> 00:46:55,466
+<i>Obama va por
+delante con un 67 %...</i>
+
+867
+00:46:55,500 --> 00:46:56,685
+<i>contra un 32% de...</i>
+
+868
+00:46:56,908 --> 00:46:58,039
+Animo, orejas grandes.
+
+869
+00:46:58,886 --> 00:46:59,923
+Tenemos a la Florida.
+
+870
+00:47:05,173 --> 00:47:06,429
+Con una mierda, él va a ganar.
+
+871
+00:47:07,469 --> 00:47:09,208
+- ¿Qué, en Florida?
+- ¡Sí!
+
+872
+00:47:09,642 --> 00:47:11,222
+- Es grande.
+- Es inmenso.
+
+873
+00:47:13,491 --> 00:47:16,767
+Puedes hacerte el indiferente,
+pero sé que simpatizas por él.
+
+874
+00:47:17,700 --> 00:47:19,608
+Te he observado y
+a tu chica liberal.
+
+875
+00:47:19,783 --> 00:47:21,692
+Y voy a tomar un modesto
+porcentaje del crédito.
+
+876
+00:47:22,008 --> 00:47:23,030
+Y te lo mereces.
+
+877
+00:47:27,596 --> 00:47:28,596
+¿Qué es esto?
+
+878
+00:47:32,544 --> 00:47:35,523
+Sí, eso, sólo déjalo ahí...
+
+879
+00:47:35,556 --> 00:47:36,659
+Es...
+
+880
+00:47:37,767 --> 00:47:39,063
+por los hackers rusos.
+
+881
+00:47:39,275 --> 00:47:40,608
+La Agencia dice que pueden...
+
+882
+00:47:40,642 --> 00:47:42,862
+activar las cámaras
+web ahora, así que...
+
+883
+00:47:42,997 --> 00:47:44,646
+- Es aterrador.
+- Si.
+
+884
+00:47:45,067 --> 00:47:46,308
+Me molesta.
+
+885
+00:47:47,622 --> 00:47:49,859
+No importa. No es la gran cosa,
+no debería molestarte.
+
+886
+00:47:50,040 --> 00:47:51,548
+- ¿No es la gran cosa?
+- No.
+
+887
+00:47:51,996 --> 00:47:53,711
+¿Y si alguien pudiera
+verte ahora mismo?
+
+888
+00:47:54,968 --> 00:47:57,347
+No, no tengo nada que ocultar.
+
+889
+00:47:59,348 --> 00:48:00,928
+Eso es un cuento de mierda.
+
+890
+00:48:01,416 --> 00:48:03,338
+- ¿Qué cosa?
+- "No tengo nada que ocultar".
+
+891
+00:48:03,608 --> 00:48:05,852
+- No tengo.
+- Todos tienen algo.
+
+892
+00:48:06,931 --> 00:48:08,729
+De acuerdo, ¿qué tengo
+yo que ocultar?
+
+893
+00:48:10,726 --> 00:48:12,208
+- Olvídalo.
+- No, ¿qué tengo que ocultar?
+
+894
+00:48:12,232 --> 00:48:13,371
+No, no importa, sólo déjalo.
+
+895
+00:48:13,994 --> 00:48:17,421
+Al parecer, crees que estoy
+ocultando algo. Así que...
+
+896
+00:48:17,454 --> 00:48:19,929
+De acuerdo, el otro día tu
+computadora estaba abierta...
+
+897
+00:48:20,084 --> 00:48:22,792
+y noté que estabas en el sitio
+donde nos conocimos,
+
+898
+00:48:22,849 --> 00:48:25,613
+- y mirabas a otros chicos.
+- ¿Y sólo viste mi computadora?
+
+899
+00:48:27,129 --> 00:48:28,319
+Ni siquiera sacaría a relucir esto.
+
+900
+00:48:28,343 --> 00:48:30,484
+Tú me preguntaste,
+"¿qué tengo que ocultar?"
+
+901
+00:48:30,526 --> 00:48:32,236
+Y eso es algo que no me has dicho.
+
+902
+00:48:34,320 --> 00:48:36,130
+¿Qué?
+Es...
+
+903
+00:48:36,871 --> 00:48:39,734
+Yo... No hago nada.
+No me encuentro...
+
+904
+00:48:39,767 --> 00:48:41,047
+con ninguna de estas personas.
+
+905
+00:48:44,480 --> 00:48:46,023
+A veces estás fuera
+durante semanas.
+
+906
+00:48:46,090 --> 00:48:48,611
+Es como que miro
+la vida de otros,
+
+907
+00:48:48,661 --> 00:48:50,664
+porque la mía esta
+temporalmente en pausa.
+
+908
+00:48:51,965 --> 00:48:53,439
+Se ve como una excusa.
+
+909
+00:48:54,291 --> 00:48:55,291
+Es la verdad.
+
+910
+00:49:11,905 --> 00:49:13,110
+Debí decírtelo.
+
+911
+00:49:14,548 --> 00:49:16,390
+Y no lo hice. Lo siento.
+
+912
+00:49:17,965 --> 00:49:19,322
+Pero, no es la gran cosa.
+
+913
+00:49:24,060 --> 00:49:25,060
+Oye.
+
+914
+00:49:33,935 --> 00:49:35,034
+Mírame.
+
+915
+00:49:36,489 --> 00:49:37,954
+No quiero a nadie más.
+
+916
+00:49:39,469 --> 00:49:41,133
+No quiero otra vida.
+
+917
+00:49:42,642 --> 00:49:43,680
+¿De acuerdo?
+
+918
+00:49:58,445 --> 00:49:59,569
+Escucha...
+
+919
+00:50:02,546 --> 00:50:05,555
+Hoy no fui a Londres
+porque renuncié.
+
+920
+00:50:07,696 --> 00:50:08,696
+¿Qué?
+
+921
+00:50:09,373 --> 00:50:11,265
+Por diferencias personales y...
+
+922
+00:50:11,982 --> 00:50:13,222
+y una cuestión de principios.
+
+923
+00:50:14,407 --> 00:50:15,692
+¿Me puedes decir más?
+
+924
+00:50:19,597 --> 00:50:21,000
+¿Te transfirieron?
+
+925
+00:50:21,035 --> 00:50:23,633
+No, no. He renunciado
+a la CIA.
+
+926
+00:50:25,236 --> 00:50:27,489
+¿Y eso que significa?
+¿Qué hacemos?
+
+927
+00:50:27,522 --> 00:50:28,522
+No lo sé.
+
+928
+00:50:28,761 --> 00:50:30,570
+Lo deduciré, pero escucha, yo...
+
+929
+00:50:33,357 --> 00:50:34,357
+Esto es algo bueno.
+
+930
+00:50:35,860 --> 00:50:36,860
+Confía en mí.
+
+931
+00:50:41,336 --> 00:50:42,377
+Lo hago.
+
+932
+00:50:53,251 --> 00:50:54,251
+Oye.
+
+933
+00:50:55,472 --> 00:50:56,512
+Va a ganar.
+
+934
+00:50:59,451 --> 00:51:00,525
+Más le vale.
+
+935
+00:51:02,045 --> 00:51:06,320
+<i>CNN no pudo prever que
+Barack Obama, de 47 años,</i>
+
+936
+00:51:06,359 --> 00:51:09,203
+<i>se convertiría en el
+Presidente de los Estados Unidos.</i>
+
+937
+00:51:09,616 --> 00:51:11,893
+<i>Cada Agencia y
+Departamento deben saber...</i>
+
+938
+00:51:11,939 --> 00:51:14,181
+<i>que esta administración
+se destaca por,</i>
+
+939
+00:51:14,460 --> 00:51:16,656
+<i>no aquellos que
+ocultan la información,</i>
+
+940
+00:51:16,753 --> 00:51:18,294
+<i>sino por aquellos
+que la proporcionan.</i>
+
+941
+00:51:21,073 --> 00:51:23,477
+<i>Janine es la editora web, de
+un pequeño periódico...</i>
+
+942
+00:51:23,510 --> 00:51:24,748
+<i>HONG KONG, MARTES
+4 DE JUNIO DEL 2013</i>
+
+943
+00:51:24,772 --> 00:51:25,974
+<i>británico, con editorial
+en EE.UU.</i>
+
+944
+00:51:25,998 --> 00:51:28,024
+<i>En contra del Gobierno
+más poderoso en el mundo.</i>
+
+945
+00:51:28,862 --> 00:51:29,902
+<i>Ella no será intimidada...</i>
+
+946
+00:51:30,178 --> 00:51:32,459
+Tenemos que establecer
+que con la publicación,
+
+947
+00:51:32,510 --> 00:51:34,504
+no vamos a comprometer
+a la Seguridad Nacional.
+
+948
+00:51:34,522 --> 00:51:35,806
+Hay que tener alternativas.
+
+949
+00:51:35,874 --> 00:51:37,126
+<i>Escucha, Ed.</i>
+
+950
+00:51:37,435 --> 00:51:40,723
+<i>El punto aquí es que: ¿Ellos, la
+Casa Blanca son conscientes...</i>
+
+951
+00:51:40,756 --> 00:51:42,082
+<i>de que Janine tiene una orden...</i>
+
+952
+00:51:42,106 --> 00:51:43,395
+<i>del Tribunal de
+FISA de alto secreto?</i>
+
+953
+00:51:43,419 --> 00:51:44,523
+<i>Cualquier cosa podría suceder.</i>
+
+954
+00:51:44,547 --> 00:51:46,077
+<i>Podrían demandar a The Guardian.</i>
+
+955
+00:51:46,176 --> 00:51:48,629
+<i>De hecho, podrían venir por esa
+puerta en cualquier momento.</i>
+
+956
+00:51:48,663 --> 00:51:49,858
+<i>Poniendo fin a todo esto.</i>
+
+957
+00:51:50,682 --> 00:51:52,184
+<i>No tenemos tiempo.</i>
+
+958
+00:51:52,973 --> 00:51:54,586
+<i>Debemos tener en
+cuenta realmente...</i>
+
+959
+00:51:54,620 --> 00:51:56,198
+<i>hacerlo en nuestro
+propio sitio web.</i>
+
+960
+00:51:56,237 --> 00:51:57,362
+<i>No tenemos otra opción.</i>
+
+961
+00:51:57,395 --> 00:51:59,662
+<i>No puedes esperar tirar
+artículos en la Internet...</i>
+
+962
+00:51:59,695 --> 00:52:01,162
+<i>y esperar a que
+sean tomados en serio.</i>
+
+963
+00:52:01,186 --> 00:52:03,646
+<i>Mira a WikiLeaks.
+Se destruyó su credibilidad.</i>
+
+964
+00:52:03,682 --> 00:52:07,400
+Mira Ed, lo has dicho tú mismo,
+si esto no se hace bien,
+
+965
+00:52:07,590 --> 00:52:09,155
+<i>el mundo no te tomará en serio.</i>
+
+966
+00:52:09,189 --> 00:52:11,286
+<i>Se necesita a
+periodistas expertos...</i>
+
+967
+00:52:11,376 --> 00:52:15,194
+<i>para guiar al público es estas
+muy, muy complejas historias.</i>
+
+968
+00:52:15,227 --> 00:52:16,737
+<i>Somos periodistas
+experimentados.</i>
+
+969
+00:52:17,350 --> 00:52:18,546
+<i>Creo que...</i>
+
+970
+00:52:26,004 --> 00:52:27,785
+<i>- ¿Nadie te ha llamado antes?
+- Nunca.</i>
+
+971
+00:52:27,945 --> 00:52:30,652
+<i>- No en tres semanas.
+- ¿Debería contestar eso?</i>
+
+972
+00:52:30,800 --> 00:52:32,470
+<i>Diré que tienen un
+número equivocado.</i>
+
+973
+00:52:34,273 --> 00:52:35,273
+<i>¿Sí?</i>
+
+974
+00:52:36,931 --> 00:52:38,027
+<i>No, no necesito.</i>
+
+975
+00:52:39,930 --> 00:52:40,716
+<i>De acuerdo.</i>
+
+976
+00:52:40,812 --> 00:52:41,812
+<i>Gracias.</i>
+
+977
+00:52:44,218 --> 00:52:46,255
+<i>Me preguntaron si quería
+que hicieran la limpieza.</i>
+
+978
+00:52:46,297 --> 00:52:47,823
+<i>Dijeron que el letrero
+de "no molestar"...</i>
+
+979
+00:52:47,847 --> 00:52:48,887
+<i>no estaba en la puerta.</i>
+
+980
+00:53:06,908 --> 00:53:07,908
+<i>¿Entonces...?</i>
+
+981
+00:53:09,199 --> 00:53:10,260
+<i>¿Hay que esperar o...</i>
+
+982
+00:53:11,267 --> 00:53:12,267
+<i>continuar?</i>
+
+983
+00:53:14,018 --> 00:53:15,878
+<i>Chicos, he dicho
+desde el principio que,</i>
+
+984
+00:53:16,225 --> 00:53:18,366
+<i>el cómo lo publiquen
+es cosa suya,</i>
+
+985
+00:53:18,399 --> 00:53:19,399
+<i>y confió en Uds.</i>
+
+986
+00:53:20,206 --> 00:53:22,831
+<i>Solo les pido que estudien la
+información, y sean responsables.</i>
+
+987
+00:53:23,050 --> 00:53:24,440
+<i>Nada de nombres,
+nada de detalles.</i>
+
+988
+00:53:24,473 --> 00:53:27,185
+<i>Si algo es dudoso, crítico,
+no lo publiquen.</i>
+
+989
+00:53:27,969 --> 00:53:30,417
+<i>Solo apéguense a lo de
+la vigilancia de las masas,</i>
+
+990
+00:53:30,450 --> 00:53:31,484
+<i>y dejen que el pueblo decida.</i>
+
+991
+00:53:31,508 --> 00:53:33,588
+<i>Tienes mi palabra en eso,
+pero esa no es la cuestión.</i>
+
+992
+00:53:34,068 --> 00:53:35,708
+<i>- Tenemos que preguntar...
+- Mira, Ed. Ed.</i>
+
+993
+00:53:36,629 --> 00:53:38,728
+<i>En este momento, la Casa Blanca
+está organizando una reunión...</i>
+
+994
+00:53:38,752 --> 00:53:41,027
+<i>entre Janine y las
+Agencias de Inteligencia.</i>
+
+995
+00:53:41,106 --> 00:53:44,346
+<i>Eso sucederá en unas horas.</i>
+
+996
+00:53:44,379 --> 00:53:46,134
+<i>Vamos al menos a esperar eso.</i>
+
+997
+00:53:46,796 --> 00:53:48,169
+<i>Veamos lo que le dicen.</i>
+
+998
+00:53:52,717 --> 00:53:54,535
+<i>Yo digo que tomemos una pausa.</i>
+
+999
+00:53:56,088 --> 00:53:58,036
+<i>Sí, creo que deberíamos
+vernos en esta habitación...</i>
+
+1000
+00:53:58,060 --> 00:53:59,287
+<i>después de que
+acabe esa reunión.</i>
+
+1001
+00:53:59,311 --> 00:54:00,591
+<i>Seria alrededor
+de la medianoche.</i>
+
+1002
+00:54:01,067 --> 00:54:02,621
+<i>Seria mediodía en Nueva York.</i>
+
+1003
+00:54:03,481 --> 00:54:04,481
+<i>Está bien.</i>
+
+1004
+00:54:05,058 --> 00:54:07,294
+<i>En el ínterin volveré a revisar
+la historia de PRISM.</i>
+
+1005
+00:54:07,371 --> 00:54:10,563
+<i>De acuerdo. Vamos a estar en
+nuestra habitación de Hotel...</i>
+
+1006
+00:54:10,650 --> 00:54:12,295
+<i>- si nos necesitas. ¿De acuerdo?
+- Gracias.</i>
+
+1007
+00:54:12,319 --> 00:54:13,319
+<i>- Sí.
+- Está bien.</i>
+
+1008
+00:54:21,963 --> 00:54:25,096
+<i>¿Te importa si tomamos un descanso
+de eso por un momento?</i>
+
+1009
+00:54:27,227 --> 00:54:28,860
+Oh, sí. Exagero, cierto.
+
+1010
+00:54:29,602 --> 00:54:32,178
+¿Quieres echar un vistazo?
+¿Tal vez te hará sentir mejor?
+
+1011
+00:54:33,674 --> 00:54:35,154
+No está grabando.
+Sólo está en espera.
+
+1012
+00:54:36,018 --> 00:54:37,018
+De acuerdo.
+
+1013
+00:54:39,863 --> 00:54:42,875
+¿Cuándo comenzó tu fobia
+de no dejarte fotografiar?
+
+1014
+00:54:43,766 --> 00:54:45,187
+Bueno, probablemente en Japón.
+
+1015
+00:54:45,969 --> 00:54:49,011
+Recuerdo que cada vez que me
+apuntaban una cámara, era como...
+
+1016
+00:54:50,256 --> 00:54:51,296
+si no pudiera respirar.
+
+1017
+00:54:52,044 --> 00:54:53,044
+¿Por qué?
+
+1018
+00:54:53,761 --> 00:54:55,064
+No sé. Tal vez...
+
+1019
+00:54:55,735 --> 00:54:58,356
+Pasé demasiado tiempo viendo
+a otras gentes en las cámaras.
+
+1020
+00:54:59,393 --> 00:55:01,725
+¿Japón fue tu primer
+trabajo de la NSA, cierto?
+
+1021
+00:55:01,844 --> 00:55:04,077
+Sí, era un consultor de Dell.
+
+1022
+00:55:05,563 --> 00:55:06,813
+Tenía acceso a todo.
+
+1023
+00:55:07,225 --> 00:55:09,050
+¿Por qué volviste
+después de Ginebra?
+
+1024
+00:55:12,320 --> 00:55:15,199
+Por el dinero y porque
+quería vivir en Japón.
+
+1025
+00:55:16,097 --> 00:55:17,994
+Y debido a Obama, en realidad.
+
+1026
+00:55:18,036 --> 00:55:20,491
+Pensé que con él,
+las cosas mejorarían.
+
+1027
+00:55:23,727 --> 00:55:24,921
+Estaba equivocado.
+
+1028
+00:55:28,410 --> 00:55:31,223
+<i>BASE AÉREA DE YOKOTA,
+TOKIO, 2009</i>
+
+1029
+00:55:31,290 --> 00:55:32,536
+<i>¿Cómo era ahí?</i>
+
+1030
+00:55:33,063 --> 00:55:36,773
+<i>En la primera parte de mi día,
+estaba construyendo contra reloj...</i>
+
+1031
+00:55:36,806 --> 00:55:39,140
+<i>un sistema de respaldo
+llamado "Epic Shelter".</i>
+
+1032
+00:55:39,496 --> 00:55:42,097
+<i>Entonces, si había algún
+tipo de catástrofe...</i>
+
+1033
+00:55:42,131 --> 00:55:42,992
+<i>digamos...</i>
+
+1034
+00:55:43,069 --> 00:55:45,378
+<i>de los terroristas que
+quemaron todas las Embajadas...</i>
+
+1035
+00:55:45,752 --> 00:55:47,512
+<i>y las bases de la NSA
+en el Medio Oriente,</i>
+
+1036
+00:55:47,771 --> 00:55:49,587
+<i>este programa se aseguraría...</i>
+
+1037
+00:55:49,691 --> 00:55:52,034
+<i>que no íbamos a
+perder ninguna información.</i>
+
+1038
+00:55:52,575 --> 00:55:54,477
+<i>Pero luego tuve
+que dejarlo de lado,</i>
+
+1039
+00:55:54,511 --> 00:55:56,378
+<i>cuando se aparecieron
+visitantes.</i>
+
+1040
+00:55:56,413 --> 00:55:57,104
+Hola, Ed.
+
+1041
+00:55:57,138 --> 00:56:00,391
+<i>La NSA quería
+impresionar a los japoneses.</i>
+
+1042
+00:56:00,686 --> 00:56:02,472
+<i>Mostrarles nuestro alcance...</i>
+
+1043
+00:56:03,224 --> 00:56:06,013
+<i>imágenes en
+directo de los drones.</i>
+
+1044
+00:56:06,266 --> 00:56:08,492
+Esto es Pakistán...
+
+1045
+00:56:09,166 --> 00:56:10,174
+Ahorita mismo.
+
+1046
+00:56:13,098 --> 00:56:16,751
+<i>No estaban muy felices de
+saber que queríamos su ayuda...</i>
+
+1047
+00:56:16,758 --> 00:56:18,759
+<i>para espiar
+a la población japonesa.</i>
+
+1048
+00:56:20,047 --> 00:56:22,476
+<i>Dijeron que era
+en contra de sus leyes.</i>
+
+1049
+00:56:23,913 --> 00:56:26,058
+<i>Obviamente, cableamos
+todo el país de todas formas.</i>
+
+1050
+00:56:27,233 --> 00:56:29,007
+<i>Y, no nos detuvimos ahí.</i>
+
+1051
+00:56:29,100 --> 00:56:31,198
+<i>Una vez que nos apropiamos
+de su sistema de comunicación,</i>
+
+1052
+00:56:31,222 --> 00:56:33,235
+<i>fuimos tras la
+infraestructura física.</i>
+
+1053
+00:56:34,306 --> 00:56:36,700
+<i>Insertamos estos pequeños
+programas durmientes...</i>
+
+1054
+00:56:37,131 --> 00:56:40,314
+<i>en la red eléctrica,
+las presas, los hospitales.</i>
+
+1055
+00:56:40,354 --> 00:56:42,903
+<i>Y la idea era que si
+hubiera llegado el día...</i>
+
+1056
+00:56:42,936 --> 00:56:45,249
+<i>donde Japón ya no era un aliado,</i>
+
+1057
+00:56:45,552 --> 00:56:46,849
+<i>cerraríamos el país.</i>
+
+1058
+00:56:49,921 --> 00:56:51,350
+<i>No fue solamente Japón.</i>
+
+1059
+00:56:51,384 --> 00:56:53,635
+<i>Estábamos plantando
+malware en México,</i>
+
+1060
+00:56:54,030 --> 00:56:56,613
+<i>Alemania, Brasil, Austria.</i>
+
+1061
+00:56:57,674 --> 00:57:01,334
+<i>Es decir, de China puedo
+entenderlo. O Rusia. O Irán.</i>
+
+1062
+00:57:01,534 --> 00:57:04,058
+<i>Venezuela, bueno.
+¿Pero, Austria?</i>
+
+1063
+00:57:06,217 --> 00:57:07,835
+<i>También, habíamos recibido
+la orden de seguir...</i>
+
+1064
+00:57:07,859 --> 00:57:09,457
+<i>a los principales
+líderes mundiales...</i>
+
+1065
+00:57:09,481 --> 00:57:10,903
+<i>y cabezas de la industria.</i>
+
+1066
+00:57:10,995 --> 00:57:13,092
+<i>Seguir los
+intercambios comerciales,</i>
+
+1067
+00:57:13,202 --> 00:57:15,748
+<i>escándalos sexuales,
+cables diplomáticos,</i>
+
+1068
+00:57:15,782 --> 00:57:18,293
+<i>para dar una ventaja
+a los Estados Unidos...</i>
+
+1069
+00:57:18,327 --> 00:57:19,820
+<i>en las
+negociaciones de la G-8.</i>
+
+1070
+00:57:19,986 --> 00:57:22,972
+<i>O, para influir en las
+compañías petroleras en Brasil.</i>
+
+1071
+00:57:23,544 --> 00:57:27,720
+<i>O, para ayudar a algún líder
+recalcitrante del tercer mundo.</i>
+
+1072
+00:57:29,058 --> 00:57:31,614
+<i>Con el tiempo te
+das cuenta de la verdad...</i>
+
+1073
+00:57:32,164 --> 00:57:34,243
+<i>de que no importa
+qué excusa te inventes.</i>
+
+1074
+00:57:34,376 --> 00:57:36,650
+<i>Esto no se trata de terrorismo.</i>
+
+1075
+00:57:38,167 --> 00:57:40,051
+<i>El terrorismo es la "excusa".</i>
+
+1076
+00:57:42,915 --> 00:57:44,183
+<i>Aquí se trata de...</i>
+
+1077
+00:57:44,610 --> 00:57:45,610
+<i>control...</i>
+
+1078
+00:57:45,900 --> 00:57:47,004
+<i>social...</i>
+
+1079
+00:57:47,221 --> 00:57:48,221
+<i>y económico.</i>
+
+1080
+00:57:49,286 --> 00:57:51,296
+<i>Y la única cosa que
+realmente proteges...</i>
+
+1081
+00:57:51,595 --> 00:57:52,697
+<i>es...</i>
+
+1082
+00:57:52,830 --> 00:57:54,380
+<i>la supremacía de tu Gobierno.</i>
+
+1083
+00:58:03,565 --> 00:58:06,066
+¿Pensaste en ponerte en
+contacto con la prensa, entonces?
+
+1084
+00:58:06,722 --> 00:58:09,664
+No, entonces no se me ocurrió.
+
+1085
+00:58:11,306 --> 00:58:12,606
+Sabes, pensé...
+
+1086
+00:58:13,592 --> 00:58:15,590
+que el sistema se
+corregiría solo.
+
+1087
+00:58:16,532 --> 00:58:18,777
+Que el Presidente mantendría
+sus promesas al ser elegido.
+
+1088
+00:58:21,143 --> 00:58:24,312
+De hecho, fue cuando empecé
+a leer sobre ti y tus películas.
+
+1089
+00:58:25,070 --> 00:58:27,268
+En el blog de Glenn, dicen
+que fuiste detenida...
+
+1090
+00:58:27,302 --> 00:58:28,910
+en el aeropuerto durante horas.
+
+1091
+00:58:29,222 --> 00:58:32,867
+37 veces, investigando las
+guerras de tu propio país.
+
+1092
+00:58:33,805 --> 00:58:35,770
+Por ello iré a Berlín
+para editarlo.
+
+1093
+00:58:36,525 --> 00:58:37,612
+Puedes confiarme esto.
+
+1094
+00:58:38,362 --> 00:58:40,495
+Lo hago. Si.
+
+1095
+00:58:41,592 --> 00:58:43,376
+Bueno, no he confiado en nadie...
+
+1096
+00:58:44,716 --> 00:58:45,919
+por años.
+
+1097
+00:58:48,646 --> 00:58:51,270
+<i>Fue un cambio agradable...</i>
+
+1098
+00:58:51,305 --> 00:58:53,917
+<i>cuando me dieron la tarea
+de supervisar el terrorismo.</i>
+
+1099
+00:58:54,831 --> 00:58:58,795
+<i>Cada día entraba y ganaba
+puntos por observar.</i>
+
+1100
+00:58:59,148 --> 00:59:00,973
+<i>Monitoreando a la inteligencia.</i>
+
+1101
+00:59:03,068 --> 00:59:05,054
+<i>Muchos de ellos
+eran estadounidenses,</i>
+
+1102
+00:59:05,088 --> 00:59:06,181
+<i>lo cual se sentía extraño...</i>
+
+1103
+00:59:06,191 --> 00:59:08,332
+<i>pero, seguías recordándote
+a ti mismo:</i>
+
+1104
+00:59:08,764 --> 00:59:10,787
+<i>Podría prevenir un ataque terrorista
+con una bomba sucia...</i>
+
+1105
+00:59:10,811 --> 00:59:12,723
+<i>y salvar a miles de vidas.</i>
+
+1106
+00:59:13,144 --> 00:59:16,582
+<i>La cosa es que no sólo sigues
+a tu blanco del tipo malo...</i>
+
+1107
+00:59:16,615 --> 00:59:18,711
+<i>sino también sigues
+a sus metadatos,</i>
+
+1108
+00:59:19,289 --> 00:59:20,488
+<i>que son básicamente...</i>
+
+1109
+00:59:21,123 --> 00:59:22,233
+<i>todos los números de teléfono...</i>
+
+1110
+00:59:22,257 --> 00:59:23,737
+<i>con los que han
+estado en contacto.</i>
+
+1111
+00:59:24,195 --> 00:59:28,396
+<i>Digamos que tu objetivo es
+un banquero iraní siniestro...</i>
+
+1112
+00:59:28,429 --> 00:59:29,902
+<i>operando fuera de Beirut.</i>
+
+1113
+00:59:29,906 --> 00:59:32,225
+<i>De acuerdo, entonces,
+monitoreas sus cosas,</i>
+
+1114
+00:59:32,356 --> 00:59:35,191
+<i>y también monitoreas a todos
+aquellos con los que habló,</i>
+
+1115
+00:59:35,633 --> 00:59:38,358
+<i>incluyendo, ya sabes, a su primo,</i>
+
+1116
+00:59:38,391 --> 00:59:40,492
+<i>que sólo es un dentista
+viviendo en Buffalo.</i>
+
+1117
+00:59:40,899 --> 00:59:43,136
+<i>Y entonces tienes que mirar
+a los contactos de ese tipo.</i>
+
+1118
+00:59:43,806 --> 00:59:47,237
+<i>Y para cuando llegas al tercer
+contacto del objetivo original,</i>
+
+1119
+00:59:47,270 --> 00:59:49,282
+<i>estás viendo a un bar tender...</i>
+
+1120
+00:59:49,386 --> 00:59:52,320
+<i>conversar con su madre de Botox.</i>
+
+1121
+00:59:52,779 --> 00:59:55,075
+<i>Porque con tres contactos
+de cualquier persona,</i>
+
+1122
+00:59:55,109 --> 00:59:56,919
+<i>las cuales tienen
+digamos, 40 contactos,</i>
+
+1123
+00:59:58,002 --> 01:00:00,637
+<i>terminas escuchando a
+2.5 millones de personas.</i>
+
+1124
+01:00:03,112 --> 01:00:06,105
+<i>Y llega un momento
+en el que te sientas ahí...</i>
+
+1125
+01:00:06,750 --> 01:00:08,785
+<i>y te das cuenta de la amplitud.</i>
+
+1126
+01:00:08,862 --> 01:00:13,444
+<i>La NSA rastrea realmente a
+todos los móviles en el mundo.</i>
+
+1127
+01:00:13,769 --> 01:00:14,935
+<i>No importa quien seas.</i>
+
+1128
+01:00:15,590 --> 01:00:18,182
+<i>Todos los días de tu vida, se
+encuentran en una base de datos,</i>
+
+1129
+01:00:18,329 --> 01:00:20,524
+<i>lista para ser observada.</i>
+
+1130
+01:00:31,556 --> 01:00:35,355
+<i>No sólo los terroristas
+o países o corporaciones,</i>
+
+1131
+01:00:36,239 --> 01:00:37,448
+<i>sino tú.</i>
+
+1132
+01:00:45,773 --> 01:00:47,708
+¿Lindsay estuvo
+contigo en Japón?
+
+1133
+01:00:49,439 --> 01:00:50,700
+Japón fue...
+
+1134
+01:00:51,833 --> 01:00:52,952
+difícil para nosotros.
+
+1135
+01:00:56,198 --> 01:00:57,979
+Supongo que no podías
+hablar de tu trabajo.
+
+1136
+01:00:58,243 --> 01:00:59,243
+No.
+
+1137
+01:01:01,494 --> 01:01:02,569
+Hubo una noche...
+
+1138
+01:01:03,558 --> 01:01:04,983
+hacia el final, cuando...
+
+1139
+01:01:06,889 --> 01:01:09,329
+Al día siguiente supuestamente íbamos
+a escalar el Monte Fuji.
+
+1140
+01:01:19,722 --> 01:01:21,421
+¿Lo publicarás en Twitter?
+
+1141
+01:01:22,518 --> 01:01:23,518
+No.
+
+1142
+01:01:23,698 --> 01:01:24,800
+Son sólo para mí.
+
+1143
+01:01:25,558 --> 01:01:26,558
+¿Qué opinas?
+
+1144
+01:01:28,698 --> 01:01:30,151
+Creo que deberías borrarlas.
+
+1145
+01:01:30,761 --> 01:01:33,329
+No es la crítica de
+arte que esperaba.
+
+1146
+01:01:33,890 --> 01:01:35,514
+Lo siento, sólo no puedes...
+
+1147
+01:01:35,683 --> 01:01:37,421
+tener desnudos en tu disco duro.
+
+1148
+01:01:37,432 --> 01:01:39,097
+- Si, puedo.
+- Puedes...
+
+1149
+01:01:39,742 --> 01:01:42,384
+¿Te pido si por favor,
+las puedes eliminar?
+
+1150
+01:01:43,348 --> 01:01:45,271
+- ¿Los hackers rusos otra vez?
+- No.
+
+1151
+01:01:48,313 --> 01:01:49,479
+¿Es por nosotros?
+
+1152
+01:01:52,306 --> 01:01:53,412
+Es clasificado.
+
+1153
+01:01:55,004 --> 01:01:57,221
+- ¿Soy un objetivo?
+- Por supuesto que no.
+
+1154
+01:01:58,959 --> 01:02:01,243
+Obviamente alguien mira
+a mis fotos de portafolio.
+
+1155
+01:02:01,276 --> 01:02:03,468
+De acuerdo. No debí haberlo
+mencionado, ¿de acuerdo?
+
+1156
+01:02:03,501 --> 01:02:05,235
+Es cosa de Seguridad Nacional.
+
+1157
+01:02:07,644 --> 01:02:10,060
+Eso implica que mis tetas...
+
+1158
+01:02:10,093 --> 01:02:11,870
+se consideran cuestiones
+de Seguridad Nacional,
+
+1159
+01:02:11,894 --> 01:02:13,503
+pero debes darme algo
+mejor que eso.
+
+1160
+01:02:13,639 --> 01:02:14,919
+Prefiero no hablar sobre algo...
+
+1161
+01:02:14,947 --> 01:02:16,192
+que podría
+llevarnos a la cárcel.
+
+1162
+01:02:16,216 --> 01:02:17,886
+¿Entonces, para eso
+son las banditas?
+
+1163
+01:02:17,920 --> 01:02:19,202
+¿Y tú fobia a las cámaras?
+
+1164
+01:02:19,890 --> 01:02:20,890
+¿Debido al trabajo?
+
+1165
+01:02:22,039 --> 01:02:23,167
+¿Nos observan?
+
+1166
+01:02:24,397 --> 01:02:25,181
+¿A quién están observando?
+
+1167
+01:02:25,196 --> 01:02:27,535
+A nadie, ¿de acuerdo?
+Sólo no hablemos de ello.
+
+1168
+01:02:28,693 --> 01:02:29,693
+Acuéstate...
+
+1169
+01:02:30,651 --> 01:02:32,301
+y por la mañana nos despertamos,
+
+1170
+01:02:33,838 --> 01:02:35,878
+y vamos a escalar esta
+maldita montaña. ¿De acuerdo?
+
+1171
+01:02:36,890 --> 01:02:38,702
+Por supuesto que no
+íbamos a discutir al respecto.
+
+1172
+01:02:38,726 --> 01:02:39,930
+¿Qué se supone que
+quieres decir con eso?
+
+1173
+01:02:39,954 --> 01:02:41,939
+Significa que
+no hablamos más de nada.
+
+1174
+01:02:43,218 --> 01:02:45,286
+Trabajas 12 horas al día,
+llegas a casa deprimido.
+
+1175
+01:02:45,850 --> 01:02:48,131
+Juegas malditos juegos de video y
+luego te quedas dormido.
+
+1176
+01:02:48,159 --> 01:02:50,030
+Sí, estoy cansado,
+porque tengo un trabajo...
+
+1177
+01:02:50,122 --> 01:02:51,390
+que sirve para
+pagar este apartamento,
+
+1178
+01:02:51,414 --> 01:02:53,193
+en la ciudad más cara del mundo.
+
+1179
+01:02:53,256 --> 01:02:54,868
+Dónde me has pedido
+venir, sabiendo...
+
+1180
+01:02:54,902 --> 01:02:56,480
+que no tenía
+una Visa de trabajo.
+
+1181
+01:02:56,570 --> 01:02:58,834
+De acuerdo, ¿y si hubieras
+tenido una? ¿De verdad...
+
+1182
+01:02:58,854 --> 01:03:00,422
+renunciarías a tu bonita vida,
+
+1183
+01:03:00,456 --> 01:03:02,387
+de comer, dormir y
+salir todo el tiempo?
+
+1184
+01:03:02,390 --> 01:03:03,936
+¿Crees que realmente
+querrías una carrera?
+
+1185
+01:03:03,960 --> 01:03:05,492
+¿Una carrera como la tuya?
+
+1186
+01:03:05,498 --> 01:03:07,169
+¿Para ser miserable
+todo el tiempo? ¡No!
+
+1187
+01:03:07,519 --> 01:03:09,191
+Eso se llama responsabilidad.
+
+1188
+01:03:11,612 --> 01:03:12,425
+¡A la mierda con esto!
+
+1189
+01:03:12,524 --> 01:03:14,601
+¿Sabes qué? No tienes
+ni maldita idea...
+
+1190
+01:03:14,634 --> 01:03:17,250
+lo que es tener la
+responsabilidad de la vida de otros,
+
+1191
+01:03:17,283 --> 01:03:19,417
+porque vives en una
+tierra de cuentos de hadas,
+
+1192
+01:03:19,450 --> 01:03:22,656
+donde no hay consecuencias
+y nadie saldrá herido nunca.
+
+1193
+01:03:25,857 --> 01:03:26,857
+No.
+
+1194
+01:03:28,112 --> 01:03:30,300
+No. Tú, tú no sales herido.
+
+1195
+01:03:31,958 --> 01:03:33,408
+¡Yo me caigo en
+malditos pedazos!
+
+1196
+01:03:33,452 --> 01:03:35,281
+¡Qué maldita mierda! ¡No te
+he hecho nada a ti!
+
+1197
+01:03:35,297 --> 01:03:37,027
+¡Exactamente!
+¡No haces nada!
+
+1198
+01:03:38,280 --> 01:03:40,451
+No sales conmigo.
+No ríes conmigo.
+
+1199
+01:03:40,499 --> 01:03:42,698
+Ni siquiera me tocas ya
+más, joder.
+
+1200
+01:03:45,474 --> 01:03:46,940
+- Lo siento.
+- ¡Basta!
+
+1201
+01:03:47,114 --> 01:03:48,126
+¡No!
+
+1202
+01:04:02,089 --> 01:04:04,244
+Nunca fuimos al Monte Fuji.
+
+1203
+01:04:06,130 --> 01:04:07,152
+Lindsay se fue...
+
+1204
+01:04:07,879 --> 01:04:09,681
+poco tiempo después de eso y...
+
+1205
+01:04:11,407 --> 01:04:12,722
+Me quede realmente solo ahí.
+
+1206
+01:04:14,485 --> 01:04:16,833
+Después de tres meses me fui
+también, y volví a Maryland.
+
+1207
+01:04:17,720 --> 01:04:19,818
+<i>COLUMBIA, MARYLAND - 2011</i>
+
+1208
+01:04:44,887 --> 01:04:46,349
+<i>Prometí cambiar,</i>
+
+1209
+01:04:47,529 --> 01:04:49,205
+<i>y volvimos a vivir juntos.</i>
+
+1210
+01:04:49,208 --> 01:04:50,681
+Mantengan las rodillas dobladas,
+
+1211
+01:04:50,689 --> 01:04:51,826
+y entonces podrán extenderlas...
+
+1212
+01:04:51,850 --> 01:04:53,770
+cuando se sientan
+realmente estables. ¿Listos?
+
+1213
+01:04:54,014 --> 01:04:55,756
+1, 2, 3.
+
+1214
+01:04:56,692 --> 01:04:59,113
+- A todo.
+- Todas aprieten las rodillas.
+
+1215
+01:04:59,146 --> 01:05:02,641
+Quema, pero les hace bien.
+¡Perfecto!
+
+1216
+01:05:02,900 --> 01:05:04,028
+Den la vuelta.
+
+1217
+01:05:05,870 --> 01:05:08,100
+¡Perfecto! ¡Ay, Dios mío!
+¡Estoy tan orgullosa de Uds.!
+
+1218
+01:05:08,133 --> 01:05:09,675
+<i>Cuando eres realmente feliz,</i>
+
+1219
+01:05:09,935 --> 01:05:13,391
+<i>hay una gran parte de ti
+que sólo quiere quedarse feliz.</i>
+
+1220
+01:05:17,646 --> 01:05:20,398
+<i>Y empiezas a pensar, ¿qué podría
+ser más importante que esto?</i>
+
+1221
+01:05:21,851 --> 01:05:22,851
+¿Qué?
+
+1222
+01:05:24,159 --> 01:05:26,100
+¡Ay, Dios mío, es tan hermoso!
+
+1223
+01:05:26,399 --> 01:05:27,399
+Ven aquí.
+
+1224
+01:05:27,806 --> 01:05:31,844
+<i>Ya sabes, muchas personas
+navegan felices por la vida.</i>
+
+1225
+01:05:33,509 --> 01:05:34,622
+<i>¿Por qué yo no podría?</i>
+
+1226
+01:05:35,559 --> 01:05:37,208
+<i>EL BIENESTAR DE UN
+HOMBRE DEPENDE DE...</i>
+
+1227
+01:05:37,242 --> 01:05:38,922
+<i>SI ESTE VIVE DE
+ACUERDO CON SUS IDEALES.</i>
+
+1228
+01:05:43,910 --> 01:05:45,408
+Volví a trabajar para la CIA.
+
+1229
+01:05:46,985 --> 01:05:49,384
+<i>Mi título oficial era
+"consultor de resoluciones".</i>
+
+1230
+01:05:51,406 --> 01:05:52,591
+<i>Básicamente vendía hardware...</i>
+
+1231
+01:05:52,615 --> 01:05:54,215
+<i>demasiado caro,
+para ganarme la vida.</i>
+
+1232
+01:05:54,462 --> 01:05:55,861
+Creí que habías renunciado.
+
+1233
+01:05:56,063 --> 01:05:57,680
+Sí, era una labor
+puramente contractual...
+
+1234
+01:05:57,704 --> 01:05:58,709
+después de lo de Ginebra.
+
+1235
+01:05:58,733 --> 01:05:59,212
+Ya sabes.
+
+1236
+01:05:59,246 --> 01:06:01,368
+Para Booz Allen Hamilton
+o la Dell,
+
+1237
+01:06:02,343 --> 01:06:06,039
+<i>en colaboración con
+la CIA, la NSA y la DIA.</i>
+
+1238
+01:06:06,850 --> 01:06:07,884
+<i>Serian las...</i>
+
+1239
+01:06:08,290 --> 01:06:10,765
+<i>puertas giratorias de
+la comunidad de inteligencia.</i>
+
+1240
+01:06:12,222 --> 01:06:14,836
+¿Cómo fue estar
+de vuelta en los EE.UU.?
+
+1241
+01:06:15,306 --> 01:06:16,521
+Era...
+
+1242
+01:06:17,395 --> 01:06:18,941
+Era muy bueno estar en casa.
+
+1243
+01:06:21,174 --> 01:06:22,726
+Pero Maryland fue...
+
+1244
+01:06:23,195 --> 01:06:25,075
+donde las cosas comenzaron
+a cambiar para mí.
+
+1245
+01:06:26,016 --> 01:06:28,420
+<i>Cada vez que me sentía como
+si estuviera finalmente...</i>
+
+1246
+01:06:29,016 --> 01:06:31,773
+<i>libre de la ansiedad
+y de las preguntas...</i>
+
+1247
+01:06:31,806 --> 01:06:33,431
+<i>que solían mantenerme
+despierto durante la noche,</i>
+
+1248
+01:06:33,455 --> 01:06:37,022
+<i>descubría otra cosa
+y sólo no podía ignorarlo.</i>
+
+1249
+01:06:37,538 --> 01:06:40,838
+<i>Como, había estos tres Oficiales
+de alto grado de la NSA.</i>
+
+1250
+01:06:41,393 --> 01:06:44,009
+<i>Bill Binney, Ed Loomis
+y Kirk Wiebe.</i>
+
+1251
+01:06:44,398 --> 01:06:46,316
+<i>Durante años,
+presentaron quejas...</i>
+
+1252
+01:06:46,350 --> 01:06:48,234
+<i>por abuso de poder
+para ser archivadas.</i>
+
+1253
+01:06:48,713 --> 01:06:51,836
+<i>Era todo lo que hacían,
+sólo archivaban las quejas.</i>
+
+1254
+01:06:52,306 --> 01:06:54,978
+<i>Y el FBI hizo
+redadas en sus hogares.</i>
+
+1255
+01:06:55,589 --> 01:06:58,142
+<i>Y luego estaba Thomas Drake.
+Al igual que los otros tres,</i>
+
+1256
+01:06:58,202 --> 01:07:01,266
+<i>Drake trató de cambiar
+las cosas desde adentro.</i>
+
+1257
+01:07:01,673 --> 01:07:03,812
+<i>Pero cuando nada
+funcionó, fue a la prensa.</i>
+
+1258
+01:07:04,002 --> 01:07:07,189
+<i>Entonces, lo acusaron
+de espionaje y...</i>
+
+1259
+01:07:07,507 --> 01:07:08,519
+<i>nos quedamos sorprendidos,</i>
+
+1260
+01:07:08,543 --> 01:07:09,863
+<i>toda la comunidad
+de inteligencia.</i>
+
+1261
+01:07:10,167 --> 01:07:11,542
+<i>¿Por qué crees que
+fuiste acusado?</i>
+
+1262
+01:07:11,596 --> 01:07:13,078
+<i>Por dar un mensaje incómodo.</i>
+
+1263
+01:07:13,260 --> 01:07:14,260
+<i>¿A quién?</i>
+
+1264
+01:07:14,579 --> 01:07:17,167
+<i>A otros informantes, a
+otros miembros del Gobierno.</i>
+
+1265
+01:07:17,181 --> 01:07:19,056
+<i>De, no hablar.</i>
+
+1266
+01:07:19,365 --> 01:07:21,245
+<i>No trates de decir la
+verdad de los en el poder.</i>
+
+1267
+01:07:22,168 --> 01:07:23,523
+<i>De lo contrario
+los destruiremos.</i>
+
+1268
+01:07:24,990 --> 01:07:30,126
+Hay un nuevo programa en marcha
+en el centro de la NSA en Oahu.
+
+1269
+01:07:31,127 --> 01:07:34,746
+Irías en contra de las
+divisiones cibernéticas de China.
+
+1270
+01:07:35,995 --> 01:07:36,995
+¿Te interesa?
+
+1271
+01:07:39,734 --> 01:07:41,984
+No ganarías el basto dinero
+que recibes ahora, pero...
+
+1272
+01:07:43,033 --> 01:07:45,522
+harías un gran
+servicio a tu país,
+
+1273
+01:07:45,555 --> 01:07:46,982
+y sé que para ti,
+eso es importante.
+
+1274
+01:07:46,983 --> 01:07:48,922
+Te refieres, ¿a un servicio
+como en Ginebra?
+
+1275
+01:07:49,403 --> 01:07:52,334
+Eso fue un error. No debí
+presionarte para eso.
+
+1276
+01:07:52,367 --> 01:07:54,736
+No me presionaste a nada. Yo pedí
+estar en operaciones de campo.
+
+1277
+01:07:54,760 --> 01:07:57,032
+Me lo concediste. Y no te
+guardo rencor por ello.
+
+1278
+01:07:59,432 --> 01:08:01,278
+¿Hay algo por lo
+que si me guardes rencor?
+
+1279
+01:08:05,974 --> 01:08:08,911
+No me dijiste que lanzaríamos una
+red en todo el mundo, Corbin.
+
+1280
+01:08:33,230 --> 01:08:35,094
+- Buen tiro, Ed.
+- Gracias.
+
+1281
+01:08:36,266 --> 01:08:37,524
+Fue excelente.
+
+1282
+01:08:38,424 --> 01:08:40,624
+Era la única cosa en la que
+yo era bueno en el Ejército.
+
+1283
+01:08:46,795 --> 01:08:48,021
+¿Alguna vez piensas, Ed,
+
+1284
+01:08:48,552 --> 01:08:51,568
+que han pasado 60 años desde
+la Segunda Guerra Mundial,
+
+1285
+01:08:51,601 --> 01:08:53,561
+y todavía no ha pasado una
+Tercera Guerra Mundial?
+
+1286
+01:08:54,368 --> 01:08:55,368
+¿Por qué?
+
+1287
+01:08:56,374 --> 01:08:58,880
+Porque usamos nuestro
+poder, por lo general,
+
+1288
+01:08:59,000 --> 01:09:00,121
+por el bien del mundo.
+
+1289
+01:09:01,089 --> 01:09:03,486
+Para la prosperidad, el orden.
+
+1290
+01:09:04,171 --> 01:09:06,727
+¿Cómo podemos defendernos
+de las guerras nucleares,
+
+1291
+01:09:06,845 --> 01:09:09,138
+ataques terroristas,
+ataques cibernéticos,
+
+1292
+01:09:09,531 --> 01:09:12,116
+sin una interfaz
+centralizada que trabaje...
+
+1293
+01:09:12,149 --> 01:09:13,749
+alrededor del mundo
+de día y de noche?
+
+1294
+01:09:14,287 --> 01:09:15,683
+¿Así que tenemos
+que catalogar...
+
+1295
+01:09:15,717 --> 01:09:17,474
+los billones de
+vidas de las personas?
+
+1296
+01:09:17,516 --> 01:09:20,405
+Muchas gentes ya catalogan
+sus vidas, para el consumo público.
+
+1297
+01:09:20,806 --> 01:09:23,087
+Pues bien, catalogan una parte
+de sus vidas, y lo hacen...
+
+1298
+01:09:23,312 --> 01:09:26,442
+por elección. Nosotros no damos
+esa elección, lo tomamos todo.
+
+1299
+01:09:26,500 --> 01:09:28,740
+La mayoría de los estadounidenses
+no quieren la libertad.
+
+1300
+01:09:28,964 --> 01:09:30,066
+Quieren seguridad.
+
+1301
+01:09:31,154 --> 01:09:32,160
+Es un intercambio simple.
+
+1302
+01:09:32,923 --> 01:09:34,388
+¡Buena chica!
+¡Buena chica!
+
+1303
+01:09:35,605 --> 01:09:38,225
+Si quieres jugar con todos los
+juguetes nuevos, asegúrate de...
+
+1304
+01:09:38,528 --> 01:09:40,137
+pagar el precio de admisión.
+
+1305
+01:09:41,931 --> 01:09:43,112
+Salvo que la gente...
+
+1306
+01:09:44,916 --> 01:09:46,474
+ni siquiera saben
+que hacen ese trato.
+
+1307
+01:09:46,498 --> 01:09:48,662
+¿Dónde está el campo de
+batalla moderno, soldado?
+
+1308
+01:09:50,747 --> 01:09:51,747
+En todas partes.
+
+1309
+01:09:51,822 --> 01:09:53,487
+¿Cuál es la primera regla
+de una batalla?
+
+1310
+01:09:54,358 --> 01:09:55,727
+Nunca reveles tu posición.
+
+1311
+01:09:57,021 --> 01:09:59,845
+¿Y si otra persona
+no autorizada lo sabe?
+
+1312
+01:10:00,954 --> 01:10:03,354
+- ¿Si el Congreso lo supiera?
+- También lo sabría el enemigo.
+
+1313
+01:10:03,825 --> 01:10:06,734
+Eso, Sr. Snowden, es
+el estado del mundo.
+
+1314
+01:10:07,785 --> 01:10:11,343
+Privacidad es seguridad, y
+la seguridad es victoria.
+
+1315
+01:10:19,306 --> 01:10:20,306
+Gracias, señor.
+
+1316
+01:10:22,306 --> 01:10:23,566
+Hay alguien a quien
+quiero que conozcas.
+
+1317
+01:10:23,590 --> 01:10:24,920
+Hermoso día, ¿cierto?
+
+1318
+01:10:25,695 --> 01:10:26,695
+Señor Lowell.
+
+1319
+01:10:27,529 --> 01:10:28,529
+Jim.
+
+1320
+01:10:28,688 --> 01:10:29,572
+¿Cómo te va?
+
+1321
+01:10:29,702 --> 01:10:33,310
+Dorian. Allan. Bienvenido
+a los Estados Unidos.
+
+1322
+01:10:33,387 --> 01:10:34,575
+¿Cómo te fue hoy, Corbin?
+
+1323
+01:10:35,370 --> 01:10:37,672
+Muy mediocre.
+No como a Ed aquí.
+
+1324
+01:10:38,538 --> 01:10:41,024
+Al parecer, el Ejército
+les enseña a disparar bien.
+
+1325
+01:10:41,423 --> 01:10:42,857
+Entonces, este es Ed Snowden.
+
+1326
+01:10:43,360 --> 01:10:46,042
+- Señor, un placer.
+- El cerebro detrás de Epic Shelter.
+
+1327
+01:10:46,076 --> 01:10:46,703
+Así es.
+
+1328
+01:10:46,925 --> 01:10:48,426
+- Es un trabajo brillante.
+- Gracias, señor.
+
+1329
+01:10:48,450 --> 01:10:50,796
+- Si. Tengo un par de preguntas...
+- Ah, Jim...
+
+1330
+01:10:51,426 --> 01:10:54,237
+- ¿Me disculpan, caballeros?
+- Un placer conocerlo.
+
+1331
+01:10:55,485 --> 01:10:57,752
+Sí, está demostrando
+ser muy útil...
+
+1332
+01:10:57,786 --> 01:11:00,018
+para nuestro programa de drones.
+
+1333
+01:11:00,049 --> 01:11:03,279
+Sí, he oído. Lo digo por la
+transferencia de información.
+
+1334
+01:11:03,342 --> 01:11:04,901
+Sí, la transferencia
+que se recolecta,
+
+1335
+01:11:04,935 --> 01:11:06,278
+va directamente al Pentágono.
+
+1336
+01:11:06,428 --> 01:11:07,706
+Y al Mossad si la necesitan.
+
+1337
+01:11:08,139 --> 01:11:10,739
+En realidad, podemos actuar
+inmediatamente, sin responder a nadie.
+
+1338
+01:11:11,267 --> 01:11:14,534
+Se ha mejorado la respuesta de
+los drones a 10 veces más rápida.
+
+1339
+01:11:15,167 --> 01:11:16,021
+Dime, también has
+trabajado en la...
+
+1340
+01:11:16,096 --> 01:11:18,652
+inteligencia de
+señales en Japón, ¿verdad?
+
+1341
+01:11:18,701 --> 01:11:20,510
+- Sí, señor.
+- ¿Te ha gustado?
+
+1342
+01:11:21,652 --> 01:11:24,342
+Ha sido un trabajo muy
+gratificante, señor.
+
+1343
+01:11:24,377 --> 01:11:25,276
+Sí.
+
+1344
+01:11:25,310 --> 01:11:28,621
+Con este nuevo trabajo en
+Hawái, tendrás más acceso.
+
+1345
+01:11:29,466 --> 01:11:31,440
+Pedí a Corbin iniciar
+la conversación,
+
+1346
+01:11:31,531 --> 01:11:33,478
+pero la oferta es mía.
+
+1347
+01:11:35,676 --> 01:11:36,702
+Tomate tu tiempo.
+
+1348
+01:11:37,186 --> 01:11:40,049
+Tomará unos meses el
+iniciar el programa.
+
+1349
+01:11:40,933 --> 01:11:43,237
+¿Me disculparían caballeros?
+Veo la cena.
+
+1350
+01:11:44,689 --> 01:11:46,584
+- ¿Una cerveza, señor?
+- Gracias.
+
+1351
+01:11:47,163 --> 01:11:48,621
+- Señor, ¿para Ud.?
+- No, gracias.
+
+1352
+01:11:50,626 --> 01:11:52,426
+Caballeros, ¿a alguien le apetece
+una cerveza?
+
+1353
+01:11:54,506 --> 01:11:56,889
+Epic Shelter tenía que ser
+un programa de respaldo.
+
+1354
+01:11:58,038 --> 01:12:00,698
+Lowell ha creado esta
+posición para ti, Ed.
+
+1355
+01:12:01,476 --> 01:12:03,432
+Serás el primero
+consultor externo...
+
+1356
+01:12:03,466 --> 01:12:05,656
+que trabaje para
+la defensa cibernética.
+
+1357
+01:12:06,996 --> 01:12:08,654
+Es tu ticket a la cima.
+
+1358
+01:12:20,148 --> 01:12:23,153
+¿Crees que Estados Unidos
+es el mejor país del mundo?
+
+1359
+01:12:23,929 --> 01:12:24,929
+Si.
+
+1360
+01:12:27,097 --> 01:12:30,475
+¿Has usado programas para
+los que no tenías autorización?
+
+1361
+01:12:36,746 --> 01:12:37,746
+No.
+
+1362
+01:12:50,283 --> 01:12:52,630
+Por lo general, no
+enviamos el trabajo,
+
+1363
+01:12:53,143 --> 01:12:55,253
+pero mi editora dice que
+hizo una excepción.
+
+1364
+01:12:56,575 --> 01:12:57,575
+Genial, ¿verdad?
+
+1365
+01:13:03,354 --> 01:13:04,803
+Tengo que enviar algo.
+
+1366
+01:13:08,102 --> 01:13:10,807
+¿Estás ignorándome
+a propósito o qué?
+
+1367
+01:13:10,893 --> 01:13:12,266
+No, disculpa.
+
+1368
+01:13:14,582 --> 01:13:15,582
+Estaba pensando.
+
+1369
+01:13:16,264 --> 01:13:17,264
+¿En qué?
+
+1370
+01:13:22,794 --> 01:13:26,173
+Me gustaría hablar
+en la cena, pero sólo...
+
+1371
+01:13:26,491 --> 01:13:27,491
+sentémonos.
+
+1372
+01:13:28,925 --> 01:13:30,649
+¿Está todo bien?
+
+1373
+01:13:31,102 --> 01:13:32,102
+Sí.
+
+1374
+01:13:35,206 --> 01:13:36,558
+El...
+
+1375
+01:13:36,776 --> 01:13:38,989
+El Director Adjunto de la NSA...
+
+1376
+01:13:41,004 --> 01:13:42,604
+me ofreció un nuevo
+puesto de trabajo.
+
+1377
+01:13:43,284 --> 01:13:45,942
+Fue hace mucho tiempo, y
+ahora quieren una respuesta.
+
+1378
+01:13:47,583 --> 01:13:49,140
+¿Es algo que quieras hacer?
+
+1379
+01:13:51,022 --> 01:13:52,513
+Sería bueno en eso.
+
+1380
+01:13:54,839 --> 01:13:56,669
+¿Me puedes decir algo
+al respecto?
+
+1381
+01:13:57,536 --> 01:13:58,920
+Sabes que no puedo.
+
+1382
+01:13:59,413 --> 01:14:00,502
+Lo sé.
+
+1383
+01:14:00,664 --> 01:14:02,073
+La misión primero.
+
+1384
+01:14:04,401 --> 01:14:06,848
+¿Hay beneficios sociales?
+¿Galas en la Casa Blanca, tal vez?
+
+1385
+01:14:07,243 --> 01:14:09,461
+La posición es...
+
+1386
+01:14:10,001 --> 01:14:11,140
+en Hawái.
+
+1387
+01:14:19,120 --> 01:14:21,804
+Hemos trabajado duro
+por lo que tenemos.
+
+1388
+01:14:23,420 --> 01:14:25,547
+Y no puedes esperar a
+que lo arranquemos de raíz.
+
+1389
+01:14:26,806 --> 01:14:28,566
+Por fin tenemos una
+casa que nos gusta...
+
+1390
+01:14:28,600 --> 01:14:29,883
+y un trabajo que me agrada.
+
+1391
+01:14:29,896 --> 01:14:31,647
+Verdaderos amigos y estamos
+cerca de nuestras familias.
+
+1392
+01:14:31,671 --> 01:14:33,282
+Lo sé. Lo entiendo y si...
+
+1393
+01:14:33,352 --> 01:14:35,363
+quieres quedarte,
+entonces nos quedamos.
+
+1394
+01:14:36,083 --> 01:14:37,083
+Eso es todo.
+
+1395
+01:14:38,386 --> 01:14:39,977
+No sólo lo digas, porque
+es lo que quiero oír.
+
+1396
+01:14:40,001 --> 01:14:41,001
+No lo hago.
+
+1397
+01:14:45,500 --> 01:14:47,478
+Te dejé ir una vez.
+No lo haré de nuevo.
+
+1398
+01:14:55,542 --> 01:14:57,323
+Mierda, lo siento. La pasta.
+
+1399
+01:14:57,586 --> 01:14:58,962
+Ya está, un segundo.
+
+1400
+01:15:10,532 --> 01:15:13,220
+Esta vez creo que me salió muy
+cerca de quedar bien esta vez.
+
+1401
+01:15:14,482 --> 01:15:15,672
+Buscaré unas velas.
+
+1402
+01:15:54,794 --> 01:15:57,952
+¡Ay, Dios mío!
+¡Ed! ¡Ed! ¡Ed!
+
+1403
+01:16:01,456 --> 01:16:02,958
+¡Ed!
+
+1404
+01:16:14,794 --> 01:16:16,199
+<i>Conozco el Tegretol.</i>
+
+1405
+01:16:17,412 --> 01:16:19,691
+<i>Te ofusca, lo vi con mi madre.</i>
+
+1406
+01:16:19,724 --> 01:16:21,774
+<i>Tomó todo tipo de
+medicamentos, toda su vida.</i>
+
+1407
+01:16:22,757 --> 01:16:25,045
+Funcionan en el 70%
+de los casos.
+
+1408
+01:16:27,824 --> 01:16:28,824
+Ed,
+
+1409
+01:16:29,316 --> 01:16:32,445
+la epilepsia es una condición seria.
+Si tienes una convulsión...
+
+1410
+01:16:32,991 --> 01:16:36,407
+yendo manejando o con otra
+persona en el auto,
+
+1411
+01:16:36,585 --> 01:16:38,591
+o estás en un lugar donde
+pudieras caer...
+
+1412
+01:16:39,750 --> 01:16:42,549
+No es algo para
+tomarse a la ligera.
+
+1413
+01:16:42,582 --> 01:16:44,674
+Y es esencial que tomes
+estos medicamentos.
+
+1414
+01:16:47,693 --> 01:16:48,693
+¿De acuerdo?
+
+1415
+01:16:50,834 --> 01:16:51,834
+Si.
+
+1416
+01:16:57,635 --> 01:16:58,635
+Oh, gracias.
+
+1417
+01:17:03,091 --> 01:17:04,829
+Pensé en lo que dijo la doctora,
+
+1418
+01:17:06,091 --> 01:17:07,310
+sobre menos estrés.
+
+1419
+01:17:10,174 --> 01:17:11,688
+Un clima más caliente ayudaría.
+
+1420
+01:17:16,820 --> 01:17:18,175
+Si decidimos que...
+
+1421
+01:17:18,394 --> 01:17:20,857
+Hawái sería bueno para ti,
+
+1422
+01:17:22,091 --> 01:17:23,271
+iré.
+
+1423
+01:17:38,632 --> 01:17:40,211
+<i>HONG KONG, MIÉRCOLES
+5 DE JUNIO DEL 2013</i>
+
+1424
+01:17:40,244 --> 01:17:42,776
+<i>Janine, ¿cómo estuvo la
+reunión en la Casa Blanca?</i>
+
+1425
+01:17:42,858 --> 01:17:44,282
+<i>Me dejaron muy en claro que...</i>
+
+1426
+01:17:44,316 --> 01:17:46,980
+<i>tenemos una orden
+auténtica del Tribunal de FISA.</i>
+
+1427
+01:17:47,063 --> 01:17:49,285
+<i>Ellos querían verla,
+nos negamos.</i>
+
+1428
+01:17:49,783 --> 01:17:52,042
+<i>Ahora, rezo que en realidad
+sea efectivamente auténtica.</i>
+
+1429
+01:17:53,492 --> 01:17:55,156
+¿Realmente tienes dudas?
+
+1430
+01:17:55,253 --> 01:17:58,103
+<i>Glenn, nadie ha visto nunca
+una orden del Tribunal de FISA.</i>
+
+1431
+01:17:58,220 --> 01:17:59,604
+<i>No hay precedente aquí.</i>
+
+1432
+01:17:59,638 --> 01:18:01,515
+<i>Nuestra fuente ha
+arriesgado su vida...</i>
+
+1433
+01:18:01,549 --> 01:18:02,954
+<i>por ese
+documento. Y es real.</i>
+
+1434
+01:18:03,410 --> 01:18:05,525
+Dinos... ¿La Casa Blanca...
+
+1435
+01:18:05,561 --> 01:18:08,676
+ha hecho referencias específicas
+a la Seguridad Nacional...
+
+1436
+01:18:08,694 --> 01:18:10,543
+que te pueda impedir de
+que se publique?
+
+1437
+01:18:11,121 --> 01:18:12,159
+<i>No.</i>
+
+1438
+01:18:12,599 --> 01:18:13,987
+<i>Les pregunté varias veces.</i>
+
+1439
+01:18:14,021 --> 01:18:16,088
+<i>Y no me dieron una
+respuesta especifica.</i>
+
+1440
+01:18:16,540 --> 01:18:17,823
+Pues ahí tienes,
+que más quieres.
+
+1441
+01:18:17,834 --> 01:18:19,624
+Puedes publicar y
+sabes que estás a salvo.
+
+1442
+01:18:19,631 --> 01:18:23,381
+<i>Glenn, me gustaría hablar con Alan,
+antes de seguir adelante.</i>
+
+1443
+01:18:23,831 --> 01:18:26,030
+- ¿Cuándo aterriza?
+- En 6 horas.
+
+1444
+01:18:26,234 --> 01:18:28,963
+No. Por supuesto que no.
+Janine, somos objetivos aquí.
+
+1445
+01:18:29,785 --> 01:18:31,996
+Es la 1:00 p.m. en Nueva York.
+Si no lo publicas...
+
+1446
+01:18:32,036 --> 01:18:33,172
+en las próximos cuatro horas,
+
+1447
+01:18:33,196 --> 01:18:35,049
+pierdes las noticias
+nocturnas en la Costa Este.
+
+1448
+01:18:35,073 --> 01:18:37,567
+<i>Podemos publicar
+más tarde esta noche.</i>
+
+1449
+01:18:38,836 --> 01:18:41,640
+<i>Disculpa Glenn, pero Alan es
+nuestro Editor en Jefe y yo...</i>
+
+1450
+01:18:41,670 --> 01:18:43,178
+¡A la mierda!
+El Gobierno sabe ahora...
+
+1451
+01:18:43,202 --> 01:18:44,685
+que tenemos estos documentos.
+
+1452
+01:18:44,938 --> 01:18:46,311
+La CIA puede entrar aquí...
+
+1453
+01:18:46,344 --> 01:18:48,224
+en cualquier momento
+y no tendrás más tiempo.
+
+1454
+01:18:49,334 --> 01:18:51,894
+<i>Compórtate como una maldita
+periodista y deja de darnos largas...</i>
+
+1455
+01:18:52,249 --> 01:18:55,429
+<i>Ya me he expuesto con
+la maldita Casa Blanca.</i>
+
+1456
+01:18:55,634 --> 01:18:56,556
+<i>He arriesgado mi carrera.</i>
+
+1457
+01:18:56,590 --> 01:18:58,582
+<i>¿Cómo te atreves a cuestionar
+mi compromiso con esta historia?</i>
+
+1458
+01:18:58,606 --> 01:18:59,931
+Está bien, vamos a calmarnos...
+
+1459
+01:18:59,965 --> 01:19:01,723
+No, tienes razón,
+te estoy cuestionando.
+
+1460
+01:19:01,774 --> 01:19:03,229
+¡Esto es absolutamente inapropiado!
+
+1461
+01:19:04,797 --> 01:19:06,284
+Publicaremos sin ti.
+Estás fuera.
+
+1462
+01:19:17,302 --> 01:19:18,502
+De acuerdo, Glenn.
+
+1463
+01:19:18,535 --> 01:19:20,367
+<i>Vamos a estar listos
+para las 4:00 p.m.</i>
+
+1464
+01:19:21,568 --> 01:19:23,774
+<i>Todavía tengo que revisar
+la historia, una vez más.</i>
+
+1465
+01:19:23,808 --> 01:19:24,529
+¿Por qué?
+
+1466
+01:19:24,562 --> 01:19:27,260
+<i>Maldita sea, porque
+aún requiere de edición.</i>
+
+1467
+01:19:27,342 --> 01:19:30,537
+<i>Este argot de mierda de inteligencia,
+me está fastidiando el cerebro.</i>
+
+1468
+01:19:30,570 --> 01:19:33,775
+<i>La historia de PRISM es
+todavía incomprensible.</i>
+
+1469
+01:19:34,128 --> 01:19:35,739
+<i>PRISM es la segunda
+historia, Janine.</i>
+
+1470
+01:19:35,772 --> 01:19:37,052
+Verizon es la
+historia principal.
+
+1471
+01:19:37,591 --> 01:19:40,271
+Estate lista para publicarlo a las
+4:00 p.m., máximo a las 5:00 p.m.
+
+1472
+01:19:41,576 --> 01:19:43,109
+<i>Sin trucos, por lo que es todo.</i>
+
+1473
+01:20:01,559 --> 01:20:06,395
+<i>"EL TÚNEL" CENTRO DE ACTIVIDADES
+DE LA NSA - OAHU, HAWÁI, 2012</i>
+
+1474
+01:20:07,834 --> 01:20:12,024
+<i>Entonces, ni nuevo trabajo era la
+contra-inteligencia con los chinos,</i>
+
+1475
+01:20:12,057 --> 01:20:15,738
+<i>en el primer centro
+criptográfico de la NSA, en Oahu.</i>
+
+1476
+01:20:17,388 --> 01:20:18,082
+Hola.
+
+1477
+01:20:18,087 --> 01:20:19,847
+¿Puede poner su mochila ahí
+por favor, señor?
+
+1478
+01:20:21,640 --> 01:20:24,615
+Sin laptops personales, ni
+memorias USB o móviles.
+
+1479
+01:20:24,869 --> 01:20:26,243
+¿Ningún dispositivo
+electrónico de ningún tipo?
+
+1480
+01:20:26,249 --> 01:20:27,249
+No, señor.
+
+1481
+01:20:36,301 --> 01:20:37,301
+Gracias.
+
+1482
+01:20:37,560 --> 01:20:38,560
+Es todo.
+
+1483
+01:20:41,411 --> 01:20:42,411
+Gracias.
+
+1484
+01:20:46,742 --> 01:20:47,742
+¡Blancanieves!
+
+1485
+01:20:49,245 --> 01:20:50,245
+¿Eres tú?
+
+1486
+01:20:51,502 --> 01:20:51,982
+¿Gabriel?
+
+1487
+01:20:52,016 --> 01:20:53,910
+Amigo, ¿qué demonios haces aquí?
+
+1488
+01:20:55,007 --> 01:20:55,937
+Es increíble.
+
+1489
+01:20:55,972 --> 01:20:56,972
+¡Ay, hombre!
+
+1490
+01:20:57,384 --> 01:20:59,277
+- ¿Trabajas aquí?
+- Si. Si.
+
+1491
+01:20:59,655 --> 01:21:02,895
+Durante tres años,
+dos meses y cinco días.
+
+1492
+01:21:04,201 --> 01:21:05,896
+- Pero, quien cuenta, ¿cierto?
+- Si.
+
+1493
+01:21:06,169 --> 01:21:08,972
+Digo, quien iba a saber que
+una base secreta subterránea...
+
+1494
+01:21:09,005 --> 01:21:09,678
+de la Segunda Guerra Mundial...
+
+1495
+01:21:09,697 --> 01:21:11,568
+se volverá un refugio
+para miles de nerds, ¿cierto?
+
+1496
+01:21:11,592 --> 01:21:13,875
+- ¿La pizza está buena?
+- Está buena, sí. Es importante.
+
+1497
+01:21:14,246 --> 01:21:16,654
+- El ascensor es lento, pero...
+- ¡Jesús!
+
+1498
+01:21:17,011 --> 01:21:19,407
+- Es un lugar increíble, ¿verdad?
+- Si.
+
+1499
+01:21:20,734 --> 01:21:23,708
+Entonces, ¿en qué
+estás trabajando?
+
+1500
+01:21:23,741 --> 01:21:24,492
+¿Trabajas con NTOC o ROC?
+
+1501
+01:21:24,525 --> 01:21:27,123
+<i>NTOC: Centro Operativo
+de Amenazas Nacionales</i>
+
+1502
+01:21:27,241 --> 01:21:28,917
+<i>ROC: Centro de
+Operaciones Remotas</i>
+
+1503
+01:21:29,035 --> 01:21:31,683
+¿Entre tú y yo?
+NTOC.
+
+1504
+01:21:32,268 --> 01:21:33,223
+Genial.
+
+1505
+01:21:33,242 --> 01:21:35,433
+Debí hackear al hacker.
+Has avanzado en el mundo.
+
+1506
+01:21:45,645 --> 01:21:47,006
+Una mente fresca
+para ti, Trevor.
+
+1507
+01:21:47,466 --> 01:21:49,751
+Trevor James, Operaciones
+Interactivas, Jefe de la División.
+
+1508
+01:21:49,775 --> 01:21:51,603
+- Hola. Ed Snowden.
+- Se me ha informado.
+
+1509
+01:21:52,178 --> 01:21:53,547
+Siguiente puerta es NTOC.
+
+1510
+01:21:54,165 --> 01:21:56,350
+Defensa. Y es
+donde trabajarás.
+
+1511
+01:21:57,374 --> 01:21:59,533
+Allí esta ROC, el
+apartamento ofensivo.
+
+1512
+01:22:00,381 --> 01:22:03,626
+Me muevo entre ambos. Hacemos
+las cosas bien aquí, Snowden.
+
+1513
+01:22:03,874 --> 01:22:04,874
+Sí, señor.
+
+1514
+01:22:05,199 --> 01:22:07,976
+- Vas a trabajar con Haynes.
+- Hola. Patrick Haynes.
+
+1515
+01:22:08,037 --> 01:22:09,191
+- Es un placer.
+- Es bueno tenerte.
+
+1516
+01:22:09,215 --> 01:22:12,440
+Échale un ojo a él. Es el tipo
+más inteligente del edificio aquí.
+
+1517
+01:22:13,114 --> 01:22:14,971
+- Vamos...
+- ¿Cuántos idiomas hablas de nuevo?
+
+1518
+01:22:15,334 --> 01:22:18,906
+7 en código, 6 lenguajes,
+dos en signos lingüísticos.
+
+1519
+01:22:18,939 --> 01:22:19,651
+Eso es genial.
+
+1520
+01:22:19,674 --> 01:22:22,241
+<i>Conozco algo el Lenguaje
+de Señas Estadounidense.</i>
+
+1521
+01:22:22,359 --> 01:22:24,270
+<i>Eso es increíble.</i>
+
+1522
+01:22:24,510 --> 01:22:26,765
+Genial. En el lenguaje
+que no puedo entender.
+
+1523
+01:22:27,672 --> 01:22:28,849
+Nos vemos luego, Ed.
+
+1524
+01:22:29,492 --> 01:22:30,492
+Nos vemos.
+
+1525
+01:22:34,407 --> 01:22:35,918
+Espéralo...
+
+1526
+01:22:37,234 --> 01:22:39,469
+En cualquier momento.
+
+1527
+01:22:42,011 --> 01:22:43,011
+Le dieron.
+
+1528
+01:22:43,159 --> 01:22:44,871
+Luces por encima de
+Waziristán, caballeros.
+
+1529
+01:22:45,248 --> 01:22:46,153
+Así se hace.
+
+1530
+01:22:46,187 --> 01:22:49,032
+Entonces, ¿exactamente cómo
+contribuimos a esto?
+
+1531
+01:22:49,818 --> 01:22:52,377
+La parte inferior del dron
+Reaper tiene una enorme antena.
+
+1532
+01:22:52,736 --> 01:22:55,481
+El sensor del hardware captura
+todo lo que envía una señal.
+
+1533
+01:22:55,489 --> 01:22:57,242
+Nosotros... Lo geolocalizamos.
+
+1534
+01:22:57,833 --> 01:23:00,556
+Mi amiga Tasha, de la Fuerza Aérea,
+lanza un misil Hellfire.
+
+1535
+01:23:01,149 --> 01:23:02,980
+<i>Hola, Trev. ¿Disfrutas
+del espectáculo?</i>
+
+1536
+01:23:03,559 --> 01:23:05,802
+Ya sabes. Lo enterramos
+al toque.
+
+1537
+01:23:05,933 --> 01:23:07,698
+¿Y a quien acabamos de eliminar?
+
+1538
+01:23:08,304 --> 01:23:09,392
+No a quién, qué.
+
+1539
+01:23:09,763 --> 01:23:10,866
+Los objetivos son los móviles...
+
+1540
+01:23:10,890 --> 01:23:12,848
+de Bagdad. A veces una Sim Card.
+
+1541
+01:23:13,228 --> 01:23:14,903
+De acuerdo, ¿y cómo sabemos...
+
+1542
+01:23:15,188 --> 01:23:18,234
+que el malo tiene en posesión
+el móvil que debemos atacar?
+
+1543
+01:23:18,827 --> 01:23:20,267
+- No sabemos.
+- Claro que sí.
+
+1544
+01:23:20,662 --> 01:23:22,531
+El JSOC y la CIA tienen
+a personas en el campo.
+
+1545
+01:23:22,547 --> 01:23:24,085
+<i>JSOC: Comando Especial
+de Operaciones Conjuntas</i>
+
+1546
+01:23:24,109 --> 01:23:25,688
+¿Cómo se llama el programa?
+
+1547
+01:23:26,312 --> 01:23:27,504
+Epic Shelter.
+
+1548
+01:23:27,882 --> 01:23:30,349
+Originalmente fue un
+programa de respaldo.
+
+1549
+01:23:32,534 --> 01:23:34,077
+- En caso de desastres.
+- Si.
+
+1550
+01:23:34,768 --> 01:23:35,934
+¿Cómo lo sabes?
+
+1551
+01:23:37,158 --> 01:23:38,158
+Yo lo construí.
+
+1552
+01:23:38,264 --> 01:23:39,453
+- ¿Tú?
+- Si.
+
+1553
+01:23:40,655 --> 01:23:43,780
+Saben, en realidad, pensé en
+otro uso para Epic Shelter.
+
+1554
+01:23:44,943 --> 01:23:45,943
+¿Qué tienes en mente?
+
+1555
+01:23:46,369 --> 01:23:48,635
+Bueno, estaba hablando
+con Jim Lowell.
+
+1556
+01:23:49,545 --> 01:23:51,524
+- ¿El Director Adjunto Lowell?
+- Si.
+
+1557
+01:23:52,218 --> 01:23:53,218
+Si.
+
+1558
+01:23:53,267 --> 01:23:55,012
+Dijimos que muchos
+programas de hoy día...
+
+1559
+01:23:55,046 --> 01:23:57,302
+es casi imposible que
+puedan ser rastreados ya más.
+
+1560
+01:23:57,325 --> 01:24:00,282
+¿Así que por qué no crear una
+base de datos centralizada?
+
+1561
+01:24:00,778 --> 01:24:02,188
+Ah, ¿tipo un índice?
+
+1562
+01:24:02,221 --> 01:24:04,349
+Sí, exactamente, algo que se
+actualice en tiempo real.
+
+1563
+01:24:04,643 --> 01:24:07,798
+Ya tenemos a Epic Shelter
+recopilando la inteligencia definitiva.
+
+1564
+01:24:08,370 --> 01:24:10,834
+Sólo necesitamos un portal web,
+para catalogarla.
+
+1565
+01:24:10,890 --> 01:24:12,108
+Hacerla accesible.
+
+1566
+01:24:13,073 --> 01:24:14,073
+Déjame pensar en ello.
+
+1567
+01:24:14,493 --> 01:24:16,533
+En cualquier caso, debe
+ser aprobado por Fort Meade.
+
+1568
+01:24:16,574 --> 01:24:18,507
+- Por supuesto.
+- ¿Tienes un nombre?
+
+1569
+01:24:19,704 --> 01:24:21,740
+Sí, si no ha sido tomado,
+escogería "Heartbeat".
+
+1570
+01:24:24,631 --> 01:24:25,631
+Heartbeat.
+
+1571
+01:24:25,887 --> 01:24:30,658
+<i>5... 4... 3... 2... 1.</i>
+
+1572
+01:24:31,019 --> 01:24:32,366
+<i>Contacto con el objetivo.</i>
+
+1573
+01:24:46,968 --> 01:24:48,401
+¿Estás bien ahí abajo?
+
+1574
+01:24:49,892 --> 01:24:50,892
+Si.
+
+1575
+01:24:51,794 --> 01:24:54,295
+Por eso siempre digo que
+tenemos que caminar más.
+
+1576
+01:24:55,214 --> 01:24:56,214
+Tienes razón.
+
+1577
+01:24:56,595 --> 01:24:57,973
+¿Oye, podrías mírame?
+
+1578
+01:24:59,929 --> 01:25:02,139
+¡Vamos! Han pasado años...
+
+1579
+01:25:02,267 --> 01:25:03,796
+Para los estándares
+en las redes sociales,
+
+1580
+01:25:03,820 --> 01:25:05,100
+es como si no existieras ya más.
+
+1581
+01:25:05,977 --> 01:25:07,121
+Sólo una.
+
+1582
+01:25:09,213 --> 01:25:11,061
+Sonríe. Muéstrame tus dientes.
+
+1583
+01:25:12,898 --> 01:25:15,576
+Mi esquivo E.
+Finalmente capturado.
+
+1584
+01:25:15,668 --> 01:25:17,920
+- Soy un novio viable, ¿cierto?
+- Por supuesto.
+
+1585
+01:25:21,345 --> 01:25:23,650
+Es una lástima. Eras un
+modelo pequeño y hermoso.
+
+1586
+01:25:24,046 --> 01:25:25,944
+- ¿Pequeño? ¿Yo era pequeño?
+- Si.
+
+1587
+01:25:25,977 --> 01:25:26,977
+¡Espera!
+
+1588
+01:25:29,590 --> 01:25:30,590
+Basta.
+
+1589
+01:25:32,918 --> 01:25:34,133
+- ¡Ay, Dios mío!
+- ¿Qué?
+
+1590
+01:25:34,953 --> 01:25:36,321
+Estás bronceado.
+
+1591
+01:25:36,914 --> 01:25:38,945
+Estoy hablando en serio.
+Te ves muy bien.
+
+1592
+01:25:39,261 --> 01:25:40,261
+Eso es imposible.
+
+1593
+01:25:41,349 --> 01:25:42,427
+Oye.
+
+1594
+01:25:42,748 --> 01:25:44,694
+Quería preguntarte algo
+por cierto.
+
+1595
+01:25:45,303 --> 01:25:46,771
+¿Has cambiado de farmacias?
+
+1596
+01:25:47,583 --> 01:25:50,155
+Porque, he tratado
+de recoger tu receta,
+
+1597
+01:25:50,189 --> 01:25:51,565
+y...
+
+1598
+01:25:52,569 --> 01:25:53,615
+no pude.
+
+1599
+01:25:54,528 --> 01:25:55,633
+¿Por qué harías eso?
+
+1600
+01:25:58,232 --> 01:26:01,483
+Porque estaba allí y
+creí que sería útil.
+
+1601
+01:26:14,003 --> 01:26:15,395
+Deje de tomar el Tegretol.
+
+1602
+01:26:17,693 --> 01:26:18,693
+¿Qué?
+
+1603
+01:26:19,705 --> 01:26:21,599
+- ¿Cuándo?
+- Hace un par de meses.
+
+1604
+01:26:22,474 --> 01:26:24,396
+- ¿Y me lo dices ahora?
+- Quería decírtelo.
+
+1605
+01:26:25,056 --> 01:26:26,269
+Yo... Yo...
+
+1606
+01:26:26,822 --> 01:26:28,870
+No puedo tomar esa
+cosa. Me aturde.
+
+1607
+01:26:29,087 --> 01:26:30,928
+Y tengo que estar
+lúcido, en el trabajo.
+
+1608
+01:26:31,290 --> 01:26:34,118
+- Tengo que estar alerta todo el tiempo.
+- ¿Qué es este maldito trabajo...
+
+1609
+01:26:34,140 --> 01:26:35,694
+que es mas
+importante que tu vida?
+
+1610
+01:26:38,294 --> 01:26:40,440
+- No entiendo.
+- Nuestro Gobierno.
+
+1611
+01:26:43,355 --> 01:26:44,439
+¿Nuestro Gobierno que hace?
+
+1612
+01:26:45,434 --> 01:26:47,304
+Nuestro Gobierno da...
+
+1613
+01:26:47,439 --> 01:26:51,192
+miles de millones de dólares
+al año a los hackers chinos,
+
+1614
+01:26:51,727 --> 01:26:54,215
+y he sido contratado
+para detenerlos.
+
+1615
+01:26:56,051 --> 01:26:57,217
+Muchas personas...
+
+1616
+01:26:58,491 --> 01:26:59,987
+dependen de mí.
+
+1617
+01:27:00,912 --> 01:27:02,705
+¿Más que cualquier cosa?
+
+1618
+01:27:04,622 --> 01:27:05,622
+Si.
+
+1619
+01:27:08,258 --> 01:27:09,338
+No, son...
+
+1620
+01:27:10,940 --> 01:27:11,940
+Esto es una mierda.
+
+1621
+01:27:15,621 --> 01:27:17,320
+No hemos venido a
+Hawái por tu salud,
+
+1622
+01:27:18,685 --> 01:27:19,685
+¿verdad?
+
+1623
+01:27:20,806 --> 01:27:23,079
+No va a haber un
+trabajo menos estresante aquí.
+
+1624
+01:27:23,124 --> 01:27:25,641
+Mira. Siento como si debería
+de hacer esto,
+
+1625
+01:27:26,147 --> 01:27:27,797
+y si no lo hago, entonces...
+
+1626
+01:27:28,795 --> 01:27:30,735
+No conozco a nadie más
+que pueda hacerlo.
+
+1627
+01:27:33,581 --> 01:27:35,622
+Es como si estuviera...
+
+1628
+01:27:35,772 --> 01:27:38,152
+en una trayectoria de
+la que no puedo volver.
+
+1629
+01:27:41,474 --> 01:27:42,890
+Se puede siempre volver.
+
+1630
+01:27:47,440 --> 01:27:51,768
+<i>Lo que quería ver es si puede
+decirme un "si" o "no" a mi pregunta.</i>
+
+1631
+01:27:52,148 --> 01:27:56,715
+<i>¿La NSA recolecta cualquier
+tipo de información...</i>
+
+1632
+01:27:56,727 --> 01:28:00,209
+<i>de millones o cientos
+de millones de estadounidenses?</i>
+
+1633
+01:28:01,114 --> 01:28:02,114
+<i>No, señor.</i>
+
+1634
+01:28:03,002 --> 01:28:04,002
+<i>¿No lo hace?</i>
+
+1635
+01:28:06,031 --> 01:28:07,387
+<i>No deliberadamente.</i>
+
+1636
+01:28:07,737 --> 01:28:10,440
+<i>Hay casos en los que,
+podrían inadvertidamente,</i>
+
+1637
+01:28:10,473 --> 01:28:12,701
+<i>quizás recolectarla.</i>
+
+1638
+01:28:12,734 --> 01:28:14,980
+<i>- Pero no a propósito.
+- ¿En serio?</i>
+
+1639
+01:28:15,402 --> 01:28:18,238
+<i>Gracias. Tengo preguntas
+adicionales que le daré por escrito.</i>
+
+1640
+01:28:20,113 --> 01:28:23,378
+De acuerdo, entonces, lo que quería
+enseñarles chicos, es...
+
+1641
+01:28:24,435 --> 01:28:26,206
+una imagen que me
+encontré mientras...
+
+1642
+01:28:26,240 --> 01:28:27,792
+construía el programa de índice.
+
+1643
+01:28:28,429 --> 01:28:29,429
+¿Qué es esto?
+
+1644
+01:28:29,547 --> 01:28:32,833
+Esta es la recopilación
+de datos del mes de marzo.
+
+1645
+01:28:33,001 --> 01:28:35,346
+En todo el mundo.
+De correo electrónico y...
+
+1646
+01:28:35,380 --> 01:28:37,690
+las llamadas por Skype.
+Francia, 70 millones.
+
+1647
+01:28:37,723 --> 01:28:39,738
+Alemania, 500 millones.
+
+1648
+01:28:39,842 --> 01:28:41,887
+Brasil, 2 billones.
+
+1649
+01:28:42,519 --> 01:28:44,214
+En los Estados Unidos.
+
+1650
+01:28:45,029 --> 01:28:48,259
+3.1 billones de correos
+electrónicos y llamadas.
+
+1651
+01:28:48,292 --> 01:28:50,344
+Excluyendo los
+datos de telefonía.
+
+1652
+01:28:50,377 --> 01:28:52,257
+De acuerdo, vamos a ver
+la recolección de Rusia.
+
+1653
+01:28:52,822 --> 01:28:54,363
+Rusia seria de...
+
+1654
+01:28:54,883 --> 01:28:56,092
+1.5 billones.
+
+1655
+01:28:56,153 --> 01:28:57,948
+Esperen, ¿entonces
+recopilamos...
+
+1656
+01:28:57,982 --> 01:28:59,742
+el doble en
+EE.UU. que en Rusia?
+
+1657
+01:28:59,775 --> 01:29:01,268
+Me imaginaba que era
+mucho, pero...
+
+1658
+01:29:01,301 --> 01:29:02,941
+Esta mierda está
+fuera de control, hombre.
+
+1659
+01:29:04,345 --> 01:29:06,926
+- ¿Se lo has enseñado a alguien?
+- No, son los primeros.
+
+1660
+01:29:07,931 --> 01:29:09,769
+Ten cuidado con eso.
+Podría parecer...
+
+1661
+01:29:09,803 --> 01:29:11,606
+como que andas meciendo el bote.
+
+1662
+01:29:11,941 --> 01:29:13,496
+Sí, tienes razón. Yo quería...
+
+1663
+01:29:14,363 --> 01:29:17,396
+ver si era el único que
+piensa que esto es una locura.
+
+1664
+01:29:17,933 --> 01:29:20,435
+- ¿Qué coño está pasando?
+- Patrick.
+
+1665
+01:29:20,711 --> 01:29:22,414
+- ¿Qué hacen aquí?
+- Nada.
+
+1666
+01:29:22,447 --> 01:29:25,127
+Les estaba mostrando una imagen,
+de la que necesitaba una impresión.
+
+1667
+01:29:25,595 --> 01:29:27,898
+- ¿Por qué el mapa de calor?
+- Es mi culpa, Trev.
+
+1668
+01:29:28,587 --> 01:29:32,602
+Aposté a que Ed sabría de que
+país recolectamos más señales.
+
+1669
+01:29:33,136 --> 01:29:35,120
+Él dijo que Irán y yo Pakistán.
+
+1670
+01:29:36,367 --> 01:29:37,367
+¿Quién ganó?
+
+1671
+01:29:38,279 --> 01:29:39,279
+Ed.
+
+1672
+01:29:42,036 --> 01:29:43,810
+Tengo que irme.
+Nos vemos, chicos.
+
+1673
+01:29:44,356 --> 01:29:46,461
+- La próxima vez te gano.
+- De acuerdo.
+
+1674
+01:29:47,839 --> 01:29:49,138
+No más apuestas.
+
+1675
+01:29:49,707 --> 01:29:51,826
+Y no quiero más eso de no
+autorizado aquí de nuevo.
+
+1676
+01:29:51,897 --> 01:29:53,375
+Sobre todo no con Heartbeat.
+
+1677
+01:29:53,408 --> 01:29:54,928
+Tienes razón. No va
+a suceder de nuevo.
+
+1678
+01:30:09,482 --> 01:30:11,451
+¡Feliz cumpleaños!
+
+1679
+01:30:17,502 --> 01:30:19,543
+En Las Vegas
+observando a Afganistán,
+
+1680
+01:30:19,576 --> 01:30:21,439
+por lo que trabajábamos
+hasta tarde.
+
+1681
+01:30:21,518 --> 01:30:24,474
+Se trata de un objeto borroso,
+que aparece en el área estratégica.
+
+1682
+01:30:25,131 --> 01:30:26,987
+Todos sabíamos que era un niño.
+
+1683
+01:30:28,798 --> 01:30:29,798
+Se ha ido.
+
+1684
+01:30:30,679 --> 01:30:32,949
+Pedimos una investigación y
+luego vino el informe:
+
+1685
+01:30:33,883 --> 01:30:34,883
+Era el perro.
+
+1686
+01:30:35,344 --> 01:30:36,935
+De acuerdo. Está bien.
+
+1687
+01:30:37,591 --> 01:30:39,567
+Turnos largos.
+
+1688
+01:30:39,626 --> 01:30:41,384
+El día y la noche. Lo recuerdo.
+
+1689
+01:30:42,164 --> 01:30:44,595
+En el mismo pueblo, dos
+o tres días más tarde,
+
+1690
+01:30:44,628 --> 01:30:48,096
+vimos el funeral. Sabíamos que
+estaban enterrando al niño.
+
+1691
+01:30:48,415 --> 01:30:51,060
+Mamá y papá llorando.
+
+1692
+01:30:51,121 --> 01:30:53,267
+Luego vino la orden,
+muy clara. ¡Atáquenlos!
+
+1693
+01:30:57,197 --> 01:30:59,932
+Y se fueron en una nube de polvo.
+
+1694
+01:31:04,042 --> 01:31:06,561
+Todos ellos. Toda la
+maldita familia.
+
+1695
+01:31:07,709 --> 01:31:09,428
+Pero lo más loco es que...
+
+1696
+01:31:10,181 --> 01:31:13,046
+llegas a casa del trabajo,
+das un beso a tu esposa,
+
+1697
+01:31:13,079 --> 01:31:15,329
+tus hijos, regresas a
+trabajar al día siguiente.
+
+1698
+01:31:15,495 --> 01:31:16,547
+Y muy pronto...
+
+1699
+01:31:17,476 --> 01:31:18,750
+todo se vuelve...
+
+1700
+01:31:19,745 --> 01:31:20,907
+una rutina.
+
+1701
+01:31:23,515 --> 01:31:24,529
+Mierda a eso.
+
+1702
+01:31:25,019 --> 01:31:26,723
+Lo haces sonar criminal, hombre.
+
+1703
+01:31:26,940 --> 01:31:28,865
+Es la guerra, es un trabajo.
+
+1704
+01:31:28,994 --> 01:31:30,490
+Bueno, no sé, hombre.
+
+1705
+01:31:31,159 --> 01:31:32,640
+¿Un trabajo no
+puede ser criminal?
+
+1706
+01:31:33,320 --> 01:31:34,697
+No si trabajas para el Gobierno.
+
+1707
+01:31:35,574 --> 01:31:38,287
+¿Alguna vez has oído hablar de
+los juicios de Núremberg, Trev?
+
+1708
+01:31:39,190 --> 01:31:41,572
+- No fue hace mucho.
+- Si.
+
+1709
+01:31:42,192 --> 01:31:44,086
+Colgamos a los
+líderes Nazis, ¿no?
+
+1710
+01:31:44,555 --> 01:31:47,160
+Si. Bueno, los líderes
+estaban en el primer juicio.
+
+1711
+01:31:47,193 --> 01:31:50,083
+Pero entonces, en el
+siguiente juicio, sólo había...
+
+1712
+01:31:50,396 --> 01:31:54,130
+los jueces, abogados,
+Policías y guardias...
+
+1713
+01:31:54,693 --> 01:31:57,415
+La gente común
+haciendo su trabajo.
+
+1714
+01:31:57,817 --> 01:31:59,137
+Quienes estaban
+siguiendo órdenes.
+
+1715
+01:32:00,070 --> 01:32:02,375
+Ahí es donde aprendimos
+los conceptos básicos...
+
+1716
+01:32:02,408 --> 01:32:04,361
+de los cuales, las
+Naciones Unidas hicieron...
+
+1717
+01:32:05,200 --> 01:32:07,627
+las leyes
+internacionales, en el caso...
+
+1718
+01:32:08,160 --> 01:32:09,464
+que los delincuentes comunes...
+
+1719
+01:32:09,488 --> 01:32:11,199
+se conviertan en
+criminales de nuevo.
+
+1720
+01:32:13,745 --> 01:32:15,720
+Sólo, digo.
+
+1721
+01:32:28,635 --> 01:32:30,757
+¿Ves? Te dije que no manejarás
+esa cosa.
+
+1722
+01:32:42,374 --> 01:32:44,412
+No puedo aguantar ya más, joder.
+
+1723
+01:33:01,318 --> 01:33:03,118
+- ¡Ay, Dios mío!
+- ¡Amigo! Amigo, ¿estás bien?
+
+1724
+01:33:03,253 --> 01:33:04,902
+¿Ed?
+
+1725
+01:33:04,935 --> 01:33:05,935
+¿Estás bien, hombre?
+
+1726
+01:33:06,447 --> 01:33:07,658
+Aléjense.
+¡No lo toquen!
+
+1727
+01:33:08,161 --> 01:33:09,651
+¡No lo toquen! ¡No lo toquen!
+
+1728
+01:33:38,775 --> 01:33:40,520
+<i>Oye Ed, ¿cómo estás?</i>
+
+1729
+01:33:41,931 --> 01:33:43,098
+<i>¿Cómo está tu salud?</i>
+
+1730
+01:33:43,503 --> 01:33:45,775
+Hola, Corbin. Es...
+
+1731
+01:33:47,854 --> 01:33:50,238
+Está bien. Gracias
+por preguntar.
+
+1732
+01:33:50,413 --> 01:33:52,946
+<i>Debe de ser agotador
+vivir con esa condición.</i>
+
+1733
+01:33:54,460 --> 01:33:56,810
+<i>¿Quién lo hubiera pensado?
+Mira tus números.</i>
+
+1734
+01:33:57,645 --> 01:34:00,875
+<i>200 IP chinas cerradas
+en los primeros 4 meses.</i>
+
+1735
+01:34:03,068 --> 01:34:05,913
+Esos son números internos.
+
+1736
+01:34:06,031 --> 01:34:09,954
+<i>Tu colega, Trevor,
+es de la CIA como tú,</i>
+
+1737
+01:34:10,022 --> 01:34:13,723
+<i>me mantiene informado
+de tu progreso.</i>
+
+1738
+01:34:14,789 --> 01:34:16,069
+<i>Es...</i>
+
+1739
+01:34:16,562 --> 01:34:19,432
+<i>un excelente trabajo.
+Heartbeat también.</i>
+
+1740
+01:34:20,005 --> 01:34:21,005
+Gracias.
+
+1741
+01:34:21,371 --> 01:34:24,303
+<i>- Gracias. Significa mucho.
+- Lowell está muy complacido.</i>
+
+1742
+01:34:24,336 --> 01:34:26,390
+<i>Envía sus saludos.</i>
+
+1743
+01:34:26,799 --> 01:34:27,994
+Es agradable escucharlo.
+
+1744
+01:34:29,151 --> 01:34:30,223
+<i>Tú...</i>
+
+1745
+01:34:34,167 --> 01:34:37,017
+<i>Él no sabe de tu conversación
+con el mapa de calor,</i>
+
+1746
+01:34:37,346 --> 01:34:40,489
+<i>o algunas ideas que
+has expresado a tus colegas.</i>
+
+1747
+01:34:41,248 --> 01:34:42,659
+<i>Y no lo sabrá.</i>
+
+1748
+01:34:43,459 --> 01:34:44,725
+Si...
+
+1749
+01:34:45,872 --> 01:34:49,601
+sabes, Heartbeat está demostrando
+ser un proyecto complicado,
+
+1750
+01:34:49,913 --> 01:34:52,139
+recopilando de
+diferentes Agencias,
+
+1751
+01:34:52,172 --> 01:34:53,891
+y saber dónde colocar los datos.
+
+1752
+01:34:54,446 --> 01:34:57,600
+Ha sido útil hablar
+con algunos colegas.
+
+1753
+01:34:59,122 --> 01:35:00,741
+<i>Creo en ti, Ed.</i>
+
+1754
+01:35:00,971 --> 01:35:03,461
+<i>Es por eso que
+no te pasó nada...</i>
+
+1755
+01:35:03,494 --> 01:35:05,266
+<i>después de la
+derogación en Ginebra.</i>
+
+1756
+01:35:06,372 --> 01:35:09,294
+Y estoy muy agradecido
+de que me cuidaras.
+
+1757
+01:35:09,327 --> 01:35:11,309
+<i>O después de que hayas...</i>
+
+1758
+01:35:12,554 --> 01:35:15,704
+<i>omitido la verdad en tu
+último polígrafo.</i>
+
+1759
+01:35:17,815 --> 01:35:20,406
+<i>¿Qué exactamente
+estabas escondiendo?</i>
+
+1760
+01:35:27,395 --> 01:35:31,475
+¿Recuerdas el día en clase que
+hablaste del Tribunal de FISA?
+
+1761
+01:35:33,043 --> 01:35:35,163
+Dijiste que habían aprobado...
+
+1762
+01:35:35,196 --> 01:35:37,054
+el programa de escuchas
+telefónicas de Bush.
+
+1763
+01:35:38,153 --> 01:35:41,287
+<i>A veces se nos prohíbe
+decir toda la verdad.</i>
+
+1764
+01:35:43,221 --> 01:35:45,419
+<i>Pero eso no nos da permiso
+de mentir.</i>
+
+1765
+01:35:45,754 --> 01:35:46,897
+Vamos, Corbin.
+
+1766
+01:35:47,692 --> 01:35:50,747
+El Director de la Inteligencia Nacional
+le acaba de mentir al Congreso.
+
+1767
+01:35:54,351 --> 01:35:55,351
+Disculpa.
+
+1768
+01:36:00,408 --> 01:36:01,651
+<i>Mírame.</i>
+
+1769
+01:36:07,520 --> 01:36:11,024
+<i>¿Has accesado a algún
+programa no autorizado...</i>
+
+1770
+01:36:11,633 --> 01:36:14,347
+<i>de lo que yo no sabía nada?</i>
+
+1771
+01:36:20,068 --> 01:36:21,068
+Si.
+
+1772
+01:36:22,851 --> 01:36:24,111
+Estaba...
+
+1773
+01:36:25,332 --> 01:36:28,163
+Estaba en Ginebra, fue por
+Lindsay, y yo estaba celoso.
+
+1774
+01:36:29,841 --> 01:36:32,403
+Y lo siento.
+Nunca más lo hice.
+
+1775
+01:36:46,360 --> 01:36:47,515
+<i>Mira, Ed.</i>
+
+1776
+01:36:51,164 --> 01:36:54,583
+<i>Sé que ha sido fluctuante
+entre tú y Lindsay desde Ginebra.</i>
+
+1777
+01:36:55,718 --> 01:36:58,660
+<i>Es difícil hacer que
+una relación funcione.</i>
+
+1778
+01:36:58,693 --> 01:37:00,131
+<i>Pocos de nosotros podemos.</i>
+
+1779
+01:37:02,056 --> 01:37:03,389
+<i>Así que si necesitas que...</i>
+
+1780
+01:37:03,423 --> 01:37:05,588
+<i>te dé un poco de paz mental,
+puedo asegurarte...</i>
+
+1781
+01:37:05,621 --> 01:37:09,028
+<i>que no se está acostando
+con ese amigo fotógrafo suyo.</i>
+
+1782
+01:37:10,341 --> 01:37:11,946
+<i>Si eso es lo que piensas.</i>
+
+1783
+01:37:16,140 --> 01:37:18,966
+<i>Voy a una conferencia en Sídney,</i>
+
+1784
+01:37:18,999 --> 01:37:22,015
+<i>me detengo en el
+camino de regreso en Hawái.</i>
+
+1785
+01:37:23,744 --> 01:37:24,744
+<i>¿De acuerdo?</i>
+
+1786
+01:37:26,578 --> 01:37:27,578
+De acuerdo.
+
+1787
+01:37:28,536 --> 01:37:29,536
+Gracias.
+
+1788
+01:37:31,773 --> 01:37:33,111
+<i>Nos vemos pronto.</i>
+
+1789
+01:37:49,264 --> 01:37:50,264
+Hola, papá.
+
+1790
+01:37:52,357 --> 01:37:54,917
+Sí, ¿has recibido el correo electrónico
+donde te envié las fotos?
+
+1791
+01:37:59,442 --> 01:38:01,435
+Tenía la esperanza de
+que pudieras borrarlas.
+
+1792
+01:38:11,134 --> 01:38:12,134
+¿Qué estás haciendo?
+
+1793
+01:38:34,412 --> 01:38:35,412
+Siéntate.
+
+1794
+01:38:42,735 --> 01:38:45,055
+Tu dirección de correo electrónico
+está siendo monitoreada.
+
+1795
+01:38:46,201 --> 01:38:47,201
+¿Entonces?
+
+1796
+01:38:48,156 --> 01:38:50,451
+Ahora es diferente.
+No recolecta datos pasivos,
+
+1797
+01:38:50,485 --> 01:38:51,706
+sino es vigilancia específica,
+
+1798
+01:38:51,764 --> 01:38:53,216
+a través de tus correos electrónicos,
+llamadas telefónicas,
+
+1799
+01:38:53,240 --> 01:38:55,398
+mensajes de texto,
+redes sociales, todo.
+
+1800
+01:38:55,564 --> 01:38:57,191
+Y hay la posibilidad...
+
+1801
+01:38:57,943 --> 01:38:59,975
+de que la casa tenga micrófonos.
+
+1802
+01:39:00,471 --> 01:39:01,507
+No estoy seguro.
+
+1803
+01:39:02,258 --> 01:39:03,258
+¿De quién?
+
+1804
+01:39:04,596 --> 01:39:07,274
+Un alto Oficial de la CIA.
+
+1805
+01:39:08,437 --> 01:39:11,382
+¿Estás en problemas?
+¿Son los chinos?
+
+1806
+01:39:12,867 --> 01:39:15,738
+Hay cosas que me
+gustaría poder decirte,
+
+1807
+01:39:16,504 --> 01:39:20,495
+pero no puedo, porque podrías
+terminar muy herida.
+
+1808
+01:39:21,080 --> 01:39:23,721
+Lo que te mantiene a salvo
+es el hecho de que no sepas nada.
+
+1809
+01:39:30,617 --> 01:39:33,744
+Lo siento. Realmente, no
+quería nada de esto para ti.
+
+1810
+01:39:35,902 --> 01:39:36,902
+Pero...
+
+1811
+01:39:37,451 --> 01:39:40,276
+Sé que pensarías que
+estaba haciendo lo correcto.
+
+1812
+01:39:45,049 --> 01:39:46,049
+Así que...
+
+1813
+01:39:46,449 --> 01:39:48,896
+sólo escúchame por un
+momento, ¿de acuerdo?
+
+1814
+01:39:48,929 --> 01:39:51,597
+Cuando volvamos a la casa,
+todo debe parecer normal.
+
+1815
+01:39:51,957 --> 01:39:53,840
+Vamos a actuar como si nada
+hubiera cambiado.
+
+1816
+01:39:54,266 --> 01:39:56,388
+Pero si notas algo que sea raro,
+
+1817
+01:39:56,421 --> 01:39:57,955
+tienes que decirme de inmediato.
+
+1818
+01:39:58,375 --> 01:39:59,884
+Y puedes usar una dirección
+de correo electrónico...
+
+1819
+01:39:59,908 --> 01:40:01,900
+que esta encriptada
+que prepararé para ti.
+
+1820
+01:40:02,259 --> 01:40:03,979
+¡Ay, Dios mío! No creo
+que pueda hacer esto.
+
+1821
+01:40:04,045 --> 01:40:05,960
+Sí, puedes. Yo sé que puedes.
+
+1822
+01:40:07,580 --> 01:40:09,055
+¿Tengo alguna opción?
+
+1823
+01:40:10,222 --> 01:40:11,575
+Pido que confíes en mí.
+
+1824
+01:40:20,484 --> 01:40:23,670
+Linds, creo que es mejor si
+regresas por un tiempo a Maryland.
+
+1825
+01:40:25,137 --> 01:40:26,646
+Di a tus padres que...
+
+1826
+01:40:27,577 --> 01:40:29,016
+estoy lejos en un
+viaje de negocios,
+
+1827
+01:40:29,040 --> 01:40:31,058
+y extrañabas el hogar.
+
+1828
+01:40:31,352 --> 01:40:32,507
+¿Te irás lejos?
+
+1829
+01:40:33,117 --> 01:40:34,117
+Si.
+
+1830
+01:40:34,365 --> 01:40:35,768
+Pero sólo por un tiempo.
+
+1831
+01:40:43,187 --> 01:40:48,148
+- No, no puedo.
+- Por favor, hasta que vuelva.
+
+1832
+01:40:48,181 --> 01:40:49,229
+No puedo irme.
+
+1833
+01:40:51,463 --> 01:40:52,745
+Recién acabas de decir...
+
+1834
+01:40:52,946 --> 01:40:55,861
+que tenemos que fingir
+como si nada cambio.
+
+1835
+01:40:56,070 --> 01:40:59,204
+Si partimos, al mismo tiempo,
+¿no parecerá sospechoso?
+
+1836
+01:41:10,214 --> 01:41:11,571
+Lo hare por ti.
+
+1837
+01:41:16,666 --> 01:41:18,405
+Pero es la última vez.
+
+1838
+01:41:41,275 --> 01:41:43,255
+<i>Nos veremos en el
+Centro Comercial,</i>
+
+1839
+01:41:43,373 --> 01:41:44,265
+<i>en frente del Hotel Mira,</i>
+
+1840
+01:41:44,299 --> 01:41:45,638
+<i>el lunes en dos semanas
+a partir de ahora.</i>
+
+1841
+01:41:45,662 --> 01:41:49,563
+<i>Sostendré un cubo Rubik.
+Más información más adelante.</i>
+
+1842
+01:41:54,701 --> 01:41:56,817
+- ¿Has oído acerca de Trevor, hermano?
+- No, ¿qué?
+
+1843
+01:41:57,171 --> 01:41:59,746
+¿Recuerdas la operación para
+tomar el Internet en Siria?
+
+1844
+01:42:00,034 --> 01:42:00,900
+Si.
+
+1845
+01:42:00,933 --> 01:42:03,472
+Trevor y su equipo fueron los
+primeros en colapsar el router.
+
+1846
+01:42:05,163 --> 01:42:06,885
+Todo el país esta a oscuras.
+
+1847
+01:42:06,920 --> 01:42:08,738
+¡Jesucristo!
+
+1848
+01:42:08,772 --> 01:42:10,739
+- ¡Dedúzcanlo!
+- Pobres bastardos.
+
+1849
+01:42:13,210 --> 01:42:16,236
+- Me voy. Tengo que trabajar.
+- Si. Yo también.
+
+1850
+01:42:17,077 --> 01:42:19,061
+Oh, ¡oye! ¿Cómo está...
+
+1851
+01:42:19,460 --> 01:42:20,874
+¿Cómo va Heartbeat?
+
+1852
+01:42:21,665 --> 01:42:22,665
+Estamos cerca.
+
+1853
+01:42:24,805 --> 01:42:25,805
+Muy cerca.
+
+1854
+01:42:28,857 --> 01:42:30,473
+No me digas que también
+estás involucrado en esto.
+
+1855
+01:42:30,497 --> 01:42:33,144
+Bueno, Trevor me arrastró
+a reconsiderar...
+
+1856
+01:42:33,177 --> 01:42:34,702
+su recolección de sus
+códigos de vulnerabilidad.
+
+1857
+01:42:34,726 --> 01:42:36,441
+Es un maldito lio, hombre.
+
+1858
+01:42:39,095 --> 01:42:40,632
+- ¿Por qué acepte esto?
+- Buena suerte.
+
+1859
+01:42:40,667 --> 01:42:41,667
+Sí.
+
+1860
+01:44:17,998 --> 01:44:19,059
+Muy bien.
+
+1861
+01:45:08,098 --> 01:45:09,702
+Hemos sido el chivo expiatorio.
+
+1862
+01:45:09,766 --> 01:45:11,538
+Si. ¿Estamos preparados?
+
+1863
+01:45:12,915 --> 01:45:14,127
+¿Problemas con la Marina?
+
+1864
+01:45:14,872 --> 01:45:17,557
+Uno de los idiotas robó
+un código de mierda israelí...
+
+1865
+01:45:17,597 --> 01:45:18,520
+y lo ha puesto en
+nuestras comunicaciones.
+
+1866
+01:45:18,554 --> 01:45:19,594
+¡Puedes creer eso, joder!
+
+1867
+01:45:19,621 --> 01:45:20,901
+Secuencia de
+comandos para niños.
+
+1868
+01:45:21,035 --> 01:45:23,155
+Lo sé. Lo sé. Debería haberte
+escuchado. ¡Maldita sea!
+
+1869
+01:45:23,589 --> 01:45:24,888
+- ¿Es esto?
+- Sí, es ese.
+
+1870
+01:45:25,283 --> 01:45:27,483
+Haré que los malditos israelíes
+tengan la culpa de esto.
+
+1871
+01:45:32,666 --> 01:45:34,506
+- ¿Ya está?
+- No voy a cargar la culpa de esto.
+
+1872
+01:45:44,200 --> 01:45:45,200
+Patrick.
+
+1873
+01:45:50,867 --> 01:45:53,544
+<i>Quizás no te vea de nuevo.</i>
+
+1874
+01:45:55,783 --> 01:45:58,910
+<i>¿Me dejarás aquí...</i>
+
+1875
+01:45:59,028 --> 01:46:01,458
+<i>con el Capitán América?</i>
+
+1876
+01:46:01,828 --> 01:46:03,271
+<i>Muchas gracias.</i>
+
+1877
+01:46:03,389 --> 01:46:04,389
+Sí, pero...
+
+1878
+01:46:05,159 --> 01:46:09,661
+<i>La NSA podría venir tras de ti.</i>
+
+1879
+01:46:11,075 --> 01:46:13,946
+<i>No sé de lo que estás hablando.</i>
+
+1880
+01:46:48,199 --> 01:46:50,175
+¿Te irás a casa ya?
+
+1881
+01:46:50,410 --> 01:46:51,410
+Si.
+
+1882
+01:46:51,554 --> 01:46:52,802
+No me siento muy bien.
+
+1883
+01:46:53,757 --> 01:46:55,511
+Tal vez no venga mañana tampoco.
+
+1884
+01:46:56,561 --> 01:46:59,545
+Trevor esta algo ocupado.
+¿Le puedes avisar por mí?
+
+1885
+01:46:59,578 --> 01:47:01,430
+Si. Si. Será un placer, hombre.
+
+1886
+01:47:03,591 --> 01:47:06,987
+Sabes, si realmente no te
+sientes bien, tal vez deberías...
+
+1887
+01:47:08,052 --> 01:47:09,908
+de regresar a los EE.UU.
+Para ver a tu doctora.
+
+1888
+01:47:09,932 --> 01:47:13,245
+Creo que la gente lo entendería.
+
+1889
+01:47:15,698 --> 01:47:17,129
+Parece un buen consejo.
+
+1890
+01:47:24,491 --> 01:47:25,589
+Cuídate.
+
+1891
+01:47:26,899 --> 01:47:27,949
+Tú también, hermano.
+
+1892
+01:47:49,022 --> 01:47:50,335
+- Hola.
+- Hola.
+
+1893
+01:47:51,360 --> 01:47:52,880
+¿Alguna vez has
+intentado uno de estos?
+
+1894
+01:47:54,463 --> 01:47:56,305
+- Si, cuando era niño.
+- Si.
+
+1895
+01:47:56,782 --> 01:47:58,185
+Deberías intentarlo. Es difícil.
+
+1896
+01:48:19,705 --> 01:48:21,023
+No puedo resolver esta cosa.
+
+1897
+01:48:27,328 --> 01:48:28,513
+No sé sobre esto.
+
+1898
+01:48:28,705 --> 01:48:31,575
+Debes comenzar con la
+cruz blanca de hecho...
+
+1899
+01:48:31,608 --> 01:48:33,048
+y luego seguirte
+con las esquinas.
+
+1900
+01:48:33,400 --> 01:48:34,429
+¡Ay, hombre!
+
+1901
+01:48:34,814 --> 01:48:36,557
+- Me encanta esta cosa.
+- Si.
+
+1902
+01:48:37,451 --> 01:48:38,691
+Ten buen fin de semana, hombre.
+
+1903
+01:48:39,145 --> 01:48:40,629
+- Tú también, amigo.
+- Está bien.
+
+1904
+01:49:36,123 --> 01:49:37,156
+Es en vivo.
+
+1905
+01:49:37,242 --> 01:49:42,112
+<i>MIÉRCOLES, 5 DE
+JUNIO DEL 2013</i>
+
+1906
+01:49:42,230 --> 01:49:44,504
+Hay un enlace a la orden
+del Tribunal de FISA.
+
+1907
+01:49:51,966 --> 01:49:53,358
+Buen trabajo, Janine.
+
+1908
+01:49:54,313 --> 01:49:55,869
+Te dije que no debías
+de presionarla.
+
+1909
+01:49:55,947 --> 01:49:58,650
+Si. Te hace sentir muy bien
+el que estuviera equivocado.
+
+1910
+01:50:01,690 --> 01:50:03,441
+<i>Revelación:
+La NSA recolecta...</i>
+
+1911
+01:50:03,559 --> 01:50:06,570
+<i>información telefónica de millones
+de estadounidenses diariamente</i>
+
+1912
+01:50:06,688 --> 01:50:07,701
+<i>Últimas noticias esta noche...</i>
+
+1913
+01:50:07,725 --> 01:50:10,325
+<i>una orden de un Tribunal secreto
+en la administración de Obama,</i>
+
+1914
+01:50:10,395 --> 01:50:13,641
+<i>recolecta las escuchas telefónicas
+de millones de usuarios de Verizon.</i>
+
+1915
+01:50:13,674 --> 01:50:16,034
+<i>Según lo informado por
+The Guardian, el periódico británico,</i>
+
+1916
+01:50:16,087 --> 01:50:18,334
+<i>la orden del Tribunal secreto
+muestra toda la información...</i>
+
+1917
+01:50:18,357 --> 01:50:20,437
+<i>concerniente a la
+Agencia de Seguridad Nacional...</i>
+
+1918
+01:50:22,122 --> 01:50:24,485
+¿Qué tal eso para prensa
+de primer nivel, Glenn?
+
+1919
+01:50:24,518 --> 01:50:25,848
+Ahora no nos pueden detener,
+
+1920
+01:50:25,881 --> 01:50:27,245
+tenemos cuatro días
+más de revelaciones.
+
+1921
+01:50:27,269 --> 01:50:29,028
+No tengo idea de que
+más almacenen.
+
+1922
+01:50:29,481 --> 01:50:31,008
+Es fantástico.
+
+1923
+01:50:33,552 --> 01:50:35,913
+<i>Otra bomba apareció
+esta vez en el Washington Post.</i>
+
+1924
+01:50:35,960 --> 01:50:37,612
+<i>JUEVES, 6 DE JUNIO DEL 2013</i>
+
+1925
+01:50:37,645 --> 01:50:40,145
+<i>Las últimas noticias
+revelan otro...</i>
+
+1926
+01:50:40,303 --> 01:50:43,387
+<i>gran programa de
+vigilancia secreta del Gobierno.</i>
+
+1927
+01:50:43,435 --> 01:50:46,730
+<i>The Washington Post
+y The Guardian en Londres reportan...</i>
+
+1928
+01:50:46,758 --> 01:50:49,235
+<i>que el FBI y la NSA espían...</i>
+
+1929
+01:50:49,245 --> 01:50:51,727
+<i>directamente a los
+servidores centrales,</i>
+
+1930
+01:50:51,760 --> 01:50:54,068
+<i>a 9 empresas lideres
+en Internet,</i>
+
+1931
+01:50:54,158 --> 01:50:57,415
+<i>incluidas Microsoft,
+Yahoo, Google, Facebook, AOL,</i>
+
+1932
+01:50:57,470 --> 01:50:59,946
+<i>Skype, YouTube y Apple.</i>
+
+1933
+01:50:59,979 --> 01:51:02,548
+<i>El posteo dice que extraen
+escuchas de audio, video,</i>
+
+1934
+01:51:02,784 --> 01:51:04,981
+<i>fotos, correos
+electrónicos, documentos,</i>
+
+1935
+01:51:05,014 --> 01:51:06,807
+<i>y registros capaz de
+vincular y realizar un...</i>
+
+1936
+01:51:06,831 --> 01:51:08,783
+<i>seguimiento de los
+movimientos de una persona...</i>
+
+1937
+01:51:08,807 --> 01:51:10,634
+<i>y sus contactos con el tiempo.</i>
+
+1938
+01:51:10,752 --> 01:51:13,731
+<i>VIERNES, 7 DE
+JUNIO DEL 2013</i>
+
+1939
+01:51:13,849 --> 01:51:17,420
+<i>Irónicamente, uno puede
+quejarse del Gran Hermano...</i>
+
+1940
+01:51:17,805 --> 01:51:21,472
+<i>y cómo esto es un potencial
+programa que se salió de control.</i>
+
+1941
+01:51:22,015 --> 01:51:23,655
+<i>Pero al mirar a los detalles,</i>
+
+1942
+01:51:24,223 --> 01:51:26,329
+<i>creo que hemos encontrado
+un buen equilibrio.</i>
+
+1943
+01:51:26,502 --> 01:51:28,275
+<i>El Presidente estadounidense,
+Barack Obama...</i>
+
+1944
+01:51:28,452 --> 01:51:30,110
+<i>firmemente defendió
+los programas de...</i>
+
+1945
+01:51:30,144 --> 01:51:31,694
+<i>vigilancia de Estados Unidos,</i>
+
+1946
+01:51:31,727 --> 01:51:35,237
+<i>e insiste en que eran llevados
+bajo extrema seguridad...</i>
+
+1947
+01:51:35,265 --> 01:51:37,817
+<i>para proteger a los
+ciudadanos de los abusos.</i>
+
+1948
+01:51:38,153 --> 01:51:39,483
+<i>SÁBADO, 8 DE JUNIO DEL 2013</i>
+
+1949
+01:51:39,516 --> 01:51:41,052
+<i>Ha llegado a la conclusión...</i>
+
+1950
+01:51:41,085 --> 01:51:42,101
+<i>que esto que
+estaba ocurriendo...</i>
+
+1951
+01:51:42,125 --> 01:51:44,498
+<i>dentro de esta Agencia
+muy secreta...</i>
+
+1952
+01:51:44,572 --> 01:51:47,818
+<i>era muy perjudicial para
+el derecho a la privacidad,</i>
+
+1953
+01:51:47,851 --> 01:51:50,848
+<i>para la libertad de Internet,
+y la libertad política básica.</i>
+
+1954
+01:51:50,881 --> 01:51:53,730
+<i>No sólo en los EE.UU.,
+sino en todo el mundo.</i>
+
+1955
+01:51:53,805 --> 01:51:56,065
+<i>Y sintió que era su deber,</i>
+
+1956
+01:51:56,098 --> 01:51:57,923
+<i>como ser humano, el revelarlo.</i>
+
+1957
+01:52:08,688 --> 01:52:10,425
+<i>DOMINGO, 9 DE JUNIO DEL 2013
+- Mi nombre es Ed Snowden.</i>
+
+1958
+01:52:10,449 --> 01:52:13,760
+<i>DOMINGO, 9 DE JUNIO DEL 2013
+- Tengo 29 años de edad.
+Trabajo para Booz Allen Hamilton,</i>
+
+1959
+01:52:13,784 --> 01:52:17,157
+como analista de infraestructura
+para la NSA en Hawái.
+
+1960
+01:52:20,624 --> 01:52:22,359
+<i>Edward Snowden ha...</i>
+
+1961
+01:52:27,695 --> 01:52:28,725
+<i>La identidad
+del hombre que ha...</i>
+
+1962
+01:52:28,749 --> 01:52:29,983
+<i>sacudido a la
+administración de Obama...</i>
+
+1963
+01:52:30,007 --> 01:52:31,818
+<i>No se puede delatar...</i>
+
+1964
+01:52:32,161 --> 01:52:34,573
+<i>a las Agencias de Inteligencia más
+poderosas del mundo...</i>
+
+1965
+01:52:34,606 --> 01:52:36,836
+<i>sin esperar correr algún riesgo.</i>
+
+1966
+01:52:36,969 --> 01:52:39,231
+<i>Ellos son poderosos oponentes,</i>
+
+1967
+01:52:39,264 --> 01:52:41,880
+<i>para que nadie pueda
+realmente oponerse.</i>
+
+1968
+01:52:41,913 --> 01:52:42,888
+Tú hiciste esto.
+
+1969
+01:52:42,921 --> 01:52:45,642
+<i>Si no te atrapan, te
+atraparán con el tiempo.</i>
+
+1970
+01:52:45,947 --> 01:52:47,152
+El chico lo hizo.
+
+1971
+01:52:47,666 --> 01:52:51,542
+<i>La próxima generación tenga la
+capacidad de resistencia...</i>
+
+1972
+01:52:51,575 --> 01:52:53,743
+<i>a esta arquitectura
+de la opresión.</i>
+
+1973
+01:52:54,167 --> 01:52:56,344
+<i>Entonces te das
+cuenta de que estás...</i>
+
+1974
+01:52:56,378 --> 01:52:58,521
+<i>listo para aceptar
+cualquier riesgo,</i>
+
+1975
+01:52:58,644 --> 01:53:02,474
+<i>para que la gente sea capaz
+de hacer su propia elección...</i>
+
+1976
+01:53:02,507 --> 01:53:03,955
+<i>de la forma en que debe hacerse.</i>
+
+1977
+01:53:04,190 --> 01:53:08,462
+<i>Porque, incluso si no has
+hecho nada malo, te marcan.</i>
+
+1978
+01:53:10,255 --> 01:53:13,723
+<i>Tenía acceso a toda la
+comunidad de inteligencia.</i>
+
+1979
+01:53:13,728 --> 01:53:16,855
+<i>Así que, si quería hacer
+daño a los Estados Unidos,</i>
+
+1980
+01:53:16,903 --> 01:53:18,574
+<i>podría bloquear...</i>
+
+1981
+01:53:18,723 --> 01:53:21,054
+<i>todo el sistema
+de vigilancia en una tarde.</i>
+
+1982
+01:53:21,155 --> 01:53:24,044
+<i>Pero, esa nunca fue
+mi intención.</i>
+
+1983
+01:53:24,637 --> 01:53:28,609
+<i>Y, creo que cualquiera con
+un argumento así, debería pensar...</i>
+
+1984
+01:53:29,646 --> 01:53:31,611
+<i>Si estuvieran en mi lugar,</i>
+
+1985
+01:53:32,158 --> 01:53:34,297
+<i>viviendo en
+Hawái, en el paraíso,</i>
+
+1986
+01:53:34,330 --> 01:53:35,622
+<i>ganando un montón de dinero,</i>
+
+1987
+01:53:35,945 --> 01:53:40,640
+<i>¿qué se requeriría para
+que dejen todo atrás?</i>
+
+1988
+01:53:41,796 --> 01:53:45,008
+<i>El temor que más se impone,</i>
+
+1989
+01:53:45,360 --> 01:53:47,159
+<i>son las consecuencias
+que habrá...</i>
+
+1990
+01:53:47,193 --> 01:53:48,958
+<i>en EE.UU., con
+estas revelaciones,</i>
+
+1991
+01:53:49,228 --> 01:53:51,872
+<i>y de que nada vaya a cambiar,</i>
+
+1992
+01:53:52,005 --> 01:53:55,179
+<i>y si son meses, luego
+son años y se pone peor.</i>
+
+1993
+01:53:55,591 --> 01:53:57,686
+<i>Y entonces, eventualmente,
+en algún momento,</i>
+
+1994
+01:53:58,326 --> 01:54:02,162
+<i>un nuevo líder será elegido,</i>
+
+1995
+01:54:02,402 --> 01:54:03,480
+<i>que...</i>
+
+1996
+01:54:04,484 --> 01:54:06,004
+<i>pulsara el botón.</i>
+
+1997
+01:54:06,403 --> 01:54:07,590
+<i>Y...</i>
+
+1998
+01:54:08,314 --> 01:54:13,324
+<i>En ese momento, la gente no
+podrá hacer nada para oponerse.</i>
+
+1999
+01:54:14,091 --> 01:54:16,323
+<i>Así que volveríamos a
+una tiranía.</i>
+
+2000
+01:54:18,311 --> 01:54:19,506
+¿Cómo estás ahora?
+
+2001
+01:54:20,244 --> 01:54:22,515
+Si... Estaré bien.
+
+2002
+01:54:23,329 --> 01:54:25,775
+Tienen que empezar
+a cuidar de Uds. ahora.
+
+2003
+01:54:27,585 --> 01:54:31,717
+Si tienen un motivo razonable
+para creer que van a ser...
+
+2004
+01:54:31,743 --> 01:54:34,262
+acorralados o interceptados o
+espiados...
+
+2005
+01:54:34,295 --> 01:54:35,495
+en cualquier caso como sea,
+
+2006
+01:54:35,586 --> 01:54:38,954
+formatean y destruyen
+inmediatamente todos los datos.
+
+2007
+01:54:39,362 --> 01:54:42,620
+Tienen los respaldos encriptados.
+
+2008
+01:54:43,214 --> 01:54:45,327
+Y ahora no tengo...
+
+2009
+01:54:47,600 --> 01:54:50,532
+Yo ya no tengo acceso a
+ninguno de estos archivos.
+
+2010
+01:54:50,567 --> 01:54:51,828
+Los tienen todos ustedes.
+
+2011
+01:54:55,853 --> 01:54:58,173
+Sigan centrándose en las historias,
+es todo lo que importa.
+
+2012
+01:55:00,642 --> 01:55:01,673
+Y si me disculpan...
+
+2013
+01:55:04,825 --> 01:55:07,097
+Será mejor que todos durmamos
+un poco, nos vendría bien.
+
+2014
+01:55:07,483 --> 01:55:08,230
+Si.
+
+2015
+01:55:08,267 --> 01:55:10,427
+Probablemente me tumbaré
+en una cama blanda,
+
+2016
+01:55:10,657 --> 01:55:12,662
+mientras tenga una
+disponible, ¿verdad?
+
+2017
+01:55:14,366 --> 01:55:16,043
+- Descansa bien.
+- Gracias.
+
+2018
+01:55:18,322 --> 01:55:19,730
+- Hasta mañana.
+- Buenas noches.
+
+2019
+01:55:50,130 --> 01:55:52,177
+¿Puedes al menos
+decirme adónde vas?
+
+2020
+01:56:17,277 --> 01:56:18,704
+Mira, sé que...
+
+2021
+01:56:29,254 --> 01:56:32,381
+<i>LUNES, 10 DE JUNIO DEL 2013</i>
+
+2022
+01:56:37,131 --> 01:56:38,748
+Ewen, estoy en el Segundo Piso.
+
+2023
+01:56:40,318 --> 01:56:41,506
+No veo a Tibbo.
+
+2024
+01:56:43,935 --> 01:56:45,764
+No espera, creo que ya lo veo.
+
+2025
+01:56:47,490 --> 01:56:48,490
+¡Mierda!
+
+2026
+01:56:48,920 --> 01:56:50,774
+Hay prensa por todo el Hotel.
+
+2027
+01:56:51,505 --> 01:56:53,500
+Sí, no sé, me las arreglaré.
+Voy a detenerme para...
+
+2028
+01:56:53,524 --> 01:56:55,084
+dar una conferencia
+de prensa o algo.
+
+2029
+01:56:55,111 --> 01:56:56,941
+- Gracias.
+- Soy Glenn.
+
+2030
+01:56:57,981 --> 01:57:00,317
+Miren, realmente apreciamos esto.
+Entendemos que son...
+
+2031
+01:57:00,351 --> 01:57:01,490
+de los mejores
+abogados en Hong Kong.
+
+2032
+01:57:01,514 --> 01:57:03,649
+- Hacemos lo mejor posible.
+- Lo llevaremos a la ONU primero...
+
+2033
+01:57:03,673 --> 01:57:05,513
+y luego, bueno, prefiero
+mejor no revelarlo.
+
+2034
+01:57:05,697 --> 01:57:06,697
+Lo entiendo.
+
+2035
+01:57:06,726 --> 01:57:07,758
+Mierda, me han visto.
+
+2036
+01:57:08,198 --> 01:57:09,315
+Uds. pónganse en marcha.
+
+2037
+01:57:13,244 --> 01:57:16,437
+Contestaré a sus preguntas en
+forma ordenada, por favor.
+
+2038
+01:57:17,151 --> 01:57:19,676
+- ¿Lo lograste?
+- Sí, es lo mejor que puedo hacer.
+
+2039
+01:57:19,925 --> 01:57:22,487
+Te verás con Tibbo en 5 minutos.
+
+2040
+01:57:22,834 --> 01:57:25,473
+En el pasillo frente
+al gran Centro Comercial.
+
+2041
+01:57:28,898 --> 01:57:31,507
+Conocí a muchas personas
+asombrosas en mi vida,
+
+2042
+01:57:32,401 --> 01:57:33,436
+pero tú...
+
+2043
+01:57:35,463 --> 01:57:36,743
+Está bien chico,
+tienes que irte.
+
+2044
+01:57:38,625 --> 01:57:39,851
+No te decepcionaremos.
+
+2045
+01:57:40,050 --> 01:57:41,050
+¿Si?
+
+2046
+01:57:42,248 --> 01:57:44,555
+Te ves como un periodista
+de mierda sin una cámara.
+
+2047
+01:57:45,652 --> 01:57:46,973
+- ¿Segura?
+- Si.
+
+2048
+01:57:47,810 --> 01:57:49,177
+De acuerdo. Es...
+
+2049
+01:57:49,818 --> 01:57:50,868
+una gran idea.
+
+2050
+01:57:52,744 --> 01:57:54,028
+Gracias.
+
+2051
+01:57:56,250 --> 01:57:58,090
+No querrás dejar tu
+amuleto de la suerte atrás.
+
+2052
+01:58:00,067 --> 01:58:01,500
+Me gustaría que tú lo tuvieras.
+
+2053
+01:58:04,071 --> 01:58:06,279
+Gracias. Por todo.
+
+2054
+01:58:06,931 --> 01:58:07,931
+Gracias a ti.
+
+2055
+01:58:31,659 --> 01:58:32,939
+Tengo una camioneta en la calle.
+
+2056
+01:58:37,894 --> 01:58:39,829
+<i>El informante de la NSA,
+Edward Snowden...</i>
+
+2057
+01:58:39,844 --> 01:58:41,940
+<i>fue acusado formalmente...</i>
+
+2058
+01:58:42,114 --> 01:58:46,318
+<i>de espionaje, robo y apropiación
+indebida de bienes del Gobierno.</i>
+
+2059
+01:58:46,393 --> 01:58:48,328
+<i>Las autoridades estadounidenses
+pidieron a Hong Kong...</i>
+
+2060
+01:58:48,352 --> 01:58:49,911
+<i>detener al ex-contratista...</i>
+
+2061
+01:58:49,944 --> 01:58:51,544
+<i>bajo una orden de
+arresto provisional.</i>
+
+2062
+01:58:51,646 --> 01:58:54,086
+<i>Snowden ha estado en
+Hong Kong desde mayo.</i>
+
+2063
+01:58:57,977 --> 01:59:00,408
+<i>Snowden ha dejado el
+Hotel de lujo en Hong Kong.</i>
+
+2064
+01:59:00,442 --> 01:59:01,702
+<i>Donde había estado refugiado...</i>
+
+2065
+01:59:04,662 --> 01:59:06,086
+Será mejor que desvíes la mirada.
+
+2066
+01:59:06,519 --> 01:59:08,471
+<i>El Ministro de
+Justicia se lo pasó...</i>
+
+2067
+01:59:08,505 --> 01:59:10,423
+<i>a la Interpol,
+por lo que sí Snowden,</i>
+
+2068
+01:59:10,456 --> 01:59:14,848
+<i>tratara de cruzar la frontera,
+sería interceptado y detenido.</i>
+
+2069
+01:59:15,370 --> 01:59:17,655
+<i>Los estadounidenses
+lo están cercando.</i>
+
+2070
+01:59:17,689 --> 01:59:19,939
+<i>Ellos saben
+ciertamente dónde está.</i>
+
+2071
+01:59:20,021 --> 01:59:22,716
+<i>Sólo necesitan la aprobación
+de Hong Kong para aprenderlo.</i>
+
+2072
+01:59:22,751 --> 01:59:24,394
+<i>El Gobierno de Hong Kong
+si tiene un...</i>
+
+2073
+01:59:24,429 --> 01:59:26,037
+<i>acuerdo de extradición
+con Washington.</i>
+
+2074
+01:59:26,337 --> 01:59:27,971
+<i>Pero en última instancia,
+la decisión es...</i>
+
+2075
+01:59:27,995 --> 01:59:31,102
+<i>La gran pregunta aquí, es:
+¿Dónde está ahora?</i>
+
+2076
+01:59:33,990 --> 01:59:35,888
+Gracias. Este es Ed.
+
+2077
+01:59:36,120 --> 01:59:37,195
+Ed, Mayana.
+
+2078
+01:59:37,592 --> 01:59:38,642
+- Bienvenido.
+- Gracias.
+
+2079
+01:59:40,149 --> 01:59:41,208
+Gracias.
+
+2080
+01:59:41,595 --> 01:59:43,420
+Son buenas personas.
+No van a hablar.
+
+2081
+01:59:44,339 --> 01:59:46,845
+He tenido sus casos
+durante años. Son como tú.
+
+2082
+01:59:48,624 --> 01:59:49,763
+No tienen una patria.
+
+2083
+01:59:49,962 --> 01:59:50,744
+Sí.
+
+2084
+01:59:50,909 --> 01:59:54,230
+Espera obtener la condición de
+refugiado por las Naciones Unidas.
+
+2085
+01:59:54,529 --> 01:59:55,529
+Sí.
+
+2086
+01:59:55,795 --> 01:59:58,473
+En el caso de que seas arrestado,
+aquí es adonde puedes llamarme.
+
+2087
+01:59:58,507 --> 01:59:59,507
+Sí.
+
+2088
+02:00:01,860 --> 02:00:02,860
+Bueno.
+
+2089
+02:00:03,663 --> 02:00:04,784
+Muchas gracias.
+
+2090
+02:00:08,932 --> 02:00:10,944
+Tal vez no lo sientas, Ed,
+
+2091
+02:00:12,741 --> 02:00:13,896
+pero no estás solo.
+
+2092
+02:00:14,544 --> 02:00:15,544
+Gracias.
+
+2093
+02:00:18,101 --> 02:00:20,589
+<i>Su novia de largo tiempo,
+Lindsay Mills,</i>
+
+2094
+02:00:20,622 --> 02:00:21,991
+<i>una fotógrafa aficionada,</i>
+
+2095
+02:00:21,992 --> 02:00:25,332
+<i>no se sabe dónde está.
+Se cree que está recluida...</i>
+
+2096
+02:00:25,365 --> 02:00:27,018
+<i>en la casa de sus
+padres en Maryland.</i>
+
+2097
+02:00:27,184 --> 02:00:28,439
+<i>Y ha sido interrogada por...</i>
+
+2098
+02:00:28,538 --> 02:00:30,715
+<i>el FBI y sigue
+bajo investigación.</i>
+
+2099
+02:00:32,399 --> 02:00:34,519
+<i>Han pasado 10 días desde...</i>
+
+2100
+02:00:34,552 --> 02:00:36,550
+<i>que el mundo vio
+a Edward Snowden.</i>
+
+2101
+02:00:36,583 --> 02:00:38,605
+<i>Corre el rumor de que
+un simpatizante rico...</i>
+
+2102
+02:00:38,693 --> 02:00:40,084
+<i>ocultó a Snowden...</i>
+
+2103
+02:00:40,117 --> 02:00:41,702
+<i>en algún lugar de
+las colinas de Hong Kong,</i>
+
+2104
+02:00:41,726 --> 02:00:43,549
+<i>en una mansión privada.</i>
+
+2105
+02:01:15,310 --> 02:01:17,776
+<i>Se confirmó que
+Edward Snowden...</i>
+
+2106
+02:01:17,809 --> 02:01:20,326
+<i>abordó el vuelo de
+Hong Kong a Moscú.</i>
+
+2107
+02:01:20,359 --> 02:01:22,494
+<i>El Ministerio de Asuntos Exteriores
+está muy decepcionado...</i>
+
+2108
+02:01:22,518 --> 02:01:24,157
+<i>con las
+autoridades de Hong Kong,</i>
+
+2109
+02:01:24,191 --> 02:01:25,538
+<i>por haber dejado ir a Snowden.</i>
+
+2110
+02:01:25,571 --> 02:01:27,940
+<i>Estaba acompañado por una
+representante de WikiLeaks.</i>
+
+2111
+02:01:28,000 --> 02:01:29,472
+<i>Snowden está
+tratando de pasar...</i>
+
+2112
+02:01:29,499 --> 02:01:32,643
+<i>de Rusia a Cuba
+y luego a Ecuador.</i>
+
+2113
+02:01:32,677 --> 02:01:33,797
+<i>Buscando asilo político.</i>
+
+2114
+02:01:33,830 --> 02:01:35,772
+<i>Los Oficiales del
+aeropuerto de Moscú dicen...</i>
+
+2115
+02:01:35,806 --> 02:01:37,406
+<i>que no le permitirán
+cambiar de avión,</i>
+
+2116
+02:01:37,435 --> 02:01:38,699
+<i>porque el Gobierno
+de Estados Unidos,</i>
+
+2117
+02:01:38,723 --> 02:01:40,054
+<i>ha revocado su pasaporte.</i>
+
+2118
+02:01:40,064 --> 02:01:43,532
+<i>El Secretario de Estado,
+John Kerry, está indignado...</i>
+
+2119
+02:01:43,565 --> 02:01:45,526
+<i>de que Rusia,
+se niega a arrestar...</i>
+
+2120
+02:01:45,560 --> 02:01:46,939
+<i>al fugitivo estadounidense.</i>
+
+2121
+02:01:46,972 --> 02:01:48,405
+<i>Ahora el hombre sin un país,</i>
+
+2122
+02:01:48,439 --> 02:01:50,688
+<i>se ha quedado varado en
+el aeropuerto de Moscú.</i>
+
+2123
+02:01:50,937 --> 02:01:53,020
+<i>No enviaremos jets...</i>
+
+2124
+02:01:53,832 --> 02:01:58,521
+<i>para arrestar
+a un hacker de 29 años.</i>
+
+2125
+02:01:59,729 --> 02:02:01,605
+<i>El avión del
+Presidente boliviano...</i>
+
+2126
+02:02:01,649 --> 02:02:04,088
+<i>fue forzado a aterrizar
+en el espacio de Austria hoy,</i>
+
+2127
+02:02:04,355 --> 02:02:07,835
+<i>por la sospecha de EE.UU. de que
+Snowden podría estar a bordo.</i>
+
+2128
+02:02:08,056 --> 02:02:10,798
+<i>HOTEL CAPSULE
+- Después de 39 días en
+el Hotel del aeropuerto,</i>
+
+2129
+02:02:10,938 --> 02:02:12,530
+<i>se fue con su abogado ruso...</i>
+
+2130
+02:02:12,563 --> 02:02:15,139
+<i>y una asesora legal de
+WikiLeaks, Sarah Harrison.</i>
+
+2131
+02:02:16,274 --> 02:02:18,889
+<i>Ahora puede disfrutar
+de su dulce libertad...</i>
+
+2132
+02:02:18,937 --> 02:02:21,562
+<i>otorgada por el régimen
+del Presidente Vladimir Putin.</i>
+
+2133
+02:02:22,294 --> 02:02:24,936
+<i>Todavía ocurren las ejecuciones.</i>
+
+2134
+02:02:24,969 --> 02:02:26,377
+<i>El Sr. Snowden
+realmente merecía...</i>
+
+2135
+02:02:26,411 --> 02:02:28,411
+<i>asilo y ser protegido
+en alguna parte del globo,</i>
+
+2136
+02:02:28,667 --> 02:02:31,200
+<i>pero al menos
+consiguió asilo en Rusia.</i>
+
+2137
+02:02:31,320 --> 02:02:33,360
+<i>Él podrá participar en
+el debate que ha comenzado.</i>
+
+2138
+02:02:34,041 --> 02:02:35,514
+<i>Y ahora el mundo
+tiene un ejemplo...</i>
+
+2139
+02:02:35,548 --> 02:02:37,060
+<i>de que se puede
+hacer lo correcto...</i>
+
+2140
+02:02:37,084 --> 02:02:38,647
+<i>y no vas a
+terminar en una jaula,</i>
+
+2141
+02:02:38,673 --> 02:02:40,568
+<i>ni vagando en una prisión.</i>
+
+2142
+02:02:42,543 --> 02:02:46,054
+<i>Después de más de un año
+de asilo temporal en el país,</i>
+
+2143
+02:02:46,087 --> 02:02:47,725
+<i>Edward Snowden ha recibido...</i>
+
+2144
+02:02:47,759 --> 02:02:50,342
+<i>un permiso de residencia
+de tres años en Rusia.</i>
+
+2145
+02:02:58,685 --> 02:03:01,338
+<i>Y ahora, en vivo desde Moscú,</i>
+
+2146
+02:03:01,918 --> 02:03:03,400
+Edward Snowden.
+
+2147
+02:03:04,961 --> 02:03:06,559
+Hola, Ed. ¿Cómo estás?
+
+2148
+02:03:12,270 --> 02:03:13,270
+<i>Gracias.</i>
+
+2149
+02:03:14,237 --> 02:03:16,892
+<i>Perdónenme, si todavía tengo
+que acostumbrarme a esto.</i>
+
+2150
+02:03:16,916 --> 02:03:19,201
+<i>La gente siempre ha dicho
+que era una especie de robot.</i>
+
+2151
+02:03:20,766 --> 02:03:23,197
+¿Cómo es que acabaste en Rusia?
+
+2152
+02:03:23,842 --> 02:03:26,145
+Bueno, no tenía la intención
+de venir aquí. ¿Sabes?
+
+2153
+02:03:26,178 --> 02:03:28,115
+Mi pasaporte había
+sido revocado...
+
+2154
+02:03:28,148 --> 02:03:30,350
+en camino a América Latina,
+por lo que...
+
+2155
+02:03:30,368 --> 02:03:32,444
+cuando la gente me pregunta:
+¿Por qué te encuentras en Rusia?
+
+2156
+02:03:32,468 --> 02:03:35,321
+Yo respondo: 'Pregunten al
+Ministerio de Asuntos Exteriores'.
+
+2157
+02:03:36,154 --> 02:03:38,163
+¿Esto significa que
+estás dispuesto a ir...
+
+2158
+02:03:38,197 --> 02:03:39,709
+a casa y
+enfrentarte a un juicio?
+
+2159
+02:03:40,342 --> 02:03:44,320
+<i>Absolutamente. Si se tratara
+de un juicio público y justo.</i>
+
+2160
+02:03:44,560 --> 02:03:47,208
+Desafortunadamente eso no
+ocurrirá ahora mismo,
+
+2161
+02:03:47,781 --> 02:03:49,387
+mientras la ley
+de espionaje se...
+
+2162
+02:03:49,421 --> 02:03:51,429
+siga usando en contra
+de los informantes.
+
+2163
+02:03:53,147 --> 02:03:54,646
+¿Todavía crees
+que valió la pena?
+
+2164
+02:03:55,199 --> 02:03:56,910
+<i>Si, lo creo. Sin...</i>
+
+2165
+02:03:57,000 --> 02:03:59,722
+<i>la información para
+iniciar un debate público,</i>
+
+2166
+02:04:00,636 --> 02:04:02,034
+<i>estamos perdidos. Sabes.</i>
+
+2167
+02:04:02,109 --> 02:04:05,729
+<i>Ahora la gente podrá
+cuestionar a nuestro Gobierno,</i>
+
+2168
+02:04:05,995 --> 02:04:07,940
+<i>y pedirle rendir cuentas.</i>
+
+2169
+02:04:08,781 --> 02:04:10,427
+Ese es el principio
+en el que los...
+
+2170
+02:04:10,526 --> 02:04:13,181
+Estados Unidos de
+América fue fundado.
+
+2171
+02:04:13,617 --> 02:04:17,107
+Así que, si queremos proteger
+a nuestra Seguridad Nacional,
+
+2172
+02:04:17,567 --> 02:04:19,917
+deberíamos proteger
+a ese principio.
+
+2173
+02:04:21,531 --> 02:04:24,218
+¿Y si tus argumentos caen
+en oídos sordos...
+
+2174
+02:04:24,251 --> 02:04:26,558
+y si nuestros líderes no actúan?
+
+2175
+02:04:26,903 --> 02:04:29,978
+<i>Creo que si no cambia nada,</i>
+
+2176
+02:04:31,227 --> 02:04:35,891
+<i>entonces, cada vez más personas
+se opondrán en todo el mundo.</i>
+
+2177
+02:04:36,463 --> 02:04:41,532
+Informantes y periodistas, pero
+también los ciudadanos comunes.
+
+2178
+02:04:42,332 --> 02:04:46,049
+Y cuando esos en el poder
+dejen de ocultarse...
+
+2179
+02:04:46,279 --> 02:04:48,283
+al clasificarlo todo,
+
+2180
+02:04:48,941 --> 02:04:51,883
+entonces hablaremos
+de ello abiertamente.
+
+2181
+02:04:52,245 --> 02:04:54,255
+<i>Y cuando quieran asustarnos...</i>
+
+2182
+02:04:54,308 --> 02:04:57,954
+<i>para sacrificar a nuestros
+derechos humanos básicos,</i>
+
+2183
+02:04:58,093 --> 02:05:00,233
+no nos vamos a dejar intimidar.
+
+2184
+02:05:00,503 --> 02:05:01,937
+Y no nos daremos por vencidos.
+
+2185
+02:05:03,017 --> 02:05:05,672
+Y no nos obligarán a callarnos.
+
+2186
+02:05:06,659 --> 02:05:08,729
+Estás solo en un
+país extranjero.
+
+2187
+02:05:08,973 --> 02:05:11,803
+Si intentas irte,
+vas a ser extraditado.
+
+2188
+02:05:11,973 --> 02:05:13,159
+Eso debe ser difícil.
+
+2189
+02:05:15,832 --> 02:05:18,252
+<i>ESTOY A FAVOR DE
+LOS DERECHOS EN LÍNEA</i>
+
+2190
+02:05:26,158 --> 02:05:28,225
+Cuando me fui de
+Hawái, he perdido...
+
+2191
+02:05:28,961 --> 02:05:30,016
+todo.
+
+2192
+02:05:33,470 --> 02:05:35,199
+Tenía una vida estable.
+
+2193
+02:05:38,504 --> 02:05:39,838
+Un amor estable.
+
+2194
+02:05:40,649 --> 02:05:41,918
+Una familia. Un futuro.
+
+2195
+02:05:44,183 --> 02:05:46,391
+Y perdí esa vida, pero...
+
+2196
+02:05:49,141 --> 02:05:50,514
+He adquirido una nueva.
+
+2197
+02:05:53,623 --> 02:05:55,453
+Y soy increíblemente afortunado.
+
+2198
+02:05:57,915 --> 02:05:59,155
+Y creo que,
+
+2199
+02:06:01,141 --> 02:06:02,836
+la libertad más grande que gané,
+
+2200
+02:06:02,857 --> 02:06:04,612
+es no tener que preocuparme...
+
+2201
+02:06:04,645 --> 02:06:05,878
+de lo que suceda mañana,
+
+2202
+02:06:06,427 --> 02:06:08,510
+porque estoy feliz
+de lo que he hecho hoy.
+
+2203
+02:06:14,306 --> 02:06:17,366
+En vivo desde la Internet,
+Edward Snowden.
+
+2204
+02:07:05,344 --> 02:07:08,687
+<i>Hasta la fecha, Edward Snowden
+reside en Moscú.</i>
+
+2205
+02:07:08,805 --> 02:07:13,582
+<i>Lindsay Mills se fue
+para allá para estar con él.</i>
+
+2206
+02:07:34,933 --> 02:07:36,938
+<i>¿Cambió de opinión sobre él?</i>
+
+2207
+02:07:37,007 --> 02:07:41,196
+<i>¿Ahora es más un
+informante, que un hacker?</i>
+
+2208
+02:07:42,629 --> 02:07:44,037
+<i>OBAMA TERMINÓ
+CON LA RECOLECTA...</i>
+
+2209
+02:07:44,071 --> 02:07:45,445
+<i>DE INFORMACIÓN
+MASIVA DE LA NSA</i>
+
+2210
+02:07:49,393 --> 02:07:50,717
+<i>MAYO 7 DEL 2015</i>
+
+2211
+02:07:50,719 --> 02:07:52,258
+<i>LA RECOLECCIÓN
+DE DATOS EN MASA...</i>
+
+2212
+02:07:52,292 --> 02:07:53,797
+<i>POR LA NSA SE
+CONSIDERA ILEGAL</i>
+
+2213
+02:07:55,994 --> 02:07:56,994
+<i>MAYO 13 DEL 2015</i>
+
+2214
+02:07:57,028 --> 02:07:59,305
+<i>EL CONGRESO VOTA PARA
+DETENER LA VIGILANCIA DE LA NSA</i>
+
+2215
+02:08:02,003 --> 02:08:03,383
+<i>LA REFORMA DE VIGILANCIA...</i>
+
+2216
+02:08:03,417 --> 02:08:05,301
+<i>QUE REVINDICA A
+SNOWDEN ES APROBADA</i>
+
+2217
+02:08:14,625 --> 02:08:16,331
+<i>BARACK OBAMA FIRMA LA
+"ACTA DE LA LIBERTAD"...</i>
+
+2218
+02:08:16,355 --> 02:08:17,915
+<i>PARA REFORMAR LA
+VIGILANCIA DE LA NSA</i>
+
+2219
+02:08:18,332 --> 02:08:20,435
+<i>¿Qué va a pasar
+con Edward Snowden?</i>
+
+2220
+02:08:20,468 --> 02:08:21,509
+<i>Él morirá en Moscú.</i>
+
+2221
+02:08:22,022 --> 02:08:23,260
+<i>No va a volver a casa.</i>
+
+2222
+02:09:01,051 --> 02:09:03,549
+<i>¿Edward Snowden es
+un traidor o un héroe?</i>
+
+2223
+02:09:03,582 --> 02:09:06,798
+<i>Se robó información
+muy importante.</i>
+
+2224
+02:09:25,427 --> 02:09:26,733
+<i>Ultimas noticias esta noche.</i>
+
+2225
+02:09:26,796 --> 02:09:28,520
+<i>Entre otras cosas,
+trabaje con el Congreso...</i>
+
+2226
+02:09:28,544 --> 02:09:30,864
+<i>para cambiar como la NSA
+recolecta escuchas telefónicas.</i>
+
+2227
+02:09:31,733 --> 02:09:34,160
+<i>Se demanda más transparencia
+para el Tribunal secreto...</i>
+
+2228
+02:09:34,249 --> 02:09:36,484
+<i>que regula la
+aprobación de la vigilancia.</i>
+
+2229
+02:09:38,224 --> 02:09:40,342
+<i>Bueno, ¿es una victoria
+para Edward Snowden?</i>
+
+2230
+02:09:40,374 --> 02:09:42,264
+<i>Dependerá de quien opine.</i>
+
+2231
+02:09:43,044 --> 02:09:44,290
+<i>NUEVOS DOCUMENTOS
+DE SNOWDEN REVELAN...</i>
+
+2232
+02:09:44,314 --> 02:09:45,273
+<i>QUE LA
+ADMINISTRACIÓN DE OBAMA,</i>
+
+2233
+02:09:45,307 --> 02:09:46,326
+<i>EXPANDIÓ LA
+VIGILANCIA DE LA NSA</i>
+
+2234
+02:09:46,350 --> 02:09:47,774
+<i>No creo que debería
+de volver a casa...</i>
+
+2235
+02:09:47,798 --> 02:09:49,178
+<i>sin ser considerado responsable.</i>
+
+2236
+02:09:50,802 --> 02:09:53,091
+<i>Snowden jugó un
+papel importante...</i>
+
+2237
+02:09:53,098 --> 02:09:55,452
+<i>educando al pueblo
+estadounidense...</i>
+
+2238
+02:09:55,485 --> 02:09:58,170
+<i>LEGISLADORES EUROPEOS VOTAN
+A FAVOR DE EDWARD SNOWDEN</i>
+
+2239
+02:09:58,296 --> 02:10:01,065
+<i>de como nuestros derechos
+constitucionales se ven socavados.</i>
+
+2240
+02:10:16,375 --> 02:10:24,375
+<i>Snowden (2016) Creados por TaMaBin</i>
+

@@ -1,0 +1,7438 @@
+1
+00:00:45,337 --> 00:00:47,297
+<i>Históricamente, cuando
+vemos la evolución...</i>
+
+2
+00:00:47,422 --> 00:00:53,011
+el cambio de Chappie es lógico.
+- Periodista, El Centinela.
+
+3
+00:00:53,095 --> 00:00:57,516
+Es demasiado pronto
+para saber cómo va a acabar.
+
+4
+00:00:57,599 --> 00:01:00,978
+- No esperaba verlo en mi vida.
+- Científico Cognitivo, M.I.T.
+
+5
+00:01:01,103 --> 00:01:02,855
+18 meses antes.
+
+6
+00:01:05,649 --> 00:01:07,025
+<i>El centro de Johannesburgo.</i>
+
+7
+00:01:07,150 --> 00:01:08,902
+<i>Es una ciudad peligrosa.</i>
+
+8
+00:01:09,027 --> 00:01:13,282
+<i>Todos los días hay más de 300
+asesinatos y ataques violentos.</i>
+
+9
+00:01:16,451 --> 00:01:20,121
+<i>Hay dos oficiales muertos.
+Llevaron a tres más al hospital.</i>
+
+10
+00:01:20,122 --> 00:01:23,417
+<i>Un final sangriento de un tiroteo
+entre policías y ladrones.</i>
+
+11
+00:01:23,500 --> 00:01:25,627
+<i>Otro agente de policía muerto.</i>
+
+12
+00:01:28,089 --> 00:01:31,676
+Hoy le damos la bienvenida
+a un nuevo día...
+
+13
+00:01:31,801 --> 00:01:35,137
+¡Un día que señala
+el fin del crimen!
+
+14
+00:01:35,262 --> 00:01:36,847
+¡Dispara!
+
+15
+00:01:37,223 --> 00:01:39,266
+¡El fin de la corrupción!
+
+16
+00:01:39,392 --> 00:01:42,186
+¡Entren! ¡Contra la pared!
+
+17
+00:01:42,311 --> 00:01:43,688
+¡Al suelo!
+
+18
+00:01:43,771 --> 00:01:45,815
+Todos los blancos, neutralizados.
+
+19
+00:01:45,898 --> 00:01:47,024
+¡Y el inicio...!
+
+20
+00:01:47,108 --> 00:01:49,318
+¡del renacimiento
+de nuestra ciudad!
+
+21
+00:01:51,529 --> 00:01:55,533
+¡Bienvenidos a la primera fuerza
+policíaca robótica del mundo!
+
+22
+00:02:01,872 --> 00:02:03,874
+<b>C H A P P i E</b>
+
+23
+00:02:07,378 --> 00:02:11,841
+Johannesburgo, Sudáfrica.
+Captó la atención mundial en 2016...
+
+24
+00:02:11,924 --> 00:02:15,771
+al desplegar las primeras
+unidades policiacas de robots.
+
+25
+00:02:16,463 --> 00:02:17,847
+El crimen se desplomó...
+
+26
+00:02:17,930 --> 00:02:20,975
+y las acciones de Tetravaal
+se dispararon.
+
+27
+00:02:21,058 --> 00:02:24,353
+<i>Traemos partes de China...
+DIRECTORA EJECUTIVA TETRAVAAL</i>
+
+28
+00:02:24,395 --> 00:02:26,731
+<i>pero armamos a todos
+los robots en Sudáfrica.</i>
+
+29
+00:02:26,856 --> 00:02:30,693
+La población teme ser
+vulnerable al Hackeo.
+
+30
+00:02:30,776 --> 00:02:33,279
+Tetravaal nos asegura que
+no hay de qué preocuparse...
+
+31
+00:02:33,404 --> 00:02:36,115
+con su sistema infalible
+de llave protectora.
+
+32
+00:02:36,198 --> 00:02:39,827
+Un sistema que les permite solo a
+ellos cambiar el programa de un robot.
+
+33
+00:02:41,454 --> 00:02:45,207
+Antes del éxito de los robots
+policías de tamaño humano...
+
+34
+00:02:45,249 --> 00:02:47,084
+había otro chico malo
+en el barrio.
+
+35
+00:02:47,209 --> 00:02:48,209
+El Alce.
+
+36
+00:02:48,461 --> 00:02:51,756
+Vincent Moore es un ex soldado
+diseñador de armas.
+
+37
+00:02:51,797 --> 00:02:55,259
+Tiene una objeción espiritual
+a la inteligencia artificial
+
+38
+00:02:55,343 --> 00:02:57,345
+Mi robot es indestructible.
+
+39
+00:02:57,428 --> 00:03:01,015
+Lo opera un ser humano
+pensador, adaptable...
+
+40
+00:03:02,058 --> 00:03:04,810
+compasivo y moral.
+
+41
+00:03:04,935 --> 00:03:07,438
+El transmisor neuronal avanzado...
+
+42
+00:03:07,521 --> 00:03:10,816
+convierte los pensamientos
+del operador en acciones del robot.
+
+43
+00:03:10,941 --> 00:03:14,236
+No es como la inteligencia
+artificial de los Exploradores.
+
+44
+00:03:14,362 --> 00:03:17,531
+Con el interés mostrado por
+EE.UU., China y Corea del Norte...
+
+45
+00:03:17,656 --> 00:03:20,993
+el creador del Explorador,
+Deon Wilson, ve un futuro rico.
+
+46
+00:03:21,077 --> 00:03:24,246
+Me interesa la I.A. de alto nivel.
+
+47
+00:03:24,330 --> 00:03:28,459
+Inteligencia verdadera. Una máquina
+que pueda pensar y sentir.
+
+48
+00:03:28,584 --> 00:03:30,920
+¿Y esa es la prioridad
+en Tetravaal?
+
+49
+00:03:31,045 --> 00:03:35,466
+¿Dar ese paso evolucionario y
+construir algo realmente vivo?
+
+50
+00:03:41,555 --> 00:03:44,350
+Explorador 22
+llegando al área 6.
+
+51
+00:03:44,433 --> 00:03:46,102
+- Equipo 1. ¡Rápido!
+- ¡Rápido, ábranla!
+
+52
+00:03:46,268 --> 00:03:48,646
+- ¡Sáquenlo!
+- ¡Agárrenlo, agárrenlo!
+
+53
+00:03:48,771 --> 00:03:49,772
+Está malherido.
+
+54
+00:03:49,939 --> 00:03:53,025
+- ¡Rápido!
+- ¡M2 listo!
+
+55
+00:03:59,281 --> 00:04:00,866
+Dios mío.
+
+56
+00:04:01,617 --> 00:04:03,869
+¿Ves a este 22? Le ha ido mal.
+
+57
+00:04:03,994 --> 00:04:05,788
+Lo usaron de bache en la calle.
+
+58
+00:04:05,871 --> 00:04:06,871
+Mira esto.
+
+59
+00:04:07,498 --> 00:04:08,874
+Tiene como una maldición.
+
+60
+00:04:08,916 --> 00:04:12,211
+Siempre que sale.
+Sí, es su oído.
+
+61
+00:04:12,336 --> 00:04:14,547
+La antena. ¿Podemos cambiársela?
+
+62
+00:04:23,889 --> 00:04:27,810
+Reportan disparos
+en las zonas 5, 7 y 8.
+
+63
+00:04:27,893 --> 00:04:28,936
+Préndelo.
+
+64
+00:04:29,020 --> 00:04:32,189
+La policía solicita que los
+Exploradores sean movilizados.
+
+65
+00:04:39,905 --> 00:04:42,366
+¿Destino o trabajo?
+
+66
+00:04:42,450 --> 00:04:43,450
+Al helipuerto.
+
+67
+00:04:47,246 --> 00:04:50,583
+Oye, 22. Esta vez cuídate.
+
+68
+00:04:50,666 --> 00:04:52,084
+Afirmativo.
+
+69
+00:05:02,345 --> 00:05:05,973
+- ¡Estamos fritos!
+- ¡Sí, estamos fritos, Amerika!
+
+70
+00:05:06,057 --> 00:05:07,183
+Les dije que era mala idea.
+
+71
+00:05:07,308 --> 00:05:09,310
+- ¡Lo dije muchas veces!
+- ¡Cálmense todos!
+
+72
+00:05:09,393 --> 00:05:11,604
+Sí, tenemos un problema.
+
+73
+00:05:11,729 --> 00:05:12,938
+¡Y sí, lo voy a resolver!
+
+74
+00:05:14,231 --> 00:05:17,151
+Estamos buscando sospechosos
+en un vehículo gris.
+
+75
+00:05:22,782 --> 00:05:24,116
+¡Ya llegaron!
+
+76
+00:05:33,292 --> 00:05:36,420
+- ¿Qué pasa aquí?
+- Parece estar enojado.
+
+77
+00:05:39,090 --> 00:05:40,341
+Hippo.
+
+78
+00:05:42,259 --> 00:05:44,220
+Pasaron cosas.
+
+79
+00:05:44,345 --> 00:05:45,971
+No fué culpa nuestra.
+
+80
+00:05:46,824 --> 00:05:47,824
+Tu arma.
+
+81
+00:05:47,848 --> 00:05:49,183
+Demonios.
+
+82
+00:05:49,308 --> 00:05:51,018
+Y tus llaves.
+
+83
+00:05:51,811 --> 00:05:52,895
+¡Anda!
+
+84
+00:05:52,978 --> 00:05:54,021
+¡Abre atrás!
+
+85
+00:06:05,157 --> 00:06:07,118
+Tenemos suerte de estar vivos.
+
+86
+00:06:09,370 --> 00:06:10,955
+Ninja.
+
+87
+00:06:11,872 --> 00:06:14,458
+No hay manera de zafarse de esto.
+
+88
+00:06:14,542 --> 00:06:17,461
+Siempre hay una manera.
+Di tu precio. Yo lo arreglo.
+
+89
+00:06:17,586 --> 00:06:18,671
+¿Mi precio?
+
+90
+00:06:19,964 --> 00:06:21,549
+Es $20 millones.
+
+91
+00:06:22,216 --> 00:06:24,301
+- Eso es ridículo.
+- Por Dios.
+
+92
+00:06:24,385 --> 00:06:26,971
+¿Cómo voy a pagarte eso?
+
+93
+00:06:27,096 --> 00:06:28,472
+Ponte de rodillas.
+
+94
+00:06:28,639 --> 00:06:30,349
+¡Qué te pongas de rodillas!
+
+95
+00:06:31,684 --> 00:06:33,352
+Me debes...
+
+96
+00:06:34,353 --> 00:06:35,980
+veinte millones.
+
+97
+00:06:36,105 --> 00:06:36,897
+Dilo.
+
+98
+00:06:36,939 --> 00:06:38,357
+Te debo 20 millones.
+
+99
+00:06:43,112 --> 00:06:45,197
+¡Pitbull! ¡Pitbull!
+
+100
+00:06:45,281 --> 00:06:46,323
+¡Atrás!
+
+101
+00:06:46,449 --> 00:06:47,283
+¡Dios mío, Hippo!
+
+102
+00:06:47,366 --> 00:06:48,492
+Siete días.
+
+103
+00:06:48,576 --> 00:06:50,870
+Tienes siete días.
+
+104
+00:06:50,953 --> 00:06:52,413
+¡Androides!
+
+105
+00:06:52,538 --> 00:06:53,998
+¡Androides!
+
+106
+00:06:54,081 --> 00:06:55,291
+¡Los siguieron!
+
+107
+00:06:57,209 --> 00:06:58,878
+¡Atrás de la pared!
+
+108
+00:06:59,003 --> 00:07:00,379
+¡Yo-Landi, súbete!
+
+109
+00:07:00,463 --> 00:07:01,464
+¡Súbete!
+
+110
+00:07:01,589 --> 00:07:02,965
+¡Vuela los explosivos!
+
+111
+00:07:06,260 --> 00:07:07,595
+Detonaron un explosivo.
+
+112
+00:07:07,636 --> 00:07:08,929
+¡Maldita sea! ¡Androides!
+
+113
+00:07:09,013 --> 00:07:11,223
+¡No podemos disparar! Bajando.
+
+114
+00:07:11,349 --> 00:07:13,017
+Saliendo del helicóptero.
+
+115
+00:07:18,272 --> 00:07:20,983
+- ¿Y las llaves?
+- ¡Se las diste!
+
+116
+00:07:21,067 --> 00:07:23,694
+Hay oficiales humanos en tierra.
+
+117
+00:07:23,778 --> 00:07:25,488
+¡Vamos! ¡Rápido!
+
+118
+00:07:32,036 --> 00:07:33,036
+¡Avancen!
+
+119
+00:07:34,997 --> 00:07:36,415
+¡Avanza, 22!
+
+120
+00:07:36,540 --> 00:07:37,750
+¡Rápido, rápido!
+
+121
+00:07:37,833 --> 00:07:41,921
+Suelten sus armas.
+Están arrestados.
+
+122
+00:07:44,799 --> 00:07:47,093
+¡A la derecha! ¡Corran!
+
+123
+00:07:49,845 --> 00:07:51,764
+¿Dónde están las llaves?
+
+124
+00:07:51,889 --> 00:07:52,348
+¡A la izquierda!
+
+125
+00:07:52,431 --> 00:07:53,474
+¡Maten a los policías!
+
+126
+00:07:53,516 --> 00:07:54,767
+¡Rápido! ¡Atrás!
+
+127
+00:08:00,564 --> 00:08:02,233
+¡Sí, sí!
+
+128
+00:08:02,983 --> 00:08:04,485
+¡Suelten sus armas!
+
+129
+00:08:06,070 --> 00:08:07,070
+¡Vamos!
+
+130
+00:08:08,614 --> 00:08:10,241
+¡Oye, cobarde!
+
+131
+00:08:10,366 --> 00:08:11,367
+¡Necesito mis llaves!
+
+132
+00:08:11,492 --> 00:08:12,952
+¡Vete al demonio!
+
+133
+00:08:15,723 --> 00:08:16,723
+¡Deje su arma!
+
+134
+00:08:16,747 --> 00:08:17,747
+¡Deje su arma!
+
+135
+00:08:26,007 --> 00:08:27,007
+¡Anda!
+
+136
+00:08:29,010 --> 00:08:30,010
+Seguro, hombre.
+
+137
+00:08:42,148 --> 00:08:44,984
+¡Le dieron a la hélice!
+¡Tenemos que bajar!
+
+138
+00:08:48,446 --> 00:08:49,447
+Muchas gracias.
+
+139
+00:08:50,448 --> 00:08:52,074
+22 entrando.
+
+140
+00:08:56,871 --> 00:08:57,871
+SE BUSCA
+
+141
+00:09:13,262 --> 00:09:15,264
+Dañaron al androide 22, señor.
+
+142
+00:09:16,307 --> 00:09:18,392
+¡Bravo 1! ¡Necesitamos apoyo!
+
+143
+00:09:18,517 --> 00:09:20,686
+Entendido. Van androides
+a su posición.
+
+144
+00:09:22,605 --> 00:09:24,482
+¡Amerika! ¡Tengo las llaves!
+
+145
+00:09:24,607 --> 00:09:26,734
+- ¡Landi, tiene las llaves!
+- ¡Vamos, anda!
+
+146
+00:09:30,863 --> 00:09:32,948
+Salgan del vehículo.
+
+147
+00:09:33,032 --> 00:09:34,032
+¡Arranca!
+
+148
+00:09:37,203 --> 00:09:38,287
+No huyan.
+
+149
+00:09:42,977 --> 00:09:43,977
+¿Estás bien?
+
+150
+00:09:44,001 --> 00:09:45,002
+¡No! ¡Me hirieron!
+
+151
+00:09:51,842 --> 00:09:53,969
+El Explorador 22 no responde.
+
+152
+00:09:54,428 --> 00:09:55,805
+Que lo evacúen.
+
+153
+00:09:56,847 --> 00:09:59,684
+Este es otro triunfo
+de la policía robotizada.
+
+154
+00:09:59,725 --> 00:10:03,521
+Esta es la más
+importante derrotada este año.
+
+155
+00:10:03,646 --> 00:10:05,231
+- Buenos días, Deon.
+- Buenos días.
+
+156
+00:10:06,941 --> 00:10:08,234
+Señores...
+
+157
+00:10:09,068 --> 00:10:11,070
+su atención, por favor.
+
+158
+00:10:11,153 --> 00:10:13,406
+El jefe de la policía me llamó...
+
+159
+00:10:13,489 --> 00:10:16,659
+para hacer un pedido
+de cien Exploradores más.
+
+160
+00:10:16,784 --> 00:10:19,245
+Es una muy buena noticia.
+
+161
+00:10:23,416 --> 00:10:24,583
+¡Excelente, Deon!
+
+162
+00:10:24,625 --> 00:10:25,835
+Bien hecho, amigo.
+
+163
+00:10:25,960 --> 00:10:27,044
+- Felicidades.
+- Gracias.
+
+164
+00:10:27,086 --> 00:10:29,588
+- Felicidades.
+- Buen trabajo.
+
+165
+00:10:29,672 --> 00:10:31,632
+Buen trabajo, amigo.
+
+166
+00:10:31,674 --> 00:10:33,467
+No podía haberlo hecho sin ti.
+
+167
+00:10:44,895 --> 00:10:47,231
+¿Esta es la llamada de compasión?
+
+168
+00:10:47,356 --> 00:10:49,775
+- No te preocupes.
+- Estoy preocupado.
+
+169
+00:10:49,859 --> 00:10:50,693
+Bueno, mira.
+
+170
+00:10:50,776 --> 00:10:54,613
+Tenemos una oportunidad más con
+la policía mañana. Baja los costos.
+
+171
+00:10:54,739 --> 00:10:58,159
+Trata de ser optimista, ¿Sí?
+Anímate.
+
+172
+00:10:58,284 --> 00:11:00,828
+Es difícil animarme cuando
+me cortan los fondos.
+
+173
+00:11:00,953 --> 00:11:03,497
+20% este año,
+25% el pasado, ¿no?
+
+174
+00:11:03,581 --> 00:11:04,832
+Necesito perfeccionar el Alce.
+
+175
+00:11:04,874 --> 00:11:07,585
+El detector de amenazas es elemental.
+
+176
+00:11:07,710 --> 00:11:12,923
+Eso es completamente superfluo.
+El operador detecta la amenaza.
+
+177
+00:11:13,090 --> 00:11:14,342
+Luego mandamos el Alce.
+
+178
+00:11:14,467 --> 00:11:16,010
+Ya basta.
+
+179
+00:11:17,303 --> 00:11:19,388
+Quitar, no agregar.
+
+180
+00:11:19,513 --> 00:11:20,014
+¿Está bien?
+
+181
+00:11:20,181 --> 00:11:22,058
+Sí. Estoy en eso.
+
+182
+00:11:22,141 --> 00:11:26,687
+- Deon Wilson al taller.
+- Tengo que colgar. Hablamos luego.
+
+183
+00:11:35,237 --> 00:11:36,739
+¿Crees que es mi niño otra vez?
+
+184
+00:11:36,906 --> 00:11:40,868
+Qué gran sorpresa. Siempre
+que llega. Es un imán de balas.
+
+185
+00:11:40,951 --> 00:11:41,577
+¿Qué pasa, muchacho?
+
+186
+00:11:41,660 --> 00:11:43,621
+Aquí está el reporte.
+Es el 22 otra vez.
+
+187
+00:11:43,704 --> 00:11:45,956
+Proyectil directo al pecho.
+
+188
+00:11:46,040 --> 00:11:48,501
+La explosión dañó muchos
+componentes internos.
+
+189
+00:11:48,626 --> 00:11:50,503
+Pero el cerebro sigue intacto.
+
+190
+00:11:50,628 --> 00:11:52,171
+Igual se descarta.
+
+191
+00:11:52,296 --> 00:11:56,133
+Bien, salven el procesador central.
+
+192
+00:11:56,258 --> 00:11:57,885
+Podemos quitarle la batería.
+Sigue cargada. Está estable.
+
+193
+00:11:58,010 --> 00:11:59,595
+No vale la pena.
+
+194
+00:11:59,679 --> 00:12:03,265
+Androide 22, descartado. Aplasten
+el chasis y reciclen las aleaciones.
+
+195
+00:12:03,391 --> 00:12:04,767
+- De acuerdo.
+- Gracias.
+
+196
+00:12:13,359 --> 00:12:14,527
+Cuidado, cuidado.
+
+197
+00:12:15,695 --> 00:12:19,865
+Vengan. Vengan a la madriguera.
+
+198
+00:12:19,949 --> 00:12:22,702
+- Cuidado.
+- Hay que coserle la herida.
+
+199
+00:12:30,793 --> 00:12:32,294
+¿Crees que te escapaste?
+
+200
+00:12:32,378 --> 00:12:34,213
+No, nunca pensé eso, Hippo.
+
+201
+00:12:34,296 --> 00:12:36,632
+¿Crees que ya no
+me debes ese dinero?
+
+202
+00:12:36,757 --> 00:12:38,884
+<i>¿Por qué crees que
+estoy en la cárcel?</i>
+
+203
+00:12:39,010 --> 00:12:40,219
+Te voy a dar tu dinero, Hippo.
+
+204
+00:12:40,344 --> 00:12:42,263
+Quizá vaya a tu escondite en Seattle.
+
+205
+00:12:43,264 --> 00:12:44,849
+<i>Voy con los muchachos.</i>
+
+206
+00:12:44,974 --> 00:12:46,976
+Agarro lo que quiero.
+
+207
+00:12:47,059 --> 00:12:48,811
+Está bien, una semana.
+
+208
+00:12:48,853 --> 00:12:50,062
+¡Siete días!
+
+209
+00:12:53,691 --> 00:12:56,068
+- No agarraron a ese cobarde.
+- ¿Qué?
+
+210
+00:12:56,235 --> 00:12:57,611
+Sabe dónde vivimos.
+
+211
+00:12:57,653 --> 00:13:00,114
+Dice que quiere su dinero
+en una semana.
+
+212
+00:13:00,239 --> 00:13:02,700
+¿Cómo lo vamos a conseguir?
+Eso es ridículo.
+
+213
+00:13:02,783 --> 00:13:05,745
+Necesitamos un último trabajo.
+
+214
+00:13:05,870 --> 00:13:08,914
+Estoy hablando de dinero grande.
+
+215
+00:13:09,540 --> 00:13:12,418
+500 millones de rands. ¿Sí?
+
+216
+00:13:12,543 --> 00:13:15,046
+Le pagamos, nos quedamos
+con el resto.
+
+217
+00:13:15,171 --> 00:13:17,798
+Y nos salimos mientras
+todavía podemos.
+
+218
+00:13:18,716 --> 00:13:20,718
+¿De qué hablas,
+de robar un banco?
+
+219
+00:13:20,885 --> 00:13:21,885
+No.
+
+220
+00:13:22,511 --> 00:13:23,888
+Dinero en tránsito.
+
+221
+00:13:24,013 --> 00:13:26,140
+- ¿Qué es eso?
+- Un atraco, Yo-Landi.
+
+222
+00:13:26,265 --> 00:13:28,976
+Si hacemos un atraco,
+nos echan a los androides.
+
+223
+00:13:29,018 --> 00:13:30,894
+- Nos darán duro.
+- Tiene razón.
+
+224
+00:13:30,895 --> 00:13:34,565
+Necesitamos algo como un
+control remoto. Como un apagador.
+
+225
+00:13:34,732 --> 00:13:35,816
+¿Qué? ¿Disculpa?
+
+226
+00:13:36,400 --> 00:13:39,320
+Los robots son una máquinas, ¿no?
+
+227
+00:13:39,445 --> 00:13:41,072
+Como una tele.
+
+228
+00:13:41,197 --> 00:13:44,408
+Si tuviéramos un control
+remoto para apagarlos...
+
+229
+00:13:44,533 --> 00:13:46,077
+¡Qué brillante idea!
+
+230
+00:13:46,202 --> 00:13:51,207
+Hay que buscar al tipo que hace
+los robots y robarle sus controles.
+
+231
+00:14:01,133 --> 00:14:02,134
+¿Dexter?
+
+232
+00:14:02,259 --> 00:14:04,929
+Hola, Deon. Bienvenido a casa.
+
+233
+00:14:05,888 --> 00:14:07,098
+¿Te portaste bien hoy?
+
+234
+00:14:07,264 --> 00:14:08,264
+Sí, Deon.
+
+235
+00:14:08,641 --> 00:14:09,767
+¿Limpiaste mi cuarto?
+
+236
+00:14:09,892 --> 00:14:11,811
+Esterilicé tu cuarto.
+
+237
+00:14:11,936 --> 00:14:12,936
+Qué bien.
+
+238
+00:14:13,771 --> 00:14:18,025
+¿Vas a trabajar en tu programa
+de inteligencia artificial hoy?
+
+239
+00:14:18,109 --> 00:14:20,444
+- Sí.
+- Activaré la tetera.
+
+240
+00:14:25,408 --> 00:14:27,076
+Hola otra vez.
+
+241
+00:14:27,159 --> 00:14:30,287
+Este es el día 944.
+
+242
+00:14:30,371 --> 00:14:32,832
+Me falta muy poco.
+
+243
+00:14:32,915 --> 00:14:35,334
+Siempre hay la posibilidad
+de un error. Lo sé
+
+244
+00:14:35,459 --> 00:14:39,422
+Pero estadísticamente hablando,
+creo que voy bien.
+
+245
+00:14:39,505 --> 00:14:44,552
+Me falta compilar y escribir
+unos terabytes y entonces veremos.
+
+246
+00:14:44,635 --> 00:14:45,761
+Nos vemos pronto.
+
+247
+00:14:52,203 --> 00:14:53,203
+Mira.
+
+248
+00:14:53,227 --> 00:14:54,937
+Ese es el desgraciado.
+
+249
+00:14:55,062 --> 00:14:56,062
+¿Él?
+
+250
+00:14:56,647 --> 00:14:58,816
+Es pan comido.
+
+251
+00:15:00,192 --> 00:15:02,319
+Necesitamos esos controles remotos.
+
+252
+00:15:03,320 --> 00:15:04,488
+Necesitamos esos controles.
+
+253
+00:15:07,616 --> 00:15:08,616
+¡Red Bull!
+
+254
+00:15:08,701 --> 00:15:09,994
+Sí, Deon.
+
+255
+00:15:10,995 --> 00:15:12,121
+Red Bull.
+
+256
+00:15:19,522 --> 00:15:20,522
+Cargando los componentes
+
+257
+00:15:20,546 --> 00:15:21,627
+Emoción OK Sistema motor OK
+
+258
+00:15:25,092 --> 00:15:27,345
+Activando RED IA PRINCIPAL
+Progreso: 97%
+
+259
+00:15:27,470 --> 00:15:29,180
+Loops Inestables
+Experimento falló.
+
+260
+00:15:39,273 --> 00:15:40,316
+¡Anda!
+
+261
+00:15:43,486 --> 00:15:44,612
+Sí, sí.
+
+262
+00:15:46,155 --> 00:15:47,448
+¿Y si cambiara el...?
+
+263
+00:16:03,130 --> 00:16:04,173
+Progreso: 100%
+
+264
+00:16:04,298 --> 00:16:06,050
+No Hay Errores
+CONCIENCIA.DAT Estable
+
+265
+00:16:13,933 --> 00:16:15,059
+Es estable.
+
+266
+00:16:15,142 --> 00:16:16,519
+¿Todo bien?
+
+267
+00:16:19,105 --> 00:16:20,690
+Es estable.
+
+268
+00:16:21,774 --> 00:16:22,983
+Dios mío.
+
+269
+00:16:24,110 --> 00:16:25,319
+Creo que lo resolví.
+
+270
+00:16:25,444 --> 00:16:28,114
+Necesito probarlo
+en un sistema vivo.
+
+271
+00:16:29,323 --> 00:16:30,866
+Necesito probarlo.
+
+272
+00:16:40,042 --> 00:16:41,042
+Muy bien.
+
+273
+00:16:42,545 --> 00:16:43,963
+Perdón, perdón. ¡Perdón!
+
+274
+00:16:46,275 --> 00:16:47,275
+Oye.
+
+275
+00:16:47,299 --> 00:16:48,092
+¡Oye!
+
+276
+00:16:48,259 --> 00:16:50,177
+- Hola.
+- ¿Qué tal, señor?
+
+277
+00:16:50,261 --> 00:16:51,345
+¿El Explorador?
+
+278
+00:16:51,470 --> 00:16:54,181
+El Explorador 22,
+el que van a demoler.
+
+279
+00:16:54,306 --> 00:16:56,392
+Están preparando la compactadora.
+
+280
+00:16:56,517 --> 00:16:57,517
+Gracias a Dios.
+
+281
+00:16:57,518 --> 00:17:01,731
+- No lo destruyan todavía.
+- Está bien.
+
+282
+00:17:01,856 --> 00:17:03,896
+Espera a que te diga qué hacer
+pero no lo destruyas.
+
+283
+00:17:05,920 --> 00:17:06,920
+Hola, señora.
+
+284
+00:17:06,944 --> 00:17:08,320
+Buenos días. Deon.
+
+285
+00:17:09,363 --> 00:17:12,408
+Bueno. Cuéntame.
+
+286
+00:17:12,533 --> 00:17:13,573
+¿Qué vas a proponer ahora?
+
+287
+00:17:14,368 --> 00:17:15,661
+Creo que lo resolví.
+
+288
+00:17:15,745 --> 00:17:19,540
+Hice la primera inteligencia
+artificial completa del mundo.
+
+289
+00:17:19,623 --> 00:17:22,543
+Este sistema puede ser
+más listo que un humano.
+
+290
+00:17:22,668 --> 00:17:24,920
+Le puedo enseñar
+una obra de arte...
+
+291
+00:17:24,962 --> 00:17:27,340
+y esta cosa, este ser,
+podría juzgar ese arte.
+
+292
+00:17:27,757 --> 00:17:31,927
+Podría decidir si le gusta.
+
+293
+00:17:32,345 --> 00:17:35,181
+Podría escribir música y poesía.
+
+294
+00:17:35,264 --> 00:17:36,349
+Detente.
+
+295
+00:17:36,515 --> 00:17:37,516
+Por favor, Deon.
+
+296
+00:17:38,601 --> 00:17:43,272
+¿Viniste a ver a la directora
+de una compañía que hace armas...?
+
+297
+00:17:43,397 --> 00:17:46,692
+¿para promover un robot
+que puede escribir poemas?
+
+298
+00:17:46,817 --> 00:17:49,028
+Bueno, permítame explicarle.
+
+299
+00:17:49,153 --> 00:17:53,032
+Deon, Tetravaal
+está feliz contigo.
+
+300
+00:17:53,115 --> 00:17:55,368
+Los Exploradores son un gran éxito.
+
+301
+00:17:55,451 --> 00:17:56,452
+Señora, mire:
+
+302
+00:17:56,535 --> 00:17:58,371
+No le costará nada.
+
+303
+00:17:58,496 --> 00:18:01,791
+Hay un androide abajo que
+descartamos ayer, irreparable.
+
+304
+00:18:01,999 --> 00:18:04,377
+Permítame instalarle esto.
+
+305
+00:18:04,418 --> 00:18:07,797
+- Por favor, déjeme probarlo.
+- No. Lo siento, Deon.
+
+306
+00:18:07,880 --> 00:18:10,257
+Sabes cómo funciona
+el seguro para esos.
+
+307
+00:18:10,341 --> 00:18:12,802
+Todo el papeleo y los trámites.
+
+308
+00:18:12,968 --> 00:18:14,512
+Gracias por su tiempo.
+
+309
+00:18:24,021 --> 00:18:27,066
+Gente nueva, repórtese a Recursos
+Humanos para su orientación.
+
+310
+00:18:31,821 --> 00:18:32,863
+¡Maldita sea!
+
+311
+00:18:34,448 --> 00:18:35,533
+Hola, Bill.
+
+312
+00:18:40,663 --> 00:18:43,416
+¡Moldea tu Vida... No dejes
+que la vida te Moldee a ti!
+
+313
+00:18:46,502 --> 00:18:48,462
+DÍA 945 6AM
+D.WILSON HD
+
+314
+00:18:54,760 --> 00:18:56,762
+Atención, atención.
+
+315
+00:18:56,887 --> 00:19:00,307
+Mantengan su pase de seguridad
+visible en todo momento.
+
+316
+00:19:01,828 --> 00:19:02,828
+Oye.
+
+317
+00:19:02,852 --> 00:19:04,311
+¿Me puedes echar una mano?
+
+318
+00:19:45,955 --> 00:19:46,955
+¡Anda!
+
+319
+00:19:46,979 --> 00:19:47,396
+¡Anda, anda!
+
+320
+00:19:47,813 --> 00:19:48,813
+Gracias.
+
+321
+00:19:53,152 --> 00:19:54,445
+Sí. Empieza la función.
+
+322
+00:20:08,709 --> 00:20:09,710
+¿Qué hay, amigo?
+
+323
+00:20:09,835 --> 00:20:10,835
+¡Por favor!
+
+324
+00:20:14,548 --> 00:20:15,966
+¿Qué está pasando?
+
+325
+00:20:16,092 --> 00:20:18,719
+Es un secuestro, amigo.
+
+326
+00:20:18,844 --> 00:20:19,844
+Bienvenido a Joburgo.
+
+327
+00:20:23,557 --> 00:20:27,144
+Y creo que es lo que lo
+hace que el Alce sea único...
+
+328
+00:20:27,311 --> 00:20:29,604
+y creo que perfecto para
+el departamento de policía.
+
+329
+00:20:29,605 --> 00:20:32,774
+Tiene capacidad estratégica para
+neutralizar los objetivos enemigos.
+
+330
+00:20:32,775 --> 00:20:37,822
+Así como radares, naves
+y depósito de combustible.
+
+331
+00:20:38,072 --> 00:20:39,699
+- ¿Naves?
+- ¡Sí, señor!
+
+332
+00:20:41,450 --> 00:20:43,703
+¿Nuestros enemigos son naves?
+
+333
+00:20:43,953 --> 00:20:45,787
+Hablamos de delincuencia urbana.
+
+334
+00:20:45,788 --> 00:20:48,833
+Robo de carteras,
+autos, basureros.
+
+335
+00:20:49,291 --> 00:20:51,876
+Yo le hablo de toda clase de
+objetivos grandes y pequeños.
+
+336
+00:20:51,877 --> 00:20:54,671
+Con sorprendentes
+armas que pueda disparar...
+
+337
+00:20:54,672 --> 00:20:57,966
+explosivos potentes
+con precisión y fiabilidad.
+
+338
+00:20:57,967 --> 00:21:01,137
+Y todo a través de
+un operador humano.
+
+339
+00:21:02,596 --> 00:21:04,055
+Señorita Bradley...
+
+340
+00:21:04,056 --> 00:21:07,893
+La Policía está muy contento
+con los exploradores, muy contento.
+
+341
+00:21:07,935 --> 00:21:09,979
+- Y le hemos pedido más.
+- Gracias.
+
+342
+00:21:10,021 --> 00:21:12,815
+Y hemos tenido éxito
+bajando el crimen.
+
+343
+00:21:13,232 --> 00:21:14,358
+Pero esto...
+
+344
+00:21:14,669 --> 00:21:15,669
+No lo queremos.
+
+345
+00:21:15,693 --> 00:21:19,530
+Mírenlo. Es costoso,
+grande y feo.
+
+346
+00:21:20,239 --> 00:21:21,907
+La pregunta es si nos serviría.
+
+347
+00:21:22,158 --> 00:21:24,035
+Y considerarlo.
+
+348
+00:21:25,244 --> 00:21:27,163
+<i>Yo no lo creo...</i>
+
+349
+00:21:56,817 --> 00:21:58,861
+Despierta, despierta.
+
+350
+00:22:02,156 --> 00:22:04,533
+Por favor, por favor, no tengo
+mucho dinero.
+
+351
+00:22:04,742 --> 00:22:06,243
+Cállate.
+No quiero tu dinero.
+
+352
+00:22:06,577 --> 00:22:09,830
+- Sabemos quién eres, amigo.
+- Sabemos qué haces los robots.
+
+353
+00:22:10,581 --> 00:22:12,541
+¡Están cometiendo un error!
+
+354
+00:22:14,752 --> 00:22:16,379
+Deja de jugar con nosotros.
+
+355
+00:22:16,629 --> 00:22:19,005
+Genio, sabemos que
+tienes una especie de...
+
+356
+00:22:19,006 --> 00:22:21,424
+control remoto para teles
+que apaga esos robots.
+
+357
+00:22:21,425 --> 00:22:23,928
+- ¿Disculpa?
+- Es la máquina.
+
+358
+00:22:24,053 --> 00:22:26,555
+- Debe tener un botón de apagado.
+- Revisaré la camioneta.
+
+359
+00:22:26,722 --> 00:22:29,558
+- Sí, revisa la camioneta Amerika.
+- Mejor dispárale.
+
+360
+00:22:32,978 --> 00:22:35,606
+Por favor, no. no
+¿Crees que soy un idiota?
+
+361
+00:22:35,898 --> 00:22:37,108
+¿Dime cómo es?
+
+362
+00:22:37,358 --> 00:22:40,151
+Por favor, por favor. Escuchen
+No se pueden apagar los robots.
+
+363
+00:22:40,152 --> 00:22:44,114
+No, se ensamblan para
+estar así siempre prendidos.
+
+364
+00:22:44,115 --> 00:22:45,616
+Dale un tiro.
+
+365
+00:22:46,511 --> 00:22:47,511
+No, no...
+
+366
+00:22:47,535 --> 00:22:48,535
+No, no..
+
+367
+00:22:49,996 --> 00:22:51,539
+Oigan, tienen que ver esto.
+
+368
+00:22:55,751 --> 00:22:57,670
+Santo Cristo.
+
+369
+00:22:58,004 --> 00:22:59,755
+¿Imaginen si este se moviera?
+
+370
+00:22:59,797 --> 00:23:03,634
+Hay piernas y partes.
+Todo está en piezas.
+
+371
+00:23:04,802 --> 00:23:05,802
+¿Sabes qué?
+
+372
+00:23:06,095 --> 00:23:10,266
+Haremos que programe a este
+chico malo para pelear con nosotros.
+
+373
+00:23:10,433 --> 00:23:13,436
+Seríamos indestructibles,
+los números uno.
+
+374
+00:23:14,478 --> 00:23:17,106
+Hola.
+Escucha amigo.
+
+375
+00:23:17,648 --> 00:23:20,651
+Tienes un amigo en la camioneta
+que puede pelear para nosotros.
+
+376
+00:23:20,818 --> 00:23:22,110
+No puedo hacer eso.
+
+377
+00:23:22,111 --> 00:23:26,032
+Si coges a ese robot y lo programas
+para que pelee para nosotros.
+
+378
+00:23:26,449 --> 00:23:30,619
+- ¿O te disparamos ahora?
+- ¿Qué quieres decir con que lo programe?
+
+379
+00:23:30,661 --> 00:23:31,495
+No te hagas el tonto.
+
+380
+00:23:31,620 --> 00:23:33,331
+Te diré exactamente que significa.
+
+381
+00:23:33,414 --> 00:23:36,042
+Vuelve a ese robot,
+y que nos obedezca.
+
+382
+00:23:36,459 --> 00:23:39,086
+Lo usamos para hacer nuestras
+cosas y un poco de dinero.
+
+383
+00:23:40,963 --> 00:23:42,882
+Lo que tengo en la camioneta
+es un experimento.
+
+384
+00:23:44,550 --> 00:23:49,555
+Puedo intentar y si funciona,
+pueden hacer lo que quieran, lo juro.
+
+385
+00:23:49,638 --> 00:23:51,431
+¿Qué quieres decir
+con si funciona?
+
+386
+00:23:51,432 --> 00:23:55,519
+Es un nuevo proyecto de un robot con
+una mente como la de un humano.
+
+387
+00:23:56,187 --> 00:23:58,105
+Es como un niño al principio...
+
+388
+00:23:58,189 --> 00:24:00,316
+como un niño humano de listo.
+
+389
+00:24:00,608 --> 00:24:03,778
+Su I.A. es capaz de
+aprender más rápido que algo orgánico.
+
+390
+00:24:03,903 --> 00:24:04,987
+Pero debe aprender.
+
+391
+00:24:05,112 --> 00:24:07,865
+- ¿Cuánto tiempo tardará?
+- No lo sé, no lo he probado.
+
+392
+00:24:07,990 --> 00:24:08,741
+Demonios.
+
+393
+00:24:08,824 --> 00:24:11,827
+Como les digo, yo los
+hice, y les digo...
+
+394
+00:24:11,994 --> 00:24:14,830
+no se pueden apagar,
+no pueden hackearlos.
+
+395
+00:24:15,289 --> 00:24:17,750
+Escuchen, no quiero morir.
+
+396
+00:24:29,720 --> 00:24:33,599
+Necesitamos armarlo
+como antes era.
+
+397
+00:24:35,309 --> 00:24:38,479
+- ¿Por qué está desarmado?
+- Iba a ser destruido.
+
+398
+00:24:38,688 --> 00:24:39,688
+¿Por qué?
+
+399
+00:24:39,772 --> 00:24:42,900
+Está dañado.
+La batería está soldada con el chasis.
+
+400
+00:24:43,401 --> 00:24:44,401
+¿Qué?
+
+401
+00:24:45,528 --> 00:24:49,031
+- Tendremos que cargar la batería.
+- ¿En qué tiempo se hará?
+
+402
+00:24:50,574 --> 00:24:52,660
+Dale 5 días y estará cargada.
+
+403
+00:24:52,952 --> 00:24:55,578
+¿Dices que no servirá
+hasta dentro de 5 días?
+
+404
+00:24:55,579 --> 00:24:56,580
+Créeme.
+
+405
+00:25:06,842 --> 00:25:07,842
+¿Qué es eso?
+
+406
+00:25:07,843 --> 00:25:11,012
+Una llave para instalar
+programas nuevos a los androides.
+
+407
+00:25:15,683 --> 00:25:17,018
+Vamos hombre.
+
+408
+00:25:22,148 --> 00:25:26,610
+Como dije, para que aprenda
+tengo que regresar a enseñarle.
+
+409
+00:25:26,694 --> 00:25:28,988
+- De lo contrario, es por gusto.
+- Bien.
+
+410
+00:25:29,280 --> 00:25:30,322
+Solo enciéndelo.
+
+411
+00:25:32,533 --> 00:25:35,828
+Enciéndelo amigo.
+Ahora.
+
+412
+00:25:37,371 --> 00:25:38,371
+¡Ahora!
+
+413
+00:25:59,060 --> 00:26:00,269
+Denle espacio.
+Denle espacio.
+
+414
+00:26:01,228 --> 00:26:02,938
+Denle espacio.
+
+415
+00:26:13,991 --> 00:26:15,993
+Ven, ven amiguito.
+
+416
+00:26:16,243 --> 00:26:17,243
+Vamos, vamos.
+
+417
+00:26:17,995 --> 00:26:18,995
+Ven.
+
+418
+00:26:21,332 --> 00:26:22,583
+Sal de ahí.
+Por favor.
+
+419
+00:26:22,625 --> 00:26:24,877
+No te entiende inglés.
+No te entiende.
+
+420
+00:26:26,087 --> 00:26:28,046
+¿Me diste un robot idiota?
+
+421
+00:26:28,047 --> 00:26:29,131
+Lo estás asustando.
+
+422
+00:26:30,925 --> 00:26:32,760
+Solo ve a la cocina.
+
+423
+00:26:34,470 --> 00:26:36,972
+Vamos ve a la cocina.
+
+424
+00:26:37,515 --> 00:26:39,934
+Yo me encargo.
+¿Puede hacer algo?
+
+425
+00:26:47,149 --> 00:26:48,943
+¿Puede entenderme?
+
+426
+00:26:51,487 --> 00:26:52,863
+Tú. chico informático.
+
+427
+00:26:53,864 --> 00:26:56,033
+¿Puede entenderme
+cuándo le hablo?
+
+428
+00:26:56,325 --> 00:26:58,035
+No, aun no.
+
+429
+00:26:58,828 --> 00:26:59,828
+Pronto.
+
+430
+00:27:01,914 --> 00:27:04,333
+Todo está bien. Ven.
+
+431
+00:27:06,168 --> 00:27:09,171
+Ven, ven.
+
+432
+00:27:09,922 --> 00:27:11,590
+Ven, no te haremos daño.
+
+433
+00:27:11,966 --> 00:27:13,300
+Así, eso es.
+
+434
+00:27:13,801 --> 00:27:14,801
+Ven.
+
+435
+00:27:15,678 --> 00:27:16,721
+Bien.
+
+436
+00:27:17,179 --> 00:27:19,056
+Bien.
+
+437
+00:27:19,534 --> 00:27:20,534
+Ven.
+
+438
+00:27:20,558 --> 00:27:22,810
+Sé que no entiendes.
+Está bien.
+
+439
+00:27:22,893 --> 00:27:23,893
+Ven.
+
+440
+00:27:24,103 --> 00:27:25,104
+Ahí va.
+
+441
+00:27:27,565 --> 00:27:29,108
+Está bien.
+
+442
+00:27:29,316 --> 00:27:30,317
+Es gracioso.
+
+443
+00:27:36,490 --> 00:27:37,490
+¿Te gusta?
+
+444
+00:27:38,784 --> 00:27:39,784
+¿Te gusta?
+
+445
+00:27:47,043 --> 00:27:49,837
+Es muy lindo Parece un bebé.
+
+446
+00:27:52,173 --> 00:27:54,175
+Es un reloj.
+Es un reloj.
+
+447
+00:28:02,141 --> 00:28:03,141
+Reloj.
+
+448
+00:28:05,436 --> 00:28:06,729
+Reloj.
+
+449
+00:28:09,482 --> 00:28:11,108
+- Increíble.
+- Reloj.
+
+450
+00:28:22,953 --> 00:28:23,996
+¡Qué bien!
+
+451
+00:28:24,455 --> 00:28:25,623
+Está bien.
+
+452
+00:28:30,461 --> 00:28:31,461
+¿Qué es esto?
+
+453
+00:28:32,129 --> 00:28:33,129
+¿Conoces esto?
+
+454
+00:28:35,007 --> 00:28:36,007
+Escucha esto.
+
+455
+00:28:40,846 --> 00:28:42,056
+Es un pollo.
+
+456
+00:28:46,185 --> 00:28:47,645
+Pollo.
+
+457
+00:28:51,107 --> 00:28:52,274
+Pollo.
+
+458
+00:28:57,822 --> 00:29:02,785
+- Yo-Landi.
+- Yo-Landi.
+
+459
+00:29:02,952 --> 00:29:04,537
+Bien.
+
+460
+00:29:07,373 --> 00:29:10,292
+- Deon.
+- Deon.
+
+461
+00:29:13,462 --> 00:29:14,839
+Te ves feliz.
+
+462
+00:29:15,589 --> 00:29:17,425
+Luces Chappie.
+
+463
+00:29:19,176 --> 00:29:21,887
+Ese es tu nombre:
+Chappie.
+
+464
+00:29:22,680 --> 00:29:23,848
+No. no. no.
+
+465
+00:29:24,473 --> 00:29:26,349
+- No su nombre no es...
+- Chappie.
+
+466
+00:29:26,350 --> 00:29:28,436
+Sí, Te gusta.
+
+467
+00:29:28,477 --> 00:29:29,477
+Sí, le gusta Chappie.
+
+468
+00:29:31,063 --> 00:29:32,732
+- Pollo
+- Pollo. ¡Sí!
+
+469
+00:29:33,941 --> 00:29:36,110
+¿Qué diablos es esto?
+
+470
+00:29:36,318 --> 00:29:37,903
+No te preocupes, es solo.
+
+471
+00:29:38,446 --> 00:29:39,446
+Pollo.
+
+472
+00:29:39,905 --> 00:29:41,991
+No. no. no.
+Espera. Espera.
+
+473
+00:29:42,033 --> 00:29:43,784
+Tengo que removerle
+la llave de la cabeza.
+
+474
+00:29:45,745 --> 00:29:47,371
+No lo veras de nuevo.
+
+475
+00:29:47,705 --> 00:29:49,290
+¡Es mío!
+Es muy especial.
+
+476
+00:29:49,498 --> 00:29:52,458
+No quiero una confrontación, pero tengo
+que verlo mañana, tenemos un trato.
+
+477
+00:29:52,585 --> 00:29:55,504
+Hicimos un trato,
+déjalo que venga entrenar el robot.
+
+478
+00:29:55,755 --> 00:29:57,798
+Por favor, déjame verlo
+como acordamos, por favor.
+
+479
+00:29:58,924 --> 00:29:59,924
+Bien. bien.
+
+480
+00:29:59,925 --> 00:30:01,469
+Regresaré, ¡Chappie, regresaré!
+
+481
+00:30:46,013 --> 00:30:47,056
+No. no. no.
+
+482
+00:30:49,433 --> 00:30:50,810
+¿Dónde está?
+
+483
+00:30:53,688 --> 00:30:55,523
+¿Qué demonios te traes, Deon?
+
+484
+00:31:05,825 --> 00:31:07,618
+PONGA SU CLAVE DE ADMINISTRADOR
+
+485
+00:31:07,743 --> 00:31:08,828
+CONECTANDO A RED
+DE EXPLORADORES
+
+486
+00:31:08,953 --> 00:31:10,121
+EXPLORADOR 22 ABIERTO
+
+487
+00:31:11,414 --> 00:31:12,957
+¿Qué es esto? Abierto.
+
+488
+00:31:15,084 --> 00:31:17,962
+"Explorador 22,
+llave protectora instalada".
+
+489
+00:32:17,772 --> 00:32:19,857
+<i>FILMATION PRESENTA</i>
+
+490
+00:32:23,319 --> 00:32:24,570
+<i>¡HE-MAN!</i>
+
+491
+00:32:24,737 --> 00:32:27,657
+<i>¡Y los Amos del Universo!</i>
+
+492
+00:32:29,325 --> 00:32:30,325
+<i>Yo soy Adam...</i>
+
+493
+00:32:30,368 --> 00:32:34,330
+<i>Príncipe de Eternia, y
+defensor del Castillo Grayskull.</i>
+
+494
+00:32:34,455 --> 00:32:36,248
+<i>Este es Cringer...</i>
+
+495
+00:32:36,374 --> 00:32:37,917
+<i>mi temerario amigo.</i>
+
+496
+00:32:38,918 --> 00:32:44,006
+<i>Descubrí mis poderes el día
+que levanté mi espada y dije:</i>
+
+497
+00:32:44,131 --> 00:32:46,717
+<i>¡Por el poder de Grayskull!.</i>
+
+498
+00:32:48,052 --> 00:32:49,345
+<i>¡He-Man!</i>
+
+499
+00:32:50,096 --> 00:32:54,433
+<i>"...¡yo tengo el poder!"</i>
+
+500
+00:32:57,478 --> 00:32:59,313
+¿Conque ves dibujos animados?
+
+501
+00:32:59,438 --> 00:33:03,734
+No, no, no, amigo.
+
+502
+00:33:04,527 --> 00:33:07,029
+Si te quedas aquí,
+me vas a ganar dinero.
+
+503
+00:33:07,113 --> 00:33:09,824
+Primero sacas la pistola.
+La sacas, ¿sí?
+
+504
+00:33:09,949 --> 00:33:12,118
+La amartillas.
+Está lista para disparar.
+
+505
+00:33:13,119 --> 00:33:14,578
+Escoges el blanco.
+
+506
+00:33:14,704 --> 00:33:17,289
+Quiero darle a la
+botella azul del frente.
+
+507
+00:33:17,415 --> 00:33:19,125
+Ven a ver, es fácil.
+
+508
+00:33:19,250 --> 00:33:23,587
+Apunto a la botella azul.
+Ahí está. Digo: "Bueno..."
+
+509
+00:33:24,547 --> 00:33:26,667
+Ahora voy a dispararle a
+la botella verde. Apunto y...
+
+510
+00:33:26,716 --> 00:33:28,551
+¡Pum! ¿Ves?
+
+511
+00:33:28,634 --> 00:33:30,261
+Ahora la amarilla.
+
+512
+00:33:30,386 --> 00:33:32,430
+¿Ves? ¡Es fácil!
+
+513
+00:33:32,513 --> 00:33:33,973
+Apuntas la pistola y...
+
+514
+00:33:37,727 --> 00:33:39,145
+¡Ven, no temas, ven!
+
+515
+00:33:39,311 --> 00:33:42,105
+Ven. Ponte aquí. Escucha.
+
+516
+00:33:42,106 --> 00:33:43,274
+Agarra la pistola.
+
+517
+00:33:44,191 --> 00:33:45,359
+La sostienes...
+
+518
+00:33:45,484 --> 00:33:46,944
+Extiende el brazo.
+
+519
+00:33:47,069 --> 00:33:48,779
+Agarra bien la pistola, Chappie.
+
+520
+00:33:49,739 --> 00:33:51,324
+Dios mío. Está bien.
+
+521
+00:33:51,449 --> 00:33:54,035
+¡Uno, dos, tres!
+
+522
+00:33:54,869 --> 00:33:56,412
+¿Qué...?
+
+523
+00:33:56,579 --> 00:33:58,914
+Dios mío, mi costal.
+
+524
+00:33:59,832 --> 00:34:01,917
+¡No tires mi pistola, Chappie!
+
+525
+00:34:02,793 --> 00:34:05,338
+¡Arruinaste la mira! ¡Es cara!
+
+526
+00:34:05,463 --> 00:34:06,839
+¿Qué estás haciendo?
+
+527
+00:34:06,922 --> 00:34:08,341
+Enseñándole a disparar.
+
+528
+00:34:08,424 --> 00:34:10,551
+No deberías estar
+haciendo eso todavía.
+
+529
+00:34:10,676 --> 00:34:13,137
+Deon dice que lo
+tiene que orientar.
+
+530
+00:34:13,262 --> 00:34:16,557
+¿Sabes qué? Voy a ir
+por la yerba yo solo.
+
+531
+00:34:17,058 --> 00:34:18,893
+Sin el maldito robot.
+
+532
+00:34:19,393 --> 00:34:23,397
+Ganaré todo el dinero para comprar
+los explosivos para el atraco.
+
+533
+00:34:24,106 --> 00:34:25,483
+Si no, date por muerta.
+
+534
+00:34:26,275 --> 00:34:28,361
+No es estúpido, solo es un niño.
+
+535
+00:34:28,486 --> 00:34:31,822
+¡Anda a pintarte las uñas y
+a jugar con tu bebé de titanio!
+
+536
+00:34:32,342 --> 00:34:33,342
+BUSQUEDA TETRAVAAL
+
+537
+00:34:33,366 --> 00:34:35,660
+Cuándo hablan los bebés.
+
+538
+00:34:41,165 --> 00:34:43,501
+Las primeras palabras de tu bebé.
+
+539
+00:34:43,584 --> 00:34:44,794
+3 meses.
+
+540
+00:34:46,170 --> 00:34:47,546
+¿Piensas tener un bebé?
+
+541
+00:34:49,215 --> 00:34:50,925
+Si apenas eres un bebé.
+
+542
+00:34:51,008 --> 00:34:52,760
+¿Qué pasó?
+
+543
+00:34:53,511 --> 00:34:56,389
+¿Te peleaste con
+tus amigos en el bar?
+
+544
+00:34:56,514 --> 00:34:59,558
+Si quieres ir al gimnasio
+a pegarle al costal...
+
+545
+00:34:59,684 --> 00:35:02,895
+te invito.
+Te enseño unos golpes.
+
+546
+00:35:03,020 --> 00:35:04,313
+Te enseño a pelear.
+
+547
+00:35:04,438 --> 00:35:06,524
+Siempre hay que estar listo.
+¿Entiendes?
+
+548
+00:35:06,607 --> 00:35:09,527
+- ¿Te animas?
+- Gracias por la invitación, pero no.
+
+549
+00:35:09,610 --> 00:35:12,446
+No te preocupes. Cuando gustes.
+
+550
+00:35:13,280 --> 00:35:16,283
+Es fantástico, amigo. De verdad.
+
+551
+00:35:16,367 --> 00:35:18,077
+Mira, un pequeño favor.
+Algo chico.
+
+552
+00:35:18,202 --> 00:35:23,165
+¿Me prestas la llave protectora
+para revisar niveles de seguridad?
+
+553
+00:35:23,290 --> 00:35:26,043
+Quiero asegurar que el Alce sea
+tan seguro como los Exploradores.
+
+554
+00:35:27,480 --> 00:35:28,480
+¿Qué te la preste?
+
+555
+00:35:28,504 --> 00:35:31,090
+Michelle me pidió que
+revisará la seguridad.
+
+556
+00:35:31,215 --> 00:35:32,883
+Sí, una hora o algo así.
+
+557
+00:35:35,428 --> 00:35:37,388
+Vincent, sabes que
+no te la puedo dar.
+
+558
+00:35:37,513 --> 00:35:39,432
+Hay reglas muy claras.
+Sabes cómo funciona.
+
+559
+00:35:39,557 --> 00:35:42,560
+Bla, bla, bla.
+No seas un aguafiestas.
+
+560
+00:35:42,643 --> 00:35:45,563
+Estamos hablando entre ingenieros.
+Dame la llave protectora.
+
+561
+00:35:45,730 --> 00:35:48,107
+¿"Ingeniero"?
+¿No eras un soldado?
+
+562
+00:35:48,566 --> 00:35:51,193
+- Estoy bromeando.
+- Qué chistoso.
+
+563
+00:35:51,402 --> 00:35:53,446
+Perdón. Necesitas
+que la directiva...
+
+564
+00:35:53,612 --> 00:35:55,698
+Pasé dos años en DARRA...
+
+565
+00:35:55,740 --> 00:35:59,493
+Y estuve en el SASR metido...
+
+566
+00:36:02,580 --> 00:36:05,082
+Estoy tan enojado como
+una rana en un calcetín.
+
+567
+00:36:05,166 --> 00:36:08,919
+Tus robots me quitaron
+todos mis fondos.
+
+568
+00:36:09,003 --> 00:36:12,506
+Eres un problema
+para mí, ¿entiendes?
+
+569
+00:36:12,590 --> 00:36:13,716
+Así que te lo pediré
+despacio, imbécil.
+
+570
+00:36:13,883 --> 00:36:18,763
+Dame... la... llave... protectora.
+
+571
+00:36:19,430 --> 00:36:20,723
+No.
+
+572
+00:36:25,686 --> 00:36:27,063
+Estaba bromeando.
+
+573
+00:36:27,188 --> 00:36:29,273
+Mira. Vacía.
+
+574
+00:36:29,398 --> 00:36:33,819
+Como si fuera a traer balas.
+
+575
+00:36:33,986 --> 00:36:36,405
+¡Es una broma!
+Todos a trabajar. Vamos.
+
+576
+00:36:37,239 --> 00:36:39,283
+A propósito. La iglesia.
+
+577
+00:36:40,117 --> 00:36:42,620
+Cualquier domingo, ven.
+Ven conmigo.
+
+578
+00:36:42,745 --> 00:36:44,455
+Todos pueden venir.
+
+579
+00:36:45,247 --> 00:36:47,291
+Es una broma amigo.
+
+580
+00:36:48,793 --> 00:36:50,378
+Tienen que ser menos aquí.
+
+581
+00:37:17,863 --> 00:37:19,782
+¿A dónde vas amigo?
+¿A dónde vas?
+
+582
+00:37:24,537 --> 00:37:26,497
+Zapato.
+
+583
+00:37:27,248 --> 00:37:30,501
+Di "zapato".
+
+584
+00:37:30,543 --> 00:37:31,794
+Es para tu pie, hermano.
+
+585
+00:37:31,961 --> 00:37:34,672
+Espera. Chappie. Chappie.
+
+586
+00:37:35,756 --> 00:37:37,758
+"Rata". No pasa nada.
+
+587
+00:37:37,883 --> 00:37:40,428
+Es tonto. No sabe hablar,
+estamos fritos.
+
+588
+00:37:40,553 --> 00:37:43,014
+No, si sabe hablar. Es genial.
+
+589
+00:37:43,055 --> 00:37:45,766
+No, si sabe hablar. Es genial.
+
+590
+00:37:46,600 --> 00:37:48,561
+¡Dios mío! ¡Me está copiando.
+
+591
+00:37:48,686 --> 00:37:51,647
+¡Chappie! Chappie, di "zapato".
+
+592
+00:37:51,772 --> 00:37:52,606
+Zapato.
+
+593
+00:37:52,732 --> 00:37:54,400
+Di "rata".
+
+594
+00:37:54,483 --> 00:37:55,483
+Rata.
+
+595
+00:37:55,901 --> 00:37:57,486
+Di "mami".
+
+596
+00:37:57,611 --> 00:37:59,530
+Di "mami".
+
+597
+00:38:00,406 --> 00:38:01,449
+Chappie.
+
+598
+00:38:01,532 --> 00:38:02,992
+Zapato.
+
+599
+00:38:03,075 --> 00:38:03,909
+Rata.
+
+600
+00:38:04,035 --> 00:38:05,286
+Mami.
+
+601
+00:38:06,287 --> 00:38:07,371
+- Amerika.
+- Amigo.
+
+602
+00:38:07,455 --> 00:38:08,748
+¡Amerika amigo!
+
+603
+00:38:08,831 --> 00:38:10,249
+¡Amerika amigo!
+
+604
+00:38:10,374 --> 00:38:12,126
+- Muy bien.
+- ¡Maldita sea!
+
+605
+00:38:12,251 --> 00:38:14,211
+Es un robot muy listo.
+
+606
+00:38:14,337 --> 00:38:16,881
+Es un robot muy listo.
+
+607
+00:38:18,382 --> 00:38:19,842
+Este hijo de puta habla feo.
+
+608
+00:38:19,925 --> 00:38:22,136
+Este hijo de puta habla feo.
+
+609
+00:38:22,178 --> 00:38:25,306
+Eres el maleante
+más grosero de Joburgo.
+
+610
+00:38:26,098 --> 00:38:30,852
+¡Chappie es el maleante callejero
+más grosero, puta madre!
+
+611
+00:38:30,853 --> 00:38:34,231
+- ¡Sí! ¡Va a funcionar!
+- ¡Sí! ¡Puta madre!
+
+612
+00:38:34,315 --> 00:38:36,859
+- ¡Es muy listo!
+- Puedo trabajar con esto.
+
+613
+00:38:36,984 --> 00:38:38,027
+Vamos a chocar puños.
+
+614
+00:38:38,713 --> 00:38:39,713
+¿Así?
+
+615
+00:38:39,737 --> 00:38:41,113
+¡Haz "blup"!
+
+616
+00:38:41,238 --> 00:38:43,658
+Pum, Chappie, haz "pum".
+
+617
+00:38:44,450 --> 00:38:45,450
+¡Blup!
+
+618
+00:38:46,452 --> 00:38:51,916
+Trabajo de T-H-O-R-A-V-E-N-G-E-R Y
+A-N-T-I-L-L-A-N-O
+
+619
+00:38:54,377 --> 00:38:55,419
+¿Oyes eso?
+
+620
+00:38:55,503 --> 00:38:56,671
+Llegó alguien.
+
+621
+00:39:00,299 --> 00:39:02,176
+- ¿Quién llegó, mami?
+- No sé.
+
+622
+00:39:06,305 --> 00:39:07,305
+¿Hola?
+
+623
+00:39:12,353 --> 00:39:13,479
+Es el nerd.
+
+624
+00:39:13,562 --> 00:39:14,562
+¿Qué?
+
+625
+00:39:15,147 --> 00:39:16,147
+No.
+
+626
+00:39:17,085 --> 00:39:18,085
+Hola.
+
+627
+00:39:18,109 --> 00:39:20,361
+No deberías estar aquí. Vete.
+
+628
+00:39:20,444 --> 00:39:21,654
+Vine a ver a mi...
+
+629
+00:39:21,737 --> 00:39:24,240
+No, va a volver pronto.
+Tienes suerte de estar vivo.
+
+630
+00:39:42,883 --> 00:39:44,385
+Solo voy a saludar...
+
+631
+00:39:44,510 --> 00:39:45,803
+¿Qué son esas cosas?
+
+632
+00:39:45,886 --> 00:39:48,556
+Vine a enseñarle. Como quedamos.
+
+633
+00:39:48,681 --> 00:39:50,933
+Te van a dar un balazo
+si andas por aquí.
+
+634
+00:39:54,895 --> 00:39:56,605
+¡Hola, pequeño!
+
+635
+00:39:57,106 --> 00:39:58,441
+¡Hola!
+
+636
+00:39:59,442 --> 00:40:00,609
+¿Ya aprendimos esta palabra?
+
+637
+00:40:02,570 --> 00:40:03,863
+Oye.
+
+638
+00:40:05,406 --> 00:40:07,033
+¿Qué hay, puta madre?
+
+639
+00:40:08,659 --> 00:40:09,827
+¿Qué demonios pasa?
+
+640
+00:40:11,245 --> 00:40:13,164
+¿Dónde aprendiste eso?
+
+641
+00:40:13,205 --> 00:40:13,831
+¿De ellos?
+
+642
+00:40:13,914 --> 00:40:17,710
+¿Por qué no te callas?
+O te acuchillo, perra.
+
+643
+00:40:17,877 --> 00:40:20,963
+Mejor te callas o
+te acuchillo, perra.
+
+644
+00:40:21,005 --> 00:40:23,716
+Chappie, por favor, respétame.
+Soy tu creador.
+
+645
+00:40:23,799 --> 00:40:26,886
+Por favor. Permíteme
+un momento con él.
+
+646
+00:40:27,011 --> 00:40:27,720
+¿Disculpa?
+
+647
+00:40:27,845 --> 00:40:31,682
+Seguro puedes ir y contar
+tus narcóticos en otro cuarto.
+
+648
+00:40:31,849 --> 00:40:35,561
+¿Vas a venir aquí y a decirme
+dónde hacer mi trabajo?
+
+649
+00:40:35,686 --> 00:40:37,355
+- No quiero una molestia.
+- Cállate.
+
+650
+00:40:37,480 --> 00:40:40,524
+- ¡Te voy a cortar la lengua!
+- Perdón. Me pasé de la raya.
+
+651
+00:40:40,649 --> 00:40:41,901
+Amerika, Amerika.
+
+652
+00:40:42,360 --> 00:40:44,737
+No cuentes drogas
+enfrente del niño.
+
+653
+00:40:44,862 --> 00:40:45,988
+Necesito hacer esto.
+
+654
+00:40:46,739 --> 00:40:49,492
+Cuando acabe,
+ojalá te hayas ido.
+
+655
+00:40:49,617 --> 00:40:50,743
+Sí. Definitivamente.
+
+656
+00:40:51,202 --> 00:40:52,202
+Chappie.
+
+657
+00:40:53,287 --> 00:40:54,997
+Escúchame. Soy tu creador.
+
+658
+00:40:55,456 --> 00:40:58,125
+Yo te traje a este mundo. ¿sí?
+
+659
+00:40:58,250 --> 00:40:59,250
+Esto es serio.
+
+660
+00:40:59,835 --> 00:41:02,630
+No debes adoptar
+el estilo de vida de ellos.
+
+661
+00:41:02,755 --> 00:41:04,006
+- ¿Qué?
+- No te ofendas.
+
+662
+00:41:04,757 --> 00:41:09,345
+No debes contar narcóticos
+ni cometer robos y crímenes.
+
+663
+00:41:09,470 --> 00:41:10,551
+Chappie no comete crímenes.
+
+664
+00:41:10,554 --> 00:41:11,931
+Y me tienes que prometer.
+
+665
+00:41:13,432 --> 00:41:14,934
+¿Qué es prometer?
+
+666
+00:41:15,059 --> 00:41:19,397
+Me prometes a mí, tu creador,
+que nunca harás esas cosas.
+
+667
+00:41:19,563 --> 00:41:20,940
+No puedes romper una promesa.
+
+668
+00:41:22,316 --> 00:41:24,860
+- Chappie promete.
+- ¡Muy bien! ¡Sí!
+
+669
+00:41:24,944 --> 00:41:26,862
+Deja de darle sermones.
+
+670
+00:41:26,946 --> 00:41:28,656
+Dijiste que le ibas
+a enseñar cosas.
+
+671
+00:41:28,781 --> 00:41:31,617
+Sí, claro. Ven. Siéntate aquí.
+Vamos.
+
+672
+00:41:32,785 --> 00:41:34,620
+Te traje cosas para
+alimentar tu mente...
+
+673
+00:41:34,704 --> 00:41:36,664
+y desarrollar tus habilidades.
+
+674
+00:41:36,789 --> 00:41:38,874
+Es importante
+usar tu mente. ¿Sí?
+
+675
+00:41:39,333 --> 00:41:40,334
+Allá vamos.
+
+676
+00:41:42,169 --> 00:41:43,169
+¿Qué es eso?
+
+677
+00:41:43,379 --> 00:41:44,380
+Es un libro.
+
+678
+00:41:44,588 --> 00:41:47,550
+Tiene cuentos, ¿ves? Mira.
+
+679
+00:41:47,591 --> 00:41:48,591
+¡Chappie lo quiere!
+
+680
+00:41:48,592 --> 00:41:50,011
+Se trata de una oveja negra.
+
+681
+00:41:50,136 --> 00:41:52,430
+- ¿Es de Chappie?
+- Sí, es tuyo.
+
+682
+00:41:53,973 --> 00:41:55,223
+¿Chappie tiene cuentos?
+
+683
+00:41:55,224 --> 00:41:57,393
+Chappie tiene un libro.
+
+684
+00:41:57,768 --> 00:42:00,354
+Ven, Chappie.
+Te voy a enseñar esto.
+
+685
+00:42:00,479 --> 00:42:01,689
+Esto es un caballero.
+
+686
+00:42:01,814 --> 00:42:02,565
+Caballete.
+
+687
+00:42:02,690 --> 00:42:05,234
+Estas son tus pinturas.
+Mira esto.
+
+688
+00:42:05,943 --> 00:42:07,445
+¿Ves eso?
+
+689
+00:42:07,570 --> 00:42:09,280
+- Azul.
+- Si, como el cielo.
+
+690
+00:42:10,197 --> 00:42:11,574
+Azul como el cielo.
+
+691
+00:42:12,241 --> 00:42:17,163
+En la vida, mucha gente trata
+de decirte lo que no puedes hacer.
+
+692
+00:42:17,997 --> 00:42:20,249
+Nunca debes hacerles caso.
+
+693
+00:42:20,374 --> 00:42:23,336
+Si quieres pintar, puedes.
+Puedes hacer lo que sea.
+
+694
+00:42:23,794 --> 00:42:25,087
+¿Chappie quiere pintar?
+
+695
+00:42:25,629 --> 00:42:27,757
+No dejes que te convenza.
+
+696
+00:42:27,882 --> 00:42:31,635
+Si solo está pintando.
+Ven Chappie.
+
+697
+00:42:37,850 --> 00:42:40,561
+Pinta tus colores aquí.
+Así, ¿ves?
+
+698
+00:42:41,354 --> 00:42:42,730
+Vamos a divertirnos.
+
+699
+00:42:43,397 --> 00:42:44,397
+Sí, lo quiero.
+
+700
+00:42:45,191 --> 00:42:47,026
+Dáselo a Chappie. Dáselo.
+
+701
+00:42:47,943 --> 00:42:48,943
+¿Cuál es la palabra?
+
+702
+00:42:50,404 --> 00:42:53,324
+Por favor, ¿Me puedes
+dar las pinturas?
+
+703
+00:42:53,407 --> 00:42:54,533
+¿Qué, en nombre de Dios...?
+
+704
+00:42:56,160 --> 00:42:59,080
+Eso es. Pon tu pintura ahí.
+Ponla en la tabla.
+
+705
+00:43:01,666 --> 00:43:03,417
+Ahí está la llave protectora.
+
+706
+00:43:04,251 --> 00:43:05,251
+Chappie está pintando.
+
+707
+00:43:05,920 --> 00:43:07,880
+¡Estoy muy orgullosa de tí!
+
+708
+00:43:08,005 --> 00:43:09,131
+¡Muy bien!
+
+709
+00:43:11,717 --> 00:43:14,428
+Cometiste un grave error, amigo.
+
+710
+00:43:16,222 --> 00:43:17,390
+Es lindo, ¿no?
+
+711
+00:43:18,057 --> 00:43:19,141
+Eso es. Sigue.
+
+712
+00:43:19,850 --> 00:43:22,061
+Sigue, no seas tímido.
+
+713
+00:43:38,327 --> 00:43:39,662
+Pintaste ese auto.
+
+714
+00:43:41,622 --> 00:43:42,915
+- Auto.
+- ¡Muy bien!
+
+715
+00:43:42,999 --> 00:43:45,960
+- Es un auto, mami.
+- ¡Muy bien. Chappie!
+
+716
+00:43:46,002 --> 00:43:47,002
+¿Pinto más?
+
+717
+00:44:13,654 --> 00:44:15,197
+- ¿En serio?
+- No, estaba sólo...
+
+718
+00:44:16,490 --> 00:44:18,117
+El aún está aquí.
+
+719
+00:44:18,534 --> 00:44:20,703
+No, fué mi idea.
+
+720
+00:44:20,995 --> 00:44:21,995
+Perdón.
+
+721
+00:44:22,663 --> 00:44:25,750
+- Él no puede seguir acá.
+- No.
+
+722
+00:44:26,917 --> 00:44:28,544
+¿Qué es lo que haces?
+
+723
+00:44:28,961 --> 00:44:32,548
+¡Solo le estaba
+enseñando a pintar a Chappie!
+
+724
+00:44:32,590 --> 00:44:33,507
+¡A ser un mariposón!
+
+725
+00:44:33,549 --> 00:44:35,760
+¡Te acusaré con la policía!
+Lo juro, por maltratarlo.
+
+726
+00:44:35,843 --> 00:44:40,056
+- ¿Les diré que lo maltrataste?
+- ¿Y a ellos que les importa un robot?
+
+727
+00:44:40,431 --> 00:44:43,684
+Eres un maldito,
+esto no se va a quedar así.
+
+728
+00:44:45,519 --> 00:44:46,937
+¿Qué hacías?
+
+729
+00:44:56,072 --> 00:44:58,658
+¡Él es más listo de lo que
+tú nunca lo serás!
+
+730
+00:44:58,783 --> 00:45:02,286
+Chappie, no dejes que estos bárbaros
+arruinen tu creatividad.
+
+731
+00:45:02,411 --> 00:45:04,705
+Quizá seas más que
+un robot Chappie.
+
+732
+00:45:06,165 --> 00:45:09,835
+Quizás es más que solo un tonto robot
+que le dispara a la gente.
+
+733
+00:45:10,336 --> 00:45:13,547
+Necesita hacer cosas,
+es un chico.
+
+734
+00:45:13,673 --> 00:45:14,965
+¿No lo entiendes?
+
+735
+00:45:15,007 --> 00:45:18,886
+¡Yo-Landi, dijimos para que luego
+no nos acusara y nos mataran!
+
+736
+00:45:19,053 --> 00:45:21,514
+¡Solo así podemos salir de aquí!
+
+737
+00:45:21,847 --> 00:45:24,100
+¿Qué parte de "muertos"
+no entendiste?
+
+738
+00:45:24,266 --> 00:45:27,019
+¡Solo vamos a tener éxito
+de esa manera!
+
+739
+00:45:29,980 --> 00:45:32,900
+- Yo-Landi, ¿tengo razón?
+- ¿Cuándo?
+
+740
+00:45:35,403 --> 00:45:37,196
+Van a mover dinero para mañana.
+
+741
+00:45:37,279 --> 00:45:38,279
+¿Cuánto?
+
+742
+00:45:38,364 --> 00:45:43,703
+600 millones. Rumbo al sur
+se están dirigiendo.
+
+743
+00:45:44,286 --> 00:45:47,873
+- Sí.
+- Entonces que hacemos.
+
+744
+00:45:48,457 --> 00:45:51,794
+Necesitamos una carga potencial.
+
+745
+00:45:52,545 --> 00:45:54,422
+- La camioneta.
+- ¿La camioneta?
+
+746
+00:45:54,463 --> 00:45:55,463
+No.
+
+747
+00:45:55,756 --> 00:46:00,511
+Yo-Landi, saldremos
+de esta. Lo prometo.
+
+748
+00:46:02,847 --> 00:46:06,308
+- ¿Qué tienes en la mano amigo?
+- Para pintar.
+
+749
+00:46:06,684 --> 00:46:08,269
+Deja eso.
+
+750
+00:46:10,438 --> 00:46:13,983
+- ¿Chappie, ves esa casa?
+- ¿La casa de Chappie?
+
+751
+00:46:14,066 --> 00:46:17,236
+¿No, entiendes cuan bueno
+seria vivir fuera?
+
+752
+00:46:17,361 --> 00:46:23,534
+Que te llevaran al mundo real,
+y no tener más clases.
+
+753
+00:46:25,911 --> 00:46:27,913
+Tengo una gran idea.
+
+754
+00:46:28,080 --> 00:46:30,958
+- Chappie, ¿te gustan los autos?
+- Sí, sí.
+
+755
+00:46:31,083 --> 00:46:34,837
+¿Por qué no vamos a dar una vuelta
+en un carro real a ver el mundo real?
+
+756
+00:46:34,879 --> 00:46:36,756
+Quiero subirme a un auto.
+
+757
+00:46:36,964 --> 00:46:43,387
+Vamos, Chappie, será genial.
+Despídete de Yoli.
+
+758
+00:46:43,929 --> 00:46:44,972
+Nos vemos Yoli.
+
+759
+00:46:46,265 --> 00:46:50,561
+Ahí va. cuidado, entra.
+
+760
+00:46:50,811 --> 00:46:52,063
+El pollo va contigo.
+
+761
+00:46:53,064 --> 00:46:54,523
+Será genial Chappie.
+
+762
+00:47:00,613 --> 00:47:02,490
+Esto es nuevo.
+
+763
+00:47:02,573 --> 00:47:05,116
+- Te gusta el mundo real, ¿no?
+- Sí, sí.
+
+764
+00:47:05,117 --> 00:47:06,786
+¡INTERNET VELOZ!
+
+765
+00:47:07,203 --> 00:47:08,287
+¿Qué cosa es INTERNET?
+
+766
+00:47:08,329 --> 00:47:10,039
+Es una cosa en una computadora.
+
+767
+00:47:10,206 --> 00:47:11,874
+En la que cargas información.
+
+768
+00:47:12,291 --> 00:47:14,210
+¡Yo quiero! ¡Yo quiero
+El Internet!
+
+769
+00:47:14,710 --> 00:47:18,547
+¿Cómo podrá regresar luego?
+
+770
+00:47:19,590 --> 00:47:22,259
+Es un robot listo,
+¿No es así Chappie?
+
+771
+00:47:22,301 --> 00:47:25,137
+Sí. Chappie es listo.
+Tiene su GPS.
+
+772
+00:47:25,531 --> 00:47:26,531
+¿Qué es este lugar?
+
+773
+00:47:26,555 --> 00:47:28,849
+Tú solo avanza.
+
+774
+00:47:41,612 --> 00:47:44,657
+- Sal fuera.
+- Chappie no quiere.
+
+775
+00:47:44,699 --> 00:47:47,618
+Ven Chappie, ven, ven, ven.
+
+776
+00:47:47,994 --> 00:47:49,203
+¡Un maldito policía!
+
+777
+00:47:51,539 --> 00:47:53,708
+Bienvenido al mundo real.
+
+778
+00:47:55,209 --> 00:47:56,627
+No me gusta mundo real.
+
+779
+00:47:57,837 --> 00:48:00,256
+Tiene que ponerte duro aquí.
+
+780
+00:48:00,297 --> 00:48:01,297
+Chappie se quiere subir.
+
+781
+00:48:02,217 --> 00:48:03,217
+¡Por favor!
+
+782
+00:48:03,218 --> 00:48:06,178
+Por favor, déjame entrar en el carro,
+déjame entrar en el carro.
+
+783
+00:48:06,262 --> 00:48:08,889
+Amerika.
+Por favor, no.
+
+784
+00:48:09,265 --> 00:48:11,183
+El primer día de escuela, ¿no?
+
+785
+00:48:14,854 --> 00:48:15,896
+Por favor, no.
+
+786
+00:48:16,897 --> 00:48:18,107
+¿Qué diablos?
+
+787
+00:48:20,651 --> 00:48:22,028
+No te acerques mucho.
+
+788
+00:48:22,945 --> 00:48:24,322
+No se ve peligroso.
+
+789
+00:48:25,031 --> 00:48:26,615
+No confíes en esta cosa.
+
+790
+00:48:26,782 --> 00:48:28,117
+¿Hola?
+Yo soy Chappie.
+
+791
+00:48:28,242 --> 00:48:29,242
+De acuerdo.
+
+792
+00:48:31,454 --> 00:48:33,080
+Eres nuevo.
+
+793
+00:48:33,622 --> 00:48:35,708
+Es una chatarra tonta.
+
+794
+00:48:37,918 --> 00:48:40,421
+¿Por qué hacen esto?
+¿Por qué hacen esto?
+
+795
+00:48:40,546 --> 00:48:42,465
+¿Por qué hacen esto?
+¿Por qué hacen esto?
+
+796
+00:48:42,882 --> 00:48:45,092
+Dile por que
+Por favor, no hagan.
+
+797
+00:48:48,387 --> 00:48:50,306
+Por favor, no me hagan daño.
+
+798
+00:48:50,473 --> 00:48:52,475
+Perdón. Fue un error.
+
+799
+00:48:53,392 --> 00:48:55,186
+Si no está aquí hoy mismo.
+
+800
+00:48:56,270 --> 00:48:58,147
+Que tenga un buen día.
+
+801
+00:48:59,273 --> 00:49:01,942
+Por favor, no.
+
+802
+00:49:03,903 --> 00:49:06,656
+Quiero irme a casa,
+quiero irme a casa.
+
+803
+00:49:27,885 --> 00:49:30,513
+Quiero irme a casa,
+quiero irme a casa.
+
+804
+00:49:35,559 --> 00:49:37,978
+Hola Deon, bienvenido a casa.
+
+805
+00:49:46,362 --> 00:49:48,572
+Limpiando negocios.
+
+806
+00:49:54,453 --> 00:49:56,163
+- Hola.
+- Hola Sr. Wilson.
+
+807
+00:49:56,205 --> 00:49:58,374
+Soy de seguridad
+de la corporación.
+
+808
+00:49:58,624 --> 00:50:01,460
+<i>¿Retiró una llave de
+seguridad hace unos días?</i>
+
+809
+00:50:01,627 --> 00:50:02,086
+Sí.
+
+810
+00:50:02,211 --> 00:50:05,880
+Sí, lo siento, es un error.
+Lo tengo conmigo.
+
+811
+00:50:05,881 --> 00:50:09,885
+<i>Debe entregar la llave.
+Es prioritario.</i>
+
+812
+00:50:37,955 --> 00:50:39,457
+Bien, lo tengo.
+
+813
+00:50:39,915 --> 00:50:42,418
+El blanco se está en movimiento
+ahora. Toma la vía principal.
+
+814
+00:51:34,947 --> 00:51:35,947
+Bien.
+
+815
+00:51:35,971 --> 00:51:37,515
+300 metros adelante.
+
+816
+00:51:37,640 --> 00:51:39,850
+Nos acercamos despacio,
+no quiero perder distancia.
+
+817
+00:51:40,518 --> 00:51:41,519
+Listos.
+
+818
+00:51:41,686 --> 00:51:46,023
+Puede parecer un juguete,
+pero les aseguro que no.
+
+819
+00:51:46,941 --> 00:51:50,194
+- Más listo que los de su tipo.
+- Cuidado.
+
+820
+00:52:11,132 --> 00:52:12,132
+Chico.
+
+821
+00:52:16,846 --> 00:52:18,681
+Parece que se te
+olvido quién eres.
+
+822
+00:52:19,682 --> 00:52:20,682
+¿Verdad?
+
+823
+00:52:20,975 --> 00:52:22,685
+Vas a disfrutar esto.
+
+824
+00:52:23,686 --> 00:52:24,979
+Pareces un niño.
+
+825
+00:52:45,810 --> 00:52:46,810
+Voltéalo.
+
+826
+00:52:46,834 --> 00:52:48,044
+Chappie tiene miedos.
+
+827
+00:52:48,169 --> 00:52:50,921
+Hacia acá. Necesito
+acceso a su cerebro.
+
+828
+00:52:51,047 --> 00:52:53,799
+- ¡No, por favor!
+- ¿Cómo te atreves?
+
+829
+00:52:53,924 --> 00:52:54,717
+¡Bájenlo!
+
+830
+00:52:54,842 --> 00:52:56,969
+¡Por favor. no! ¡Por favor, no!
+
+831
+00:52:57,094 --> 00:52:58,220
+¡No me digas por favor!
+
+832
+00:52:58,304 --> 00:53:00,014
+No soy tu amigo, ¿entiendes?
+
+833
+00:53:00,097 --> 00:53:00,789
+Soy tu enemigo.
+
+834
+00:53:00,917 --> 00:53:02,975
+¡Dame una sierra!
+¡Para que aprenda!
+
+835
+00:53:04,727 --> 00:53:07,021
+¡No! ¡Chappie tiene miedos!
+
+836
+00:53:07,146 --> 00:53:08,272
+¡Chappie tiene miedos!
+
+837
+00:53:10,105 --> 00:53:11,881
+¡Por favor! ¡Pare! ¡Por favor!
+
+838
+00:53:15,404 --> 00:53:17,657
+Vas a portarte bien, ¿verdad?
+
+839
+00:53:18,658 --> 00:53:20,117
+Voltéenlo.
+
+840
+00:53:20,868 --> 00:53:23,496
+Eso es. Dame un desarmador.
+
+841
+00:53:23,996 --> 00:53:26,823
+Tu simple programa...
+
+842
+00:53:27,249 --> 00:53:30,044
+te hace pensar que eres real.
+
+843
+00:53:30,503 --> 00:53:32,546
+¿Pero sabes qué hay aquí?
+
+844
+00:53:32,880 --> 00:53:33,880
+Nada.
+
+845
+00:53:34,674 --> 00:53:36,050
+Un montón de cables, amigo.
+
+846
+00:53:36,467 --> 00:53:38,511
+No eres tan genio.
+
+847
+00:53:40,262 --> 00:53:41,722
+Eso es.
+
+848
+00:53:41,847 --> 00:53:43,599
+Chappie es real.
+
+849
+00:53:45,309 --> 00:53:48,062
+CPU AL DESCUBIERTO
+
+850
+00:53:49,647 --> 00:53:51,023
+Aquí está.
+
+851
+00:53:53,234 --> 00:53:54,652
+Muy bien.
+
+852
+00:53:55,987 --> 00:53:57,238
+Desháganse de él.
+
+853
+00:53:58,197 --> 00:53:59,323
+Deténganlo.
+
+854
+00:53:59,448 --> 00:54:01,200
+- Deténganlo.
+- ¡No. no!
+
+855
+00:54:01,325 --> 00:54:03,244
+- ¡Deténganlo!
+- ¡No quiero más miedos!
+
+856
+00:54:03,327 --> 00:54:04,912
+¡Que lo detengan!
+
+857
+00:54:04,996 --> 00:54:06,622
+¡Chappie no quiere miedos!
+
+858
+00:54:06,706 --> 00:54:07,873
+¡Chappie no quiere miedos!
+
+859
+00:54:14,255 --> 00:54:16,132
+¡Paren! ¡Paren el camión!
+
+860
+00:54:20,469 --> 00:54:21,846
+ARMADURA DAÑADA
+
+861
+00:54:24,557 --> 00:54:26,392
+¡Alto al fuego! ¡Alto al fuego!
+
+862
+00:54:27,810 --> 00:54:28,978
+Dejen que se vaya.
+
+863
+00:54:31,188 --> 00:54:32,440
+Tengo lo que necesito.
+
+864
+00:54:33,316 --> 00:54:34,525
+¡Corre!
+
+865
+00:54:54,045 --> 00:54:56,172
+- Esto va a ser fácil.
+- Dios mío.
+
+866
+00:54:56,839 --> 00:54:57,839
+¿Chappie?
+
+867
+00:54:59,008 --> 00:55:00,301
+¡Chappie!
+
+868
+00:55:00,384 --> 00:55:01,927
+Te dije que no era buena idea.
+
+869
+00:55:02,053 --> 00:55:03,137
+Mami.
+
+870
+00:55:03,971 --> 00:55:05,890
+¡Chappie! ¿Qué pasó?
+
+871
+00:55:06,015 --> 00:55:06,807
+Mami.
+
+872
+00:55:06,932 --> 00:55:09,560
+Dios mío. ¿Chappie qué pasó?
+
+873
+00:55:09,685 --> 00:55:11,646
+¿Quién te hizo esto?
+
+874
+00:55:12,480 --> 00:55:14,357
+Dios mío, Chappie. Siéntate aquí.
+
+875
+00:55:14,440 --> 00:55:16,192
+Lo siento mucho.
+
+876
+00:55:17,985 --> 00:55:19,362
+¿Qué pasó?
+
+877
+00:55:19,779 --> 00:55:21,280
+¿Cómo pudiste hacer esto?
+
+878
+00:55:21,447 --> 00:55:22,615
+¿Cómo?
+
+879
+00:55:23,324 --> 00:55:24,825
+¡Solo es un niño!
+
+880
+00:55:25,493 --> 00:55:27,370
+No sabía que iba a pasar esto.
+
+881
+00:55:27,495 --> 00:55:29,163
+Ni siquiera sé qué pasó.
+
+882
+00:55:29,288 --> 00:55:31,082
+¡Te odio!
+
+883
+00:55:31,165 --> 00:55:32,792
+No tengo un brazo, mami.
+
+884
+00:55:32,917 --> 00:55:33,668
+Amerika.
+
+885
+00:55:33,793 --> 00:55:36,962
+¿No tenemos brazos y piernas
+y cosas atrás?
+
+886
+00:55:37,088 --> 00:55:39,507
+- Sí, espera.
+- ¿Puedes arreglar...?
+
+887
+00:55:40,841 --> 00:55:43,260
+Chappie, déjame quitarte
+un poco de tierra.
+
+888
+00:55:49,141 --> 00:55:51,560
+Chappie, ¿Quién te hizo esto?
+
+889
+00:55:52,895 --> 00:55:54,105
+Un hombre.
+
+890
+00:55:54,563 --> 00:55:55,731
+En una camioneta.
+
+891
+00:55:56,357 --> 00:55:58,609
+- ¿Un hombre en una camioneta?
+- Sí.
+
+892
+00:55:58,651 --> 00:56:00,736
+- ¿Te metió en la camioneta?
+- Sí.
+
+893
+00:56:01,696 --> 00:56:03,280
+¿Conoces a este hombre?
+
+894
+00:56:04,323 --> 00:56:05,324
+No.
+
+895
+00:56:05,658 --> 00:56:06,658
+Está deshecho.
+
+896
+00:56:06,659 --> 00:56:08,619
+Y también había niños.
+
+897
+00:56:08,703 --> 00:56:11,539
+Y me echaron fuego
+aunque dije "por favor".
+
+898
+00:56:11,664 --> 00:56:13,207
+- ¿Niños?
+- Sí.
+
+899
+00:56:13,332 --> 00:56:14,834
+¡Qué vergüenza!
+
+900
+00:56:15,001 --> 00:56:18,379
+- Esta cosa en la cabeza.
+- Está muy dañado.
+
+901
+00:56:18,546 --> 00:56:20,673
+Necesitamos meter esta cosa aquí.
+
+902
+00:56:23,968 --> 00:56:25,803
+El hombre la rompió, mami.
+
+903
+00:56:26,721 --> 00:56:29,306
+- Me rompió la cabeza.
+- Yo te la arreglo.
+
+904
+00:56:29,473 --> 00:56:31,142
+Voy a tratar, amigo.
+
+905
+00:56:31,267 --> 00:56:32,768
+- ¿Cómo va esto?
+- Eso es.
+
+906
+00:56:36,188 --> 00:56:39,025
+- ¿Dónde va eso?
+- Mucho mejor.
+
+907
+00:56:39,150 --> 00:56:41,319
+Allá vamos, amigo.
+
+908
+00:56:41,444 --> 00:56:43,612
+Es de plug and play. Como dijo.
+
+909
+00:56:47,658 --> 00:56:48,658
+¿Cómo te sientes?
+
+910
+00:56:50,953 --> 00:56:52,204
+Creo que ya está.
+
+911
+00:56:53,247 --> 00:56:54,582
+¿Lo puedes mover? Prueba.
+
+912
+00:56:54,665 --> 00:56:56,167
+Trata de mover tu brazo.
+
+913
+00:56:58,127 --> 00:56:59,879
+Eso es.
+
+914
+00:56:59,962 --> 00:57:01,422
+- Sirve.
+- Lo muevo.
+
+915
+00:57:01,547 --> 00:57:05,801
+- Muy bien, amigo.
+- Gracias a Dios.
+
+916
+00:57:05,885 --> 00:57:06,885
+Eres indestructible.
+
+917
+00:57:06,886 --> 00:57:07,886
+¿Soy indestructible?
+
+918
+00:57:07,970 --> 00:57:10,890
+Titanio. Indestructible.
+Así eres tú.
+
+919
+00:57:10,973 --> 00:57:14,518
+¿Ese es mi libro?
+¿La oveja negra?
+
+920
+00:57:15,061 --> 00:57:16,562
+- ¿Qué?
+- ¿Por favor, me lo das?
+
+921
+00:57:16,687 --> 00:57:19,857
+Es mi libro de mi creador.
+Oveja negra y pajarito.
+
+922
+00:57:19,940 --> 00:57:21,525
+- ¿Me lo puedes leer?
+- Sí.
+
+923
+00:57:21,817 --> 00:57:24,070
+- ¿Por favor, me lo lees?
+- Sí, te lo puedo leer.
+
+924
+00:57:27,031 --> 00:57:30,117
+"Todas las ovejas de
+Magooville eran blancas.
+
+925
+00:57:31,661 --> 00:57:35,122
+Pero Abel era una oveja negra".
+
+926
+00:57:35,247 --> 00:57:38,334
+- ¿Sabes qué es una oveja negra?
+- No.
+
+927
+00:57:38,459 --> 00:57:42,004
+Es como cuando eres diferente
+de todos los demás.
+
+928
+00:57:43,005 --> 00:57:45,675
+Como yo. Me veo diferente,
+de ti y de Amerika.
+
+929
+00:57:45,758 --> 00:57:47,093
+- Sí.
+- Y de los chicos.
+
+930
+00:57:47,218 --> 00:57:50,763
+Sí, pero lo importante
+no es tu apariencia.
+
+931
+00:57:50,888 --> 00:57:55,518
+Es especial, lo que tienes dentro.
+
+932
+00:57:56,310 --> 00:57:57,687
+Eso es lo que te hace distinto.
+
+933
+00:57:57,812 --> 00:58:01,691
+Es quién eres de verdad.
+
+934
+00:58:01,816 --> 00:58:03,192
+Dentro.
+
+935
+00:58:03,317 --> 00:58:04,527
+Tu alma.
+
+936
+00:58:07,196 --> 00:58:08,531
+¿Chappie está aquí dentro?
+
+937
+00:58:08,656 --> 00:58:09,824
+Sí.
+
+938
+00:58:10,259 --> 00:58:11,259
+Verás:
+
+939
+00:58:11,283 --> 00:58:13,536
+Lo de afuera, esto...
+
+940
+00:58:13,661 --> 00:58:16,288
+esto solo es temporal.
+
+941
+00:58:16,414 --> 00:58:17,498
+Cuando te mueres...
+
+942
+00:58:17,623 --> 00:58:21,961
+el alma de dentro
+se va al siguiente lugar.
+
+943
+00:58:23,254 --> 00:58:25,172
+La cosa de dentro...
+
+944
+00:58:26,132 --> 00:58:29,135
+eso es lo que mami adora.
+
+945
+00:58:29,904 --> 00:58:30,904
+Acércate.
+
+946
+00:58:30,928 --> 00:58:32,638
+Mami te quiere.
+
+947
+00:58:35,558 --> 00:58:38,913
+¿Sí?, déjame
+leerte tu libro.
+
+948
+00:58:40,753 --> 00:58:45,051
+Había una vez...
+
+949
+00:59:32,457 --> 00:59:33,457
+Tú eres una oveja negra.
+
+950
+00:59:33,521 --> 00:59:35,089
+Chappie, tú eres especial.
+
+951
+00:59:36,077 --> 00:59:37,787
+- Lo sé, mami.
+- Chappie.
+
+952
+00:59:50,174 --> 00:59:55,721
+Algo surgió, algo inesperado,
+de verdad lo siento.
+
+953
+00:59:58,199 --> 01:00:00,118
+- ¿Me perdonas?
+- ¿Perdonarte?
+
+954
+01:00:00,702 --> 01:00:01,702
+Ven.
+
+955
+01:00:05,540 --> 01:00:08,835
+Chappie, vamos a reajustar.
+
+956
+01:00:08,876 --> 01:00:10,211
+- Reajustar.
+- Sí.
+
+957
+01:00:10,420 --> 01:00:11,588
+- Para siempre.
+- Sí.
+
+958
+01:00:12,297 --> 01:00:16,800
+Y hagámonos más rudos
+y fuertes, quien es...
+
+959
+01:00:16,801 --> 01:00:20,888
+- ...el robot Gánster número uno.
+- Gánster número uno.
+
+960
+01:00:22,557 --> 01:00:24,683
+Chappie para que lo sepas
+yo soy tu papi...
+
+961
+01:00:24,684 --> 01:00:27,270
+- ...de verdad.
+- ¿Tú eres el papi de Chappie?
+
+962
+01:00:29,105 --> 01:00:30,772
+- ¿Qué es eso?
+- Nada.
+
+963
+01:00:30,773 --> 01:00:33,192
+- ¿Qué es eso Chappie?
+- No es nada.
+
+964
+01:00:33,318 --> 01:00:34,318
+Muéstramelo.
+
+965
+01:00:35,486 --> 01:00:36,487
+Es mami.
+
+966
+01:00:36,904 --> 01:00:40,116
+Chappie si quieres estar en la banda,
+debes ser honesto con papi.
+
+967
+01:00:40,325 --> 01:00:41,367
+Deja eso.
+
+968
+01:00:42,577 --> 01:00:43,577
+Ahora.
+
+969
+01:00:43,953 --> 01:00:45,746
+Si quieres ser buena
+onda tienes que...
+
+970
+01:00:45,747 --> 01:00:46,747
+actuar buena onda.
+
+971
+01:00:47,540 --> 01:00:49,374
+Como papi camina, tienes
+que ser como...
+
+972
+01:00:49,375 --> 01:00:52,044
+- Sí, como Gánster.
+- Sí, como Gánster.
+
+973
+01:00:52,045 --> 01:00:53,338
+Sí, buena onda.
+
+974
+01:00:53,546 --> 01:00:55,006
+¡Sí, buena onda!
+
+975
+01:00:55,715 --> 01:00:58,176
+¡Si tienes un arma lo haces
+con onda así BUM!
+
+976
+01:00:58,301 --> 01:01:02,055
+- Inténtalo.
+- Tengo una arma ¡BUM!
+
+977
+01:01:02,513 --> 01:01:03,681
+Eso es Chappie.
+
+978
+01:01:03,848 --> 01:01:05,934
+Tu les disparas a esos malditos.
+
+979
+01:01:07,602 --> 01:01:09,395
+A mí no me gusta
+dispararle a las personas.
+
+980
+01:01:09,729 --> 01:01:10,729
+¿Qué?
+
+981
+01:01:10,980 --> 01:01:13,274
+¿Si les disparo y ellos
+me disparan a mí?
+
+982
+01:01:13,483 --> 01:01:17,153
+No, pero que pasa si él te
+amenaza con un arma.
+
+983
+01:01:17,654 --> 01:01:20,698
+Soy de Titanio, invencible.
+Amerika dice.
+
+984
+01:01:20,740 --> 01:01:23,660
+Si pero por ser invencible, no debes
+dejar que nadie te falte el respeto.
+
+985
+01:01:23,910 --> 01:01:26,704
+¿Como pretendes andar con nosotros
+si no le disparas a las personas?
+
+986
+01:01:28,248 --> 01:01:32,126
+No puedo hacer eso, me mantengo alejado
+de los crímenes los ayudo con otras...
+
+987
+01:01:32,168 --> 01:01:33,877
+Eres como un maldito retrasado.
+
+988
+01:01:33,878 --> 01:01:36,130
+¡Por qué eres un maldito mierda!
+
+989
+01:01:41,844 --> 01:01:45,056
+Nos encargaremos de esto luego, ¿sí?
+Déjamelo a mí.
+
+990
+01:01:46,599 --> 01:01:47,599
+Tú...
+
+991
+01:01:48,768 --> 01:01:50,061
+Vas muy bien.
+
+992
+01:01:50,937 --> 01:01:52,772
+Si alguien te falta al respeto.
+
+993
+01:01:53,064 --> 01:01:55,441
+Puedes domarlo sin usar una pistola.
+
+994
+01:01:56,818 --> 01:01:57,819
+¿En serio?
+
+995
+01:01:58,736 --> 01:02:01,572
+Metes la navaja,
+se relajan y a dormir.
+
+996
+01:02:01,781 --> 01:02:04,909
+Sí, tú puedes, puedes hacer
+que se vallan a dormir.
+
+997
+01:02:04,951 --> 01:02:07,620
+Es algo buena onda,
+está bien Chappie.
+
+998
+01:02:07,787 --> 01:02:08,829
+Toma la navaja.
+
+999
+01:02:08,830 --> 01:02:10,039
+¿Toma la navaja?
+
+1000
+01:02:10,081 --> 01:02:11,416
+¿Que se vallan a dormir?
+
+1001
+01:02:13,126 --> 01:02:14,836
+- ¿Quieres darme eso?
+- No, no, no, no.
+
+1002
+01:02:14,961 --> 01:02:16,129
+- ¿Quieres dármelo?
+- No, no, no, no Chappie.
+
+1003
+01:02:16,170 --> 01:02:19,507
+Eso es especial, no ya está
+cansado y está dormido.
+
+1004
+01:02:20,174 --> 01:02:21,174
+Estas cosas, servirán.
+
+1005
+01:02:21,342 --> 01:02:22,427
+Para un Gánster.
+
+1006
+01:02:22,552 --> 01:02:23,761
+Tenemos esto.
+
+1007
+01:02:58,796 --> 01:03:00,964
+¿Chappie si vieras como te vez?
+
+1008
+01:03:00,965 --> 01:03:03,384
+Como un Gánster,
+¿Cómo un Gánster?
+
+1009
+01:03:04,177 --> 01:03:06,179
+¿Hacemos algunas cosas
+para preparar el robo?
+
+1010
+01:03:07,472 --> 01:03:09,182
+No crímenes.
+
+1011
+01:03:09,849 --> 01:03:11,308
+Cosas especiales de gánsteres.
+
+1012
+01:03:11,309 --> 01:03:13,352
+- ¿Cosas de Gángsters?
+- ¿Es lo que hacemos?
+
+1013
+01:03:13,353 --> 01:03:14,354
+Sí, quiero hacerlo.
+
+1014
+01:03:15,355 --> 01:03:23,355
+SUBTITULADO POR T H O R A V E N G E R
+Y A N T I L L A N O
+
+1015
+01:03:29,661 --> 01:03:30,661
+- Chappie.
+- ¡Sí!
+
+1016
+01:03:30,662 --> 01:03:33,748
+Tu opción ahora es recuperar
+uno de los autos de papá...
+
+1017
+01:03:33,790 --> 01:03:35,124
+para conseguir dinero.
+
+1018
+01:03:36,209 --> 01:03:37,209
+¿Dónde busco el auto?
+
+1019
+01:03:37,627 --> 01:03:41,005
+Ya te dije, Chappie lo tiene el hombre
+malo que le quitó el auto a papi.
+
+1020
+01:03:41,089 --> 01:03:44,259
+Lo que vas a hacer es tomar
+la pistola y apuntarle con ella.
+
+1021
+01:03:44,384 --> 01:03:46,177
+No le tienes que disparar.
+
+1022
+01:03:46,344 --> 01:03:49,180
+Solo asústalo para que no lo vuelva
+a quitarme el auto otra vez.
+
+1023
+01:03:49,514 --> 01:03:52,099
+¡Dame esto para que
+no lo vuelva a quitarle el auto a papi!
+
+1024
+01:03:52,100 --> 01:03:53,226
+Muy bien, Chappie.
+
+1025
+01:03:54,185 --> 01:03:55,185
+¿Dónde está?
+
+1026
+01:03:55,311 --> 01:03:56,312
+Te enseño el auto.
+
+1027
+01:03:57,230 --> 01:03:58,898
+¡Es un maldito mamador!
+
+1028
+01:04:00,900 --> 01:04:02,443
+Ahí está el desgraciado.
+
+1029
+01:04:03,486 --> 01:04:05,154
+<i>¡Estás muerto!</i>
+
+1030
+01:04:05,989 --> 01:04:07,031
+¡Ve por el Chappie!
+
+1031
+01:04:07,156 --> 01:04:08,908
+¡Voy por él!
+
+1032
+01:04:14,914 --> 01:04:16,623
+¿Cuál es el problema policía?
+
+1033
+01:04:16,624 --> 01:04:18,209
+¡Le robaste el auto a papi!
+
+1034
+01:04:20,378 --> 01:04:21,504
+¡No debes...!
+
+1035
+01:04:21,629 --> 01:04:22,672
+robarle...
+
+1036
+01:04:22,797 --> 01:04:23,797
+autos...
+
+1037
+01:04:23,840 --> 01:04:24,840
+a...
+
+1038
+01:04:24,882 --> 01:04:26,009
+papi!
+
+1039
+01:04:26,175 --> 01:04:27,343
+¡No, alto! ¿Qué hice?
+
+1040
+01:04:27,468 --> 01:04:28,468
+¡Ladrón!
+
+1041
+01:04:29,114 --> 01:04:30,114
+¡No me lastime!
+
+1042
+01:04:30,138 --> 01:04:32,307
+- ¡No! ¡Dios mío!
+- ¿Qué haces?
+
+1043
+01:04:32,932 --> 01:04:34,517
+¡No debes robar
+los autos de papi!
+
+1044
+01:04:34,601 --> 01:04:35,476
+¿De quién?
+
+1045
+01:04:35,560 --> 01:04:37,437
+- ¡Dios mío!
+- ¡Demonios!
+
+1046
+01:04:39,439 --> 01:04:41,107
+¡Tengo tu auto, papi!
+
+1047
+01:04:41,232 --> 01:04:43,276
+¡Ven acá, Chappie! ¡Ven!
+¡Deja el auto!
+
+1048
+01:04:44,152 --> 01:04:45,570
+¡Ladrón! ¡Ladrón!
+
+1049
+01:04:45,695 --> 01:04:46,695
+¡Ven!
+
+1050
+01:04:47,572 --> 01:04:49,490
+- ¡Púdrete, tonto!
+- ¡Recuperé el auto!
+
+1051
+01:04:49,616 --> 01:04:51,534
+¿Qué te pasa? ¡Cierra la puerta!
+
+1052
+01:04:51,618 --> 01:04:52,618
+¡Ladrón!
+
+1053
+01:04:52,869 --> 01:04:56,497
+Dios mío, Chappie, ¿qué te pasa?
+
+1054
+01:04:56,539 --> 01:04:57,539
+¿Qué, papi?
+
+1055
+01:04:58,291 --> 01:05:01,586
+Papi necesita los autos
+bonitos para venderlos.
+
+1056
+01:05:01,711 --> 01:05:02,921
+¿Por qué destruir el auto?
+
+1057
+01:05:03,046 --> 01:05:05,506
+Ya veo, ¡Ya veo!
+
+1058
+01:05:05,590 --> 01:05:06,591
+¿Puedo ir otra vez?
+
+1059
+01:05:08,009 --> 01:05:09,302
+¡Chappie, es allá!
+
+1060
+01:05:10,553 --> 01:05:12,180
+Esa ramera le quitó
+el auto a papi.
+
+1061
+01:05:12,263 --> 01:05:13,263
+¡La va a pagar!
+
+1062
+01:05:14,891 --> 01:05:16,017
+¡Hola, oficial!
+
+1063
+01:05:16,142 --> 01:05:17,477
+¡Ramera! ¡Sal!
+
+1064
+01:05:17,602 --> 01:05:18,602
+¡Fuera!
+
+1065
+01:05:18,645 --> 01:05:20,229
+¿Por qué robas autos de papi?
+
+1066
+01:05:20,313 --> 01:05:21,313
+¡Qué majadera!
+
+1067
+01:05:21,397 --> 01:05:22,398
+¡Es mi auto!
+
+1068
+01:05:22,523 --> 01:05:23,733
+¿De quién es esto? ¿De papi?
+
+1069
+01:05:24,692 --> 01:05:26,611
+¡No robes las cosas de la gente!
+
+1070
+01:05:30,823 --> 01:05:32,367
+¡Oye! ¡Sal, alcohólico!
+
+1071
+01:05:32,492 --> 01:05:33,034
+Fuera.
+
+1072
+01:05:33,159 --> 01:05:35,078
+¡No he estado tomando!
+
+1073
+01:05:35,161 --> 01:05:36,871
+¿Robas autos
+para comprar alcohol?
+
+1074
+01:05:36,996 --> 01:05:37,996
+¡Este auto es mío!
+
+1075
+01:05:48,675 --> 01:05:50,134
+¡Ya tengo uno mío!
+
+1076
+01:05:50,301 --> 01:05:51,301
+¡Muy bien!
+
+1077
+01:05:51,344 --> 01:05:52,553
+¡Mira nada más!
+
+1078
+01:05:52,679 --> 01:05:56,307
+¡Sí, soy un chulo! ¡Soy un chulo!
+
+1079
+01:05:58,268 --> 01:06:01,396
+Ahora vamos a llevar
+los autos con King.
+
+1080
+01:06:01,479 --> 01:06:05,024
+¡Y King traerá las herramientas
+para dar con el atraco!
+
+1081
+01:06:05,149 --> 01:06:08,194
+Y entonces vamos a tener
+todavía más dinero, Chappie.
+
+1082
+01:06:09,153 --> 01:06:11,072
+No puedo hacer el atraco.
+
+1083
+01:06:11,990 --> 01:06:13,616
+El atraco es un crimen.
+
+1084
+01:06:40,268 --> 01:06:42,228
+¡Papi, mira, hay perros!
+
+1085
+01:06:42,353 --> 01:06:43,062
+Si, Chappie.
+
+1086
+01:06:43,187 --> 01:06:44,522
+Están aquí para pelear.
+
+1087
+01:06:44,647 --> 01:06:46,691
+¡Tráeme la oreja!
+
+1088
+01:06:54,407 --> 01:06:55,700
+¡Vino la policía!
+
+1089
+01:06:55,825 --> 01:06:57,577
+¡Corran! ¡Un policía!
+
+1090
+01:06:57,702 --> 01:07:00,079
+¡Es bueno!
+
+1091
+01:07:00,246 --> 01:07:02,916
+¡No es un policía!
+
+1092
+01:07:06,628 --> 01:07:08,296
+Dios mío.
+
+1093
+01:07:09,422 --> 01:07:11,424
+¿Aquí es donde vive King?
+
+1094
+01:07:11,591 --> 01:07:13,760
+¿Quieres ir a ver
+al rey del castillo?
+
+1095
+01:07:13,843 --> 01:07:15,678
+Sí, quiero ir arriba.
+
+1096
+01:07:15,762 --> 01:07:16,763
+Pues no puedes.
+
+1097
+01:07:16,804 --> 01:07:19,140
+Porque no vas a hacer el atraco.
+
+1098
+01:07:19,223 --> 01:07:20,892
+Tú te quedas aquí.
+
+1099
+01:07:21,017 --> 01:07:22,477
+Quizá la próxima vez, Chappie.
+
+1100
+01:07:22,560 --> 01:07:25,521
+Bueno. Me quedaré aquí.
+
+1101
+01:07:25,647 --> 01:07:28,524
+Haré guardia aquí.
+
+1102
+01:07:29,484 --> 01:07:30,860
+Qué torre tan alta.
+
+1103
+01:07:48,253 --> 01:07:49,462
+¡Hola, King!
+
+1104
+01:07:49,629 --> 01:07:51,464
+- ¡Mi hermano!
+- Mi amigo.
+
+1105
+01:07:51,589 --> 01:07:52,840
+¿Qué hay, hombre?
+
+1106
+01:07:52,924 --> 01:07:54,342
+Tenemos todo.
+
+1107
+01:07:54,467 --> 01:07:56,427
+Estacionados atrás.
+
+1108
+01:07:56,552 --> 01:07:57,762
+¿Tenemos los autos?
+
+1109
+01:07:58,365 --> 01:07:59,365
+¿De Ninja?
+
+1110
+01:07:59,389 --> 01:08:01,349
+Sí, aquí están todos, jefe.
+
+1111
+01:08:03,643 --> 01:08:05,186
+Ahí están sus explosivos.
+
+1112
+01:08:05,311 --> 01:08:07,021
+Danos más cosas.
+
+1113
+01:08:07,105 --> 01:08:09,899
+Nos llevaremos esos a mi auto, ¿sí?
+
+1114
+01:08:35,800 --> 01:08:37,051
+Está muerto, Chappie.
+
+1115
+01:08:37,737 --> 01:08:38,737
+Sí.
+
+1116
+01:08:38,761 --> 01:08:41,472
+Se fue al siguiente lugar, papi.
+
+1117
+01:08:42,348 --> 01:08:44,350
+Allá, en la selva...
+
+1118
+01:08:46,894 --> 01:08:47,894
+la vida es dura.
+
+1119
+01:08:48,605 --> 01:08:49,814
+¿Ves a ese perro de ahí?
+
+1120
+01:08:51,649 --> 01:08:53,276
+O eres ese perro...
+
+1121
+01:08:54,944 --> 01:08:56,487
+o eres este perro.
+
+1122
+01:08:56,613 --> 01:08:57,989
+Si quieres sobrevivir, Chappie...
+
+1123
+01:08:58,114 --> 01:09:00,033
+tienes que pelear.
+
+1124
+01:09:00,533 --> 01:09:01,701
+Sí, pero yo no.
+
+1125
+01:09:02,327 --> 01:09:04,412
+Soy de titanio.
+Nunca voy a morir.
+
+1126
+01:09:04,495 --> 01:09:05,495
+¿Qué dice ahí?
+
+1127
+01:09:07,582 --> 01:09:08,917
+"Batería baja"
+
+1128
+01:09:11,044 --> 01:09:12,712
+Batería, fuente de energía.
+
+1129
+01:09:12,837 --> 01:09:15,715
+Necesito otra batería.
+
+1130
+01:09:15,798 --> 01:09:18,635
+Esa batería está atorada.
+Está soldada.
+
+1131
+01:09:18,760 --> 01:09:22,305
+Esa batería no sale.
+¿Qué vas a hacer cuando se agote?
+
+1132
+01:09:22,388 --> 01:09:25,058
+¿Me muero? ¿Chappie se muere?
+
+1133
+01:09:25,141 --> 01:09:27,560
+Deon le puso en un cuerpo malo.
+
+1134
+01:09:27,685 --> 01:09:30,355
+Deon es mi creador.
+No tiene sentido.
+
+1135
+01:09:30,438 --> 01:09:34,067
+No me hizo para morir.
+Deon me quiere.
+
+1136
+01:09:34,192 --> 01:09:35,192
+Ven acá.
+
+1137
+01:09:35,193 --> 01:09:39,113
+Te puedo conseguir otro cuerpo.
+Pero requiere mucho dinero.
+
+1138
+01:09:39,239 --> 01:09:41,991
+En cantidad que solo
+se consiguen con el atraco.
+
+1139
+01:09:42,116 --> 01:09:44,577
+- No puedo hacer el atraco.
+- No tienes más remedio.
+
+1140
+01:09:44,744 --> 01:09:46,371
+¿Cuál perro quieres ser, Chappie?
+
+1141
+01:09:46,496 --> 01:09:49,165
+¿Ese perro...?
+
+1142
+01:09:49,332 --> 01:09:50,833
+¿o ese perro?
+
+1143
+01:09:54,963 --> 01:09:56,547
+Muy bien, Chappie.
+
+1144
+01:09:56,673 --> 01:09:57,799
+Eres un buen niño.
+
+1145
+01:10:14,524 --> 01:10:16,818
+Dios mío. ¿Otra vez?
+
+1146
+01:10:16,901 --> 01:10:20,613
+Vengo por mi creación. Es demasiado
+importante para dejarlo aquí.
+
+1147
+01:10:20,738 --> 01:10:21,738
+No está aquí.
+
+1148
+01:10:21,739 --> 01:10:23,658
+¿Qué? ¿Dónde está?
+
+1149
+01:10:23,783 --> 01:10:25,868
+No sé. Salió con Ninja.
+
+1150
+01:10:26,035 --> 01:10:27,370
+Se fueron todo el día.
+
+1151
+01:10:27,495 --> 01:10:28,495
+¿A hacer qué?
+
+1152
+01:10:29,956 --> 01:10:32,166
+Me imagino que
+a cometer crímenes.
+
+1153
+01:10:32,250 --> 01:10:34,794
+Ya debo de ser
+un criminal perseguido.
+
+1154
+01:10:46,764 --> 01:10:48,224
+¡Hola, Chappie!
+
+1155
+01:10:48,308 --> 01:10:50,184
+Le traje un amigo a tu pollo.
+
+1156
+01:10:50,977 --> 01:10:51,977
+¡Mira esto!
+
+1157
+01:10:58,443 --> 01:11:00,278
+Oye, Chaps, ¿qué haces?
+
+1158
+01:11:09,704 --> 01:11:11,039
+¿Por qué no me hablas?
+
+1159
+01:11:12,916 --> 01:11:14,709
+Soy tu creador.
+
+1160
+01:11:20,590 --> 01:11:21,633
+Anda.
+
+1161
+01:11:22,759 --> 01:11:24,260
+¿Qué quieres, Deon?
+
+1162
+01:11:25,011 --> 01:11:26,930
+No quiero ese maldito pollo.
+
+1163
+01:11:28,014 --> 01:11:29,265
+Eso no me interesa.
+
+1164
+01:11:29,390 --> 01:11:30,390
+¿De verdad?
+
+1165
+01:11:31,559 --> 01:11:33,811
+¿Qué te interesa entonces?
+
+1166
+01:11:36,606 --> 01:11:37,607
+¿Vender narcóticos?
+
+1167
+01:11:38,209 --> 01:11:39,209
+¿Ser un bueno para nada?
+
+1168
+01:11:39,233 --> 01:11:40,233
+Deon...
+
+1169
+01:11:40,818 --> 01:11:43,071
+¿por qué estás tratando
+de controlarlo así?
+
+1170
+01:11:43,947 --> 01:11:45,406
+Déjalo en paz.
+
+1171
+01:11:45,531 --> 01:11:47,575
+Papi me contó de ti, Deon.
+
+1172
+01:11:47,659 --> 01:11:49,786
+De cómo me hiciste
+en un cuerpo...
+
+1173
+01:11:49,911 --> 01:11:51,537
+que se va a morir.
+
+1174
+01:11:52,705 --> 01:11:54,165
+¿Qué quieres decir, Chappie?
+
+1175
+01:11:56,167 --> 01:11:58,586
+¿Es cierto que voy
+a morir en unos días?
+
+1176
+01:11:59,587 --> 01:12:02,382
+¿Que esta batería
+se va a agotar?
+
+1177
+01:12:03,174 --> 01:12:04,759
+¿Es verdad?
+
+1178
+01:12:05,969 --> 01:12:06,969
+Sí.
+
+1179
+01:12:09,347 --> 01:12:11,891
+Pero eres mi creador.
+
+1180
+01:12:12,934 --> 01:12:15,311
+¿Por qué me hiciste
+para que me muriera?
+
+1181
+01:12:18,147 --> 01:12:19,607
+Yo no...
+
+1182
+01:12:20,400 --> 01:12:22,235
+No te hice para que te murieras.
+
+1183
+01:12:22,402 --> 01:12:25,029
+Quiero vivir.
+
+1184
+01:12:25,154 --> 01:12:26,948
+Quiero quedarme aquí con mami.
+
+1185
+01:12:27,782 --> 01:12:29,450
+No me quiero morir.
+
+1186
+01:12:31,160 --> 01:12:33,997
+Te has vuelto más de lo
+que podía haberme imaginado.
+
+1187
+01:12:38,251 --> 01:12:40,295
+¿Cómo iba a saber
+que te convertirías en...?
+
+1188
+01:12:41,921 --> 01:12:43,047
+¿tú?
+
+1189
+01:12:58,104 --> 01:13:00,231
+PONGA SU CLAVE ADMINISTRATIVA
+
+1190
+01:13:00,356 --> 01:13:02,775
+Anda, anda. Eso es.
+
+1191
+01:13:03,318 --> 01:13:04,318
+Firmware actualizado.
+
+1192
+01:13:06,279 --> 01:13:08,740
+Archivo alterno: Génesis.
+
+1193
+01:13:09,824 --> 01:13:11,951
+¡Por favor inserte
+llave protectora!
+
+1194
+01:13:18,875 --> 01:13:20,335
+¡Llave detectada!
+
+1195
+01:13:20,460 --> 01:13:21,127
+CONECTANDO A EXPLORADORES...
+
+1196
+01:13:21,252 --> 01:13:22,879
+RED ACTIVA
+
+1197
+01:13:23,713 --> 01:13:25,548
+¿INSTALAR ACTUALIZACIÓN
+EN EXPLORADORES?
+
+1198
+01:13:30,572 --> 01:13:31,572
+SÍ.
+
+1199
+01:13:31,596 --> 01:13:32,596
+¡Sí!
+
+1200
+01:13:33,658 --> 01:13:34,658
+ENVIANDO ACTUALIZACIÓN
+
+1201
+01:13:34,682 --> 01:13:35,763
+¡PELIGRO O.S. CPU FALLANDO!
+
+1202
+01:13:35,808 --> 01:13:36,808
+ACTUALIZACIÓN FIRMWARE
+
+1203
+01:13:51,658 --> 01:13:54,118
+Despídete de tus despreciables
+monstruitos, Deon.
+
+1204
+01:14:01,876 --> 01:14:03,753
+¿Chappie? ¡Chappie!
+
+1205
+01:14:03,878 --> 01:14:05,755
+- ¡No!
+- ¡Chappie!
+
+1206
+01:14:05,880 --> 01:14:07,465
+¡Dios mío! ¿Qué pasa?
+
+1207
+01:14:07,548 --> 01:14:08,758
+¡Dios! ¡Es su CPU!
+
+1208
+01:14:09,884 --> 01:14:10,969
+¡No lo toques, desgraciado!
+
+1209
+01:14:11,052 --> 01:14:12,220
+¡Vete al infierno!
+
+1210
+01:14:12,303 --> 01:14:13,554
+¡Atrás!
+
+1211
+01:14:13,680 --> 01:14:15,765
+- Cálmate.
+- Oye, jefe.
+
+1212
+01:14:15,890 --> 01:14:17,016
+Tómalo con calma.
+
+1213
+01:14:17,141 --> 01:14:18,643
+Hazte para atrás.
+
+1214
+01:14:19,811 --> 01:14:21,020
+¡Me lo voy a llevar de aquí!
+
+1215
+01:14:27,068 --> 01:14:28,068
+Dos ases.
+
+1216
+01:14:31,072 --> 01:14:32,072
+¿Qué quieres?
+
+1217
+01:14:32,740 --> 01:14:33,908
+No lo vas a creer.
+
+1218
+01:14:34,033 --> 01:14:36,035
+Los policías
+están fuera de línea.
+
+1219
+01:14:36,160 --> 01:14:37,829
+¿En serio?
+
+1220
+01:14:37,954 --> 01:14:39,789
+Es temporada de caza.
+
+1221
+01:14:39,956 --> 01:14:40,957
+No, ya entendí.
+
+1222
+01:14:42,143 --> 01:14:43,143
+¡Silencio!
+
+1223
+01:14:43,167 --> 01:14:45,878
+¡Los robots policías
+están fuera de línea!
+
+1224
+01:14:47,171 --> 01:14:49,591
+¡Esta ciudad me pertenece!
+
+1225
+01:14:51,551 --> 01:14:53,886
+¡Lo quiero todo!
+
+1226
+01:14:53,970 --> 01:14:55,763
+¡Vamos!
+
+1227
+01:15:22,999 --> 01:15:25,251
+<i>El centro está en caos
+porque los androides...</i>
+
+1228
+01:15:25,376 --> 01:15:27,295
+<i>Ahí está, ahí está.</i>
+
+1229
+01:15:27,420 --> 01:15:28,796
+<i>Empezaron a apagarse.</i>
+
+1230
+01:15:28,880 --> 01:15:31,466
+<i>La policía no ha hecho
+una declaración...</i>
+
+1231
+01:15:31,549 --> 01:15:34,093
+<i>pero la ciudad
+se está desmoronando.</i>
+
+1232
+01:15:41,726 --> 01:15:45,605
+¡Vuelvan a sus casas
+o usaremos balas de hule!
+
+1233
+01:15:49,108 --> 01:15:50,276
+¡Por favor, dispérsense!
+
+1234
+01:15:51,611 --> 01:15:52,612
+EXPLORADOR 062
+
+1235
+01:15:52,737 --> 01:15:54,364
+¡Por favor, dispérsense!
+
+1236
+01:16:00,328 --> 01:16:01,329
+¡Anda!
+
+1237
+01:16:02,664 --> 01:16:03,581
+EXPLORADORES FUERA DE LÍNEA
+
+1238
+01:16:03,706 --> 01:16:04,749
+¡Sí!
+
+1239
+01:16:07,460 --> 01:16:10,755
+¡Quemen al perro!
+
+1240
+01:16:12,298 --> 01:16:15,051
+CUARTEL GENERAL
+Policía Johannesburgo
+
+1241
+01:16:16,469 --> 01:16:19,138
+¡Comuníquenme con
+Michelle Bradley!
+
+1242
+01:16:19,264 --> 01:16:22,100
+¡Y activen a todos
+los oficiales y reservistas!
+
+1243
+01:16:22,809 --> 01:16:24,811
+¡Ahora mismo! ¡Háganlo!
+
+1244
+01:16:33,278 --> 01:16:36,197
+<i>Con ladrones llevándose
+cerca de 100 millones de rands.</i>
+
+1245
+01:16:36,322 --> 01:16:38,741
+<i>No hay señas de que la policía
+robótica vaya a volver pronto.</i>
+
+1246
+01:16:39,993 --> 01:16:42,161
+"¿Seguro quiere borrar Génesis?".
+
+1247
+01:16:42,597 --> 01:16:43,597
+Claro que sí.
+
+1248
+01:16:43,621 --> 01:16:44,372
+BORRANDO GÉNESIS.DAT
+
+1249
+01:16:44,497 --> 01:16:45,915
+<i>Como ven, hay androides
+despedazados y ruinas...</i>
+
+1250
+01:16:46,040 --> 01:16:47,292
+<i>La policía aún
+no ha podido investigar...</i>
+
+1251
+01:16:47,417 --> 01:16:48,918
+<i>ya que siguen los tumultos...</i>
+
+1252
+01:16:50,295 --> 01:16:53,298
+¡Anda! ¡Anda!
+
+1253
+01:17:41,471 --> 01:17:42,972
+PELIGRO: CÓDIGO MALICIOSO
+
+1254
+01:17:44,933 --> 01:17:45,934
+CUARENTENA
+
+1255
+01:17:50,521 --> 01:17:52,315
+ERROR: IMPOSIBLE BORRAR
+GÉNESIS.DAT
+
+1256
+01:18:01,532 --> 01:18:02,532
+Chappie.
+
+1257
+01:18:04,285 --> 01:18:05,995
+Anda, Chappie.
+
+1258
+01:18:06,079 --> 01:18:07,664
+Sí. Deon, soy yo.
+
+1259
+01:18:07,830 --> 01:18:09,874
+¡Dios mío, estás vivo!
+
+1260
+01:18:13,419 --> 01:18:14,419
+¿Qué me pasó?
+
+1261
+01:18:15,296 --> 01:18:16,296
+No estoy seguro.
+
+1262
+01:18:17,048 --> 01:18:18,258
+Pero tengo mis sospechas.
+
+1263
+01:18:20,051 --> 01:18:22,178
+Ven. Tenemos que largarnos
+de aquí. Ven.
+
+1264
+01:18:24,222 --> 01:18:25,515
+Ahora mismo. Vámonos.
+
+1265
+01:18:26,182 --> 01:18:27,308
+¿Qué es este lugar?
+
+1266
+01:18:27,433 --> 01:18:28,433
+¿Qué es esto?
+
+1267
+01:18:29,185 --> 01:18:30,645
+Una versión...
+
+1268
+01:18:33,941 --> 01:18:34,941
+¿Qué hace éste tipo?
+
+1269
+01:18:34,942 --> 01:18:37,651
+Es una versión clasificada
+complicada de manejar.
+
+1270
+01:18:37,652 --> 01:18:38,652
+¡Ven, vámonos!
+
+1271
+01:18:40,363 --> 01:18:41,363
+¿Qué es esto?
+
+1272
+01:18:42,240 --> 01:18:45,743
+Son cascos para humanos que
+controlan esa monstruosidad.
+
+1273
+01:18:45,868 --> 01:18:46,868
+Les lee la mente.
+
+1274
+01:18:46,911 --> 01:18:49,038
+No tiene su propio cerebro.
+
+1275
+01:18:49,122 --> 01:18:50,206
+No es como tú.
+
+1276
+01:18:53,459 --> 01:18:57,171
+- ¿Puede leer un cerebro?
+- Es un transmisor neuronal.
+
+1277
+01:18:57,297 --> 01:18:59,716
+- ¡Vámonos!
+- Pero quiero...
+
+1278
+01:19:00,633 --> 01:19:01,633
+¡Ven!
+
+1279
+01:19:03,469 --> 01:19:04,469
+Chappie.
+
+1280
+01:19:14,105 --> 01:19:15,940
+Deon. Deon.
+
+1281
+01:19:16,774 --> 01:19:18,192
+Esto me puede salvar.
+
+1282
+01:19:18,943 --> 01:19:21,029
+Necesito un cuerpo nuevo.
+
+1283
+01:19:21,112 --> 01:19:22,112
+No.
+
+1284
+01:19:23,489 --> 01:19:24,489
+No te puede salvar.
+
+1285
+01:19:25,366 --> 01:19:27,577
+El problema es mayor
+que tu batería.
+
+1286
+01:19:27,702 --> 01:19:28,912
+¿Por qué?
+
+1287
+01:19:29,037 --> 01:19:30,788
+Porque estás consciente.
+
+1288
+01:19:30,872 --> 01:19:34,500
+No te podemos copiar
+porque no eres información.
+
+1289
+01:19:34,667 --> 01:19:36,336
+No sabemos qué es la consciencia.
+
+1290
+01:19:36,961 --> 01:19:38,421
+No podemos transferirla.
+
+1291
+01:19:40,590 --> 01:19:42,300
+Chappie lo puede resolver.
+
+1292
+01:19:43,092 --> 01:19:45,720
+Puedo averiguar qué es
+y transferirme.
+
+1293
+01:19:45,803 --> 01:19:46,888
+¡No puedes! Lo lamento.
+
+1294
+01:19:46,971 --> 01:19:49,390
+Necesitamos irnos de aquí.
+Es peligroso. ¡Ven!
+
+1295
+01:19:49,515 --> 01:19:53,519
+Me dijiste que no debo dejar
+que nadie me impida hacer algo.
+
+1296
+01:19:54,354 --> 01:19:57,899
+Papi tiene un hombre que me puede
+conseguir cuerpos por dinero.
+
+1297
+01:19:58,024 --> 01:19:59,400
+¿Qué? ¿Perdón?
+
+1298
+01:19:59,525 --> 01:20:01,110
+¡Papi me quiere, Deon!
+
+1299
+01:20:02,528 --> 01:20:03,528
+¡Te odio!
+
+1300
+01:20:03,821 --> 01:20:04,822
+¡Te odio! ¡Vete!
+
+1301
+01:20:05,490 --> 01:20:07,408
+Necesito sacar mi consciencia.
+
+1302
+01:20:07,492 --> 01:20:09,661
+Papi me va a conseguir cuerpos.
+
+1303
+01:20:09,786 --> 01:20:13,081
+Luego solo tengo que pasar
+mi consciencia de aquí para allá.
+
+1304
+01:20:13,206 --> 01:20:14,206
+¡El casco!
+
+1305
+01:20:14,249 --> 01:20:17,460
+- ¡No! ¿Qué haces?
+- Puedo usar esto.
+
+1306
+01:20:17,585 --> 01:20:18,878
+¡Ponlo donde estaba!
+
+1307
+01:20:19,003 --> 01:20:21,464
+- ¡Déjalo! ¡Es ilegal!
+- ¡Lo voy a agarrar! No.
+
+1308
+01:20:22,298 --> 01:20:24,425
+¡Chappie, espera!
+
+1309
+01:20:24,509 --> 01:20:25,509
+¡Me lo llevo!
+
+1310
+01:20:26,302 --> 01:20:27,387
+- ¡Me lo llevo!
+- ¡Espera!
+
+1311
+01:20:27,512 --> 01:20:28,512
+¡Por favor!
+
+1312
+01:20:29,347 --> 01:20:30,723
+¡Chappie!
+
+1313
+01:20:53,056 --> 01:20:54,056
+IMPOSIBLE BORRAR
+GÉNESIS.DAT DEL 022
+
+1314
+01:20:54,080 --> 01:20:55,080
+ALCE
+
+1315
+01:21:03,089 --> 01:21:05,466
+<i>¡Entren! ¡Revisen el área!</i>
+
+1316
+01:21:05,550 --> 01:21:09,304
+<i>¡Vayan hasta el fondo!
+¡Revisen todos los cuartos!</i>
+
+1317
+01:21:09,470 --> 01:21:13,099
+<i>¡Entren! ¡Revisen el área!</i>
+
+1318
+01:21:13,182 --> 01:21:16,769
+<i>¡Vayan hasta el fondo!
+¡Revisen todos los cuartos!</i>
+
+1319
+01:21:27,822 --> 01:21:29,616
+¡Chappie! ¡Gracias a Dios!
+
+1320
+01:21:29,741 --> 01:21:31,200
+Chappie, ¿estás bien?
+
+1321
+01:21:31,284 --> 01:21:32,994
+Sí, mami, estoy bien.
+
+1322
+01:21:33,119 --> 01:21:34,329
+¿Qué es esa cosa?
+
+1323
+01:21:34,454 --> 01:21:36,706
+Solo es un casco neuronal.
+
+1324
+01:21:36,789 --> 01:21:37,874
+¿Qué?
+
+1325
+01:21:50,386 --> 01:21:51,386
+Chappie.
+
+1326
+01:21:51,387 --> 01:21:52,680
+¿Qué estás haciendo?
+
+1327
+01:21:52,805 --> 01:21:54,641
+Un experimento, mami.
+
+1328
+01:21:54,766 --> 01:21:56,267
+¿Qué son estas cosas?
+
+1329
+01:21:57,477 --> 01:21:58,477
+¿Qué es esto?
+
+1330
+01:22:00,980 --> 01:22:03,233
+Te voy a enseñar. Siéntate.
+
+1331
+01:22:03,733 --> 01:22:05,526
+- Ok.
+- Siéntate.
+
+1332
+01:22:06,110 --> 01:22:07,110
+Bueno, mami.
+
+1333
+01:22:07,111 --> 01:22:09,072
+- ¿Va a doler?
+- No.
+
+1334
+01:22:09,239 --> 01:22:12,575
+Te lo estoy poniendo.
+
+1335
+01:22:16,329 --> 01:22:18,081
+¿Y ahora, qué?
+
+1336
+01:22:18,206 --> 01:22:19,791
+La consciencia es como energía.
+
+1337
+01:22:19,916 --> 01:22:22,752
+Este casco interpreta
+tu energía y la mía.
+
+1338
+01:22:22,835 --> 01:22:24,921
+Solo necesito resolver
+cómo sacarla.
+
+1339
+01:22:25,046 --> 01:22:27,715
+Toda la información
+está en internet.
+
+1340
+01:22:27,840 --> 01:22:29,676
+CONECTANDO
+
+1341
+01:22:29,759 --> 01:22:30,759
+CONECTADO
+
+1342
+01:22:31,552 --> 01:22:32,637
+Los libros...
+
+1343
+01:22:32,762 --> 01:22:34,889
+ecuaciones matemáticas, esquemas...
+
+1344
+01:22:34,973 --> 01:22:37,976
+toda la información
+que han tenido los humanos.
+
+1345
+01:22:38,101 --> 01:22:38,643
+Toda está aquí.
+
+1346
+01:22:38,768 --> 01:22:40,019
+- Perdón.
+- ¡Deon!
+
+1347
+01:22:40,872 --> 01:22:41,872
+Hola.
+
+1348
+01:22:41,896 --> 01:22:45,775
+Ve a tu maldito escritorio
+y averigua qué está pasando.
+
+1349
+01:22:45,900 --> 01:22:46,900
+Sí, señora.
+
+1350
+01:22:47,902 --> 01:22:51,489
+Va a haber 300 homicidios
+esta noche...
+
+1351
+01:22:51,614 --> 01:22:53,074
+a ver si los compones.
+
+1352
+01:22:54,033 --> 01:22:56,411
+¿Entiendes?
+Esta compañía puede quebrar.
+
+1353
+01:22:58,079 --> 01:22:59,914
+Buen trabajo, señores.
+
+1354
+01:23:00,748 --> 01:23:03,459
+Un pequeño bache.
+Lo estamos arreglando.
+
+1355
+01:23:03,585 --> 01:23:05,962
+Los Exploradores fallaron.
+Mande al Alce.
+
+1356
+01:23:06,087 --> 01:23:08,527
+- ¡Qué vean lo que puede hacer!
+- Ahora, no. No es el momento.
+
+1357
+01:23:08,548 --> 01:23:10,592
+La ciudad se está desbaratando.
+
+1358
+01:23:10,717 --> 01:23:13,219
+Todo va en picada.
+Hay que controlarlo.
+
+1359
+01:23:13,344 --> 01:23:15,972
+Dije que no. Y se acabó.
+
+1360
+01:23:16,681 --> 01:23:19,142
+Hola caballeros.
+Ha sido una noche difícil.
+
+1361
+01:23:23,605 --> 01:23:25,356
+Papi me trae cuerpos nuevos.
+
+1362
+01:23:25,481 --> 01:23:27,901
+Papi va a traer cuerpos nuevos.
+Yo solo tengo que sacar esto.
+
+1363
+01:23:28,026 --> 01:23:30,820
+Tengo que sacar mi consciencia.
+
+1364
+01:23:33,781 --> 01:23:35,617
+Computando Información Neuronal.
+
+1365
+01:23:38,328 --> 01:23:39,287
+IMPOSIBLE COMPUTAR
+INFORMACIÓN NEURONAL
+
+1366
+01:23:39,370 --> 01:23:40,371
+ERROR - IMPOSIBLE DE COMPUTAR
+
+1367
+01:23:40,455 --> 01:23:41,816
+Computando Información Neuronal...
+
+1368
+01:23:52,592 --> 01:23:54,177
+CPU SOBRECALENTÁNDOSE
+
+1369
+01:24:17,951 --> 01:24:19,077
+COMPUTACIÓN TERMINADA
+
+1370
+01:24:21,079 --> 01:24:22,372
+Ahí está.
+
+1371
+01:24:26,960 --> 01:24:27,960
+Soy yo.
+
+1372
+01:24:37,470 --> 01:24:39,764
+Es hora de subirle a la música.
+
+1373
+01:24:42,308 --> 01:24:44,143
+Sé lo que es la consciencia.
+
+1374
+01:24:44,269 --> 01:24:46,354
+Qué bien.
+
+1375
+01:24:46,604 --> 01:24:47,855
+El casco la puede leer.
+
+1376
+01:24:49,941 --> 01:24:53,570
+Solo necesito el dinero del
+atraco para mi nuevo cuerpo.
+
+1377
+01:24:53,653 --> 01:24:55,071
+Exacto, bribón.
+
+1378
+01:24:55,196 --> 01:24:56,364
+Ven.
+
+1379
+01:24:57,717 --> 01:24:58,717
+Vamos.
+
+1380
+01:24:58,741 --> 01:25:00,118
+Lo resolví, papi.
+
+1381
+01:25:39,449 --> 01:25:40,449
+¡Salgan!
+
+1382
+01:25:43,638 --> 01:25:44,638
+¡Veo uno!
+
+1383
+01:25:44,662 --> 01:25:46,164
+¡Esos son los que
+necesitan dormir!
+
+1384
+01:25:46,289 --> 01:25:47,415
+¡Duerme, hombre!
+
+1385
+01:25:47,498 --> 01:25:49,918
+¡Ahí va la explosión!
+
+1386
+01:25:50,919 --> 01:25:52,086
+¡Sácalo, sácalo!
+
+1387
+01:25:52,170 --> 01:25:54,505
+- ¡Corre, Chappie!
+- ¡Saca el dinero!
+
+1388
+01:25:54,589 --> 01:25:57,800
+- ¡Tú, sal!
+- ¡Haz que se duerma!
+
+1389
+01:25:57,926 --> 01:25:59,594
+- ¡Haz que se duerma!
+- ¡Buenas noches!
+
+1390
+01:25:59,677 --> 01:26:00,136
+¡Duerme!
+
+1391
+01:26:00,261 --> 01:26:03,264
+- ¡Sueña con los angelitos!
+- ¡Métete, Chappie!
+
+1392
+01:26:03,348 --> 01:26:05,016
+¡Rápido!
+
+1393
+01:26:18,196 --> 01:26:19,436
+Código implementado GÉNESIS.DAT
+
+1394
+01:26:20,156 --> 01:26:21,916
+estación TVAAL.219
+LLAVE PROTECTORA INSTALADA
+
+1395
+01:26:32,085 --> 01:26:33,628
+¿Sabes lo que hiciste?
+
+1396
+01:26:36,005 --> 01:26:37,882
+Dios mío.
+
+1397
+01:26:39,050 --> 01:26:42,262
+<i>Si estoy viendo estas
+imágenes correctamente...</i>
+
+1398
+01:26:42,387 --> 01:26:46,766
+<i>parece que los androides les
+están ayudando a los criminales.</i>
+
+1399
+01:26:46,891 --> 01:26:47,891
+Chappie.
+
+1400
+01:26:49,102 --> 01:26:51,854
+- ¡Tengo la segunda!
+- ¡Hay una más! ¡Agárrala!
+
+1401
+01:26:51,980 --> 01:26:52,689
+¡Muy bien, Chappie!
+
+1402
+01:26:52,772 --> 01:26:53,606
+Pueden dormir.
+
+1403
+01:26:53,690 --> 01:26:54,899
+- ¡Pueden dormir!
+- ¡Rápido, Chappie!
+
+1404
+01:26:55,024 --> 01:26:56,024
+¡Corran!
+
+1405
+01:26:56,109 --> 01:26:58,903
+<i>Tres sospechosos están robando
+un carro blindado con...</i>
+
+1406
+01:26:59,028 --> 01:27:02,198
+<i>la ayuda de un robot Explorador.</i>
+
+1407
+01:27:02,282 --> 01:27:03,282
+¡Ay, no!
+
+1408
+01:27:03,866 --> 01:27:07,704
+No te vas a salir con la tuya.
+¡Todos se enterarán!
+
+1409
+01:27:13,751 --> 01:27:15,378
+¡Vámonos! ¡Ya son las tres!
+
+1410
+01:27:15,461 --> 01:27:16,461
+¡Chappie, vámonos!
+
+1411
+01:27:18,131 --> 01:27:19,131
+¡Por favor!
+
+1412
+01:27:19,549 --> 01:27:22,510
+¿Qué haces?
+¿Qué te pasa, hombre?
+
+1413
+01:27:22,635 --> 01:27:23,845
+¡Agarra la bolsa! ¡Vámonos!
+
+1414
+01:27:26,431 --> 01:27:27,640
+¿Tienes sueño?
+
+1415
+01:27:28,600 --> 01:27:29,684
+¡Chappie, ven!
+
+1416
+01:27:30,435 --> 01:27:31,435
+No me lastimes más.
+
+1417
+01:27:31,477 --> 01:27:32,770
+¡Súbete a la camioneta!
+
+1418
+01:27:33,688 --> 01:27:35,315
+¡Cierra la puerta! ¡Vámonos!
+
+1419
+01:27:35,398 --> 01:27:36,398
+Ya puedes dormir.
+
+1420
+01:27:37,275 --> 01:27:38,275
+Puedes dormir.
+
+1421
+01:27:38,735 --> 01:27:41,362
+Por favor, no me mate.
+
+1422
+01:27:44,198 --> 01:27:46,159
+¡Chappie!
+
+1423
+01:27:47,076 --> 01:27:48,077
+Perdón.
+
+1424
+01:27:48,661 --> 01:27:51,956
+¡Anda! ¡Anda, chico! ¡Súbete!
+
+1425
+01:27:52,081 --> 01:27:55,585
+¡Pensé que te ibas a dormir!
+
+1426
+01:27:57,295 --> 01:27:58,379
+¿Puedo hablarle en privado?
+
+1427
+01:28:00,548 --> 01:28:02,675
+¿Nos permiten un momento,
+por favor?
+
+1428
+01:28:05,595 --> 01:28:06,595
+Gracias.
+
+1429
+01:28:08,556 --> 01:28:09,556
+Dios mío.
+
+1430
+01:28:09,974 --> 01:28:11,643
+Esto es un desastre.
+
+1431
+01:28:11,726 --> 01:28:14,520
+Escuche, esto es obra de Deon.
+
+1432
+01:28:14,646 --> 01:28:17,565
+Es obra de un programa cochino
+que estaba escribiendo...
+
+1433
+01:28:17,690 --> 01:28:19,901
+y anoche trajo
+a un androide acá...
+
+1434
+01:28:20,026 --> 01:28:22,070
+que estaba consciente.
+
+1435
+01:28:25,114 --> 01:28:27,075
+¿Ha visto esto? ¿Sabe de esto?
+
+1436
+01:28:28,117 --> 01:28:30,245
+El monstruo está cometiendo
+crímenes. Mírelo.
+
+1437
+01:28:31,079 --> 01:28:33,122
+El Explorador es
+casi indestructible.
+
+1438
+01:28:33,289 --> 01:28:34,624
+¡Le dije que no!
+
+1439
+01:28:34,791 --> 01:28:37,585
+Eso es mucho pedir
+que dejar de funcionar.
+
+1440
+01:28:38,294 --> 01:28:42,382
+Usemos esta situación para
+que el otro robot se luzca.
+
+1441
+01:28:42,507 --> 01:28:44,175
+Hay que destruir esta cosa.
+
+1442
+01:28:44,259 --> 01:28:46,344
+Hay que aplastarlo antes
+de que haga más daño...
+
+1443
+01:28:46,469 --> 01:28:49,222
+y debe quitar a Deon.
+
+1444
+01:28:49,389 --> 01:28:52,558
+Le ha costado mucho a la
+compañía y a su reputación.
+
+1445
+01:28:52,684 --> 01:28:55,186
+Esto no debería ser su legado.
+
+1446
+01:28:59,524 --> 01:29:00,524
+Hazlo.
+
+1447
+01:29:01,568 --> 01:29:03,695
+- Destruye a ese robot.
+- Gracias, señora.
+
+1448
+01:29:03,778 --> 01:29:05,697
+- Hazlo cenizas.
+- Gracias.
+
+1449
+01:29:07,490 --> 01:29:08,741
+<i>Señores...</i>
+
+1450
+01:29:09,492 --> 01:29:10,827
+<i>les habla Michelle Bradley.</i>
+
+1451
+01:29:10,952 --> 01:29:13,621
+<i>Autorizo el lanzamiento del Alce.</i>
+
+1452
+01:29:13,746 --> 01:29:16,958
+<i>Repito: autorizo
+el lanzamiento del Alce.</i>
+
+1453
+01:29:20,128 --> 01:29:22,589
+<i>¡Quítense! ¡Despejen el paso!</i>
+
+1454
+01:29:22,714 --> 01:29:24,007
+<i>¡Quítense! ¡Muévanse! ¡Ahora!</i>
+
+1455
+01:29:24,090 --> 01:29:26,926
+Lanzamiento del Alce
+en T menos 5 minutos.
+
+1456
+01:29:27,051 --> 01:29:29,887
+ÁREA PROHIBIDA
+
+1457
+01:29:48,615 --> 01:29:50,033
+Anda. Lárgate.
+
+1458
+01:29:52,660 --> 01:29:54,245
+ROBOT POLICÍA
+COMETIENDO CRÍMENES
+
+1459
+01:29:55,163 --> 01:29:56,414
+Hijo de puta.
+
+1460
+01:29:57,290 --> 01:29:59,042
+¡Quiero ese robot!
+
+1461
+01:29:59,728 --> 01:30:00,728
+¡Rápido!
+
+1462
+01:30:00,752 --> 01:30:03,254
+¡Todos afuera! ¡Muévanse!
+
+1463
+01:30:03,421 --> 01:30:04,631
+¡Rápido! ¡Rápido!
+
+1464
+01:30:19,103 --> 01:30:20,103
+PREPARADO
+
+1465
+01:30:35,161 --> 01:30:36,161
+¡Vamos!
+
+1466
+01:30:48,591 --> 01:30:50,385
+¡Hurra, hijos de puta!
+
+1467
+01:30:50,510 --> 01:30:51,678
+¡Me voy a ir a casa!
+
+1468
+01:30:52,470 --> 01:30:54,514
+¿Ya podemos ir a comprar
+un cuerpo nuevo?
+
+1469
+01:30:54,639 --> 01:30:58,476
+¿Podemos ir ya?
+
+1470
+01:30:58,559 --> 01:31:02,021
+Perdóname, pero
+no hay cuerpos nuevos.
+
+1471
+01:31:02,105 --> 01:31:03,940
+Lo siento, Chappie, te lo juro.
+
+1472
+01:31:04,023 --> 01:31:07,819
+¿Cómo que no hay cuerpos nuevos?
+Tenemos el dinero.
+
+1473
+01:31:07,944 --> 01:31:09,862
+Te necesitaba para el atraco.
+
+1474
+01:31:10,655 --> 01:31:11,990
+Me mentiste.
+
+1475
+01:31:13,950 --> 01:31:14,951
+¡Me mentiste, papi!
+
+1476
+01:31:15,034 --> 01:31:17,036
+Relájate. Cuando te lo dije
+eras diferente y...
+
+1477
+01:31:20,206 --> 01:31:21,583
+¡Me mentiste, papi!
+
+1478
+01:31:21,624 --> 01:31:22,667
+- ¡Quieto, Chappie!
+- ¡Me mentiste!
+
+1479
+01:31:22,792 --> 01:31:25,545
+- ¿Por qué me mentiste?
+- ¡No. Chappie! ¡Para!
+
+1480
+01:31:30,425 --> 01:31:31,884
+SEÑAL AL CASCO DEL ALCE
+
+1481
+01:31:31,968 --> 01:31:33,386
+EXPLORADOR 22
+
+1482
+01:31:34,512 --> 01:31:36,014
+Voy por tí, Deon.
+
+1483
+01:31:37,807 --> 01:31:39,642
+¡Anda! ¡Anda, anda!
+
+1484
+01:31:49,527 --> 01:31:50,527
+¿Por qué papi?
+
+1485
+01:31:50,612 --> 01:31:51,988
+¡No, Chappie! ¡Chappie, para!
+
+1486
+01:31:52,071 --> 01:31:53,573
+¡Déjame Amerika!
+
+1487
+01:31:53,698 --> 01:31:54,532
+¡Me mentiste!
+
+1488
+01:31:54,616 --> 01:31:58,620
+- ¡Chappie, no!
+- ¡Me mientes, papi!
+
+1489
+01:31:58,703 --> 01:32:00,496
+¡Me ibas a dejar morir, papi!
+
+1490
+01:32:00,580 --> 01:32:02,415
+¡Me ibas a dejar morir!
+
+1491
+01:32:03,207 --> 01:32:05,335
+¿Por qué hacen eso los humanos?
+
+1492
+01:32:05,460 --> 01:32:06,711
+¿Por qué mienten?
+
+1493
+01:32:06,794 --> 01:32:09,964
+Podemos encontrar la manera.
+Perdón, muchacho.
+
+1494
+01:32:10,089 --> 01:32:11,215
+Te lo juro, perdón.
+
+1495
+01:32:11,382 --> 01:32:12,926
+Escucha. Yo sé lo que sientes.
+
+1496
+01:32:13,051 --> 01:32:16,679
+Pero viene algo muy
+peligroso a lastimarte.
+
+1497
+01:32:16,804 --> 01:32:19,307
+- ¿Qué?
+- Tardaría explicarlo.
+
+1498
+01:32:19,474 --> 01:32:22,310
+Pero cuando llegue la cosa, no
+va a parar hasta acabar contigo.
+
+1499
+01:32:22,435 --> 01:32:24,270
+¿De qué hablas?
+
+1500
+01:32:28,900 --> 01:32:31,986
+No. No, Deon.
+
+1501
+01:32:34,405 --> 01:32:38,576
+Igual me voy a ir.
+Mi batería se va a agotar.
+
+1502
+01:32:38,743 --> 01:32:39,953
+¡No, Chappie! ¡No!
+
+1503
+01:32:40,703 --> 01:32:43,164
+Vamos a encontrar una solución.
+
+1504
+01:32:43,289 --> 01:32:44,916
+Voy a ir, mami.
+
+1505
+01:32:46,918 --> 01:32:48,836
+¡Atrás! ¡Échense para atrás!
+
+1506
+01:32:51,214 --> 01:32:52,590
+¡Vine...!
+
+1507
+01:32:52,715 --> 01:32:58,096
+¡por mi maldito dinero, Ninja!
+
+1508
+01:32:58,221 --> 01:33:00,598
+Y no sólo quiero
+mis 20 millones.
+
+1509
+01:33:00,723 --> 01:33:01,724
+Vino a matarnos.
+
+1510
+01:33:01,849 --> 01:33:03,309
+Quiero a tu robot.
+
+1511
+01:33:03,601 --> 01:33:05,477
+¡Quiero todo!
+
+1512
+01:33:05,478 --> 01:33:06,478
+¡Al diablo con esto!
+
+1513
+01:33:17,907 --> 01:33:19,450
+¡Chappie, haz algo!
+
+1514
+01:33:25,540 --> 01:33:27,083
+¡Chappie, ayúdanos!
+
+1515
+01:34:09,584 --> 01:34:12,211
+Eso solo me hace
+cosquillas, muchachos.
+
+1516
+01:34:17,592 --> 01:34:19,844
+¡Amerika!
+
+1517
+01:34:31,147 --> 01:34:33,024
+¡Anda, pequeño gánster!
+
+1518
+01:34:40,782 --> 01:34:41,782
+Eso es.
+
+1519
+01:34:42,408 --> 01:34:43,993
+¡Ese es mi dinero!
+
+1520
+01:34:50,959 --> 01:34:52,794
+Sí. ¡Elévate, elévate!
+
+1521
+01:34:55,755 --> 01:34:57,298
+¡No! ¡Alto!
+
+1522
+01:35:00,134 --> 01:35:02,845
+- ¡Anda!
+- ¡Mi maleta!
+
+1523
+01:35:02,971 --> 01:35:07,225
+Los voy a exterminar. A todos
+y cada uno, escoria patética.
+
+1524
+01:35:16,067 --> 01:35:17,360
+¡Ninja!
+
+1525
+01:35:17,402 --> 01:35:18,736
+¡Maldita sea!
+
+1526
+01:35:18,820 --> 01:35:21,322
+¡Dios mío! ¡Quítate!
+
+1527
+01:35:21,406 --> 01:35:23,491
+¿Qué tal una bomba de racimo?
+
+1528
+01:35:24,367 --> 01:35:25,410
+¡Fuego!
+
+1529
+01:35:31,207 --> 01:35:32,542
+¡Esto es sensacional!
+
+1530
+01:35:52,520 --> 01:35:54,022
+BLANCO:
+DEON WILSON
+
+1531
+01:35:54,147 --> 01:35:55,147
+Allá vamos.
+
+1532
+01:36:03,740 --> 01:36:04,824
+¡No!
+
+1533
+01:36:30,350 --> 01:36:31,350
+¡Demonios!
+
+1534
+01:36:32,977 --> 01:36:35,021
+¡Tú! ¡Te voy a matar!
+
+1535
+01:36:37,774 --> 01:36:38,816
+FUERA DE LINEA
+
+1536
+01:36:38,942 --> 01:36:40,401
+¡Ay, ay, ay!
+
+1537
+01:36:50,662 --> 01:36:51,871
+¡Chappie!
+
+1538
+01:37:03,841 --> 01:37:04,884
+¡Corran!
+
+1539
+01:37:05,551 --> 01:37:06,928
+¡No, mami!
+
+1540
+01:37:12,016 --> 01:37:13,016
+¡Dentro, mami!
+
+1541
+01:37:16,104 --> 01:37:17,689
+¿Qué pasa? No veo nada.
+
+1542
+01:37:23,987 --> 01:37:25,321
+¡Súbete en el auto, creador!
+
+1543
+01:37:25,446 --> 01:37:28,408
+¡Oye, hombre!
+
+1544
+01:37:30,451 --> 01:37:32,495
+¡Quiero esa camioneta!
+
+1545
+01:37:33,913 --> 01:37:35,748
+¡Sal! ¡Fuera!
+
+1546
+01:37:37,959 --> 01:37:39,294
+¡Corre Deon, vete!
+
+1547
+01:38:02,775 --> 01:38:04,235
+¡Chappie!
+
+1548
+01:38:06,404 --> 01:38:09,032
+¡No! ¡Creador! ¡Creador!
+
+1549
+01:38:12,285 --> 01:38:13,285
+¡Tranquilo!
+
+1550
+01:38:16,039 --> 01:38:18,041
+¡Rápido, rápido! ¡Vámonos!
+
+1551
+01:38:18,124 --> 01:38:20,043
+Cámaras auxiliares. Infrarroja.
+
+1552
+01:38:20,835 --> 01:38:23,796
+Vas a estar bien. ¡Lo resolví!
+
+1553
+01:38:23,880 --> 01:38:25,506
+Vamos a sacar tu consciencia.
+
+1554
+01:38:35,934 --> 01:38:37,185
+¡Yo-Landi!
+
+1555
+01:38:37,268 --> 01:38:39,520
+¡Para aquí, papi! ¡Para!
+
+1556
+01:38:39,604 --> 01:38:41,481
+Chappie, ¿Qué haces?
+
+1557
+01:38:41,606 --> 01:38:43,233
+¡El casco neuronal!
+
+1558
+01:38:53,368 --> 01:38:55,328
+Voy por tí, amigo.
+
+1559
+01:39:01,770 --> 01:39:02,770
+No alcanzo...
+
+1560
+01:39:02,794 --> 01:39:04,254
+¡Mi casco! ¡Mi casco!
+
+1561
+01:39:05,964 --> 01:39:06,964
+¡Ninja!
+
+1562
+01:39:07,298 --> 01:39:08,341
+¡Ninja!
+
+1563
+01:39:09,425 --> 01:39:10,969
+¡Ninja, regresa!
+
+1564
+01:39:11,052 --> 01:39:14,389
+¡Necesito llevar mi creador
+al casco de la fábrica!
+
+1565
+01:39:14,430 --> 01:39:15,890
+¡Mi casco está roto!
+
+1566
+01:39:15,932 --> 01:39:16,849
+Voy a distraerlo.
+¡Llévatela!
+
+1567
+01:39:16,975 --> 01:39:18,059
+¡No!
+
+1568
+01:39:18,184 --> 01:39:21,688
+- ¡Vete, Chappie!
+- ¡No, Ninja!
+
+1569
+01:39:21,729 --> 01:39:23,439
+- ¡Vete!
+- ¡No me dejes!
+
+1570
+01:39:24,357 --> 01:39:25,483
+¡Ninja!
+
+1571
+01:39:25,525 --> 01:39:28,403
+¡Oye, Alce!
+
+1572
+01:39:34,617 --> 01:39:35,743
+¿Quién es ese?
+
+1573
+01:39:37,537 --> 01:39:38,997
+Dios mío, mírate.
+
+1574
+01:39:39,706 --> 01:39:40,790
+Te crees un héroe.
+
+1575
+01:40:03,229 --> 01:40:05,440
+- ¡Ninja!
+- ¡No, mami!
+
+1576
+01:40:05,982 --> 01:40:06,983
+¿Qué haces?
+
+1577
+01:40:07,358 --> 01:40:10,570
+¡Anda! ¡Anda, pelea!
+
+1578
+01:40:13,489 --> 01:40:14,741
+¡Pelea!
+
+1579
+01:40:17,201 --> 01:40:18,201
+¡Pelea!
+
+1580
+01:40:25,043 --> 01:40:26,043
+¡Pelea!
+
+1581
+01:40:26,252 --> 01:40:29,255
+¡Pelea!
+
+1582
+01:40:53,655 --> 01:40:55,114
+¡No, mami! ¡Mami!
+
+1583
+01:40:55,698 --> 01:40:56,698
+¡Mami, por favor!
+
+1584
+01:40:56,783 --> 01:40:57,825
+¡Por favor, mami!
+
+1585
+01:41:00,328 --> 01:41:02,705
+Este es tu día del juicio.
+
+1586
+01:41:21,766 --> 01:41:22,766
+¿Qué está pasando?
+
+1587
+01:41:23,518 --> 01:41:26,145
+Regresa, regresa.
+
+1588
+01:41:28,356 --> 01:41:29,356
+No, no. Es imposible.
+
+1589
+01:41:29,816 --> 01:41:31,901
+NO HAY SEÑAL
+
+1590
+01:41:45,748 --> 01:41:48,126
+¡Despierta, mami!
+¡Por favor!
+
+1591
+01:41:57,927 --> 01:41:58,927
+¿Mami?
+
+1592
+01:42:07,353 --> 01:42:08,353
+Ven acá.
+
+1593
+01:42:24,829 --> 01:42:27,290
+¡Creador!
+¿Quién le hizo esto a mami?
+
+1594
+01:42:28,124 --> 01:42:29,250
+No lo sé.
+
+1595
+01:42:29,751 --> 01:42:30,751
+¡Lo odio!
+
+1596
+01:42:30,960 --> 01:42:33,170
+¿Por qué? ¿Por qué lastiman?
+
+1597
+01:42:33,171 --> 01:42:34,380
+¡Lo voy a aplastar!
+
+1598
+01:42:35,173 --> 01:42:37,383
+¡Papi, quédate ahí!
+¡Chappie va a aplastarlo!
+
+1599
+01:43:13,378 --> 01:43:14,378
+¡Tú!
+
+1600
+01:43:14,629 --> 01:43:16,381
+¡Es el de la camioneta!
+
+1601
+01:43:19,300 --> 01:43:20,426
+¡Espera aquí!
+
+1602
+01:43:20,551 --> 01:43:22,679
+¡Voy por el hombre malo
+de la camioneta!
+
+1603
+01:43:31,688 --> 01:43:32,814
+¡Fenómeno impío!
+
+1604
+01:43:36,651 --> 01:43:38,152
+¡Mataste a mami!
+
+1605
+01:43:38,695 --> 01:43:40,905
+¡Heriste a mi gente! ¿Por qué?
+
+1606
+01:43:42,031 --> 01:43:44,826
+¡No! ¡No debes usar armas!
+
+1607
+01:43:50,415 --> 01:43:52,000
+¡Te voy a aplastar, hombre malo!
+
+1608
+01:43:52,125 --> 01:43:54,961
+¡Te voy a aplastar
+por lastimar a mi mami!
+
+1609
+01:44:02,176 --> 01:44:03,553
+¡No se dispara con el brazo!
+
+1610
+01:44:07,015 --> 01:44:08,015
+¡No se hiere!
+
+1611
+01:44:08,016 --> 01:44:09,976
+¡Nada de violencia!
+
+1612
+01:44:14,856 --> 01:44:17,275
+¡Te voy a dar una lección!
+
+1613
+01:44:21,613 --> 01:44:24,032
+Tú eres un hombre muy malo.
+
+1614
+01:44:32,540 --> 01:44:35,627
+Ahora. No te perdonaré,
+hombre malo.
+
+1615
+01:44:54,164 --> 01:44:55,164
+Vas a ponerte bien.
+
+1616
+01:44:55,188 --> 01:44:56,188
+Espera.
+
+1617
+01:45:02,946 --> 01:45:04,614
+No te duermas, Deon.
+
+1618
+01:45:04,697 --> 01:45:06,157
+No te vayas al siguiente lugar.
+
+1619
+01:45:06,282 --> 01:45:07,784
+Ponte en esa silla.
+
+1620
+01:45:07,909 --> 01:45:09,160
+¡Por favor, pronto!
+
+1621
+01:45:13,539 --> 01:45:14,539
+Chappie.
+
+1622
+01:45:15,625 --> 01:45:17,585
+¿Sí, qué?
+
+1623
+01:45:19,712 --> 01:45:21,589
+Hay un problema. Mira.
+
+1624
+01:45:22,423 --> 01:45:23,883
+Solo hay un androide.
+
+1625
+01:45:24,008 --> 01:45:25,426
+Te voy a dar un cuerpo nuevo.
+
+1626
+01:45:25,843 --> 01:45:28,763
+Por el amor de Dios,
+sálvate a tí.
+
+1627
+01:45:44,654 --> 01:45:46,698
+No, no, no. Creador.
+
+1628
+01:45:47,699 --> 01:45:49,742
+Creador, te vas a poner bien.
+
+1629
+01:45:49,826 --> 01:45:50,952
+Tienes que ser fuerte.
+
+1630
+01:45:51,619 --> 01:45:52,619
+Sé fuerte.
+
+1631
+01:45:58,353 --> 01:45:59,353
+Todo va a salir bien.
+
+1632
+01:45:59,377 --> 01:46:00,377
+Quédate conmigo.
+
+1633
+01:46:01,212 --> 01:46:02,839
+Caramba. Vino la policía.
+
+1634
+01:46:03,506 --> 01:46:05,466
+¿Transferir consciencia Deon?
+
+1635
+01:46:06,342 --> 01:46:07,427
+Bueno, ¿listo?
+
+1636
+01:46:12,307 --> 01:46:13,641
+<i>Transfiriendo Consciencia...</i>
+
+1637
+01:46:18,688 --> 01:46:19,898
+Por favor, funciona.
+
+1638
+01:46:19,981 --> 01:46:22,358
+¡Ábrela, rápido!
+
+1639
+01:46:24,068 --> 01:46:25,068
+TRANSFERENCIA COMPLETA
+
+1640
+01:46:35,413 --> 01:46:37,749
+Creador, tómalo con calma.
+
+1641
+01:46:37,832 --> 01:46:39,876
+Es muy desconcertante
+para un humano.
+
+1642
+01:46:42,503 --> 01:46:44,005
+Dios mío.
+
+1643
+01:46:44,714 --> 01:46:45,714
+Soy...
+
+1644
+01:46:46,215 --> 01:46:50,720
+¿No tiene una sierra
+mejor? ¡Apúrese!
+
+1645
+01:46:51,095 --> 01:46:52,847
+¿Estás bien, creador?
+
+1646
+01:47:00,104 --> 01:47:01,104
+¿Creador?
+
+1647
+01:47:01,105 --> 01:47:02,398
+¿Sientes dolor?
+
+1648
+01:47:03,274 --> 01:47:06,903
+No. Chappie. Estoy... estoy vivo.
+
+1649
+01:47:12,742 --> 01:47:14,911
+No sé qué significa esto.
+
+1650
+01:47:15,578 --> 01:47:17,580
+Vas a ser para siempre.
+
+1651
+01:47:21,793 --> 01:47:23,086
+Chappie.
+
+1652
+01:47:23,169 --> 01:47:24,963
+Tenemos que ayudarte a tí.
+
+1653
+01:47:25,088 --> 01:47:27,048
+Piensa, maldita sea, piensa.
+
+1654
+01:47:27,173 --> 01:47:29,759
+Está bien, creador.
+Tú te salvaste.
+
+1655
+01:47:30,510 --> 01:47:31,844
+Y ya no hay más cuerpos.
+
+1656
+01:47:34,931 --> 01:47:37,350
+No, Chappie, espera. ¡Ya sé!
+
+1657
+01:47:37,475 --> 01:47:39,644
+Vincent subió su programa aquí.
+
+1658
+01:47:39,769 --> 01:47:41,813
+Hay cientos de cuerpos
+en la ciudad.
+
+1659
+01:47:41,896 --> 01:47:42,896
+¡Aquí está!
+
+1660
+01:47:45,733 --> 01:47:46,733
+¡Rápido! ¡Enchúfalo!
+
+1661
+01:47:48,611 --> 01:47:49,611
+¡Llave detectada!
+
+1662
+01:47:49,654 --> 01:47:52,699
+Vincent desactivó los robots
+con un protocolo.
+
+1663
+01:47:52,782 --> 01:47:55,285
+Quizá con él pueda
+pasarle a otro cuerpo.
+
+1664
+01:47:55,410 --> 01:47:56,953
+¡Busca un Explorador! ¡Rápido!
+
+1665
+01:47:57,078 --> 01:47:59,038
+¡Está bien! ¡Busca rápido!
+
+1666
+01:47:59,163 --> 01:48:00,290
+RED EXPLORADORES ACTIVA
+
+1667
+01:48:00,665 --> 01:48:01,665
+¡Yo puedo!
+
+1668
+01:48:03,418 --> 01:48:04,418
+<i>Consciencia chappie.dat</i>
+
+1669
+01:48:05,379 --> 01:48:06,379
+¿Actualizar Explorador 039?
+
+1670
+01:48:06,380 --> 01:48:07,463
+- ¿Deon?
+- Sí.
+
+1671
+01:48:08,172 --> 01:48:10,008
+Oprime "introducir" cuando diga.
+
+1672
+01:48:16,890 --> 01:48:18,641
+¡Anda Chappie, anda!
+
+1673
+01:48:20,184 --> 01:48:21,185
+¿Creador?
+
+1674
+01:48:25,375 --> 01:48:26,375
+Tengo miedo.
+
+1675
+01:48:26,399 --> 01:48:27,984
+¿Y si no funciona?
+
+1676
+01:48:28,568 --> 01:48:30,653
+Va a funcionar, Chappie.
+
+1677
+01:48:31,237 --> 01:48:32,238
+Te lo prometo.
+
+1678
+01:48:32,614 --> 01:48:34,324
+Nunca puedes romper una promesa.
+
+1679
+01:48:34,657 --> 01:48:36,034
+Anda, hagámoslo.
+
+1680
+01:48:39,037 --> 01:48:40,038
+Allá va.
+
+1681
+01:48:41,539 --> 01:48:43,291
+Chappie se va a un cuerpo nuevo.
+
+1682
+01:48:53,176 --> 01:48:54,737
+EXPLORADOR 039
+TRANSFERENCIA EN PROGRESO
+
+1683
+01:49:07,649 --> 01:49:11,569
+¡Empleados de Tetravaal,
+quédense atrás! ¡Vamos!
+
+1684
+01:49:41,140 --> 01:49:42,392
+¿Chappie?
+
+1685
+01:49:44,996 --> 01:49:45,996
+¿Eres tú?
+
+1686
+01:49:46,020 --> 01:49:47,146
+Sí, soy yo.
+
+1687
+01:49:47,564 --> 01:49:48,564
+Funcionó.
+
+1688
+01:49:48,856 --> 01:49:51,192
+Los dos tenemos cuerpos nuevos.
+
+1689
+01:49:51,317 --> 01:49:52,402
+Gracias.
+
+1690
+01:49:53,528 --> 01:49:56,406
+Lamento que hayas tenido
+que dejar tu cuerpo.
+
+1691
+01:49:56,531 --> 01:49:58,241
+Pero sólo así te podía salvar.
+
+1692
+01:49:59,075 --> 01:50:01,244
+¡Ven, creador! ¡Ven pronto!
+
+1693
+01:50:01,369 --> 01:50:02,620
+¡Vamos de regreso a casa!
+
+1694
+01:50:38,239 --> 01:50:39,449
+- ¿Estás bien, mami?
+- ¿Sí?
+
+1695
+01:50:39,574 --> 01:50:42,201
+- Piensa en algo.
+- Estoy pensando.
+
+1696
+01:50:42,285 --> 01:50:43,285
+CONSCIENCIA MAMI
+
+1697
+01:50:44,621 --> 01:50:45,621
+¿Es papi?
+
+1698
+01:50:45,872 --> 01:50:46,872
+Sí.
+
+1699
+01:50:47,957 --> 01:50:49,167
+¡Está funcionando, mami!
+
+1700
+01:50:49,334 --> 01:50:50,376
+¡Está funcionando!
+
+1701
+01:50:58,843 --> 01:51:01,095
+YO-LANDI VI$$ER
+LA RESPUESTA
+
+1702
+01:51:28,831 --> 01:51:31,084
+Es sólo un cuerpo temporal, mami.
+
+1703
+01:51:31,960 --> 01:51:33,253
+Te voy a traer uno nuevo.
+
+1704
+01:51:33,586 --> 01:51:35,838
+No tienes que irte
+al siguiente lugar.
+
+1705
+01:51:40,969 --> 01:51:44,138
+<i>Las autoridades sudafricanas
+le pusieron un alto...</i>
+
+1706
+01:51:44,180 --> 01:51:47,725
+<i>al uso de robots
+para imponer la ley...</i>
+
+1707
+01:51:47,809 --> 01:51:52,689
+<i>y han activado una fuerza
+de 150,000 reservistas.</i>
+
+1708
+01:51:53,606 --> 01:51:57,485
+<i>En Johannesburgo han
+avistado varias veces...</i>
+
+1709
+01:51:57,652 --> 01:51:59,153
+<i>al robot supuestamente
+desactivado, Chappie.</i>
+
+1710
+01:51:59,237 --> 01:52:02,073
+<i>La policía pide a quienes
+hayan visto a Chappie...</i>
+
+1711
+01:52:02,156 --> 01:52:03,533
+<i>que se reporten.</i>
+
+1712
+01:52:03,658 --> 01:52:05,910
+<i>Seguiremos reportando
+sobre esto.</i>
+
+1713
+01:52:16,838 --> 01:52:18,715
+CONECTANDO TETRAVAAL_SA...
+
+1714
+01:52:26,389 --> 01:52:28,099
+INTRODUCIR CÓDIGO:
+SUBIR NUEVO ESQUEMA
+
+1715
+01:52:30,810 --> 01:52:31,811
+CONSTRUYENDO...
+
+1716
+01:52:37,317 --> 01:52:38,735
+CONSCIENCIA MAMI
+
+1717
+01:52:38,860 --> 01:52:40,486
+Te veré pronto, mami.
+
+1718
+01:52:41,089 --> 01:52:42,089
+CONSCIENCIA.DAT en PROGRESO...
+
+1719
+01:52:42,113 --> 01:52:43,353
+BAJANDO CONSCIENCIA_YOLANDI.DAT
+
+1720
+01:52:44,115 --> 01:52:45,115
+DESCARGA COMPLETA
+
+1721
+01:52:47,118 --> 01:52:55,043
+SUBTITULADO POR THORAVENGER
+CON APOYO DE ANTILLANO
+
+1722
+01:52:57,629 --> 01:52:59,714
+Ahora los dos somos
+ovejas negras, mami.
+

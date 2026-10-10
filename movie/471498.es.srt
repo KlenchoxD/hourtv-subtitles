@@ -1,0 +1,4754 @@
+1
+00:00:08,625 --> 00:00:12,200
+<i>NETFLIX PRESENTA</i>
+
+2
+00:05:38,500 --> 00:05:41,408
+¡Auxilio!
+
+3
+00:05:45,541 --> 00:05:47,616
+¡Auxilio!
+
+4
+00:06:16,583 --> 00:06:20,033
+Falla del sistema.
+Nivel de oxígeno: 35%
+
+5
+00:06:20,458 --> 00:06:23,408
+¿Dónde estoy?
+
+6
+00:06:25,666 --> 00:06:29,226
+Soy tu Médico Interfaz y
+Ligazón de Operaciones,
+
+7
+00:06:29,250 --> 00:06:33,200
+MILO, programado para responder
+a tus necesidades médicas.
+
+8
+00:06:33,708 --> 00:06:36,200
+Alguien... ¿Quién...?
+
+9
+00:06:38,666 --> 00:06:41,351
+¿Qué pasó? ¿Por
+qué no puedo recordar?
+
+10
+00:06:41,375 --> 00:06:43,783
+Estás muy agitada.
+
+11
+00:06:44,333 --> 00:06:46,408
+- ¿Quieres un sedante?
+- No.
+
+12
+00:06:49,208 --> 00:06:52,283
+Déjame salir.
+
+13
+00:06:53,875 --> 00:06:56,700
+No puedo acceder a
+esa petición por ahora.
+
+14
+00:06:58,625 --> 00:07:00,075
+¿Qué pasa?
+
+15
+00:07:01,416 --> 00:07:05,851
+¿Me drogaste?
+¿Alguien...? ¿Quién?
+
+16
+00:07:05,875 --> 00:07:08,226
+MILO, ¿qué está pasando?
+
+17
+00:07:08,250 --> 00:07:11,075
+- ¿Quieres un informe de situación?
+- Sí.
+
+18
+00:07:11,791 --> 00:07:13,116
+Falla detectada.
+
+19
+00:07:13,666 --> 00:07:18,575
+El calor en el procesador 3-54
+disminuyó las reservas de oxígeno.
+
+20
+00:07:18,875 --> 00:07:21,408
+Suspensión de la
+criogenia médica.
+
+21
+00:07:22,666 --> 00:07:24,325
+¿"Criogenia"?
+
+22
+00:07:27,583 --> 00:07:28,783
+El hospital.
+
+23
+00:07:29,416 --> 00:07:31,241
+Bien, estoy en el hospital.
+
+24
+00:07:33,125 --> 00:07:36,825
+¡Auxilio! Ayúdenme.
+
+25
+00:07:37,625 --> 00:07:40,741
+¡Estoy despierta!
+¿Hay alguien ahí?
+
+26
+00:07:41,750 --> 00:07:45,741
+Por favor. ¡Estoy despierta!
+
+27
+00:07:56,083 --> 00:07:57,491
+¿Me oyen?
+
+28
+00:07:58,041 --> 00:08:01,408
+¿Hay alguien ahí? ¿Pueden
+oírme? ¡Estoy despierta!
+
+29
+00:08:03,208 --> 00:08:04,700
+¡Auxilio!
+
+30
+00:08:06,625 --> 00:08:08,741
+¿Hay alguien ahí? ¿Pueden oírme?
+
+31
+00:08:10,916 --> 00:08:13,892
+¡Auxilio! Ayúdenme.
+
+32
+00:08:13,916 --> 00:08:16,101
+Nivel de oxígeno: 34%
+
+33
+00:08:16,125 --> 00:08:18,700
+ESTADO NORMAL
+EXPOSICIÓN INTERNA 27.4
+
+34
+00:08:28,166 --> 00:08:30,767
+Bien.
+
+35
+00:08:30,791 --> 00:08:34,325
+Una cápsula criogénica.
+
+36
+00:08:35,750 --> 00:08:38,934
+Estoy enferma.
+Debo estar enferma.
+
+37
+00:08:38,958 --> 00:08:41,575
+Estoy en fase
+terminal. Voy a morir.
+
+38
+00:08:47,416 --> 00:08:51,991
+Bien. Normalmente, las unidades
+médicas están monitoreadas,
+
+39
+00:08:53,416 --> 00:08:56,200
+pero aquí hay un problema.
+
+40
+00:08:58,625 --> 00:09:02,158
+Alguien vendrá. Si hay un
+problema, alguien vendrá.
+
+41
+00:09:06,416 --> 00:09:10,575
+MILO, ¿le informaste a
+alguien de la falla en mi cápsula?
+
+42
+00:09:10,958 --> 00:09:15,059
+Diagnóstico de falla
+enviado a las 04:32 GMT.
+
+43
+00:09:15,083 --> 00:09:18,101
+Recibido a las 04:33 GMT.
+
+44
+00:09:18,125 --> 00:09:19,950
+¿Alguien está viniendo?
+
+45
+00:09:20,416 --> 00:09:22,283
+Aún no hubo respuesta.
+
+46
+00:09:33,250 --> 00:09:36,017
+Todo estará bien.
+Saben que desperté.
+
+47
+00:09:36,041 --> 00:09:39,491
+Estoy en un hospital. Estoy
+a salvo. Todo estará bien.
+
+48
+00:09:42,833 --> 00:09:44,200
+No es una caja.
+
+49
+00:09:46,041 --> 00:09:48,226
+No es una caja.
+
+50
+00:09:48,250 --> 00:09:50,825
+Concéntrate.
+Concéntrate en respirar.
+
+51
+00:09:51,208 --> 00:09:52,908
+En respirar. El viento.
+
+52
+00:09:57,583 --> 00:09:59,616
+Respira. Eso es.
+
+53
+00:10:03,041 --> 00:10:04,866
+No estoy en una caja.
+
+54
+00:10:21,250 --> 00:10:22,616
+No es una caja.
+
+55
+00:10:35,708 --> 00:10:36,991
+MILO,
+
+56
+00:10:37,958 --> 00:10:39,158
+¿quién soy?
+
+57
+00:10:43,125 --> 00:10:44,616
+¿Cómo me llamo?
+
+58
+00:10:46,666 --> 00:10:48,866
+MILO, identificación
+del paciente.
+
+59
+00:10:50,500 --> 00:10:54,616
+Identidad del
+paciente: Omicron 267.
+
+60
+00:10:56,500 --> 00:10:57,700
+Especifica.
+
+61
+00:10:58,875 --> 00:11:01,950
+Eres la bioforma Omicron 267.
+
+62
+00:11:05,500 --> 00:11:08,325
+Muéstrame una
+imagen de la bioforma.
+
+63
+00:11:35,333 --> 00:11:39,351
+MILO, ¿con qué nombre está
+registrado el paciente Omicron 267?
+
+64
+00:11:39,375 --> 00:11:43,950
+Omicron 267 está
+registrado como Omicron 267.
+
+65
+00:11:47,666 --> 00:11:49,533
+Eso ayuda. Gracias.
+
+66
+00:11:51,083 --> 00:11:52,575
+Cierra la imagen.
+
+67
+00:12:34,166 --> 00:12:36,450
+Nivel de oxígeno: 33%
+
+68
+00:12:36,750 --> 00:12:41,075
+Sugiero reducir el consumo
+para retrasar la asfixia.
+
+69
+00:13:04,541 --> 00:13:06,658
+¿Qué tengo? ¿Por qué estoy aquí?
+
+70
+00:13:08,083 --> 00:13:11,809
+¿Quieres acceder al diagnóstico
+médico del paciente 267?
+
+71
+00:13:11,833 --> 00:13:14,116
+Sí.
+
+72
+00:13:16,166 --> 00:13:18,366
+Buscando el diagnóstico médico.
+
+73
+00:13:21,458 --> 00:13:22,866
+Vine aquí a curarme.
+
+74
+00:13:25,291 --> 00:13:27,700
+Informe médico no disponible.
+
+75
+00:13:28,500 --> 00:13:30,866
+¿Qué? ¿Por qué?
+Tú me lo ofreciste.
+
+76
+00:13:31,458 --> 00:13:34,991
+Reanimación
+criogénica incompleta.
+
+77
+00:13:36,208 --> 00:13:37,575
+¿Cuánto tomará?
+
+78
+00:13:38,500 --> 00:13:41,200
+Siete minutos y
+cincuenta y tres segundos.
+
+79
+00:13:47,500 --> 00:13:48,741
+MILO.
+
+80
+00:13:49,833 --> 00:13:52,309
+MILO, por favor,
+te lo ruego, abre.
+
+81
+00:13:52,333 --> 00:13:54,241
+Déjame salir, por favor.
+
+82
+00:13:57,916 --> 00:14:00,950
+Por favor. Déjame salir.
+
+83
+00:14:07,166 --> 00:14:10,658
+¿MILO? MILO, desbloqueo.
+
+84
+00:14:11,250 --> 00:14:14,226
+No se recomienda proceder
+a desbloquear ahora.
+
+85
+00:14:14,250 --> 00:14:15,991
+Procede a desbloquear.
+
+86
+00:14:16,500 --> 00:14:17,700
+Iniciando.
+
+87
+00:14:23,000 --> 00:14:25,033
+Código de autorización.
+
+88
+00:14:28,125 --> 00:14:31,017
+Por favor, ingresa la
+contraseña para continuar.
+
+89
+00:14:31,041 --> 00:14:33,325
+No la tengo. ¡No la tengo!
+
+90
+00:14:34,625 --> 00:14:38,408
+- Esperando el código de autorización.
+- ¡No tengo el código!
+
+91
+00:14:39,250 --> 00:14:41,116
+Procedimiento interrumpido.
+
+92
+00:14:44,166 --> 00:14:45,491
+El sistema.
+
+93
+00:14:47,666 --> 00:14:49,991
+El sistema pudo transmitir.
+
+94
+00:14:50,750 --> 00:14:53,866
+MILO, quiero llamar al exterior.
+
+95
+00:14:54,625 --> 00:14:57,892
+Las comunicaciones externas
+no están disponibles ahora.
+
+96
+00:14:57,916 --> 00:15:00,200
+¿Cómo se transmitió
+el diagnóstico?
+
+97
+00:15:00,500 --> 00:15:03,700
+Todos los datos se
+transmiten por la línea central.
+
+98
+00:15:04,250 --> 00:15:08,075
+¿Y puedes usar esa línea para
+enviar una transmisión de audio?
+
+99
+00:15:08,375 --> 00:15:09,851
+- Afirmativo.
+- Bien.
+
+100
+00:15:09,875 --> 00:15:14,575
+- ¿Deseas activar la transmisión ahora?
+- Sí. Llama al centro de operaciones.
+
+101
+00:15:14,875 --> 00:15:18,366
+El centro de operaciones
+no figura en los datos.
+
+102
+00:15:19,125 --> 00:15:21,142
+Llama...
+
+103
+00:15:21,166 --> 00:15:23,283
+Llama a la Policía, MILO.
+
+104
+00:15:24,000 --> 00:15:27,684
+Hay 247 números de
+contacto de la Policía.
+
+105
+00:15:27,708 --> 00:15:30,533
+- ¿A cuál llamo?
+- Al primero de la lista.
+
+106
+00:15:34,166 --> 00:15:36,392
+- Hola.
+- Hola. ¿Puede oírme?
+
+107
+00:15:36,416 --> 00:15:38,976
+Se comunicó con el
+Departamento de Policía.
+
+108
+00:15:39,000 --> 00:15:44,142
+Todas las llamadas quedan grabadas.
+Para denunciar o prevenir un delito...
+
+109
+00:15:44,166 --> 00:15:45,976
+- Diga.
+- ¿Hola? Hola.
+
+110
+00:15:46,000 --> 00:15:47,642
+- Señora, no...
+- ¿Me oye?
+
+111
+00:15:47,666 --> 00:15:50,283
+Bien. Estoy encerrada.
+
+112
+00:15:51,333 --> 00:15:54,017
+- ¿Hola? ¿Me oye?
+- No la oigo bien.
+
+113
+00:15:54,041 --> 00:15:57,226
+Estoy en una cápsula
+criogénica casi sin oxígeno.
+
+114
+00:15:57,250 --> 00:15:58,892
+¿Una cápsula médica?
+
+115
+00:15:58,916 --> 00:16:01,851
+Sí. Está sellada. No puedo
+salir. Deben ayudarme.
+
+116
+00:16:01,875 --> 00:16:05,559
+- Bien. ¿En qué hospital está?
+- No sé. Desperté encerrada.
+
+117
+00:16:05,583 --> 00:16:08,434
+No recuerdo nada. Está
+sellada, no puedo salir.
+
+118
+00:16:08,458 --> 00:16:10,017
+Intente avisar a alguien.
+
+119
+00:16:10,041 --> 00:16:13,476
+Lo hice. Golpeé. Lo
+intenté, pero no vino nadie.
+
+120
+00:16:13,500 --> 00:16:17,726
+- Bien. Deme su nombre y dirección.
+- No lo sé.
+
+121
+00:16:17,750 --> 00:16:22,616
+- Hacer una denuncia falsa es un delito.
+- No, debe creerme. Ayúdeme. Por favor.
+
+122
+00:16:23,708 --> 00:16:29,741
+- ¿Es en serio?
+- Sí. ¿Puede rastrear mi llamada?
+
+123
+00:16:31,375 --> 00:16:32,575
+Muy bien.
+
+124
+00:16:34,583 --> 00:16:37,783
+Intente recordar algo.
+Cualquier cosa que nos ayude.
+
+125
+00:16:39,541 --> 00:16:42,184
+- No sé...
+- Lo último que recuerda.
+
+126
+00:16:42,208 --> 00:16:44,158
+Un hospital, creo.
+
+127
+00:16:44,958 --> 00:16:46,684
+La sala de emergencias.
+
+128
+00:16:46,708 --> 00:16:48,491
+No sé, está borroso.
+
+129
+00:16:49,375 --> 00:16:51,366
+- Tengo miedo.
+- Tranquilícese.
+
+130
+00:16:51,666 --> 00:16:53,491
+Tranquila, la sacaremos.
+
+131
+00:16:56,125 --> 00:16:57,809
+La computadora...
+
+132
+00:16:57,833 --> 00:17:02,059
+La computadora tiene que saber.
+MILO, ubicación de la unidad.
+
+133
+00:17:02,083 --> 00:17:05,366
+Imposible determinar la
+ubicación de la unidad.
+
+134
+00:17:07,083 --> 00:17:09,517
+¿Ya me localizaron?
+
+135
+00:17:09,541 --> 00:17:11,976
+No. Nos cuesta
+localizar su transmisor.
+
+136
+00:17:12,000 --> 00:17:14,601
+- ¿Qué quiere decir?
+- Acotamos la búsqueda.
+
+137
+00:17:14,625 --> 00:17:16,976
+Tal vez estoy
+enterrada bajo tierra.
+
+138
+00:17:17,000 --> 00:17:20,351
+- Intente mantener la calma.
+- Quizá me enterraron viva.
+
+139
+00:17:20,375 --> 00:17:22,559
+- Cálmese.
+- ¡No me diga que me calme!
+
+140
+00:17:22,583 --> 00:17:25,851
+Escuche, dígame todo lo
+que pueda sobre la cápsula.
+
+141
+00:17:25,875 --> 00:17:28,767
+El fabricante, el número
+de serie, lo que sea.
+
+142
+00:17:28,791 --> 00:17:30,700
+- Bien.
+- Busque.
+
+143
+00:17:31,875 --> 00:17:33,392
+- ¿Sigue ahí?
+- Sí.
+
+144
+00:17:33,416 --> 00:17:34,976
+Fabricado por Cryosalide.
+
+145
+00:17:35,000 --> 00:17:41,908
+Número de serie:
+7485945375 - 267.
+
+146
+00:17:42,458 --> 00:17:44,200
+¿Me localizaron?
+
+147
+00:17:44,833 --> 00:17:46,991
+Aún tenemos problemas.
+
+148
+00:17:47,375 --> 00:17:49,101
+Estoy bajo tierra, ¿no?
+
+149
+00:17:49,125 --> 00:17:51,476
+Si es así, nunca me encontrarán.
+
+150
+00:17:51,500 --> 00:17:53,809
+Escúcheme, señora.
+La encontraremos.
+
+151
+00:17:53,833 --> 00:17:55,892
+Debo transferirla a mi superior.
+
+152
+00:17:55,916 --> 00:17:58,267
+¿Qué? No, no puede dejarme.
+
+153
+00:17:58,291 --> 00:18:02,075
+- No la dejaré. La línea sigue abierta.
+- No, no puede irse.
+
+154
+00:18:03,166 --> 00:18:04,934
+Será sólo un minuto. No más.
+
+155
+00:18:04,958 --> 00:18:06,533
+No se vaya, por favor.
+
+156
+00:18:06,833 --> 00:18:08,575
+Transferiremos su llamada.
+
+157
+00:18:11,333 --> 00:18:13,559
+Debí haber aceptado el sedante.
+
+158
+00:18:13,583 --> 00:18:16,116
+- ¿Quieres un sedante?
+- No.
+
+159
+00:18:23,083 --> 00:18:24,991
+Falla en la conexión.
+
+160
+00:18:30,833 --> 00:18:32,241
+Concéntrate.
+
+161
+00:18:32,916 --> 00:18:34,892
+Bien.
+
+162
+00:18:34,916 --> 00:18:39,351
+Las unidades criogénicas
+son laboratorios médicos.
+
+163
+00:18:39,375 --> 00:18:44,033
+MILO, ¿puedes hacer un
+análisis de ADN de Omicron 267?
+
+164
+00:18:44,541 --> 00:18:45,741
+Afirmativo.
+
+165
+00:18:51,750 --> 00:18:53,616
+Análisis de ADN completo.
+
+166
+00:18:54,250 --> 00:18:57,991
+- Busca una coincidencia genética.
+- Coincidencia encontrada.
+
+167
+00:19:02,416 --> 00:19:06,158
+BÚSQUEDA DE ADN: OMICRON 267
+
+168
+00:19:20,541 --> 00:19:22,241
+"Elizabeth Hansen".
+
+169
+00:19:23,333 --> 00:19:24,533
+Elizabeth.
+
+170
+00:19:26,666 --> 00:19:27,866
+Elizabeth.
+
+171
+00:19:30,791 --> 00:19:32,200
+Liz.
+
+172
+00:19:33,500 --> 00:19:34,783
+Liz.
+
+173
+00:19:39,541 --> 00:19:40,741
+¿Hay alguien ahí?
+
+174
+00:19:42,208 --> 00:19:45,616
+¡Ayuda! ¿Pueden
+oírme? ¿Hay alguien ahí?
+
+175
+00:19:46,083 --> 00:19:47,616
+¿Me oyen?
+
+176
+00:19:47,958 --> 00:19:49,658
+¡Auxilio! ¿Me oyen?
+
+177
+00:19:50,625 --> 00:19:52,392
+- Llamada entrante.
+- ¿Hola?
+
+178
+00:19:52,416 --> 00:19:53,434
+- ¿Señora?
+- Sí.
+
+179
+00:19:53,458 --> 00:19:54,476
+¿Señora?
+
+180
+00:19:54,500 --> 00:19:55,700
+¿Me oye?
+
+181
+00:19:56,000 --> 00:19:58,851
+Me llamo Elizabeth
+Hansen, pero me dicen Liz.
+
+182
+00:19:58,875 --> 00:20:00,934
+Bien. Eso es bueno. Nos ayudará.
+
+183
+00:20:00,958 --> 00:20:04,392
+Soy el Capitán Moreau
+de Ciencia y Tecnología.
+
+184
+00:20:04,416 --> 00:20:05,783
+¿Sabe si...?
+
+185
+00:20:06,458 --> 00:20:08,351
+¿Hola? No.
+
+186
+00:20:08,375 --> 00:20:10,101
+¿Hola?
+
+187
+00:20:10,125 --> 00:20:12,351
+- Amplificación de red.
+- ¿Elizabeth?
+
+188
+00:20:12,375 --> 00:20:15,059
+- ¿Me oye?
+- Hola, ¿me oye?
+
+189
+00:20:15,083 --> 00:20:18,476
+- Sí. No vuelva a irse.
+- No, no iré a ningún lado.
+
+190
+00:20:18,500 --> 00:20:21,434
+Me quedaré con usted.
+¿Cuánto oxígeno tiene?
+
+191
+00:20:21,458 --> 00:20:23,101
+¿Por qué? ¿Me encontraron?
+
+192
+00:20:23,125 --> 00:20:27,325
+¿Liz? No, concéntrese. Es importante.
+¿Cuál es su nivel de oxígeno?
+
+193
+00:20:29,458 --> 00:20:30,908
+Estoy en 31%
+
+194
+00:20:31,291 --> 00:20:34,517
+- ¿Cuánto tiempo tenemos?
+- ¿Cuánto tiempo para qué?
+
+195
+00:20:34,541 --> 00:20:37,825
+Escúcheme, Liz. Necesito
+saber cuánto tiempo tenemos.
+
+196
+00:20:41,375 --> 00:20:43,700
+¿Elizabeth? ¿Liz? ¿Está ahí?
+
+197
+00:20:45,166 --> 00:20:48,559
+MILO, ¿cuánto tiempo queda
+hasta que se acabe el oxígeno?
+
+198
+00:20:48,583 --> 00:20:52,767
+Tiempo máximo estimado con
+consumo moderado: 72 minutos.
+
+199
+00:20:52,791 --> 00:20:55,017
+Con el nivel de consumo actual:
+
+200
+00:20:55,041 --> 00:20:56,241
+43 minutos.
+
+201
+00:20:56,458 --> 00:20:58,158
+¿Cuarenta y tres minutos?
+
+202
+00:20:58,708 --> 00:21:01,434
+Necesito que me diga
+todo lo que recuerda.
+
+203
+00:21:01,458 --> 00:21:05,726
+Lo que sea. Conducta sospechosa,
+alguien que podría querer hacerle daño.
+
+204
+00:21:05,750 --> 00:21:08,476
+¿Hacerme daño? No lo creo, no.
+
+205
+00:21:08,500 --> 00:21:11,642
+- Tal vez, pero no sé.
+- Necesito que piense.
+
+206
+00:21:11,666 --> 00:21:14,976
+¿Qué me oculta? ¿Qué pasa?
+
+207
+00:21:15,000 --> 00:21:18,575
+- Intente concentrarse, por favor.
+- No me dice la verdad.
+
+208
+00:21:19,125 --> 00:21:20,325
+Dígame.
+
+209
+00:21:21,916 --> 00:21:24,309
+Sabe dónde estoy y
+no me lo dice, ¿no?
+
+210
+00:21:24,333 --> 00:21:26,934
+No, no logramos localizarla.
+
+211
+00:21:26,958 --> 00:21:28,158
+¿Qué?
+
+212
+00:21:28,500 --> 00:21:32,575
+Según el fabricante, esa unidad
+se destruyó hace tres años.
+
+213
+00:21:36,916 --> 00:21:38,241
+¿Hace tres años?
+
+214
+00:21:39,333 --> 00:21:40,825
+Lo siento, Liz.
+
+215
+00:21:46,666 --> 00:21:50,642
+MILO, chequeo médico
+completo de Omicron 267.
+
+216
+00:21:50,666 --> 00:21:52,267
+Parámetros normales.
+
+217
+00:21:52,291 --> 00:21:54,851
+No se detectaron
+enfermedades ni anomalías.
+
+218
+00:21:54,875 --> 00:21:56,476
+- No estoy enferma.
+- Liz...
+
+219
+00:21:56,500 --> 00:21:59,809
+- Necesito que sea fuerte.
+- ¡No estoy enferma!
+
+220
+00:21:59,833 --> 00:22:03,684
+Esperanza de vida del
+paciente Omicron 267:82 años.
+
+221
+00:22:03,708 --> 00:22:05,866
+No debería estar aquí.
+
+222
+00:22:06,333 --> 00:22:08,767
+¡Alguien me puso aquí!
+
+223
+00:22:08,791 --> 00:22:10,476
+¡No estoy enferma!
+
+224
+00:22:10,500 --> 00:22:11,700
+Atención.
+
+225
+00:22:12,333 --> 00:22:17,575
+Presión arterial:
+210/130. Pulso 142 ppm.
+
+226
+00:22:19,166 --> 00:22:20,366
+Liz, ¿está ahí?
+
+227
+00:22:21,541 --> 00:22:23,241
+Quédese conmigo, ¿sí?
+
+228
+00:22:24,333 --> 00:22:26,226
+La sacaremos de ahí. Escúcheme.
+
+229
+00:22:26,250 --> 00:22:28,866
+Concéntrese en mi
+voz. ¿Puede hacer eso?
+
+230
+00:22:30,458 --> 00:22:34,309
+Eso es. Cálmese. Es difícil,
+pero debe mantener la calma.
+
+231
+00:22:34,333 --> 00:22:38,476
+No se agite. Liz, la encontraremos.
+Hacemos todo lo que podemos.
+
+232
+00:22:38,500 --> 00:22:40,825
+¿Sí? ¿Y qué están
+haciendo ahora?
+
+233
+00:22:41,125 --> 00:22:44,392
+Mis hombres están revisando
+su información personal.
+
+234
+00:22:44,416 --> 00:22:47,184
+Y un equipo irá a
+ver al fabricante.
+
+235
+00:22:47,208 --> 00:22:48,309
+Cryosalide.
+
+236
+00:22:48,333 --> 00:22:51,075
+Necesito los códigos
+para abrir la unidad.
+
+237
+00:22:52,250 --> 00:22:53,517
+- ¿Los códigos?
+- Sí.
+
+238
+00:22:53,541 --> 00:22:54,741
+Bien.
+
+239
+00:22:55,791 --> 00:22:57,434
+Intentaré conseguirlos.
+
+240
+00:22:57,458 --> 00:22:59,601
+- ¿Cuánto llevará?
+- No sé.
+
+241
+00:22:59,625 --> 00:23:03,601
+Son las 2:00 de la mañana,
+y no son muy colaboradores.
+
+242
+00:23:03,625 --> 00:23:06,351
+Necesitamos una
+citación. Estamos en eso.
+
+243
+00:23:06,375 --> 00:23:09,142
+Pronto le daremos los
+códigos. Pero tarda más...
+
+244
+00:23:09,166 --> 00:23:11,184
+- ¿Hola? ¡No!
+- No...
+
+245
+00:23:11,208 --> 00:23:13,908
+- Amplificación de red en curso.
+- ¡No!
+
+246
+00:23:14,333 --> 00:23:17,783
+- Amplificación de red en curso.
+- ¿Hola?
+
+247
+00:23:18,333 --> 00:23:19,741
+MILO, reconexión.
+
+248
+00:23:20,125 --> 00:23:22,700
+- Conexión perdida.
+- Inténtalo de nuevo.
+
+249
+00:23:23,083 --> 00:23:24,726
+La conexión falló.
+
+250
+00:23:24,750 --> 00:23:28,450
+Inténtalo de nuevo.
+
+251
+00:23:29,250 --> 00:23:31,851
+- ¡Inténtalo de nuevo!
+- La conexión falló.
+
+252
+00:23:31,875 --> 00:23:35,892
+- Necesito los códigos.
+- Número sin asignar. Verifique el número.
+
+253
+00:23:35,916 --> 00:23:37,351
+Inténtalo de nuevo.
+
+254
+00:23:37,375 --> 00:23:39,851
+- La conexión falló.
+- Número sin asignar.
+
+255
+00:23:39,875 --> 00:23:42,575
+- De nuevo.
+- Verifique el número.
+
+256
+00:23:57,750 --> 00:24:02,408
+Nivel de oxígeno: 29%
+Probabilidad de supervivencia: 0%
+
+257
+00:24:04,625 --> 00:24:08,351
+- ¿Qué es eso?
+- Inicio de cuidados paliativos.
+
+258
+00:24:08,375 --> 00:24:12,892
+- Protocolo de sedación obligatoria.
+- ¿Qué? Nada de cuidados paliativos.
+
+259
+00:24:12,916 --> 00:24:16,825
+Aún me quedan 40 minutos. No.
+
+260
+00:24:29,416 --> 00:24:31,976
+Atención.
+
+261
+00:24:32,000 --> 00:24:35,017
+Cualquier daño intencionado
+a una unidad Cryosalide
+
+262
+00:24:35,041 --> 00:24:38,366
+es un delito federal punible
+con diez años de prisión.
+
+263
+00:24:48,958 --> 00:24:50,101
+Atención.
+
+264
+00:24:50,125 --> 00:24:53,517
+Cualquier daño intencionado
+a una unidad Cryosalide
+
+265
+00:24:53,541 --> 00:24:56,866
+es un delito federal punible
+con diez años de prisión.
+
+266
+00:26:46,666 --> 00:26:48,908
+Nivel de oxígeno: 23%
+
+267
+00:26:51,541 --> 00:26:53,241
+¿Veintitrés? ¿Por qué?
+
+268
+00:27:02,625 --> 00:27:04,200
+Veintitrés.
+
+269
+00:27:50,875 --> 00:27:53,033
+Nivel de oxígeno: 22%
+
+270
+00:28:02,958 --> 00:28:04,158
+¿MILO?
+
+271
+00:28:04,583 --> 00:28:06,767
+¿Tiempo desde
+que falló la conexión?
+
+272
+00:28:06,791 --> 00:28:10,658
+- 17 minutos y 12 segundos.
+- ¿Qué? ¿17 minutos? No es posible.
+
+273
+00:28:14,083 --> 00:28:16,116
+Alguien que pueda ayudarme.
+
+274
+00:28:16,541 --> 00:28:19,809
+Alguien que me conozca.
+
+275
+00:28:19,833 --> 00:28:23,700
+MILO, busca todo lo que
+puedas sobre Elizabeth Hansen.
+
+276
+00:28:24,208 --> 00:28:29,809
+Hay 1292 artículos académicos
+que ha escrito y/o que la citan,
+
+277
+00:28:29,833 --> 00:28:33,976
+427 referencias en la prensa,
+17 perfiles de redes sociales,
+
+278
+00:28:34,000 --> 00:28:35,559
+y dos sitios web...
+
+279
+00:28:35,583 --> 00:28:38,741
+La prensa. Muéstrame
+todos los artículos de prensa.
+
+280
+00:28:45,541 --> 00:28:48,575
+CRIOGENIA, LA REVOLUCIÓN MÉDICA
+
+281
+00:29:00,041 --> 00:29:04,033
+LOS PROYECTOS POCO ÉTICOS DE LA
+BIÓLOGA GANADORA DEL PREMIO NOBEL
+
+282
+00:29:04,666 --> 00:29:06,116
+Soy doctora en criogenia.
+
+283
+00:29:09,000 --> 00:29:10,825
+Yo me hice esto.
+
+284
+00:29:28,958 --> 00:29:30,866
+Muéstrame las redes sociales.
+
+285
+00:29:44,208 --> 00:29:47,767
+CON MI ESPOSO EN LOS
+PREMIOS DE CIENCIA Y TECNOLOGÍA
+
+286
+00:29:47,791 --> 00:29:48,991
+Mi esposo.
+
+287
+00:29:51,166 --> 00:29:52,741
+¿Estoy casada?
+
+288
+00:30:05,000 --> 00:30:06,200
+Maui.
+
+289
+00:30:53,583 --> 00:30:56,116
+Léo.
+
+290
+00:31:02,041 --> 00:31:05,767
+MILO. Encuentra el
+número del Dr. Léo Ferguson.
+
+291
+00:31:05,791 --> 00:31:07,533
+Dos números encontrados.
+
+292
+00:31:09,833 --> 00:31:11,366
+Llama al primero.
+
+293
+00:31:12,833 --> 00:31:14,450
+Adelante. Conéctate...
+
+294
+00:31:15,291 --> 00:31:17,075
+Conéctate, por favor.
+
+295
+00:31:28,166 --> 00:31:29,491
+Conéctate.
+
+296
+00:31:30,375 --> 00:31:33,366
+Conéctate.
+
+297
+00:31:35,833 --> 00:31:38,366
+Número no asignado.
+
+298
+00:31:38,666 --> 00:31:42,491
+- Por favor, verifique el número.
+- Llama al segundo número.
+
+299
+00:31:49,083 --> 00:31:51,075
+- ¿Hola?
+- Hola.
+
+300
+00:31:51,416 --> 00:31:53,450
+Necesito hablar con Léo. ¿Está?
+
+301
+00:31:54,500 --> 00:31:57,241
+- No.
+- Por favor, se lo ruego, es urgente.
+
+302
+00:31:57,625 --> 00:32:01,392
+Déjeme hablar con él. Soy su
+esposa, debo hablar con él urgente.
+
+303
+00:32:01,416 --> 00:32:03,726
+Déjeme hablar con él, por favor.
+
+304
+00:32:03,750 --> 00:32:04,950
+¿Hola?
+
+305
+00:32:05,416 --> 00:32:07,908
+Llamada interrumpida en origen.
+
+306
+00:32:08,416 --> 00:32:09,866
+MILO, llama de nuevo.
+
+307
+00:32:11,125 --> 00:32:12,325
+Llama de nuevo.
+
+308
+00:32:17,791 --> 00:32:20,059
+- ¿Quién es usted?
+- Disculpe.
+
+309
+00:32:20,083 --> 00:32:22,575
+Páseme con Léo,
+por favor, es urgente.
+
+310
+00:32:22,875 --> 00:32:26,450
+- Por favor, necesito hablar con él.
+- No vuelva a llamar.
+
+311
+00:32:28,916 --> 00:32:31,075
+Llamada interrumpida en origen.
+
+312
+00:32:32,166 --> 00:32:33,366
+Llama de nuevo.
+
+313
+00:32:40,750 --> 00:32:44,450
+Llama de nuevo.
+
+314
+00:32:48,916 --> 00:32:50,116
+¡Mierda!
+
+315
+00:32:50,666 --> 00:32:52,700
+Mierda.
+
+316
+00:32:58,541 --> 00:33:00,033
+Mierda.
+
+317
+00:33:03,708 --> 00:33:06,033
+Nivel de oxígeno: 21%
+
+318
+00:33:52,916 --> 00:33:54,658
+Sí.
+
+319
+00:34:07,625 --> 00:34:09,491
+Bien, ¿cómo se abre esto?
+
+320
+00:34:53,583 --> 00:34:55,575
+No, no es real.
+
+321
+00:34:57,750 --> 00:34:59,116
+No hay una rata.
+
+322
+00:35:45,833 --> 00:35:47,517
+Tienes el pulso alto.
+
+323
+00:35:47,541 --> 00:35:49,392
+Se recomienda un sedante.
+
+324
+00:35:49,416 --> 00:35:50,809
+¿Quieres un sedante?
+
+325
+00:35:50,833 --> 00:35:52,491
+No.
+
+326
+00:35:57,208 --> 00:35:59,325
+Sí.
+
+327
+00:36:33,916 --> 00:36:36,658
+¡Atención! Daño detectado.
+
+328
+00:36:55,583 --> 00:37:00,392
+Atención. Cualquier daño
+intencionado a una unidad Cryosalide
+
+329
+00:37:00,416 --> 00:37:03,809
+es un delito federal punible
+con diez años de prisión.
+
+330
+00:37:03,833 --> 00:37:06,491
+Sí, el secuestro también.
+
+331
+00:37:17,375 --> 00:37:20,767
+Intento de violación controlado
+por descarga eléctrica.
+
+332
+00:37:20,791 --> 00:37:22,559
+Bioforma preservada.
+
+333
+00:37:22,583 --> 00:37:24,325
+¿Quieres un sedante?
+
+334
+00:37:31,875 --> 00:37:33,075
+Voy a morir.
+
+335
+00:37:38,083 --> 00:37:39,575
+Voy a morir.
+
+336
+00:37:43,708 --> 00:37:46,366
+RESERVA DE O2 - 20%
+
+337
+00:37:47,000 --> 00:37:48,658
+Voy a morir.
+
+338
+00:38:19,250 --> 00:38:20,450
+Llamada entrante.
+
+339
+00:38:28,125 --> 00:38:29,366
+MILO, acepta.
+
+340
+00:38:30,958 --> 00:38:33,142
+- Elizabeth, ¿está ahí?
+- Sí, hola.
+
+341
+00:38:33,166 --> 00:38:34,142
+- Sí.
+- Y usted...
+
+342
+00:38:34,166 --> 00:38:37,184
+- MILO, amplifica la red.
+- Amplificación en curso.
+
+343
+00:38:37,208 --> 00:38:38,351
+¿Me oye?
+
+344
+00:38:38,375 --> 00:38:39,267
+La tengo.
+
+345
+00:38:39,291 --> 00:38:42,726
+Liz, tenemos la citación. Mis
+hombres están en Cryosalide.
+
+346
+00:38:42,750 --> 00:38:43,976
+¿Tiene los códigos?
+
+347
+00:38:44,000 --> 00:38:45,934
+Sí, los tendremos pronto.
+
+348
+00:38:45,958 --> 00:38:47,533
+Ya casi termina, Liz.
+
+349
+00:38:48,291 --> 00:38:50,033
+- ¿Me tienen?
+- La tenemos.
+
+350
+00:38:53,750 --> 00:38:54,950
+¿Capitán Moreau?
+
+351
+00:38:56,666 --> 00:38:58,934
+- ¿Moreau?
+- Todo va a estar bien.
+
+352
+00:38:58,958 --> 00:39:00,517
+Hay un problema, ¿no?
+
+353
+00:39:00,541 --> 00:39:02,684
+Dígame qué ocurre.
+
+354
+00:39:02,708 --> 00:39:04,309
+Nivel de oxígeno: 17%
+
+355
+00:39:04,333 --> 00:39:06,642
+¿Cómo 17%? ¿17%?
+
+356
+00:39:06,666 --> 00:39:09,059
+Pero estaba al 20%
+
+357
+00:39:09,083 --> 00:39:11,059
+¿Qué pasa, Liz? Cuénteme.
+
+358
+00:39:11,083 --> 00:39:13,767
+No lo sé. Pierdo la
+noción del tiempo.
+
+359
+00:39:13,791 --> 00:39:15,601
+Veo imágenes. Veo cosas.
+
+360
+00:39:15,625 --> 00:39:18,059
+No, Liz. Escúcheme bien.
+
+361
+00:39:18,083 --> 00:39:21,950
+Está teniendo un episodio
+psicótico producto del aislamiento.
+
+362
+00:39:22,666 --> 00:39:25,226
+Les pasa a los
+prisioneros de guerra.
+
+363
+00:39:25,250 --> 00:39:27,825
+Que su número no
+estuviera asignado,
+
+364
+00:39:28,208 --> 00:39:29,726
+¿eso fue real o no?
+
+365
+00:39:29,750 --> 00:39:32,642
+¿Qué? No, se cortó. No me fui.
+
+366
+00:39:32,666 --> 00:39:34,601
+Intenté comunicarme con usted.
+
+367
+00:39:34,625 --> 00:39:36,476
+Liz, mantenga la calma.
+
+368
+00:39:36,500 --> 00:39:39,226
+Concéntrese en lo
+que sabe que es real.
+
+369
+00:39:39,250 --> 00:39:42,616
+Concéntrese en su cuerpo,
+en lo que sabe que es real.
+
+370
+00:39:46,041 --> 00:39:48,142
+Intente concentrarse
+en su cuerpo.
+
+371
+00:39:48,166 --> 00:39:50,283
+Bien.
+
+372
+00:39:51,166 --> 00:39:52,783
+Elizabeth, ¿está ahí?
+
+373
+00:39:56,291 --> 00:39:57,491
+¿Liz?
+
+374
+00:40:10,625 --> 00:40:13,517
+- ¿Sigue ahí?
+- Lesión detectada en la bioforma.
+
+375
+00:40:13,541 --> 00:40:16,033
+- Estado: no hay amenaza vital.
+- ¿Liz?
+
+376
+00:40:27,541 --> 00:40:28,741
+¿Liz?
+
+377
+00:40:29,166 --> 00:40:30,408
+Liz, hábleme.
+
+378
+00:40:32,541 --> 00:40:34,158
+¿Seguro quieres hacerlo?
+
+379
+00:40:35,791 --> 00:40:36,991
+Sí.
+
+380
+00:40:39,541 --> 00:40:40,741
+Hola, ¿Liz?
+
+381
+00:40:51,416 --> 00:40:53,450
+Liz, por favor.
+
+382
+00:40:53,833 --> 00:40:57,476
+Administración de antibiótico
+para prevenir una infección.
+
+383
+00:40:57,500 --> 00:41:01,950
+- ¿Un antibiótico? ¿Por qué? ¿Qué hizo?
+- Me concentré en lo que es real.
+
+384
+00:41:04,333 --> 00:41:06,325
+¿Hace cuánto desaparecí?
+
+385
+00:41:07,000 --> 00:41:09,809
+Estuvo activa en redes
+sociales hace unos días.
+
+386
+00:41:09,833 --> 00:41:11,809
+Y nadie reportó su desaparición.
+
+387
+00:41:11,833 --> 00:41:14,450
+Tengo un esposo. Léo.
+
+388
+00:41:15,583 --> 00:41:17,950
+Y creo que
+intentábamos tener hijos.
+
+389
+00:41:18,833 --> 00:41:20,741
+- ¿Léo?
+- Sí.
+
+390
+00:41:23,083 --> 00:41:26,309
+¿Qué? ¿Con quién habla?
+
+391
+00:41:26,333 --> 00:41:28,158
+- Nadie.
+- ¿Es sobre Léo?
+
+392
+00:41:28,458 --> 00:41:29,658
+No.
+
+393
+00:41:30,916 --> 00:41:32,017
+¿Él está bien?
+
+394
+00:41:32,041 --> 00:41:35,351
+Encuentre a Léo.
+Él sabrá qué pasó.
+
+395
+00:41:35,375 --> 00:41:36,267
+Escúcheme.
+
+396
+00:41:36,291 --> 00:41:39,283
+Según nuestra información,
+nunca estuvo casada.
+
+397
+00:41:39,750 --> 00:41:40,950
+¿Qué?
+
+398
+00:41:43,666 --> 00:41:46,658
+No. Estábamos
+intentando tener hijos.
+
+399
+00:41:47,833 --> 00:41:51,267
+MILO, busca al
+doctor Léo Ferguson.
+
+400
+00:41:51,291 --> 00:41:52,434
+No hay resultados.
+
+401
+00:41:52,458 --> 00:41:53,851
+¿Qué?
+
+402
+00:41:53,875 --> 00:41:55,767
+No es posible. No.
+
+403
+00:41:55,791 --> 00:41:57,934
+Estaba allí. No,
+eso no es posible.
+
+404
+00:41:57,958 --> 00:41:59,559
+RESULTADOS PARA "FERGUSON"
+
+405
+00:41:59,583 --> 00:42:00,767
+No es posible.
+
+406
+00:42:00,791 --> 00:42:05,700
+MILO, busca a la doctora Elizabeth Hansen
+en los premios de Ciencia y Tecnología.
+
+407
+00:42:06,333 --> 00:42:07,533
+No.
+
+408
+00:42:08,833 --> 00:42:11,101
+No.
+
+409
+00:42:11,125 --> 00:42:12,351
+- Elizabeth.
+- No.
+
+410
+00:42:12,375 --> 00:42:14,684
+Imposible. Ambos
+estábamos en la foto.
+
+411
+00:42:14,708 --> 00:42:17,184
+Estábamos juntos. Él estaba ahí.
+
+412
+00:42:17,208 --> 00:42:20,450
+Lo llamé. Alguien respondió.
+
+413
+00:42:20,875 --> 00:42:22,434
+Una mujer que lo conocía.
+
+414
+00:42:22,458 --> 00:42:24,059
+- ¿Qué mujer?
+- Una mujer...
+
+415
+00:42:24,083 --> 00:42:25,434
+¿Y qué le dijo?
+
+416
+00:42:25,458 --> 00:42:26,767
+Nada. Colgó.
+
+417
+00:42:26,791 --> 00:42:27,934
+Ella lo conocía.
+
+418
+00:42:27,958 --> 00:42:30,450
+Ella lo conocía.
+Ella conocía a Léo.
+
+419
+00:42:31,166 --> 00:42:32,908
+No, ella no era real.
+
+420
+00:42:34,000 --> 00:42:35,059
+¿Qué pasa?
+
+421
+00:42:35,083 --> 00:42:36,283
+Liz, escúcheme.
+
+422
+00:42:36,958 --> 00:42:39,033
+Léo tampoco es real.
+
+423
+00:42:40,916 --> 00:42:42,517
+- Era real.
+- Sí, lo sé.
+
+424
+00:42:42,541 --> 00:42:44,434
+Sé que está convencida.
+
+425
+00:42:44,458 --> 00:42:46,809
+Su mente la está
+engañando, es eso.
+
+426
+00:42:46,833 --> 00:42:50,226
+Para ayudarla a resistir.
+Confíe en mí, la sacaré de ahí.
+
+427
+00:42:50,250 --> 00:42:51,392
+Me está mintiendo.
+
+428
+00:42:51,416 --> 00:42:53,075
+Usted jugaba básquet.
+
+429
+00:42:53,375 --> 00:42:54,575
+¿Qué?
+
+430
+00:42:55,208 --> 00:42:57,408
+En la universidad.
+Tenía talento.
+
+431
+00:42:58,791 --> 00:43:01,851
+Pensé que le gustaría
+saber algo sobre usted,
+
+432
+00:43:01,875 --> 00:43:04,616
+cuando la investigué,
+eso llamó mi atención.
+
+433
+00:43:06,666 --> 00:43:08,767
+¿Básquet?
+
+434
+00:43:08,791 --> 00:43:09,991
+Sí.
+
+435
+00:43:10,291 --> 00:43:12,017
+No encajaba con el resto.
+
+436
+00:43:12,041 --> 00:43:15,366
+Doctora en biogenética,
+becas, premios...
+
+437
+00:43:16,208 --> 00:43:17,783
+Usted es impresionante.
+
+438
+00:43:19,541 --> 00:43:21,325
+¿Le suena?
+
+439
+00:43:22,666 --> 00:43:23,684
+No.
+
+440
+00:43:23,708 --> 00:43:25,325
+Nació en Estocolmo.
+
+441
+00:43:27,166 --> 00:43:29,601
+Su madre era
+soltera y la crió sola.
+
+442
+00:43:29,625 --> 00:43:32,366
+La trajo aquí cuando
+tenía seis años.
+
+443
+00:43:32,750 --> 00:43:35,434
+Alice. Se llama Alice.
+
+444
+00:43:35,458 --> 00:43:36,658
+No.
+
+445
+00:43:36,875 --> 00:43:39,059
+- ¿No se llama Alice?
+- Isabelle.
+
+446
+00:43:39,083 --> 00:43:40,533
+No, no. La veo.
+
+447
+00:43:40,916 --> 00:43:42,976
+- No, Liz.
+- La veo.
+
+448
+00:43:43,000 --> 00:43:44,825
+Liz, no importa. Escúcheme.
+
+449
+00:43:45,125 --> 00:43:47,809
+Fue a Oxford tras
+estudiar medicina en París.
+
+450
+00:43:47,833 --> 00:43:52,700
+Oxford. Recuerdo
+Oxford. Ahí conocí a Léo.
+
+451
+00:43:55,291 --> 00:43:57,767
+Allí lo conocí. Él
+existe. Sé que sí.
+
+452
+00:43:57,791 --> 00:43:58,684
+¿Elizabeth?
+
+453
+00:43:58,708 --> 00:44:00,700
+Busque a Léo. Juro que existe.
+
+454
+00:44:01,708 --> 00:44:03,684
+Nivel de oxígeno: 15%
+
+455
+00:44:03,708 --> 00:44:07,476
+- Alerta: presión arterial 210/130.
+- ¿Dónde están? Lleguen ya.
+
+456
+00:44:07,500 --> 00:44:09,491
+Sea fuerte. Unos minutos más.
+
+457
+00:44:10,041 --> 00:44:11,892
+Necesito los códigos.
+
+458
+00:44:11,916 --> 00:44:14,934
+Tengo hombres en Cryosalide
+buscando los códigos.
+
+459
+00:44:14,958 --> 00:44:17,866
+¿Pero por qué...?
+Tardan demasiado.
+
+460
+00:44:19,333 --> 00:44:20,658
+¿Con quién habla?
+
+461
+00:44:21,583 --> 00:44:23,517
+¿Qué? ¿Hola?
+
+462
+00:44:23,541 --> 00:44:26,476
+¿Con quién habla? Lo
+oigo hablar con alguien.
+
+463
+00:44:26,500 --> 00:44:29,142
+- Lo está imaginando.
+- Está hablando. No.
+
+464
+00:44:29,166 --> 00:44:32,226
+Liz, estamos en eso.
+Estamos cerca. Muy cerca.
+
+465
+00:44:32,250 --> 00:44:33,851
+- Miente.
+- 20 minutos más.
+
+466
+00:44:33,875 --> 00:44:35,950
+- ¿Es su culpa?
+- Ya casi.
+
+467
+00:44:36,958 --> 00:44:39,642
+Estuve en el ejército.
+Pasé meses en un pozo.
+
+468
+00:44:39,666 --> 00:44:41,017
+Es su culpa.
+
+469
+00:44:41,041 --> 00:44:44,241
+Estuve en esa situación.
+Sé por lo que está pasando.
+
+470
+00:44:45,041 --> 00:44:46,642
+- Estoy con...
+- MILO, corta.
+
+471
+00:44:46,666 --> 00:44:48,476
+- No, Liz.
+- MILO, corta.
+
+472
+00:44:48,500 --> 00:44:50,533
+- Espere.
+- Desconectado.
+
+473
+00:46:31,125 --> 00:46:32,325
+Llamada entrante.
+
+474
+00:46:36,833 --> 00:46:38,116
+Llamada entrante.
+
+475
+00:46:38,833 --> 00:46:40,033
+Recházala.
+
+476
+00:46:40,666 --> 00:46:42,033
+Llamada rechazada.
+
+477
+00:46:44,208 --> 00:46:47,825
+Reproduce los últimos 30
+segundos de la última transmisión.
+
+478
+00:46:49,541 --> 00:46:51,517
+Necesito los códigos.
+
+479
+00:46:51,541 --> 00:46:54,476
+Tengo hombres en Cryosalide
+buscando los códigos.
+
+480
+00:46:54,500 --> 00:46:55,950
+Pero ¿por qué...?
+
+481
+00:46:58,625 --> 00:47:00,059
+¿Con quién habla?
+
+482
+00:47:00,083 --> 00:47:01,283
+Pausa.
+
+483
+00:47:02,375 --> 00:47:04,783
+Reproduce los
+últimos cinco segundos.
+
+484
+00:47:11,875 --> 00:47:13,075
+Pausa.
+
+485
+00:47:14,166 --> 00:47:16,825
+Sube el volumen y
+reprodúcelo de nuevo.
+
+486
+00:47:18,583 --> 00:47:21,783
+Dile que imagina cosas.
+Que es por el estrés.
+
+487
+00:47:24,250 --> 00:47:25,450
+De nuevo.
+
+488
+00:47:26,958 --> 00:47:29,825
+Dile que imagina cosas.
+Que es por el estrés.
+
+489
+00:47:31,291 --> 00:47:32,658
+¿Con quién habla?
+
+490
+00:47:33,000 --> 00:47:34,200
+Pausa.
+
+491
+00:47:35,083 --> 00:47:36,450
+Llamada entrante.
+
+492
+00:47:37,208 --> 00:47:38,658
+Rechazar llamada.
+
+493
+00:47:39,291 --> 00:47:40,700
+Llamada rechazada.
+
+494
+00:47:42,500 --> 00:47:44,783
+¿Pueden verme? ¿Me oyen?
+
+495
+00:47:45,833 --> 00:47:47,158
+¿Qué quieren de mí?
+
+496
+00:47:47,458 --> 00:47:48,741
+Llamada entrante.
+
+497
+00:47:50,750 --> 00:47:52,950
+¿Están jugando
+conmigo, imbéciles?
+
+498
+00:47:53,375 --> 00:47:55,033
+MILO, acepta la llamada.
+
+499
+00:47:55,541 --> 00:47:56,741
+¿Quiénes son?
+
+500
+00:47:57,375 --> 00:47:59,700
+¿Por qué me hacen esto?
+
+501
+00:48:00,083 --> 00:48:01,283
+¿Hola?
+
+502
+00:48:02,208 --> 00:48:03,408
+No cuelgue.
+
+503
+00:48:03,958 --> 00:48:05,700
+Respóndame, por favor.
+
+504
+00:48:06,708 --> 00:48:09,392
+Está en una unidad
+criogénica, ¿verdad?
+
+505
+00:48:09,416 --> 00:48:11,033
+Me llamó buscando a Léo.
+
+506
+00:48:11,416 --> 00:48:14,976
+Escuche, no tenemos mucho
+tiempo. Esto no debía ser así.
+
+507
+00:48:15,000 --> 00:48:16,825
+Algo debe haber salido mal.
+
+508
+00:48:17,125 --> 00:48:21,101
+- Quiero hablar con Léo.
+- Imposible. Escúcheme. Puedo ayudarla.
+
+509
+00:48:21,125 --> 00:48:23,642
+No escucharé hasta
+que hable con Léo.
+
+510
+00:48:23,666 --> 00:48:24,726
+Eso es imposible.
+
+511
+00:48:24,750 --> 00:48:29,601
+Quiero hablar con él
+ahora. Páseme con él ahora.
+
+512
+00:48:29,625 --> 00:48:31,059
+Léo está muerto.
+
+513
+00:48:31,083 --> 00:48:32,283
+¿Qué?
+
+514
+00:48:34,333 --> 00:48:35,559
+No le creo.
+
+515
+00:48:35,583 --> 00:48:37,491
+Realmente debe escucharme.
+
+516
+00:48:37,958 --> 00:48:39,726
+- Liz... No.
+- Váyase al diablo.
+
+517
+00:48:39,750 --> 00:48:42,142
+- MILO, corta la llamada.
+- ¡Espere!
+
+518
+00:48:42,166 --> 00:48:46,075
+Comunicación terminada.
+Nivel de oxígeno: 14%
+
+519
+00:48:47,250 --> 00:48:48,450
+Llamada entrante.
+
+520
+00:48:50,541 --> 00:48:51,825
+Llamada entrante.
+
+521
+00:48:55,083 --> 00:48:57,517
+MILO, acepta la llamada.
+
+522
+00:48:57,541 --> 00:48:58,741
+Escúcheme.
+
+523
+00:48:59,041 --> 00:49:00,559
+Puedo ayudarla.
+
+524
+00:49:00,583 --> 00:49:03,767
+Nadie más puede
+ayudarla a esta altura, Liz.
+
+525
+00:49:03,791 --> 00:49:06,325
+¿Cómo sabe mi
+nombre? No se lo dije.
+
+526
+00:49:06,666 --> 00:49:09,892
+No hizo falta. Supe
+quién era cuando oí su voz,
+
+527
+00:49:09,916 --> 00:49:11,517
+aunque no podía creerlo.
+
+528
+00:49:11,541 --> 00:49:13,101
+¿Quién es? ¿Y los demás?
+
+529
+00:49:13,125 --> 00:49:15,976
+No sé con quién habló,
+pero sé qué está pasando.
+
+530
+00:49:16,000 --> 00:49:18,241
+- MILO, corta...
+- Sé los códigos.
+
+531
+00:49:18,708 --> 00:49:19,642
+Démelos.
+
+532
+00:49:19,666 --> 00:49:22,517
+- Lo haré, pero debe escuchar...
+- Démelos.
+
+533
+00:49:22,541 --> 00:49:25,575
+No puede usarlos
+para abrir la unidad.
+
+534
+00:49:26,916 --> 00:49:28,866
+- MILO, corta...
+- Está bien.
+
+535
+00:49:30,666 --> 00:49:34,491
+Mayúscula N-M-347.
+
+536
+00:49:34,916 --> 00:49:38,366
+Minúscula C-D-A.
+
+537
+00:49:40,875 --> 00:49:43,726
+Transferencia de
+control del administrador.
+
+538
+00:49:43,750 --> 00:49:48,825
+Inicio de la transferencia de
+control. Ingresa la contraseña.
+
+539
+00:49:49,250 --> 00:49:54,684
+Mayúscula N-M-347,
+minúscula C-D-A.
+
+540
+00:49:54,708 --> 00:49:57,184
+Liz, no la abra. Por favor.
+
+541
+00:49:57,208 --> 00:50:03,116
+Transferencia de control completada.
+Permisos de administrador concedidos.
+
+542
+00:50:07,208 --> 00:50:10,241
+MILO, desbloquea.
+
+543
+00:50:11,041 --> 00:50:12,658
+Desbloqueo activado.
+
+544
+00:50:14,125 --> 00:50:16,075
+Por favor, no. Morirá.
+
+545
+00:50:16,541 --> 00:50:19,517
+Puedo probarlo. Si
+abre la unidad, morirá.
+
+546
+00:50:19,541 --> 00:50:22,142
+MILO, pausa.
+Tiene diez segundos.
+
+547
+00:50:22,166 --> 00:50:24,059
+Gracias. Déjeme explicarle.
+
+548
+00:50:24,083 --> 00:50:25,851
+- Ocho segundos.
+- ¡Está bien!
+
+549
+00:50:25,875 --> 00:50:30,309
+Vaya a "preferencias del sistema".
+Busque los controles de centrifugado.
+
+550
+00:50:30,333 --> 00:50:32,642
+- Preferencias...
+- Déjeme explicarle.
+
+551
+00:50:32,666 --> 00:50:34,533
+Controles de centrifugado.
+
+552
+00:50:35,541 --> 00:50:36,741
+Listo.
+
+553
+00:50:37,333 --> 00:50:39,559
+Está en uno. Cámbielo a...
+
+554
+00:50:39,583 --> 00:50:41,434
+¿A qué?
+
+555
+00:50:41,458 --> 00:50:43,950
+- No debería enterarse así.
+- ¿A qué?
+
+556
+00:50:44,500 --> 00:50:45,476
+MILO...
+
+557
+00:50:45,500 --> 00:50:47,491
+A cero. Cámbielo a cero.
+
+558
+00:50:48,166 --> 00:50:49,366
+Cámbialo a cero.
+
+559
+00:50:51,000 --> 00:50:53,101
+Por favor, Liz. No lo haga.
+
+560
+00:50:53,125 --> 00:50:55,601
+Micropropulsores apagados.
+
+561
+00:50:55,625 --> 00:50:58,783
+Lo siento, Liz. De verdad.
+
+562
+00:51:06,250 --> 00:51:07,267
+Atención.
+
+563
+00:51:07,291 --> 00:51:12,158
+La exposición prolongada a la ingravidez
+puede ser perjudicial para la bioforma.
+
+564
+00:51:13,333 --> 00:51:14,533
+Liz.
+
+565
+00:51:25,916 --> 00:51:27,116
+¡Liz!
+
+566
+00:51:27,416 --> 00:51:28,616
+¿Dónde estoy?
+
+567
+00:51:28,791 --> 00:51:32,559
+A unos 65.000
+kilómetros de la Tierra.
+
+568
+00:51:32,583 --> 00:51:34,575
+No.
+
+569
+00:51:35,041 --> 00:51:36,408
+No.
+
+570
+00:51:39,000 --> 00:51:41,809
+MILO, ¿distancia a la Tierra?
+
+571
+00:51:41,833 --> 00:51:44,366
+68.775 kilómetros.
+
+572
+00:51:47,291 --> 00:51:48,741
+No es posible.
+
+573
+00:51:50,166 --> 00:51:52,533
+Lo siento, Liz.
+Tenemos poco tiempo.
+
+574
+00:51:53,291 --> 00:51:57,325
+Pronto estará fuera del alcance
+de los satélites de comunicación.
+
+575
+00:52:01,083 --> 00:52:02,476
+REINICIAR PROPULSIÓN
+
+576
+00:52:02,500 --> 00:52:05,809
+Rotación de centrifugado
+iniciada. G-1 iniciada.
+
+577
+00:52:05,833 --> 00:52:08,033
+Nivel de oxígeno: 13%
+
+578
+00:52:08,666 --> 00:52:10,226
+Liz, por favor.
+
+579
+00:52:10,250 --> 00:52:14,283
+La indujeron al hipersueño para
+que pudiera cumplir su misión.
+
+580
+00:52:14,875 --> 00:52:16,408
+Pero algo salió mal.
+
+581
+00:52:17,041 --> 00:52:18,741
+No puedo llevarla a casa.
+
+582
+00:52:19,875 --> 00:52:21,476
+Pero yo diseñé el sistema,
+
+583
+00:52:21,500 --> 00:52:24,517
+tal vez podamos devolverla
+al estado de hipersueño.
+
+584
+00:52:24,541 --> 00:52:27,491
+Le daría una
+oportunidad. Por favor.
+
+585
+00:52:27,833 --> 00:52:29,116
+¿Qué misión?
+
+586
+00:52:30,083 --> 00:52:34,726
+Si localizamos el daño,
+desactivamos los sistemas afectados...
+
+587
+00:52:34,750 --> 00:52:35,950
+¿Qué misión?
+
+588
+00:52:37,416 --> 00:52:41,767
+Colonizar un planeta que
+orbita alrededor de Wolf 10-61,
+
+589
+00:52:41,791 --> 00:52:43,767
+a 14 años luz de la Tierra.
+
+590
+00:52:43,791 --> 00:52:45,700
+Pero acaba de partir.
+
+591
+00:52:46,083 --> 00:52:50,200
+Su transportador HIVE aún no
+ha activado la propulsión nuclear.
+
+592
+00:52:50,958 --> 00:52:53,851
+No.
+
+593
+00:52:53,875 --> 00:52:55,892
+Liz, debemos actuar rápido.
+
+594
+00:52:55,916 --> 00:52:57,283
+Esto no es real.
+
+595
+00:53:10,666 --> 00:53:14,767
+¿Es una operación militar? ¿Trabajo
+para el Ministerio de Defensa?
+
+596
+00:53:14,791 --> 00:53:17,700
+- Sí. ¿Se acuerda?
+- ¿Por qué el ejército?
+
+597
+00:53:18,583 --> 00:53:21,684
+La raza humana se
+extinguirá en dos generaciones.
+
+598
+00:53:21,708 --> 00:53:23,908
+Eso no puede hacerse público.
+
+599
+00:53:26,000 --> 00:53:27,267
+¿Él sabía?
+
+600
+00:53:27,291 --> 00:53:28,616
+¿Quién?
+
+601
+00:53:29,583 --> 00:53:31,241
+Ese tipo. Moreau.
+
+602
+00:53:32,041 --> 00:53:34,825
+Cuando pedí ayuda, fue amable.
+
+603
+00:53:35,541 --> 00:53:37,642
+- Pero me mintió, ¿no?
+- Liz.
+
+604
+00:53:37,666 --> 00:53:39,184
+No tuvo alternativa.
+
+605
+00:53:39,208 --> 00:53:42,142
+En cuanto la Policía
+buscó información suya,
+
+606
+00:53:42,166 --> 00:53:43,991
+el Ministerio se involucró.
+
+607
+00:53:44,500 --> 00:53:48,059
+Todo lo que dijeron después
+fue lo que querían que oyera.
+
+608
+00:53:48,083 --> 00:53:49,283
+Pero ¿por qué?
+
+609
+00:53:49,500 --> 00:53:54,158
+Si yo era una parte clave del
+proyecto, ¿por qué no decirme la verdad?
+
+610
+00:53:54,625 --> 00:53:56,101
+La niebla de la memoria.
+
+611
+00:53:56,125 --> 00:54:01,075
+Era imposible prever su reacción o
+qué recuerdos regresarían primero.
+
+612
+00:54:01,541 --> 00:54:02,866
+Es una amenaza.
+
+613
+00:54:03,291 --> 00:54:06,434
+Si habla con la persona
+equivocada, todo se hará público.
+
+614
+00:54:06,458 --> 00:54:11,226
+Causaría pánico general, caos.
+No podían correr ese riesgo.
+
+615
+00:54:11,250 --> 00:54:15,241
+Pensé que él me estaba
+haciendo esto, que me retenía aquí.
+
+616
+00:54:17,250 --> 00:54:19,767
+Él no me dijo que
+Léo estaba muerto.
+
+617
+00:54:19,791 --> 00:54:23,559
+Liz, hicieron todo... Sí, todo,
+
+618
+00:54:23,583 --> 00:54:27,158
+desde el momento en que
+notaron que había despertado,
+
+619
+00:54:27,500 --> 00:54:31,450
+para evitar que
+recuperara la memoria.
+
+620
+00:54:33,458 --> 00:54:35,450
+Él intentaba ganar tiempo.
+
+621
+00:54:37,208 --> 00:54:38,700
+Esperaba esperando...
+
+622
+00:54:39,250 --> 00:54:41,158
+a que me quedara sin oxígeno.
+
+623
+00:54:57,458 --> 00:54:58,991
+Léo era real...
+
+624
+00:55:01,000 --> 00:55:02,283
+y está muerto.
+
+625
+00:55:02,875 --> 00:55:04,075
+Sí.
+
+626
+00:55:13,958 --> 00:55:15,934
+Doce por ciento.
+
+627
+00:55:15,958 --> 00:55:17,533
+Se nos acaba el tiempo.
+
+628
+00:55:21,041 --> 00:55:22,533
+¿Qué le pasó?
+
+629
+00:55:23,250 --> 00:55:24,267
+Estaba enfermo.
+
+630
+00:55:24,291 --> 00:55:25,726
+EMERGENCIAS
+
+631
+00:55:25,750 --> 00:55:29,950
+Léo se enfermó, como millones
+de otros que murieron por el virus.
+
+632
+00:55:36,416 --> 00:55:37,616
+¿Liz?
+
+633
+00:55:41,833 --> 00:55:43,741
+No. No tiene sentido.
+
+634
+00:55:44,333 --> 00:55:46,783
+Dijeron que desaparecí
+hace tres días.
+
+635
+00:55:47,166 --> 00:55:50,408
+Está en estado de hipersueño
+hace mucho más que eso.
+
+636
+00:55:53,166 --> 00:55:54,450
+¿Hace cuánto?
+
+637
+00:55:57,083 --> 00:55:58,283
+¿Hace cuánto?
+
+638
+00:55:59,500 --> 00:56:00,741
+Doce años.
+
+639
+00:56:05,500 --> 00:56:07,491
+De verdad lo siento, Liz.
+
+640
+00:56:08,500 --> 00:56:10,476
+Está perdiendo tiempo y oxígeno.
+
+641
+00:56:10,500 --> 00:56:14,934
+En diez minutos, estará fuera de
+alcance y no podremos comunicarnos.
+
+642
+00:56:14,958 --> 00:56:18,101
+Puede morir sola o ayudarme
+a solucionar el problema.
+
+643
+00:56:18,125 --> 00:56:19,934
+- Darse una oportunidad.
+- No.
+
+644
+00:56:19,958 --> 00:56:22,283
+- Sé lo que yo elegiría.
+- Está bien.
+
+645
+00:56:25,708 --> 00:56:27,200
+¿Dónde empezamos?
+
+646
+00:56:28,541 --> 00:56:31,866
+Primero debemos
+averiguar por qué despertó.
+
+647
+00:56:32,375 --> 00:56:34,741
+MILO, ¿por qué
+despertó la bioforma?
+
+648
+00:56:35,166 --> 00:56:39,726
+Sobrecalentamiento del procesador
+3-54 por la pérdida de reservas de oxígeno.
+
+649
+00:56:39,750 --> 00:56:41,309
+¿Qué hace ese procesador?
+
+650
+00:56:41,333 --> 00:56:45,309
+El procesador 3-54 monitorea
+y estimula la actividad cerebral
+
+651
+00:56:45,333 --> 00:56:47,226
+para evitar la atrofia celular.
+
+652
+00:56:47,250 --> 00:56:50,892
+Atrofia cerebral. ¿Oyó eso?
+Podría prescindir de eso.
+
+653
+00:56:50,916 --> 00:56:52,408
+Estoy de acuerdo.
+
+654
+00:56:52,791 --> 00:56:55,767
+Debemos desviar el
+monitoreo de actividad cerebral
+
+655
+00:56:55,791 --> 00:56:58,976
+a otro procesador asignado
+a funciones no esenciales.
+
+656
+00:56:59,000 --> 00:57:02,491
+MILO, ¿qué procesadores
+tienen funciones no esenciales?
+
+657
+00:57:03,375 --> 00:57:06,700
+Todas las funciones están
+asignadas al procesador 694.
+
+658
+00:57:07,708 --> 00:57:11,450
+¿La bioforma corre peligro si
+se desactivan esas funciones?
+
+659
+00:57:12,083 --> 00:57:17,158
+- Cero peligro para la bioforma.
+- Entonces, desactívalas.
+
+660
+00:57:17,625 --> 00:57:19,325
+Desactivación en curso.
+
+661
+00:57:28,583 --> 00:57:29,783
+MILO,
+
+662
+00:57:30,416 --> 00:57:34,976
+transfiere las funciones
+del procesador 3-54 al 694.
+
+663
+00:57:35,000 --> 00:57:37,908
+Los datos superan la
+capacidad del procesador.
+
+664
+00:57:38,375 --> 00:57:39,575
+Maldición.
+
+665
+00:57:41,250 --> 00:57:42,476
+Mierda.
+
+666
+00:57:42,500 --> 00:57:44,267
+¿Qué hacemos ahora?
+
+667
+00:57:44,291 --> 00:57:46,434
+Debemos tomar
+decisiones difíciles.
+
+668
+00:57:46,458 --> 00:57:49,226
+Desactivar sistemas
+que no tienen prioridad.
+
+669
+00:57:49,250 --> 00:57:51,684
+Busque... Demasiado
+tarde. ¡Están aquí!
+
+670
+00:57:51,708 --> 00:57:54,684
+- Busque la forma de desviar...
+- ¿Están aquí?
+
+671
+00:57:54,708 --> 00:57:56,101
+Regrese al hipersueño.
+
+672
+00:57:56,125 --> 00:58:00,934
+Pero antes de que el oxígeno llegue
+al 2% o la reanimación será imposible.
+
+673
+00:58:00,958 --> 00:58:03,017
+Pero no sé cómo hacerlo.
+
+674
+00:58:03,041 --> 00:58:05,226
+Lo sabe. Tiene
+todas las respuestas.
+
+675
+00:58:05,250 --> 00:58:09,934
+Descubra cómo desencadenar sus
+recuerdos, y encontrará los que necesita.
+
+676
+00:58:09,958 --> 00:58:12,158
+Usted lo diseñó. No sabré cómo.
+
+677
+00:58:12,708 --> 00:58:14,142
+¡Al suelo!
+
+678
+00:58:14,166 --> 00:58:15,976
+- ¿Hola?
+- ¡Inmediatamente!
+
+679
+00:58:16,000 --> 00:58:16,892
+- No.
+- ¿Hola?
+
+680
+00:58:16,916 --> 00:58:20,101
+- Busque qué desencadena sus recuerdos.
+- ¡Al suelo!
+
+681
+00:58:20,125 --> 00:58:22,601
+- ¡2%! Encuentre a Léo.
+- ¡Al piso!
+
+682
+00:58:22,625 --> 00:58:23,991
+Encuentre a Léo.
+
+683
+00:58:25,875 --> 00:58:27,200
+Desconexión.
+
+684
+00:58:30,291 --> 00:58:32,616
+¡Mierda! MILO, reconéctalo.
+
+685
+00:58:33,125 --> 00:58:37,101
+El número que marcó no está
+asignado. Verifique el número.
+
+686
+00:58:37,125 --> 00:58:38,950
+No me deje sola.
+
+687
+00:58:51,083 --> 00:58:52,283
+Bien.
+
+688
+00:58:52,666 --> 00:58:56,892
+Está bien. Trabajé en esto.
+
+689
+00:58:56,916 --> 00:59:01,950
+MILO, ¿quién autorizó la participación
+de Omicron 267 en esta misión?
+
+690
+00:59:02,458 --> 00:59:07,616
+Participación de Omicron 267
+autorizada por Hansen Elizabeth, doctora.
+
+691
+00:59:08,625 --> 00:59:10,283
+Sí, por supuesto.
+
+692
+00:59:11,000 --> 00:59:12,950
+Esa soy yo. Sí.
+
+693
+00:59:13,291 --> 00:59:14,392
+Soy yo.
+
+694
+00:59:14,416 --> 00:59:16,559
+Algo que sólo yo sé.
+
+695
+00:59:16,583 --> 00:59:19,809
+"Encuentre a Léo".
+¿Qué significa eso?
+
+696
+00:59:19,833 --> 00:59:23,658
+¿Qué significa? ¿Qué
+significa "encuentre a Léo"?
+
+697
+00:59:25,458 --> 00:59:26,866
+¿Qué significa?
+
+698
+00:59:27,666 --> 00:59:30,075
+¿Cómo lo hago?
+
+699
+00:59:30,750 --> 00:59:32,575
+Nivel de oxígeno: 11%
+
+700
+00:59:37,583 --> 00:59:39,533
+Bien. Piensa.
+
+701
+00:59:39,833 --> 00:59:42,991
+MILO, muéstrame los
+procesadores de baja prioridad.
+
+702
+00:59:45,708 --> 00:59:47,533
+Bien.
+
+703
+00:59:48,000 --> 00:59:52,033
+Bien.
+
+704
+00:59:53,583 --> 00:59:56,991
+Demasiados. Son demasiados.
+
+705
+01:00:00,125 --> 01:00:02,017
+¿Qué es la regulación cinética?
+
+706
+01:00:02,041 --> 01:00:06,934
+La regulación cinética transmite
+impulsos eléctricos débiles a los músculos
+
+707
+01:00:06,958 --> 01:00:08,517
+para prevenir la atrofia.
+
+708
+01:00:08,541 --> 01:00:10,783
+Si la desactivamos, ¿qué pasa?
+
+709
+01:00:11,083 --> 01:00:13,366
+Degeneración del
+tejido muscular.
+
+710
+01:00:13,791 --> 01:00:16,325
+¿Y eso se considera
+de baja prioridad?
+
+711
+01:00:16,625 --> 01:00:19,616
+Sí, porque la bioforma
+sobreviviría al viaje.
+
+712
+01:00:21,500 --> 01:00:23,309
+Para morir al ser reanimado.
+
+713
+01:00:23,333 --> 01:00:26,434
+La bioforma viviría entre
+tres horas y diez días.
+
+714
+01:00:26,458 --> 01:00:29,601
+MILO, muestra los procesos
+que pueden interrumpirse
+
+715
+01:00:29,625 --> 01:00:31,908
+sin reducir la
+esperanza de vida.
+
+716
+01:00:33,333 --> 01:00:36,226
+Ningún proceso no
+prioritario puede interrumpirse
+
+717
+01:00:36,250 --> 01:00:38,408
+sin reducir la
+esperanza de vida.
+
+718
+01:00:39,000 --> 01:00:40,658
+Decisiones difíciles.
+
+719
+01:00:41,125 --> 01:00:43,658
+"Busque qué desencadena
+sus recuerdos".
+
+720
+01:00:45,333 --> 01:00:48,408
+Vamos. Si tienes algo
+que decir, es el momento.
+
+721
+01:01:22,166 --> 01:01:23,366
+Estoy loca.
+
+722
+01:01:30,333 --> 01:01:34,767
+Atención: Cualquier daño
+intencionado a una unidad Cryosalide
+
+723
+01:01:34,791 --> 01:01:38,184
+es un delito federal punible
+con diez años de prisión.
+
+724
+01:01:38,208 --> 01:01:40,116
+Adelante, electrocútame.
+
+725
+01:02:01,375 --> 01:02:05,075
+Atención.
+
+726
+01:02:31,958 --> 01:02:33,325
+Atención.
+
+727
+01:02:39,958 --> 01:02:41,325
+Atención.
+
+728
+01:02:45,833 --> 01:02:51,200
+No te preocupes.
+Volveremos a vernos.
+
+729
+01:03:09,625 --> 01:03:11,825
+Ese es nuestro
+sistema de entrada.
+
+730
+01:03:22,875 --> 01:03:26,200
+MILO, busca a Alice
+Hansen en París.
+
+731
+01:03:26,500 --> 01:03:27,809
+Un resultado.
+
+732
+01:03:27,833 --> 01:03:29,142
+Llama a ese contacto.
+
+733
+01:03:29,166 --> 01:03:31,059
+No se detectó ninguna red.
+
+734
+01:03:31,083 --> 01:03:32,825
+Amplifica la transmisión.
+
+735
+01:03:34,166 --> 01:03:37,408
+Transmisión amplificada.
+Intento de conexión.
+
+736
+01:03:48,750 --> 01:03:49,950
+¿Hola?
+
+737
+01:03:54,083 --> 01:03:55,283
+¿Mamá?
+
+738
+01:03:56,416 --> 01:03:59,616
+¿Cariño? ¿Eres tú?
+
+739
+01:04:01,000 --> 01:04:02,491
+¿Pasa algo?
+
+740
+01:04:03,125 --> 01:04:04,533
+Creo que...
+
+741
+01:04:05,875 --> 01:04:09,366
+¿Qué? No puedo oírte...
+
+742
+01:04:11,333 --> 01:04:13,450
+Sólo quería oír tu voz.
+
+743
+01:04:14,625 --> 01:04:18,033
+Liz, querida, ¿qué pasa?
+
+744
+01:04:22,208 --> 01:04:24,200
+No creo que venga nadie.
+
+745
+01:04:26,875 --> 01:04:30,491
+¿Quién no vendrá? Está todo...
+
+746
+01:04:32,916 --> 01:04:35,700
+Intenté encontrarlo. No
+sé dónde más buscar.
+
+747
+01:04:36,083 --> 01:04:38,226
+Se supone que lo
+sé, pero no lo sé.
+
+748
+01:04:38,250 --> 01:04:42,017
+¿Por qué no viniste
+a verme el domingo?
+
+749
+01:04:42,041 --> 01:04:47,241
+No es bueno para ti
+estar sola en esa casa.
+
+750
+01:04:47,541 --> 01:04:52,575
+Iré a verte. No,
+mejor aún, ven tú aquí.
+
+751
+01:04:53,125 --> 01:04:55,408
+Pasa un rato conmigo.
+
+752
+01:04:56,208 --> 01:04:57,991
+Él no me dice qué hacer.
+
+753
+01:04:59,166 --> 01:05:03,601
+¿Estás en un auto?
+Apenas puedo oírte.
+
+754
+01:05:03,625 --> 01:05:07,116
+No, estoy en...
+
+755
+01:05:09,291 --> 01:05:13,491
+¿Qué? No deberías
+llamar mientras conduces.
+
+756
+01:05:17,500 --> 01:05:18,866
+Estoy en...
+
+757
+01:05:19,541 --> 01:05:22,517
+¿Estás ahí? Liz...
+
+758
+01:05:22,541 --> 01:05:24,033
+Te amo, mamá.
+
+759
+01:05:26,166 --> 01:05:29,283
+No oigo... ¿Qué dices...?
+
+760
+01:05:30,875 --> 01:05:32,491
+Dije que te amo.
+
+761
+01:05:41,000 --> 01:05:42,741
+No se detectó ninguna red.
+
+762
+01:05:47,833 --> 01:05:50,741
+Atención: Nivel de oxígeno: 6%
+
+763
+01:06:11,458 --> 01:06:16,726
+MILO, ¿cuánto tiempo vivirá Omicron
+267 cuando se acabe el oxígeno?
+
+764
+01:06:16,750 --> 01:06:20,226
+Omicron 267 vivirá
+aproximadamente tres minutos
+
+765
+01:06:20,250 --> 01:06:22,075
+cuando se acabe el oxígeno.
+
+766
+01:06:39,500 --> 01:06:44,142
+¿Y cuánto vivirá Omicron 267
+durante la descompresión en el espacio?
+
+767
+01:06:44,166 --> 01:06:46,892
+Se estima que el sujeto
+permanecerá consciente
+
+768
+01:06:46,916 --> 01:06:50,241
+entre nueve y once segundos,
+y sentirá dolor extremo.
+
+769
+01:06:59,625 --> 01:07:01,616
+Nivel de oxígeno: 5%
+
+770
+01:07:05,750 --> 01:07:07,158
+MILO, desbloquea.
+
+771
+01:07:07,791 --> 01:07:11,200
+No es aconsejable
+desbloquear en este momento.
+
+772
+01:07:11,666 --> 01:07:13,809
+Transfiere el
+control y desbloquea.
+
+773
+01:07:13,833 --> 01:07:17,158
+Transferencia de
+control iniciada.
+
+774
+01:07:17,541 --> 01:07:19,241
+Introduce el código.
+
+775
+01:07:19,916 --> 01:07:22,533
+Mayúscula N-M-347.
+
+776
+01:07:25,625 --> 01:07:27,283
+Minúscula C-D-A.
+
+777
+01:07:30,291 --> 01:07:31,658
+Hasta pronto, Léo.
+
+778
+01:07:32,291 --> 01:07:34,241
+Desbloqueo iniciado.
+
+779
+01:07:35,750 --> 01:07:37,325
+Descompresión en cinco,
+
+780
+01:07:38,875 --> 01:07:40,075
+cuatro,
+
+781
+01:07:41,333 --> 01:07:42,533
+tres,
+
+782
+01:07:43,750 --> 01:07:44,950
+dos,
+
+783
+01:07:46,041 --> 01:07:47,241
+uno.
+
+784
+01:07:47,708 --> 01:07:50,101
+- Abortar.
+- Desbloqueo abortado.
+
+785
+01:07:50,125 --> 01:07:51,658
+Encuentra a Léo.
+
+786
+01:07:51,958 --> 01:07:53,158
+MILO,
+
+787
+01:07:53,541 --> 01:07:55,601
+¿cuántas unidades Omicron hay?
+
+788
+01:07:55,625 --> 01:07:58,075
+Hay 10.000 unidades Omicron.
+
+789
+01:08:00,958 --> 01:08:02,533
+¿Y dónde están?
+
+790
+01:08:03,375 --> 01:08:06,559
+Es imposible determinar la
+ubicación de las unidades.
+
+791
+01:08:06,583 --> 01:08:08,283
+Especifica las variables.
+
+792
+01:08:09,708 --> 01:08:13,116
+En relación con Omicron 267...
+¿Puedes apagar la alarma?
+
+793
+01:08:13,416 --> 01:08:18,200
+Todas las unidades están ubicadas en
+un radio de 53 metros de Omicron 267.
+
+794
+01:08:18,500 --> 01:08:20,241
+¿Puedo obtener una imagen?
+
+795
+01:08:20,750 --> 01:08:22,684
+Imagen establecida.
+
+796
+01:08:22,708 --> 01:08:25,116
+No. Una imagen de
+las otras unidades.
+
+797
+01:08:25,875 --> 01:08:28,991
+Imagen de las
+unidades establecida.
+
+798
+01:08:29,583 --> 01:08:31,533
+MILO, no veo nada.
+
+799
+01:08:31,916 --> 01:08:34,517
+La capacidad de visión
+humana se ve afectada
+
+800
+01:08:34,541 --> 01:08:36,825
+por la filtración
+UV fotocromática.
+
+801
+01:08:38,125 --> 01:08:39,950
+Desactivar filtración.
+
+802
+01:10:58,625 --> 01:11:02,825
+La exposición prolongada a los
+rayos UV podría dañar la bioforma.
+
+803
+01:11:03,250 --> 01:11:04,783
+Filtración activada.
+
+804
+01:11:13,291 --> 01:11:15,825
+¿Cuántas unidades
+siguen funcionando?
+
+805
+01:11:16,291 --> 01:11:22,116
+9567 unidades siguen
+funcionando. Se perdieron 433.
+
+806
+01:11:22,625 --> 01:11:24,908
+¿Esta unidad se
+considera perdida?
+
+807
+01:11:26,083 --> 01:11:29,241
+Estado de Omicron 267: perdido.
+
+808
+01:11:34,041 --> 01:11:37,616
+- ¿Cuántos están despiertos?
+- No entiendo la pregunta.
+
+809
+01:11:37,916 --> 01:11:41,351
+¿Cuántos despertaron, basura?
+¿Cuántos esperan la muerte?
+
+810
+01:11:41,375 --> 01:11:43,075
+No entiendo la pregunta.
+
+811
+01:11:43,416 --> 01:11:45,601
+¿A cuántos
+atrapaste y torturaste?
+
+812
+01:11:45,625 --> 01:11:47,392
+No entiendo la pregunta.
+
+813
+01:11:47,416 --> 01:11:51,366
+MILO, ¿cuántas bioformas
+despertaron en unidades perdidas?
+
+814
+01:11:51,875 --> 01:11:54,366
+Una. Omicron 267.
+
+815
+01:11:58,458 --> 01:11:59,476
+¿Y las otras?
+
+816
+01:11:59,500 --> 01:12:04,116
+Murieron en la colisión
+con el asteroide X375.
+
+817
+01:12:07,000 --> 01:12:08,325
+¿Léo está a bordo?
+
+818
+01:12:09,000 --> 01:12:13,200
+- No entiendo el término "Léo".
+- ¿Puedo ver el interior de las unidades?
+
+819
+01:12:14,208 --> 01:12:15,908
+- Afirmativo.
+- Muéstrame.
+
+820
+01:12:26,750 --> 01:12:29,116
+Limita la búsqueda
+a los hombres.
+
+821
+01:12:30,208 --> 01:12:31,741
+Son demasiados.
+
+822
+01:12:35,791 --> 01:12:38,892
+Atención. Nivel de oxígeno: 4%
+
+823
+01:12:38,916 --> 01:12:41,075
+No, no tengo tiempo para esto.
+
+824
+01:12:43,541 --> 01:12:44,741
+Diecisiete.
+
+825
+01:12:46,166 --> 01:12:47,533
+Diecisiete.
+
+826
+01:12:48,625 --> 01:12:51,517
+Diecisiete.
+
+827
+01:12:51,541 --> 01:12:53,351
+17-5 LOTE 202 - 35
+
+828
+01:12:53,375 --> 01:12:54,783
+No es ese.
+
+829
+01:12:56,666 --> 01:12:58,158
+267.
+
+830
+01:13:02,458 --> 01:13:06,866
+MILO, ¿la unidad 42
+sigue funcionando?
+
+831
+01:13:08,125 --> 01:13:10,825
+La unidad 42 está en
+pleno funcionamiento.
+
+832
+01:13:13,250 --> 01:13:15,241
+¿Puedes mostrarme la bioforma?
+
+833
+01:13:21,166 --> 01:13:23,241
+¿Puedes descubrir su rostro?
+
+834
+01:13:24,791 --> 01:13:27,559
+Omicron 42 está envuelto
+en un capullo orgánico
+
+835
+01:13:27,583 --> 01:13:29,491
+por razones de preservación.
+
+836
+01:13:29,791 --> 01:13:32,434
+¿Puedes quitarlo
+sin dañar la bioforma?
+
+837
+01:13:32,458 --> 01:13:34,950
+El capullo se autoregenera.
+
+838
+01:13:35,833 --> 01:13:39,283
+Ábrelo y muéstrame su rostro.
+
+839
+01:13:56,083 --> 01:13:57,283
+Estás vivo.
+
+840
+01:13:59,625 --> 01:14:00,825
+Estás vivo.
+
+841
+01:14:08,458 --> 01:14:11,366
+Mentirosos. Todos mentirosos.
+
+842
+01:14:19,583 --> 01:14:22,825
+¿Dónde está su cicatriz?
+¿Por qué no tiene su...?
+
+843
+01:14:24,833 --> 01:14:26,366
+¿Por qué no está?
+
+844
+01:14:26,750 --> 01:14:28,283
+Es imposible.
+
+845
+01:14:31,208 --> 01:14:32,408
+MILO.
+
+846
+01:14:34,458 --> 01:14:37,200
+MILO, busca a Elizabeth
+Hansen otra vez.
+
+847
+01:14:39,083 --> 01:14:42,226
+Hay 1292 artículos académicos...
+
+848
+01:14:42,250 --> 01:14:43,950
+Videos. Muéstrame videos.
+
+849
+01:14:54,041 --> 01:14:55,908
+"Transferencia de memoria".
+
+850
+01:14:57,583 --> 01:14:59,226
+Reproduce el video.
+
+851
+01:14:59,250 --> 01:15:03,142
+Se han llevado a cabo muchos
+intentos de transferencia de memoria.
+
+852
+01:15:03,166 --> 01:15:08,142
+Pero la comunidad científica
+renunció a perseguir este objetivo.
+
+853
+01:15:08,166 --> 01:15:10,351
+El consenso general
+
+854
+01:15:10,375 --> 01:15:13,434
+es que la transferencia
+de memoria es imposible.
+
+855
+01:15:13,458 --> 01:15:15,142
+Eso no me detuvo.
+
+856
+01:15:15,166 --> 01:15:19,283
+Desarrollé una transferencia de
+personalidad ofensiva en ratas.
+
+857
+01:15:20,125 --> 01:15:24,392
+Este nuevo enfoque brindó el
+marco necesario para el éxito.
+
+858
+01:15:24,416 --> 01:15:29,142
+Como las emociones son
+sobrecargas químicas en el cuerpo
+
+859
+01:15:29,166 --> 01:15:32,059
+en reacción a las experiencias,
+
+860
+01:15:32,083 --> 01:15:35,726
+se codifican en forma
+de memoria muscular.
+
+861
+01:15:35,750 --> 01:15:40,392
+Un poco como el agua registra
+el tamaño, la forma y la velocidad
+
+862
+01:15:40,416 --> 01:15:42,059
+de una piedra que cae
+
+863
+01:15:42,083 --> 01:15:44,517
+en la forma de las ondulaciones.
+
+864
+01:15:44,541 --> 01:15:47,351
+Al estimular los
+músculos originales
+
+865
+01:15:47,375 --> 01:15:49,351
+para despertar los recuerdos,
+
+866
+01:15:49,375 --> 01:15:55,309
+se registraron las ondulaciones con
+un polímero líquido y se archivaron.
+
+867
+01:15:55,333 --> 01:15:58,726
+Así transformamos
+los datos en experiencia
+
+868
+01:15:58,750 --> 01:16:01,950
+y logramos que la
+reproducción sea idéntica
+
+869
+01:16:02,916 --> 01:16:04,283
+al original.
+
+870
+01:16:05,250 --> 01:16:07,658
+Hasta el último recuerdo.
+
+871
+01:16:08,666 --> 01:16:13,575
+Y nuestra rata, a pesar de no
+haber explorado este laberinto,
+
+872
+01:16:14,666 --> 01:16:17,575
+- No puede ser.
+- Conoce la salida.
+
+873
+01:16:26,583 --> 01:16:29,491
+MILO, ¿qué edad
+tiene Omicron 267?
+
+874
+01:16:30,166 --> 01:16:36,075
+Omicron 267 tiene 12 años,
+42 días, 17 horas y 56 minutos.
+
+875
+01:16:40,583 --> 01:16:42,700
+Reproduce la última transmisión.
+
+876
+01:16:43,750 --> 01:16:44,642
+¿Hola?
+
+877
+01:16:44,666 --> 01:16:46,476
+No.
+
+878
+01:16:46,500 --> 01:16:47,741
+Esa no.
+
+879
+01:16:48,250 --> 01:16:49,450
+La anterior.
+
+880
+01:16:50,250 --> 01:16:51,517
+Puedo ayudarla.
+
+881
+01:16:51,541 --> 01:16:54,517
+Nadie más puede
+ayudarla a esta altura, Liz.
+
+882
+01:16:54,541 --> 01:16:56,892
+¿Cómo sabe mi
+nombre? No se lo dije.
+
+883
+01:16:56,916 --> 01:16:59,934
+No hizo falta. Supe
+quién era cuando oí su voz,
+
+884
+01:16:59,958 --> 01:17:01,684
+aunque no podía creerlo.
+
+885
+01:17:01,708 --> 01:17:06,491
+Detenla. ¿Puedes identificar la
+voz de la persona que me llamó?
+
+886
+01:17:07,958 --> 01:17:09,991
+Reconocimiento de voz en curso.
+
+887
+01:17:10,750 --> 01:17:14,184
+Llamada realizada por
+Hansen Elizabeth, doctora,
+
+888
+01:17:14,208 --> 01:17:17,408
+nacida el 3 de enero de
+2003 en Estocolmo, Suecia.
+
+889
+01:17:24,166 --> 01:17:25,700
+Soy tú.
+
+890
+01:17:27,083 --> 01:17:28,658
+Soy tú en una caja.
+
+891
+01:17:30,041 --> 01:17:31,241
+MILO.
+
+892
+01:17:37,250 --> 01:17:39,325
+¿Qué es Omicron 267?
+
+893
+01:17:40,125 --> 01:17:44,075
+Los Omicron son reproducciones
+genéticas humanas no contaminadas
+
+894
+01:17:44,375 --> 01:17:48,283
+diseñadas para propagar a
+raza humana en Wolf-10-61c.
+
+895
+01:17:56,000 --> 01:17:57,200
+Soy un clon.
+
+896
+01:18:01,583 --> 01:18:03,491
+Soy un maldito clon.
+
+897
+01:18:03,791 --> 01:18:05,908
+¡Soy un maldito clon!
+
+898
+01:18:08,708 --> 01:18:12,908
+¡Nunca estuve
+afuera de esta caja!
+
+899
+01:18:13,208 --> 01:18:14,658
+¡Soy desechable!
+
+900
+01:18:15,500 --> 01:18:17,491
+¡Soy basura espacial!
+
+901
+01:18:25,791 --> 01:18:28,075
+¡No quiero morir!
+
+902
+01:18:41,416 --> 01:18:43,283
+¿Por qué me hiciste esto?
+
+903
+01:18:56,541 --> 01:18:59,101
+Nivel de oxígeno
+cerca del umbral crítico.
+
+904
+01:18:59,125 --> 01:19:01,116
+RESERVA DE O2 - 4%
+
+905
+01:19:04,500 --> 01:19:08,450
+MILO, graba un
+mensaje para Omicron 42.
+
+906
+01:19:09,708 --> 01:19:11,325
+Grabación activada.
+
+907
+01:19:12,625 --> 01:19:13,825
+Léo...
+
+908
+01:19:15,625 --> 01:19:18,658
+si recibes este mensaje,
+es que lo lograste y yo...
+
+909
+01:19:21,458 --> 01:19:22,866
+Me quedé sin tiempo.
+
+910
+01:19:25,458 --> 01:19:29,450
+Tengo recuerdos de toda una
+vida contigo. De tu risa, de tu olor...
+
+911
+01:19:32,708 --> 01:19:35,033
+Recuerdo que
+intentamos tener hijos.
+
+912
+01:19:37,750 --> 01:19:40,450
+Pero no los tuvimos
+porque no era lógico.
+
+913
+01:19:42,625 --> 01:19:46,575
+Pero es una locura porque lo
+siento como un hueco dentro de mí.
+
+914
+01:19:48,041 --> 01:19:49,325
+Es absurdo.
+
+915
+01:19:50,375 --> 01:19:52,283
+Porque no nos conocemos.
+
+916
+01:19:54,000 --> 01:19:57,450
+Nunca te toqué. Nunca...
+
+917
+01:19:58,416 --> 01:19:59,658
+te olí...
+
+918
+01:20:03,291 --> 01:20:06,408
+Sé nuestra vida de
+memoria, aunque nunca la viví.
+
+919
+01:20:08,458 --> 01:20:09,908
+Bueno, esta vida...
+
+920
+01:20:11,000 --> 01:20:13,158
+Esta vida de...
+
+921
+01:20:14,125 --> 01:20:16,559
+- ¿Cuánto llevo despierta?
+- 102 minutos.
+
+922
+01:20:16,583 --> 01:20:19,491
+Eso. Esta vida de 102 minutos...
+
+923
+01:20:24,208 --> 01:20:25,616
+Me estoy yendo...
+
+924
+01:20:27,833 --> 01:20:29,033
+Sé feliz.
+
+925
+01:20:33,458 --> 01:20:34,658
+Sólo quiero...
+
+926
+01:20:37,250 --> 01:20:38,491
+Sólo quiero...
+
+927
+01:20:40,875 --> 01:20:47,908
+Quiero vivir.
+
+928
+01:20:49,916 --> 01:20:51,017
+¡MILO!
+
+929
+01:20:51,041 --> 01:20:54,075
+Muéstrame los procesadores
+de baja prioridad.
+
+930
+01:20:55,125 --> 01:20:56,392
+Lo siento,
+
+931
+01:20:56,416 --> 01:21:00,866
+quizá esté genéticamente diseñada
+para amarte, pero no te conozco.
+
+932
+01:21:01,208 --> 01:21:03,116
+Tomaremos un trago cuando...
+
+933
+01:21:03,875 --> 01:21:05,267
+cuando pase esto.
+
+934
+01:21:05,291 --> 01:21:07,851
+Atención. Nivel de oxígeno: 3%
+
+935
+01:21:07,875 --> 01:21:09,642
+- ¿Qué pasa?
+- Interrupción.
+
+936
+01:21:09,666 --> 01:21:11,116
+¿Qué significa eso?
+
+937
+01:21:11,750 --> 01:21:12,726
+¿Qué significa?
+
+938
+01:21:12,750 --> 01:21:16,241
+Posibilidad de sobrevivir debajo
+de los parámetros aceptables.
+
+939
+01:21:16,541 --> 01:21:18,351
+PEC iniciado.
+
+940
+01:21:18,375 --> 01:21:21,059
+- Administración en un minuto.
+- ¿Qué es PEC?
+
+941
+01:21:21,083 --> 01:21:22,892
+Protocolo de
+Eutanasia Compasiva.
+
+942
+01:21:22,916 --> 01:21:24,351
+- ¿Qué?
+- 58.
+
+943
+01:21:24,375 --> 01:21:25,809
+- Ignóralo.
+- 57.
+
+944
+01:21:25,833 --> 01:21:28,476
+Imposible ignorar
+la orden del PEC.
+
+945
+01:21:28,500 --> 01:21:31,517
+54, 53, 52...
+
+946
+01:21:31,541 --> 01:21:36,517
+- ¿Qué tipo de administración es?
+- Por vía intravenosa. 49, 48...
+
+947
+01:21:36,541 --> 01:21:37,934
+¡Está desconectada!
+
+948
+01:21:37,958 --> 01:21:42,434
+Unidad secundaria
+funcionando. 45, 44, 43...
+
+949
+01:21:42,458 --> 01:21:46,267
+- Suelta el cinturón abdominal.
+- Orden desconocida.
+
+950
+01:21:46,291 --> 01:21:48,684
+- Suelta el arnés.
+- Orden desconocida.
+
+951
+01:21:48,708 --> 01:21:51,392
+- Suelta el cinturón.
+- Orden desconocida.
+
+952
+01:21:51,416 --> 01:21:54,351
+35, 34...
+
+953
+01:21:54,375 --> 01:21:58,866
+- Desconecta el anillo umbilical.
+- 33, 32, 31... Desconectado.
+
+954
+01:21:59,291 --> 01:22:05,309
+29, 28, 27, 26, 25...
+
+955
+01:22:05,333 --> 01:22:07,559
+- ¿Por qué continúa?
+- 23...
+
+956
+01:22:07,583 --> 01:22:11,726
+22, 21, 20,
+
+957
+01:22:11,750 --> 01:22:16,934
+19, 18, 17, 16,
+
+958
+01:22:16,958 --> 01:22:22,726
+15, 14, 13, 12, 11,
+
+959
+01:22:22,750 --> 01:22:27,101
+diez, nueve, ocho,
+
+960
+01:22:27,125 --> 01:22:31,851
+siete, seis, cinco, cuatro,
+
+961
+01:22:31,875 --> 01:22:34,741
+tres, dos, uno.
+
+962
+01:22:35,708 --> 01:22:37,283
+PEC administrado.
+
+963
+01:22:44,375 --> 01:22:46,075
+Frecuencia cardíaca alta.
+
+964
+01:22:46,625 --> 01:22:48,450
+¿Quieres un sedante?
+
+965
+01:22:51,333 --> 01:22:55,200
+¿Necesitas que autorice el
+sedante, pero no la inyección letal?
+
+966
+01:22:56,416 --> 01:22:57,976
+¿Sigues grabando?
+
+967
+01:22:58,000 --> 01:23:02,809
+Sí. Sigo grabando un
+mensaje para Omicron 42.
+
+968
+01:23:02,833 --> 01:23:05,991
+Léo, ¿oíste lo que
+debo soportar?
+
+969
+01:23:07,583 --> 01:23:14,158
+MILO, ¿qué procesador controla
+los protocolos de eutanasia?
+
+970
+01:23:15,458 --> 01:23:20,184
+El procesador 67-526 se encarga
+de todos los escenarios catastróficos.
+
+971
+01:23:20,208 --> 01:23:22,476
+¿Escenarios en los
+que debes matarme?
+
+972
+01:23:22,500 --> 01:23:24,325
+- Sí.
+- Desactívalo.
+
+973
+01:23:24,666 --> 01:23:26,976
+La desactivación
+de esos escenarios
+
+974
+01:23:27,000 --> 01:23:31,267
+va en contra de la orden de la ONU
+sobre la ética de la práctica médica.
+
+975
+01:23:31,291 --> 01:23:34,075
+En otras palabras,
+si lo desactivamos,
+
+976
+01:23:34,708 --> 01:23:37,575
+¿no podrás matarme
+aunque te lo suplique?
+
+977
+01:23:37,875 --> 01:23:39,200
+Afirmativo.
+
+978
+01:23:42,583 --> 01:23:45,033
+Bien. Desactívalo.
+
+979
+01:23:46,125 --> 01:23:50,241
+Y redirige todas las funciones
+restantes del procesador 3-54.
+
+980
+01:23:50,916 --> 01:23:53,616
+Desactivación de
+escenarios catastróficos.
+
+981
+01:23:56,916 --> 01:24:01,116
+Todas las funciones del procesador
+3-54 se reasignarán ahora.
+
+982
+01:24:05,916 --> 01:24:10,700
+Bien. Inicia el protocolo de regreso
+al hipersueño para la bioforma.
+
+983
+01:24:12,208 --> 01:24:15,825
+Implementación imposible:
+bioforma desconectada.
+
+984
+01:24:18,125 --> 01:24:20,684
+Asistencia intravenosa
+desconectada.
+
+985
+01:24:20,708 --> 01:24:25,700
+Anillo umbilical desconectado.
+Actividad cerebral desconectada.
+
+986
+01:24:28,875 --> 01:24:32,575
+Bien. Piensa. Piensa
+qué es lo más fácil.
+
+987
+01:24:32,958 --> 01:24:36,101
+- ¿Se necesitan dos perfusiones?
+- Afirmativo.
+
+988
+01:24:36,125 --> 01:24:40,101
+P1 para los nutrientes, P2
+para el manejo del hipersueño.
+
+989
+01:24:40,125 --> 01:24:41,866
+Nivel de oxígeno crítico.
+
+990
+01:25:05,333 --> 01:25:08,408
+Desaparecerá.
+
+991
+01:25:08,791 --> 01:25:12,658
+No es real.
+
+992
+01:25:14,791 --> 01:25:17,283
+¡No fui yo!
+
+993
+01:25:19,125 --> 01:25:20,533
+Yo no las cloné.
+
+994
+01:25:37,375 --> 01:25:39,575
+Nivel de oxígeno: 2%
+
+995
+01:26:09,000 --> 01:26:11,200
+Intravenosa P2 conectada.
+
+996
+01:26:20,625 --> 01:26:22,450
+Bien.
+
+997
+01:26:51,083 --> 01:26:54,158
+Anillo umbilical conectado.
+
+998
+01:27:14,083 --> 01:27:17,616
+Vamos.
+
+999
+01:27:29,916 --> 01:27:32,408
+Intravenosa P1 conectada.
+
+1000
+01:27:38,500 --> 01:27:40,366
+Dos electrodos inactivos.
+
+1001
+01:28:03,791 --> 01:28:06,700
+Monitor de actividad
+cerebral conectado.
+
+1002
+01:28:07,375 --> 01:28:09,991
+Nivel de oxígeno: 1%
+
+1003
+01:28:22,541 --> 01:28:25,684
+MILO, ¿tengo chance de
+sobrevivir a la reanimación?
+
+1004
+01:28:25,708 --> 01:28:30,325
+No. Un nivel de oxígeno del 2% es
+el mínimo estricto para la reanimación.
+
+1005
+01:28:35,708 --> 01:28:37,825
+Me imagino que la promesa
+
+1006
+01:28:38,708 --> 01:28:40,158
+era despertar juntos,
+
+1007
+01:28:40,750 --> 01:28:42,450
+pero no estaré ahí.
+
+1008
+01:28:42,833 --> 01:28:44,241
+Lo intenté todo.
+
+1009
+01:28:46,375 --> 01:28:47,908
+No soy la única...
+
+1010
+01:28:49,791 --> 01:28:52,075
+No soy la única
+perdida, hay otros.
+
+1011
+01:28:53,875 --> 01:28:55,075
+Hay otros.
+
+1012
+01:28:58,208 --> 01:28:59,950
+MILO, fin de la grabación.
+
+1013
+01:29:01,208 --> 01:29:02,950
+Grabación terminada.
+
+1014
+01:29:04,000 --> 01:29:05,366
+Adiós, Léo.
+
+1015
+01:29:13,458 --> 01:29:16,325
+Nivel de oxígeno: 0.6%
+
+1016
+01:29:39,041 --> 01:29:41,283
+¡Los otros!
+
+1017
+01:29:41,958 --> 01:29:46,476
+MILO, ¿cuánto oxígeno queda
+en las unidades perdidas?
+
+1018
+01:29:46,500 --> 01:29:49,392
+187 unidades
+perdidas están llenas.
+
+1019
+01:29:49,416 --> 01:29:52,892
+Desvía el oxígeno de las
+unidades perdidas a la unidad 267.
+
+1020
+01:29:52,916 --> 01:29:55,184
+Imposible realizar
+el desvío ahora.
+
+1021
+01:29:55,208 --> 01:29:59,658
+El acceso a las reservas de oxígeno
+es limitado por razones de seguridad.
+
+1022
+01:30:00,625 --> 01:30:04,017
+Requerirá, aproximadamente,
+14.227 minutos
+
+1023
+01:30:04,041 --> 01:30:06,533
+ignorar la restricción
+de seguridad.
+
+1024
+01:30:07,916 --> 01:30:10,851
+Se recomienda regresar
+la bioforma al hipersueño
+
+1025
+01:30:10,875 --> 01:30:13,283
+para preservarla
+durante la maniobra.
+
+1026
+01:30:18,833 --> 01:30:20,226
+¿Puedes hacerlo, MILO?
+
+1027
+01:30:20,250 --> 01:30:23,434
+¿Quieres iniciar el protocolo
+de regreso al hipersueño
+
+1028
+01:30:23,458 --> 01:30:25,366
+mientras realizo la maniobra?
+
+1029
+01:30:30,000 --> 01:30:31,200
+Sí.
+
+1030
+01:30:32,625 --> 01:30:36,200
+Te besaría ahora. Sí.
+
+1031
+01:30:37,125 --> 01:30:39,491
+Inicia el protocolo
+de hipersueño.
+
+1032
+01:30:40,791 --> 01:30:43,559
+Protocolo de regreso
+al hipersueño iniciado.
+
+1033
+01:30:43,583 --> 01:30:45,533
+¿Quieres un sedante?
+
+1034
+01:30:48,000 --> 01:30:49,741
+Sí.
+
+1035
+01:30:52,541 --> 01:30:54,408
+Administración en curso.
+
+1036
+01:30:56,375 --> 01:31:00,950
+Inicio de la transfusión
+crioprotectora para la vitrificación.
+
+1037
+01:31:04,083 --> 01:31:06,866
+Desbloqueo de
+seguridad en curso.
+
+1038
+01:31:08,208 --> 01:31:12,200
+Temperatura corporal:
+37.1 grados Celsius.
+
+1039
+01:31:15,791 --> 01:31:17,491
+Lamento haberte golpeado.
+
+1040
+01:31:19,250 --> 01:31:20,700
+Disculpa aceptada.
+
+1041
+01:31:24,375 --> 01:31:26,241
+MILO, cuéntame del planeta.
+
+1042
+01:31:27,583 --> 01:31:28,517
+¿Cómo es?
+
+1043
+01:31:28,541 --> 01:31:32,059
+Wolf 10-61c tiene un
+ciclo orbital de 18 días.
+
+1044
+01:31:32,083 --> 01:31:34,976
+Tiene cuatro veces
+más masa que la Tierra.
+
+1045
+01:31:35,000 --> 01:31:38,101
+Su falta de rotación
+hace imposible la vida
+
+1046
+01:31:38,125 --> 01:31:42,517
+en su cara iluminada, demasiado caliente,
+y en su cara oscura, demasiado fría.
+
+1047
+01:31:42,541 --> 01:31:46,408
+La zona habitable está en el
+límite entre el día y la noche.
+
+1048
+01:31:48,125 --> 01:31:49,616
+Cuéntame del viaje.
+
+1049
+01:31:51,125 --> 01:31:53,892
+Una vez que se active
+la propulsión nuclear,
+
+1050
+01:31:53,916 --> 01:31:57,351
+tomará 34 años
+recorrer los 14 años luz
+
+1051
+01:31:57,375 --> 01:32:00,267
+entre nosotros y Wolf 10-61c.
+
+1052
+01:32:00,291 --> 01:32:07,101
+Al llegar, la nave sembradora HIVE se
+abrirá para liberar a las 9568 unidades
+
+1053
+01:32:07,125 --> 01:32:10,575
+que entrarán en la
+atmósfera de Wolf 10-61c.
+
+1054
+01:32:10,875 --> 01:32:13,533
+- Gracias a su sistema de hélices...
+- MILO.
+
+1055
+01:32:14,708 --> 01:32:16,783
+Cuéntame de la playa en Maui.
+
+1056
+01:32:17,750 --> 01:32:21,476
+Kapalua es una playa de arena
+blanca en forma de luna creciente
+
+1057
+01:32:21,500 --> 01:32:23,767
+ubicada en el
+Noroeste de la Isla.
+
+1058
+01:32:23,791 --> 01:32:26,491
+Está protegida por
+dos arrecifes de coral.
+
+1059
+01:32:26,791 --> 01:32:28,892
+Las bioformas acuáticas incluyen
+
+1060
+01:32:28,916 --> 01:32:35,976
+el pez mariposa, el pez loro, el
+pez damisela, el pez cirujano azul,
+
+1061
+01:32:36,000 --> 01:32:39,158
+el ídolo moro, el
+cirujano encendido,
+
+1062
+01:32:39,583 --> 01:32:42,616
+lábridos, el pez cofre amarillo,
+
+1063
+01:32:43,208 --> 01:32:47,200
+el pez azul, el pez ballesta,
+el pez aleta amarilla,
+
+1064
+01:32:47,833 --> 01:32:52,741
+el pez erizo, el caranx
+hippos, el pez trompeta...
+
+1065
+01:32:53,041 --> 01:32:54,241
+MILO.
+
+1066
+01:32:55,458 --> 01:32:57,741
+Cambia el nombre de Omicron 267
+
+1067
+01:32:59,583 --> 01:33:00,783
+a Liz.
+
+1068
+01:33:01,583 --> 01:33:04,075
+Omicron 267 ahora es Liz.
+
+1069
+01:33:08,041 --> 01:33:09,241
+Gracias.
+
+1070
+01:33:28,125 --> 01:33:29,575
+Buenas noches, Liz.
+
+1071
+01:33:35,500 --> 01:33:37,408
+RESERVA DE O2 - 0%
+

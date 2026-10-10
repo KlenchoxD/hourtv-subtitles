@@ -1,0 +1,246 @@
+1
+00:00:20,280 --> 00:00:25,800
+LA GALLINITA SABIA
+
+2
+00:00:27,320 --> 00:00:29,360
+<i>Había una vez una gallinita sabia</i>
+
+3
+00:00:29,520 --> 00:00:30,560
+GALLINITA
+SABIA
+
+4
+00:00:30,720 --> 00:00:32,120
+<i>Que de vez en cuando temía</i>
+
+5
+00:00:32,280 --> 00:00:36,960
+<i>No tener víveres</i>
+<i>Cuando regresara el invierno</i>
+
+6
+00:00:37,120 --> 00:00:41,440
+<i>Con un cesto lleno de maíz</i>
+<i>Empezó una mañana</i>
+
+7
+00:00:41,640 --> 00:00:44,160
+<i>Esperaba que los amigos</i>
+<i>que encontrara</i>
+
+8
+00:00:44,240 --> 00:00:46,600
+<i>Le ayudaran a sembrar su maíz</i>
+
+9
+00:00:55,840 --> 00:00:57,600
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+
+10
+00:00:57,760 --> 00:00:58,800
+CERDO
+PETER
+
+11
+00:00:58,960 --> 00:01:00,280
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+
+12
+00:01:00,440 --> 00:01:05,160
+<i>El Cerdo Peter, que es fuerte y grande</i>
+<i>Podría ayudarle a sembrar su maíz</i>
+
+13
+00:01:21,360 --> 00:01:25,760
+<i>¿Me ayudas a sembrar mi maíz?</i>
+<i>¿Me ayudas a sembrar mi maíz?</i>
+
+14
+00:01:27,440 --> 00:01:33,280
+¿Quién, yo? No.
+Tengo dolor de estómago.
+
+15
+00:01:59,680 --> 00:02:03,640
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+
+16
+00:02:03,800 --> 00:02:04,840
+PATO DONALD
+
+17
+00:02:05,000 --> 00:02:09,240
+<i>Si el Pato Donald tiene algo de valor</i>
+<i>Le ayudará a sembrar su maíz</i>
+
+18
+00:02:23,000 --> 00:02:27,480
+<i>¿Me ayudas a sembrar mi maíz?</i>
+<i>¿Me ayudas a sembrar mi maíz?</i>
+
+19
+00:02:29,120 --> 00:02:34,880
+¿Quién, yo? No.
+Tengo dolor de estómago.
+
+20
+00:02:53,360 --> 00:02:57,960
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+<i>¿Quién le ayudará a sembrar su maíz?</i>
+
+21
+00:02:58,120 --> 00:03:02,720
+<i>Debió saber que ella sola</i>
+<i>Tendría que sembrar su maíz</i>
+
+22
+00:03:38,840 --> 00:03:41,360
+GUISANTES
+
+23
+00:04:03,360 --> 00:04:07,240
+<i>¿Quién le ayudará a cosechar el maíz?</i>
+<i>¿Quién le ayudará a cosechar el maíz?</i>
+
+24
+00:04:07,400 --> 00:04:08,440
+CLUB
+HORA DE OCIO
+
+25
+00:04:08,640 --> 00:04:12,960
+<i>Tal vez sus amigos se dignen</i>
+<i>A ayudarle a cosechar el maíz</i>
+
+26
+00:04:26,720 --> 00:04:31,240
+<i>¿Me ayudas a cosechar el maíz?</i>
+<i>¿Me ayudas a cosechar el maíz?</i>
+
+27
+00:04:32,880 --> 00:04:35,920
+¿Quién, yo? No.
+
+28
+00:04:36,320 --> 00:04:38,800
+Tenemos dolor de estómago.
+
+29
+00:05:01,280 --> 00:05:05,840
+<i>¿Quién le ayudará a cosechar el maíz?</i>
+<i>¿Quién le ayudará a cosechar el maíz?</i>
+
+30
+00:05:06,000 --> 00:05:10,720
+<i>Debió saber que ella sola</i>
+<i>Tendría que cosechar el maíz</i>
+
+31
+00:05:12,920 --> 00:05:15,200
+<i>Oh, mi, oh, mi, oh, ma</i>
+
+32
+00:05:15,360 --> 00:05:19,520
+<i>- Mira lo que tiene esa gallinita.</i>
+<i>- Qué buena pinta.</i>
+
+33
+00:05:19,840 --> 00:05:22,120
+<i>Pronto habrá panecillos</i>
+<i>y pasteles de sobra.</i>
+
+34
+00:05:22,280 --> 00:05:24,520
+<i>Bollos de maíz y buñuelos por montón.</i>
+
+35
+00:05:24,600 --> 00:05:27,160
+<i>Más pan de maíz del</i>
+<i>que he visto jamás.</i>
+
+36
+00:05:27,320 --> 00:05:30,240
+<i>¡Qué hambre tengo!</i>
+
+37
+00:05:31,520 --> 00:05:34,120
+<i>Oh, mi, oh, mi, oh, ma</i>
+
+38
+00:05:34,280 --> 00:05:38,640
+<i>Mazorca con montones y montones</i>
+<i>de mantequilla derretida cubriéndola.</i>
+
+39
+00:05:38,800 --> 00:05:41,720
+<i>Suficiente sopa de maíz</i>
+<i>para alimentar y llenar a un ejército.</i>
+
+40
+00:05:41,880 --> 00:05:42,960
+<i>Vaya, vaya.</i>
+
+41
+00:05:43,120 --> 00:05:47,880
+<i>¿Quién le ayudará a comerse su maíz?</i>
+<i>¿Quién le ayudará a comerse su maíz?</i>
+
+42
+00:05:48,040 --> 00:05:53,280
+<i>Tal vez sus amigos se dignen</i>
+<i>A ayudarle a comerse su maíz</i>
+
+43
+00:06:23,080 --> 00:06:27,440
+<i>¿Me ayudarás a comerme mi maíz?</i>
+<i>¿Me ayudarás a comerme mi maíz?</i>
+
+44
+00:06:30,160 --> 00:06:31,240
+¿Quién, yo?
+
+45
+00:06:31,800 --> 00:06:35,880
+Vaya, vaya, vaya.
+¡Y de qué manera!
+
+46
+00:07:00,880 --> 00:07:04,200
+DELICIOSO ACEITE DE RICINO
+PARA EL DOLOR DE ESTÓMAGO
+
+47
+00:07:07,040 --> 00:07:11,560
+<i>Ella se comerá sola el maíz</i>
+<i>Ella se comerá sola el maíz</i>
+
+48
+00:07:16,640 --> 00:07:20,960
+<i>Ella se comerá sola el maíz</i>
+<i>Ella se comerá sola el maíz</i>
+
+49
+00:07:21,160 --> 00:07:25,520
+<i>Aunque sus amigos ahora ven la luz</i>
+<i>No tienen más que apetito</i>
+
+50
+00:07:25,720 --> 00:07:28,040
+<i>Mientras se arrepienten</i>
+<i>de todo corazón</i>
+
+51
+00:07:28,120 --> 00:07:30,320
+<i>Ella se comerá sola el maíz</i>
+
+52
+00:07:30,480 --> 00:07:34,760
+<i>Ella se comerá sola el maíz</i>
+
+53
+00:07:34,920 --> 00:07:40,640
+<i>Ella se comerá sola el maíz</i>
+
