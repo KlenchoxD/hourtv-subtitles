@@ -1,0 +1,3499 @@
+1
+00:00:13,520 --> 00:00:14,600
+<b>NUEVA REUNIÓN</b>
+
+2
+00:00:14,680 --> 00:00:17,560
+<b>PRESIONE ESC O HAGA DOBLE CLICK
+PARA SALIR DE PANTALLA COMPLETA</b>
+
+3
+00:00:17,640 --> 00:00:20,240
+<b>UNIRSE CON EL AUDIO
+DE LA COMPUTADORA</b>
+
+4
+00:00:23,200 --> 00:00:25,720
+<b>HALEY
+HABILITAR VIDEO</b>
+
+5
+00:00:34,640 --> 00:00:36,360
+<b>HALEY
+HABILITAR AUDIO</b>
+
+6
+00:01:06,840 --> 00:01:09,320
+<b>HALEY (ANFITRIONA, YO)
+PARTICIPANTES - INVITAR</b>
+
+7
+00:01:09,400 --> 00:01:11,560
+<b>CONTACTOS
+ELIJA DE ESTA LISTA O TIPO DE FILTRO</b>
+
+8
+00:01:16,320 --> 00:01:18,360
+<b>JEMMA HA INGRESADO
+A LA SALA DE ESPERA</b>
+
+9
+00:01:18,440 --> 00:01:21,840
+<b>VER LA SALA DE ESPERA - ADMITIR</b>
+
+10
+00:01:58,160 --> 00:01:59,400
+<b>¿Hola?</b>
+
+11
+00:02:36,960 --> 00:02:37,800
+<b>Perdón.</b>
+
+12
+00:02:38,480 --> 00:02:39,440
+<b>¿Me dejas entrar?</b>
+
+13
+00:02:48,760 --> 00:02:50,280
+<b>JEMMA INGRESÓ A LA SALA DE ESPERA</b>
+
+14
+00:02:50,360 --> 00:02:51,680
+<b>ADMITIR</b>
+
+15
+00:02:51,760 --> 00:02:53,160
+<b>- Hola.
+- Hola.</b>
+
+16
+00:02:53,240 --> 00:02:54,240
+<b>¿Lista para esta noche?</b>
+
+17
+00:02:54,320 --> 00:02:55,840
+<b>Sí.</b>
+
+18
+00:02:55,920 --> 00:02:56,960
+<b>Va a ser divertido.</b>
+
+19
+00:02:57,800 --> 00:02:59,600
+<b>¿Alguna vez hiciste algo así?</b>
+
+20
+00:03:00,000 --> 00:03:01,680
+<b>- No.
+- ¿No?</b>
+
+21
+00:03:01,760 --> 00:03:05,400
+<b>Sí, es... Lo he hecho un par de veces,
+estuvo bueno. Como...</b>
+
+22
+00:03:05,480 --> 00:03:07,880
+<b>¿Alguna vez pasó algo?</b>
+
+23
+00:03:08,440 --> 00:03:09,280
+<b>Sí.</b>
+
+24
+00:03:09,640 --> 00:03:11,880
+<b>Bueno, cada vez que lo hice...</b>
+
+25
+00:03:11,960 --> 00:03:13,880
+<b>bueno, algo ocurrió.</b>
+
+26
+00:03:13,960 --> 00:03:15,520
+<b>Suena espeluznante.</b>
+
+27
+00:03:15,600 --> 00:03:17,040
+<b>Solo será un poco diferente.</b>
+
+28
+00:03:19,080 --> 00:03:21,760
+<b>- Volvió.
+- Bien.</b>
+
+29
+00:03:21,840 --> 00:03:24,000
+<b>¿Estamos esperando a los demás?</b>
+
+30
+00:03:24,080 --> 00:03:26,360
+<b>Sí. Caroline me mensajeó</b>
+
+31
+00:03:26,440 --> 00:03:28,640
+<b>y dijo que llegaría un poco tarde.</b>
+
+32
+00:03:28,720 --> 00:03:30,520
+<b>- Bueno.
+- Allá vamos.</b>
+
+33
+00:03:37,640 --> 00:03:42,040
+<b>Creo que tienes desactivar
+el audio de tu teléfono.</b>
+
+34
+00:03:49,640 --> 00:03:52,160
+<b>Quítale el sonido a tu teléfono.</b>
+
+35
+00:03:52,680 --> 00:03:55,640
+<b>Tal vez silenciar...
+Silenciarte a ti misma.</b>
+
+36
+00:03:58,800 --> 00:04:00,560
+<b>- Bien.
+- Sí.</b>
+
+37
+00:04:01,320 --> 00:04:02,720
+<b>Bien.</b>
+
+38
+00:04:03,440 --> 00:04:04,560
+<b>Ahí está.</b>
+
+39
+00:04:05,400 --> 00:04:07,520
+<b>Disculpa, ¿puedo enviar un correo rápido?</b>
+
+40
+00:04:07,600 --> 00:04:09,680
+<b>Sí, sí. Adelante.</b>
+
+41
+00:04:09,760 --> 00:04:10,840
+<b>Sí.</b>
+
+42
+00:04:19,399 --> 00:04:20,240
+<b>Hola, chicas.</b>
+
+43
+00:04:20,320 --> 00:04:21,399
+<b>Hola.</b>
+
+44
+00:04:21,480 --> 00:04:22,680
+<b>Hola.</b>
+
+45
+00:04:22,760 --> 00:04:25,080
+<b>- ¿Cómo están?
+- Bien, ¿y tú?</b>
+
+46
+00:04:25,600 --> 00:04:26,600
+<b>Nerviosa.</b>
+
+47
+00:04:27,240 --> 00:04:29,120
+<b>¿Por qué? Todo va a salir bien.</b>
+
+48
+00:04:29,520 --> 00:04:30,560
+<b>Será divertido.</b>
+
+49
+00:04:30,640 --> 00:04:33,280
+<b>- Hola, chicas.
+- ¡Radina!</b>
+
+50
+00:04:33,640 --> 00:04:34,840
+<b>- ¡Hola!
+- ¿Cómo andan?</b>
+
+51
+00:04:34,920 --> 00:04:36,080
+<b>Radina.</b>
+
+52
+00:04:36,160 --> 00:04:38,560
+<b>Qué hermoso te queda el pelo rizado.</b>
+
+53
+00:04:38,640 --> 00:04:39,720
+<b>- Gracias.
+- Hola, chica.</b>
+
+54
+00:04:39,800 --> 00:04:40,720
+<b>Hermoso.</b>
+
+55
+00:04:42,360 --> 00:04:43,760
+<b>Radina está tosiendo.</b>
+
+56
+00:04:44,360 --> 00:04:45,720
+<b>Tose.</b>
+
+57
+00:04:45,800 --> 00:04:46,840
+<b>Estoy bien.</b>
+
+58
+00:04:46,920 --> 00:04:48,520
+<b>La gente ya no puede toser.</b>
+
+59
+00:04:48,600 --> 00:04:50,000
+<b>Es ridículo.</b>
+
+60
+00:04:50,080 --> 00:04:52,760
+<b>Ahora hay que disimular
+la tos con un pedo</b>
+
+61
+00:04:52,840 --> 00:04:54,200
+<b>y no al revés.</b>
+
+62
+00:04:54,880 --> 00:04:55,720
+<b>Es verdad.</b>
+
+63
+00:04:55,800 --> 00:04:56,800
+<b>Mételo.</b>
+
+64
+00:04:58,080 --> 00:04:59,720
+<b>- ¡Caroline!
+- ¿Qué?</b>
+
+65
+00:05:00,160 --> 00:05:01,520
+<b>¡Caroline!</b>
+
+66
+00:05:01,600 --> 00:05:03,280
+<b>Caroline, tienes algo en la cara.</b>
+
+67
+00:05:04,320 --> 00:05:07,280
+<b>A mis poros no les hace bien el encierro.</b>
+
+68
+00:05:07,960 --> 00:05:08,800
+<b>Hola.</b>
+
+69
+00:05:08,880 --> 00:05:11,680
+<b>- ¡Hola, Pat!
+- ¡Hola, Pat.</b>
+
+70
+00:05:11,760 --> 00:05:13,800
+<b>¿Le preguntaste si se queda en casa?</b>
+
+71
+00:05:13,880 --> 00:05:16,000
+<b>No, no se queda en casa. ¿Verdad?</b>
+
+72
+00:05:16,080 --> 00:05:18,480
+<b>No, no, no, no.
+Me gusta el sol.</b>
+
+73
+00:05:18,800 --> 00:05:21,400
+<b>- Pat, debes tener cuidado.
+- Me encanta.</b>
+
+74
+00:05:21,480 --> 00:05:22,720
+<b>Cúbrete.</b>
+
+75
+00:05:25,080 --> 00:05:27,600
+<b>- ¿Qué es eso?
+- ¡Dios mío!</b>
+
+76
+00:05:31,000 --> 00:05:32,120
+<b>Adiós, papá.</b>
+
+77
+00:05:34,720 --> 00:05:36,120
+<b>Me encanta tu papá.</b>
+
+78
+00:05:36,200 --> 00:05:37,680
+<b>Lo deberías invitar esta noche.</b>
+
+79
+00:05:37,760 --> 00:05:39,200
+<b>No creo que su corazón lo soporte.</b>
+
+80
+00:05:41,520 --> 00:05:43,280
+<b>Es muy simpático y desobediente también.</b>
+
+81
+00:05:43,360 --> 00:05:47,600
+<b>Él sigue saliendo
+y después tengo que andar por la calle</b>
+
+82
+00:05:47,680 --> 00:05:49,320
+<b>diciéndole: "¡Ya basta, papá!"</b>
+
+83
+00:05:50,040 --> 00:05:51,400
+<b>Permítanme un segundo.</b>
+
+84
+00:05:54,560 --> 00:05:55,880
+<b>¿Ella está bien?</b>
+
+85
+00:05:57,040 --> 00:05:58,200
+<b>Sí, está bien.</b>
+
+86
+00:05:59,000 --> 00:06:01,280
+<b>No, no se ve bien.</b>
+
+87
+00:06:01,800 --> 00:06:03,080
+<b>Es una situación rara, ¿no?</b>
+
+88
+00:06:03,760 --> 00:06:06,040
+<b>No deberían haberse mudado juntos
+en cuarentena.</b>
+
+89
+00:06:06,520 --> 00:06:09,240
+<b>No se conoce a una persona
+en tan poco tiempo.</b>
+
+90
+00:06:09,720 --> 00:06:11,000
+<b>Lo están haciendo ahora.</b>
+
+91
+00:06:15,080 --> 00:06:16,160
+<b>Radina.</b>
+
+92
+00:06:16,720 --> 00:06:17,680
+<b>Hola.</b>
+
+93
+00:06:18,600 --> 00:06:19,760
+<b>¿Estás bien?</b>
+
+94
+00:06:19,840 --> 00:06:22,200
+<b>Sí. Claro que sí. Completamente bien.</b>
+
+95
+00:06:22,280 --> 00:06:24,600
+<b>Es que cuando discutimos
+se va al dormitorio.</b>
+
+96
+00:06:24,920 --> 00:06:27,040
+<b>Y ahora tengo todo este espacio.</b>
+
+97
+00:06:28,200 --> 00:06:30,400
+<b>Chicas, miren esto.
+Así vamos a estar más tarde.</b>
+
+98
+00:06:31,080 --> 00:06:33,720
+<b>Emma, no es gracioso.</b>
+
+99
+00:06:33,800 --> 00:06:35,200
+<b>No me gusta eso.</b>
+
+100
+00:06:35,560 --> 00:06:38,200
+<b>Se te va a aparecer detrás de ti,
+Caroline.</b>
+
+101
+00:06:39,120 --> 00:06:40,080
+<b>Cállate.</b>
+
+102
+00:06:40,160 --> 00:06:41,840
+<b>- Emma.
+- Esperen.</b>
+
+103
+00:06:41,920 --> 00:06:43,680
+<b>Miren lo que hice. Esperen.</b>
+
+104
+00:06:43,760 --> 00:06:44,600
+<b>Tarda un poco.</b>
+
+105
+00:06:47,360 --> 00:06:49,320
+<b>A esto me llevó la cuarentena.</b>
+
+106
+00:06:50,120 --> 00:06:51,400
+<b>Miren, miren.</b>
+
+107
+00:06:52,000 --> 00:06:53,040
+<b>- Soy yo.
+- ¡Por Dios!</b>
+
+108
+00:06:53,120 --> 00:06:54,560
+<b>Tiene una gemela.</b>
+
+109
+00:06:54,640 --> 00:06:55,680
+<b>Son dos.</b>
+
+110
+00:06:55,760 --> 00:06:58,160
+<b>Sí, como me sentía sola,
+me hice una amiga.</b>
+
+111
+00:06:58,560 --> 00:07:02,160
+<b>Dios mío, chicas, tuve noticias de Teddy.
+Va a estar aquí esta noche.</b>
+
+112
+00:07:03,120 --> 00:07:04,960
+<b>Espera, ¿es en serio?</b>
+
+113
+00:07:05,040 --> 00:07:06,600
+<b>Te quería avisar, Caroline.</b>
+
+114
+00:07:06,680 --> 00:07:08,520
+<b>Sí, gracias. Un poco tarde.</b>
+
+115
+00:07:08,600 --> 00:07:10,200
+<b>Tengo esta porquería en la cara.</b>
+
+116
+00:07:10,280 --> 00:07:12,160
+<b>¿Vieron sus publicaciones de Instagram?</b>
+
+117
+00:07:12,240 --> 00:07:14,800
+<b>¿La que está con Jinny
+o la otra que está con Jinny?</b>
+
+118
+00:07:14,880 --> 00:07:17,480
+<b>- ¿O la primera con Jinny?
+- Con todas ellas.</b>
+
+119
+00:07:17,560 --> 00:07:20,000
+<b>La casa de sus padres
+es como una mansión.</b>
+
+120
+00:07:20,080 --> 00:07:21,240
+<b>Está muy cambiado ahora.</b>
+
+121
+00:07:21,320 --> 00:07:24,640
+<b>Es por ella, es muy desagradable, chicas.</b>
+
+122
+00:07:24,720 --> 00:07:27,560
+<b>Nunca los juntarías,
+porque Teddy es lo opuesto.</b>
+
+123
+00:07:27,640 --> 00:07:30,040
+<b>Con ella puedes tener
+tres temas de conversación</b>
+
+124
+00:07:30,120 --> 00:07:31,600
+<b>y punto.</b>
+
+125
+00:07:31,680 --> 00:07:34,440
+<b>Y la vi con marcas en la mano
+de bronceado falso.</b>
+
+126
+00:07:34,520 --> 00:07:35,920
+<b>¡Hola, Teddy!</b>
+
+127
+00:07:36,000 --> 00:07:37,920
+<b>¡Hola!</b>
+
+128
+00:07:38,000 --> 00:07:39,040
+<b>Hola, amigo.</b>
+
+129
+00:07:39,480 --> 00:07:41,440
+<b>- ¿Cómo están, chicas?
+- Hola, Jinny.</b>
+
+130
+00:07:41,520 --> 00:07:43,400
+<b>Lo lograste.
+¿Cómo va?</b>
+
+131
+00:07:43,480 --> 00:07:46,080
+<b>Gin con agua tónica ahí.</b>
+
+132
+00:07:46,480 --> 00:07:48,840
+<b>Estás tan refinado,
+la cuarentena te hizo bien.</b>
+
+133
+00:07:48,920 --> 00:07:50,040
+<b>Es deliciosa.</b>
+
+134
+00:07:50,120 --> 00:07:52,400
+<b>Esperen, voy a entrar. La señal es...</b>
+
+135
+00:07:52,480 --> 00:07:53,320
+<b>Sí.</b>
+
+136
+00:07:53,400 --> 00:07:55,640
+<b>Viviendo la buena vida
+junto a la piscina.</b>
+
+137
+00:07:56,160 --> 00:07:58,240
+<b>- No.
+- Vamos.</b>
+
+138
+00:07:59,080 --> 00:08:00,480
+<b>¡Adiós, Jinny!</b>
+
+139
+00:08:00,560 --> 00:08:01,640
+<b>¡Adiós!</b>
+
+140
+00:08:01,720 --> 00:08:04,520
+<b>Por Dios.
+¿Vienes por tu cuenta, Ted?</b>
+
+141
+00:08:05,160 --> 00:08:06,680
+<b>Sí, cosas de chico grande.</b>
+
+142
+00:08:06,760 --> 00:08:08,880
+<b>Estoy únicamente para ustedes.</b>
+
+143
+00:08:10,160 --> 00:08:11,560
+<b>Te hiciste un rodete.</b>
+
+144
+00:08:11,640 --> 00:08:13,520
+<b>¿Cuándo te hiciste el rodete?</b>
+
+145
+00:08:13,960 --> 00:08:15,920
+<b>Creo que es una tontería del corona.</b>
+
+146
+00:08:17,240 --> 00:08:18,520
+<b>¿Les doy una recorrida?</b>
+
+147
+00:08:18,600 --> 00:08:20,160
+<b>Sí, por favor.</b>
+
+148
+00:08:20,240 --> 00:08:22,040
+<b>Miren esto.</b>
+
+149
+00:08:24,440 --> 00:08:25,280
+<b>Escalofriante.</b>
+
+150
+00:08:25,760 --> 00:08:26,840
+<b>Demasiado escalofriante.</b>
+
+151
+00:08:26,920 --> 00:08:27,880
+<b>¿Qué es eso?</b>
+
+152
+00:08:28,400 --> 00:08:30,720
+<b>No tienen la menor idea de lo cerca</b>
+
+153
+00:08:30,800 --> 00:08:32,240
+<b>que está esa cosa.</b>
+
+154
+00:08:32,320 --> 00:08:34,919
+<b>¿Tienes un bar ahí detrás?</b>
+
+155
+00:08:35,000 --> 00:08:36,400
+<b>Sí, hay un bar.</b>
+
+156
+00:08:37,440 --> 00:08:38,600
+<b>Qué genial.</b>
+
+157
+00:08:39,000 --> 00:08:39,919
+<b>Lo difícil</b>
+
+158
+00:08:40,000 --> 00:08:42,200
+<b>es no tener sexo delante de su padre.</b>
+
+159
+00:08:42,280 --> 00:08:44,200
+<b>Hay tanto alcohol aquí.</b>
+
+160
+00:08:44,280 --> 00:08:48,640
+<b>No es que pueda sacar a relucir
+al pelirrojo Ted de los días traviesos.</b>
+
+161
+00:08:48,720 --> 00:08:50,360
+<b>¡Pelirrojo Ted!</b>
+
+162
+00:08:50,440 --> 00:08:52,840
+<b>Es raro estar con ella y sus padres.</b>
+
+163
+00:08:52,920 --> 00:08:58,840
+<b>Tienen esas reglas como nada de ver
+canal porno en el comedor.</b>
+
+164
+00:08:58,920 --> 00:09:00,960
+<b>- ¿Cómo sobrevives?
+- A duras penas.</b>
+
+165
+00:09:01,040 --> 00:09:03,440
+<b>Estoy al límite.</b>
+
+166
+00:09:03,520 --> 00:09:05,720
+<b>Ted, ¿cómo te sientes
+para esta noche?</b>
+
+167
+00:09:05,800 --> 00:09:06,880
+<b>¿Tienes tu objeto?</b>
+
+168
+00:09:06,960 --> 00:09:08,520
+<b>Sí, sí, lo tengo.</b>
+
+169
+00:09:08,880 --> 00:09:10,720
+<b>Así de serio me lo estoy tomando.</b>
+
+170
+00:09:10,800 --> 00:09:13,160
+<b>Fui a casa, rompí la cuarentena</b>
+
+171
+00:09:13,240 --> 00:09:14,880
+<b>para buscar esto.</b>
+
+172
+00:09:14,960 --> 00:09:15,880
+<b>- ¿Sí?
+- Les muestro.</b>
+
+173
+00:09:15,960 --> 00:09:16,960
+<b>Sí.</b>
+
+174
+00:09:17,040 --> 00:09:19,720
+<b>Lo haré lo más atmosféricamente posible.</b>
+
+175
+00:09:24,000 --> 00:09:26,480
+<b>Vaya. Dios mío.</b>
+
+176
+00:09:26,560 --> 00:09:28,000
+<b>Es estremecedor. ¿Escuchan?</b>
+
+177
+00:09:28,080 --> 00:09:28,920
+<b>Sí.</b>
+
+178
+00:09:29,000 --> 00:09:32,320
+<b>Sí. Básicamente era de mi abuela</b>
+
+179
+00:09:32,400 --> 00:09:35,120
+<b>pero literalmente, la odio,</b>
+
+180
+00:09:35,200 --> 00:09:37,400
+<b>porque mi hermano
+que era un verdadero imbécil</b>
+
+181
+00:09:37,480 --> 00:09:39,280
+<b>la escondía por la casa</b>
+
+182
+00:09:39,360 --> 00:09:42,120
+<b>y yo me moría de miedo.</b>
+
+183
+00:09:42,200 --> 00:09:43,880
+<b>Lloraba realmente.</b>
+
+184
+00:09:43,960 --> 00:09:46,000
+<b>Cuando escucho esa música es...</b>
+
+185
+00:09:46,920 --> 00:09:48,040
+<b>horripilante,</b>
+
+186
+00:09:48,120 --> 00:09:50,760
+<b>espantosa. Así que esto es suyo.
+Que Dios lo bendiga.</b>
+
+187
+00:09:50,840 --> 00:09:52,400
+<b>Cuando suena, cuídense.</b>
+
+188
+00:09:52,480 --> 00:09:54,560
+<b>Es tenebroso. Perdón.</b>
+
+189
+00:09:54,640 --> 00:09:57,000
+<b>¿Van a continuar?
+Yo estoy nervioso.</b>
+
+190
+00:09:57,080 --> 00:10:00,000
+<b>- Yo estoy aterrada.
+- ¿Por qué?</b>
+
+191
+00:10:00,400 --> 00:10:01,640
+<b>No quiero hacerlo.</b>
+
+192
+00:10:01,720 --> 00:10:03,640
+<b>Todo va a estar bien.</b>
+
+193
+00:10:03,720 --> 00:10:06,880
+<b>La mujer es amiga mía.
+Lo ha hecho muchas veces.</b>
+
+194
+00:10:06,960 --> 00:10:10,960
+<b>Nos va a guiar,
+solo hay que seguir sus instrucciones.</b>
+
+195
+00:10:11,040 --> 00:10:13,240
+<b>Así que, por favor, es amiga mía.</b>
+
+196
+00:10:13,320 --> 00:10:15,680
+<b>No digo que no lo harán,
+pero, tómenlo en serio</b>
+
+197
+00:10:15,760 --> 00:10:17,680
+<b>y sean respetuosos.</b>
+
+198
+00:10:17,760 --> 00:10:20,040
+<b>Hablando de cosas serias,</b>
+
+199
+00:10:20,120 --> 00:10:22,320
+<b>y sin desmerecer
+lo que acabas de decir,</b>
+
+200
+00:10:22,400 --> 00:10:24,560
+<b>pero podemos tomar un traguito</b>
+
+201
+00:10:24,640 --> 00:10:26,360
+<b>cada vez que ella diga "astroplano".</b>
+
+202
+00:10:26,440 --> 00:10:28,800
+<b>¡Sí!
+¡Es mi juego!</b>
+
+203
+00:10:28,880 --> 00:10:31,560
+<b>Plano astral.</b>
+
+204
+00:10:31,640 --> 00:10:33,480
+<b>- No "astro", "Astral".
+- Mierda.</b>
+
+205
+00:10:33,560 --> 00:10:35,880
+<b>- Una botella de vodka aquí.
+- Que no la vea.</b>
+
+206
+00:10:36,280 --> 00:10:38,000
+<b>No sé si está de acuerdo con eso.</b>
+
+207
+00:10:38,080 --> 00:10:40,760
+<b>Mientras ustedes destruyen su hígado,
+yo tomo agua.</b>
+
+208
+00:10:40,840 --> 00:10:43,360
+<b>Si vamos a tomar alcohol,
+hagámoslo discretamente.</b>
+
+209
+00:10:43,440 --> 00:10:45,400
+<b>No puedo hacer eso con una cerveza.</b>
+
+210
+00:10:46,280 --> 00:10:49,640
+<b>Tomemos un trago, chicas,
+por nosotros. Me alegro de verlas.</b>
+
+211
+00:10:49,720 --> 00:10:51,080
+<b>¿Te tomo una foto?</b>
+
+212
+00:10:51,160 --> 00:10:52,680
+<b>Trajo de vuelta a este tipo.</b>
+
+213
+00:10:53,960 --> 00:10:55,560
+<b>¿Por qué brindamos?</b>
+
+214
+00:10:56,440 --> 00:10:58,240
+<b>¿Por una feliz sesión de espiritismo?</b>
+
+215
+00:10:58,320 --> 00:10:59,840
+<b>Sí. Felices escalofríos.</b>
+
+216
+00:10:59,920 --> 00:11:01,400
+<b>Felices escalofríos.</b>
+
+217
+00:11:01,480 --> 00:11:03,400
+<b>A ver, entren todos.</b>
+
+218
+00:11:03,480 --> 00:11:05,400
+<b>Tres, dos, uno.</b>
+
+219
+00:11:05,480 --> 00:11:07,760
+<b>- Salud.
+- Salud, gente.</b>
+
+220
+00:11:10,880 --> 00:11:12,840
+<b>Me acaba de escribir.</b>
+
+221
+00:11:12,920 --> 00:11:16,880
+<b>¿Cómo se dice cuando le envías algo...?</b>
+
+222
+00:11:16,960 --> 00:11:18,000
+<b>Telepatía.</b>
+
+223
+00:11:18,080 --> 00:11:20,000
+<b>¿Te escribió con telepatía?</b>
+
+224
+00:11:20,080 --> 00:11:21,280
+<b>¿Telepatía?</b>
+
+225
+00:11:21,760 --> 00:11:24,160
+<b>No, me escribió realmente.</b>
+
+226
+00:11:24,560 --> 00:11:26,400
+<b>- Con el teléfono.
+- ¿Qué dice?</b>
+
+227
+00:11:26,480 --> 00:11:27,960
+<b>Que está en la Sala de Espera.</b>
+
+228
+00:11:29,840 --> 00:11:33,240
+<b>¿Por qué me haces hacer esto?
+¿No podríamos jugar, no sé,</b>
+
+229
+00:11:33,640 --> 00:11:35,000
+<b>a un juego de mesa?</b>
+
+230
+00:11:35,080 --> 00:11:36,800
+<b>No va a pasar nada.</b>
+
+231
+00:11:36,880 --> 00:11:37,800
+<b>¡Exacto!</b>
+
+232
+00:11:38,360 --> 00:11:39,200
+<b>Cállate.</b>
+
+233
+00:11:39,280 --> 00:11:40,200
+<b>¡Teddy!</b>
+
+234
+00:11:40,600 --> 00:11:42,120
+<b>Teddy, cierra eso, por favor.</b>
+
+235
+00:11:42,200 --> 00:11:43,880
+<b>La dejo entrar.
+¿Están listos?</b>
+
+236
+00:11:44,240 --> 00:11:45,200
+<b>- Sí.
+- No.</b>
+
+237
+00:11:45,280 --> 00:11:46,480
+<b>Hagámoslo.</b>
+
+238
+00:11:47,120 --> 00:11:48,080
+<b>Estoy bromeando.</b>
+
+239
+00:11:48,480 --> 00:11:50,600
+<b>Sean respetuosos, por favor.</b>
+
+240
+00:11:51,000 --> 00:11:52,400
+<b>La uniré a la reunión.</b>
+
+241
+00:11:53,240 --> 00:11:54,240
+<b>Hola, Seylan.</b>
+
+242
+00:11:54,320 --> 00:11:55,440
+<b>Hola. ¿Me escuchan?</b>
+
+243
+00:11:55,520 --> 00:11:56,600
+<b>Hola.</b>
+
+244
+00:11:56,680 --> 00:11:58,480
+<b>- ¿Cómo estás?
+- Hola, Haley. ¿Cómo están?</b>
+
+245
+00:11:58,560 --> 00:12:00,520
+<b>- Hola, todos.
+- Un gusto conocerte.</b>
+
+246
+00:12:01,120 --> 00:12:02,240
+<b>Para mí también.</b>
+
+247
+00:12:02,320 --> 00:12:04,400
+<b>Muchas gracias por invitarme.</b>
+
+248
+00:12:04,480 --> 00:12:08,360
+<b>Confieso que nunca antes
+hice esto por Zoom.</b>
+
+249
+00:12:08,440 --> 00:12:11,520
+<b>Será algo nuevo para todos,
+debería ser divertido.</b>
+
+250
+00:12:11,600 --> 00:12:15,280
+<b>¿Les habló Haley
+sobre los objetos disparadores?</b>
+
+251
+00:12:15,360 --> 00:12:18,040
+<b>Un objeto que debe estar</b>
+
+252
+00:12:18,560 --> 00:12:22,320
+<b>vinculado a la persona
+con quien deseen hablar esta noche.</b>
+
+253
+00:12:22,400 --> 00:12:23,800
+<b>- ¿Todos tienen algo?
+- Sí.</b>
+
+254
+00:12:23,880 --> 00:12:25,160
+<b>- Bien.
+- Sí.</b>
+
+255
+00:12:25,240 --> 00:12:27,240
+<b>¿Puedo preguntar algo?</b>
+
+256
+00:12:27,320 --> 00:12:30,960
+<b>Si mis abuelos son chinos</b>
+
+257
+00:12:31,040 --> 00:12:33,280
+<b>y yo, inglesa, que no hablo chino,</b>
+
+258
+00:12:33,360 --> 00:12:36,840
+<b>¿significa que no seré capaz
+de comunicarme con ellos?</b>
+
+259
+00:12:36,920 --> 00:12:39,920
+<b>No. Para nada.
+El plano astral no tiene lenguaje,</b>
+
+260
+00:12:40,000 --> 00:12:43,000
+<b>así que si ellos
+quieren comunicarse contigo,</b>
+
+261
+00:12:43,080 --> 00:12:44,480
+<b>te lo harán saber.</b>
+
+262
+00:12:44,840 --> 00:12:45,840
+<b>Bien.</b>
+
+263
+00:12:45,920 --> 00:12:47,440
+<b>Puede parecer tonto,</b>
+
+264
+00:12:47,520 --> 00:12:50,120
+<b>¿pero podría conectarme
+con una mascota muerta?</b>
+
+265
+00:12:50,200 --> 00:12:51,280
+<b>Absolutamente.</b>
+
+266
+00:12:51,360 --> 00:12:53,200
+<b>En el plano astral no hay lenguaje.</b>
+
+267
+00:12:53,280 --> 00:12:56,920
+<b>Si tienes en cuenta que las leyes
+son diferentes a las de aquí,</b>
+
+268
+00:12:57,000 --> 00:13:00,160
+<b>es posible que puedas hablar
+con tu mascota.</b>
+
+269
+00:13:00,240 --> 00:13:01,280
+<b>Sí, por supuesto.</b>
+
+270
+00:13:01,360 --> 00:13:03,200
+<b>¿Ya podemos encender estas?</b>
+
+271
+00:13:03,280 --> 00:13:05,040
+<b>Sí. Enciendan sus velas.</b>
+
+272
+00:13:05,120 --> 00:13:08,640
+<b>La vela será nuestro foco orientador
+e incentivará al espíritu.</b>
+
+273
+00:13:08,720 --> 00:13:11,520
+<b>Le dará una señal
+para que se acerque.</b>
+
+274
+00:13:11,600 --> 00:13:13,640
+<b>Quiero que busquen</b>
+
+275
+00:13:15,000 --> 00:13:17,640
+<b>la clase de respuestas
+que pueden obtener del espíritu.</b>
+
+276
+00:13:17,720 --> 00:13:20,880
+<b>Puede ser un nombre o un rostro,</b>
+
+277
+00:13:20,960 --> 00:13:22,880
+<b>una imagen que venga directo
+a sus mentes,</b>
+
+278
+00:13:22,960 --> 00:13:26,720
+<b>pero también pueden ser cosas físicas,
+como un golpe,</b>
+
+279
+00:13:26,800 --> 00:13:30,360
+<b>o tal vez vean parpadear
+la luz de las velas.</b>
+
+280
+00:13:30,440 --> 00:13:32,840
+<b>Podrían sentir un roce,</b>
+
+281
+00:13:32,920 --> 00:13:34,880
+<b>o presión en alguna parte del cuerpo.</b>
+
+282
+00:13:34,960 --> 00:13:37,360
+<b>Tengan en cuenta ese tipo de cosas.</b>
+
+283
+00:13:37,440 --> 00:13:40,320
+<b>Antes de empezar,
+¿cómo se llamaba el plano?</b>
+
+284
+00:13:40,880 --> 00:13:42,200
+<b>El plano astral.</b>
+
+285
+00:13:42,280 --> 00:13:43,400
+<b>Cierto.</b>
+
+286
+00:13:43,480 --> 00:13:46,000
+<b>Como estamos haciendo esto por Zoom,</b>
+
+287
+00:13:46,080 --> 00:13:51,000
+<b>estamos levemente menos protegidos
+de lo que deberíamos estar.</b>
+
+288
+00:13:51,080 --> 00:13:54,400
+<b>Así que es muy importante
+que respeten a los espíritus</b>
+
+289
+00:13:54,480 --> 00:13:55,880
+<b>y se respeten entre ustedes.</b>
+
+290
+00:13:55,960 --> 00:14:00,640
+<b>¿Alguien está preocupado
+o se siente vulnerable?</b>
+
+291
+00:14:01,080 --> 00:14:02,760
+<b>Sí, Emma y Caroline.</b>
+
+292
+00:14:02,840 --> 00:14:06,280
+<b>Bien, les mostraré un proceso
+que pueden hacer en todo momento.</b>
+
+293
+00:14:06,360 --> 00:14:09,000
+<b>Normalmente, estaríamos en un círculo,
+tomados de la mano</b>
+
+294
+00:14:09,080 --> 00:14:10,480
+<b>con una vela en el centro.</b>
+
+295
+00:14:10,560 --> 00:14:14,640
+<b>Como no estamos todos en el mismo lugar,
+vamos a visualizar el círculo,</b>
+
+296
+00:14:14,720 --> 00:14:17,720
+<b>y a nosotros rompiendo ese círculo.</b>
+
+297
+00:14:17,800 --> 00:14:20,480
+<b>Y como precaución adicional
+quiero que visualicen</b>
+
+298
+00:14:20,560 --> 00:14:23,160
+<b>un lazo o una soga alrededor de la cintura</b>
+
+299
+00:14:23,240 --> 00:14:25,440
+<b>que va hacia la puerta de entrada,</b>
+
+300
+00:14:25,800 --> 00:14:28,960
+<b>y que luego se visualicen cortándolo
+con un cuchillo o tijera,</b>
+
+301
+00:14:29,040 --> 00:14:31,000
+<b>lo que prefieran. Solo háganlo real.</b>
+
+302
+00:14:31,080 --> 00:14:34,280
+<b>Y eso cortará la conexión
+con el reino de los espíritus.</b>
+
+303
+00:14:34,360 --> 00:14:39,200
+<b>Bien. Ahora voy a conectar
+algunos tonos isotrónicos</b>
+
+304
+00:14:39,640 --> 00:14:42,200
+<b>que ayudarán a que nuestra energía</b>
+
+305
+00:14:42,280 --> 00:14:44,960
+<b>se una a las vibraciones
+del plano espiritual.</b>
+
+306
+00:14:45,520 --> 00:14:49,080
+<b>Bien, ahora, cierren los ojos</b>
+
+307
+00:14:50,680 --> 00:14:53,560
+<b>y visualicen ese círculo.</b>
+
+308
+00:15:07,160 --> 00:15:08,400
+<b>Lo siento, chicas.</b>
+
+309
+00:15:18,960 --> 00:15:20,000
+<b>Teddy.</b>
+
+310
+00:15:20,560 --> 00:15:22,200
+<b>Ted, ¡Ted!</b>
+
+311
+00:15:22,280 --> 00:15:24,760
+<b>Disculpen, pero Ted
+se tiene que ir. Adiós.</b>
+
+312
+00:15:24,840 --> 00:15:26,400
+<b>- ¿En serio?
+- Vaya.</b>
+
+313
+00:15:26,480 --> 00:15:29,880
+<b>- ¿Se fue?
+- Es una pesada maldita.</b>
+
+314
+00:15:29,960 --> 00:15:32,480
+<b>- Qué perra.
+- ¿No podía dejarlo dos minutos?</b>
+
+315
+00:15:32,880 --> 00:15:35,800
+<b>No se preocupen.
+No dejemos que eso nos altere.</b>
+
+316
+00:15:36,120 --> 00:15:38,040
+<b>Sigamos enfocadas.</b>
+
+317
+00:15:38,120 --> 00:15:41,520
+<b>Está claro que no estamos
+físicamente juntos</b>
+
+318
+00:15:41,600 --> 00:15:44,360
+<b>pero no hay razón
+para que un espíritu no pueda</b>
+
+319
+00:15:44,440 --> 00:15:47,480
+<b>comunicarse con nosotras por Internet.</b>
+
+320
+00:15:47,560 --> 00:15:50,000
+<b>Todas podemos ser
+un canal de comunicación,</b>
+
+321
+00:15:50,080 --> 00:15:52,480
+<b>ser poseídas. Ahora...</b>
+
+322
+00:15:52,560 --> 00:15:54,800
+<b>- ¿Poseídas?
+- Que no te asuste esa palabra.</b>
+
+323
+00:15:54,880 --> 00:15:58,560
+<b>Significa que el espíritu
+se está comunicando a través nuestro.</b>
+
+324
+00:15:58,640 --> 00:16:02,240
+<b>Se le dice "posesión",
+pero no se trata de algo negativo.</b>
+
+325
+00:16:02,320 --> 00:16:07,280
+<b>Ahora me gustaría, que por favor,
+visualicen un círculo.</b>
+
+326
+00:16:08,480 --> 00:16:10,600
+<b>Imaginémonos en una misma habitación,</b>
+
+327
+00:16:11,920 --> 00:16:13,240
+<b>sentadas en círculo</b>
+
+328
+00:16:14,280 --> 00:16:18,000
+<b>y nos tomamos suavemente de las manos.</b>
+
+329
+00:16:18,320 --> 00:16:19,520
+<b>Espíritu,</b>
+
+330
+00:16:20,400 --> 00:16:22,640
+<b>te invitamos a que nos utilices</b>
+
+331
+00:16:22,720 --> 00:16:25,960
+<b>para transmitir cualquier mensaje
+que tengas para darnos.</b>
+
+332
+00:16:26,600 --> 00:16:28,440
+<b>¿Hay alguien aquí?</b>
+
+333
+00:16:28,520 --> 00:16:29,760
+<b>Acércate, por favor.</b>
+
+334
+00:16:30,240 --> 00:16:31,440
+<b>Todas juntas.</b>
+
+335
+00:16:31,920 --> 00:16:34,120
+<b>¿Hay alguien aquí?</b>
+
+336
+00:16:34,200 --> 00:16:36,680
+<b>Acércate, por favor.</b>
+
+337
+00:16:37,400 --> 00:16:38,240
+<b>Bien.</b>
+
+338
+00:16:40,960 --> 00:16:42,480
+<b>Quiero que me digan</b>
+
+339
+00:16:43,320 --> 00:16:45,440
+<b>si les viene algo a la mente.</b>
+
+340
+00:16:46,040 --> 00:16:48,680
+<b>Un nombre, un rostro.</b>
+
+341
+00:16:49,720 --> 00:16:51,560
+<b>Si escuchan algún ruido.</b>
+
+342
+00:16:54,680 --> 00:16:58,480
+<b>Radina, no quiero ponerte nerviosa, pero,</b>
+
+343
+00:16:59,640 --> 00:17:02,680
+<b>¿alguien vio que algo pasó por detrás?</b>
+
+344
+00:17:02,760 --> 00:17:05,839
+<b>Sí, es como una luz moviéndose.</b>
+
+345
+00:17:05,920 --> 00:17:08,400
+<b>Sí, pero noto que hay algo en el medio.</b>
+
+346
+00:17:08,480 --> 00:17:09,880
+<b>Quizás un reflejo o algo así.</b>
+
+347
+00:17:09,960 --> 00:17:11,720
+<b>Mi heladera tiene una luz.</b>
+
+348
+00:17:12,359 --> 00:17:13,920
+<b>Se mueve.</b>
+
+349
+00:17:14,000 --> 00:17:15,960
+<b>No, esto es diferente.</b>
+
+350
+00:17:16,040 --> 00:17:18,440
+<b>Era una luz que estaba quieta
+y ahora se mueve.</b>
+
+351
+00:17:18,520 --> 00:17:21,240
+<b>Y se mueve bastante detrás de ti.</b>
+
+352
+00:17:22,040 --> 00:17:23,920
+<b>Creo... Esperen, esperen.</b>
+
+353
+00:17:24,000 --> 00:17:25,640
+<b>Puedo convertirlo en un tercer ojo.</b>
+
+354
+00:17:26,800 --> 00:17:28,160
+<b>Ahora está sobre la cara.</b>
+
+355
+00:17:32,280 --> 00:17:33,320
+<b>¿Qué fue eso?</b>
+
+356
+00:17:34,000 --> 00:17:35,880
+<b>- Bueno...
+- Haley, ¿fuiste tú?</b>
+
+357
+00:17:35,960 --> 00:17:37,280
+<b>No, yo no hice nada.</b>
+
+358
+00:17:38,960 --> 00:17:40,520
+<b>¿Escucharon eso?</b>
+
+359
+00:17:40,600 --> 00:17:42,960
+<b>- Yo lo escuché.
+- Escuché algo.</b>
+
+360
+00:17:43,480 --> 00:17:44,920
+<b>Escuchen.</b>
+
+361
+00:17:45,000 --> 00:17:46,280
+<b>Espíritu,</b>
+
+362
+00:17:46,920 --> 00:17:50,840
+<b>si estás tratando de darnos una señal,
+por favor, golpea una vez más.</b>
+
+363
+00:18:02,360 --> 00:18:05,440
+<b>¡Lo siento!
+Debe ser mi pedido.</b>
+
+364
+00:18:05,520 --> 00:18:07,280
+<b>Regreso enseguida.</b>
+
+365
+00:18:11,440 --> 00:18:12,720
+<b>¡Por Dios!</b>
+
+366
+00:18:13,080 --> 00:18:15,400
+<b>Lo siento, llegó el pedido.</b>
+
+367
+00:18:15,720 --> 00:18:17,840
+<b>Llegó mi comida a domicilio.</b>
+
+368
+00:18:17,920 --> 00:18:20,600
+<b>Estoy sintiendo un ruido.</b>
+
+369
+00:18:20,680 --> 00:18:21,720
+<b>Siento...</b>
+
+370
+00:18:21,800 --> 00:18:23,360
+<b>berenjenas...</b>
+
+371
+00:18:24,000 --> 00:18:25,800
+<b>un frasco de tahini.</b>
+
+372
+00:18:27,320 --> 00:18:29,360
+<b>¿Alguien más está sintiendo algo?</b>
+
+373
+00:18:29,440 --> 00:18:31,720
+<b>No, solo escucho a los vecinos.</b>
+
+374
+00:18:31,800 --> 00:18:33,800
+<b>¿No volvió? ¿Dónde está?</b>
+
+375
+00:18:39,720 --> 00:18:42,280
+<b>Su casa da miedo en la oscuridad.</b>
+
+376
+00:18:53,560 --> 00:18:54,400
+<b>¿Seylan?</b>
+
+377
+00:18:57,240 --> 00:18:58,400
+<b>¿Le estamos pagando?</b>
+
+378
+00:18:58,480 --> 00:19:00,400
+<b>- Ahí está.
+- ¡Volvió!</b>
+
+379
+00:19:00,920 --> 00:19:04,480
+<b>Hola, chicas. De verdad, lo siento.
+Perdón, perdón, perdón.</b>
+
+380
+00:19:04,560 --> 00:19:06,760
+<b>Debería haber llegado antes de la sesión.</b>
+
+381
+00:19:07,360 --> 00:19:08,640
+<b>Lo siento mucho.</b>
+
+382
+00:19:08,720 --> 00:19:11,040
+<b>¿Retomamos donde quedamos?</b>
+
+383
+00:19:11,120 --> 00:19:14,080
+<b>- Sí.
+- Concentrémonos un poco más.</b>
+
+384
+00:19:16,320 --> 00:19:18,600
+<b>¿Alguien está recibiendo un nombre?</b>
+
+385
+00:19:21,920 --> 00:19:23,040
+<b>¿Vieron eso?</b>
+
+386
+00:19:23,120 --> 00:19:24,240
+<b>¿Qué pasó?</b>
+
+387
+00:19:24,880 --> 00:19:27,240
+<b>Sentí como una mano
+sobre mi hombro.</b>
+
+388
+00:19:34,480 --> 00:19:35,760
+<b>¿Jemma?</b>
+
+389
+00:19:35,840 --> 00:19:37,600
+<b>- Jemma, ¿estás bien?
+- ¿Qué fue eso?</b>
+
+390
+00:19:38,000 --> 00:19:39,720
+<b>Dios mío, Dios mío.</b>
+
+391
+00:19:40,920 --> 00:19:42,240
+<b>¡Algo me tocó el cuello!</b>
+
+392
+00:19:47,080 --> 00:19:48,960
+<b>Jemma, ¿quieres hablar con nosotras?</b>
+
+393
+00:19:55,920 --> 00:19:58,120
+<b>Intenta hacerle una pregunta, Jemma.</b>
+
+394
+00:19:58,800 --> 00:20:02,360
+<b>La presión en mi cuello
+es casi insoportable.</b>
+
+395
+00:20:07,400 --> 00:20:09,640
+<b>¿Quieres llamarlo y preguntarle quién es?</b>
+
+396
+00:20:09,720 --> 00:20:12,360
+<b>Tal vez un nombre venga a tu mente, o...</b>
+
+397
+00:20:16,080 --> 00:20:17,200
+<b>¿Hola?</b>
+
+398
+00:20:19,760 --> 00:20:20,640
+<b>¿Hay...?</b>
+
+399
+00:20:21,960 --> 00:20:23,280
+<b>¿Hay alguien aquí?</b>
+
+400
+00:20:30,640 --> 00:20:32,560
+<b>El nombre Jack vino a mi mente.</b>
+
+401
+00:20:33,520 --> 00:20:34,520
+<b>Bien.</b>
+
+402
+00:20:35,320 --> 00:20:36,480
+<b>Eso es bueno.</b>
+
+403
+00:20:37,600 --> 00:20:40,160
+<b>¿Conoces a algún Jack
+que haya muerto?</b>
+
+404
+00:20:40,920 --> 00:20:41,840
+<b>Sí.</b>
+
+405
+00:20:45,920 --> 00:20:47,600
+<b>Un niño de la escuela.</b>
+
+406
+00:20:52,520 --> 00:20:55,840
+<b>Fue muy bueno conmigo una vez.
+Me partí la cabeza</b>
+
+407
+00:20:57,160 --> 00:20:58,840
+<b>y él me ayudó a levantarme.</b>
+
+408
+00:21:05,680 --> 00:21:07,520
+<b>Se ahorcó.</b>
+
+409
+00:21:13,600 --> 00:21:15,960
+<b>Escucha, Jemma, quiero que...</b>
+
+410
+00:21:18,920 --> 00:21:20,280
+<b>¿Adónde fue Seylan?</b>
+
+411
+00:21:20,880 --> 00:21:23,160
+<b>Tal vez tenga mala conexión.</b>
+
+412
+00:21:23,560 --> 00:21:26,120
+<b>- ¿La puedes llamar, Haley?
+- Sí.</b>
+
+413
+00:21:26,760 --> 00:21:28,520
+<b>Jemma, ¿estás bien?</b>
+
+414
+00:21:28,600 --> 00:21:29,840
+<b>¿Estás bien, Jemma?</b>
+
+415
+00:21:36,600 --> 00:21:37,760
+<b>Por Dios.</b>
+
+416
+00:21:37,840 --> 00:21:38,680
+<b>¿Qué?</b>
+
+417
+00:21:38,760 --> 00:21:41,240
+<b>- Perra.
+- No.</b>
+
+418
+00:21:41,320 --> 00:21:43,240
+<b>No lo hiciste.</b>
+
+419
+00:21:43,320 --> 00:21:45,040
+<b>Dios mío.</b>
+
+420
+00:21:45,440 --> 00:21:46,640
+<b>¡No, Jemma!</b>
+
+421
+00:21:47,240 --> 00:21:48,560
+<b>¿Inventaste eso?</b>
+
+422
+00:21:49,480 --> 00:21:50,880
+<b>Jemma, eres una psicópata.</b>
+
+423
+00:21:50,960 --> 00:21:53,000
+<b>No tiene importancia.</b>
+
+424
+00:21:53,080 --> 00:21:54,800
+<b>Jemma, yo te creí.</b>
+
+425
+00:21:54,880 --> 00:21:58,680
+<b>Lo siento tanto.
+Nadie decía nada.</b>
+
+426
+00:21:58,760 --> 00:22:01,600
+<b>Yo, en cambio, pensé que ibas a morir.</b>
+
+427
+00:22:03,040 --> 00:22:04,080
+<b>¿Y Seylan?</b>
+
+428
+00:22:05,840 --> 00:22:08,480
+<b>¿Qué pasó? Ni siquiera vi lo que pasó.</b>
+
+429
+00:22:08,840 --> 00:22:10,480
+<b>No sé, se fue.
+Voy al baño.</b>
+
+430
+00:22:12,520 --> 00:22:13,880
+<b>Yo también.</b>
+
+431
+00:22:17,120 --> 00:22:19,040
+<b>Terminaré destruida
+si seguimos con esto.</b>
+
+432
+00:22:19,560 --> 00:22:20,680
+<b>Necesito agua.</b>
+
+433
+00:22:53,840 --> 00:22:54,800
+<b>¿Lista, Haley?</b>
+
+434
+00:22:55,800 --> 00:22:56,720
+<b>Sí.</b>
+
+435
+00:23:03,680 --> 00:23:04,760
+<b>Esperen.</b>
+
+436
+00:23:07,600 --> 00:23:11,360
+<b>Percibo algo de... tensión.</b>
+
+437
+00:23:12,240 --> 00:23:13,120
+<b>Pero...</b>
+
+438
+00:23:13,880 --> 00:23:15,640
+<b>se me acaba de venir un nombre.</b>
+
+439
+00:23:18,560 --> 00:23:19,480
+<b>Haley.</b>
+
+440
+00:23:22,720 --> 00:23:24,440
+<b>Haley.</b>
+
+441
+00:23:25,640 --> 00:23:26,520
+<b>¡Haley!</b>
+
+442
+00:23:26,600 --> 00:23:28,000
+<b>Vete al diablo, Jemma.</b>
+
+443
+00:23:28,520 --> 00:23:30,520
+<b>- ¡No!
+- ¡Chicas!</b>
+
+444
+00:23:30,600 --> 00:23:32,000
+<b>Haley no sabe divertirse.</b>
+
+445
+00:23:32,080 --> 00:23:33,840
+<b>No te lo tomaste en serio.</b>
+
+446
+00:23:33,920 --> 00:23:37,280
+<b>- Cállate. Estoy harta.
+- Pasemos una buena noche.</b>
+
+447
+00:23:37,360 --> 00:23:39,400
+<b>¿Por qué tiene que ser esta noche?</b>
+
+448
+00:23:39,480 --> 00:23:41,800
+<b>¿Sabes qué, Jemma?
+Si nadie tenía...</b>
+
+449
+00:23:49,600 --> 00:23:50,720
+<b>Haley, ¿qué pasó?</b>
+
+450
+00:23:50,800 --> 00:23:51,960
+<b>Maldición.</b>
+
+451
+00:23:54,920 --> 00:23:55,880
+<b>¿Haley?</b>
+
+452
+00:23:58,400 --> 00:24:00,040
+<b>Creo que hay algo aquí.</b>
+
+453
+00:24:00,120 --> 00:24:01,800
+<b>Haley, ya basta, por favor.</b>
+
+454
+00:24:01,880 --> 00:24:03,400
+<b>Yo no fui, lo juro.</b>
+
+455
+00:24:05,760 --> 00:24:07,000
+<b>Tenemos que continuar.</b>
+
+456
+00:24:07,080 --> 00:24:09,080
+<b>- No.
+- Por favor...</b>
+
+457
+00:24:09,760 --> 00:24:12,520
+<b>Con algo nos comunicamos.
+Tenemos que hablarle.</b>
+
+458
+00:24:12,600 --> 00:24:14,640
+<b>- Lo voy a llamar.
+- ¡No, no!</b>
+
+459
+00:24:14,720 --> 00:24:17,600
+<b>¿Hay alguien aquí?
+¿Alguien me quiere hablar?</b>
+
+460
+00:24:18,160 --> 00:24:19,120
+<b>Apaga las luces.</b>
+
+461
+00:24:19,200 --> 00:24:21,640
+<b>Haley, si me muero,
+yo misma te voy a perseguir.</b>
+
+462
+00:24:21,960 --> 00:24:22,800
+<b>Escuchen.</b>
+
+463
+00:24:33,600 --> 00:24:34,480
+<b>Escuché algo.</b>
+
+464
+00:24:35,240 --> 00:24:37,840
+<b>Sube el micrófono. Súbelo.</b>
+
+465
+00:24:38,800 --> 00:24:40,960
+<b>AJUSTES DE AUDIO</b>
+
+466
+00:24:42,480 --> 00:24:44,440
+<b>VOLUMEN DE SALIDA</b>
+
+467
+00:24:58,400 --> 00:24:59,480
+<b>¿Hay alguien aquí?</b>
+
+468
+00:25:36,520 --> 00:25:37,720
+<b>No me gusta esto.</b>
+
+469
+00:26:24,920 --> 00:26:25,960
+<b>¿Qué fue eso?</b>
+
+470
+00:26:26,040 --> 00:26:27,280
+<b>Escuché algo.</b>
+
+471
+00:26:28,440 --> 00:26:29,760
+<b>No fue en mi casa.</b>
+
+472
+00:26:37,280 --> 00:26:39,720
+<b>Caroline, tienes que ir a ver.</b>
+
+473
+00:26:40,360 --> 00:26:43,040
+<b>No hagas eso.
+Es una idea estúpida.</b>
+
+474
+00:26:48,200 --> 00:26:50,160
+<b>Seguro que no es nada.
+Está bien.</b>
+
+475
+00:26:50,720 --> 00:26:51,680
+<b>Ve a ver.</b>
+
+476
+00:27:12,360 --> 00:27:13,400
+<b>¿Papá?</b>
+
+477
+00:27:24,200 --> 00:27:25,240
+<b>¿Qué sucede?</b>
+
+478
+00:28:03,160 --> 00:28:04,760
+<b>Probablemente no sea nada.</b>
+
+479
+00:28:06,080 --> 00:28:07,480
+<b>Ten cuidado.</b>
+
+480
+00:28:07,560 --> 00:28:08,920
+<b>Caroline, llévanos arriba.</b>
+
+481
+00:28:19,760 --> 00:28:21,640
+<b>Ve, Caroline. Está bien.</b>
+
+482
+00:28:24,240 --> 00:28:25,120
+<b>Todo va a estar bien.</b>
+
+483
+00:28:38,680 --> 00:28:39,960
+<b>No, no.</b>
+
+484
+00:28:40,800 --> 00:28:41,760
+<b>¿Qué haces, Caroline?</b>
+
+485
+00:29:12,680 --> 00:29:13,720
+<b>Todo saldrá bien.</b>
+
+486
+00:29:13,800 --> 00:29:15,720
+<b>Ve, Caroline. Tranquila.</b>
+
+487
+00:29:16,120 --> 00:29:17,080
+<b>Estamos aquí.</b>
+
+488
+00:29:28,960 --> 00:29:30,200
+<b>Díganme lo que ven.</b>
+
+489
+00:29:39,320 --> 00:29:40,320
+<b>¿Ven algo?</b>
+
+490
+00:29:42,680 --> 00:29:44,880
+<b>- No hay nada.
+- No hay nada, solo cajas.</b>
+
+491
+00:29:45,680 --> 00:29:47,440
+<b>Ve hacia la escalera. Está bien.</b>
+
+492
+00:29:48,880 --> 00:29:49,840
+<b>Maldición.</b>
+
+493
+00:29:49,920 --> 00:29:51,920
+<b>- Caroline, regresa.
+- ¿Qué fue eso?</b>
+
+494
+00:29:52,520 --> 00:29:53,880
+<b>¿Qué fue eso?</b>
+
+495
+00:29:53,960 --> 00:29:55,280
+<b>Maldición.</b>
+
+496
+00:29:55,360 --> 00:29:57,120
+<b>- No veo nada.
+- Caroline, baja.</b>
+
+497
+00:29:57,600 --> 00:29:58,600
+<b>Caroline.</b>
+
+498
+00:30:00,800 --> 00:30:02,000
+<b>No te asustes.
+No te asustes.</b>
+
+499
+00:30:02,080 --> 00:30:03,000
+<b>¿Qué fue eso?</b>
+
+500
+00:30:03,080 --> 00:30:04,160
+<b>¿Qué diablos?</b>
+
+501
+00:30:04,240 --> 00:30:05,200
+<b>Yo vi algo.</b>
+
+502
+00:30:05,280 --> 00:30:06,720
+<b>Tienes que llamar a Seylan.</b>
+
+503
+00:30:07,200 --> 00:30:09,280
+<b>Sí, solo cálmate.</b>
+
+504
+00:30:09,360 --> 00:30:11,800
+<b>La voy a llamar.
+La estoy llamando.</b>
+
+505
+00:30:26,040 --> 00:30:27,320
+<b>Haley, ¿qué miras?</b>
+
+506
+00:30:31,440 --> 00:30:32,360
+<b>¿Ven eso?</b>
+
+507
+00:30:33,440 --> 00:30:34,280
+<b>No.</b>
+
+508
+00:30:34,360 --> 00:30:35,400
+<b>¿Qué?</b>
+
+509
+00:30:35,720 --> 00:30:37,160
+<b>¿Ustedes no ven nada?</b>
+
+510
+00:30:39,880 --> 00:30:40,920
+<b>Ahí no hay nada.</b>
+
+511
+00:30:46,040 --> 00:30:47,120
+<b>Haley, ¿qué sucede?</b>
+
+512
+00:30:53,240 --> 00:30:54,280
+<b>Me miró.</b>
+
+513
+00:31:32,520 --> 00:31:33,440
+<b>¿Qué es eso?</b>
+
+514
+00:31:33,880 --> 00:31:34,720
+<b>¿Qué diablos?</b>
+
+515
+00:31:41,520 --> 00:31:43,880
+<b>Maldición.
+Esto ya no es divertido.</b>
+
+516
+00:31:43,960 --> 00:31:45,360
+<b>Dejen de jugar.</b>
+
+517
+00:31:45,440 --> 00:31:47,400
+<b>Llama a Seylan, por favor.</b>
+
+518
+00:31:47,920 --> 00:31:48,960
+<b>Está llamando.</b>
+
+519
+00:31:52,120 --> 00:31:53,040
+<b><i>¿Hola?</i></b>
+
+520
+00:31:53,120 --> 00:31:54,000
+<b>¿Seylan?</b>
+
+521
+00:31:54,840 --> 00:31:56,280
+<b><i>Haley, ¿eres tú?</i></b>
+
+522
+00:31:56,360 --> 00:31:57,800
+<b>- Sí.
+- Lo siento tanto.</b>
+
+523
+00:31:57,880 --> 00:31:59,440
+<b><i>Mi Internet funciona mal.</i></b>
+
+524
+00:31:59,520 --> 00:32:02,840
+<b><i>No pude hacer que funcione.
+¿Cómo va todo?</i></b>
+
+525
+00:32:02,920 --> 00:32:05,760
+<b>Tuvimos algunas experiencias interesantes.</b>
+
+526
+00:32:06,280 --> 00:32:08,280
+<b>Caroline está asustada</b>
+
+527
+00:32:08,360 --> 00:32:10,240
+<b>así que queremos hablar contigo.</b>
+
+528
+00:32:10,600 --> 00:32:11,880
+<b><i>No hay problema.</i></b>
+
+529
+00:32:11,960 --> 00:32:15,320
+<b><i>Es bueno que hayan tenido una experiencia.
+Para eso estamos aquí.</i></b>
+
+530
+00:32:15,400 --> 00:32:17,600
+<b><i>Lamento no haber estado allí con ustedes,</i></b>
+
+531
+00:32:17,680 --> 00:32:19,360
+<b><i>¿me escuchan las demás?</i></b>
+
+532
+00:32:19,440 --> 00:32:20,360
+<b>Sí, te escuchan.</b>
+
+533
+00:32:20,440 --> 00:32:22,520
+<b><i>Bien. Escuchen, chicas, no se preocupen.</i></b>
+
+534
+00:32:23,160 --> 00:32:24,480
+<b>Apúrense.</b>
+
+535
+00:32:24,560 --> 00:32:28,840
+<b><i>Mantengamos la calma. Es solo alguien
+intentando pasar un mensaje.</i></b>
+
+536
+00:32:28,920 --> 00:32:31,440
+<b><i>Jemma, nos estabas contando
+sobre tu amigo, Jack.</i></b>
+
+537
+00:32:31,520 --> 00:32:35,120
+<b><i>Es muy probable que sea él.</i></b>
+
+538
+00:32:35,200 --> 00:32:37,640
+<b>¿Le preguntaste si era Jack?</b>
+
+539
+00:32:40,200 --> 00:32:42,560
+<b>No lo sé. Jemma.
+¿Le preguntamos si era Jack?</b>
+
+540
+00:32:47,840 --> 00:32:48,760
+<b>¡Dile!</b>
+
+541
+00:32:49,520 --> 00:32:50,440
+<b>Perdón.</b>
+
+542
+00:32:51,960 --> 00:32:53,040
+<b>Jack no es real.</b>
+
+543
+00:32:53,120 --> 00:32:54,880
+<b><i>¿Qué sucede? Espera.</i></b>
+
+544
+00:32:54,960 --> 00:32:56,080
+<b>Jack no es real.</b>
+
+545
+00:32:57,160 --> 00:32:58,160
+<b>Jemma lo inventó.</b>
+
+546
+00:32:58,640 --> 00:33:01,520
+<b><i>¿Jack existe</i></b>
+
+547
+00:33:01,600 --> 00:33:03,840
+<b><i>o Jack no existe?
+¿Ella no lo oyó?</i></b>
+
+548
+00:33:04,360 --> 00:33:06,280
+<b>No, Jack no existe para nada.</b>
+
+549
+00:33:08,520 --> 00:33:12,280
+<b><i>Les dije que no le faltaran
+el respeto a los espíritus.</i></b>
+
+550
+00:33:12,360 --> 00:33:14,720
+<b><i>Esto no está bien. Es malo.</i></b>
+
+551
+00:33:16,760 --> 00:33:21,160
+<b><i>Si inventamos
+una persona que no existe,</i></b>
+
+552
+00:33:21,240 --> 00:33:23,520
+<b><i>invocamos a un espíritu falso.</i></b>
+
+553
+00:33:25,000 --> 00:33:29,400
+<b><i>Si inventaste a esta persona,
+básicamente creaste,</i></b>
+
+554
+00:33:29,480 --> 00:33:31,520
+<b><i>algo así como una máscara</i></b>
+
+555
+00:33:31,600 --> 00:33:34,600
+<b><i>y ahora, cualquier cosa
+puede usar esa máscara</i></b>
+
+556
+00:33:34,680 --> 00:33:35,880
+<b><i>y no sabremos qué es.</i></b>
+
+557
+00:33:35,960 --> 00:33:38,760
+<b><i>Con suerte, será solo un espíritu.</i></b>
+
+558
+00:33:39,400 --> 00:33:41,400
+<b>¿Y si no tuvimos suerte?</b>
+
+559
+00:33:41,760 --> 00:33:45,440
+<b>Haley, pregúntale que pasa
+si no tuvimos suerte.</b>
+
+560
+00:33:46,120 --> 00:33:47,520
+<b>¿Y si no tuvimos suerte, Seylan?</b>
+
+561
+00:33:50,160 --> 00:33:51,800
+<b>Podría ser algo...</b>
+
+562
+00:33:52,600 --> 00:33:53,560
+<b>demoníaco.</b>
+
+563
+00:33:53,960 --> 00:33:57,440
+<b><i>Básicamente, Jemma
+envió una invitación,</i></b>
+
+564
+00:33:57,520 --> 00:33:58,760
+<b><i>una invitación abierta.</i></b>
+
+565
+00:33:59,320 --> 00:34:00,640
+<b><i>Necesitamos cerrar esto.</i></b>
+
+566
+00:34:00,720 --> 00:34:02,600
+<b><i>Debemos, como les dije,</i></b>
+
+567
+00:34:02,680 --> 00:34:05,080
+<b><i>agradecer a los espíritus</i></b>
+
+568
+00:34:05,520 --> 00:34:09,639
+<b><i>y terminar esto,
+y no se olviden de visualizar la soga.</i></b>
+
+569
+00:34:09,719 --> 00:34:12,520
+<b><i>¿De acuerdo? Así que, espíritus,</i></b>
+
+570
+00:34:13,719 --> 00:34:17,920
+<b><i>por favor, golpeen una vez por "sí"
+y dos veces por "no".</i></b>
+
+571
+00:34:18,360 --> 00:34:20,760
+<b><i>Preguntemos:
+"¿Tienes un mensaje para nosotras?"</i></b>
+
+572
+00:34:20,840 --> 00:34:23,560
+<b><i>Uno, dos, tres.</i></b>
+
+573
+00:34:24,239 --> 00:34:26,480
+<b><i>¿Tienes un mensaje para nosotras?</i></b>
+
+574
+00:34:28,719 --> 00:34:30,159
+<b>La luz se encendió.</b>
+
+575
+00:34:30,239 --> 00:34:32,600
+<b><i>Bien, Haley, fantástico.</i></b>
+
+576
+00:34:34,639 --> 00:34:36,280
+<b><i>Probemos con otra pregunta.</i></b>
+
+577
+00:34:37,520 --> 00:34:40,520
+<b><i>Preguntemos todas a la vez,
+"¿Eres un amigo?"</i></b>
+
+578
+00:34:41,000 --> 00:34:44,440
+<b><i>Uno, dos, tres.</i></b>
+
+579
+00:34:45,440 --> 00:34:47,719
+<b>¿Eres un amigo?</b>
+
+580
+00:34:52,320 --> 00:34:55,040
+<b>- ¿Seylan? ¿Estás ahí?
+- ¿Qué demonios está pasando?</b>
+
+581
+00:34:55,120 --> 00:34:56,520
+<b>Llámala de nuevo. Llámala ya.</b>
+
+582
+00:34:56,600 --> 00:34:58,640
+<b>Maldición, ella no contesta.</b>
+
+583
+00:34:59,640 --> 00:35:01,280
+<b>- Bien.
+- ¿Qué hacemos?</b>
+
+584
+00:35:01,360 --> 00:35:02,520
+<b>¿Qué hacemos?</b>
+
+585
+00:35:02,600 --> 00:35:05,200
+<b>- ¿Qué hacemos?
+- Un segundo. Sé que hacer.</b>
+
+586
+00:35:05,280 --> 00:35:07,480
+<b>Tenemos que hacer lo de la soga</b>
+
+587
+00:35:07,560 --> 00:35:10,920
+<b>y tienes que mantener la luz...</b>
+
+588
+00:35:11,000 --> 00:35:12,160
+<b>¡No sabes lo que haces!</b>
+
+589
+00:35:12,240 --> 00:35:15,160
+<b>¡Cállate, Jemma,
+cierra el pico un segundo!</b>
+
+590
+00:35:15,240 --> 00:35:16,280
+<b>Imaginen una soga,</b>
+
+591
+00:35:16,360 --> 00:35:18,040
+<b>una soga alrededor de la cintura.</b>
+
+592
+00:35:18,120 --> 00:35:19,400
+<b>Alrededor de la cintura.</b>
+
+593
+00:35:19,480 --> 00:35:23,080
+<b>De acuerdo. Perdona, espíritu.
+Perdona si te confundimos.</b>
+
+594
+00:35:23,160 --> 00:35:25,640
+<b>Repitan después de mí.
+Perdona si te confundimos.</b>
+
+595
+00:35:26,000 --> 00:35:27,880
+<b>Perdona si te confundimos.</b>
+
+596
+00:35:28,480 --> 00:35:30,520
+<b>Imagina la soga hasta la puerta,</b>
+
+597
+00:35:30,600 --> 00:35:32,000
+<b>y luego cortamos la soga.</b>
+
+598
+00:35:32,800 --> 00:35:35,520
+<b>- Está bien.
+- Imaginen que cortan la soga.</b>
+
+599
+00:35:36,840 --> 00:35:39,360
+<b>Bueno. Lo volveré a llamar.</b>
+
+600
+00:35:40,440 --> 00:35:41,640
+<b>¿Hay alguien aquí?</b>
+
+601
+00:35:44,280 --> 00:35:46,760
+<b>Y después abran los ojos,</b>
+
+602
+00:35:47,320 --> 00:35:49,480
+<b>apaguen las velas,
+y eso romperá el círculo.</b>
+
+603
+00:35:49,560 --> 00:35:51,360
+<b>Ya apagué mi vela.</b>
+
+604
+00:35:51,440 --> 00:35:52,720
+<b>Está bien. Tranquila.</b>
+
+605
+00:35:52,800 --> 00:35:55,920
+<b>Recuerden que ella dijo
+que era para guiarlos, así que está bien.</b>
+
+606
+00:36:05,680 --> 00:36:06,520
+<b>Salud.</b>
+
+607
+00:36:10,720 --> 00:36:12,040
+<b>Maldición.</b>
+
+608
+00:36:15,440 --> 00:36:16,800
+<b>Eso fue emocionante.</b>
+
+609
+00:36:16,880 --> 00:36:18,240
+<b>Por Dios. Tengo calor.</b>
+
+610
+00:36:19,760 --> 00:36:22,160
+<b>Huelo horrible, estoy toda transpirada.</b>
+
+611
+00:36:22,240 --> 00:36:23,240
+<b>Dios mío.</b>
+
+612
+00:36:25,960 --> 00:36:29,800
+<b>- Chicas, ¿qué diablos fue eso?
+- Por Dios.</b>
+
+613
+00:36:29,880 --> 00:36:31,600
+<b>Nunca más.</b>
+
+614
+00:36:36,560 --> 00:36:38,080
+<b>Radina, ¿estás en el baño?</b>
+
+615
+00:36:39,480 --> 00:36:40,560
+<b>Tal vez.</b>
+
+616
+00:36:42,560 --> 00:36:43,600
+<b>Me hice pis del miedo.</b>
+
+617
+00:36:44,000 --> 00:36:46,960
+<b>No iré sola a ningún lado
+después de todo esto.</b>
+
+618
+00:36:47,040 --> 00:36:48,080
+<b>Cállate.</b>
+
+619
+00:36:48,920 --> 00:36:50,080
+<b>¿Estás bien, Caroline?</b>
+
+620
+00:36:52,680 --> 00:36:54,080
+<b>Maldición, estoy perturbada.</b>
+
+621
+00:37:01,000 --> 00:37:03,240
+<b>Esta noche no voy a poder dormir.</b>
+
+622
+00:37:03,960 --> 00:37:05,120
+<b>Qué locura, chicas.</b>
+
+623
+00:37:05,200 --> 00:37:07,760
+<b>- ¿Alan?
+- Qué carajo, Emma, tu copa.</b>
+
+624
+00:37:08,320 --> 00:37:10,440
+<b>Lo juro por Dios.
+No hice nada.</b>
+
+625
+00:37:10,520 --> 00:37:12,160
+<b>Me resultó cara.</b>
+
+626
+00:37:14,480 --> 00:37:15,920
+<b>Cuando Teddy sepa de esto.</b>
+
+627
+00:37:16,000 --> 00:37:19,520
+<b>Él está por ahí comiendo comida china
+y nosotras casi morimos.</b>
+
+628
+00:37:19,600 --> 00:37:21,840
+<b>No veo la hora de contárselo a Teddy.</b>
+
+629
+00:37:21,920 --> 00:37:24,080
+<b>Se pondrá nervioso y volverá.</b>
+
+630
+00:37:24,160 --> 00:37:28,120
+<b>Nosotras vamos a estar como...
+"Amigo, te perdiste la tormenta".</b>
+
+631
+00:37:28,480 --> 00:37:31,160
+<b>Chicas, ¿alguna vio salir a Alan?</b>
+
+632
+00:37:33,040 --> 00:37:34,000
+<b>¿Dejó su teléfono?</b>
+
+633
+00:37:36,000 --> 00:37:38,360
+<b>Radina, ¿fue a comprar?</b>
+
+634
+00:37:39,040 --> 00:37:40,720
+<b>Quizás esté con su hermano.</b>
+
+635
+00:37:41,880 --> 00:37:42,800
+<b>Llámalo.</b>
+
+636
+00:37:47,040 --> 00:37:49,240
+<b>Mierda, acabo de terminarme
+la botella de vino.</b>
+
+637
+00:37:50,560 --> 00:37:52,840
+<b>Chicas, creo que me voy a ir a la...</b>
+
+638
+00:37:53,360 --> 00:37:54,560
+<b>Ha sido...</b>
+
+639
+00:37:56,760 --> 00:37:58,040
+<b>Emma, mi amor.</b>
+
+640
+00:37:58,120 --> 00:37:59,000
+<b>Adiós, mi querida.</b>
+
+641
+00:37:59,080 --> 00:38:00,280
+<b>Te quiero.</b>
+
+642
+00:38:00,360 --> 00:38:01,960
+<b>Adiós. Saludos.
+Hasta luego.</b>
+
+643
+00:38:02,040 --> 00:38:04,120
+<b>- Nos vemos.
+- Adiós, Haley.</b>
+
+644
+00:38:04,200 --> 00:38:06,080
+<b>Adiós, chicas.
+Hasta la próxima.</b>
+
+645
+00:38:06,160 --> 00:38:08,920
+<b>¿Pueden despedirse de Radina
+por mí, por favor?</b>
+
+646
+00:38:10,520 --> 00:38:12,560
+<b>Deberíamos esperar a que regrese.</b>
+
+647
+00:38:12,920 --> 00:38:14,680
+<b>No, yo me voy ahora.</b>
+
+648
+00:38:14,760 --> 00:38:16,040
+<b>Me voy.</b>
+
+649
+00:38:16,120 --> 00:38:17,760
+<b>¿Caroline?</b>
+
+650
+00:38:17,840 --> 00:38:18,920
+<b>¡Adiós!</b>
+
+651
+00:38:20,760 --> 00:38:21,960
+<b>¡Caroline!</b>
+
+652
+00:38:23,360 --> 00:38:24,200
+<b>Ahí está.</b>
+
+653
+00:38:24,920 --> 00:38:25,920
+<b>Caroline.</b>
+
+654
+00:38:26,560 --> 00:38:27,680
+<b>¡Hola, amiga!</b>
+
+655
+00:38:28,440 --> 00:38:30,360
+<b>¿Caroline?
+¿Activó el sonido?</b>
+
+656
+00:38:30,760 --> 00:38:32,200
+<b>¿Caroline?</b>
+
+657
+00:38:32,840 --> 00:38:33,840
+<b>Creo que sí.</b>
+
+658
+00:38:34,400 --> 00:38:35,760
+<b>Hola, amiga.</b>
+
+659
+00:38:36,880 --> 00:38:39,560
+<b>Esperen, ¿ese no es su fondo de pantalla?</b>
+
+660
+00:38:40,560 --> 00:38:42,080
+<b>Tienes razón, sí.</b>
+
+661
+00:38:42,160 --> 00:38:43,440
+<b>La voy a llamar.</b>
+
+662
+00:38:49,720 --> 00:38:50,680
+<b>¿Qué fue eso?</b>
+
+663
+00:38:51,440 --> 00:38:52,960
+<b>Caroline, ¿nos escuchas?</b>
+
+664
+00:38:53,280 --> 00:38:54,840
+<b>Creo que su laptop se cayó.</b>
+
+665
+00:38:54,920 --> 00:38:57,080
+<b>- ¡Caroline!
+- La voy a llamar.</b>
+
+666
+00:38:57,840 --> 00:38:58,840
+<b>¿Qué...?</b>
+
+667
+00:39:02,760 --> 00:39:03,960
+<b>¡Emma!</b>
+
+668
+00:39:04,480 --> 00:39:06,760
+<b>Emma, apaga los filtros, vamos.</b>
+
+669
+00:39:14,480 --> 00:39:15,440
+<b>¡Emma!</b>
+
+670
+00:39:20,240 --> 00:39:22,160
+<b><i>Hola, soy Caroline.
+No me dejes mensaje.</i></b>
+
+671
+00:39:22,240 --> 00:39:24,280
+<b><i>Envíame un SMS como corresponde.</i></b>
+
+672
+00:39:27,240 --> 00:39:28,280
+<b>Emma.</b>
+
+673
+00:39:38,560 --> 00:39:39,520
+<b>Mierda.</b>
+
+674
+00:39:47,240 --> 00:39:48,520
+<b>¿Qué estás haciendo?</b>
+
+675
+00:39:48,600 --> 00:39:49,520
+<b>No.</b>
+
+676
+00:39:57,240 --> 00:39:58,280
+<b>¿Emma?</b>
+
+677
+00:39:58,360 --> 00:39:59,680
+<b>Está bien.</b>
+
+678
+00:40:06,120 --> 00:40:07,360
+<b>Se fue. Vamos.</b>
+
+679
+00:40:11,560 --> 00:40:12,480
+<b>Emma.</b>
+
+680
+00:40:13,680 --> 00:40:15,240
+<b>¡Emma, sal!</b>
+
+681
+00:40:15,320 --> 00:40:16,880
+<b>¡Sal de ahí ahora!</b>
+
+682
+00:40:16,960 --> 00:40:18,720
+<b>¡Emma! ¡Emma, sal!</b>
+
+683
+00:40:21,920 --> 00:40:23,080
+<b>¡Emma! ¿Qué fue eso?</b>
+
+684
+00:40:24,600 --> 00:40:26,080
+<b>¿Qué fue eso?</b>
+
+685
+00:40:26,160 --> 00:40:27,120
+<b>Carajo.</b>
+
+686
+00:40:32,280 --> 00:40:34,040
+<b>Emma, tienes que salir de allí.</b>
+
+687
+00:40:41,960 --> 00:40:43,000
+<b>Emma...</b>
+
+688
+00:40:43,880 --> 00:40:44,840
+<b>Emma.</b>
+
+689
+00:40:46,120 --> 00:40:47,560
+<b>No, no, no vuelvas ahí.</b>
+
+690
+00:40:47,640 --> 00:40:48,480
+<b>Emma.</b>
+
+691
+00:40:58,920 --> 00:41:02,000
+<b>- ¡Emma, Emma, Emma!
+- ¡No vuelvas ahí!</b>
+
+692
+00:41:02,720 --> 00:41:03,680
+<b>¡Emma!</b>
+
+693
+00:41:08,360 --> 00:41:09,720
+<b>¡Ayúdame!</b>
+
+694
+00:41:12,280 --> 00:41:13,200
+<b>Dios mío.</b>
+
+695
+00:41:13,280 --> 00:41:15,760
+<b>Emma, háblanos. Háblanos.</b>
+
+696
+00:41:20,800 --> 00:41:22,160
+<b>Emma, ¿qué fue eso?</b>
+
+697
+00:41:22,720 --> 00:41:24,160
+<b>Emma, Emma, Emma.</b>
+
+698
+00:41:26,440 --> 00:41:27,400
+<b>Emma, tranquila.</b>
+
+699
+00:41:27,480 --> 00:41:29,040
+<b>Estamos aquí.</b>
+
+700
+00:41:31,240 --> 00:41:32,800
+<b>Todo va a estar bien.</b>
+
+701
+00:41:32,880 --> 00:41:36,480
+<b>Solo sal. Sal de esa casa, ¿sí?</b>
+
+702
+00:41:36,560 --> 00:41:38,600
+<b>Nosotras iremos. ¿Haley?</b>
+
+703
+00:41:38,680 --> 00:41:39,600
+<b>Haremos eso.</b>
+
+704
+00:41:39,680 --> 00:41:40,960
+<b>- Todas lo haremos.
+- ¡Radina!</b>
+
+705
+00:41:41,040 --> 00:41:42,440
+<b>- Espera.
+- ¡Radina!</b>
+
+706
+00:41:42,520 --> 00:41:44,240
+<b>Sal de la casa.</b>
+
+707
+00:41:44,320 --> 00:41:45,320
+<b>¡Radina!</b>
+
+708
+00:41:45,400 --> 00:41:46,240
+<b>¡Radina!</b>
+
+709
+00:41:46,320 --> 00:41:47,800
+<b>¡Radina! ¡No!</b>
+
+710
+00:41:47,880 --> 00:41:50,280
+<b>- ¡Radina, Radina, Radina!
+- ¡Mira aquí!</b>
+
+711
+00:41:50,360 --> 00:41:51,280
+<b>¿Qué?</b>
+
+712
+00:41:53,720 --> 00:41:54,640
+<b>¡Alan!</b>
+
+713
+00:41:54,720 --> 00:41:55,800
+<b>¡Alan!</b>
+
+714
+00:42:15,120 --> 00:42:18,720
+<b>DE CAROLINA PARA TODOS</b>
+
+715
+00:42:19,080 --> 00:42:20,160
+<b>¿Caroline?</b>
+
+716
+00:42:24,680 --> 00:42:26,320
+<b>No entendí lo que dijo.</b>
+
+717
+00:42:34,760 --> 00:42:35,920
+<b>¡Ayúdenme!</b>
+
+718
+00:42:38,720 --> 00:42:39,680
+<b>¡Por Dios!</b>
+
+719
+00:42:42,240 --> 00:42:43,320
+<b>¡Ayúdenme!</b>
+
+720
+00:42:44,840 --> 00:42:46,760
+<b>¡No! ¡No!</b>
+
+721
+00:43:00,160 --> 00:43:01,480
+<b>Voy a llamar Seylan.</b>
+
+722
+00:43:04,320 --> 00:43:05,240
+<b>Haley.</b>
+
+723
+00:43:07,280 --> 00:43:09,000
+<b>¡Haley, no! ¡Detente, Haley!</b>
+
+724
+00:43:09,080 --> 00:43:10,640
+<b>Haley, ¡todo esto es tu culpa!</b>
+
+725
+00:43:10,720 --> 00:43:13,000
+<b>¡No es culpa mía!
+Es tu puta...</b>
+
+726
+00:43:13,080 --> 00:43:16,640
+<b>¡Tú eres la que debería estar muerta!</b>
+
+727
+00:43:19,360 --> 00:43:21,040
+<b>¡Haley! Haley.</b>
+
+728
+00:43:21,960 --> 00:43:23,840
+<b>- ¡Haley!
+- ¡Cállate!</b>
+
+729
+00:43:26,640 --> 00:43:27,560
+<b>Haley.</b>
+
+730
+00:43:37,040 --> 00:43:37,960
+<b>Haley.</b>
+
+731
+00:43:43,000 --> 00:43:44,280
+<b>¡Haley, no!</b>
+
+732
+00:43:48,200 --> 00:43:49,040
+<b>Emma.</b>
+
+733
+00:43:52,840 --> 00:43:53,800
+<b>No.</b>
+
+734
+00:44:02,600 --> 00:44:03,640
+<b>¿Qué haces, Jemma?</b>
+
+735
+00:44:04,720 --> 00:44:05,680
+<b>Jemma, ¿adónde vas?</b>
+
+736
+00:44:05,760 --> 00:44:07,240
+<b>- Volveré.
+- ¡No!</b>
+
+737
+00:44:07,320 --> 00:44:09,080
+<b>- Estarás bien.
+- Jemma, ¿qué haces?</b>
+
+738
+00:44:09,520 --> 00:44:11,480
+<b>- Emma...
+- ¡Jemma, por favor, no vayas!</b>
+
+739
+00:44:12,040 --> 00:44:13,200
+<b>Emma, estarás bien.</b>
+
+740
+00:44:13,760 --> 00:44:14,840
+<b>¡Emma, estarás bien!</b>
+
+741
+00:44:14,920 --> 00:44:16,560
+<b>¡Perra! ¡No vayas!</b>
+
+742
+00:44:18,800 --> 00:44:19,880
+<b>¿Teddy?</b>
+
+743
+00:44:59,000 --> 00:45:00,000
+<b>¿Las asusté?</b>
+
+744
+00:45:00,320 --> 00:45:01,720
+<b>Perdón por haber tardado.</b>
+
+745
+00:45:01,800 --> 00:45:03,440
+<b>Fue más largo de lo que creí.</b>
+
+746
+00:45:04,080 --> 00:45:06,040
+<b>Te ves atractiva.</b>
+
+747
+00:45:06,120 --> 00:45:08,440
+<b>Tienes que salir.
+Debes salir de tu casa.</b>
+
+748
+00:45:08,520 --> 00:45:10,400
+<b>Bien, ¿dónde están todas?</b>
+
+749
+00:45:10,920 --> 00:45:12,480
+<b>Vamos, ustedes...</b>
+
+750
+00:45:13,040 --> 00:45:15,640
+<b>Dejen de esconderse, perras. Salgan.</b>
+
+751
+00:45:16,080 --> 00:45:17,320
+<b>Teddy, ¡por favor!</b>
+
+752
+00:45:17,400 --> 00:45:18,840
+<b>Me están tomando el pelo.</b>
+
+753
+00:45:18,920 --> 00:45:20,600
+<b>- Qué pasó. Dime.
+- Debes salir de ahí.</b>
+
+754
+00:45:23,360 --> 00:45:24,280
+<b>Teddy, vete.</b>
+
+755
+00:45:24,360 --> 00:45:26,000
+<b>Un segundo. Se cortó la luz.</b>
+
+756
+00:45:26,080 --> 00:45:26,920
+<b>Pasa todo el tiempo.</b>
+
+757
+00:45:27,000 --> 00:45:28,680
+<b>ESTA REUNIÓN TERMINARÁ
+EN 10 MINUTOS.</b>
+
+758
+00:45:28,760 --> 00:45:30,920
+<b>Aquí estoy. ¿Lista?
+</b><b><i>Voilà.</i></b>
+
+759
+00:45:31,000 --> 00:45:32,760
+<b>- Vamos a morir.
+- Volví.</b>
+
+760
+00:45:32,840 --> 00:45:34,640
+<b>Teddy, vete.
+¿Qué estás haciendo?</b>
+
+761
+00:45:35,120 --> 00:45:36,520
+<b>- Debes irte.
+- Esos días...</b>
+
+762
+00:45:36,600 --> 00:45:39,520
+<b>Tengo que encontrar la vieja
+caja de interruptores.</b>
+
+763
+00:45:40,960 --> 00:45:42,840
+<b>Seylan es un personaje interesante.</b>
+
+764
+00:45:42,920 --> 00:45:44,680
+<b>Vete, por favor.</b>
+
+765
+00:45:44,760 --> 00:45:45,840
+<b>¡Mierda!</b>
+
+766
+00:45:45,920 --> 00:45:47,240
+<b>¡Teddy, no!</b>
+
+767
+00:45:48,480 --> 00:45:49,360
+<b>¡Vete!</b>
+
+768
+00:45:49,720 --> 00:45:50,760
+<b>Teddy, sal de ahí.</b>
+
+769
+00:45:55,400 --> 00:45:56,320
+<b>¡Mierda!</b>
+
+770
+00:45:57,960 --> 00:45:59,040
+<b>¡Cuidado!</b>
+
+771
+00:46:00,360 --> 00:46:01,520
+<b>¡Teddy, no!</b>
+
+772
+00:46:05,040 --> 00:46:05,960
+<b>¡Teddy, no!</b>
+
+773
+00:46:07,880 --> 00:46:09,720
+<b>¡No te detengas! ¡No te detengas!</b>
+
+774
+00:46:10,720 --> 00:46:12,320
+<b>- ¡Jin!
+- Teddy, sigue.</b>
+
+775
+00:46:12,400 --> 00:46:13,480
+<b>Maldición.</b>
+
+776
+00:46:14,240 --> 00:46:15,080
+<b>Jinny.</b>
+
+777
+00:46:15,160 --> 00:46:16,280
+<b>¡Mierda!</b>
+
+778
+00:46:16,360 --> 00:46:17,600
+<b>¡Jin! ¡Jinny!</b>
+
+779
+00:46:21,840 --> 00:46:23,040
+<b>¡Jinny!</b>
+
+780
+00:46:23,120 --> 00:46:24,040
+<b>¡No!</b>
+
+781
+00:46:24,120 --> 00:46:25,480
+<b>¡No! ¡No!</b>
+
+782
+00:46:26,920 --> 00:46:27,920
+<b>Ve al auto.</b>
+
+783
+00:46:30,480 --> 00:46:31,560
+<b>Ve al auto.</b>
+
+784
+00:46:31,960 --> 00:46:34,320
+<b>Vete, por favor,
+y no pares de correr.</b>
+
+785
+00:46:34,760 --> 00:46:35,600
+<b>¡Por favor!</b>
+
+786
+00:46:40,920 --> 00:46:41,880
+<b>Teddy, sal.</b>
+
+787
+00:46:45,480 --> 00:46:47,360
+<b>Vas a morir si no me escuchas.</b>
+
+788
+00:46:54,240 --> 00:46:55,280
+<b>Teddy, corre.</b>
+
+789
+00:46:59,760 --> 00:47:00,760
+<b>Vete.</b>
+
+790
+00:47:01,440 --> 00:47:02,280
+<b>Vete.</b>
+
+791
+00:47:04,720 --> 00:47:05,560
+<b>Por favor.</b>
+
+792
+00:47:06,120 --> 00:47:06,960
+<b>Dios mío.</b>
+
+793
+00:47:08,320 --> 00:47:09,280
+<b>Tengo miedo.</b>
+
+794
+00:47:37,960 --> 00:47:38,920
+<b>Teddy.</b>
+
+795
+00:47:40,960 --> 00:47:41,840
+<b>Teddy.</b>
+
+796
+00:47:47,920 --> 00:47:49,160
+<b>Teddy, por favor.</b>
+
+797
+00:47:50,880 --> 00:47:52,040
+<b>Teddy.</b>
+
+798
+00:47:52,640 --> 00:47:53,520
+<b>Teddy.</b>
+
+799
+00:48:18,440 --> 00:48:19,400
+<b>¡Teddy, despierta!</b>
+
+800
+00:48:20,160 --> 00:48:21,200
+<b>¡Teddy, levántate ahora!</b>
+
+801
+00:48:22,160 --> 00:48:23,280
+<b>¿Me escuchas?</b>
+
+802
+00:48:25,440 --> 00:48:26,720
+<b>Teddy.</b>
+
+803
+00:48:26,800 --> 00:48:28,000
+<b>¡Teddy, por favor!</b>
+
+804
+00:48:28,080 --> 00:48:29,240
+<b>¡Teddy!</b>
+
+805
+00:48:35,040 --> 00:48:36,040
+<b>¡Teddy, despierta!</b>
+
+806
+00:48:37,360 --> 00:48:38,280
+<b>¡No!</b>
+
+807
+00:48:38,640 --> 00:48:40,960
+<b>¡No, no! ¡No!</b>
+
+808
+00:48:45,560 --> 00:48:46,560
+<b>¡No!</b>
+
+809
+00:48:52,440 --> 00:48:53,720
+<b>¡No!</b>
+
+810
+00:48:57,240 --> 00:48:58,160
+<b>¡Teddy!</b>
+
+811
+00:48:59,160 --> 00:49:00,160
+<b>¡Teddy!</b>
+
+812
+00:51:22,760 --> 00:51:23,760
+<b>¿Haley?</b>
+
+813
+00:52:06,240 --> 00:52:07,320
+<b>¡Púdrete!</b>
+
+814
+00:52:36,360 --> 00:52:37,200
+<b>Carajo.</b>
+
+815
+00:53:12,320 --> 00:53:13,600
+<b>¡Haley!</b>
+
+816
+00:53:14,040 --> 00:53:14,960
+<b>Haley.</b>
+
+817
+00:53:25,280 --> 00:53:26,680
+<b>Tenemos que salir de aquí.</b>
+
+818
+00:53:30,720 --> 00:53:31,760
+<b>Vámonos.</b>
+
+819
+00:53:47,480 --> 00:53:48,720
+<b>- ¿Viste algo?
+- No.</b>
+
+820
+00:54:38,360 --> 00:54:42,040
+<b>ESTA REUNIÓN GRATUITA HA TERMINADO
+¡GRACIAS POR ELEGIR ZOOM!</b>
+
+821
+00:54:48,120 --> 00:54:49,440
+<b>JUEVES - 30 DE JULIO 2020</b>
+
+822
+00:54:50,960 --> 00:54:52,880
+<b>PARTICIPANTES</b>
+

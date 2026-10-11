@@ -1,0 +1,7721 @@
+1
+00:01:18,579 --> 00:01:21,206
+<i>Oi. Meu nome é Peter Parker.</i>
+
+2
+00:01:23,250 --> 00:01:26,211
+<i>Você não lembra de mim,
+mas vou te contar uma parada</i>
+
+3
+00:01:26,295 --> 00:01:28,255
+<i>que vai parecer doideira.</i>
+
+4
+00:01:31,091 --> 00:01:32,301
+<i>Mas é verdade.</i>
+
+5
+00:01:34,178 --> 00:01:35,971
+<i>E sei que você vai acreditar em mim,</i>
+
+6
+00:01:36,054 --> 00:01:39,183
+<i>porque você sempre sabe
+quando eu tô mentindo.</i>
+
+7
+00:01:40,976 --> 00:01:43,478
+E.V., confere a calibragem
+da matriz de mira?
+
+8
+00:01:43,562 --> 00:01:45,189
+Não parece equilibrada.
+
+9
+00:01:45,272 --> 00:01:47,316
+<i>Conferindo calibragem de mira.</i>
+
+10
+00:01:48,233 --> 00:01:49,818
+É UM PRAZER
+SERVIR VOCÊ
+
+11
+00:01:56,074 --> 00:01:57,409
+Ei, E.V., dá um tempo.
+
+12
+00:01:58,035 --> 00:01:59,077
+<i>Pausando.</i>
+
+13
+00:02:04,791 --> 00:02:06,210
+<i>A gente se conhecia.</i>
+
+14
+00:02:07,586 --> 00:02:09,378
+<i>A gente namorava.</i>
+
+15
+00:02:10,631 --> 00:02:12,216
+<i>Mas uma coisa bem ruim ia acontecer,</i>
+
+16
+00:02:12,299 --> 00:02:15,886
+<i>e o único jeito de impedir
+era fazer todo mundo se esquecer de mim.</i>
+
+17
+00:02:15,969 --> 00:02:18,305
+gratined42
+postou um story
+
+18
+00:02:20,766 --> 00:02:23,018
+<i>Primeiro dia no MIT, vambora!</i>
+
+19
+00:02:23,101 --> 00:02:25,270
+<i>Fala sério! A gente tá aqui mesmo!</i>
+
+20
+00:02:25,979 --> 00:02:27,064
+<i>MJ, vai.</i>
+
+21
+00:02:27,147 --> 00:02:28,232
+<i>Inclusive você.</i>
+
+22
+00:02:28,315 --> 00:02:31,235
+<i>Finge que não é o dia
+mais feliz da sua vida, vai.</i>
+
+23
+00:02:32,110 --> 00:02:33,195
+<i>Não dá.</i>
+
+24
+00:02:33,278 --> 00:02:36,073
+<i>- Eu sabia! Você tá feliz!
+- Tá, tá. Tá.</i>
+
+25
+00:02:36,156 --> 00:02:38,283
+<i>Porque eu não sou só o Peter Parker.</i>
+
+26
+00:02:39,910 --> 00:02:41,245
+<i>Eu sou o Homem-Aranha.</i>
+
+27
+00:02:41,328 --> 00:02:44,581
+<i>Me adaptando aqui em Boston.
+É tudo tão diferente.</i>
+
+28
+00:02:44,665 --> 00:02:47,584
+<i>E, às vezes, o Homem-Aranha
+tem que fazer escolhas difíceis,</i>
+
+29
+00:02:47,668 --> 00:02:49,670
+<i>mesmo que isso deixe
+o Peter Parker arrasado.</i>
+
+30
+00:02:49,753 --> 00:02:52,881
+<i>A galera aqui fala bem arrastado.</i>
+
+31
+00:02:54,216 --> 00:02:56,718
+<i>Talvez a minha responsabilidade seja essa.</i>
+
+32
+00:02:57,302 --> 00:02:58,971
+<i>Viver sozinho com a verdade.</i>
+
+33
+00:03:00,222 --> 00:03:03,767
+<i>Mas a verdade, MJ, é que eu te amo.</i>
+
+34
+00:03:05,185 --> 00:03:06,436
+<i>E espero que, no fundo,</i>
+
+35
+00:03:06,520 --> 00:03:09,231
+<i>algo aí dentro
+lembre que você também me ama.</i>
+
+36
+00:03:09,314 --> 00:03:10,524
+CRIME EM AÇÃO
+
+37
+00:03:10,607 --> 00:03:13,277
+<i>Suspeito de cerca de 1,80m, porte médio.</i>
+
+38
+00:03:13,360 --> 00:03:16,154
+<i>Mas, até lá, vou continuar sendo
+o Homem-Aranha.</i>
+
+39
+00:03:22,160 --> 00:03:23,203
+Cuidado aí!
+
+40
+00:03:26,540 --> 00:03:27,541
+Pega ele!
+
+41
+00:03:28,959 --> 00:03:30,335
+Ei, ei. Eita!
+
+42
+00:03:43,307 --> 00:03:45,309
+<i>Membros da quadrilha Manfredi</i>
+
+43
+00:03:45,392 --> 00:03:46,935
+<i>foram detidos pelo Homem-Aranha ontem.</i>
+
+44
+00:03:47,019 --> 00:03:48,061
+HOMEM-ARANHA PRENDE CARTEL
+
+45
+00:04:00,574 --> 00:04:01,825
+QUANDO VOCÊ AJUDA UMA PESSOA
+AJUDA TODAS
+
+46
+00:04:10,167 --> 00:04:12,503
+Você é meu vizinho de andar.
+
+47
+00:04:14,463 --> 00:04:15,506
+Legal.
+
+48
+00:04:19,176 --> 00:04:20,761
+Alguém costuma vir aqui em cima?
+
+49
+00:04:21,386 --> 00:04:23,514
+Só se a pessoa gostar de amianto.
+
+50
+00:04:23,972 --> 00:04:26,725
+A gente usa de depósito.
+
+51
+00:04:27,684 --> 00:04:29,144
+É perfeito.
+
+52
+00:04:30,604 --> 00:04:33,148
+<i>Fala, galera.
+Segundo ano, Ned tá de volta.</i>
+
+53
+00:04:33,607 --> 00:04:36,443
+<i>Mais velho, mais sábio, mais estiloso.</i>
+
+54
+00:04:37,277 --> 00:04:38,570
+<i>Bora!</i>
+
+55
+00:04:39,321 --> 00:04:41,698
+<i>- O que é isso na sua cara?
+- O que achou?</i>
+
+56
+00:04:41,782 --> 00:04:43,909
+<i>Parece professor de escolinha de futebol.</i>
+
+57
+00:04:48,580 --> 00:04:50,332
+Quer fazer isso mesmo, Escorpião?
+
+58
+00:04:50,707 --> 00:04:52,084
+Sentiu saudade, Aranha?
+
+59
+00:04:58,090 --> 00:04:59,424
+Se eu te soltar daqui,
+
+60
+00:04:59,508 --> 00:05:01,760
+quanto tempo vai demorar
+pra você bater no chão?
+
+61
+00:05:02,761 --> 00:05:04,221
+Ué, sei lá. Me diz aí.
+
+62
+00:05:05,556 --> 00:05:06,807
+Vamos ficar pianinho, pode ser?
+
+63
+00:05:13,063 --> 00:05:14,231
+Ei, Lonnie!
+
+64
+00:05:14,857 --> 00:05:15,983
+O que rolou aí?
+
+65
+00:05:16,066 --> 00:05:19,611
+DeWolff, as provas que precisa
+estão na mala do carro.
+
+66
+00:05:19,695 --> 00:05:21,822
+Quer roubar meu emprego, Homem-Aranha?
+
+67
+00:05:21,905 --> 00:05:24,199
+Vocês são profissa. Sou só voluntário.
+
+68
+00:05:34,668 --> 00:05:35,669
+<i>Uma nova Nova York.</i>
+
+69
+00:05:35,752 --> 00:05:36,753
+Flores para May.
+
+70
+00:05:36,837 --> 00:05:40,340
+<i>Graças ao Homem-Aranha,
+a criminalidade nunca esteve tão baixa.</i>
+
+71
+00:05:40,424 --> 00:05:43,969
+<i>A polícia e a Controle de Danos
+atribuem o crédito ao herói mascarado.</i>
+
+72
+00:05:44,052 --> 00:05:45,387
+Começando teste de visor.
+
+73
+00:05:45,470 --> 00:05:46,722
+<i>Assalto no Banco Civic Union.</i>
+
+74
+00:05:46,805 --> 00:05:47,806
+CRIME EM AÇÃO
+
+75
+00:05:47,890 --> 00:05:49,558
+<i>Nos últimos seis meses, ele prendeu</i>
+
+76
+00:05:49,641 --> 00:05:52,603
+<i>todos os grandes líderes do crime
+da cidade,</i>
+
+77
+00:05:52,686 --> 00:05:56,190
+<i>inclusive o grupo de ninjas
+superpoderosos, a Mão.</i>
+
+78
+00:05:58,609 --> 00:05:59,943
+GRANDES PODERES
+GRANDES RESPONSABILIDADES
+
+79
+00:06:00,027 --> 00:06:01,069
+HOMEM-ARANHA GANHA CHAVE DA CIDADE
+
+80
+00:06:01,153 --> 00:06:02,196
+<i>O orgulho de Nova York.</i>
+
+81
+00:06:02,279 --> 00:06:06,033
+<i>O herói em quem todo adulto confia
+e que a garotada quer ser.</i>
+
+82
+00:06:07,075 --> 00:06:09,453
+<i>Último período no MIT.</i>
+
+83
+00:06:09,536 --> 00:06:11,872
+<i>Nem acredito que a gente se forma
+daqui a um mês.</i>
+
+84
+00:06:12,247 --> 00:06:15,459
+<i>A gente tem tantas lembranças boas.
+Por onde eu começo?</i>
+
+85
+00:06:15,542 --> 00:06:18,712
+<i>Nadar à noite no Rio Charles
+com o Jim e a Wiley.</i>
+
+86
+00:06:18,795 --> 00:06:21,590
+<i>A famosa guerra de comida
+no Banana Lounge.</i>
+
+87
+00:06:21,673 --> 00:06:25,969
+<i>Noites viradas na Sala de Estudos
+do 5º andar com a MJ e o Nate Dawg.</i>
+
+88
+00:06:26,053 --> 00:06:26,887
+Seu pedido chegou
+
+89
+00:06:26,970 --> 00:06:28,805
+<i>Parece que foi ontem, eu e MJ no terraço,</i>
+
+90
+00:06:28,889 --> 00:06:32,226
+<i>sonhando em estudar aqui.
+Ainda não acredito que viemos.</i>
+
+91
+00:06:32,309 --> 00:06:35,020
+<i>Sou muito grato
+por todos os amigos que fiz.</i>
+
+92
+00:06:35,103 --> 00:06:37,439
+<i>Nem imagino viver tudo isso
+com outra pessoa.</i>
+
+93
+00:06:37,523 --> 00:06:39,525
+<i>Ned, quem você acha que vê isso?</i>
+
+94
+00:06:39,608 --> 00:06:42,152
+<i>- Sei lá. Alguém deve ver.
+- Tá.</i>
+
+95
+00:06:42,236 --> 00:06:43,529
+<i>Tá, tchau, alguém.</i>
+
+96
+00:06:43,612 --> 00:06:45,697
+<i>- Quê? Não!
+- Acabou. É, acabou.</i>
+
+97
+00:06:56,542 --> 00:06:58,460
+Deixe a comida
+na porta
+
+98
+00:07:03,799 --> 00:07:06,927
+Aquilo foi no centro do Brooklyn
+à luz do dia.
+
+99
+00:07:07,010 --> 00:07:10,222
+Uma operação escancarada assim
+tem o Foswell envolvido.
+
+100
+00:07:10,305 --> 00:07:12,307
+Concordo, mas você pode provar?
+
+101
+00:07:12,391 --> 00:07:14,268
+Tô conferindo as transações bancárias
+
+102
+00:07:14,351 --> 00:07:15,936
+e seguindo a galera dele toda noite.
+
+103
+00:07:16,645 --> 00:07:18,856
+<i>Você faz algo mais além de trabalhar?</i>
+
+104
+00:07:18,939 --> 00:07:21,859
+É como dizem: "Se faz o que ama,
+nem parece trabalho."
+
+105
+00:07:22,532 --> 00:07:23,426
+Que merda!
+
+106
+00:07:23,726 --> 00:07:25,404
+- Mãe, cadê minha calculadora?
+- Não sei.
+
+107
+00:07:25,487 --> 00:07:29,449
+<i>Vai por mim, tá?
+Viver só de trabalho nunca acaba bem.</i>
+
+108
+00:07:29,533 --> 00:07:31,535
+Não esquenta, tô de boa.
+
+109
+00:07:31,618 --> 00:07:34,288
+Será? Ainda tá com aquela dor de cabeça?
+
+110
+00:07:35,664 --> 00:07:38,083
+Sim, mas vou ficar de boa.
+
+111
+00:07:38,166 --> 00:07:39,334
+<i>Não sei, não, hein?</i>
+
+112
+00:07:39,418 --> 00:07:41,420
+<i>Acho que é seu corpo dizendo alguma coisa.</i>
+
+113
+00:07:41,503 --> 00:07:43,964
+Que devia tirar o uniforme
+de vez em quando.
+
+114
+00:07:44,047 --> 00:07:45,924
+Mãe, sabe da minha calculadora?
+
+115
+00:07:46,008 --> 00:07:47,050
+Não sei, <i>Papi</i>.
+
+116
+00:07:47,467 --> 00:07:50,262
+<i>Você precisa de mais conexões humanas.</i>
+
+117
+00:07:50,345 --> 00:07:51,972
+Ué? Não temos uma conexão?
+
+118
+00:07:52,055 --> 00:07:56,768
+<i>Não, garoto. Não sei o seu nome,
+seu rosto, nada sobre você.</i>
+
+119
+00:07:56,852 --> 00:07:59,229
+Você nunca perguntou nada da minha vida.
+
+120
+00:07:59,313 --> 00:08:00,314
+<i>Claro que já.</i>
+
+121
+00:08:00,397 --> 00:08:02,316
+<i>É? Quais os nomes dos meus filhos?</i>
+
+122
+00:08:02,399 --> 00:08:04,443
+Por exemplo, o nome do seu filho é <i>Papi</i>.
+
+123
+00:08:06,153 --> 00:08:07,237
+É o Homem-Aranha?
+
+124
+00:08:07,321 --> 00:08:09,281
+Não posso falar, meu amor.
+
+125
+00:08:09,698 --> 00:08:11,116
+Então é o Homem-Aranha.
+
+126
+00:08:11,200 --> 00:08:12,409
+Eu mereço.
+
+127
+00:08:15,037 --> 00:08:16,038
+CRIME EM AÇÃO
+
+128
+00:08:16,121 --> 00:08:17,831
+<i>Tanque roubado rumo sul após a Rua 34.</i>
+
+129
+00:08:17,915 --> 00:08:19,708
+<i>Acionando todas as unidades disponíveis.</i>
+
+130
+00:08:19,791 --> 00:08:20,876
+Aí, recebeu isso?
+
+131
+00:08:20,959 --> 00:08:22,711
+Mais trabalho. Sorte a sua.
+
+132
+00:08:22,794 --> 00:08:23,921
+Beleza, te vejo lá.
+
+133
+00:08:24,004 --> 00:08:25,339
+Foi mal, tenho que ir.
+
+134
+00:09:42,499 --> 00:09:43,792
+Tô contigo, Aranha!
+
+135
+00:09:43,876 --> 00:09:45,210
+Não. Não precisa me...
+
+136
+00:09:59,516 --> 00:10:00,559
+Opa! Segura!
+
+137
+00:10:02,394 --> 00:10:05,606
+Tudo bem, garoto?
+Tá tudo bem. Até mais.
+
+138
+00:10:10,194 --> 00:10:11,695
+Ninguém diz vendo agora,
+
+139
+00:10:11,778 --> 00:10:15,782
+mas essa rua foi completamente destruída
+na Batalha de Nova York.
+
+140
+00:10:23,123 --> 00:10:24,833
+Vamos lá, vamos lá.
+
+141
+00:10:26,502 --> 00:10:28,378
+Vamos.
+
+142
+00:10:41,308 --> 00:10:42,309
+Meu Deus.
+
+143
+00:10:51,026 --> 00:10:52,027
+Vamos lá.
+
+144
+00:10:54,988 --> 00:10:56,949
+Qual é, Frank? Me atropelou com a van!
+
+145
+00:10:57,032 --> 00:10:58,325
+Para de choramingar.
+
+146
+00:10:58,408 --> 00:10:59,952
+Não vamos entrar nessa de novo.
+
+147
+00:11:00,035 --> 00:11:01,453
+É, não vamos mesmo.
+
+148
+00:11:01,537 --> 00:11:03,330
+Agora não vai se meter no meu caminho.
+
+149
+00:11:03,789 --> 00:11:05,290
+Não salvando sua vida?
+
+150
+00:11:06,208 --> 00:11:08,627
+Vai meter essa de Staten Island de novo?
+
+151
+00:11:08,710 --> 00:11:10,337
+Você que falou, não eu.
+
+152
+00:11:10,420 --> 00:11:11,255
+Caramba.
+
+153
+00:11:11,338 --> 00:11:13,465
+Olha, nem tudo se resolve na base do tiro.
+
+154
+00:11:13,549 --> 00:11:14,925
+Vai machucar gente inocente.
+
+155
+00:11:15,008 --> 00:11:17,344
+Quem você acha
+que tá na mira desse tanque, doidão?
+
+156
+00:11:22,808 --> 00:11:23,809
+Você que sabe.
+
+157
+00:11:27,479 --> 00:11:28,480
+Otário.
+
+158
+00:11:29,565 --> 00:11:30,691
+Esse cara é fogo.
+
+159
+00:11:44,496 --> 00:11:45,497
+Filho da...
+
+160
+00:11:46,748 --> 00:11:48,041
+Vai pra casa, Frank!
+
+161
+00:11:52,629 --> 00:11:54,173
+Vou matar esse moleque.
+
+162
+00:11:57,885 --> 00:11:58,886
+LIGAÇÃO
+
+163
+00:11:58,969 --> 00:12:01,263
+- DeWolff?
+- Vai parar esse tanque ou não?
+
+164
+00:12:01,346 --> 00:12:03,974
+<i>Tá indo pro Centro de Detenção
+da Controle de Danos.</i>
+
+165
+00:12:04,057 --> 00:12:05,058
+Eu tô tentando.
+
+166
+00:12:05,142 --> 00:12:06,059
+<i>Tenta mais.</i>
+
+167
+00:12:06,143 --> 00:12:07,561
+<i>Tem uma galera da pesada presa lá.</i>
+
+168
+00:12:07,644 --> 00:12:08,478
+DEP. DE CONTROLE DE DANOS
+
+169
+00:12:08,562 --> 00:12:09,688
+E quem acha que botou eles lá?
+
+170
+00:12:10,606 --> 00:12:13,859
+Vambora, Escorpião. Transferência.
+
+171
+00:12:41,345 --> 00:12:43,138
+Saiam agora, por favor!
+
+172
+00:12:44,097 --> 00:12:46,892
+Sai todo mundo!
+Ele tá armado e é perigoso.
+
+173
+00:12:59,154 --> 00:13:00,697
+Pode sair daí, senhora.
+
+174
+00:13:01,281 --> 00:13:03,116
+Era isso que eu ia fazer.
+
+175
+00:13:11,917 --> 00:13:13,377
+Homem-Aranha?
+
+176
+00:13:14,795 --> 00:13:15,879
+Onde eu estou?
+
+177
+00:13:22,970 --> 00:13:24,096
+O que...
+
+178
+00:13:26,640 --> 00:13:28,100
+Vai, vai, vai!
+
+179
+00:13:28,183 --> 00:13:30,185
+Interroguem ela. Esvaziem o prédio.
+
+180
+00:13:33,188 --> 00:13:35,107
+Bom voo, Escorpião!
+
+181
+00:13:35,190 --> 00:13:37,818
+Não vai pegar muito sol na supermáxima.
+
+182
+00:13:38,861 --> 00:13:40,904
+Escorpiões são animais noturnos.
+
+183
+00:13:43,782 --> 00:13:47,202
+<i>O prédio tá sendo atacado.
+Tirem o prisioneiro daqui agora!</i>
+
+184
+00:13:52,332 --> 00:13:53,333
+Senhor!
+
+185
+00:14:12,102 --> 00:14:13,645
+Tem que decolar agora!
+
+186
+00:14:13,729 --> 00:14:15,772
+O prédio foi invadido! Vai! Vai!
+
+187
+00:14:16,148 --> 00:14:18,734
+Decola! Vai! Vai!
+
+188
+00:14:23,947 --> 00:14:25,532
+DEPARTAMENTO
+DE CONTROLE DE DANOS
+
+189
+00:14:27,159 --> 00:14:28,368
+Mudança de planos!
+
+190
+00:14:28,952 --> 00:14:30,871
+Leva pro heliponto no Bellevue.
+
+191
+00:14:31,580 --> 00:14:34,791
+- O quê?
+- É uma ordem do diretor Metzger. Vai!
+
+192
+00:14:34,875 --> 00:14:35,876
+Agora!
+
+193
+00:14:36,001 --> 00:14:37,044
+Entendido.
+
+194
+00:14:48,013 --> 00:14:49,681
+Ei! Como...
+
+195
+00:14:49,765 --> 00:14:51,308
+Como cheguei aqui em cima?
+
+196
+00:14:55,479 --> 00:14:58,482
+Homem-Aranha. Me salva, por favor.
+
+197
+00:15:04,196 --> 00:15:05,239
+Quem é você?
+
+198
+00:15:06,448 --> 00:15:07,908
+Você me vê.
+
+199
+00:15:07,991 --> 00:15:09,368
+Fala. Quem é você?
+
+200
+00:15:10,577 --> 00:15:11,578
+Você primeiro.
+
+201
+00:15:14,665 --> 00:15:16,834
+Oi. Oi.
+
+202
+00:15:22,714 --> 00:15:24,007
+Você me repeliu.
+
+203
+00:15:24,675 --> 00:15:25,843
+Interessante.
+
+204
+00:15:25,926 --> 00:15:27,427
+Que parada foi essa?
+
+205
+00:15:27,511 --> 00:15:29,596
+Tentou invadir a minha mente?
+
+206
+00:15:29,680 --> 00:15:32,766
+Olha, esse tempo todo
+em que você tá atrás de mim,
+
+207
+00:15:33,517 --> 00:15:36,311
+esqueceu de fazer
+uma pergunta muito importante:
+
+208
+00:15:38,063 --> 00:15:39,356
+o que tem no tanque?
+
+209
+00:15:41,316 --> 00:15:42,901
+Vamos! Vai.
+
+210
+00:15:57,082 --> 00:15:58,125
+Homem-Aranha?
+
+211
+00:15:59,293 --> 00:16:00,460
+O que houve?
+
+212
+00:16:03,422 --> 00:16:04,464
+Não sei.
+
+213
+00:16:06,633 --> 00:16:07,634
+Aí, mandou bem.
+
+214
+00:16:07,718 --> 00:16:08,802
+Arrasou, Aranha.
+
+215
+00:16:08,886 --> 00:16:10,596
+Tudo bem aqui? Tudo certo?
+
+216
+00:16:10,679 --> 00:16:13,599
+Juro. Tudo que dizem que fiz,
+não lembro de nada.
+
+217
+00:16:13,682 --> 00:16:15,767
+Tudo bem, relaxa. Eles vão cuidar de você.
+
+218
+00:16:15,851 --> 00:16:16,935
+Eu nunca te machucaria.
+
+219
+00:16:17,019 --> 00:16:18,353
+- Tá.
+- Eu te amo, Homem-Aranha.
+
+220
+00:16:18,437 --> 00:16:19,771
+Tá. Beleza, cara.
+
+221
+00:16:19,855 --> 00:16:20,814
+E aí, novidades?
+
+222
+00:16:20,898 --> 00:16:23,817
+Escuta essa. O helicóptero
+levou o Escorpião pro Bellevue.
+
+223
+00:16:23,901 --> 00:16:26,403
+Dez minutos depois,
+um guarda saiu com ele pela porta.
+
+224
+00:16:26,486 --> 00:16:27,487
+O quê?
+
+225
+00:16:27,654 --> 00:16:28,739
+Mas e o tanque?
+
+226
+00:16:28,822 --> 00:16:31,450
+Roubado do galpão
+da Controle de Danos no Brooklyn.
+
+227
+00:16:31,533 --> 00:16:33,702
+A motorista era
+uma zeladora que trabalha lá.
+
+228
+00:16:33,785 --> 00:16:34,786
+Tinha algum motivo?
+
+229
+00:16:34,870 --> 00:16:37,039
+<i>Nada</i>. Nem antecedente criminal.
+
+230
+00:16:37,122 --> 00:16:39,124
+O Escorpião deve ter ameaçado ela.
+
+231
+00:16:40,167 --> 00:16:41,960
+É, talvez.
+
+232
+00:16:42,044 --> 00:16:43,545
+Como assim, "talvez"?
+
+233
+00:16:43,629 --> 00:16:45,547
+É que... Eu não sei.
+
+234
+00:16:46,340 --> 00:16:47,674
+Mas sei quem pode saber.
+
+235
+00:16:47,758 --> 00:16:48,759
+Aonde você vai?
+
+236
+00:16:48,926 --> 00:16:50,594
+Segue o rastro do Escorpião.
+
+237
+00:16:50,677 --> 00:16:52,387
+Vou falar com uma pessoa.
+
+238
+00:17:07,903 --> 00:17:11,448
+Oi, aqui é Brighton Beach, 3250?
+
+239
+00:17:16,036 --> 00:17:17,204
+Tá.
+
+240
+00:17:17,871 --> 00:17:19,665
+Acho que entendi.
+
+241
+00:17:24,752 --> 00:17:25,921
+Tira a roupa.
+
+242
+00:17:29,007 --> 00:17:30,050
+O quê?
+
+243
+00:17:30,467 --> 00:17:32,427
+Não usamos roupas na <i>banya</i>.
+
+244
+00:17:33,595 --> 00:17:34,930
+Tira a fantasia.
+
+245
+00:17:36,056 --> 00:17:37,474
+Isso não é fantasia.
+
+246
+00:17:38,267 --> 00:17:40,602
+Na mensagem,
+disse que aqui era o seu escritório.
+
+247
+00:17:41,562 --> 00:17:43,146
+É meu escritório.
+
+248
+00:17:43,856 --> 00:17:44,857
+Entra aí.
+
+249
+00:17:45,941 --> 00:17:47,568
+Tô de boa, valeu. Eu vou...
+
+250
+00:17:48,819 --> 00:17:50,195
+Meu escritório, minhas regras.
+
+251
+00:17:50,279 --> 00:17:54,157
+Assim, você toma
+um banho tranquilo e relaxante,
+
+252
+00:17:54,241 --> 00:17:56,535
+e eu vejo se você não tem armas.
+
+253
+00:17:56,618 --> 00:17:57,828
+Todo mundo feliz.
+
+254
+00:17:59,997 --> 00:18:01,039
+Beleza.
+
+255
+00:18:10,299 --> 00:18:12,551
+Jura? Você não tira isso nunca?
+
+256
+00:18:12,634 --> 00:18:14,970
+Não, é que quebra a ideia do anonimato.
+
+257
+00:18:15,053 --> 00:18:19,600
+Nem pra sua namorada?
+Ou namorado. Tanto faz.
+
+258
+00:18:20,267 --> 00:18:22,102
+Tem muitas teorias na internet.
+
+259
+00:18:22,686 --> 00:18:25,230
+E ilustrações bem explícitas. Já viu?
+
+260
+00:18:25,314 --> 00:18:28,150
+Tem uma sua com dez Mystérios que é...
+
+261
+00:18:28,233 --> 00:18:30,319
+Eu... eu já vi.
+
+262
+00:18:30,402 --> 00:18:31,904
+É difícil desver, admito.
+
+263
+00:18:31,987 --> 00:18:34,198
+Mas não tenho ninguém, fico na minha.
+
+264
+00:18:34,948 --> 00:18:36,450
+Fica na sua o tempo todo?
+
+265
+00:18:36,533 --> 00:18:38,118
+Por isso você é tão triste.
+
+266
+00:18:38,202 --> 00:18:40,370
+- Não sou triste.
+- É um pouco.
+
+267
+00:18:40,454 --> 00:18:42,414
+Podemos falar do que eu vim falar?
+
+268
+00:18:42,497 --> 00:18:43,832
+O ataque à Controle de Danos.
+
+269
+00:18:44,416 --> 00:18:47,711
+Sim. Isso aí tá mais pra sua área.
+
+270
+00:18:48,545 --> 00:18:50,923
+Coisa de peixe pequeno.
+
+271
+00:18:51,548 --> 00:18:57,679
+Já os Novos Vingadores
+cuidam de peixe grande.
+
+272
+00:18:58,680 --> 00:19:01,600
+Tá, beleza, mas não é
+tão pequeno assim, não.
+
+273
+00:19:02,893 --> 00:19:05,354
+A motorista e os outros que ajudaram,
+
+274
+00:19:05,437 --> 00:19:07,940
+parecia que alguém
+falava comigo através deles.
+
+275
+00:19:08,023 --> 00:19:10,442
+Como se alguém estivesse olhando
+com os olhos deles.
+
+276
+00:19:10,526 --> 00:19:12,736
+E tá pensando se foi controle mental.
+
+277
+00:19:12,819 --> 00:19:15,405
+- Exato.
+- Igual fizeram comigo na Sala Vermelha.
+
+278
+00:19:15,489 --> 00:19:17,115
+- Exato.
+- E com as outras viúvas.
+
+279
+00:19:17,199 --> 00:19:19,159
+- Isso.
+- Não, acho que não.
+
+280
+00:19:19,243 --> 00:19:23,455
+Na verdade, acho que tá mais
+pra uma possessão.
+
+281
+00:19:23,997 --> 00:19:24,998
+Possessão?
+
+282
+00:19:26,291 --> 00:19:28,210
+Tipo fantasma. Ou demônio.
+
+283
+00:19:28,293 --> 00:19:30,003
+- Cara.
+- Na Rússia, tem o leshy.
+
+284
+00:19:30,087 --> 00:19:33,757
+O leshy manda na floresta
+e pode possuir...
+
+285
+00:19:36,176 --> 00:19:37,177
+Foi mal.
+
+286
+00:19:37,719 --> 00:19:39,847
+Não sei o que é, mas procura alguma coisa.
+
+287
+00:19:39,930 --> 00:19:43,475
+Já é o 4º ataque ao prédio
+da Controle de Danos este mês.
+
+288
+00:19:44,268 --> 00:19:45,853
+O que acha que procura?
+
+289
+00:19:45,936 --> 00:19:47,145
+Não sei.
+
+290
+00:19:47,229 --> 00:19:48,730
+Mas escuta essa:
+
+291
+00:19:48,814 --> 00:19:50,899
+depois do ataque de hoje,
+
+292
+00:19:50,983 --> 00:19:54,987
+um alerta de cibersegurança
+de diversas agências foi disparado.
+
+293
+00:19:55,404 --> 00:19:58,782
+Alguém acessou servidores privados
+da Controle de Danos
+
+294
+00:19:58,866 --> 00:20:02,327
+usando as credenciais
+de uns 30 funcionários do escritório.
+
+295
+00:20:02,411 --> 00:20:04,746
+Todos pesquisaram a mesma coisa.
+
+296
+00:20:06,081 --> 00:20:07,124
+V-Max.
+
+297
+00:20:08,917 --> 00:20:10,210
+V-Max.
+
+298
+00:20:11,378 --> 00:20:12,796
+O que isso quer dizer?
+
+299
+00:20:12,880 --> 00:20:15,632
+Bom, pode ser tecnologia alienígena,
+
+300
+00:20:15,716 --> 00:20:19,386
+ou um programa nuclear secreto,
+
+301
+00:20:19,469 --> 00:20:22,723
+ou códigos de lançamento, ou...
+
+302
+00:20:24,099 --> 00:20:26,185
+Eu não sei. Isso você descobre.
+
+303
+00:20:26,268 --> 00:20:28,812
+- É coisa de peixe pequeno...
+- Beleza.
+
+304
+00:20:28,896 --> 00:20:31,148
+- ...não peixe grande genial.
+- Não grita, credo.
+
+305
+00:20:31,231 --> 00:20:33,442
+Vou lá perguntar
+na Controle de Danos, então.
+
+306
+00:20:35,777 --> 00:20:38,614
+Você não é mais
+completamente anônimo agora.
+
+307
+00:20:38,697 --> 00:20:40,449
+Já vi o seu umbigo.
+
+308
+00:20:41,658 --> 00:20:43,869
+- Tá.
+- Tchau.
+
+309
+00:20:49,666 --> 00:20:53,670
+DEPARTAMENTO DE CONTROLE DE DANOS
+
+310
+00:21:08,685 --> 00:21:09,811
+Eita.
+
+311
+00:21:11,146 --> 00:21:12,731
+Oi, marquei hora com o...
+
+312
+00:21:12,814 --> 00:21:14,107
+Diretor Metzger, sim.
+
+313
+00:21:14,191 --> 00:21:15,692
+Pode passar pelo sensor.
+
+314
+00:21:18,612 --> 00:21:20,614
+<i>Humano aprimorado detectado.</i>
+
+315
+00:21:21,323 --> 00:21:23,283
+<i>Força elevada.</i>
+
+316
+00:21:23,367 --> 00:21:25,410
+<i>Agilidade elevada.</i>
+
+317
+00:21:25,494 --> 00:21:27,120
+<i>Sentidos apurados.</i>
+
+318
+00:21:27,204 --> 00:21:29,498
+<i>DNA exógeno aracnídeo.</i>
+
+319
+00:21:30,999 --> 00:21:33,252
+Peço que remova a máscara
+para identificação.
+
+320
+00:21:33,335 --> 00:21:34,545
+Não vai dar, não.
+
+321
+00:21:34,628 --> 00:21:36,672
+- Não tem como.
+- Se não remover a máscara,
+
+322
+00:21:36,755 --> 00:21:38,674
+vai disparar as medidas de defesa.
+
+323
+00:21:38,757 --> 00:21:40,634
+Medidas de defesa? O que tá...
+
+324
+00:21:41,718 --> 00:21:44,054
+Gente, gente!
+Não posso tirar a máscara. Sou o...
+
+325
+00:21:44,137 --> 00:21:45,222
+Homem-Aranha.
+
+326
+00:21:46,265 --> 00:21:47,891
+Ele tá liberado. Descansar.
+
+327
+00:21:52,896 --> 00:21:54,690
+Mil perdões.
+
+328
+00:21:54,773 --> 00:21:56,108
+Que bom que você veio.
+
+329
+00:21:56,608 --> 00:21:59,236
+Bill Metzger, diretor
+da Controle de Danos. Como vai?
+
+330
+00:21:59,319 --> 00:22:00,404
+Bem, obrigado.
+
+331
+00:22:00,904 --> 00:22:03,574
+Reforçamos a segurança.
+Não se assustou, né?
+
+332
+00:22:03,657 --> 00:22:05,868
+- Não, nem um pouco.
+- Então vamos lá.
+
+333
+00:22:07,494 --> 00:22:09,830
+Esse andar é todo
+pra pesquisa e administração.
+
+334
+00:22:10,372 --> 00:22:13,917
+Lá embaixo, temos limpeza de incidentes,
+laboratórios, treino de agentes.
+
+335
+00:22:15,460 --> 00:22:17,462
+- O que eles fazem aqui?
+- Tá tudo bem.
+
+336
+00:22:18,130 --> 00:22:19,715
+A Mão trabalha pra nós.
+
+337
+00:22:20,174 --> 00:22:21,258
+Quando você os prendeu,
+
+338
+00:22:21,341 --> 00:22:24,511
+percebi que não passam
+de um grupo de jovens sem um líder.
+
+339
+00:22:24,595 --> 00:22:26,513
+Só precisavam de orientação.
+
+340
+00:22:26,597 --> 00:22:28,473
+Tudo aquilo que tornava eles tão perigosos
+
+341
+00:22:28,557 --> 00:22:30,976
+se tornou uma parte valiosa
+da nossa segurança.
+
+342
+00:22:36,607 --> 00:22:39,401
+Pode ver as ameaças que enfrentamos
+apenas como perigo
+
+343
+00:22:40,736 --> 00:22:42,196
+ou como oportunidade.
+
+344
+00:22:43,780 --> 00:22:44,781
+Beleza.
+
+345
+00:22:49,328 --> 00:22:50,621
+Uau, olha só.
+
+346
+00:22:51,413 --> 00:22:53,624
+Nas mãos do Shocker, elas são um problema.
+
+347
+00:22:55,792 --> 00:22:57,753
+Mas ainda podemos
+aprender com a tecnologia
+
+348
+00:22:57,836 --> 00:22:59,213
+e respeitar a inovação.
+
+349
+00:22:59,963 --> 00:23:03,967
+Nossa missão é redirecionar
+energia destrutiva pra criar algo útil.
+
+350
+00:23:04,051 --> 00:23:05,844
+É a meta da Controle de Danos.
+
+351
+00:23:11,099 --> 00:23:12,309
+Cuidado com isso aí.
+
+352
+00:23:13,227 --> 00:23:14,228
+Por aqui.
+
+353
+00:23:17,731 --> 00:23:20,817
+Queria falar com você
+sobre os últimos ataques à agência.
+
+354
+00:23:21,235 --> 00:23:23,070
+Já foram quatro, né?
+
+355
+00:23:23,153 --> 00:23:24,279
+Por favor, senta.
+
+356
+00:23:25,697 --> 00:23:26,782
+Exatamente.
+
+357
+00:23:27,282 --> 00:23:30,244
+Encaramos uma ameaça
+que não conseguimos controlar.
+
+358
+00:23:30,327 --> 00:23:31,453
+Não conseguimos nem ver.
+
+359
+00:23:34,206 --> 00:23:35,457
+Mas você consegue.
+
+360
+00:23:36,291 --> 00:23:38,293
+Eu vi as imagens de segurança.
+
+361
+00:23:39,378 --> 00:23:41,797
+Também li o relatório
+da investigadora DeWolff.
+
+362
+00:23:42,548 --> 00:23:45,008
+Acho que você sabe
+o que enfrentamos aqui.
+
+363
+00:23:45,843 --> 00:23:48,887
+Alguém ou alguma coisa
+que pula de mente em mente.
+
+364
+00:23:49,888 --> 00:23:50,889
+Mas não na sua.
+
+365
+00:23:51,473 --> 00:23:53,725
+Não. Até tentou, mas não conseguiu.
+
+366
+00:24:02,860 --> 00:24:04,444
+Vou falar sério com você.
+
+367
+00:24:05,279 --> 00:24:06,572
+A gente tá no limite.
+
+368
+00:24:07,739 --> 00:24:10,534
+Se essa coisa entra aqui
+e encontra o que tá procurando,
+
+369
+00:24:10,617 --> 00:24:14,371
+as consequências podem ser inimagináveis.
+
+370
+00:24:17,124 --> 00:24:20,127
+Só um chute, o que a pessoa procura
+tá nesse cofre gigante?
+
+371
+00:24:23,046 --> 00:24:25,299
+Tem coisas que,
+pela natureza do meu trabalho,
+
+372
+00:24:25,382 --> 00:24:26,675
+não posso te contar.
+
+373
+00:24:27,009 --> 00:24:29,636
+Mas você é a nossa melhor defesa
+contra isso.
+
+374
+00:24:30,012 --> 00:24:31,930
+Você é o único capaz de sentir.
+
+375
+00:24:32,014 --> 00:24:33,432
+É o único imune.
+
+376
+00:24:34,057 --> 00:24:36,143
+Conto com você pra derrotar isso.
+
+377
+00:24:39,229 --> 00:24:41,315
+Lindo o seu discurso, diretor.
+
+378
+00:24:42,065 --> 00:24:43,525
+Vou fazer o possível, prometo.
+
+379
+00:24:45,235 --> 00:24:47,529
+Considere-se um amigo
+da Controle de Danos.
+
+380
+00:24:47,613 --> 00:24:48,614
+Obrigado.
+
+381
+00:24:49,573 --> 00:24:50,782
+Eu entro em contato.
+
+382
+00:24:52,492 --> 00:24:53,660
+Tenho uma pergunta.
+
+383
+00:24:54,703 --> 00:24:57,497
+O termo "V-Max"
+significa alguma coisa pra você?
+
+384
+00:24:58,957 --> 00:25:01,376
+Não. Onde ouviu isso?
+
+385
+00:25:01,835 --> 00:25:04,546
+É aquilo...
+Pela natureza de ser super-herói,
+
+386
+00:25:04,630 --> 00:25:06,131
+tem coisas que não posso te contar.
+
+387
+00:25:07,424 --> 00:25:08,717
+Enfim, até mais.
+
+388
+00:25:09,760 --> 00:25:11,553
+Bom trabalho. Força aí.
+
+389
+00:25:11,637 --> 00:25:13,764
+<i>O Metzger não sabe mais que a gente,</i>
+
+390
+00:25:13,847 --> 00:25:15,891
+<i>mas falei que queria muito ajudar.</i>
+
+391
+00:25:15,974 --> 00:25:18,352
+Quer ajudar? A melhor coisa que faz
+
+392
+00:25:18,435 --> 00:25:20,521
+<i>é achar o Escorpião. É nossa única pista.</i>
+
+393
+00:25:20,604 --> 00:25:24,441
+Eu sei. Acionei o reconhecimento facial
+em todas as câmeras de NY.
+
+394
+00:25:24,942 --> 00:25:28,237
+Isso parece superilegal, Homem-Aranha.
+Vou fingir que não ouvi.
+
+395
+00:25:28,320 --> 00:25:31,240
+É melhor.
+Mas se ele aparecer, a gente vai saber.
+
+396
+00:25:31,323 --> 00:25:32,824
+Tem minibarris de chope?
+
+397
+00:25:33,617 --> 00:25:34,785
+Lá no fundo.
+
+398
+00:25:34,868 --> 00:25:35,869
+Valeu.
+
+399
+00:25:39,122 --> 00:25:40,249
+Te ligo depois.
+
+400
+00:25:45,295 --> 00:25:46,296
+Boa.
+
+401
+00:25:50,467 --> 00:25:53,887
+Outra coisa,
+você tem energético Sharkfire?
+
+402
+00:25:53,971 --> 00:25:55,347
+Tenho.
+
+403
+00:25:56,515 --> 00:25:57,808
+Não, não, não.
+
+404
+00:25:57,891 --> 00:25:59,726
+Não quero, não. Isso aí mata.
+
+405
+00:26:00,102 --> 00:26:02,980
+Meus amigos tomaram pras provas finais
+e agora se viciaram.
+
+406
+00:26:03,063 --> 00:26:06,066
+Então quero que nunca venda isso pra mim.
+
+407
+00:26:06,149 --> 00:26:07,317
+Lembra desse rosto.
+
+408
+00:26:08,485 --> 00:26:12,072
+Nunca venda pra esse cara
+nenhum Sharkfire.
+
+409
+00:26:12,906 --> 00:26:14,074
+Tá, você que sabe.
+
+410
+00:26:15,033 --> 00:26:16,285
+Na real, quero um.
+
+411
+00:26:16,994 --> 00:26:18,161
+O último.
+
+412
+00:26:18,245 --> 00:26:19,621
+Pode ser dois.
+
+413
+00:26:19,705 --> 00:26:21,832
+Mas, depois, nunca mais venda.
+
+414
+00:26:23,417 --> 00:26:24,418
+Droga.
+
+415
+00:26:58,619 --> 00:26:59,786
+Fala, Ned!
+
+416
+00:26:59,870 --> 00:27:01,079
+- Fala aí.
+- Ned!
+
+417
+00:27:01,163 --> 00:27:02,873
+- Dá aqui.
+- Valeu, parceiro.
+
+418
+00:27:02,956 --> 00:27:04,499
+- Bora!
+- Já é, mano.
+
+419
+00:27:04,583 --> 00:27:06,293
+Bora!
+
+420
+00:27:40,202 --> 00:27:42,871
+Precisa de um copo.
+Toma. Toma. Pega aí.
+
+421
+00:27:42,955 --> 00:27:43,956
+Valeu.
+
+422
+00:27:47,125 --> 00:27:48,126
+Com licença.
+
+423
+00:28:21,451 --> 00:28:24,454
+HOMEM-ARANHA VISTO NA EUROPA?
+SERÁ QUE ELE É INGLÊS?
+
+424
+00:28:24,538 --> 00:28:26,915
+Será que o Homem-Aranha
+é esse latino do parkour?
+
+425
+00:28:26,999 --> 00:28:29,084
+NÃO É ELE
+
+426
+00:28:35,716 --> 00:28:37,593
+Você achou o meu painel.
+
+427
+00:28:38,594 --> 00:28:40,429
+Não sou outro esquisito, juro.
+
+428
+00:28:40,512 --> 00:28:43,056
+No colégio, ele salvou
+a minha vida e dos meus amigos.
+
+429
+00:28:44,433 --> 00:28:45,976
+- Legal.
+- É.
+
+430
+00:28:46,059 --> 00:28:48,478
+Desde então, tento descobrir quem ele é.
+
+431
+00:28:48,729 --> 00:28:52,941
+Não pra desmascarar pro mundo,
+nada assim, só pra saber, sabe?
+
+432
+00:28:53,025 --> 00:28:55,319
+E pra agradecer a ele cara a cara.
+
+433
+00:28:57,821 --> 00:29:01,200
+Inclusive, criei um app
+que monitora onde ele foi visto.
+
+434
+00:29:01,491 --> 00:29:03,035
+Você criou o Rastreador Aranha?
+
+435
+00:29:03,118 --> 00:29:04,786
+Já ouviu falar? Boa.
+
+436
+00:29:05,787 --> 00:29:07,372
+<i>Cadê o Homem-Aranha?</i>
+
+437
+00:29:07,456 --> 00:29:08,707
+Tem um chat aqui.
+
+438
+00:29:09,625 --> 00:29:12,002
+Olha, a gente sabe que ele é do Queens.
+
+439
+00:29:12,085 --> 00:29:13,462
+Não é nenhuma novidade.
+
+440
+00:29:13,921 --> 00:29:18,592
+Mas já dei uma reduzida
+a dois principais suspeitos.
+
+441
+00:29:19,426 --> 00:29:21,595
+Ciência
+
+442
+00:29:22,554 --> 00:29:25,849
+É. Se soubesse quem são,
+você ia ficar pasmo.
+
+443
+00:29:25,933 --> 00:29:26,934
+Eu imagino.
+
+444
+00:29:27,726 --> 00:29:28,769
+Ned, prazer.
+
+445
+00:29:29,770 --> 00:29:30,771
+O meu nome é...
+
+446
+00:29:30,854 --> 00:29:33,273
+Uau, tem umas 50 pessoas aqui em casa.
+
+447
+00:29:33,357 --> 00:29:36,193
+Estatisticamente,
+ao menos duas são sociopatas,
+
+448
+00:29:36,610 --> 00:29:38,070
+o que é até maneiro.
+
+449
+00:29:40,948 --> 00:29:41,990
+Flores bonitas.
+
+450
+00:29:43,450 --> 00:29:46,495
+Presente de casa nova.
+
+451
+00:29:46,578 --> 00:29:47,663
+- Sério?
+- É.
+
+452
+00:29:48,330 --> 00:29:50,457
+Valeu. A galera trouxe cerveja e chips.
+
+453
+00:29:50,541 --> 00:29:51,750
+Isso é legal.
+
+454
+00:29:51,834 --> 00:29:52,918
+Prazer, MJ.
+
+455
+00:29:54,002 --> 00:29:57,422
+Eu sou... sou o... Maynard.
+
+456
+00:29:58,632 --> 00:29:59,758
+Maynard.
+
+457
+00:30:01,260 --> 00:30:02,886
+Vocês não se conhecem?
+
+458
+00:30:03,345 --> 00:30:04,888
+Não, eu sou vizinho.
+
+459
+00:30:04,972 --> 00:30:06,098
+Amigo da vizinhança.
+
+460
+00:30:09,852 --> 00:30:10,936
+Foi mal.
+
+461
+00:30:11,478 --> 00:30:13,063
+E como foi a entrevista?
+
+462
+00:30:13,689 --> 00:30:15,357
+Vou botar isso aqui na água.
+
+463
+00:30:15,440 --> 00:30:17,192
+Muito prazer, Maynard. Nerd.
+
+464
+00:30:17,276 --> 00:30:18,277
+Maynard. É.
+
+465
+00:30:18,944 --> 00:30:19,945
+Licença aí.
+
+466
+00:30:20,737 --> 00:30:23,490
+Você foi? Por favor, diz que foi.
+
+467
+00:30:23,574 --> 00:30:24,700
+É, eu fui.
+
+468
+00:30:24,783 --> 00:30:26,243
+E?
+
+469
+00:30:26,326 --> 00:30:27,452
+E me deram a vaga.
+
+470
+00:30:27,536 --> 00:30:29,663
+Meu Deus, MJ, isso é o máximo.
+
+471
+00:30:29,746 --> 00:30:31,540
+Eu recusei.
+
+472
+00:30:31,623 --> 00:30:32,791
+Oi?
+
+473
+00:30:32,875 --> 00:30:35,210
+É, não quero trabalhar
+pra uma empresa sem alma.
+
+474
+00:30:36,211 --> 00:30:38,130
+Nem todas são desalmadas.
+
+475
+00:30:39,089 --> 00:30:40,966
+Tá bom, a maioria não tem alma.
+
+476
+00:30:41,049 --> 00:30:42,926
+Mas você não quer plano de saúde?
+
+477
+00:30:43,010 --> 00:30:45,262
+Quero, claro, mas a que custo?
+
+478
+00:30:45,345 --> 00:30:47,014
+Depende do desconto na folha.
+
+479
+00:30:48,056 --> 00:30:49,766
+Ah, fala de princípios?
+
+480
+00:30:49,850 --> 00:30:50,934
+- Sim.
+- Foi mal.
+
+481
+00:30:51,018 --> 00:30:52,352
+Sei que é meio cafona,
+
+482
+00:30:52,436 --> 00:30:54,771
+mas alguma coisa me diz
+
+483
+00:30:54,855 --> 00:30:58,400
+que eu devia esperar
+uma coisa incrível, sabe?
+
+484
+00:30:59,568 --> 00:31:03,488
+Tá, então, um brinde
+a esperar uma coisa incrível.
+
+485
+00:31:04,114 --> 00:31:05,324
+A esperar uma coisa incrível.
+
+486
+00:31:05,908 --> 00:31:07,743
+Pois a espera acabou.
+
+487
+00:31:09,036 --> 00:31:10,120
+À casa nova.
+
+488
+00:31:10,204 --> 00:31:11,538
+Mano, isso aqui é top.
+
+489
+00:31:11,622 --> 00:31:12,664
+Que nem você.
+
+490
+00:31:14,208 --> 00:31:15,042
+Cara...
+
+491
+00:31:16,043 --> 00:31:17,044
+Eu vou esconder.
+
+492
+00:31:19,463 --> 00:31:20,964
+Roubei isso dele de novo.
+
+493
+00:31:22,758 --> 00:31:25,385
+Mas e se o Ned precisar
+do fogo de mil tubarões?
+
+494
+00:31:25,469 --> 00:31:26,762
+No caso, taquicardia?
+
+495
+00:31:28,805 --> 00:31:30,933
+- Não dá pra salvar todo mundo.
+- Posso tentar.
+
+496
+00:31:33,060 --> 00:31:34,061
+Minha garota.
+
+497
+00:31:50,702 --> 00:31:52,037
+Licença, eu preciso...
+
+498
+00:32:12,850 --> 00:32:15,811
+Quando a gente passar pro MIT,
+a gente devia morar junto.
+
+499
+00:32:16,395 --> 00:32:18,272
+<i>- Com certeza.
+- Eu adoraria.</i>
+
+500
+00:32:18,689 --> 00:32:21,483
+Vai ser um recomeço.
+E a gente vai estar junto.
+
+501
+00:32:23,110 --> 00:32:24,486
+É, você tá certo.
+
+502
+00:32:24,570 --> 00:32:25,696
+Um recomeço.
+
+503
+00:32:28,782 --> 00:32:30,868
+<i>Vocês vão esquecer quem eu sou.</i>
+
+504
+00:32:30,951 --> 00:32:32,744
+<i>Esquecer você? Como assim?</i>
+
+505
+00:32:32,828 --> 00:32:36,999
+<i>Tudo bem.
+Vou achar vocês e explicar tudo.</i>
+
+506
+00:32:38,292 --> 00:32:39,626
+- Eu te...
+- Espera.
+
+507
+00:32:40,794 --> 00:32:42,963
+Espera e fala quando me vir de novo.
+
+508
+00:32:47,384 --> 00:32:51,471
+O meu nome é Peter Parker
+e eu queria um café.
+
+509
+00:32:51,972 --> 00:32:52,973
+É UM PRAZER
+SERVIR VOCÊ
+
+510
+00:32:53,056 --> 00:32:55,225
+Mais alguma coisa?
+
+511
+00:33:04,651 --> 00:33:05,652
+Não.
+
+512
+00:33:22,002 --> 00:33:25,297
+Oi. Meu nome é Peter Parker.
+Você não lembra de mim, mas vou...
+
+513
+00:34:07,381 --> 00:34:08,507
+<i>Oi.</i>
+
+514
+00:34:09,716 --> 00:34:10,717
+Oi.
+
+515
+00:34:13,011 --> 00:34:16,639
+Acha que não precisa mais me ouvir
+agora que tem poderes?
+
+516
+00:34:21,562 --> 00:34:26,733
+Olha só, essa coisa toda
+pode ficar assustadora.
+
+517
+00:34:27,525 --> 00:34:28,527
+Você sabe, né?
+
+518
+00:34:29,902 --> 00:34:31,487
+Eu já acho bem assustador.
+
+519
+00:34:33,782 --> 00:34:34,783
+É.
+
+520
+00:34:35,367 --> 00:34:38,245
+E tudo pode mudar muito rápido,
+
+521
+00:34:38,328 --> 00:34:40,621
+de jeitos que a gente nem tem
+como imaginar.
+
+522
+00:34:41,248 --> 00:34:42,583
+Vai por mim, eu sei.
+
+523
+00:34:45,918 --> 00:34:47,295
+Acho que não.
+
+524
+00:34:49,882 --> 00:34:50,924
+Como assim?
+
+525
+00:35:16,491 --> 00:35:17,576
+Meu Deus.
+
+526
+00:35:59,910 --> 00:36:00,911
+Quê?
+
+527
+00:36:18,887 --> 00:36:19,888
+Eu...
+
+528
+00:36:21,139 --> 00:36:22,474
+Eu moro aqui, eu só...
+
+529
+00:36:24,768 --> 00:36:25,978
+Deixa eu pegar minha roupa.
+
+530
+00:36:44,538 --> 00:36:45,581
+Esse top é meu?
+
+531
+00:36:48,166 --> 00:36:49,168
+Não.
+
+532
+00:36:50,127 --> 00:36:51,170
+Que fofo.
+
+533
+00:36:59,511 --> 00:37:00,596
+Gostosa
+
+534
+00:37:19,656 --> 00:37:22,743
+<i>Oi, Peter. Você tem 107 novos alertas.</i>
+
+535
+00:37:22,826 --> 00:37:24,661
+<i>Por favor, confira o histórico.</i>
+
+536
+00:37:31,168 --> 00:37:34,463
+O que tá acontecendo?
+
+537
+00:37:35,005 --> 00:37:36,006
+HUMANO - ARACNÍDEO
+
+538
+00:37:36,089 --> 00:37:38,675
+<i>Seu exame corporal
+mostra alta nos hormônios</i>
+
+539
+00:37:38,759 --> 00:37:41,053
+<i>associados ao seu DNA aracnídeo,</i>
+
+540
+00:37:41,136 --> 00:37:44,139
+<i>resultando na formação
+de fieiras de teias orgânicas</i>
+
+541
+00:37:44,223 --> 00:37:47,059
+<i>e receptores sensoriais
+perigosamente apurados.</i>
+
+542
+00:37:47,142 --> 00:37:49,228
+Beleza, mas tô me sentindo normal.
+
+543
+00:37:49,478 --> 00:37:53,690
+<i>Isolamento e traumas
+podem levar à mudança repentina.</i>
+
+544
+00:37:54,483 --> 00:37:57,152
+<i>Passou recentemente
+por alguma experiência traumática?</i>
+
+545
+00:37:59,905 --> 00:38:00,906
+<i>Peter?</i>
+
+546
+00:38:01,532 --> 00:38:03,075
+Eu tô bem, E.V.
+
+547
+00:38:03,158 --> 00:38:04,493
+<i>Não parece bem.</i>
+
+548
+00:38:04,576 --> 00:38:07,246
+<i>Sugiro que tire um tempo
+para se restabelecer.</i>
+
+549
+00:38:07,329 --> 00:38:09,414
+Isso não é uma opção no momento, é?
+
+550
+00:38:25,597 --> 00:38:27,975
+<i>Lançadores de teia mecânicos
+e as teias orgânicas</i>
+
+551
+00:38:28,058 --> 00:38:30,269
+<i>não podem ser usados simultaneamente.</i>
+
+552
+00:38:31,728 --> 00:38:32,980
+Vamos lá, Peter.
+
+553
+00:38:52,833 --> 00:38:55,377
+<i>Alerta. Sentidos sobrecarregados.</i>
+
+554
+00:38:57,462 --> 00:38:59,798
+<i>Alerta. Sentidos sobrecarregados.</i>
+
+555
+00:39:02,176 --> 00:39:05,179
+<i>Alerta. Sentidos sobrecarregados. Alerta.</i>
+
+556
+00:39:08,891 --> 00:39:10,559
+Que parada é essa?
+
+557
+00:39:11,059 --> 00:39:14,980
+<i>Seus sentidos apurados assimilam
+informações demais ao mesmo tempo.</i>
+
+558
+00:39:15,606 --> 00:39:18,192
+Beleza.
+
+559
+00:39:18,275 --> 00:39:19,276
+Tá de boa.
+
+560
+00:39:19,359 --> 00:39:21,987
+Tudo bem. Teias orgânicas.
+O Peter 2 tinha.
+
+561
+00:39:22,070 --> 00:39:23,864
+Ele era de boa. Tá de boa.
+
+562
+00:39:32,789 --> 00:39:34,166
+Ai, meu Deus, que nojento.
+
+563
+00:39:35,042 --> 00:39:36,084
+Beleza, vamos lá.
+
+564
+00:39:38,295 --> 00:39:39,338
+Tá, não rolou.
+
+565
+00:39:41,089 --> 00:39:43,258
+Teias orgânicas. Bora lá! E teia!
+
+566
+00:39:46,845 --> 00:39:47,846
+Não, não!
+
+567
+00:39:50,891 --> 00:39:51,892
+Para!
+
+568
+00:39:55,437 --> 00:39:56,438
+O que foi, E.V.?
+
+569
+00:39:57,022 --> 00:40:00,609
+<i>Tiroteio no data center
+da Controle de Danos em Manhattan.</i>
+
+570
+00:40:00,692 --> 00:40:03,111
+<i>O reconhecimento facial
+identificou o Escorpião.</i>
+
+571
+00:40:03,195 --> 00:40:04,530
+Beleza, já tô indo.
+
+572
+00:40:05,239 --> 00:40:06,949
+Vamos lá. Três, dois...
+
+573
+00:40:07,282 --> 00:40:08,283
+Teia! Para!
+
+574
+00:40:11,703 --> 00:40:12,704
+Teia, para!
+
+575
+00:40:15,791 --> 00:40:17,835
+Teia! Para! Pombos, pombos!
+
+576
+00:40:18,669 --> 00:40:19,670
+Teia! Para.
+
+577
+00:40:24,049 --> 00:40:25,342
+Foi mal. Foi mal.
+
+578
+00:40:26,134 --> 00:40:27,636
+Teia! Para.
+
+579
+00:40:27,719 --> 00:40:28,720
+Ai, meu Deus!
+
+580
+00:40:29,555 --> 00:40:31,098
+Teia! Para, para, para.
+
+581
+00:40:52,953 --> 00:40:55,372
+DEPARTAMENTO
+DE CONTROLE DE DANOS
+
+582
+00:40:55,455 --> 00:40:57,457
+Não sei o que você tá procurando.
+
+583
+00:40:57,541 --> 00:40:59,501
+Tô procurando o V-Max.
+
+584
+00:41:02,087 --> 00:41:04,256
+Eu não sei de nada.
+
+585
+00:41:04,339 --> 00:41:05,883
+Vamos ver se não.
+
+586
+00:41:08,969 --> 00:41:09,970
+Ai, não, ai, não!
+
+587
+00:41:18,604 --> 00:41:21,231
+Foi mal, atrasei. Meu dia tá uma doideira.
+
+588
+00:41:39,833 --> 00:41:43,253
+Escorpião, precisamos mesmo fazer isso?
+Tô com uma enxaqueca...
+
+589
+00:41:44,254 --> 00:41:45,756
+Você acha que eu sou o Escorpião?
+
+590
+00:41:47,466 --> 00:41:48,467
+Teia!
+
+591
+00:41:50,469 --> 00:41:51,887
+O que você tem?
+
+592
+00:41:59,770 --> 00:42:01,438
+Não consegue mais me sentir.
+
+593
+00:42:04,775 --> 00:42:05,776
+Você...
+
+594
+00:42:05,859 --> 00:42:07,694
+O que você tem, Homem-Aranha?
+
+595
+00:42:16,995 --> 00:42:19,623
+<i>Alerta. Hormônios aracnídeos elevados.</i>
+
+596
+00:42:35,347 --> 00:42:36,390
+Quem é você?
+
+597
+00:42:37,349 --> 00:42:38,767
+Você sabe quem você é?
+
+598
+00:43:02,916 --> 00:43:04,877
+- Ajudem aqui.
+- Tá, estamos indo.
+
+599
+00:43:13,927 --> 00:43:15,012
+Homem-Aranha.
+
+600
+00:43:17,681 --> 00:43:18,807
+Que que é isso?
+
+601
+00:43:19,141 --> 00:43:20,601
+Chamem uma ambulância.
+
+602
+00:43:40,996 --> 00:43:42,080
+DeWolff, ela se machucou?
+
+603
+00:43:43,207 --> 00:43:44,208
+Ela tá bem?
+
+604
+00:43:44,625 --> 00:43:45,959
+- Ela tá bem?
+- Não!
+
+605
+00:43:46,043 --> 00:43:48,128
+- Vou lá...
+- Não! O que há contigo?
+
+606
+00:43:48,212 --> 00:43:49,379
+Não era o Escorpião, tá?
+
+607
+00:43:49,463 --> 00:43:53,300
+Quer dizer, era, só que possuído
+pela mesma coisa que roubou o tanque.
+
+608
+00:43:53,383 --> 00:43:55,636
+- Olha, me deixa só...
+- Escuta. Calma.
+
+609
+00:43:58,055 --> 00:44:01,892
+Escuta, não sei o que você tem,
+mas preciso que se controle.
+
+610
+00:44:02,434 --> 00:44:03,936
+Você quase matou uma policial.
+
+611
+00:44:06,730 --> 00:44:08,273
+Você não é assim.
+
+612
+00:44:08,357 --> 00:44:09,441
+Eu sei. Sinto muito.
+
+613
+00:44:09,983 --> 00:44:12,611
+Se agir desse jeito de novo,
+não vou poder te proteger.
+
+614
+00:44:13,529 --> 00:44:16,365
+Não sei o que deu em você,
+mas dá um jeito nisso.
+
+615
+00:44:37,594 --> 00:44:39,888
+<i>Na cromodinâmica quântica,</i>
+
+616
+00:44:41,265 --> 00:44:44,977
+é possível organizar
+tempo e espaço em uma rede.
+
+617
+00:44:45,060 --> 00:44:50,065
+Assim, conseguimos simular
+as interações entre quarks e prótons.
+
+618
+00:44:51,066 --> 00:44:55,112
+Cindy, a sua pergunta é sobre prótons
+ou de novo sobre os Vingadores?
+
+619
+00:44:56,196 --> 00:44:58,782
+Tá bom, gente, adoro contar histórias,
+
+620
+00:44:58,866 --> 00:45:02,077
+mas, poxa, preciso dar aula de física
+em algum momento.
+
+621
+00:45:06,415 --> 00:45:08,667
+Tá bom. Manda ver, Cindy.
+
+622
+00:45:08,750 --> 00:45:11,837
+Se a questão pro Thanos
+era densidade populacional,
+
+623
+00:45:11,920 --> 00:45:15,424
+por que ele só não usou a luva mágica
+pra fazer mais comida?
+
+624
+00:45:19,052 --> 00:45:21,263
+Arthur, quer responder essa pergunta?
+
+625
+00:45:22,055 --> 00:45:25,559
+Hulk esmaga!
+
+626
+00:45:29,062 --> 00:45:30,189
+Tá respondido.
+
+627
+00:45:31,773 --> 00:45:33,817
+Com licença, Dr. Banner, eu...
+
+628
+00:45:36,236 --> 00:45:38,447
+- Tudo bem?
+- Tudo, foi mal, é dor de cabeça.
+
+629
+00:45:38,530 --> 00:45:40,866
+Tem um minuto?
+Queria falar do seu inibidor.
+
+630
+00:45:42,743 --> 00:45:45,704
+Claro. Fica tranquilo.
+Tem travas de segurança.
+
+631
+00:45:45,787 --> 00:45:49,958
+Não vou virar o monstrengo verdão
+enfurecido no refeitório.
+
+632
+00:45:50,542 --> 00:45:53,045
+Mas se você me vir sem isso aqui, corre.
+
+633
+00:45:56,590 --> 00:45:59,885
+Mas você usa interferência
+específica de RNA, né?
+
+634
+00:46:01,386 --> 00:46:04,306
+Silenciamento de gene,
+você só incorpora a radiação gama?
+
+635
+00:46:06,934 --> 00:46:08,101
+Qual é o seu nome mesmo?
+
+636
+00:46:09,686 --> 00:46:11,980
+Ned... Leeds.
+
+637
+00:46:12,606 --> 00:46:15,567
+Você achou uma forma
+de suprimir a expressão do DNA
+
+638
+00:46:15,651 --> 00:46:18,737
+enquanto ele sofre mutação
+pela radiação gama, não é?
+
+639
+00:46:18,820 --> 00:46:21,281
+- Isso.
+- Beleza, a minha pergunta é:
+
+640
+00:46:22,074 --> 00:46:26,995
+essa mesma coisa seria possível com DNA
+que sofre mutação por outro motivo?
+
+641
+00:46:29,081 --> 00:46:30,123
+Qual é o motivo?
+
+642
+00:46:32,042 --> 00:46:33,085
+Sei lá.
+
+643
+00:46:34,127 --> 00:46:38,090
+Digamos que o genoma do hospedeiro
+tenha um DNA estrangeiro.
+
+644
+00:46:38,173 --> 00:46:39,258
+Teoricamente.
+
+645
+00:46:40,342 --> 00:46:42,928
+Teoricamente, sim, é possível.
+
+646
+00:46:43,929 --> 00:46:47,182
+E daria pra suprimir
+só partes da expressão do DNA?
+
+647
+00:46:47,266 --> 00:46:49,810
+Só as partes ruins,
+mas deixar todas as coisas boas?
+
+648
+00:46:50,686 --> 00:46:53,689
+Manter algumas partes do Hulk,
+mas não todas?
+
+649
+00:46:53,772 --> 00:46:54,982
+Isso.
+
+650
+00:46:55,399 --> 00:46:59,403
+Seria extremamente perigoso
+e complexo, mas...
+
+651
+00:47:00,696 --> 00:47:04,491
+se você conseguisse selecionar
+o RNA mensageiro certo,
+
+652
+00:47:05,367 --> 00:47:06,451
+é possível.
+
+653
+00:47:06,535 --> 00:47:08,996
+Daria pra ligar e desligar o gene mutante?
+
+654
+00:47:09,079 --> 00:47:11,665
+É só fazer antes da transcrição
+do RNA mensageiro?
+
+655
+00:47:12,249 --> 00:47:13,292
+Talvez.
+
+656
+00:47:15,502 --> 00:47:17,713
+Aplicando o mesmo raciocínio,
+dá até pra...
+
+657
+00:47:18,422 --> 00:47:20,465
+fazer um inibidor automático
+
+658
+00:47:20,549 --> 00:47:23,552
+pra se ajustar a qualquer tipo de mutação.
+
+659
+00:47:24,595 --> 00:47:27,431
+Aí você tá falando
+de um inibidor universal
+
+660
+00:47:27,514 --> 00:47:30,642
+que controlaria
+qualquer um que tenha poderes.
+
+661
+00:47:32,019 --> 00:47:33,228
+Uma ideia perigosa.
+
+662
+00:47:34,438 --> 00:47:36,440
+É, mas é só na teoria, né?
+
+663
+00:47:39,151 --> 00:47:40,652
+Você não é meu aluno, é?
+
+664
+00:47:43,155 --> 00:47:44,531
+Não. Já tô na pós.
+
+665
+00:47:45,490 --> 00:47:46,491
+Eu vou...
+
+666
+00:47:47,576 --> 00:47:51,163
+Já te prendi demais.
+Vou devolver uns livros na biblioteca.
+
+667
+00:47:51,246 --> 00:47:52,581
+A biblioteca é pra lá.
+
+668
+00:47:54,583 --> 00:47:56,752
+É. Pode crer.
+
+669
+00:47:56,835 --> 00:47:58,212
+Como decidir?
+
+670
+00:47:59,087 --> 00:48:00,088
+O quê?
+
+671
+00:48:01,131 --> 00:48:03,133
+Quais partes da natureza
+são boas ou ruins?
+
+672
+00:48:03,926 --> 00:48:05,844
+E se você tentar controlar a expressão
+
+673
+00:48:05,928 --> 00:48:07,971
+de uma coisa que precisa ser expressa?
+
+674
+00:48:13,727 --> 00:48:15,229
+Boa sorte nos estudos, Ned.
+
+675
+00:48:17,189 --> 00:48:18,649
+Obrigado, professor.
+
+676
+00:48:19,441 --> 00:48:20,567
+<i>Como répteis...</i>
+
+677
+00:48:20,651 --> 00:48:21,693
+- Nossa.
+<i>- ...anfíbios e...</i>
+
+678
+00:48:21,777 --> 00:48:23,028
+INIBIDOR
+PROGRESSO DA FABRICAÇÃO
+
+679
+00:48:23,111 --> 00:48:26,323
+<i>...aranhas trocam de pele
+em seu ciclo de vida.</i>
+
+680
+00:48:26,615 --> 00:48:28,158
+<i>Um processo chamado de ecdise.</i>
+
+681
+00:48:28,784 --> 00:48:31,245
+<i>Quarto protótipo do inibidor concluído.</i>
+
+682
+00:48:31,328 --> 00:48:32,412
+<i>Embora natural e...</i>
+
+683
+00:48:32,496 --> 00:48:34,831
+<i>- parte do ciclo de vida das aranhas...</i>
+- Tá, vai.
+
+684
+00:48:34,915 --> 00:48:36,834
+<i>...ele deixa a aranha
+vulnerável a ameaças.</i>
+
+685
+00:48:36,917 --> 00:48:39,253
+Carregar inibidor versão beta 7.
+
+686
+00:48:39,336 --> 00:48:40,629
+<i>...processos hormonais...</i>
+
+687
+00:48:40,712 --> 00:48:42,881
+<i>Carregado. Gostaria de iniciar um teste?</i>
+
+688
+00:48:43,507 --> 00:48:44,508
+Pode iniciar.
+
+689
+00:48:44,591 --> 00:48:45,843
+<i>...de horas até dias.</i>
+
+690
+00:48:46,969 --> 00:48:50,222
+<i>O ciclo de vida das aranhas
+tem três fases.</i>
+
+691
+00:48:50,305 --> 00:48:53,517
+<i>Cada uma é caracterizada
+por mudanças físicas,</i>
+
+692
+00:48:53,600 --> 00:48:58,814
+<i>sendo a maior a que acontece
+na bela transição para a vida adulta.</i>
+
+693
+00:49:01,400 --> 00:49:02,776
+<i>Para aquelas que sobrevivem,</i>
+
+694
+00:49:03,277 --> 00:49:05,571
+<i>a ecdise é um tipo de renascimento.</i>
+
+695
+00:49:05,654 --> 00:49:07,030
+Desliga esse documentário?
+
+696
+00:49:07,114 --> 00:49:08,490
+<i>Desligando vídeo.</i>
+
+697
+00:49:09,366 --> 00:49:10,826
+<i>- Inibidor ativo.</i>
+- Tá. Testando.
+
+698
+00:49:10,909 --> 00:49:12,244
+Vamos lá, vamos lá.
+
+699
+00:49:13,745 --> 00:49:15,372
+Acompanha os sinais vitais.
+
+700
+00:49:17,791 --> 00:49:19,334
+<i>Inibidor acionado.</i>
+
+701
+00:49:23,297 --> 00:49:25,799
+<i>Suprimindo hormônios aracnídeos
+a seus níveis basais.</i>
+
+702
+00:49:25,883 --> 00:49:26,925
+NÍVEIS HORMONAIS
+HUMANO - ARACNÍDEO
+
+703
+00:49:29,803 --> 00:49:30,804
+Beleza.
+
+704
+00:49:34,766 --> 00:49:36,310
+Beleza, E.V., vamos nessa.
+
+705
+00:49:36,393 --> 00:49:38,353
+<i>Iniciando teste prático 1.</i>
+
+706
+00:49:40,314 --> 00:49:41,398
+Tá funcionando.
+
+707
+00:49:41,481 --> 00:49:45,444
+<i>Alerta. Inibidor superaquecendo.
+Desempenho reduzido.</i>
+
+708
+00:49:45,527 --> 00:49:47,237
+É, deu pra sentir.
+
+709
+00:49:47,321 --> 00:49:49,198
+<i>Alerta. Sentidos sobrecarregados.</i>
+
+710
+00:49:49,281 --> 00:49:52,993
+<i>Alerta. Sentidos sobrecarregados.
+Sentidos sobrecarregados. Alerta.</i>
+
+711
+00:49:54,077 --> 00:49:55,954
+<i>Granadas de teia ativadas.</i>
+
+712
+00:49:56,038 --> 00:49:57,080
+GRANADAS ATIVADAS
+
+713
+00:49:58,040 --> 00:49:59,041
+Que m...
+
+714
+00:50:11,512 --> 00:50:13,889
+<i>Teste 1 do campo do inibidor. Falho.</i>
+
+715
+00:50:16,725 --> 00:50:19,561
+Aí, Homem-Aranha. Tudo bem?
+
+716
+00:50:20,229 --> 00:50:22,314
+Tudo, tô testando tecnologia nova.
+
+717
+00:50:23,148 --> 00:50:25,776
+É. Pra controlar o monstro dentro de você?
+
+718
+00:50:31,198 --> 00:50:32,616
+Ainda não tá me sentindo, né?
+
+719
+00:50:34,284 --> 00:50:36,161
+Sua tecnologia não funciona.
+
+720
+00:50:37,329 --> 00:50:39,831
+Você é a única pessoa
+que eu não consigo...
+
+721
+00:50:40,707 --> 00:50:41,959
+pular na mente.
+
+722
+00:50:42,751 --> 00:50:44,753
+Deve ser bem frustrante pra você.
+
+723
+00:50:44,837 --> 00:50:46,255
+Um dia, eu entro aí.
+
+724
+00:50:46,338 --> 00:50:47,464
+O que você quer?
+
+725
+00:50:49,341 --> 00:50:52,386
+Queria saber por que um ser
+meio humano, meio aranha
+
+726
+00:50:52,469 --> 00:50:54,763
+escolhe trabalhar pra uma organização
+
+727
+00:50:54,847 --> 00:50:58,433
+que tem como missão
+caçar qualquer um que seja diferente.
+
+728
+00:50:59,434 --> 00:51:02,104
+A Controle de Danos não mira vocês
+por serem diferentes.
+
+729
+00:51:02,688 --> 00:51:04,565
+Caçam vocês, porque são perigosos.
+
+730
+00:51:04,648 --> 00:51:06,316
+O que você quer?
+
+731
+00:51:06,942 --> 00:51:10,988
+Já que você é uma aranhazinha limitada,
+vou soletrar pra você.
+
+732
+00:51:12,114 --> 00:51:14,783
+A Controle de Danos
+tá com uma coisa que eu quero.
+
+733
+00:51:15,450 --> 00:51:16,869
+Eu sei. V-Max?
+
+734
+00:51:19,830 --> 00:51:23,292
+Eu ia usar o Escorpião pra achar,
+mas você sempre se mete no caminho.
+
+735
+00:51:23,792 --> 00:51:26,295
+Sempre vou me meter no caminho.
+
+736
+00:51:26,378 --> 00:51:28,964
+Tem certeza, Peter Parker?
+
+737
+00:51:34,136 --> 00:51:37,222
+Aquele seu apartamento
+parece até uma paródia
+
+738
+00:51:37,306 --> 00:51:40,601
+de como vive um solteiro triste
+de 20 e poucos anos.
+
+739
+00:51:41,059 --> 00:51:45,772
+Restos de delivery,
+halteres, proteína em pó.
+
+740
+00:51:50,611 --> 00:51:51,945
+Você tá blefando.
+
+741
+00:51:52,029 --> 00:51:54,031
+Não é difícil te encontrar, Peter.
+
+742
+00:51:54,531 --> 00:51:57,576
+Bom, ao menos, não pra alguém como eu.
+
+743
+00:51:58,827 --> 00:52:00,954
+Mas eu achei uma coisa interessante.
+
+744
+00:52:01,038 --> 00:52:02,122
+É UM PRAZER
+SERVIR VOCÊ
+
+745
+00:52:02,206 --> 00:52:03,707
+E entre tantos lugares...
+
+746
+00:52:05,709 --> 00:52:06,752
+num copo de café.
+
+747
+00:52:09,379 --> 00:52:11,089
+E.V., abrir câmera da mesa de casa.
+
+748
+00:52:13,550 --> 00:52:17,179
+Você passou quatro anos
+apagando a existência do Peter Parker.
+
+749
+00:52:18,096 --> 00:52:20,724
+Tá explicado por que a aranha
+tá engolindo o homem.
+
+750
+00:52:21,225 --> 00:52:23,227
+Será que a MJ reconheceria você?
+
+751
+00:52:26,647 --> 00:52:28,190
+Vou lá ver como ela tá.
+
+752
+00:52:28,357 --> 00:52:29,483
+Não vou deixar.
+
+753
+00:52:29,566 --> 00:52:33,695
+Não, o amigo dela fez o favor
+de postar o endereço novo online.
+
+754
+00:52:33,779 --> 00:52:36,490
+Vamos fazer assim. Apostamos uma corrida.
+
+755
+00:52:36,949 --> 00:52:37,991
+Se encostar nela...
+
+756
+00:52:38,617 --> 00:52:40,202
+Pode lançar suas teias.
+
+757
+00:52:40,285 --> 00:52:41,662
+Eu sou veloz.
+
+758
+00:53:05,018 --> 00:53:06,103
+Aí.
+
+759
+00:53:06,186 --> 00:53:08,230
+O caminho é longo até a MJ.
+
+760
+00:53:09,231 --> 00:53:10,774
+É bom se apressar.
+
+761
+00:53:17,698 --> 00:53:19,783
+E.V., rastrear anomalias físicas.
+
+762
+00:53:20,868 --> 00:53:23,745
+<i>Buscando anomalias físicas
+entre indivíduos.</i>
+
+763
+00:53:23,829 --> 00:53:24,997
+<i>Por favor, aguarde.</i>
+
+764
+00:53:29,585 --> 00:53:32,129
+Muito obrigada
+pela presença de todos vocês.
+
+765
+00:53:38,969 --> 00:53:40,304
+Foi mal aí.
+
+766
+00:53:40,387 --> 00:53:42,347
+Aplausos pro Homem-Aranha,
+
+767
+00:53:42,431 --> 00:53:45,684
+correndo pelo amor da vida dele,
+e a coisa tá feia.
+
+768
+00:53:47,936 --> 00:53:50,189
+Vem, cabeça de teia. Se adianta.
+
+769
+00:53:51,273 --> 00:53:52,274
+Licença. Foi mal.
+
+770
+00:53:56,069 --> 00:53:58,030
+Recém-casados
+
+771
+00:54:01,158 --> 00:54:02,201
+Homem-Aranha!
+
+772
+00:54:05,829 --> 00:54:07,706
+E.V., compara esses dados com os outros.
+
+773
+00:54:10,959 --> 00:54:13,337
+<i>Analisando distância de pulo
+entre hospedeiros.</i>
+
+774
+00:54:15,672 --> 00:54:17,049
+Me dá os resultados.
+
+775
+00:54:17,466 --> 00:54:18,467
+<i>Calculando.</i>
+
+776
+00:54:22,304 --> 00:54:23,972
+Anda, preciso da resposta!
+
+777
+00:54:25,557 --> 00:54:27,184
+<i>Cálculo concluído.</i>
+
+778
+00:54:42,741 --> 00:54:44,952
+O raio dos pulos é limitado, não é?
+
+779
+00:54:45,494 --> 00:54:46,578
+Dez metros.
+
+780
+00:54:47,579 --> 00:54:49,873
+Não tem ninguém aqui em cima
+pra você pular.
+
+781
+00:54:51,208 --> 00:54:52,376
+Espertinho.
+
+782
+00:54:52,793 --> 00:54:55,963
+Como eu falei,
+você não vai chegar perto dela.
+
+783
+00:55:11,687 --> 00:55:13,188
+- Ei, ei!
+- MJ! Você corre perigo.
+
+784
+00:55:13,272 --> 00:55:14,273
+- Cadê seu amigo?
+- Quê?
+
+785
+00:55:14,356 --> 00:55:15,274
+Cadê o Ned?
+
+786
+00:55:15,357 --> 00:55:16,608
+Em Boston, com amigos, por quê?
+
+787
+00:55:16,692 --> 00:55:17,985
+Boa. Precisa vir comigo.
+
+788
+00:55:18,068 --> 00:55:19,778
+Nem sei se você é o Homem-Aranha real.
+
+789
+00:55:19,862 --> 00:55:21,363
+- Não vou.
+- Não temos tempo.
+
+790
+00:55:21,446 --> 00:55:23,615
+- Vem logo.
+- Só sai da minha casa.
+
+791
+00:55:23,699 --> 00:55:25,075
+Vai parecer maluquice,
+
+792
+00:55:25,158 --> 00:55:27,661
+mas tem alguém muito perigoso
+atrás de você, tá?
+
+793
+00:55:27,744 --> 00:55:29,580
+E prometi que ia te proteger.
+
+794
+00:55:30,664 --> 00:55:32,583
+Por favor, confia em mim. Vem.
+
+795
+00:55:36,044 --> 00:55:37,171
+Tá.
+
+796
+00:55:43,802 --> 00:55:44,970
+Teia. Para.
+
+797
+00:55:48,473 --> 00:55:49,474
+Teia. Para.
+
+798
+00:55:53,645 --> 00:55:54,730
+Teia. Para.
+
+799
+00:56:00,194 --> 00:56:01,695
+- Você tá bem?
+- Tô legal.
+
+800
+00:56:01,778 --> 00:56:04,281
+Beleza. Deve ser seguro aqui em cima.
+
+801
+00:56:04,364 --> 00:56:05,574
+Seguro contra o quê?
+
+802
+00:56:06,825 --> 00:56:08,118
+Não sei te dizer.
+
+803
+00:56:08,202 --> 00:56:09,745
+E o que isso quer comigo?
+
+804
+00:56:10,495 --> 00:56:12,164
+- Não sei.
+- Você não sabe?
+
+805
+00:56:12,706 --> 00:56:15,334
+Não faz sentido.
+Por que vir atrás de mim?
+
+806
+00:56:15,876 --> 00:56:18,045
+Queria poder te contar, mas eu...
+
+807
+00:56:20,714 --> 00:56:22,341
+A gente se conhecia, não é?
+
+808
+00:56:26,011 --> 00:56:27,012
+O quê?
+
+809
+00:56:27,971 --> 00:56:29,306
+É a única explicação.
+
+810
+00:56:30,641 --> 00:56:32,017
+Isso me enlouquece há anos,
+
+811
+00:56:32,100 --> 00:56:35,103
+todas as vezes que o Homem-Aranha
+salvou a mim e ao Ned.
+
+812
+00:56:35,187 --> 00:56:36,271
+No Monumento Washington,
+
+813
+00:56:36,355 --> 00:56:38,899
+depois em Londres, Praga
+e o Macaco Noturno.
+
+814
+00:56:39,816 --> 00:56:42,402
+Duas vezes é coincidência,
+mas essas vezes todas?
+
+815
+00:56:44,655 --> 00:56:46,573
+A gente se conhecia. Diz que tô errada.
+
+816
+00:56:48,408 --> 00:56:49,493
+Você tá errada.
+
+817
+00:56:49,576 --> 00:56:52,371
+O que a gente era?
+Colegas de turma? Amigos?
+
+818
+00:56:52,955 --> 00:56:55,290
+Não sei do que você tá falando.
+
+819
+00:56:55,374 --> 00:56:56,917
+A gente era mais que isso?
+
+820
+00:56:58,710 --> 00:57:01,088
+Eu não me lembro.
+
+821
+00:57:01,171 --> 00:57:03,173
+Sinto que embaralharam meu cérebro
+
+822
+00:57:03,257 --> 00:57:05,259
+e só você sabe por quê.
+
+823
+00:57:06,218 --> 00:57:07,594
+Que doideira. Eu não...
+
+824
+00:57:07,678 --> 00:57:09,638
+Sei que não pode falar a verdade.
+
+825
+00:57:12,474 --> 00:57:13,725
+Mas eu preciso saber.
+
+826
+00:57:18,897 --> 00:57:20,899
+Alguma parte de mim talvez ainda lembre.
+
+827
+00:58:01,523 --> 00:58:02,524
+Peter.
+
+828
+00:58:04,568 --> 00:58:05,652
+MJ.
+
+829
+00:58:05,736 --> 00:58:06,820
+Oi, Peter.
+
+830
+00:58:13,076 --> 00:58:14,786
+Que saudade de você.
+
+831
+00:58:19,750 --> 00:58:21,793
+Não acredito que você descobriu.
+
+832
+00:58:21,877 --> 00:58:22,920
+Sim.
+
+833
+00:58:28,675 --> 00:58:31,136
+Vai, Peter. Sente ela.
+
+834
+00:58:32,554 --> 00:58:33,889
+Abraça ela.
+
+835
+00:58:35,224 --> 00:58:37,017
+Você quer isso há tanto tempo.
+
+836
+00:58:45,567 --> 00:58:47,528
+"O beijo do amor quebra o feitiço
+
+837
+00:58:48,111 --> 00:58:50,113
+e reúne os amantes predestinados."
+
+838
+00:58:52,199 --> 00:58:53,575
+A MJ estaria vomitando.
+
+839
+00:58:56,119 --> 00:58:57,996
+Você é uma aranhazinha limitada mesmo.
+
+840
+00:59:01,291 --> 00:59:02,459
+Entendo você gostar dela.
+
+841
+00:59:02,960 --> 00:59:04,002
+Ela é...
+
+842
+00:59:05,170 --> 00:59:06,588
+Ela é esperta,
+
+843
+00:59:07,130 --> 00:59:08,173
+engraçada
+
+844
+00:59:09,049 --> 00:59:10,467
+e tem um lado meio dark.
+
+845
+00:59:14,388 --> 00:59:15,472
+E é triste.
+
+846
+00:59:16,598 --> 00:59:19,726
+Nenhum dos pensamentos aqui é sobre você,
+
+847
+00:59:21,103 --> 00:59:22,312
+nenhum.
+
+848
+00:59:23,856 --> 00:59:25,274
+Mas já sabia disso, né?
+
+849
+00:59:26,567 --> 00:59:27,901
+Você é um monstro.
+
+850
+00:59:28,819 --> 00:59:30,612
+Se amasse alguém como eu amo ela,
+
+851
+00:59:30,696 --> 00:59:33,490
+ia saber que o que tá fazendo
+é imperdoável.
+
+852
+00:59:33,574 --> 00:59:34,658
+É mesmo?
+
+853
+00:59:41,665 --> 00:59:44,751
+Tem quem mataria pra abraçar
+quem ama uma última vez.
+
+854
+00:59:46,628 --> 00:59:48,005
+Para com isso agora.
+
+855
+00:59:57,806 --> 00:59:59,224
+Seu tempo tá acabando.
+
+856
+01:00:00,350 --> 01:00:03,854
+Logo, ninguém mais vai se lembrar
+do Peter Parker.
+
+857
+01:00:05,355 --> 01:00:07,191
+Escreve uma carta pra si mesmo.
+
+858
+01:00:11,695 --> 01:00:12,738
+Sai dela.
+
+859
+01:00:14,281 --> 01:00:16,116
+Quem é o monstro agora, Peter?
+
+860
+01:00:39,014 --> 01:00:40,015
+MJ.
+
+861
+01:00:40,641 --> 01:00:42,976
+MJ. Não, não, não. Meu Deus.
+
+862
+01:00:43,060 --> 01:00:44,686
+Meu Deus. Por favor, não.
+
+863
+01:00:44,770 --> 01:00:46,438
+Acorda, vai. Acorda.
+
+864
+01:00:46,522 --> 01:00:49,066
+Graças a Deus. Ai, meu Deus.
+
+865
+01:00:49,149 --> 01:00:52,069
+Você tá bem. Você tá bem.
+
+866
+01:00:52,152 --> 01:00:53,403
+Me desculpa.
+
+867
+01:00:55,864 --> 01:00:58,116
+Para. Não, para, por favor!
+Desisto.
+
+868
+01:00:58,200 --> 01:01:00,410
+Você venceu, você ganhou!
+Só não machuca ela.
+
+869
+01:01:03,372 --> 01:01:05,207
+Você tá acabado, Homem-Aranha.
+
+870
+01:01:07,543 --> 01:01:09,086
+Quando eu quiser...
+
+871
+01:01:09,169 --> 01:01:10,671
+Posso ser quem eu quiser.
+
+872
+01:01:11,755 --> 01:01:13,507
+Então não pode proteger a MJ
+
+873
+01:01:14,883 --> 01:01:16,468
+nem dela mesma.
+
+874
+01:01:23,934 --> 01:01:25,352
+A carta é muito bonita.
+
+875
+01:01:26,311 --> 01:01:27,354
+Pesou um pouco.
+
+876
+01:01:27,437 --> 01:01:28,605
+Mas não tá ruim.
+
+877
+01:01:38,615 --> 01:01:39,741
+BUSCANDO ALVO...
+
+878
+01:01:39,825 --> 01:01:42,286
+ALVO ENCONTRADO
+NOME DESCONHECIDO
+
+879
+01:01:47,583 --> 01:01:50,127
+Tá tudo bem. Te levo pra um lugar seguro.
+
+880
+01:01:50,210 --> 01:01:51,253
+O que...
+
+881
+01:01:52,629 --> 01:01:53,839
+Me leva pro nº 3165...
+
+882
+01:01:53,922 --> 01:01:55,174
+Rua Lafayette.
+
+883
+01:01:55,257 --> 01:01:57,634
+<i>Iniciando rota
+para Universidade Empire State.</i>
+
+884
+01:02:02,639 --> 01:02:03,932
+Peraí, peraí! Ok.
+
+885
+01:02:05,976 --> 01:02:07,227
+- Tô te segurando.
+- Jura?
+
+886
+01:02:07,311 --> 01:02:09,563
+- Sim.
+- Porque sinto que tô escorregando.
+
+887
+01:02:09,646 --> 01:02:10,647
+- Não tá.
+- Ok.
+
+888
+01:02:12,524 --> 01:02:13,859
+Tá tudo bem, tudo bem.
+
+889
+01:02:13,942 --> 01:02:15,527
+Tá, tá. Eu tô bem. Tô bem.
+
+890
+01:02:18,822 --> 01:02:19,823
+Tá.
+
+891
+01:02:19,907 --> 01:02:22,576
+- Vai mais devagar só por dois segundos?
+- Tá quase lá.
+
+892
+01:02:22,659 --> 01:02:24,995
+Mas me falou que controlaram minha mente.
+
+893
+01:02:25,078 --> 01:02:26,079
+Em tese, não.
+
+894
+01:02:26,163 --> 01:02:27,331
+Acredito nessas coisas.
+
+895
+01:02:27,414 --> 01:02:29,666
+Governos fazem isso há anos,
+sobretudo o francês.
+
+896
+01:02:30,250 --> 01:02:31,460
+- Você tá bem?
+- Tô.
+
+897
+01:02:31,543 --> 01:02:34,338
+Olha, foi mal. Só quero
+te levar pra um lugar seguro.
+
+898
+01:02:38,550 --> 01:02:39,843
+Não me sinto segura.
+
+899
+01:02:41,887 --> 01:02:42,888
+Droga.
+
+900
+01:02:47,893 --> 01:02:49,102
+- Foi mal.
+- Cuidado!
+
+901
+01:02:58,695 --> 01:02:59,947
+Deu mole, moleque.
+
+902
+01:03:00,322 --> 01:03:02,866
+Não pensei que te pegaria de surpresa.
+
+903
+01:03:02,950 --> 01:03:04,034
+Qual o seu problema?
+
+904
+01:03:04,117 --> 01:03:05,369
+- Quase matou a gente.
+- Espera.
+
+905
+01:03:05,744 --> 01:03:08,288
+Chega na minha casa sem aviso
+e espera o quê?
+
+906
+01:03:08,372 --> 01:03:09,414
+Essa é sua casa?
+
+907
+01:03:09,498 --> 01:03:10,582
+- Não. Não.
+- Quem é ela?
+
+908
+01:03:10,999 --> 01:03:12,000
+Quem é você?
+
+909
+01:03:12,668 --> 01:03:13,669
+Ela é...
+
+910
+01:03:14,628 --> 01:03:15,629
+Você sabe.
+
+911
+01:03:15,712 --> 01:03:17,798
+Não sei, por isso eu perguntei.
+
+912
+01:03:17,881 --> 01:03:20,717
+Ela tá em perigo, Frank.
+Preciso da sua ajuda.
+
+913
+01:03:20,801 --> 01:03:23,303
+- É, tô vendo.
+- Qual é. Me deve uma.
+
+914
+01:03:23,387 --> 01:03:24,721
+Não cansou dessa história?
+
+915
+01:03:24,805 --> 01:03:25,806
+Staten Island!
+
+916
+01:03:25,889 --> 01:03:27,349
+Que Staten Island.
+
+917
+01:03:27,432 --> 01:03:29,893
+O que mais quer que eu faça?
+Eu salvei sua vida!
+
+918
+01:03:29,977 --> 01:03:30,978
+Você tá maluco, garoto!
+
+919
+01:03:31,061 --> 01:03:32,729
+Preciso salvar duas vezes por um favor?
+
+920
+01:03:32,813 --> 01:03:34,231
+Ele não me acertaria nem querendo.
+
+921
+01:03:34,314 --> 01:03:35,607
+Diz o que acha.
+
+922
+01:03:35,691 --> 01:03:36,859
+- Na mira.
+- O bandido ia atirar.
+
+923
+01:03:36,942 --> 01:03:38,318
+- Eu via ele.
+- Puxei a arma
+
+924
+01:03:38,402 --> 01:03:39,444
+- da mão dele...
+- Sei bem
+
+925
+01:03:39,528 --> 01:03:40,821
+- o que rola.
+- ...e chutei ele...
+
+926
+01:03:40,904 --> 01:03:42,030
+- Tá.
+- ...pro container.
+
+927
+01:03:42,114 --> 01:03:43,490
+- Sua opinião?
+- O que acha?
+
+928
+01:03:44,658 --> 01:03:45,909
+Não ligo. Só quero ir pra casa.
+
+929
+01:03:46,869 --> 01:03:49,079
+Taí, excelente ideia. Mete o pé.
+
+930
+01:03:49,162 --> 01:03:50,956
+- Vai pra casa.
+- Não, peraí! Frank.
+
+931
+01:03:51,039 --> 01:03:51,874
+Por favor.
+
+932
+01:03:52,958 --> 01:03:56,670
+Preciso dela em segurança, tá bom?
+E não tenho mais pra onde ir.
+
+933
+01:04:00,591 --> 01:04:01,633
+Gosta de chili?
+
+934
+01:04:02,843 --> 01:04:03,844
+Fiz chili.
+
+935
+01:04:05,637 --> 01:04:06,638
+Beleza. Só...
+
+936
+01:04:07,472 --> 01:04:08,599
+cuidado com as minas.
+
+937
+01:04:08,682 --> 01:04:11,310
+Não quero catar caquinhos de vocês
+por duas semanas.
+
+938
+01:04:12,728 --> 01:04:14,813
+Ei, eu não comeria esse chili.
+
+939
+01:04:16,690 --> 01:04:20,402
+Quer dizer que a maluca
+por trás daquela insanidade com o tanque
+
+940
+01:04:20,485 --> 01:04:21,904
+era só uma pirralha?
+
+941
+01:04:21,987 --> 01:04:25,657
+Não só o tanque, todos os ataques
+à Controle de Danos nesse último mês.
+
+942
+01:04:25,741 --> 01:04:27,743
+E como a garota aprendeu
+a pilotar um tanque?
+
+943
+01:04:27,826 --> 01:04:28,994
+Não sei, Frank.
+
+944
+01:04:29,077 --> 01:04:32,331
+- Ainda te arrebentou todo daquele jeito.
+- Ela não me arrebentou.
+
+945
+01:04:33,040 --> 01:04:34,166
+É a sua família?
+
+946
+01:04:37,127 --> 01:04:38,879
+Será que dá pra sair daí?
+
+947
+01:04:39,588 --> 01:04:41,798
+Só tenho uma regra nessa casa.
+
+948
+01:04:41,882 --> 01:04:44,635
+Não encosta em nada.
+Não mexe em nada.
+
+949
+01:04:44,718 --> 01:04:47,721
+Também não me faz perguntas
+sobre porcaria nenhuma.
+
+950
+01:04:49,306 --> 01:04:50,432
+Então, três regras?
+
+951
+01:04:53,602 --> 01:04:54,978
+Já entendi por que gosta dela.
+
+952
+01:04:56,021 --> 01:04:57,356
+Vou botar uma calça.
+
+953
+01:04:58,899 --> 01:05:00,192
+Não toca no chili.
+
+954
+01:05:02,152 --> 01:05:03,153
+Gostei dele.
+
+955
+01:05:03,987 --> 01:05:05,030
+Claro que gostou.
+
+956
+01:05:06,615 --> 01:05:10,160
+Salvei essa imagem do meu visor
+e pesquisei no sistema.
+
+957
+01:05:13,330 --> 01:05:14,414
+Quem é?
+
+958
+01:05:14,498 --> 01:05:17,000
+Até uns dois meses atrás, ninguém.
+
+959
+01:05:17,876 --> 01:05:20,546
+Passou por acolhimento familiar,
+clínicas psiquiátricas
+
+960
+01:05:20,629 --> 01:05:22,548
+até que fugiu e sumiu do mapa.
+
+961
+01:05:22,881 --> 01:05:24,925
+Deletaram quase tudo sobre ela.
+
+962
+01:05:25,008 --> 01:05:29,012
+Mas foi classificada como telepata,
+e agora temos um nome.
+
+963
+01:05:32,808 --> 01:05:33,809
+"Jean Grey."
+
+964
+01:05:35,769 --> 01:05:39,481
+É. Aqui, prédios da Controle de Danos
+que ela ainda não atacou,
+
+965
+01:05:39,565 --> 01:05:40,983
+então, se ela aparecer,
+
+966
+01:05:41,066 --> 01:05:42,985
+meu reconhecimento facial vai detectar.
+
+967
+01:05:44,069 --> 01:05:45,070
+Tá.
+
+968
+01:05:45,237 --> 01:05:46,321
+Ah, é? E depois?
+
+969
+01:05:49,032 --> 01:05:51,743
+Não se preocupa com o depois.
+Só cuida dela.
+
+970
+01:05:51,827 --> 01:05:53,370
+"Não se preocupa", né?
+
+971
+01:05:53,453 --> 01:05:55,372
+E devo ficar aqui de babá da sua namorada?
+
+972
+01:05:55,455 --> 01:05:57,207
+- Não preciso de babá.
+- Não é minha namorada.
+
+973
+01:05:57,291 --> 01:05:59,501
+Tá, tá bom. Qual é o plano, hein?
+
+974
+01:05:59,585 --> 01:06:03,130
+Torcer pro seu reconhecimento facial
+funcionar?
+
+975
+01:06:03,213 --> 01:06:05,424
+Se você morre,
+eu cuido dela o resto da vida?
+
+976
+01:06:05,507 --> 01:06:07,759
+Não vou morrer, Frank. Vou pegar ela.
+
+977
+01:06:07,843 --> 01:06:08,844
+Eu só...
+
+978
+01:06:08,927 --> 01:06:11,471
+É só eu consertar o inibidor e tô pronto.
+
+979
+01:06:12,014 --> 01:06:13,432
+E do que você precisa?
+
+980
+01:06:14,808 --> 01:06:18,353
+Frank. Você não tem
+o que eu preciso aqui, tá bom?
+
+981
+01:06:19,897 --> 01:06:21,315
+Você é muito abusado.
+
+982
+01:06:21,398 --> 01:06:23,317
+Então tem um tapete antiestático,
+
+983
+01:06:23,400 --> 01:06:25,027
+sonda tonal e microferramentas?
+
+984
+01:06:25,694 --> 01:06:27,112
+Tenho tudo isso aí.
+
+985
+01:06:27,654 --> 01:06:28,655
+Pra quê?
+
+986
+01:06:28,739 --> 01:06:30,282
+- Bombas.
+- Bingo.
+
+987
+01:06:32,743 --> 01:06:33,827
+Inacreditável.
+
+988
+01:06:45,672 --> 01:06:47,883
+Aí, acha seguro eu ligar pra alguém
+
+989
+01:06:47,966 --> 01:06:49,635
+só pra avisar que eu tô bem?
+
+990
+01:06:54,097 --> 01:06:55,098
+Pro seu namorado?
+
+991
+01:06:56,350 --> 01:06:58,644
+Não. Pro meu amigo que mora comigo.
+
+992
+01:07:02,648 --> 01:07:05,067
+Não sei se é uma boa ideia, até porque...
+
+993
+01:07:06,151 --> 01:07:09,571
+ela já sabe quem ele é e entra
+na cabeça de quem ela quiser, então...
+
+994
+01:07:09,655 --> 01:07:10,739
+Pois é. É.
+
+995
+01:07:10,822 --> 01:07:12,115
+É, tá certo.
+
+996
+01:07:12,199 --> 01:07:14,868
+- Foi mal.
+- Não, tudo bem, eu entendo.
+
+997
+01:07:17,037 --> 01:07:18,413
+Se eu ligasse pro meu namorado,
+
+998
+01:07:19,248 --> 01:07:21,416
+ele faria perguntas
+que não posso responder
+
+999
+01:07:21,500 --> 01:07:24,920
+e falaria que tô escondendo
+coisas dele de novo.
+
+1000
+01:07:25,003 --> 01:07:26,880
+- Escondendo?
+- É.
+
+1001
+01:07:26,964 --> 01:07:28,882
+Seu namorado parece meio babaca.
+
+1002
+01:07:31,677 --> 01:07:33,053
+Mas por que escondendo?
+
+1003
+01:07:33,804 --> 01:07:37,724
+Sei lá. Me diz você,
+herói mascarado atrás da cortina.
+
+1004
+01:07:39,935 --> 01:07:41,645
+Tá, bom argumento.
+
+1005
+01:07:43,605 --> 01:07:44,690
+Mas e você?
+
+1006
+01:07:45,315 --> 01:07:46,316
+O que que tem eu?
+
+1007
+01:07:47,276 --> 01:07:50,529
+Ué, você tem uma Sra. Homem-Aranha?
+
+1008
+01:07:52,656 --> 01:07:54,575
+Se tenho uma Sra. Homem-Aranha?
+
+1009
+01:07:58,453 --> 01:08:00,038
+Não. Não.
+
+1010
+01:08:01,164 --> 01:08:02,249
+Por que não?
+
+1011
+01:08:02,332 --> 01:08:04,001
+Por que não? Porque eu...
+
+1012
+01:08:05,752 --> 01:08:07,754
+também escondo muita coisa, óbvio.
+
+1013
+01:08:08,672 --> 01:08:09,798
+Bem-vindo ao clube.
+
+1014
+01:08:16,763 --> 01:08:18,015
+Eu tinha uma pessoa.
+
+1015
+01:08:19,183 --> 01:08:20,475
+- Sério?
+- É.
+
+1016
+01:08:23,562 --> 01:08:24,688
+O que rolou?
+
+1017
+01:08:25,397 --> 01:08:26,398
+Eu...
+
+1018
+01:08:28,066 --> 01:08:29,484
+Eu tive que terminar.
+
+1019
+01:08:30,819 --> 01:08:31,904
+Pra proteger ela.
+
+1020
+01:08:36,241 --> 01:08:38,285
+Que pena, deve ter sido difícil.
+
+1021
+01:08:39,661 --> 01:08:41,580
+É, foi. Ainda é.
+
+1022
+01:08:42,747 --> 01:08:43,790
+Bem difícil.
+
+1023
+01:08:48,170 --> 01:08:49,296
+Tá tudo bem?
+
+1024
+01:08:49,379 --> 01:08:50,464
+Tá, tô bem. Eu...
+
+1025
+01:08:50,546 --> 01:08:51,924
+Olha, eu tô indo aí.
+
+1026
+01:08:52,006 --> 01:08:53,926
+Calma aí, calma aí.
+
+1027
+01:08:55,719 --> 01:08:56,803
+Qual é o problema?
+
+1028
+01:08:56,886 --> 01:08:58,764
+É que fica superaquecendo.
+
+1029
+01:08:59,555 --> 01:09:01,308
+Já tô preso nessa há dias.
+
+1030
+01:09:02,017 --> 01:09:03,100
+Troquei pra Aeroespacial,
+
+1031
+01:09:03,185 --> 01:09:07,147
+mas eu era de Engenharia Bioquímica,
+então posso olhar?
+
+1032
+01:09:07,231 --> 01:09:08,482
+Claro, pode.
+
+1033
+01:09:08,564 --> 01:09:10,108
+Aqui. Pronto.
+
+1034
+01:09:17,908 --> 01:09:19,952
+Então, esse dispositivo
+
+1035
+01:09:20,035 --> 01:09:23,705
+gera algum tipo de radiação
+ou campo magnético?
+
+1036
+01:09:23,788 --> 01:09:24,872
+Porque iria interferir.
+
+1037
+01:09:25,374 --> 01:09:29,336
+É, ele tem um microcampo magnético,
+mas eu considerei no projeto.
+
+1038
+01:09:29,419 --> 01:09:31,296
+Tá, e o seu uniforme?
+
+1039
+01:09:31,380 --> 01:09:34,716
+Em tese, ele se dissipa no tecido.
+É bem maneiro.
+
+1040
+01:09:35,676 --> 01:09:36,718
+Tá.
+
+1041
+01:09:39,720 --> 01:09:40,889
+E isso aí?
+
+1042
+01:09:41,974 --> 01:09:42,975
+Isso aí o quê?
+
+1043
+01:09:45,560 --> 01:09:48,145
+Os visores. Ou sei lá o que é isso.
+
+1044
+01:09:48,729 --> 01:09:51,984
+Eles também criam um campo.
+Seria pequeno, mas...
+
+1045
+01:09:53,527 --> 01:09:55,863
+Mas na sua cabeça,
+bem próximo do inibidor.
+
+1046
+01:09:55,946 --> 01:09:58,198
+E deve ser por isso que tá superaquecendo.
+
+1047
+01:09:58,282 --> 01:10:00,158
+MJ, isso é genial.
+
+1048
+01:10:01,910 --> 01:10:03,203
+Beleza, tem que funcionar.
+
+1049
+01:10:07,291 --> 01:10:08,709
+<i>Inibidor acionado.</i>
+
+1050
+01:10:09,835 --> 01:10:10,919
+HUMANO - ARACNÍDEO
+
+1051
+01:10:11,003 --> 01:10:13,380
+<i>Suprimindo hormônios
+aracnídeos selecionados.</i>
+
+1052
+01:10:14,089 --> 01:10:16,091
+Bem melhor.
+
+1053
+01:10:16,175 --> 01:10:17,968
+Tá muito melhor.
+
+1054
+01:10:18,051 --> 01:10:19,887
+Minha cabeça tá tão tranquila.
+
+1055
+01:10:20,846 --> 01:10:22,097
+Teia, teia.
+
+1056
+01:10:22,181 --> 01:10:24,266
+E não tô soltando teias orgânicas.
+
+1057
+01:10:24,349 --> 01:10:26,643
+Meu Deus, MJ, isso deu supercerto.
+
+1058
+01:10:27,644 --> 01:10:30,189
+Você tá mexendo
+com umas paradas bem tensas aqui.
+
+1059
+01:10:32,983 --> 01:10:34,693
+É, é muito importante.
+
+1060
+01:10:37,112 --> 01:10:40,782
+É, mas é tipo alterar o seu DNA.
+
+1061
+01:10:42,034 --> 01:10:45,495
+O tipo de coisa que se usaria,
+sei lá, num monstro.
+
+1062
+01:10:47,748 --> 01:10:50,876
+Se visse o que tá acontecendo comigo
+nos últimos dois dias,
+
+1063
+01:10:50,959 --> 01:10:52,211
+você entenderia.
+
+1064
+01:10:52,836 --> 01:10:54,338
+Tô com você há umas horas
+
+1065
+01:10:54,421 --> 01:10:55,631
+e não vi nada disso.
+
+1066
+01:10:56,381 --> 01:10:57,424
+O que você viu?
+
+1067
+01:10:58,717 --> 01:11:00,093
+Do meu lado da cortina?
+
+1068
+01:11:01,970 --> 01:11:05,390
+Um cara muito legal
+que pode estar mudando.
+
+1069
+01:11:10,604 --> 01:11:14,316
+Não quero me meter.
+Vou deixar você na sua.
+
+1070
+01:11:26,912 --> 01:11:29,665
+Meu nome é Peter Parker.
+Você não lembra de mim, mas vou...
+
+1071
+01:11:35,629 --> 01:11:36,964
+Também não conseguiu dormir?
+
+1072
+01:11:37,714 --> 01:11:38,715
+Quer um café?
+
+1073
+01:11:39,591 --> 01:11:40,676
+Quero.
+
+1074
+01:11:41,844 --> 01:11:43,053
+Resolveu tua parada?
+
+1075
+01:11:44,012 --> 01:11:46,723
+Sim. Tô usando a noite toda.
+
+1076
+01:11:46,807 --> 01:11:48,058
+Até aqui, tudo certo.
+
+1077
+01:11:48,809 --> 01:11:50,769
+E adaptei esse pra ser universal.
+
+1078
+01:11:50,853 --> 01:11:55,107
+Se eu prender isso na Jean,
+deve suprimir totalmente os poderes dela.
+
+1079
+01:11:56,066 --> 01:11:57,401
+Sabe o que funciona?
+
+1080
+01:11:57,734 --> 01:11:59,069
+Meter bala nela.
+
+1081
+01:11:59,152 --> 01:12:00,279
+Boa.
+
+1082
+01:12:03,031 --> 01:12:04,199
+Meu Deus do céu.
+
+1083
+01:12:05,617 --> 01:12:07,911
+É a parada mais ridícula
+que já vi na vida.
+
+1084
+01:12:07,995 --> 01:12:11,081
+Não pode tirar essa máscara
+nem pra tomar café?
+
+1085
+01:12:12,291 --> 01:12:15,335
+Não leva pro pessoal, Frank.
+Não tiro com ninguém.
+
+1086
+01:12:16,336 --> 01:12:17,421
+Nem com ela?
+
+1087
+01:12:19,840 --> 01:12:21,008
+Quem é ela, garoto?
+
+1088
+01:12:21,091 --> 01:12:22,050
+Eu não sei.
+
+1089
+01:12:22,134 --> 01:12:24,178
+Mentira sua. Quem é ela?
+
+1090
+01:12:24,261 --> 01:12:26,638
+- Não sei.
+- Você, hein? Gosta dela.
+
+1091
+01:12:26,722 --> 01:12:27,931
+- E finge que não.
+- Não mesmo.
+
+1092
+01:12:28,015 --> 01:12:29,850
+Não sei quem ela é, tá?
+
+1093
+01:12:29,933 --> 01:12:32,686
+Não tenho ninguém.
+Sou como você, reservado.
+
+1094
+01:12:32,769 --> 01:12:33,812
+Como eu?
+
+1095
+01:12:35,147 --> 01:12:36,481
+O que sabe sobre mim?
+
+1096
+01:12:37,441 --> 01:12:38,734
+Acha que é uma escolha?
+
+1097
+01:12:38,817 --> 01:12:41,612
+Viver assim?
+Que é um estilo de vida? Acha isso?
+
+1098
+01:12:42,112 --> 01:12:43,614
+Isso aqui é uma sentença.
+
+1099
+01:12:44,781 --> 01:12:45,782
+Nossa...
+
+1100
+01:12:46,575 --> 01:12:47,993
+Se, por um segundo,
+
+1101
+01:12:48,952 --> 01:12:52,664
+aqueles que eu amo estivessem vivos,
+acha que eu estaria de máscara?
+
+1102
+01:12:52,748 --> 01:12:54,917
+Que eu ia fingir
+ser uma coisa que não sou,
+
+1103
+01:12:55,000 --> 01:12:56,793
+agindo feito um covarde?
+
+1104
+01:12:59,671 --> 01:13:00,506
+ALERTA
+CRIME EM AÇÃO
+
+1105
+01:13:01,298 --> 01:13:02,299
+IDENTIFICADA
+
+1106
+01:13:02,382 --> 01:13:03,717
+Rosto identificado.
+
+1107
+01:13:07,846 --> 01:13:10,098
+Ela tá na sede da Controle da Danos
+em Manhattan.
+
+1108
+01:13:10,182 --> 01:13:11,433
+Tenho que ir.
+
+1109
+01:13:15,896 --> 01:13:17,898
+Ela vai ficar bem.
+
+1110
+01:13:17,981 --> 01:13:19,107
+Deixa comigo.
+
+1111
+01:13:22,152 --> 01:13:23,278
+Valeu, Frank.
+
+1112
+01:13:30,035 --> 01:13:31,036
+Oi.
+
+1113
+01:13:31,620 --> 01:13:32,621
+Oi.
+
+1114
+01:13:34,289 --> 01:13:35,874
+Vai deixar ele ir sozinho?
+
+1115
+01:13:37,376 --> 01:13:38,961
+Ele pode precisar de você.
+
+1116
+01:13:41,672 --> 01:13:43,632
+Que nem você precisou dele
+em Staten Island.
+
+1117
+01:13:47,302 --> 01:13:48,428
+É.
+
+1118
+01:14:08,866 --> 01:14:09,908
+NENHUM RESULTADO
+NOVA BUSCA?
+
+1119
+01:14:25,757 --> 01:14:27,759
+Não vai se esconder de mim
+pra sempre, Bill.
+
+1120
+01:14:28,427 --> 01:14:31,847
+<i>A porta é pesada,
+mas você devia se preocupar com a parede.</i>
+
+1121
+01:14:32,681 --> 01:14:34,474
+Quem é você e o que você quer?
+
+1122
+01:14:39,438 --> 01:14:40,689
+Sou Jean Grey,
+
+1123
+01:14:41,773 --> 01:14:43,400
+e você sabe o que eu quero.
+
+1124
+01:15:44,044 --> 01:15:45,254
+Jean?
+
+1125
+01:15:45,838 --> 01:15:48,549
+Me pesquisou? Fiquei até sem graça.
+
+1126
+01:15:49,758 --> 01:15:52,177
+Avisei o que ia fazer com ela
+se você se metesse.
+
+1127
+01:15:53,095 --> 01:15:54,805
+Não vai chegar perto dela de novo.
+
+1128
+01:15:55,305 --> 01:15:57,432
+E você não vai abrir esse cofre.
+
+1129
+01:15:57,933 --> 01:15:58,934
+Talvez não.
+
+1130
+01:16:06,400 --> 01:16:07,651
+Mas esse cara talvez.
+
+1131
+01:16:10,529 --> 01:16:13,198
+Jean, não sabe com o que você tá mexendo.
+
+1132
+01:16:13,282 --> 01:16:16,034
+Olha, você e o Banner
+têm muita coisa em comum.
+
+1133
+01:16:16,118 --> 01:16:20,622
+Os dois travando uma batalha perdida
+contra os monstros dentro de vocês.
+
+1134
+01:16:20,706 --> 01:16:22,624
+Jean, é o Hulk, você não pode...
+
+1135
+01:16:31,175 --> 01:16:32,259
+O que é isso?
+
+1136
+01:16:34,428 --> 01:16:35,596
+Entendi.
+
+1137
+01:16:37,472 --> 01:16:40,851
+Quer me amordaçar, como se amordaçou?
+
+1138
+01:16:40,934 --> 01:16:42,436
+Não vou te deixar entrar.
+
+1139
+01:16:42,519 --> 01:16:44,688
+O que quer que seja V-Max,
+você não vai pegar.
+
+1140
+01:16:45,105 --> 01:16:46,565
+Até parece que não.
+
+1141
+01:16:47,149 --> 01:16:48,025
+Ai, que saco.
+
+1142
+01:17:00,329 --> 01:17:02,247
+Jean, não faz isso.
+
+1143
+01:17:02,831 --> 01:17:03,832
+Poupa seu fôlego.
+
+1144
+01:17:29,274 --> 01:17:31,109
+Frank, o que tá fazendo aqui?
+
+1145
+01:17:31,193 --> 01:17:32,778
+O que acha? Tô salvando seu couro.
+
+1146
+01:17:32,861 --> 01:17:34,905
+Isso é acima do seu nível.
+
+1147
+01:17:34,988 --> 01:17:36,365
+- Enfrentamos o Hulk!
+- Cacete!
+
+1148
+01:17:59,054 --> 01:18:00,055
+Jura?
+
+1149
+01:18:12,150 --> 01:18:13,360
+Me deixa em paz!
+
+1150
+01:18:19,700 --> 01:18:22,119
+- Para de atirar nele!
+- Você tá maluco?
+
+1151
+01:18:22,202 --> 01:18:24,538
+O Banner não é o problema! Ela é.
+
+1152
+01:18:38,218 --> 01:18:39,928
+Pedi pra você ficar de olho na MJ!
+
+1153
+01:18:40,012 --> 01:18:41,096
+É, pediu.
+
+1154
+01:18:41,180 --> 01:18:43,140
+Aí ela me pediu pra ficar de olho em você.
+
+1155
+01:18:44,391 --> 01:18:45,851
+Ela te pediu isso mesmo?
+
+1156
+01:18:46,935 --> 01:18:48,228
+Tá vermelhinho, florzinha?
+
+1157
+01:18:49,062 --> 01:18:50,230
+Não tô vermelho.
+
+1158
+01:18:52,149 --> 01:18:54,860
+Que inferno.
+Eu devia ter trazido uma arma maior.
+
+1159
+01:18:54,943 --> 01:18:56,153
+Boa, uma arma maior.
+
+1160
+01:18:56,236 --> 01:18:57,404
+Pra matar ele de cosquinha?
+
+1161
+01:18:57,487 --> 01:18:58,822
+Não, e os planos mudaram:
+
+1162
+01:18:58,906 --> 01:19:01,617
+colocamos isso no Hulk,
+depois pegamos a Jean.
+
+1163
+01:19:01,700 --> 01:19:02,868
+Tenho um plano melhor.
+
+1164
+01:19:02,951 --> 01:19:04,828
+Ele é a maior ameaça nessa briga.
+
+1165
+01:19:04,912 --> 01:19:08,457
+Você segura ele, vou atrás da fonte
+e destruo ela. Entendeu?
+
+1166
+01:19:08,540 --> 01:19:10,626
+Só quer fugir da briga com o Hulk?
+
+1167
+01:19:12,252 --> 01:19:13,754
+- Talvez.
+- Tá, deixa pra lá.
+
+1168
+01:19:13,837 --> 01:19:14,838
+Eu resolvo isso.
+
+1169
+01:19:15,422 --> 01:19:16,882
+- Peraí, Frank, Frank!
+- Quê?
+
+1170
+01:19:17,216 --> 01:19:18,467
+Não mata ela!
+
+1171
+01:19:18,550 --> 01:19:20,719
+Não começa com esse papo de frouxo.
+
+1172
+01:19:20,802 --> 01:19:22,638
+Quer saber? Vou fazer do meu jeito.
+
+1173
+01:19:22,721 --> 01:19:25,098
+Vai... Vai logo.
+
+1174
+01:19:25,182 --> 01:19:26,725
+E não chega a 10m dela!
+
+1175
+01:19:27,476 --> 01:19:28,727
+Que frustrante.
+
+1176
+01:19:43,700 --> 01:19:44,701
+Oi.
+
+1177
+01:19:50,582 --> 01:19:52,751
+Que cara traumatizado.
+
+1178
+01:19:54,127 --> 01:19:57,047
+Não. Ah, não.
+
+1179
+01:19:57,130 --> 01:19:59,842
+Não, de novo, não.
+
+1180
+01:20:00,634 --> 01:20:03,220
+Dr. Banner? É você?
+
+1181
+01:20:04,096 --> 01:20:06,348
+Homem-Aranha. O que houve?
+
+1182
+01:20:06,431 --> 01:20:07,474
+Onde eu tô?
+
+1183
+01:20:07,558 --> 01:20:09,393
+- Ei, ei.
+- Eu fiz tudo isso?
+
+1184
+01:20:09,476 --> 01:20:10,894
+- Fez...
+- Feri alguém?
+
+1185
+01:20:10,978 --> 01:20:13,480
+Não teve culpa.
+Não era você no controle. Era ela.
+
+1186
+01:20:13,564 --> 01:20:15,524
+- Perdi o inibidor.
+- Calma, toma.
+
+1187
+01:20:15,607 --> 01:20:17,860
+Só ele segura o monstro aqui dentro.
+
+1188
+01:20:17,943 --> 01:20:19,778
+Calma, tenho outro. Usa isso aqui.
+
+1189
+01:20:19,862 --> 01:20:21,572
+- O que é?
+- É universal.
+
+1190
+01:20:21,655 --> 01:20:23,031
+Deve funcionar em você.
+
+1191
+01:20:32,332 --> 01:20:35,043
+Vai, tem pessoas no prédio. Bota aí logo.
+
+1192
+01:20:38,505 --> 01:20:39,590
+Tudo bem?
+
+1193
+01:20:39,673 --> 01:20:42,926
+Minha cabeça.
+Acho que ela quebrou alguma coisa!
+
+1194
+01:20:43,010 --> 01:20:44,219
+Ela ainda tá aí dentro?
+
+1195
+01:20:44,303 --> 01:20:45,554
+Não.
+
+1196
+01:20:45,637 --> 01:20:46,805
+É o outro cara.
+
+1197
+01:20:46,889 --> 01:20:49,975
+Bruce? Vou tirar você daqui, tá?
+
+1198
+01:20:50,058 --> 01:20:51,518
+Mas precisa colocar o inibidor.
+
+1199
+01:20:51,602 --> 01:20:52,811
+Me deixa em paz!
+
+1200
+01:20:54,605 --> 01:20:55,981
+Ele tá vindo.
+
+1201
+01:20:56,607 --> 01:20:58,108
+Eu não consigo controlar.
+
+1202
+01:20:58,650 --> 01:21:00,485
+Consegue, Bruce! Você consegue!
+
+1203
+01:21:00,569 --> 01:21:02,070
+Sai agora do prédio!
+
+1204
+01:21:02,154 --> 01:21:03,989
+Sai do prédio!
+
+1205
+01:21:04,072 --> 01:21:05,532
+Tira todo mundo do...
+
+1206
+01:21:09,411 --> 01:21:11,246
+Não! Não!
+
+1207
+01:21:11,330 --> 01:21:13,040
+Banner, por favor, olha pra mim.
+
+1208
+01:21:15,667 --> 01:21:18,504
+Sem Banner. Sem garota.
+
+1209
+01:21:19,838 --> 01:21:21,632
+Só Hulk.
+
+1210
+01:21:31,433 --> 01:21:33,185
+Não sabia que você ficava tão grande.
+
+1211
+01:21:39,233 --> 01:21:40,526
+Boa sorte aí, Peter.
+
+1212
+01:21:49,660 --> 01:21:50,661
+Achei.
+
+1213
+01:21:52,329 --> 01:21:53,372
+Calma aí. Calma aí...
+
+1214
+01:21:56,917 --> 01:21:57,918
+Fica aí!
+
+1215
+01:22:07,177 --> 01:22:08,178
+Meu Deus.
+
+1216
+01:22:22,943 --> 01:22:24,027
+Sem munição letal.
+
+1217
+01:22:36,957 --> 01:22:39,001
+<i>Marcando tempo para detonação.</i>
+
+1218
+01:22:39,626 --> 01:22:40,627
+IDENTIFICANDO INDIVÍDUO...
+
+1219
+01:22:41,587 --> 01:22:42,629
+ARMA ENERGIZADA
+MANOPLA X
+
+1220
+01:23:07,654 --> 01:23:09,489
+<i>Noventa segundos para detonação.</i>
+
+1221
+01:23:09,573 --> 01:23:10,616
+Eu sei! Eu sei!
+
+1222
+01:23:15,495 --> 01:23:16,496
+Vamos lá.
+
+1223
+01:23:16,580 --> 01:23:17,581
+NÃO CONECTADO
+
+1224
+01:23:17,664 --> 01:23:19,208
+Por que sua pele é tão grossa?
+
+1225
+01:23:19,291 --> 01:23:20,459
+<i>Inibidor não conectado.</i>
+
+1226
+01:23:20,542 --> 01:23:21,668
+Droga!
+
+1227
+01:24:00,541 --> 01:24:01,542
+Dr. Banner...
+
+1228
+01:24:02,918 --> 01:24:04,044
+por favor.
+
+1229
+01:24:05,504 --> 01:24:06,505
+Bruce.
+
+1230
+01:24:07,840 --> 01:24:08,841
+É o Peter.
+
+1231
+01:24:10,551 --> 01:24:12,261
+Eu sou seu amigo.
+
+1232
+01:24:41,540 --> 01:24:42,374
+Bruce.
+
+1233
+01:24:47,546 --> 01:24:49,548
+DETONAÇÃO EM
+
+1234
+01:25:01,643 --> 01:25:04,479
+Soltem as armas,
+senão o próximo é na cabeça.
+
+1235
+01:25:15,741 --> 01:25:17,242
+Cadê ela?
+
+1236
+01:25:30,631 --> 01:25:31,632
+O que você...
+
+1237
+01:25:31,715 --> 01:25:32,925
+Acabou, Jean.
+
+1238
+01:25:48,273 --> 01:25:49,274
+Sara.
+
+1239
+01:26:00,577 --> 01:26:01,703
+É a minha arma?
+
+1240
+01:26:10,712 --> 01:26:13,423
+Alguém se machucou? Fui só eu?
+
+1241
+01:26:14,383 --> 01:26:15,592
+Alguém se machucou?
+
+1242
+01:26:17,219 --> 01:26:18,220
+Homem-Aranha!
+
+1243
+01:26:20,973 --> 01:26:22,182
+Salvou a minha vida.
+
+1244
+01:26:22,975 --> 01:26:24,560
+E só Deus sabe quantas vidas,
+
+1245
+01:26:24,643 --> 01:26:27,312
+quando não a deixou achar
+o que ela procurava.
+
+1246
+01:26:27,396 --> 01:26:28,772
+Estamos saindo com ela.
+
+1247
+01:26:29,857 --> 01:26:31,775
+Antes de desmaiar, ela disse uma coisa.
+
+1248
+01:26:32,860 --> 01:26:35,529
+Um nome, Sara. Faz sentido pra você?
+
+1249
+01:26:36,864 --> 01:26:38,740
+Antes de botar o inibidor nela,
+
+1250
+01:26:39,700 --> 01:26:41,869
+ela entrou na minha mente por um instante.
+
+1251
+01:26:43,245 --> 01:26:46,748
+Sara é o nome de alguém que trabalhou
+comigo e faleceu há pouco tempo.
+
+1252
+01:26:47,332 --> 01:26:48,417
+Eu sinto muito.
+
+1253
+01:26:49,918 --> 01:26:53,714
+Por algum motivo,
+a lembrança da Sara deve ter afetado ela.
+
+1254
+01:26:56,717 --> 01:26:59,553
+Quero falar com ela
+quando ela acordar, pode ser?
+
+1255
+01:26:59,636 --> 01:27:03,599
+É claro. Vai ser transferida
+pra nossa unidade na Ilha Roosevelt.
+
+1256
+01:27:03,682 --> 01:27:06,018
+Tô tão ansioso
+pra falar com ela quanto você,
+
+1257
+01:27:06,101 --> 01:27:08,228
+mas não vamos pressionar demais
+num dia só.
+
+1258
+01:27:08,645 --> 01:27:09,730
+É claro.
+
+1259
+01:27:10,480 --> 01:27:11,857
+Obrigado, Homem-Aranha.
+
+1260
+01:27:11,940 --> 01:27:12,941
+Foi um prazer.
+
+1261
+01:27:24,828 --> 01:27:25,829
+MJ!
+
+1262
+01:27:25,913 --> 01:27:28,207
+Funcionou. Ela tá presa.
+
+1263
+01:27:28,290 --> 01:27:29,458
+Você tá segura.
+
+1264
+01:27:32,586 --> 01:27:33,587
+Você deixou isso.
+
+1265
+01:27:41,887 --> 01:27:43,222
+Queria que eu achasse?
+
+1266
+01:27:45,265 --> 01:27:47,142
+Não. Não.
+
+1267
+01:27:48,352 --> 01:27:49,353
+Eu explico. Eu...
+
+1268
+01:27:49,436 --> 01:27:50,854
+Tira, por favor?
+
+1269
+01:27:52,731 --> 01:27:53,732
+O quê?
+
+1270
+01:27:54,775 --> 01:27:55,776
+A máscara.
+
+1271
+01:27:57,861 --> 01:28:02,449
+Acho que eu mereço
+uma conversa com o Peter Parker.
+
+1272
+01:28:28,433 --> 01:28:30,394
+Você foi à festa lá em casa outro dia.
+
+1273
+01:28:36,859 --> 01:28:38,235
+E na loja de rosquinha.
+
+1274
+01:28:40,279 --> 01:28:41,613
+No ano que fui pra faculdade.
+
+1275
+01:28:44,491 --> 01:28:45,742
+Por que não me falou na época?
+
+1276
+01:28:46,368 --> 01:28:47,953
+Eu queria te proteger.
+
+1277
+01:28:48,495 --> 01:28:51,498
+E como quase morri
+umas cinco vezes nas últimas 24h,
+
+1278
+01:28:51,582 --> 01:28:53,083
+não tá dando muito certo.
+
+1279
+01:28:53,834 --> 01:28:55,169
+Eu sei, foi mal. Eu...
+
+1280
+01:28:56,587 --> 01:28:57,880
+Ia me contar um dia?
+
+1281
+01:29:04,803 --> 01:29:05,804
+Tá.
+
+1282
+01:29:07,306 --> 01:29:09,725
+Então você ia tomar a decisão por mim.
+
+1283
+01:29:10,475 --> 01:29:11,602
+Eu sei, desculpa.
+
+1284
+01:29:11,685 --> 01:29:13,562
+Não quero que peça desculpas.
+
+1285
+01:29:13,645 --> 01:29:14,855
+Não sei o que quer.
+
+1286
+01:29:14,938 --> 01:29:16,940
+Que diga por que fez isso comigo.
+
+1287
+01:29:22,946 --> 01:29:24,198
+Perdi uma pessoa.
+
+1288
+01:29:28,160 --> 01:29:30,412
+Que ainda estaria aqui,
+se não fosse por mim.
+
+1289
+01:29:35,083 --> 01:29:36,793
+Não te dei a carta, porque...
+
+1290
+01:29:38,003 --> 01:29:40,339
+não quero que o mesmo aconteça com você.
+
+1291
+01:29:40,422 --> 01:29:41,632
+Essa decisão não é sua.
+
+1292
+01:29:41,715 --> 01:29:43,008
+Sei que não é, mas...
+
+1293
+01:29:45,385 --> 01:29:46,720
+você é tudo pra mim.
+
+1294
+01:29:49,973 --> 01:29:52,392
+E tô tentando viver sem você, mas...
+
+1295
+01:29:54,269 --> 01:29:55,270
+não dá.
+
+1296
+01:30:01,485 --> 01:30:02,486
+Eu te amo.
+
+1297
+01:30:14,581 --> 01:30:17,668
+Esse feitiço ou seja lá o que você fez...
+
+1298
+01:30:21,338 --> 01:30:22,339
+funcionou.
+
+1299
+01:30:25,300 --> 01:30:28,804
+Todas as memórias que diz
+que a gente tem juntos, eu não...
+
+1300
+01:30:30,806 --> 01:30:32,099
+Eu não tenho nenhuma.
+
+1301
+01:30:35,727 --> 01:30:37,896
+E entendo por que ela te amaria,
+
+1302
+01:30:37,980 --> 01:30:40,858
+a garota pra quem
+você escreveu a carta, mas...
+
+1303
+01:30:45,445 --> 01:30:46,530
+Eu entendo.
+
+1304
+01:30:47,573 --> 01:30:50,492
+Você fez o que teve que fazer
+pra proteger ela.
+
+1305
+01:30:52,786 --> 01:30:55,497
+E, por isso, fico muito grata.
+
+1306
+01:30:59,001 --> 01:31:00,002
+Mas eu...
+
+1307
+01:31:04,047 --> 01:31:05,382
+Eu não te amo.
+
+1308
+01:31:09,720 --> 01:31:10,762
+Porque eu não...
+
+1309
+01:31:11,346 --> 01:31:12,973
+Eu nem te conheço.
+
+1310
+01:31:21,648 --> 01:31:24,026
+Acho melhor eu ir embora.
+
+1311
+01:31:30,449 --> 01:31:31,950
+Eu sinto muito, Peter.
+
+1312
+01:31:50,302 --> 01:31:51,512
+Tô sem celular.
+
+1313
+01:31:54,723 --> 01:31:56,141
+Pode me levar pra casa?
+
+1314
+01:31:58,894 --> 01:31:59,978
+Levo, claro.
+
+1315
+01:32:00,062 --> 01:32:01,063
+Obrigada.
+
+1316
+01:32:43,939 --> 01:32:45,524
+- Obrigada.
+- Imagina.
+
+1317
+01:32:46,733 --> 01:32:47,860
+Eu vou...
+
+1318
+01:32:47,943 --> 01:32:49,444
+Tá. É, claro.
+
+1319
+01:32:58,954 --> 01:33:00,038
+Você quer subir?
+
+1320
+01:33:02,207 --> 01:33:04,501
+Só pra dar um oi pro Ned? Pode ser?
+
+1321
+01:33:07,880 --> 01:33:08,922
+Eu ia adorar.
+
+1322
+01:33:09,840 --> 01:33:10,841
+Tá.
+
+1323
+01:33:10,924 --> 01:33:14,178
+<i>O Hulk, ou o Dr. Bruce Banner, foi preso</i>
+
+1324
+01:33:14,261 --> 01:33:16,555
+<i>e está a caminho
+de uma clínica psiquiátrica.</i>
+
+1325
+01:33:16,638 --> 01:33:17,764
+Que tristeza.
+
+1326
+01:33:17,848 --> 01:33:20,142
+<i>Após anos como um pacato professor,</i>
+
+1327
+01:33:20,225 --> 01:33:23,061
+<i>a pergunta que o mundo se faz hoje é:</i>
+
+1328
+01:33:23,145 --> 01:33:24,605
+<i>"O que virou a chave?"</i>
+
+1329
+01:33:30,903 --> 01:33:32,487
+<i>Oi, tô por perto.</i>
+
+1330
+01:33:32,821 --> 01:33:34,489
+<i>- Oi, tô por perto.</i>
+- MJ?
+
+1331
+01:33:34,573 --> 01:33:36,283
+- É.
+<i>- Oi, tô por perto.</i>
+
+1332
+01:33:37,034 --> 01:33:38,285
+<i>Oi, tô por perto.</i>
+
+1333
+01:33:38,368 --> 01:33:39,494
+Você não vai acreditar,
+
+1334
+01:33:39,578 --> 01:33:41,496
+mas o Rastreador Aranha
+
+1335
+01:33:41,580 --> 01:33:42,706
+diz que o Aranha
+
+1336
+01:33:42,789 --> 01:33:44,917
+- tá bem aqui.
+<i>- Oi, tô por perto.</i>
+
+1337
+01:33:45,000 --> 01:33:46,710
+- É? Não. Que doido.
+<i>- Oi, tô por perto.</i>
+
+1338
+01:33:47,377 --> 01:33:48,754
+<i>Oi, tô por perto.</i>
+
+1339
+01:33:50,005 --> 01:33:51,965
+Ned, Homem-Aranha. Homem-Aranha, Ned.
+
+1340
+01:33:52,382 --> 01:33:53,467
+Muito prazer, Ned.
+
+1341
+01:33:53,550 --> 01:33:54,718
+Oi.
+
+1342
+01:33:55,427 --> 01:33:56,720
+Não sou esquisito nem nada...
+
+1343
+01:33:56,803 --> 01:33:57,638
+Ele é um pouco.
+
+1344
+01:33:58,096 --> 01:34:00,265
+O que você tá fazendo aqui?
+
+1345
+01:34:01,308 --> 01:34:02,518
+- Eu...
+- Eu estava...
+
+1346
+01:34:02,601 --> 01:34:04,853
+- no metrô, na plataforma.
+- Na plataforma, isso.
+
+1347
+01:34:04,937 --> 01:34:06,813
+- E estava no celular.
+- É, e me distraí.
+
+1348
+01:34:06,897 --> 01:34:08,148
+- O trem veio, e ele...
+- É...
+
+1349
+01:34:08,232 --> 01:34:09,441
+E puxei ela com a teia.
+
+1350
+01:34:09,525 --> 01:34:11,068
+- É. Me salvou.
+- É.
+
+1351
+01:34:12,736 --> 01:34:14,321
+Meu Deus.
+
+1352
+01:34:15,405 --> 01:34:16,907
+Por que isso não acontece comigo?
+
+1353
+01:34:17,407 --> 01:34:20,869
+E se você tá na teia lá no alto
+e aí quer fazer xixi?
+
+1354
+01:34:20,953 --> 01:34:22,496
+Para no alto de um prédio?
+
+1355
+01:34:22,579 --> 01:34:23,705
+O quê?
+
+1356
+01:34:23,789 --> 01:34:25,874
+Ou desce pra rua e entra numa cafeteria?
+
+1357
+01:34:25,958 --> 01:34:27,334
+"Sou o Aranha, posso fazer xixi?"
+
+1358
+01:34:27,417 --> 01:34:29,169
+Ou faz num terraço qualquer?
+
+1359
+01:34:29,253 --> 01:34:31,088
+Não, não faço num terraço qualquer, Ned.
+
+1360
+01:34:31,171 --> 01:34:33,173
+Sério que é isso que quer perguntar?
+
+1361
+01:34:33,257 --> 01:34:34,758
+É, cara. Manda qualquer coisa.
+
+1362
+01:34:34,842 --> 01:34:36,343
+Quer saber do lançador de teia?
+
+1363
+01:34:36,426 --> 01:34:37,970
+Já sei como ele funciona.
+
+1364
+01:34:38,053 --> 01:34:39,304
+Jura?
+
+1365
+01:34:39,388 --> 01:34:42,474
+Bom, é óbvio que um fluido pseudoplástico
+
+1366
+01:34:42,558 --> 01:34:46,061
+fica circulando numa câmara
+pra ficar no estado líquido.
+
+1367
+01:34:46,144 --> 01:34:48,480
+E quando você ativa
+pressionando os gatilhos,
+
+1368
+01:34:48,564 --> 01:34:50,148
+passa pela turbina de Teflon
+
+1369
+01:34:50,232 --> 01:34:54,069
+e enrijece quando interage com o ar. Né?
+
+1370
+01:34:57,072 --> 01:34:59,116
+Assim, não exatamente, mas...
+
+1371
+01:34:59,199 --> 01:35:01,493
+Ok. Então me fala o que tem no fluido.
+
+1372
+01:35:01,577 --> 01:35:04,746
+Eu diria que é tipo
+um polímero de cadeia longa.
+
+1373
+01:35:04,830 --> 01:35:05,914
+Nylon?
+
+1374
+01:35:05,998 --> 01:35:06,957
+Quase isso.
+
+1375
+01:35:07,040 --> 01:35:10,043
+Ok. Ou então Nomex ou Kevlar?
+
+1376
+01:35:12,629 --> 01:35:14,464
+"Muito bem, então. Fique com seu segredo."
+
+1377
+01:35:14,548 --> 01:35:17,676
+"Se está se referindo
+ao incidente com o dragão,
+
+1378
+01:35:17,759 --> 01:35:19,011
+tive uma participação pequena."
+
+1379
+01:35:19,094 --> 01:35:22,806
+"Tudo que fiz foi
+dar um empurrãozinho em seu tio."
+
+1380
+01:35:25,350 --> 01:35:26,476
+Boa referência.
+
+1381
+01:35:28,145 --> 01:35:29,354
+Hora do banh mi!
+
+1382
+01:35:29,438 --> 01:35:30,814
+Você pediu banh mi?
+
+1383
+01:35:30,898 --> 01:35:32,107
+Pedi cinco banh mis.
+
+1384
+01:35:32,191 --> 01:35:34,151
+O Homem-Aranha tá aqui,
+tenho que dar comida.
+
+1385
+01:35:37,779 --> 01:35:40,782
+Foi mal, tá?
+Ele tá mega-animado com você aqui.
+
+1386
+01:35:40,866 --> 01:35:43,285
+Fala sério. Não me divirto assim há anos.
+
+1387
+01:35:43,869 --> 01:35:45,412
+Saudade de vocês.
+
+1388
+01:35:47,289 --> 01:35:49,291
+Vocês dois parecem mesmo amigões.
+
+1389
+01:35:49,374 --> 01:35:50,417
+Como assim?
+
+1390
+01:35:59,927 --> 01:36:00,928
+Conta pra ele.
+
+1391
+01:36:01,678 --> 01:36:02,679
+Ele aguenta.
+
+1392
+01:36:04,556 --> 01:36:05,557
+É, eu sei.
+
+1393
+01:36:12,689 --> 01:36:16,026
+Quando ela controlou
+a sua mente no terraço,
+
+1394
+01:36:17,444 --> 01:36:18,654
+ela me beijou
+
+1395
+01:36:19,696 --> 01:36:21,240
+e eu devolvi o beijo,
+
+1396
+01:36:21,323 --> 01:36:23,951
+porque achei que era você,
+mas eu não sabia.
+
+1397
+01:36:24,618 --> 01:36:26,411
+Me desculpa, mesmo.
+
+1398
+01:36:27,788 --> 01:36:29,122
+Só queria te contar.
+
+1399
+01:36:31,500 --> 01:36:32,501
+Valeu por contar.
+
+1400
+01:36:36,129 --> 01:36:38,966
+Assim, eu não lembro
+de nada mesmo, então...
+
+1401
+01:36:40,300 --> 01:36:41,385
+Sério?
+
+1402
+01:36:41,468 --> 01:36:44,304
+É. Foi doido.
+Num segundo eu estava na minha mesa,
+
+1403
+01:36:44,388 --> 01:36:46,181
+no outro estava deitada na rua.
+
+1404
+01:36:47,057 --> 01:36:48,600
+Foi tipo uma luz apagando.
+
+1405
+01:36:51,144 --> 01:36:52,229
+O quê?
+
+1406
+01:36:52,312 --> 01:36:53,689
+Não se lembra de nada?
+
+1407
+01:36:55,732 --> 01:36:56,733
+Não, por quê?
+
+1408
+01:36:56,817 --> 01:36:59,903
+O Metzger lembrou de pensar
+numa pessoa chamada Sara,
+
+1409
+01:36:59,987 --> 01:37:03,490
+mas você tá dizendo
+que não se lembra de nada mesmo?
+
+1410
+01:37:05,242 --> 01:37:07,619
+É, foi instantâneo.
+
+1411
+01:37:07,703 --> 01:37:08,912
+Por isso foi tão assustador.
+
+1412
+01:37:10,914 --> 01:37:12,165
+Ele mentiu pra mim.
+
+1413
+01:37:13,709 --> 01:37:14,543
+Conectando...
+
+1414
+01:37:15,210 --> 01:37:16,753
+<i>Soube que pegou o leshy.</i>
+
+1415
+01:37:16,837 --> 01:37:18,130
+É, ela se chama Jean Grey.
+
+1416
+01:37:18,213 --> 01:37:20,591
+Queria ajuda pra determinar
+o tamanho de um peixe.
+
+1417
+01:37:20,674 --> 01:37:22,467
+- Peixe?
+- Acho que é a Viúva Negra.
+
+1418
+01:37:22,551 --> 01:37:24,511
+O Metzger mentiu pra mim sobre um nome.
+
+1419
+01:37:24,595 --> 01:37:28,182
+<i>Procura uma ligação
+entre a Jean e alguém chamada Sara?</i>
+
+1420
+01:37:29,183 --> 01:37:30,976
+Esses peixes parecem pequenos.
+
+1421
+01:37:32,603 --> 01:37:34,396
+Nossa, é mesmo seu escritório.
+
+1422
+01:37:35,063 --> 01:37:36,148
+Ora, ora, ora.
+
+1423
+01:37:36,231 --> 01:37:38,609
+Internet, registros oficiais
+
+1424
+01:37:38,692 --> 01:37:43,363
+e muitos dados relacionados à Jean Grey
+foram apagados pela Controle de Danos.
+
+1425
+01:37:43,447 --> 01:37:44,531
+<i>Dados sobre o quê?</i>
+
+1426
+01:37:45,449 --> 01:37:46,491
+A irmã dela.
+
+1427
+01:37:47,159 --> 01:37:48,619
+A Jean tem uma irmã?
+
+1428
+01:37:51,163 --> 01:37:52,164
+Sara Grey.
+
+1429
+01:37:52,247 --> 01:37:53,957
+<i>Também é telepata.</i>
+
+1430
+01:37:54,041 --> 01:37:57,753
+<i>A Controle de Danos deteve ela
+pra estudo e observação.</i>
+
+1431
+01:37:57,836 --> 01:38:00,172
+<i>Já deve imaginar o que isso quer dizer.</i>
+
+1432
+01:38:00,255 --> 01:38:02,549
+Experimentação
+e violações de direitos humanos.
+
+1433
+01:38:02,633 --> 01:38:04,426
+É, exatamente. Quem é você?
+
+1434
+01:38:04,510 --> 01:38:06,261
+<i>- Oi. Ned Leeds. Sou fã.
+- Sou...</i>
+
+1435
+01:38:06,345 --> 01:38:07,638
+Oi.
+
+1436
+01:38:07,721 --> 01:38:08,805
+<i>Me desculpa.</i>
+
+1437
+01:38:09,264 --> 01:38:12,309
+Tô tão feliz
+que o homem triste tem amigos.
+
+1438
+01:38:14,436 --> 01:38:16,647
+Valeu. Te devo uma.
+
+1439
+01:38:17,773 --> 01:38:19,066
+<i>Boa sorte, Homem-Aranha.</i>
+
+1440
+01:38:19,149 --> 01:38:20,192
+Tchau.
+
+1441
+01:38:20,275 --> 01:38:21,735
+Ela só procurava a irmã,
+
+1442
+01:38:21,818 --> 01:38:23,946
+e entreguei ela
+pras pessoas que a levaram.
+
+1443
+01:38:24,029 --> 01:38:25,614
+- Tenho que ir.
+- Peter...
+
+1444
+01:38:25,697 --> 01:38:26,740
+Oi?
+
+1445
+01:38:27,741 --> 01:38:28,867
+Toma cuidado, tá?
+
+1446
+01:38:30,702 --> 01:38:31,703
+Pode deixar.
+
+1447
+01:38:36,542 --> 01:38:38,460
+O nome do Homem-Aranha é Peter?
+
+1448
+01:38:51,890 --> 01:38:54,226
+Jean. Quem você quer ser?
+
+1449
+01:38:56,728 --> 01:38:58,105
+Ela. De casaco rosa.
+
+1450
+01:38:59,731 --> 01:39:00,732
+Tá muito longe.
+
+1451
+01:39:01,692 --> 01:39:02,776
+Vai ter que pular.
+
+1452
+01:39:02,860 --> 01:39:04,236
+Pular?
+
+1453
+01:39:04,319 --> 01:39:06,405
+Começa por alguém mais perto.
+
+1454
+01:39:07,030 --> 01:39:08,031
+E depois...
+
+1455
+01:39:22,212 --> 01:39:23,255
+Os pulos têm limite.
+
+1456
+01:39:23,881 --> 01:39:27,134
+Mas dá pra fazer uma corrente
+e ir até onde você quiser.
+
+1457
+01:39:27,759 --> 01:39:29,094
+E quando você solta...
+
+1458
+01:39:30,304 --> 01:39:31,597
+volta pro começo.
+
+1459
+01:39:32,806 --> 01:39:35,100
+Dá pra fazer com todos no parque
+ao mesmo tempo?
+
+1460
+01:39:36,018 --> 01:39:37,352
+Um dia, talvez.
+
+1461
+01:39:38,061 --> 01:39:39,313
+Se você ficar ótima.
+
+1462
+01:39:52,910 --> 01:39:53,911
+Como ela pôde...
+
+1463
+01:39:55,162 --> 01:39:56,205
+mandar a gente embora?
+
+1464
+01:39:57,831 --> 01:39:59,458
+Ela não era mãe de verdade.
+
+1465
+01:40:01,376 --> 01:40:02,461
+Não desse jeito.
+
+1466
+01:40:02,544 --> 01:40:04,546
+Era, sim. Até a gente mudar.
+
+1467
+01:40:04,630 --> 01:40:06,465
+Se aí você deixa de ser mãe,
+
+1468
+01:40:06,548 --> 01:40:07,549
+você não é mãe.
+
+1469
+01:40:08,467 --> 01:40:10,636
+O que você faria
+se tivesse filhas como nós?
+
+1470
+01:40:11,094 --> 01:40:12,179
+Eu daria amor.
+
+1471
+01:40:15,766 --> 01:40:17,559
+- Pra ruiva, em especial.
+- Cala a boca.
+
+1472
+01:40:20,270 --> 01:40:21,688
+A gente tem uma à outra.
+
+1473
+01:40:25,442 --> 01:40:27,110
+E vamos tomar sorvete.
+
+1474
+01:40:28,946 --> 01:40:30,364
+- Menta e chocolate?
+- É.
+
+1475
+01:40:36,745 --> 01:40:37,579
+Tá.
+
+1476
+01:40:39,289 --> 01:40:40,874
+Já sei como quer brincar.
+
+1477
+01:40:58,308 --> 01:40:59,309
+- No chão!
+- No chão!
+
+1478
+01:40:59,393 --> 01:41:00,978
+- No chão!
+- No chão!
+
+1479
+01:41:01,061 --> 01:41:02,938
+- Deita no chão agora!
+- Deita!
+
+1480
+01:41:05,315 --> 01:41:06,316
+Sara!
+
+1481
+01:41:11,905 --> 01:41:13,323
+<i>Me desculpa, Jean.</i>
+
+1482
+01:41:14,157 --> 01:41:15,617
+<i>É pra sua segurança.</i>
+
+1483
+01:41:58,160 --> 01:42:01,288
+A moça acordou. Frequência, 94 BPM.
+
+1484
+01:42:04,041 --> 01:42:07,669
+Jean, isso não vai mais funcionar,
+graças ao Homem-Aranha.
+
+1485
+01:42:11,089 --> 01:42:12,090
+Jean?
+
+1486
+01:42:21,642 --> 01:42:22,893
+Quero que respire.
+
+1487
+01:42:22,976 --> 01:42:24,686
+Vai olhar pra mim e respirar.
+
+1488
+01:42:25,187 --> 01:42:26,396
+Ouviu?
+
+1489
+01:42:26,480 --> 01:42:28,023
+Você está segura. Respira.
+
+1490
+01:42:30,567 --> 01:42:31,777
+Cadê ela?
+
+1491
+01:42:33,153 --> 01:42:34,613
+Como sua irmã, você foi abençoada
+
+1492
+01:42:34,696 --> 01:42:38,617
+com um poder que tem o potencial
+de fazer ao mundo um imenso bem
+
+1493
+01:42:38,700 --> 01:42:40,077
+ou um imenso mal.
+
+1494
+01:42:40,994 --> 01:42:45,040
+Um poder como o seu, nas mãos
+de uma criança, é um fardo terrível.
+
+1495
+01:42:45,707 --> 01:42:46,792
+Mas imagine...
+
+1496
+01:42:47,918 --> 01:42:50,337
+esse poder nas mãos de pessoas
+
+1497
+01:42:50,420 --> 01:42:51,964
+que sabem o que fazer com ele.
+
+1498
+01:43:00,806 --> 01:43:02,599
+Cadê a minha irmã?
+
+1499
+01:43:05,435 --> 01:43:07,729
+Você vai mudar o mundo, Jean.
+
+1500
+01:43:07,813 --> 01:43:08,814
+Ei!
+
+1501
+01:43:09,565 --> 01:43:10,566
+Ei!
+
+1502
+01:43:32,421 --> 01:43:33,589
+Frank.
+
+1503
+01:43:33,672 --> 01:43:35,591
+Sei onde você tá e o que vai fazer.
+
+1504
+01:43:35,674 --> 01:43:36,800
+<i>Ah, é? Como sabe?</i>
+
+1505
+01:43:37,426 --> 01:43:38,802
+Vejo tudo que é lugar.
+
+1506
+01:43:38,886 --> 01:43:40,220
+TRAJETÓRIA
+ESPERADA
+
+1507
+01:43:40,304 --> 01:43:42,931
+A Controle de Danos raptou a irmã da Jean.
+
+1508
+01:43:43,015 --> 01:43:45,475
+Jean só procurava ela.
+A gente errou em tudo.
+
+1509
+01:43:45,559 --> 01:43:47,060
+Que besteira sentimental.
+
+1510
+01:43:47,853 --> 01:43:50,230
+Já viu o que ela faz e do que é capaz.
+
+1511
+01:43:50,314 --> 01:43:52,858
+Quer soltar a garota? É isso mesmo?
+
+1512
+01:43:53,775 --> 01:43:57,279
+Tô avisando, se fizer isso,
+vou resolver do meu jeito.
+
+1513
+01:43:57,779 --> 01:43:59,531
+<i>Frank, por favor, não se...</i>
+
+1514
+01:43:59,615 --> 01:44:00,699
+Frank!
+
+1515
+01:44:13,295 --> 01:44:14,379
+Distância do alvo?
+
+1516
+01:44:14,463 --> 01:44:15,714
+Doze metros.
+
+1517
+01:44:15,797 --> 01:44:17,216
+Pode trancar a sala.
+
+1518
+01:44:17,299 --> 01:44:18,175
+Trancando.
+
+1519
+01:44:23,555 --> 01:44:24,556
+<i>Desativar inibidor.</i>
+
+1520
+01:44:25,474 --> 01:44:26,475
+INIBIDOR DESATIVADO
+
+1521
+01:44:29,102 --> 01:44:31,522
+<i>Jean, seus poderes voltaram a funcionar.</i>
+
+1522
+01:44:40,822 --> 01:44:43,700
+<i>Como pode ver,
+estamos fora do raio do seu pulo.</i>
+
+1523
+01:44:45,077 --> 01:44:46,745
+Me fala o que é V-Max.
+
+1524
+01:44:47,538 --> 01:44:49,581
+Você é a 2ª pessoa que me pergunta isso.
+
+1525
+01:44:50,290 --> 01:44:51,834
+Não faço ideia do que significa.
+
+1526
+01:44:51,917 --> 01:44:53,460
+<i>Ela mandou uma mensagem.</i>
+
+1527
+01:44:54,127 --> 01:44:55,921
+Ela queria que eu achasse ela.
+
+1528
+01:44:56,922 --> 01:45:00,717
+Ela se comunicou com você
+telepaticamente à longa distância?
+
+1529
+01:45:00,801 --> 01:45:03,846
+Registramos um pico de energia
+imenso na sessão.
+
+1530
+01:45:05,681 --> 01:45:06,765
+Fascinante.
+
+1531
+01:45:06,849 --> 01:45:09,101
+O que isso quer dizer, babaca?
+
+1532
+01:45:10,769 --> 01:45:11,812
+Eu não sei.
+
+1533
+01:45:12,771 --> 01:45:14,147
+Vamos começar.
+
+1534
+01:45:22,281 --> 01:45:24,575
+<i>O estudo com a Sara tinha dois focos:</i>
+
+1535
+01:45:24,658 --> 01:45:26,952
+identificar a fonte do poder dela
+
+1536
+01:45:27,035 --> 01:45:28,829
+e identificar uma maneira de copiá-lo.
+
+1537
+01:45:28,912 --> 01:45:30,330
+LENDO
+DADOS NEURAIS
+
+1538
+01:45:30,414 --> 01:45:33,959
+Se conseguirmos gravar
+um cérebro telepático durante um pulo,
+
+1539
+01:45:34,042 --> 01:45:37,087
+pode ser possível replicar o mesmo caminho
+
+1540
+01:45:37,171 --> 01:45:39,006
+em uma mente de nossa escolha.
+
+1541
+01:45:40,340 --> 01:45:43,510
+<i>Esse instrumento é o legado da sua irmã.</i>
+
+1542
+01:45:44,595 --> 01:45:47,514
+<i>Construímos juntos
+após meses de tentativa e erro.</i>
+
+1543
+01:45:48,724 --> 01:45:50,893
+Vamos honrar o sacrifício dela.
+
+1544
+01:45:54,021 --> 01:45:55,439
+Do que você tá falando?
+
+1545
+01:45:56,857 --> 01:45:58,192
+Aciona o 1º pulo.
+
+1546
+01:46:02,905 --> 01:46:05,407
+Me fala o que é V-Max.
+
+1547
+01:46:05,490 --> 01:46:07,117
+Sei que é onde você escondeu ela.
+
+1548
+01:46:22,341 --> 01:46:23,342
+Ela tá pulando.
+
+1549
+01:46:25,636 --> 01:46:26,637
+Positivo.
+
+1550
+01:46:27,179 --> 01:46:30,182
+Isolamento total. Processo iniciado.
+
+1551
+01:46:30,265 --> 01:46:31,266
+Que processo?
+
+1552
+01:46:32,726 --> 01:46:35,103
+Nossa, que cara séria, irmão.
+
+1553
+01:46:35,938 --> 01:46:37,481
+Ei! Opa!
+Que isso, gente!
+
+1554
+01:46:37,564 --> 01:46:39,650
+Sou amigo da Controle de Danos.
+Pra que isso?
+
+1555
+01:46:44,196 --> 01:46:45,781
+Então é assim? Querem brigar?
+
+1556
+01:46:45,864 --> 01:46:46,865
+Beleza.
+
+1557
+01:46:47,366 --> 01:46:48,867
+Tá, só um segundo.
+
+1558
+01:46:49,409 --> 01:46:50,452
+Só um instante.
+
+1559
+01:46:51,286 --> 01:46:52,829
+Não tô mais no colégio.
+
+1560
+01:46:54,998 --> 01:46:56,500
+Você se alonga? É disso?
+
+1561
+01:46:56,583 --> 01:46:58,001
+No seu ramo, é bom.
+
+1562
+01:46:58,627 --> 01:47:01,797
+E vocês? Vocês se alongam?
+Faz muito bem.
+
+1563
+01:47:03,382 --> 01:47:04,383
+Prontos?
+
+1564
+01:47:14,017 --> 01:47:15,018
+Olha a cabeça!
+
+1565
+01:47:34,913 --> 01:47:36,665
+Cadê a Jean Grey?
+
+1566
+01:47:37,708 --> 01:47:39,459
+Pulo 26.
+
+1567
+01:47:39,543 --> 01:47:40,794
+O sinal ainda tá bom.
+
+1568
+01:47:40,878 --> 01:47:42,129
+Com licença, senhor.
+
+1569
+01:47:42,921 --> 01:47:44,047
+Temos um intruso.
+
+1570
+01:47:49,094 --> 01:47:50,304
+Você estava certo.
+
+1571
+01:47:50,387 --> 01:47:52,431
+Ela é bem mais forte que a irmã.
+
+1572
+01:47:53,432 --> 01:47:54,725
+Aumenta a frequência.
+
+1573
+01:47:56,185 --> 01:47:57,561
+Você tá de parabéns, Jean.
+
+1574
+01:48:45,484 --> 01:48:46,818
+<i>Jean?</i>
+
+1575
+01:48:51,240 --> 01:48:52,491
+Jean, tá me ouvindo?
+
+1576
+01:48:58,872 --> 01:48:59,873
+Jean?
+
+1577
+01:49:04,461 --> 01:49:05,712
+Você é um assassino.
+
+1578
+01:49:08,006 --> 01:49:11,093
+As frequências estão evoluindo.
+
+1579
+01:49:11,176 --> 01:49:12,386
+Não faz sentido.
+
+1580
+01:49:13,387 --> 01:49:17,558
+A última coisa que a minha irmã viu
+foi essa sala.
+
+1581
+01:49:17,641 --> 01:49:20,269
+As ondas cerebrais dela
+afetam os objetos ao redor.
+
+1582
+01:49:20,352 --> 01:49:21,395
+Desliga agora.
+
+1583
+01:49:21,478 --> 01:49:22,646
+Tô tentando, senhor.
+
+1584
+01:49:22,729 --> 01:49:23,772
+Como "tentando"?
+
+1585
+01:49:24,231 --> 01:49:29,319
+A última coisa que a minha irmã viu
+foi essa merda dessa sala!
+
+1586
+01:49:29,403 --> 01:49:31,321
+- Desliga isso!
+- Não dá, senhor.
+
+1587
+01:49:32,364 --> 01:49:33,365
+Sai.
+
+1588
+01:49:35,826 --> 01:49:37,786
+Não posso te deixar fazer isso, Bill.
+
+1589
+01:49:41,456 --> 01:49:45,502
+As únicas mãos que vão usar esse poder
+
+1590
+01:49:46,587 --> 01:49:48,088
+são as minhas.
+
+1591
+01:50:13,530 --> 01:50:14,531
+O que é isso?
+
+1592
+01:50:15,908 --> 01:50:17,326
+Entra.
+
+1593
+01:50:24,249 --> 01:50:25,250
+Me espera!
+
+1594
+01:52:00,721 --> 01:52:02,347
+- O que...
+- O que você quer?
+
+1595
+01:52:06,018 --> 01:52:09,021
+Jean, eu vim te ajudar.
+
+1596
+01:52:10,314 --> 01:52:11,732
+Você me botou aqui.
+
+1597
+01:52:12,357 --> 01:52:16,403
+Eu sei, e sinto muito pela Sara,
+me desculpa, entendi tudo errado.
+
+1598
+01:52:18,614 --> 01:52:19,615
+Se você veio salvar
+
+1599
+01:52:19,698 --> 01:52:22,993
+uma garota indefesa
+da Controle de Danos, tarde demais.
+
+1600
+01:52:24,036 --> 01:52:25,829
+Eles que precisam ser salvos.
+
+1601
+01:52:25,913 --> 01:52:27,331
+E, agora,
+
+1602
+01:52:27,873 --> 01:52:28,916
+você também.
+
+1603
+01:52:31,335 --> 01:52:32,336
+Vamos nessa.
+
+1604
+01:52:46,850 --> 01:52:48,352
+Nossa, que maneiro.
+
+1605
+01:53:09,373 --> 01:53:11,416
+Jean! Jean, por favor!
+
+1606
+01:53:25,722 --> 01:53:27,432
+Vem! Vem! Vem!
+
+1607
+01:53:48,120 --> 01:53:49,246
+O que...
+
+1608
+01:53:51,081 --> 01:53:52,082
+Não é engraçado
+
+1609
+01:53:52,165 --> 01:53:55,627
+seus amigos da Controle de Danos
+terem feito uma arma especial
+
+1610
+01:53:55,711 --> 01:53:56,962
+só pra você?
+
+1611
+01:53:58,255 --> 01:54:00,924
+Eles têm toda uma força-tarefa pronta.
+
+1612
+01:54:01,008 --> 01:54:02,885
+Caso, um dia, você não ande na linha.
+
+1613
+01:54:07,431 --> 01:54:08,849
+As pessoas são monstros.
+
+1614
+01:54:13,770 --> 01:54:16,940
+Não devia confiar nelas,
+assim como não confiam em você.
+
+1615
+01:54:29,411 --> 01:54:30,495
+LIGAÇÃO
+
+1616
+01:54:30,579 --> 01:54:31,747
+Tô ocupado, Frank.
+
+1617
+01:54:31,830 --> 01:54:33,081
+Temos um problema, garoto.
+
+1618
+01:54:33,165 --> 01:54:35,959
+<i>Ela controla todo mundo
+num raio de 1km da ilha.</i>
+
+1619
+01:54:36,502 --> 01:54:37,503
+Como é que é?
+
+1620
+01:54:43,634 --> 01:54:45,844
+Se for fazer alguma coisa,
+é bom fazer agora.
+
+1621
+01:54:45,928 --> 01:54:47,054
+Tô tentando!
+
+1622
+01:55:12,621 --> 01:55:14,039
+Garoto?
+
+1623
+01:55:14,122 --> 01:55:15,916
+Merda! Desgraça.
+
+1624
+01:55:49,741 --> 01:55:50,951
+Minha irmã morreu
+
+1625
+01:55:51,034 --> 01:55:52,286
+nessa sala,
+
+1626
+01:55:53,662 --> 01:55:55,330
+cercada por esses homens.
+
+1627
+01:55:56,582 --> 01:55:57,791
+E o único crime dela
+
+1628
+01:55:57,875 --> 01:55:59,459
+foi ser especial.
+
+1629
+01:56:01,295 --> 01:56:02,462
+Como você.
+
+1630
+01:56:03,922 --> 01:56:05,132
+Como eu.
+
+1631
+01:56:07,801 --> 01:56:10,804
+Pessoas como nós
+não podem ter uma vida normal.
+
+1632
+01:56:13,807 --> 01:56:16,977
+Não podemos ter amigos nem família.
+
+1633
+01:56:18,979 --> 01:56:20,355
+Essas pessoas se foram.
+
+1634
+01:56:23,192 --> 01:56:24,860
+Essa vida acabou.
+
+1635
+01:56:51,053 --> 01:56:53,472
+Então que tal você aceitar a verdade?
+
+1636
+01:56:56,433 --> 01:56:57,768
+Você é o Peter Parker?
+
+1637
+01:56:59,937 --> 01:57:01,438
+Ou você é o Homem-Aranha?
+
+1638
+01:57:34,304 --> 01:57:35,305
+Sou os dois.
+
+1639
+01:59:20,118 --> 01:59:22,204
+Jean, por favor.
+
+1640
+01:59:23,455 --> 01:59:25,082
+Isso não vai resolver nada.
+
+1641
+01:59:27,042 --> 01:59:28,919
+Sério. Você não é assassina.
+
+1642
+01:59:29,002 --> 01:59:30,379
+Não sabe o que eu sou.
+
+1643
+01:59:32,047 --> 01:59:33,757
+Sei que você amava sua irmã.
+
+1644
+01:59:37,010 --> 01:59:39,972
+E sei que perder ela foi como perder tudo.
+
+1645
+01:59:40,055 --> 01:59:43,058
+Se chegar mais perto, ele morre!
+Todos morrem!
+
+1646
+02:00:01,326 --> 02:00:02,828
+Sabe que ela não volta, né?
+
+1647
+02:00:02,911 --> 02:00:03,912
+Você...
+
+1648
+02:00:20,554 --> 02:00:22,764
+Não pense que não entro na sua mente.
+
+1649
+02:00:24,850 --> 02:00:27,477
+Tô bem mais poderosa
+que na última tentativa.
+
+1650
+02:00:37,237 --> 02:00:38,530
+Pode entrar.
+
+1651
+02:00:47,539 --> 02:00:48,540
+Oi.
+
+1652
+02:00:49,917 --> 02:00:50,918
+Oi.
+
+1653
+02:00:53,253 --> 02:00:56,924
+Acha que não precisa mais me ouvir
+agora que tem poderes?
+
+1654
+02:01:01,595 --> 02:01:07,142
+Olha só, essa coisa toda
+pode ficar assustadora.
+
+1655
+02:01:07,226 --> 02:01:08,268
+Você sabe, né?
+
+1656
+02:01:26,870 --> 02:01:28,455
+Eu já acho bem assustador.
+
+1657
+02:01:29,873 --> 02:01:31,291
+É.
+
+1658
+02:01:31,375 --> 02:01:34,336
+E tudo pode mudar muito rápido,
+
+1659
+02:01:34,419 --> 02:01:37,422
+de jeitos que a gente nem tem
+como imaginar.
+
+1660
+02:01:37,506 --> 02:01:38,590
+Eu sei.
+
+1661
+02:01:38,674 --> 02:01:39,675
+Não.
+
+1662
+02:01:42,427 --> 02:01:44,137
+Acho que não.
+
+1663
+02:01:45,973 --> 02:01:47,599
+Como assim?
+
+1664
+02:01:50,686 --> 02:01:52,396
+Você é uma pessoa especial.
+
+1665
+02:01:54,022 --> 02:01:56,942
+E queria muito que você sempre
+se sentisse bem por isso,
+
+1666
+02:01:58,026 --> 02:02:00,863
+mas sei que, às vezes, não vai ser assim.
+
+1667
+02:02:00,946 --> 02:02:03,365
+Às vezes, você vai sentir solidão.
+
+1668
+02:02:06,994 --> 02:02:08,203
+E, às vezes,
+
+1669
+02:02:09,538 --> 02:02:11,039
+por você ser especial,
+
+1670
+02:02:13,458 --> 02:02:17,171
+as pessoas podem fazer
+coisas monstruosas com você.
+
+1671
+02:02:19,381 --> 02:02:20,465
+Mas...
+
+1672
+02:02:22,009 --> 02:02:23,635
+quero que saiba o seguinte:
+
+1673
+02:02:25,429 --> 02:02:26,805
+você é uma pessoa linda
+
+1674
+02:02:27,347 --> 02:02:28,807
+e as pessoas que te amam
+
+1675
+02:02:28,891 --> 02:02:32,728
+te amam não porque você é especial,
+te amamos porque você é você.
+
+1676
+02:02:34,855 --> 02:02:36,315
+Nunca se esqueça disso.
+
+1677
+02:02:38,567 --> 02:02:40,652
+Mesmo quando se sentir
+na completa solidão.
+
+1678
+02:02:43,572 --> 02:02:45,699
+Essa é a sua maior responsabilidade.
+
+1679
+02:02:48,785 --> 02:02:52,039
+Nunca esqueça isso,
+por maior que seja o seu poder.
+
+1680
+02:03:08,263 --> 02:03:09,348
+Ei.
+
+1681
+02:03:25,072 --> 02:03:26,657
+Sinto muito pela sua irmã.
+
+1682
+02:03:31,912 --> 02:03:33,747
+Sinto muito pela sua tia.
+
+1683
+02:03:37,167 --> 02:03:38,585
+É, você teria amado ela.
+
+1684
+02:03:42,256 --> 02:03:44,258
+E não é porque perdemos alguém...
+
+1685
+02:03:47,344 --> 02:03:49,596
+que a gente precisa continuar sozinho.
+
+1686
+02:03:51,390 --> 02:03:54,309
+Sério, não dá.
+
+1687
+02:03:54,393 --> 02:03:56,019
+Vai por mim, eu tentei.
+
+1688
+02:03:59,273 --> 02:04:00,482
+Não dá certo.
+
+1689
+02:04:05,320 --> 02:04:06,697
+Mesmo se for verdade...
+
+1690
+02:04:10,909 --> 02:04:12,160
+eu não tenho ninguém.
+
+1691
+02:04:16,790 --> 02:04:17,875
+Tem a mim.
+
+1692
+02:05:02,503 --> 02:05:03,545
+Te acertou?
+
+1693
+02:05:03,962 --> 02:05:05,047
+Não, tô bem.
+
+1694
+02:05:10,969 --> 02:05:11,970
+Eu tô bem.
+
+1695
+02:05:12,846 --> 02:05:14,348
+- Peter.
+- Tô bem. Tô bem.
+
+1696
+02:05:14,431 --> 02:05:15,557
+Peter. Não.
+
+1697
+02:05:19,645 --> 02:05:21,563
+Peter. Peter. Não, não.
+
+1698
+02:05:21,647 --> 02:05:23,482
+Não, não, não, Peter. Peter!
+
+1699
+02:05:24,733 --> 02:05:27,152
+Jean, sai daqui. Eles vêm atrás de você.
+
+1700
+02:05:27,236 --> 02:05:28,946
+Não, não. Por favor, aguenta aí.
+
+1701
+02:05:29,029 --> 02:05:30,280
+Aguenta, vai. Por favor!
+
+1702
+02:05:30,364 --> 02:05:31,532
+Jean, você...
+
+1703
+02:05:32,407 --> 02:05:33,909
+Você vai ficar bem.
+
+1704
+02:05:35,202 --> 02:05:36,203
+Vai logo.
+
+1705
+02:05:38,413 --> 02:05:39,414
+Olha pra mim.
+
+1706
+02:05:57,182 --> 02:06:02,062
+<i>Todos em choque quando o Homem-Aranha
+chegou ao Hospital Bellevue hoje, baleado,</i>
+
+1707
+02:06:02,563 --> 02:06:04,398
+<i>aparentemente à beira da morte.</i>
+
+1708
+02:06:06,066 --> 02:06:07,067
+VOCÊ É NOSSO HERÓI
+
+1709
+02:06:07,150 --> 02:06:09,069
+<i>O herói recluso está em estado grave,</i>
+
+1710
+02:06:09,152 --> 02:06:12,155
+<i>e os melhores médicos da cidade
+lutam para salvá-lo.</i>
+
+1711
+02:06:12,239 --> 02:06:13,448
+HOMEM-ARANHA EM ESTADO CRÍTICO
+
+1712
+02:06:15,617 --> 02:06:18,370
+<i>Esta noite,
+todos estão com o Homem-Aranha.</i>
+
+1713
+02:06:20,414 --> 02:06:22,749
+<i>O herói que salvou NY tantas vezes</i>
+
+1714
+02:06:23,250 --> 02:06:25,711
+<i>agora está nas mãos
+de seus melhores profissionais.</i>
+
+1715
+02:06:25,794 --> 02:06:26,962
+NY AMA O ARANHA
+
+1716
+02:06:28,213 --> 02:06:31,175
+<i>E o povo de Nova York segura o fôlego.</i>
+
+1717
+02:06:37,514 --> 02:06:40,601
+FICA BOM LOGO
+
+1718
+02:06:40,684 --> 02:06:43,687
+AMAMOS VOCÊ, ARANHA
+
+1719
+02:07:38,033 --> 02:07:39,034
+Frank?
+
+1720
+02:07:42,496 --> 02:07:43,664
+Onde eu tô?
+
+1721
+02:07:45,624 --> 02:07:47,960
+- Não, não. Ei.
+- Cadê minha máscara?
+
+1722
+02:07:48,043 --> 02:07:49,378
+Deixa ela. Tô contigo.
+
+1723
+02:07:49,461 --> 02:07:50,462
+Tá tudo certo.
+
+1724
+02:07:50,963 --> 02:07:52,339
+E a Jean? Ela tá bem?
+
+1725
+02:07:52,422 --> 02:07:54,341
+Tá, ela tá bem.
+
+1726
+02:07:54,424 --> 02:07:55,634
+Cadê ela?
+
+1727
+02:07:56,927 --> 02:07:58,512
+Acho que ela foi embora.
+
+1728
+02:07:59,763 --> 02:08:04,518
+Ela usou a magia vodu doida dela
+pra te manter vivo.
+
+1729
+02:08:06,019 --> 02:08:08,146
+É... Ela é legal.
+
+1730
+02:08:14,820 --> 02:08:15,863
+Me desculpa.
+
+1731
+02:08:20,701 --> 02:08:23,912
+- Frank, tá ok.
+- Ó, sinto muito pelo que eu fiz.
+
+1732
+02:08:23,996 --> 02:08:25,789
+- Tá ok.
+- Não, tá muita coisa,
+
+1733
+02:08:25,873 --> 02:08:27,708
+mas não tá ok mesmo, falou?
+
+1734
+02:08:31,378 --> 02:08:32,379
+Eu já vi...
+
+1735
+02:08:34,214 --> 02:08:37,801
+Já vi muita coragem, garoto,
+nessa minha vida.
+
+1736
+02:08:39,553 --> 02:08:40,554
+Mas aquilo ali...
+
+1737
+02:08:42,014 --> 02:08:43,432
+Aquilo foi outra coisa.
+
+1738
+02:08:46,852 --> 02:08:48,187
+Tá chorando, Frank?
+
+1739
+02:08:48,270 --> 02:08:49,813
+Não. Não tô...
+
+1740
+02:08:56,528 --> 02:08:58,989
+Você é exatamente como eu imaginava.
+
+1741
+02:08:59,573 --> 02:09:00,616
+Você sabe.
+
+1742
+02:09:01,033 --> 02:09:02,201
+Um garoto legal.
+
+1743
+02:09:04,703 --> 02:09:06,246
+Nunca tive um amigo assim.
+
+1744
+02:09:07,873 --> 02:09:09,458
+A gente é amigo agora?
+
+1745
+02:09:16,381 --> 02:09:17,966
+Não acredito que te vi chorar.
+
+1746
+02:09:18,050 --> 02:09:20,010
+Não chorei. Do que tá falando?
+
+1747
+02:09:20,093 --> 02:09:21,553
+Babaquice.
+
+1748
+02:09:23,555 --> 02:09:25,057
+Ah, tem isso.
+
+1749
+02:09:25,224 --> 02:09:26,850
+Estão nessa a noite toda.
+
+1750
+02:09:26,934 --> 02:09:29,603
+Estão aí desde que você chegou.
+Dá uma olhada.
+
+1751
+02:09:38,445 --> 02:09:40,155
+FICA BOM LOGO
+
+1752
+02:09:40,239 --> 02:09:43,200
+Quando você chegou,
+tiveram que rasgar o uniforme,
+
+1753
+02:09:43,283 --> 02:09:45,619
+mas, quando quiser vazar,
+
+1754
+02:09:46,620 --> 02:09:47,704
+tenho um plano.
+
+1755
+02:10:02,886 --> 02:10:07,266
+A GENTE TE AMA,
+HOMEM-ARANHA
+
+1756
+02:10:09,643 --> 02:10:11,562
+Ei, é o Homem-Aranha!
+
+1757
+02:10:14,147 --> 02:10:15,566
+Homem-Aranha!
+
+1758
+02:10:23,073 --> 02:10:24,491
+Oi, Homem-Aranha!
+
+1759
+02:10:25,909 --> 02:10:27,744
+Você é o máximo, Homem-Aranha!
+
+1760
+02:10:28,745 --> 02:10:30,038
+Homem-Aranha!
+
+1761
+02:10:31,748 --> 02:10:32,916
+Aqui!
+
+1762
+02:10:33,917 --> 02:10:35,127
+Obrigada!
+
+1763
+02:10:35,210 --> 02:10:36,503
+Homem-Aranha!
+
+1764
+02:10:37,629 --> 02:10:39,339
+FICA BOM LOGO
+
+1765
+02:10:39,423 --> 02:10:42,050
+A gente precisa de você
+
+1766
+02:10:53,395 --> 02:10:55,439
+NOVA YORK
+PRECISA DO SEU HERÓI!
+
+1767
+02:11:03,322 --> 02:11:06,325
+S.O.S. - SALVEM NOSSO ARANHA
+NY AMA O ARANHA
+
+1768
+02:11:09,286 --> 02:11:13,373
+Homem-Aranha! Homem-Aranha! Homem-Aranha!
+
+1769
+02:11:28,680 --> 02:11:32,684
+Homem-Aranha! Homem-Aranha! Homem-Aranha!
+
+1770
+02:11:36,730 --> 02:11:39,107
+Homem-Aranha! Homem-Aranha!
+
+1771
+02:12:34,496 --> 02:12:39,918
+QUANDO VOCÊ AJUDA UMA PESSOA
+AJUDA TODAS
+
+1772
+02:12:42,713 --> 02:12:43,714
+Eu...
+
+1773
+02:12:46,717 --> 02:12:48,677
+pensei muito no que você falou.
+
+1774
+02:12:51,221 --> 02:12:54,183
+E você ia gostar de saber
+que decidi que não vou...
+
+1775
+02:12:55,601 --> 02:12:57,603
+mais continuar nessa solidão.
+
+1776
+02:13:07,112 --> 02:13:08,363
+Saudade sua, May.
+
+1777
+02:13:16,788 --> 02:13:18,790
+Assim, ainda sinto dor nas costas,
+
+1778
+02:13:18,874 --> 02:13:21,919
+mas posso voltar pra ação,
+se precisar de uma força.
+
+1779
+02:13:22,002 --> 02:13:24,379
+<i>Preciso é que você descanse.</i>
+
+1780
+02:13:24,463 --> 02:13:26,507
+Eu sei, mas me fala alguma coisa.
+
+1781
+02:13:26,590 --> 02:13:28,509
+Como tá a investigação?
+
+1782
+02:13:28,592 --> 02:13:31,512
+<i>O Metzger ainda tá desaparecido,</i>
+
+1783
+02:13:31,595 --> 02:13:34,056
+mas a sua amiga, a Viúva Negra,
+
+1784
+02:13:34,139 --> 02:13:36,683
+tá ajudando a analisar os registros
+
+1785
+02:13:36,767 --> 02:13:39,019
+que a Controle de Danos tentou apagar.
+
+1786
+02:13:39,478 --> 02:13:41,980
+<i>Me fez passar
+no escritório dela outro dia.</i>
+
+1787
+02:13:42,064 --> 02:13:43,065
+Como é que foi?
+
+1788
+02:13:43,482 --> 02:13:46,026
+Olha, a minha pele tá ótima.
+
+1789
+02:13:47,611 --> 02:13:50,822
+<i>Atenção, unidades,
+assalto a banco confirmado.</i>
+
+1790
+02:13:50,906 --> 02:13:51,949
+Recebeu isso aí?
+
+1791
+02:13:53,575 --> 02:13:54,660
+Sim, tô ligada.
+
+1792
+02:13:54,743 --> 02:13:57,079
+Não tô longe, posso te encontrar lá.
+
+1793
+02:13:57,162 --> 02:13:59,581
+Não, a gente lida com um assalto.
+
+1794
+02:14:00,541 --> 02:14:03,335
+Só trata de se cuidar.
+
+1795
+02:14:05,003 --> 02:14:06,004
+Tá.
+
+1796
+02:14:07,339 --> 02:14:08,340
+Você também.
+
+1797
+02:14:09,383 --> 02:14:11,093
+Manda oi pra EJ e Marley.
+
+1798
+02:14:12,469 --> 02:14:13,470
+Tá bem.
+
+1799
+02:14:15,514 --> 02:14:17,224
+O Homem-Aranha mandou um oi.
+
+1800
+02:14:53,177 --> 02:14:54,178
+Oi.
+
+1801
+02:14:54,761 --> 02:14:55,762
+Oi.
+
+1802
+02:14:59,016 --> 02:15:00,934
+O cara das flores, né? Da festa?
+
+1803
+02:15:01,018 --> 02:15:02,019
+É.
+
+1804
+02:15:02,728 --> 02:15:03,896
+Eu sou o Peter.
+
+1805
+02:15:04,938 --> 02:15:06,356
+Ok. Oi.
+
+1806
+02:15:24,875 --> 02:15:25,959
+Peter.
+
+1807
+02:15:39,848 --> 02:15:43,143
+BASEADO NA HQ MARVEL
+DE STAN LEE E STEVE DITKO
+
+1808
+02:17:16,611 --> 02:17:19,906
+HOMEM-ARANHA
+UM NOVO DIA
+
+1809
+02:24:27,084 --> 02:24:30,003
+<i>Novo avistamento do Homem-Aranha.
+Localização desconhecida.</i>
+
+1810
+02:24:31,088 --> 02:24:32,589
+<i>Localização desconhecida.</i>
+
+1811
+02:24:33,882 --> 02:24:35,509
+<i>Localização desconhecida.</i>
+
+1812
+02:24:36,552 --> 02:24:38,178
+<i>Localização desconhecida.</i>
+
+1813
+02:24:39,304 --> 02:24:40,806
+<i>Localização desconhecida.</i>
+
+1814
+02:24:45,185 --> 02:24:46,937
+<i>Localização encontrada.</i>
+
+1815
+02:24:47,020 --> 02:24:48,730
+NOVO AVISTAMENTO
+LOCALIZAÇÃO: ENCONTRADA
+
+1816
+02:24:48,814 --> 02:24:52,693
+O HOMEM-ARANHA IRÁ VOLTAR
+

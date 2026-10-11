@@ -1,0 +1,9398 @@
+1
+00:00:35,084 --> 00:00:37,084
+[chapoteo]
+
+2
+00:00:37,084 --> 00:00:38,876
+[música dramática]
+
+3
+00:00:42,168 --> 00:00:45,918
+[reportero 1] <i>Su apellido, Nyad,
+en griego, significa "ninfa del agua".</i>
+
+4
+00:00:46,584 --> 00:00:48,876
+<i>Diana Nyad, de 28 años de edad,</i>
+
+5
+00:00:48,876 --> 00:00:51,584
+<i>nada para conquistar otras aguas.</i>
+
+6
+00:00:52,168 --> 00:00:54,418
+[reportero 2] <i>Campeona mundial
+de nado en aguas abiertas,</i>
+
+7
+00:00:54,418 --> 00:00:56,834
+<i>ganadora del Phi Beta Kappa,
+lingüista, autora...</i>
+
+8
+00:00:56,834 --> 00:01:01,001
+[reportero 3] <i>Nyad tiene el récord mundial
+de nado de Capri a Nápoles en Italia.</i>
+
+9
+00:01:01,001 --> 00:01:03,959
+<i>Atravesó a nado
+los 51 kilómetros del lago Ontario.</i>
+
+10
+00:01:04,584 --> 00:01:07,043
+{\an8}[reportera] <i>Nadó
+alrededor de la isla de Manhattan</i>
+
+11
+00:01:07,043 --> 00:01:09,501
+{\an8}<i>en tiempo récord.</i>
+
+12
+00:01:09,501 --> 00:01:13,584
+{\an8}[reportero 4] <i>Los millones de personas
+que evitan nadar en las aguas de Manhattan</i>
+
+13
+00:01:13,584 --> 00:01:14,876
+<i>se preguntan por qué.</i>
+
+14
+00:01:14,876 --> 00:01:18,001
+<i>Según dice,
+afecta sus más profundas emociones.</i>
+
+15
+00:01:18,001 --> 00:01:21,834
+{\an8}[Carson] <i>La distancia de nado
+de Bahamas a Florida es de 143 kilómetros.</i>
+
+16
+00:01:21,834 --> 00:01:24,543
+{\an8}<i>Tardó 27 horas y 38 minutos,</i>
+
+17
+00:01:25,293 --> 00:01:27,626
+{\an8}<i>un nuevo récord en aguas abiertas.</i>
+
+18
+00:01:27,626 --> 00:01:28,918
+{\an8}Recibamos a Diana Nyad.
+
+19
+00:01:28,918 --> 00:01:32,543
+{\an8}- [aplausos del público]
+- [suena música del programa]
+
+20
+00:01:32,543 --> 00:01:33,543
+{\an8}[inaudible]
+
+21
+00:01:33,543 --> 00:01:36,543
+{\an8}<i>THE TONIGHT SHOW,</i> 5 DE SEPTIEMBRE DE 1979
+
+22
+00:01:40,959 --> 00:01:41,918
+Felicitaciones.
+
+23
+00:01:41,918 --> 00:01:46,543
+¿Ya te cansaste de que te feliciten
+por tu logro tan extraordinario?
+
+24
+00:01:46,543 --> 00:01:48,418
+No me canso. Valió la pena.
+
+25
+00:01:48,418 --> 00:01:50,459
+- [Carson] Sí...
+- Es un placer conocerte.
+
+26
+00:01:50,459 --> 00:01:53,626
+Me preguntaba cuántas veces
+harías tu <i>show</i> antes de conocerme.
+
+27
+00:01:53,626 --> 00:01:54,793
+[público ríe]
+
+28
+00:01:54,793 --> 00:01:56,876
+[público aplaude y vitorea]
+
+29
+00:01:56,876 --> 00:02:00,543
+[Diana] El nado que quiero hacer
+dura 60 horas, dos días y medio.
+
+30
+00:02:00,543 --> 00:02:01,751
+<i>De Cuba a Florida.</i>
+
+31
+00:02:01,751 --> 00:02:04,626
+- <i>Es atroz...</i>
+- [Carson] <i>¿Dos días y medio en el agua?</i>
+
+32
+00:02:04,626 --> 00:02:07,126
+<i>...y muy ambicioso,
+pero creo que puedo lograrlo.</i>
+
+33
+00:02:07,126 --> 00:02:08,418
+<i>Y será mi último nado.</i>
+
+34
+00:02:08,543 --> 00:02:09,834
+{\an8}[música dramática]
+
+35
+00:02:09,834 --> 00:02:11,834
+{\an8}<i>Sesenta horas sin parar en mar abierto.</i>
+
+36
+00:02:11,834 --> 00:02:14,709
+{\an8}<i>Es como ganar la medalla de oro
+en los Juegos Olímpicos.</i>
+
+37
+00:02:14,709 --> 00:02:17,334
+{\an8}<i>Como lo veo, las Bahamas son la entrada,</i>
+
+38
+00:02:17,334 --> 00:02:20,418
+<i>Cuba es el plato principal
+y el retiro es el postre.</i>
+
+39
+00:02:20,418 --> 00:02:22,209
+<i>El nado de Cuba es difícil.</i>
+
+40
+00:02:22,209 --> 00:02:25,918
+<i>Creo que, a esta altura,
+nadie sabe si se puede lograr.</i>
+
+41
+00:02:26,751 --> 00:02:32,418
+[reportero 3] <i>Diana Nyad deseaba
+batir el récord mundial e inmortalizarse.</i>
+
+42
+00:02:32,418 --> 00:02:34,043
+<i>Pero siempre supo</i>
+
+43
+00:02:34,043 --> 00:02:36,543
+<i>que la probabilidad de lograrlo
+era del 50 %.</i>
+
+44
+00:02:36,543 --> 00:02:39,418
+<i>Nyad dijo que este sería su último nado.</i>
+
+45
+00:02:40,459 --> 00:02:42,626
+- [golpe musical]
+- [música termina]
+
+46
+00:02:42,626 --> 00:02:45,084
+[mujer] <i>Todos creemos
+que podría haberlo logrado</i>
+
+47
+00:02:45,084 --> 00:02:46,668
+<i>si hubiera descansado.</i>
+
+48
+00:02:46,668 --> 00:02:50,043
+- [reportero] <i>¿Te retiras?</i>
+- [Diana] <i>En aguas abiertas, sí.</i>
+
+49
+00:02:50,043 --> 00:02:51,043
+[inhala]
+
+50
+00:02:53,126 --> 00:02:54,459
+{\an8}22 DE AGOSTO DE 2010
+
+51
+00:02:54,459 --> 00:02:55,793
+{\an8}[zumbido de avión]
+
+52
+00:02:55,793 --> 00:02:58,251
+{\an8}- [Diana] El mundo parece dormido.
+- [mujer] Sí.
+
+53
+00:02:58,251 --> 00:03:00,418
+{\an8}[Diana] Aun despiertos, apenas están ahí.
+
+54
+00:03:00,418 --> 00:03:02,418
+{\an8}- [mujer] Ya sé.
+- La pereza se contagia, Bonnie.
+
+55
+00:03:02,418 --> 00:03:04,793
+Y se supone que hay que asentir
+
+56
+00:03:04,793 --> 00:03:05,876
+como si fuera normal
+
+57
+00:03:05,876 --> 00:03:08,376
+que todos se rindieran
+a una banal existencia.
+
+58
+00:03:08,376 --> 00:03:09,709
+¿Es por los 60?
+
+59
+00:03:09,709 --> 00:03:10,709
+- ¿Qué?
+- ¿Sesenta?
+
+60
+00:03:10,709 --> 00:03:11,626
+- No.
+- Okey.
+
+61
+00:03:11,626 --> 00:03:14,459
+Y, por cierto, para mañana,
+no quiero hacer nada, ¿okey?
+
+62
+00:03:14,459 --> 00:03:17,001
+Ni un pastel. Ni del supermercado, ¿oíste?
+
+63
+00:03:17,001 --> 00:03:20,293
+Para no querer celebrar tu cumpleaños,
+lo mencionas bastante.
+
+64
+00:03:20,293 --> 00:03:22,626
+Sí. Algo tranquilo, ¿okey?
+
+65
+00:03:22,626 --> 00:03:25,043
+Solo las dos. Tal vez... Scrabble.
+
+66
+00:03:25,918 --> 00:03:29,334
+Bien. No organicé nada,
+porque me dijiste que no como 37 veces.
+
+67
+00:03:29,334 --> 00:03:31,126
+[Diana] Sí. No vamos a hacer nada.
+
+68
+00:03:31,709 --> 00:03:32,543
+[rezonga]
+
+69
+00:03:33,376 --> 00:03:34,709
+Olvidé las bolsas de popó.
+
+70
+00:03:34,709 --> 00:03:37,584
+[Diana] Bonnie,
+vinimos a Petco solamente para eso.
+
+71
+00:03:37,584 --> 00:03:39,584
+Ya sé. Pero ven, estamos a un paso.
+
+72
+00:03:40,126 --> 00:03:42,751
+- Corre. Uno, dos, tres. Tú puedes.
+- [Diana suspira]
+
+73
+00:03:43,418 --> 00:03:44,334
+[puerta se cierra]
+
+74
+00:03:46,376 --> 00:03:48,459
+[Diana] ¡Teddy! ¡Hola!
+
+75
+00:03:49,001 --> 00:03:50,251
+Hola.
+
+76
+00:03:50,251 --> 00:03:52,126
+Siéntate. Siéntate.
+
+77
+00:03:52,834 --> 00:03:54,626
+Qué obediente.
+
+78
+00:03:54,626 --> 00:03:56,418
+Qué bonito.
+
+79
+00:03:56,418 --> 00:03:57,918
+Eres un bonito.
+
+80
+00:03:58,501 --> 00:03:59,543
+[ríe]
+
+81
+00:03:59,543 --> 00:04:01,084
+Okey.
+
+82
+00:04:07,334 --> 00:04:08,251
+[perro ladra]
+
+83
+00:04:08,834 --> 00:04:09,668
+[Diana gruñe]
+
+84
+00:04:10,376 --> 00:04:12,668
+¡Yuju! ¡Yuju!
+
+85
+00:04:12,668 --> 00:04:14,709
+- [Bonnie] Eh...
+- [golpes en la puerta]
+
+86
+00:04:15,668 --> 00:04:17,293
+¿Y ahora? Estaba cerrada.
+
+87
+00:04:17,293 --> 00:04:18,751
+Pues feliz cumpleaños a ti.
+
+88
+00:04:18,751 --> 00:04:19,918
+Sí, traje mi Scrabble
+
+89
+00:04:19,918 --> 00:04:24,001
+porque no admitirás que te falta una G,
+dos E y por lo menos una ficha blanca.
+
+90
+00:04:24,001 --> 00:04:26,084
+- Eh, eh, ven acá.
+- ¿Qué quieres cenar?
+
+91
+00:04:26,084 --> 00:04:29,376
+- Quiero enseñarte algo. Por aquí.
+- ¿Qué? ¿Por qué hablas así?
+
+92
+00:04:29,376 --> 00:04:30,751
+¿Así cómo?
+
+93
+00:04:30,751 --> 00:04:32,293
+Pues, no sé, raro.
+
+94
+00:04:32,834 --> 00:04:34,251
+¿Y te peinaste con secadora?
+
+95
+00:04:34,251 --> 00:04:35,459
+[aplausos]
+
+96
+00:04:35,459 --> 00:04:38,084
+- [todos] ¡Sorpresa!
+- [Diana] ¡Oh!
+
+97
+00:04:38,084 --> 00:04:40,001
+- ¿Qué?
+- [todos aplauden]
+
+98
+00:04:40,001 --> 00:04:42,334
+- [exclama]
+- [mujer] ¡Felicidades, Diana!
+
+99
+00:04:42,334 --> 00:04:44,293
+Bonnie, dije que no quería fiesta.
+
+100
+00:04:44,293 --> 00:04:46,334
+- Pero sí querías fiesta.
+- [Diana] ¡Ay!
+
+101
+00:04:46,334 --> 00:04:47,543
+[ambas ríen]
+
+102
+00:04:47,543 --> 00:04:49,168
+- [Bonnie] ¿Te gustó?
+- Claro.
+
+103
+00:04:49,168 --> 00:04:51,251
+- [Bonnie] Apágalas.
+- [Diana] Okey.
+
+104
+00:04:51,251 --> 00:04:54,959
+- No, espera. Tengo que pensar un deseo.
+- [hombres] ¡Pide un deseo!
+
+105
+00:04:54,959 --> 00:04:56,376
+[música alegre]
+
+106
+00:04:56,376 --> 00:04:57,418
+Deseo...
+
+107
+00:04:57,418 --> 00:04:58,751
+Tenía cinco años
+
+108
+00:04:58,751 --> 00:05:02,376
+y mi padre me tiró
+el diccionario Webster en las piernas.
+
+109
+00:05:02,376 --> 00:05:06,168
+[con voz grave] "Querida,
+he esperado cinco años
+
+110
+00:05:06,168 --> 00:05:09,959
+y estás lista para que te enseñe
+tu nombre escrito aquí.
+
+111
+00:05:09,959 --> 00:05:12,709
+Tu nombre, según dice la mitología griega,
+
+112
+00:05:12,709 --> 00:05:14,001
+mis ancestros,
+
+113
+00:05:14,543 --> 00:05:17,126
+las ninfas que nadaron
+en los lagos, ríos...".
+
+114
+00:05:17,126 --> 00:05:18,876
+- Salud a todos.
+- "...y el océano".
+
+115
+00:05:18,876 --> 00:05:20,459
+- Okey.
+- "Este es tu destino".
+
+116
+00:05:20,459 --> 00:05:22,418
+Sí, voy a... Me la robo un momento.
+
+117
+00:05:22,418 --> 00:05:24,668
+- Ven. Vamos a...
+- No. Ya iba la parte buena.
+
+118
+00:05:24,668 --> 00:05:26,251
+Sí. ¿Has escuchado ese dicho?
+
+119
+00:05:26,251 --> 00:05:29,126
+Seguro que sí.
+El que dice: "Déjalos con ganas de más".
+
+120
+00:05:29,126 --> 00:05:31,626
+- Eso no... Creo que eso no aplica conmigo.
+- [ríe]
+
+121
+00:05:31,626 --> 00:05:33,668
+- [Bonnie] Ven.
+- ¿Qué? Ahí está Nina.
+
+122
+00:05:33,668 --> 00:05:35,834
+- Y aún se...
+- Ya sé. Okey, mira para allá.
+
+123
+00:05:35,834 --> 00:05:38,418
+Trae, em, pantalones blancos y es alta.
+
+124
+00:05:38,418 --> 00:05:39,376
+[Diana suspira]
+
+125
+00:05:40,126 --> 00:05:41,501
+[chasque la lengua] Ay, no.
+
+126
+00:05:41,501 --> 00:05:42,793
+- ¿Qué?
+- Ay, no lo sé.
+
+127
+00:05:42,793 --> 00:05:44,251
+¿Cuál es el problema?
+
+128
+00:05:44,251 --> 00:05:46,043
+No lo sé, se ve un poco...
+
+129
+00:05:46,043 --> 00:05:48,001
+¿Nada loca? ¿Se ve normal?
+
+130
+00:05:48,001 --> 00:05:49,168
+¿Alguien común?
+
+131
+00:05:50,834 --> 00:05:52,293
+¿Crees que sabe sobre mí?
+
+132
+00:05:52,876 --> 00:05:54,293
+Tiene tu póster en su pared
+
+133
+00:05:54,293 --> 00:05:56,459
+y tiene tu cara tatuada en las nalgas.
+
+134
+00:05:56,459 --> 00:05:57,376
+Sí.
+
+135
+00:05:57,376 --> 00:05:58,834
+Eso no me da risa.
+
+136
+00:05:58,834 --> 00:06:00,251
+Solo ve a hablar con ella.
+
+137
+00:06:00,251 --> 00:06:02,209
+Le vas... le vas a preguntar sobre ella
+
+138
+00:06:02,209 --> 00:06:05,126
+y, em... no vas a hablar sobre ti.
+
+139
+00:06:05,126 --> 00:06:07,876
+He ido a Vietnam, Uganda,
+
+140
+00:06:08,376 --> 00:06:10,584
+las cuevas de Belice, Sídney.
+
+141
+00:06:11,084 --> 00:06:12,668
+Cubrí las Olimpiadas allá.
+
+142
+00:06:12,668 --> 00:06:16,293
+Treinta años con ABC Sports
+me llevaron a todo el mundo.
+
+143
+00:06:16,293 --> 00:06:17,834
+Pero mi lugar favorito,
+
+144
+00:06:19,168 --> 00:06:20,001
+Cuba.
+
+145
+00:06:20,584 --> 00:06:23,751
+Estoy segura de que lo imaginabas.
+O sea, me imagino que sabes...
+
+146
+00:06:24,876 --> 00:06:25,959
+- Sí. Oh, sí.
+- Sí.
+
+147
+00:06:25,959 --> 00:06:29,834
+Cuba ha estado en mi imaginación
+desde que era niña.
+
+148
+00:06:30,918 --> 00:06:33,209
+La magia del lugar prohibido.
+
+149
+00:06:33,876 --> 00:06:35,751
+Del otro lado del océano.
+
+150
+00:06:35,751 --> 00:06:36,668
+[ríe]
+
+151
+00:06:36,668 --> 00:06:39,043
+No podemos ir ahí,
+ellos no pueden venir acá.
+
+152
+00:06:39,043 --> 00:06:41,293
+Guau, es increíble.
+
+153
+00:06:43,251 --> 00:06:44,793
+¿Y de dónde conoces a Bonnie?
+
+154
+00:06:44,793 --> 00:06:47,209
+Pensé que ella y tú eran...
+
+155
+00:06:48,126 --> 00:06:50,043
+Ah, no, no, no. Es mi mejor amiga.
+
+156
+00:06:50,043 --> 00:06:53,293
+O sea, sí salimos
+como por un segundo hace 200 años, pero...
+
+157
+00:06:54,376 --> 00:06:56,209
+[exhala] Y cuéntame algo sobre ti.
+
+158
+00:06:57,834 --> 00:07:00,459
+Que estemos en un callejón
+que va directo a la muerte
+
+159
+00:07:00,459 --> 00:07:03,293
+no significa
+que tenemos que sucumbir a la mediocridad.
+
+160
+00:07:03,293 --> 00:07:05,209
+- [ríe con sorna]
+- Cumples 60 años
+
+161
+00:07:05,709 --> 00:07:08,084
+y el mundo decide que te volviste inútil.
+
+162
+00:07:08,793 --> 00:07:10,418
+Tengo 58, así que no sé.
+
+163
+00:07:12,959 --> 00:07:15,126
+Parece que ibas bien con, eh...
+
+164
+00:07:15,126 --> 00:07:16,043
+¿Cómo se llama?
+
+165
+00:07:16,793 --> 00:07:19,793
+Ah, sí, no iba mal. Estaba bien.
+
+166
+00:07:19,793 --> 00:07:22,459
+Nada mal. No, no es eso. Es que...
+
+167
+00:07:23,126 --> 00:07:25,709
+No sé, las citas.
+Creo ya no quiero salir con nadie.
+
+168
+00:07:26,459 --> 00:07:27,834
+Te entiendo. Yo tampoco.
+
+169
+00:07:29,084 --> 00:07:31,584
+¿Y cuál es el problema? ¿Es el trabajo?
+
+170
+00:07:33,293 --> 00:07:34,501
+El problema es todo.
+
+171
+00:07:35,043 --> 00:07:36,709
+¿Okey? ¿Dónde está la excelencia?
+
+172
+00:07:36,709 --> 00:07:39,668
+- Ay, no. No. Otra vez.
+- Lo pienso en serio.
+
+173
+00:07:39,668 --> 00:07:42,001
+O sea, no creo que pueda soportarlo.
+
+174
+00:07:42,001 --> 00:07:43,168
+[golpeteo de vajilla]
+
+175
+00:07:43,959 --> 00:07:46,876
+Bueno, si te sientes así,
+haz algo para arreglarlo.
+
+176
+00:07:51,126 --> 00:07:52,126
+¿Jugamos Scrabble?
+
+177
+00:07:53,084 --> 00:07:55,293
+Debo lavar los platos.
+Tengo cosas que hacer.
+
+178
+00:07:55,293 --> 00:07:57,543
+Ah, te da miedo que te gane.
+
+179
+00:07:57,543 --> 00:07:58,709
+Sí, anotado.
+
+180
+00:07:59,501 --> 00:08:00,876
+Te voy a eliminar.
+
+181
+00:08:00,876 --> 00:08:01,959
+[ríe]
+
+182
+00:08:01,959 --> 00:08:03,376
+Te voy a ganar, señorita.
+
+183
+00:08:03,376 --> 00:08:06,001
+Seas mayor o no, yo no discrimino.
+
+184
+00:08:06,959 --> 00:08:08,126
+- Bon.
+- ¿Mmm?
+
+185
+00:08:08,126 --> 00:08:09,584
+Fue una fiesta muy buena.
+
+186
+00:08:09,584 --> 00:08:11,126
+La mereces. Ya.
+
+187
+00:08:12,709 --> 00:08:13,584
+Vas a perder.
+
+188
+00:08:13,584 --> 00:08:15,376
+¡Prepárate para morir!
+
+189
+00:08:15,376 --> 00:08:18,001
+[vítores del público en TV]
+
+190
+00:08:18,001 --> 00:08:19,584
+[música melancólica]
+
+191
+00:08:19,584 --> 00:08:23,543
+UN DIAMANTE
+ES SOLO UN CARBÓN QUE PERSEVERÓ
+
+192
+00:08:25,501 --> 00:08:26,959
+[exhala]
+
+193
+00:08:33,043 --> 00:08:35,043
+[música melancólica continúa]
+
+194
+00:08:38,251 --> 00:08:39,084
+[exhala]
+
+195
+00:08:41,501 --> 00:08:42,334
+[gruñe]
+
+196
+00:08:51,543 --> 00:08:55,793
+[Diana] Por fin revisé las cajas viejas
+de mi mamá con todas las cosas del asilo.
+
+197
+00:08:55,793 --> 00:08:56,709
+Escucha esto.
+
+198
+00:08:57,876 --> 00:09:03,626
+"Dime, ¿qué piensas hacer
+con tu única, salvaje y preciosa vida?".
+
+199
+00:09:04,209 --> 00:09:05,293
+[Bonnie] Mary Oliver.
+
+200
+00:09:06,459 --> 00:09:08,126
+¿Conoces a Mary Oliver?
+
+201
+00:09:08,126 --> 00:09:09,418
+Es un verso famoso.
+
+202
+00:09:10,751 --> 00:09:12,876
+Oye, es que no me encanta la poesía.
+
+203
+00:09:13,376 --> 00:09:14,584
+Es que eres impaciente.
+
+204
+00:09:14,584 --> 00:09:16,626
+¿Por qué no dicen lo que quieren decir?
+
+205
+00:09:16,626 --> 00:09:18,543
+Tengo que guardar todas estas cosas.
+
+206
+00:09:18,543 --> 00:09:20,626
+Esto es ridículo. Tú no guardas nada.
+
+207
+00:09:20,626 --> 00:09:21,751
+¿Y... y esto qué?
+
+208
+00:09:22,543 --> 00:09:23,751
+¿Te las vas a quedar?
+
+209
+00:09:23,751 --> 00:09:26,209
+¿<i>New Yorkers</i>? O sea, mira, son de 2006.
+
+210
+00:09:26,209 --> 00:09:27,209
+Como acumuladora.
+
+211
+00:09:27,209 --> 00:09:28,418
+Oye, se me ocurrió...
+
+212
+00:09:29,168 --> 00:09:31,001
+¿Lucy no leyó este poema?
+
+213
+00:09:31,001 --> 00:09:33,501
+¿Será que ella dobló esta página?
+
+214
+00:09:33,501 --> 00:09:35,418
+Pero es raro, ¿no crees?
+
+215
+00:09:35,418 --> 00:09:37,334
+Porque, en su vida, nunca hizo nada.
+
+216
+00:09:37,334 --> 00:09:38,626
+¿Tu madre muerta?
+
+217
+00:09:38,626 --> 00:09:39,876
+Sabes de qué hablo.
+
+218
+00:09:39,876 --> 00:09:41,793
+No tenía iniciativa, era obediente.
+
+219
+00:09:41,793 --> 00:09:45,084
+Siempre oprimida por mi padre,
+hasta que se fue y nos dejó.
+
+220
+00:09:45,084 --> 00:09:48,459
+Así que creí que este poema
+significaba algo para ella.
+
+221
+00:09:48,959 --> 00:09:50,834
+Ella conservó este libro.
+
+222
+00:09:50,834 --> 00:09:52,501
+¿Qué opinaba de su propia vida?
+
+223
+00:09:52,501 --> 00:09:55,001
+Y que lo dejara para mí, ¿es un mensaje?
+
+224
+00:09:55,001 --> 00:09:57,251
+- ¿Un mensaje?
+- Y luego me di cuenta. Mira.
+
+225
+00:09:58,584 --> 00:10:00,001
+Ni siquiera era de ella.
+
+226
+00:10:00,834 --> 00:10:04,251
+Era de un hombre llamado Uli,
+el vecino de 102 años.
+
+227
+00:10:04,834 --> 00:10:07,543
+Bueno, tal vez...
+tal vez Uli te dejó un mensaje.
+
+228
+00:10:14,709 --> 00:10:16,626
+[Diana] <i>"¿Qué más debería haber hecho?</i>
+
+229
+00:10:17,251 --> 00:10:20,418
+<i>¿No es verdad que todo al final se muere,
+y demasiado pronto?</i>".
+
+230
+00:10:20,418 --> 00:10:21,501
+[música melancólica]
+
+231
+00:10:21,501 --> 00:10:27,793
+<i>"Dime, ¿qué piensas hacer
+con tu única, salvaje y preciosa vida?".</i>
+
+232
+00:10:30,043 --> 00:10:30,876
+[gruñe]
+
+233
+00:10:35,376 --> 00:10:39,834
+[Diana en TV] <i>Y no sé si quiero continuar
+con este deporte tan complicado,</i>
+
+234
+00:10:39,834 --> 00:10:44,168
+<i>porque ya no quiero sentir incomodidad.</i>
+
+235
+00:10:44,168 --> 00:10:48,751
+<i>Ya no quiero sentir el aburrimiento,
+las náuseas, el frío y la espera.</i>
+
+236
+00:10:49,626 --> 00:10:55,751
+<i>Me debato entre eso y la presión
+de perderme el respeto si no lo hago.</i>
+
+237
+00:10:56,376 --> 00:10:58,626
+<i>Creo que la palabra es orgullo.</i>
+
+238
+00:10:59,168 --> 00:11:02,751
+<i>Siento que fracaso,
+más que nada, en lo mental.</i>
+
+239
+00:11:15,834 --> 00:11:17,834
+[música optimista]
+
+240
+00:11:38,126 --> 00:11:40,626
+Okey, solo nadarás un poco.
+
+241
+00:11:40,626 --> 00:11:41,668
+No es gran cosa.
+
+242
+00:11:42,626 --> 00:11:44,751
+Treinta años. No pasó tanto.
+
+243
+00:12:14,168 --> 00:12:16,168
+[música se intensifica]
+
+244
+00:12:18,876 --> 00:12:19,959
+[música se detiene]
+
+245
+00:12:29,959 --> 00:12:32,918
+[Diana en inglés]
+<i>♪ Hola, oscuridad, mi vieja amiga. ♪</i>
+
+246
+00:12:34,126 --> 00:12:36,376
+<i>♪ Vengo a hablar contigo otra vez. ♪</i>
+
+247
+00:12:36,376 --> 00:12:38,834
+{\an8}[suena "The Sound of Silence"
+a la par de Diana]
+
+248
+00:12:38,834 --> 00:12:42,709
+<i>♪ Porque una visión suavemente ♪</i>
+
+249
+00:12:43,584 --> 00:12:47,418
+<i>♪ dejó su semilla mientras dormía. ♪</i>
+
+250
+00:12:48,084 --> 00:12:53,793
+{\an8}<i>♪ Y la visión que se plantó en mi mente ♪</i>
+
+251
+00:12:54,543 --> 00:12:56,626
+{\an8}<i>♪ aún está ♪</i>
+
+252
+00:12:57,876 --> 00:13:03,209
+{\an8}<i>♪ en el sonido del silencio. ♪</i>
+
+253
+00:13:03,918 --> 00:13:05,709
+{\an8}[música se intensifica]
+
+254
+00:13:11,084 --> 00:13:13,876
+[padre] <i>Nuestro nombre, Nyad,
+en la mitología griega,</i>
+
+255
+00:13:13,876 --> 00:13:15,584
+<i>quiere decir "ninfa de agua".</i>
+
+256
+00:13:15,584 --> 00:13:17,334
+<i>Y es para que seas una campeona.</i>
+
+257
+00:13:18,293 --> 00:13:21,709
+<i>En esta vida,
+solo puedes depender de ti misma.</i>
+
+258
+00:13:21,709 --> 00:13:23,501
+<i>Si quieres ser grande,</i>
+
+259
+00:13:23,501 --> 00:13:27,126
+{\an8}<i>tú, tu voluntad, tu mente
+son lo que te llevará ahí.</i>
+
+260
+00:13:27,126 --> 00:13:28,751
+{\an8}<i>Nadie más puede ayudarte.</i>
+
+261
+00:13:29,918 --> 00:13:32,001
+{\an8}[entrenador] Bien. Eso es.
+
+262
+00:13:32,001 --> 00:13:33,751
+{\an8}["The Sound of Silence" continúa]
+
+263
+00:13:33,751 --> 00:13:36,043
+{\an8}[entrenador] <i>Bien hecho, Nyad. Eso es.</i>
+
+264
+00:13:36,043 --> 00:13:38,168
+{\an8}Bien. Bien. Enséñame lo que tienes.
+
+265
+00:13:38,751 --> 00:13:41,626
+{\an8}Tu talento es innegable. Es innegable.
+
+266
+00:13:41,626 --> 00:13:44,709
+Y si permites que se te entrene,
+vas a ser una estrella.
+
+267
+00:13:53,126 --> 00:13:54,876
+["The Sound of Silence" continúa]
+
+268
+00:13:55,668 --> 00:13:56,626
+[padre] Despierta.
+
+269
+00:13:56,626 --> 00:13:58,418
+Querida. Querida, despierta.
+
+270
+00:13:58,418 --> 00:14:00,376
+Tienes que ver. Ven.
+
+271
+00:14:00,376 --> 00:14:04,126
+{\an8}<i>El mundo en este momento,
+demasiada tensión, demasiado miedo.</i>
+
+272
+00:14:04,126 --> 00:14:07,334
+{\an8}Se nos olvida que nos conectan
+las mismas estrellas,
+
+273
+00:14:07,334 --> 00:14:09,084
+{\an8}que tocamos el mismo mar.
+
+274
+00:14:09,084 --> 00:14:10,876
+{\an8}Esto es importante para tu vida.
+
+275
+00:14:11,501 --> 00:14:12,418
+{\an8}¿Qué hay más allá?
+
+276
+00:14:14,043 --> 00:14:15,751
+Kilómetros de mar.
+
+277
+00:14:16,668 --> 00:14:17,584
+Cuba.
+
+278
+00:14:17,584 --> 00:14:19,543
+{\an8}BASADA EN EL LIBRO <i>FIND A WAY</i>
+DE DIANA NYAD
+
+279
+00:14:19,543 --> 00:14:22,543
+{\an8}[padre] Es un lugar mágico,
+lleno de música, lleno de vida.
+
+280
+00:14:30,293 --> 00:14:32,793
+Tal vez parece que Cuba está lejos,
+
+281
+00:14:32,793 --> 00:14:33,918
+pero está muy cerca.
+
+282
+00:14:34,459 --> 00:14:36,043
+Casi se puede nadar hasta ahí.
+
+283
+00:14:50,543 --> 00:14:51,959
+[canción termina]
+
+284
+00:15:02,251 --> 00:15:03,876
+- [Bonnie] Aquí viene.
+- ¡Oh!
+
+285
+00:15:03,876 --> 00:15:06,084
+¡Sí! Juego.
+
+286
+00:15:06,084 --> 00:15:07,793
+Aunque me diste batalla, ¿no?
+
+287
+00:15:07,793 --> 00:15:09,793
+Cambio. La luz está mejor de ese lado.
+
+288
+00:15:09,793 --> 00:15:10,709
+Okey.
+
+289
+00:15:11,209 --> 00:15:12,876
+- Oye, ¿y eso?
+- ¿Qué?
+
+290
+00:15:12,876 --> 00:15:14,959
+Eso. Tienes ojos de mapache.
+
+291
+00:15:15,626 --> 00:15:16,918
+¿Has ido a nadar?
+
+292
+00:15:17,418 --> 00:15:18,584
+Ah, sí. Sí, he ido.
+
+293
+00:15:18,584 --> 00:15:20,626
+Guau, mírate, nadadora.
+
+294
+00:15:20,626 --> 00:15:21,543
+Okey. Guau.
+
+295
+00:15:21,543 --> 00:15:24,459
+¿Cuánto pasó, 30 años,
+desde que te pusiste unos <i>googles</i>?
+
+296
+00:15:24,459 --> 00:15:25,376
+Más o menos.
+
+297
+00:15:25,376 --> 00:15:26,793
+- ¿Cómo te sientes?
+- Bien.
+
+298
+00:15:27,459 --> 00:15:28,584
+Todavía tengo talento.
+
+299
+00:15:29,459 --> 00:15:31,168
+Buen ejercicio a tu edad.
+
+300
+00:15:31,168 --> 00:15:33,709
+Bajo impacto a las articulaciones.
+
+301
+00:15:33,709 --> 00:15:34,626
+[Diana] Sí.
+
+302
+00:15:35,209 --> 00:15:37,501
+- Quiero intentarlo.
+- ¿Qué cosa?
+
+303
+00:15:37,501 --> 00:15:38,418
+Cuba a Florida.
+
+304
+00:15:39,293 --> 00:15:40,334
+- Nadando.
+- ¿Eh?
+
+305
+00:15:42,793 --> 00:15:44,418
+Qué simpática. Saca.
+
+306
+00:15:44,418 --> 00:15:45,959
+No, es en serio, Bonnie.
+
+307
+00:15:45,959 --> 00:15:47,418
+Lo volveré a hacer.
+
+308
+00:15:47,418 --> 00:15:48,793
+No, estás loca.
+
+309
+00:15:48,793 --> 00:15:53,001
+Tú... tú lo intentaste cuando tenías 28
+y no lo lograste a los 28. Tienes 60.
+
+310
+00:15:53,001 --> 00:15:55,584
+Sí, no creo en imponerme limitaciones.
+
+311
+00:15:55,584 --> 00:15:57,168
+No creo en ninguna limitación.
+
+312
+00:15:57,168 --> 00:15:59,501
+Y esa es la razón para hacerlo.
+
+313
+00:15:59,501 --> 00:16:00,834
+No funciona al revés.
+
+314
+00:16:01,626 --> 00:16:04,126
+Empecé con 20 minutos,
+luego 20 más, solo para ver,
+
+315
+00:16:04,126 --> 00:16:07,584
+y ya estoy
+entre cuatro y cinco horas en la piscina.
+
+316
+00:16:07,584 --> 00:16:10,543
+No entiendo.
+¿Te dio como un colapso mental o algo?
+
+317
+00:16:11,376 --> 00:16:13,584
+Mi mente nunca ha estado más clara.
+
+318
+00:16:14,293 --> 00:16:15,251
+¿No lo entiendes?
+
+319
+00:16:15,251 --> 00:16:16,376
+La mente.
+
+320
+00:16:16,918 --> 00:16:19,293
+Esto es lo que me faltaba
+cuando era más joven.
+
+321
+00:16:19,293 --> 00:16:20,334
+Ahora la tengo.
+
+322
+00:16:20,334 --> 00:16:22,959
+La mente no nada kilómetros
+por el océano, ¿o sí?
+
+323
+00:16:22,959 --> 00:16:24,168
+El cuerpo nada.
+
+324
+00:16:24,168 --> 00:16:26,626
+Sí. Es la otra pieza del asunto.
+
+325
+00:16:26,626 --> 00:16:28,126
+- Ah, hay otra pieza.
+- Sí.
+
+326
+00:16:28,126 --> 00:16:30,501
+Necesito poder funcionar
+al nivel más elevado.
+
+327
+00:16:30,501 --> 00:16:31,751
+Y tú me vas a entrenar.
+
+328
+00:16:32,418 --> 00:16:33,543
+- [exclama]
+- [golpea paleta]
+
+329
+00:16:33,543 --> 00:16:36,251
+Por eso querías jugar <i>ping-pong</i>.
+Nunca quieres jugar.
+
+330
+00:16:36,251 --> 00:16:38,418
+- No, por supuesto que no.
+- Mira, Bonnie...
+
+331
+00:16:38,418 --> 00:16:39,543
+No, no, no, no, no.
+
+332
+00:16:39,543 --> 00:16:42,209
+Tú dijiste que tenía hacer algo
+para sentirme mejor.
+
+333
+00:16:42,209 --> 00:16:45,418
+Me refería a que consiguieras una novia
+o que fueras a terapia,
+
+334
+00:16:45,418 --> 00:16:47,209
+no salir de un retiro de 30 años
+
+335
+00:16:47,209 --> 00:16:49,501
+para una fantasía peligrosa y absurda.
+
+336
+00:16:49,501 --> 00:16:51,418
+Lo voy a hacer. No he terminado.
+
+337
+00:16:51,418 --> 00:16:53,043
+Tengo más en mí y tú también.
+
+338
+00:16:53,793 --> 00:16:55,876
+Por favor. ¿No quieres entregarte a algo?
+
+339
+00:16:55,876 --> 00:16:59,501
+¿Darlo todo? ¿Encender tu alma
+con un propósito, una misión?
+
+340
+00:16:59,501 --> 00:17:01,209
+Sería un viaje maravilloso.
+
+341
+00:17:01,793 --> 00:17:03,209
+Piénsalo bien, tú y yo.
+
+342
+00:17:03,793 --> 00:17:04,793
+Una gran aventura.
+
+343
+00:17:04,793 --> 00:17:06,293
+Naciste para entrenar.
+
+344
+00:17:06,293 --> 00:17:08,126
+Y para eso necesitas un atleta.
+
+345
+00:17:08,126 --> 00:17:09,918
+No, no, no. Saca.
+
+346
+00:17:12,209 --> 00:17:13,334
+Okey.
+
+347
+00:17:13,334 --> 00:17:16,084
+Bueno, voy a hacer una prueba de nado.
+Será en México.
+
+348
+00:17:16,084 --> 00:17:18,626
+Quiero que vengas.
+Te enseñaré lo que puedo hacer.
+
+349
+00:17:18,626 --> 00:17:21,418
+Ocho horas de corrientes intensas
+en el mar abierto.
+
+350
+00:17:21,418 --> 00:17:23,959
+Diana, suficiente. Cállate y saca.
+
+351
+00:17:23,959 --> 00:17:25,251
+Te vas a broncear.
+
+352
+00:17:28,959 --> 00:17:31,084
+{\an8}PUERTO MORELOS, MÉXICO
+
+353
+00:17:31,084 --> 00:17:32,876
+{\an8}[suena música latina a lo lejos]
+
+354
+00:17:33,459 --> 00:17:36,084
+No puedo creer
+que tengas que ponerte esto cada vez.
+
+355
+00:17:38,459 --> 00:17:41,043
+Oye, siento que se me olvidó algo.
+
+356
+00:17:41,876 --> 00:17:44,334
+Dejé los premios afuera
+para quien pasea al perro,
+
+357
+00:17:44,334 --> 00:17:45,418
+pero Gus los comerá.
+
+358
+00:17:45,418 --> 00:17:47,668
+[Diana] Necesito tu total atención, ¿okey?
+
+359
+00:17:47,668 --> 00:17:49,584
+Quiero estar a nueve metros del bote
+
+360
+00:17:49,584 --> 00:17:52,126
+contigo a mi izquierda
+para verte cuando respire.
+
+361
+00:17:52,668 --> 00:17:53,834
+- Entendido.
+- Okey.
+
+362
+00:17:53,834 --> 00:17:55,376
+- ¿Cómo te sientes?
+- Bien.
+
+363
+00:17:55,376 --> 00:17:57,834
+- ¿Estás bien?
+- Me siento... me siento increíble.
+
+364
+00:17:57,834 --> 00:17:59,418
+Como dije hace cinco minutos.
+
+365
+00:18:00,043 --> 00:18:01,293
+- [exhala]
+- Sí, claro.
+
+366
+00:18:02,001 --> 00:18:06,293
+[Diana] <i>Uno, dos, tres, cuatro.</i>
+
+367
+00:18:07,209 --> 00:18:11,959
+<i>Uno, dos, tres, cuatro.</i>
+
+368
+00:18:11,959 --> 00:18:14,668
+[Bonnie a lo lejos] Diana,
+brazadas largas y grandes.
+
+369
+00:18:15,418 --> 00:18:17,293
+¡Largas, largas, largas!
+
+370
+00:18:22,126 --> 00:18:24,168
+[Diana en francés] <i>Uno, dos...</i>
+
+371
+00:18:24,168 --> 00:18:29,668
+[Diana en TV] <i>Todo lo que aprendemos
+a intelectualizar en la vida ya no sirve.</i>
+
+372
+00:18:29,668 --> 00:18:31,626
+<i>Estás como en un sueño.</i>
+
+373
+00:18:32,334 --> 00:18:35,918
+- [reportero 1] <i>¿En qué piensas?
+- </i>  [Diana] <i>Tengo un sistema para contar.</i>
+
+374
+00:18:35,918 --> 00:18:38,918
+<i>Una técnica de hipnosis
+de cantar al ritmo de las brazadas.</i>
+
+375
+00:18:38,918 --> 00:18:42,209
+[padre] ¡Ya fue suficiente de ustedes!
+¡Todas ustedes, mujeres!
+
+376
+00:18:42,209 --> 00:18:43,209
+¡Estoy harto!
+
+377
+00:18:43,209 --> 00:18:44,584
+[grita en griego]
+
+378
+00:18:44,584 --> 00:18:45,543
+[Diana] <i>...treinta...</i>
+
+379
+00:18:45,543 --> 00:18:47,834
+<i>Me siento tan poderosa como el océano.</i>
+
+380
+00:18:47,834 --> 00:18:51,293
+<i>Tengo mucha masa muscular,
+mucha fuerza y hombros increíbles.</i>
+
+381
+00:18:51,293 --> 00:18:53,876
+<i>Nada va a evitar que llegue al otro lado.</i>
+
+382
+00:18:53,876 --> 00:18:55,084
+[portazo]
+
+383
+00:18:55,084 --> 00:18:58,668
+[reportero 2] <i>Diana Nyad es una nadadora
+de aguas abiertas invencible.</i>
+
+384
+00:18:58,668 --> 00:19:01,709
+<i>Tras un año de entrenamiento,
+fue a La Habana para nadar</i>
+
+385
+00:19:01,709 --> 00:19:05,043
+<i>los 166 kilómetros
+de Cuba a los Cayos de la Florida.</i>
+
+386
+00:19:05,043 --> 00:19:08,501
+<i>Nyad y sus auspiciantes
+gastaron alrededor de 150 000 dólares.</i>
+
+387
+00:19:08,501 --> 00:19:13,126
+[reportero 3] <i>Una jaula reforzada de acero
+de diez toneladas y seis metros de largo.</i>
+
+388
+00:19:13,126 --> 00:19:15,459
+<i>Fue diseñada para proteger a Diana Nyad</i>
+
+389
+00:19:15,459 --> 00:19:18,084
+<i>de los tiburones y las medusas</i>
+
+390
+00:19:18,084 --> 00:19:20,334
+<i>que nadarán junto con ella.</i>
+
+391
+00:19:20,334 --> 00:19:24,876
+[reportero 4] <i>Diana Nyad
+dará aproximadamente 250 000 brazadas.</i>
+
+392
+00:19:24,876 --> 00:19:26,834
+<i>Adelgazará unos nueve kilos</i>
+
+393
+00:19:26,834 --> 00:19:30,334
+<i>y todos esperan que la hospitalicen
+por agotamiento y exposición.</i>
+
+394
+00:19:30,334 --> 00:19:33,418
+[Diana] <i>Si hay alguien que puede hacerlo,
+soy yo, y es ahora.</i>
+
+395
+00:19:33,418 --> 00:19:37,834
+<i>Este nado
+es mucho más imposible que posible.</i>
+
+396
+00:19:37,834 --> 00:19:38,751
+¡Ay, no!
+
+397
+00:19:39,876 --> 00:19:40,793
+[se queja]
+
+398
+00:19:42,126 --> 00:19:43,918
+Ay, tengo frío.
+
+399
+00:19:43,918 --> 00:19:44,876
+No puedo.
+
+400
+00:19:44,876 --> 00:19:47,793
+No creo poder generar suficiente calor.
+
+401
+00:19:47,793 --> 00:19:49,834
+No sé en qué estaba pensando.
+
+402
+00:19:49,834 --> 00:19:51,001
+Eres patética.
+
+403
+00:19:51,001 --> 00:19:54,043
+- Estúpida. Estúpida. ¡Estúpida!
+- [Bonnie] Oye, no. No, no.
+
+404
+00:19:54,043 --> 00:19:58,168
+Nada de eso, nada de eso.
+No te mortifiques, lo estás haciendo bien.
+
+405
+00:19:58,168 --> 00:19:59,084
+No puedo.
+
+406
+00:19:59,959 --> 00:20:00,834
+Está fría.
+
+407
+00:20:00,834 --> 00:20:01,751
+[tirita]
+
+408
+00:20:01,751 --> 00:20:03,084
+Tranquila, tranquila.
+
+409
+00:20:03,084 --> 00:20:04,168
+Aquí está tu toalla.
+
+410
+00:20:06,334 --> 00:20:08,459
+- Okey.
+- [Diana se queja]
+
+411
+00:20:10,126 --> 00:20:12,918
+Debería soportar 60 horas nadando.
+
+412
+00:20:14,043 --> 00:20:15,251
+Solo puedo estar seis.
+
+413
+00:20:17,418 --> 00:20:18,668
+¿Qué? ¿Cuánto tiempo fue?
+
+414
+00:20:20,876 --> 00:20:22,293
+Cuatro horas, 14 minutos.
+
+415
+00:20:23,793 --> 00:20:24,751
+[suspira]
+
+416
+00:20:24,751 --> 00:20:26,918
+Dime algo, ¿puede haber otro sueño?
+
+417
+00:20:27,793 --> 00:20:29,834
+¿Qué? ¿Cómo te atreves a preguntarme?
+
+418
+00:20:29,834 --> 00:20:31,376
+Hablé con Steve Munatones.
+
+419
+00:20:31,376 --> 00:20:34,751
+- Es quien nada en aguas abiertas y ha...
+- Sí, sé quién es, Bonnie.
+
+420
+00:20:34,751 --> 00:20:37,084
+Okey. Bueno,
+él no cree que puedas hacerlo.
+
+421
+00:20:38,043 --> 00:20:40,751
+Y me puso en contacto con un doctor.
+
+422
+00:20:40,751 --> 00:20:43,001
+Eh... Es un médico del deporte
+
+423
+00:20:43,001 --> 00:20:45,001
+y tampoco cree que puedas.
+
+424
+00:20:45,001 --> 00:20:46,543
+¿Qué dijo con exactitud?
+
+425
+00:20:46,543 --> 00:20:49,918
+Pues que han estudiado atletas
+por mucho tiempo
+
+426
+00:20:49,918 --> 00:20:54,084
+y que no creen que Cuba a Florida
+sea humanamente posible.
+
+427
+00:20:54,626 --> 00:20:56,376
+En especial, no para una mujer.
+
+428
+00:20:56,376 --> 00:20:58,084
+Y menos para alguien de tu edad.
+
+429
+00:20:59,459 --> 00:21:01,918
+Sí, son estupideces.
+
+430
+00:21:03,376 --> 00:21:05,376
+Lo intentaré otra vez mañana.
+
+431
+00:21:05,376 --> 00:21:06,501
+Debes recuperarte.
+
+432
+00:21:06,501 --> 00:21:08,001
+No. Una vez más, ¿okey?
+
+433
+00:21:08,543 --> 00:21:09,459
+Déjame enseñarte.
+
+434
+00:21:10,209 --> 00:21:11,043
+Okey.
+
+435
+00:21:11,043 --> 00:21:13,709
+[suena "Carry On"
+de Crosby, Stills & Nash]
+
+436
+00:21:13,709 --> 00:21:15,126
+[Bonnie] ¡Muy bien, Diana!
+
+437
+00:21:15,126 --> 00:21:16,418
+[Bonnie aplaude]
+
+438
+00:21:21,501 --> 00:21:22,334
+Vas bien.
+
+439
+00:21:37,959 --> 00:21:39,709
+[entrenador] <i>Sigue, puedes hacerlo.</i>
+
+440
+00:21:39,709 --> 00:21:41,459
+[exclama] <i>Más esfuerzo, Nyad.</i>
+
+441
+00:21:41,459 --> 00:21:43,126
+<i>¡Recta final, recta final!</i>
+
+442
+00:21:43,126 --> 00:21:46,001
+- Puedes hacerlo. Eso es. Tú puedes.
+- [niñas vitorean]
+
+443
+00:21:46,001 --> 00:21:48,293
+[entrenador] <i>Dame todo lo que tienes.</i>
+
+444
+00:21:48,293 --> 00:21:49,418
+¡Eso, eso es!
+
+445
+00:21:49,418 --> 00:21:50,334
+[niñas gritan]
+
+446
+00:21:50,334 --> 00:21:53,251
+- 32:54. Es un récord.
+- ¡Sí!
+
+447
+00:22:11,209 --> 00:22:12,084
+[canción termina]
+
+448
+00:22:12,084 --> 00:22:16,334
+- [aúlla]
+- [ríe]
+
+449
+00:22:16,334 --> 00:22:18,418
+Ocho horas y tres minutos.
+
+450
+00:22:18,418 --> 00:22:19,501
+- ¡Sí!
+- [exclama]
+
+451
+00:22:19,501 --> 00:22:23,709
+Cuando me dijiste esa cosa
+que ese Steve y el tal doctor dijeron,
+
+452
+00:22:23,709 --> 00:22:25,626
+solo me hizo querer hacerlo más.
+
+453
+00:22:25,626 --> 00:22:26,834
+¿En serio?
+
+454
+00:22:27,751 --> 00:22:29,626
+- No puede ser.
+- No.
+
+455
+00:22:29,626 --> 00:22:31,584
+- Eres una traidora horrorosa.
+- [ríe]
+
+456
+00:22:31,584 --> 00:22:34,001
+Por eso sé que serás
+una excelente entrenadora.
+
+457
+00:22:34,001 --> 00:22:36,918
+- No sé nada sobre entrenar nadadores.
+- No es necesario.
+
+458
+00:22:36,918 --> 00:22:37,959
+Aprenderás.
+
+459
+00:22:37,959 --> 00:22:38,959
+No lo sé.
+
+460
+00:22:38,959 --> 00:22:41,501
+Toda esta... toda esta cosa de Cuba,
+
+461
+00:22:41,501 --> 00:22:44,293
+con las visas y la logística y el dinero.
+
+462
+00:22:44,293 --> 00:22:45,751
+O sea, es... es...
+
+463
+00:22:45,751 --> 00:22:48,543
+- Sabes que hay tiburones.
+- Sí. Yo puedo con todo eso.
+
+464
+00:22:48,543 --> 00:22:50,709
+[ríe] ¿Y qué pasará con mis clientes?
+
+465
+00:22:50,709 --> 00:22:53,668
+- Ay, yo qué sé, no sé. Sobrevivirán.
+- ¿Qué con ellos?
+
+466
+00:22:53,668 --> 00:22:56,168
+Ah, ¿y tú renunciarás
+a tu trabajo de periodista?
+
+467
+00:22:56,168 --> 00:22:59,584
+Sí, voy a renunciar.
+Ya no seamos espectadoras. Ya me harté.
+
+468
+00:22:59,584 --> 00:23:02,126
+Escucha, Bonnie.
+Sé qué puedo hacerlo, ¿okey?
+
+469
+00:23:02,126 --> 00:23:03,543
+Y lo quiero hacer contigo.
+
+470
+00:23:03,543 --> 00:23:05,001
+Tengo que hacerlo contigo.
+
+471
+00:23:05,001 --> 00:23:06,334
+No puedo hacerlo sin ti.
+
+472
+00:23:12,001 --> 00:23:13,209
+Ay, bueno, ya.
+
+473
+00:23:13,209 --> 00:23:15,709
+- Vamos a hacerlo.
+- ¡Eso es! ¡Sí!
+
+474
+00:23:15,709 --> 00:23:16,834
+[ambas] ¡Sí!
+
+475
+00:23:17,709 --> 00:23:18,584
+Eso es.
+
+476
+00:23:18,584 --> 00:23:20,001
+[música optimista]
+
+477
+00:23:22,751 --> 00:23:24,001
+Vas en 52.
+
+478
+00:23:24,668 --> 00:23:26,001
+Cincuenta y dos.
+
+479
+00:23:27,209 --> 00:23:28,084
+Buen trabajo.
+
+480
+00:23:38,334 --> 00:23:39,209
+Así se hace.
+
+481
+00:23:42,959 --> 00:23:43,793
+Sigue.
+
+482
+00:23:48,376 --> 00:23:50,834
+[Diana] <i>Tengo que nadar en mar abierto.</i>
+
+483
+00:23:50,834 --> 00:23:54,001
+<i>Es como pelear contra un peso pesado
+durante dos días y medio.</i>
+
+484
+00:23:54,001 --> 00:23:55,293
+<i>Me siento una pantera.</i>
+
+485
+00:23:55,293 --> 00:23:57,293
+<i>Siento que estoy muy bien entrenada.</i>
+
+486
+00:23:57,293 --> 00:24:00,876
+<i>Sin días libres,
+para tener el mejor estado físico.</i>
+
+487
+00:24:00,876 --> 00:24:02,543
+<i>Quemo muchas calorías por hora.</i>
+
+488
+00:24:02,543 --> 00:24:05,293
+<i>Como de tres a cuatro mil calorías
+cada tres horas.</i>
+
+489
+00:24:05,293 --> 00:24:08,459
+<i>El esfuerzo físico
+y, obviamente, la mentalidad son...</i>
+
+490
+00:24:08,459 --> 00:24:10,459
+[reportero] <i>Aunque el mar esté calmo,</i>
+
+491
+00:24:10,459 --> 00:24:13,043
+<i>debe batallar
+contra los tiburones y el agotamiento</i>
+
+492
+00:24:13,043 --> 00:24:14,584
+<i>durante dos días y medio.</i>
+
+493
+00:24:14,584 --> 00:24:18,293
+[Diana] <i>Sin contar a Australia,
+los tiburones más grandes y agresivos</i>...
+
+494
+00:24:18,293 --> 00:24:19,293
+Veo que vas mejor.
+
+495
+00:24:19,293 --> 00:24:20,459
+<i>...están cerca de Cuba.</i>
+
+496
+00:24:20,459 --> 00:24:21,501
+<i>Y no los subestimo.</i>
+
+497
+00:24:21,501 --> 00:24:24,043
+<i>En Bimini,
+vimos un tiburón de cuatro metros.</i>
+
+498
+00:24:24,043 --> 00:24:26,793
+Oye, ¿cuánto tiempo va a estar?
+
+499
+00:24:27,876 --> 00:24:30,376
+Eh... Ocho horas y 31 minutos.
+
+500
+00:24:30,376 --> 00:24:31,501
+[rezonga]
+
+501
+00:24:34,001 --> 00:24:35,043
+Es una admiradora.
+
+502
+00:24:35,626 --> 00:24:37,293
+Creo que urge irnos de aquí.
+
+503
+00:24:38,334 --> 00:24:39,168
+SAN MARTÍN
+
+504
+00:24:39,168 --> 00:24:40,918
+[suena música isleña en la radio]
+
+505
+00:24:40,918 --> 00:24:43,043
+[Diana habla en francés]
+
+506
+00:24:44,251 --> 00:24:47,959
+[habla en francés]
+
+507
+00:24:47,959 --> 00:24:50,126
+No me gusta interrumpir su conversación,
+
+508
+00:24:50,126 --> 00:24:52,959
+pero, em, necesito que me respondas.
+
+509
+00:24:52,959 --> 00:24:55,584
+¿Contactaste a la persona
+de la jaula de acero?
+
+510
+00:24:55,584 --> 00:24:57,168
+Ah. Ah, sí.
+
+511
+00:24:57,168 --> 00:24:59,584
+No. No lo voy a hacer así de nuevo.
+
+512
+00:24:59,584 --> 00:25:00,918
+¿Disculpa?
+
+513
+00:25:00,918 --> 00:25:04,293
+Eh... Tener una jaula
+significa tener asistencia.
+
+514
+00:25:04,293 --> 00:25:05,459
+<i>No, gracias.</i>
+
+515
+00:25:05,459 --> 00:25:07,501
+Seremos solamente el océano y yo.
+
+516
+00:25:08,209 --> 00:25:09,918
+Bueno, ¿cuándo ibas a decirme eso?
+
+517
+00:25:09,918 --> 00:25:13,709
+Es que no quiero un asterisco
+junto a mi logro más grande en la vida.
+
+518
+00:25:14,918 --> 00:25:16,584
+Pero sabes que nunca se hizo así.
+
+519
+00:25:16,584 --> 00:25:17,543
+Exacto.
+
+520
+00:25:18,376 --> 00:25:19,459
+Voy a ser la primera.
+
+521
+00:25:20,084 --> 00:25:22,293
+Soy la nadadora, Bon. Yo decido.
+
+522
+00:25:22,293 --> 00:25:24,293
+- [mujer] Llegaron, ven.
+- [ríe] ¿Hola?
+
+523
+00:25:24,293 --> 00:25:26,043
+[mujer] Entren. Pasen, por favor.
+
+524
+00:25:26,043 --> 00:25:27,501
+- [da alarido]
+- Hola.
+
+525
+00:25:27,501 --> 00:25:29,918
+- Ay, no puede ser.
+- ¡Anna!
+
+526
+00:25:29,918 --> 00:25:32,459
+- Me da mucho gusto que hayan venido.
+- Gracias.
+
+527
+00:25:32,459 --> 00:25:33,501
+- Bonnie, ¿no?
+- Sí.
+
+528
+00:25:33,501 --> 00:25:35,584
+- Hola, soy Diana.
+- Hola.
+
+529
+00:25:35,584 --> 00:25:37,793
+- A ver, te ayudo con eso.
+- Hola, Naomi.
+
+530
+00:25:37,793 --> 00:25:39,001
+- Gracias.
+- Tranquila.
+
+531
+00:25:39,001 --> 00:25:41,251
+No había visto a Nina desde hace años,
+
+532
+00:25:41,251 --> 00:25:43,584
+pero ella y mi mamá
+todavía hablan cada semana
+
+533
+00:25:43,584 --> 00:25:45,043
+y siempre escuchamos de ti.
+
+534
+00:25:45,709 --> 00:25:47,543
+- Gracias por todo.
+- Muchas gracias.
+
+535
+00:25:47,543 --> 00:25:50,043
+- Claro, nuestra casa es su casa.
+- Es un placer.
+
+536
+00:25:50,043 --> 00:25:51,709
+- ¿No es así, Mia?
+- Sí.
+
+537
+00:25:51,709 --> 00:25:54,584
+El canal de la Mancha,
+por ejemplo, mide 34 kilómetros.
+
+538
+00:25:54,584 --> 00:25:57,543
+Puedo nadar eso en siete horas y media,
+
+539
+00:25:57,543 --> 00:25:59,126
+aunque haga frío.
+
+540
+00:25:59,126 --> 00:26:00,834
+Cuba está en otro nivel.
+
+541
+00:26:00,834 --> 00:26:02,834
+Está a 160 kilómetros,
+
+542
+00:26:02,834 --> 00:26:04,876
+o 60 horas,
+
+543
+00:26:04,876 --> 00:26:06,584
+de nado constante.
+
+544
+00:26:06,584 --> 00:26:09,709
+Ahora, no puedo parar por ayuda médica.
+
+545
+00:26:09,709 --> 00:26:11,918
+Recibo comida de mis asistentes
+
+546
+00:26:11,918 --> 00:26:13,793
+o solo floto
+
+547
+00:26:13,793 --> 00:26:18,084
+y veo el grandioso universo arriba.
+
+548
+00:26:18,084 --> 00:26:20,418
+Es lo más hermoso.
+
+549
+00:26:20,418 --> 00:26:23,584
+Soy solo un pequeño polvo,
+
+550
+00:26:24,126 --> 00:26:26,626
+flotando bajo las estrellas.
+
+551
+00:26:26,626 --> 00:26:27,834
+Pero no puedo parar
+
+552
+00:26:28,876 --> 00:26:30,334
+ni tocar el bote.
+
+553
+00:26:30,334 --> 00:26:32,084
+Ni para hacer popó ni pipí.
+
+554
+00:26:32,668 --> 00:26:33,959
+¿Haces popó en el agua?
+
+555
+00:26:33,959 --> 00:26:34,876
+[niños ríen]
+
+556
+00:26:34,876 --> 00:26:37,084
+Sí. Luego hablamos de eso.
+
+557
+00:26:37,084 --> 00:26:38,376
+[niños ríen]
+
+558
+00:26:38,376 --> 00:26:40,543
+[Diana] Pero antes, les contaré del frío.
+
+559
+00:26:40,543 --> 00:26:44,001
+El riesgo de hipotermia.
+Pero eso no es lo que me da más miedo.
+
+560
+00:26:44,543 --> 00:26:46,543
+¿Qué es lo que te da más miedo?
+
+561
+00:26:46,543 --> 00:26:47,876
+Los animales.
+
+562
+00:26:47,876 --> 00:26:49,126
+En esas aguas que ven,
+
+563
+00:26:49,126 --> 00:26:52,251
+viven los animales marinos
+más mortales de la Tierra.
+
+564
+00:26:52,251 --> 00:26:55,126
+Cuarenta y nueve tipos de tiburones,
+
+565
+00:26:55,126 --> 00:26:57,084
+mantarrayas, aguamalas.
+
+566
+00:26:57,084 --> 00:27:00,043
+Y, en la noche,
+ni siquiera sabes que están ahí.
+
+567
+00:27:00,043 --> 00:27:03,668
+Está tan oscuro, que apenas puedes ver
+unos centímetros enfrente de ti.
+
+568
+00:27:03,668 --> 00:27:06,293
+- [niños exclaman]
+- Están justo ahí, esperándonos.
+
+569
+00:27:06,293 --> 00:27:07,376
+- [niños] ¡Yo!
+- ¿Sí?
+
+570
+00:27:07,376 --> 00:27:09,709
+Aquí estoy, 30 años después,
+
+571
+00:27:09,709 --> 00:27:13,209
+y me encantaría ver "Pizza Hut"
+impreso en mi traje de baño
+
+572
+00:27:13,209 --> 00:27:14,793
+mientras cruzo esas...
+
+573
+00:27:14,793 --> 00:27:16,793
+Sí, sus números son correctos.
+
+574
+00:27:16,793 --> 00:27:19,793
+Tengo 61, pero esa es la razón
+para hacerlo, no la otra.
+
+575
+00:27:21,834 --> 00:27:24,293
+Bueno, por supuesto,
+tiene derecho a su opinión,
+
+576
+00:27:25,043 --> 00:27:26,501
+pero no sé cómo dejarle claro
+
+577
+00:27:26,501 --> 00:27:29,751
+lo increíblemente incorrecta
+y limitada que es.
+
+578
+00:27:31,293 --> 00:27:33,918
+La primera vez,
+fue como quitarle un dulce a un bebé.
+
+579
+00:27:33,918 --> 00:27:37,959
+Yo solo... entré a la oficina de Rocky Aoki,
+el de los restaurantes,
+
+580
+00:27:37,959 --> 00:27:39,793
+y escuché que le gustaba el océano,
+
+581
+00:27:39,793 --> 00:27:41,626
+así que solo me presenté.
+
+582
+00:27:41,626 --> 00:27:45,626
+Y salí con este cheque gigante
+de 300 000 dólares.
+
+583
+00:27:45,626 --> 00:27:46,709
+Me saqué la lotería.
+
+584
+00:27:46,709 --> 00:27:49,001
+- ¿Sabes que ya me lo contaste?
+- [Diana] Sí.
+
+585
+00:27:49,001 --> 00:27:51,626
+- Como 400 veces.
+- [Diana] Es una buena historia.
+
+586
+00:27:51,626 --> 00:27:54,709
+Pero no es lo mismo <i>Los tres mosqueteros</i>
+que 20 años después.
+
+587
+00:27:55,459 --> 00:27:56,918
+¿No quieres buscarlo?
+
+588
+00:27:56,918 --> 00:27:58,126
+De hecho, está muerto.
+
+589
+00:27:59,209 --> 00:28:00,043
+Ah.
+
+590
+00:28:00,543 --> 00:28:03,043
+Además, necesitamos 500 000 esta vez.
+
+591
+00:28:05,793 --> 00:28:08,626
+[Bonnie] Pues necesitamos un nuevo ángulo.
+
+592
+00:28:08,626 --> 00:28:11,751
+Menos hombres en traje
+y más cosas de mujeres.
+
+593
+00:28:11,751 --> 00:28:13,376
+¿Cosas como tampones?
+
+594
+00:28:13,376 --> 00:28:14,293
+[ríe]
+
+595
+00:28:14,293 --> 00:28:16,251
+Ya no uso tampones, gracias a Dios.
+
+596
+00:28:16,251 --> 00:28:17,709
+No, gracias a Dios.
+
+597
+00:28:17,709 --> 00:28:19,959
+Y también... no es que me preocupe,
+
+598
+00:28:19,959 --> 00:28:21,418
+porque no es así, pero...
+
+599
+00:28:23,084 --> 00:28:24,918
+¿qué haremos con los tiburones?
+
+600
+00:28:25,709 --> 00:28:28,084
+- No cazan personas.
+- [suena rock en la radio]
+
+601
+00:28:28,084 --> 00:28:30,209
+No quieren comer humanos, quieren focas.
+
+602
+00:28:30,209 --> 00:28:31,793
+Sí, pero...
+
+603
+00:28:31,793 --> 00:28:35,168
+Pero, a veces, son curiosos.
+Quieren saber si eres una foca o no.
+
+604
+00:28:35,168 --> 00:28:37,584
+¿Y exactamente cómo lo averiguan? Porque...
+
+605
+00:28:37,584 --> 00:28:38,959
+Para eso está el escudo.
+
+606
+00:28:40,251 --> 00:28:43,959
+Dos electrodos
+conectados a la popa de cada kayak
+
+607
+00:28:43,959 --> 00:28:45,918
+que transmiten una señal amplificada.
+
+608
+00:28:45,918 --> 00:28:47,584
+Lo odian. Miren.
+
+609
+00:28:50,626 --> 00:28:51,709
+[Bonnie] ¡Oh!
+
+610
+00:28:53,751 --> 00:28:54,751
+Oh.
+
+611
+00:28:54,751 --> 00:28:56,876
+¿Es...? ¿Eso es algo necesario?
+
+612
+00:28:56,876 --> 00:28:58,334
+Tranquilas, ya lo probamos.
+
+613
+00:28:58,334 --> 00:29:01,376
+Con una pierna de caballo ensangrentada
+en el Pacífico.
+
+614
+00:29:01,376 --> 00:29:04,376
+Es una invitación a cenar.
+Y todos se dieron la vuelta.
+
+615
+00:29:04,376 --> 00:29:07,584
+¿Crees que puedas, no sé,
+iluminarla con algo en la noche?
+
+616
+00:29:07,584 --> 00:29:08,793
+Porque no puedo verla.
+
+617
+00:29:08,793 --> 00:29:12,001
+Y solo sé dónde está
+cuando está golpeando el agua.
+
+618
+00:29:12,001 --> 00:29:13,709
+- Oigan. ¿Hola?
+- Ese sonido...
+
+619
+00:29:13,709 --> 00:29:17,043
+La luz blanca atrae a los peces.
+Ah, ya viene. Miren.
+
+620
+00:29:17,043 --> 00:29:18,084
+[exclama]
+
+621
+00:29:19,668 --> 00:29:21,668
+- [pitido de electrodos]
+- [hombre ríe]
+
+622
+00:29:21,668 --> 00:29:23,543
+Órganos sensoriales en sus narinas.
+
+623
+00:29:23,543 --> 00:29:25,459
+La corriente eléctrica los confunde.
+
+624
+00:29:26,959 --> 00:29:32,043
+Mis buzos y yo vigilaremos todo el tiempo
+por si el escudo no sirve o algo falla.
+
+625
+00:29:32,043 --> 00:29:34,334
+Me... me gustaría saber qué armas usan.
+
+626
+00:29:34,334 --> 00:29:36,834
+¿Son como pistolas o... o... o...?
+
+627
+00:29:36,834 --> 00:29:38,959
+Palos con pelotas de tenis.
+
+628
+00:29:40,626 --> 00:29:41,668
+No los lastimamos.
+
+629
+00:29:41,668 --> 00:29:43,751
+Solo les damos un golpe.
+
+630
+00:29:45,293 --> 00:29:46,126
+No usamos armas.
+
+631
+00:29:47,334 --> 00:29:49,918
+Mira, Diana, te protegeremos. ¿Okey?
+
+632
+00:29:50,543 --> 00:29:51,959
+Pero que no se te olvide,
+
+633
+00:29:51,959 --> 00:29:54,084
+este es su océano, ¿okey?
+
+634
+00:29:54,084 --> 00:29:55,334
+Tú solo vienes de paso.
+
+635
+00:29:58,293 --> 00:30:01,959
+Bueno, piensa en las oportunidades
+de publicidad conmigo al frente.
+
+636
+00:30:01,959 --> 00:30:04,084
+No lo sé, tal vez: "Aún seco".
+
+637
+00:30:04,709 --> 00:30:06,209
+O algo más clásico,
+
+638
+00:30:06,209 --> 00:30:09,834
+yo en un anuncio con su eslogan icónico
+con un listón abajo de mí:
+
+639
+00:30:09,834 --> 00:30:12,626
+"Tan fuerte para un hombre,
+pero hecho para una mujer".
+
+640
+00:30:14,251 --> 00:30:15,251
+Por supuesto.
+
+641
+00:30:16,418 --> 00:30:17,918
+Sí. Muchas gracias.
+
+642
+00:30:20,043 --> 00:30:22,001
+Creo que ya conseguí un patrocinador.
+
+643
+00:30:22,001 --> 00:30:24,043
+- [vitorea]
+- ¡Sí, eso!
+
+644
+00:30:24,626 --> 00:30:26,334
+Y me recomendaron a un navegante.
+
+645
+00:30:26,334 --> 00:30:28,668
+- Preséntame a un navegante...
+- Es de Key West.
+
+646
+00:30:28,668 --> 00:30:31,418
+- ...que no sea un idiota.
+- No puedes conducir también.
+
+647
+00:30:31,418 --> 00:30:32,376
+Necesito ayuda.
+
+648
+00:30:32,376 --> 00:30:33,834
+Todos dicen que es bueno.
+
+649
+00:30:33,834 --> 00:30:35,459
+Lo llaman el Rey del Golfo.
+
+650
+00:30:36,084 --> 00:30:38,418
+Así que comeremos con él mañana.
+
+651
+00:30:38,418 --> 00:30:41,459
+Y voy a ordenarte los tacos de pescado
+con la salsa aparte,
+
+652
+00:30:41,459 --> 00:30:43,626
+y vas a ser una persona encantadora.
+
+653
+00:30:43,626 --> 00:30:44,543
+¿Te parece?
+
+654
+00:30:46,918 --> 00:30:48,251
+[Diana] Linda embarcación.
+
+655
+00:30:50,834 --> 00:30:53,001
+La diseñé yo mismo, Diana.
+
+656
+00:30:53,751 --> 00:30:56,918
+Tuve que redibujar los planos
+como 76 veces.
+
+657
+00:30:57,793 --> 00:31:00,043
+Mi esposa pensó
+que estaba completamente loco,
+
+658
+00:31:00,043 --> 00:31:01,126
+pero es perfecta.
+
+659
+00:31:01,709 --> 00:31:03,126
+¿Tu esposa o tu embarcación?
+
+660
+00:31:03,126 --> 00:31:04,126
+Pues las dos.
+
+661
+00:31:05,001 --> 00:31:05,876
+John Bartlett.
+
+662
+00:31:07,459 --> 00:31:09,709
+Te veía en <i>Wide World of Sports</i>.
+
+663
+00:31:09,709 --> 00:31:10,834
+Ah, ¿sí?
+
+664
+00:31:10,834 --> 00:31:14,084
+"La emoción de la victoria
+y la agonía de la derrota", todo eso.
+
+665
+00:31:14,084 --> 00:31:16,126
+Necesito ver la cabina de navegación.
+
+666
+00:31:18,376 --> 00:31:19,626
+No hay problema.
+
+667
+00:31:22,043 --> 00:31:24,293
+La corriente del Golfo
+es una maldita perra.
+
+668
+00:31:24,293 --> 00:31:27,751
+Es, básicamente, un río muy veloz
+en medio del océano,
+
+669
+00:31:27,751 --> 00:31:30,043
+que va al este cuando quiere ir al norte.
+
+670
+00:31:30,584 --> 00:31:33,876
+- Si no excedes su velocidad, entonces...
+- Pues vas hacia atrás.
+
+671
+00:31:34,626 --> 00:31:35,584
+Sí, ya sé.
+
+672
+00:31:35,584 --> 00:31:37,834
+¿Sabes que ya he intentado esto antes?
+
+673
+00:31:37,834 --> 00:31:38,876
+Claro que sí.
+
+674
+00:31:38,876 --> 00:31:41,668
+No necesito clases
+sobre la corriente del Golfo, ¿okey?
+
+675
+00:31:41,668 --> 00:31:44,876
+Lo que necesito saber
+es qué te califica para esta misión.
+
+676
+00:31:44,876 --> 00:31:47,834
+- ¿Cuál es tu <i>pedigree</i>?
+- Espera un minuto. ¿Qué es esto?
+
+677
+00:31:47,834 --> 00:31:51,459
+¿Crees que yo me tengo que vender
+o solo amaneciste de muy mal humor?
+
+678
+00:31:51,459 --> 00:31:54,251
+Mi último navegante me jodió, ¿okey?
+
+679
+00:31:54,251 --> 00:31:57,084
+Me tuvo golpeando espuma
+por 14 horas seguidas.
+
+680
+00:31:57,084 --> 00:32:00,084
+- Lo hubiera logrado si él no...
+- Eso es tu culpa.
+
+681
+00:32:00,084 --> 00:32:03,043
+Investigué a tu antiguo navegante del 78.
+
+682
+00:32:03,584 --> 00:32:05,793
+Un tarado millonario
+de competencias de vela
+
+683
+00:32:05,793 --> 00:32:07,584
+que no sabe nada del Estrecho.
+
+684
+00:32:07,584 --> 00:32:09,834
+Ten todo el <i>pedigree</i> del mundo,
+
+685
+00:32:09,834 --> 00:32:11,418
+pero si no has navegado aquí,
+
+686
+00:32:11,418 --> 00:32:15,793
+si no te has vuelto un total experto
+en estas contracorrientes y torbellinos,
+
+687
+00:32:15,793 --> 00:32:16,959
+es como decirle
+
+688
+00:32:16,959 --> 00:32:19,751
+a un entrenador de caballos
+que te instale tu lavadora.
+
+689
+00:32:19,751 --> 00:32:22,168
+- Qué poético.
+- Ven, sal conmigo un minuto.
+
+690
+00:32:23,876 --> 00:32:25,001
+Saca la lengua.
+
+691
+00:32:25,834 --> 00:32:27,251
+Quiero que saques la lengua.
+
+692
+00:32:30,501 --> 00:32:31,334
+¿A qué sabe?
+
+693
+00:32:32,668 --> 00:32:33,584
+No sé. ¿A sal?
+
+694
+00:32:33,584 --> 00:32:36,584
+No. A arena del Sahara,
+
+695
+00:32:36,584 --> 00:32:38,334
+a 11 000 kilómetros de distancia.
+
+696
+00:32:38,334 --> 00:32:39,793
+Eso puede hacer el viento.
+
+697
+00:32:40,418 --> 00:32:43,376
+Lo que quieres hacer
+jamás se ha intentado, ¿verdad?
+
+698
+00:32:43,376 --> 00:32:45,668
+La ruta debe ser exacta.
+
+699
+00:32:45,668 --> 00:32:50,168
+El eje de la corriente debe calcularlo
+alguien que sepa con lo que está lidiando
+
+700
+00:32:50,168 --> 00:32:52,959
+para que la corriente
+trabaje para ti, no contra ti,
+
+701
+00:32:52,959 --> 00:32:55,293
+recalculando cada 15 minutos.
+
+702
+00:32:55,293 --> 00:32:58,126
+Si te desvías
+una fracción de grado al este,
+
+703
+00:32:58,126 --> 00:32:59,584
+irás a Turcas y Caicos.
+
+704
+00:32:59,584 --> 00:33:01,626
+Una fracción al oeste, Texas.
+
+705
+00:33:01,626 --> 00:33:04,043
+O peor, un torbellino te succiona.
+
+706
+00:33:04,918 --> 00:33:07,001
+Elige al incorrecto otra vez. No importa.
+
+707
+00:33:07,793 --> 00:33:09,668
+Eso tal vez te cueste la vida.
+
+708
+00:33:10,168 --> 00:33:11,001
+Bueno.
+
+709
+00:33:12,334 --> 00:33:14,168
+Gracias por tu interés en el puesto.
+
+710
+00:33:23,209 --> 00:33:24,751
+- <i>Bye</i>.
+- Él será.
+
+711
+00:33:28,751 --> 00:33:31,084
+[Bonnie] Ey, espera. Eh, ¿y la comida?
+
+712
+00:33:31,084 --> 00:33:32,626
+- [John gruñe]
+- [Bonnie] ¿Eh?
+
+713
+00:33:35,251 --> 00:33:36,251
+¿Traes cerveza?
+
+714
+00:33:36,876 --> 00:33:38,126
+- Sí.
+- Necesito una.
+
+715
+00:33:38,709 --> 00:33:42,334
+[Bonnie] Si alguien en el mundo
+puede hacerlo, es ella. Por favor.
+
+716
+00:33:42,334 --> 00:33:43,584
+Dime que lo ves.
+
+717
+00:33:43,584 --> 00:33:46,459
+Aunque sea un poco,
+si no, no estarías aquí sentado.
+
+718
+00:33:47,043 --> 00:33:48,126
+Me trajiste de comer.
+
+719
+00:33:48,126 --> 00:33:50,501
+[ríe] Correcto, así es.
+
+720
+00:33:51,793 --> 00:33:54,251
+Voy a ser honesto, Bonnie.
+No lo sé. En serio, no.
+
+721
+00:33:54,793 --> 00:33:56,126
+Solo hay pocos días al año
+
+722
+00:33:56,126 --> 00:33:59,584
+en los que el viento y la corriente
+permiten que un nadador cruce.
+
+723
+00:33:59,584 --> 00:34:01,834
+Tal vez. Es una ventana pequeña.
+
+724
+00:34:02,376 --> 00:34:04,293
+E incluso así, tal vez no lo logre.
+
+725
+00:34:05,001 --> 00:34:05,834
+¿Me explico?
+
+726
+00:34:06,376 --> 00:34:09,168
+Además, tu trato es como voluntario,
+
+727
+00:34:09,168 --> 00:34:10,168
+sin paga.
+
+728
+00:34:10,668 --> 00:34:13,543
+Entrenamos por meses
+y tal vez ni siquiera nos dejen.
+
+729
+00:34:14,293 --> 00:34:15,543
+[suspira] Sí.
+
+730
+00:34:18,209 --> 00:34:20,209
+¿Sabes cuál es mi sensación favorita?
+
+731
+00:34:20,918 --> 00:34:22,251
+[John carraspea]
+
+732
+00:34:22,251 --> 00:34:24,876
+Cuando yo...
+Cuando jugaba ráquetbol de joven,
+
+733
+00:34:25,668 --> 00:34:26,876
+y tenía 30,
+
+734
+00:34:26,876 --> 00:34:30,626
+y solo éramos las niñas y yo
+haciendo tonterías como mocosas.
+
+735
+00:34:31,376 --> 00:34:34,376
+Y luego es... luego es el día del juego.
+
+736
+00:34:34,376 --> 00:34:36,084
+Y te sientes feliz,
+
+737
+00:34:36,084 --> 00:34:38,251
+como: "¡Ah! Voy a ganar. Voy a ganar".
+
+738
+00:34:38,251 --> 00:34:39,209
+¿Me explico?
+
+739
+00:34:41,834 --> 00:34:44,959
+La única manera
+en la que tendré esa magia a esta edad
+
+740
+00:34:45,751 --> 00:34:46,751
+es con ella.
+
+741
+00:34:47,501 --> 00:34:50,543
+¿Cuántas cosas emocionantes
+nos quedan por hacer, eh?
+
+742
+00:34:50,543 --> 00:34:52,626
+[música emotiva]
+
+743
+00:34:53,209 --> 00:34:54,751
+Y por eso estás aquí.
+
+744
+00:34:56,501 --> 00:34:58,959
+Sí, eso y me necesita.
+
+745
+00:34:58,959 --> 00:35:00,251
+No sé por qué.
+
+746
+00:35:00,834 --> 00:35:01,668
+[ríe]
+
+747
+00:35:02,459 --> 00:35:05,793
+Y, la verdad, a ti también.
+Te prometo que no será aburrido.
+
+748
+00:35:06,376 --> 00:35:09,251
+Hay quienes opinan
+que el aburrimiento es algo bueno.
+
+749
+00:35:09,251 --> 00:35:11,959
+Adivinaré, tú no eres de esos.
+
+750
+00:35:11,959 --> 00:35:13,876
+[ambos ríen]
+
+751
+00:35:21,668 --> 00:35:23,876
+- [Bonnie] Guau. Está mal.
+- [Diana se queja]
+
+752
+00:35:24,501 --> 00:35:27,543
+[Bonnie] Voy a averiguar
+qué usan los demás.
+
+753
+00:35:28,959 --> 00:35:31,126
+Ah, y ya tenemos buenas ideas
+
+754
+00:35:31,126 --> 00:35:33,001
+para que puedas seguir al bote.
+
+755
+00:35:33,709 --> 00:35:36,126
+¿Cómo te sientes? ¿Lista para la noche?
+
+756
+00:35:37,334 --> 00:35:38,543
+Sí.
+
+757
+00:35:38,543 --> 00:35:41,084
+- [se queja] Sí.
+- Sí. Bueno, te ves bien.
+
+758
+00:35:41,084 --> 00:35:44,626
+Mira, te estás tensando.
+¿Cómo va el hombro? ¿Te sigue doliendo?
+
+759
+00:35:44,626 --> 00:35:46,126
+No, no está tan mal.
+
+760
+00:35:47,251 --> 00:35:48,751
+¿Cómo... cómo está tu mente?
+
+761
+00:35:49,584 --> 00:35:51,084
+Cuando nadas por mucho tiempo.
+
+762
+00:35:52,209 --> 00:35:55,001
+Está bien.
+Ya tengo 85 canciones en mi <i>playlist</i>.
+
+763
+00:35:55,584 --> 00:35:57,543
+Neil Young, Janis Joplin, The Beatles.
+
+764
+00:35:57,543 --> 00:36:01,626
+Si canto "No Reply" mil veces,
+son nueve horas y 45 minutos a buen ritmo.
+
+765
+00:36:02,168 --> 00:36:04,834
+Quizá necesite otra,
+pero debe estar en cuatro cuartos
+
+766
+00:36:04,834 --> 00:36:06,376
+para que siga las brazadas.
+
+767
+00:36:09,043 --> 00:36:11,501
+También, solo para que sepas,
+
+768
+00:36:12,584 --> 00:36:15,168
+si empiezas a sentirte en un lugar oscuro,
+
+769
+00:36:16,001 --> 00:36:18,584
+puedes, en lugar de mortificarte,
+
+770
+00:36:18,584 --> 00:36:20,543
+- solo decirme...
+- Dije que estoy bien.
+
+771
+00:36:20,543 --> 00:36:21,876
+Déjame hacer eso, ¿okey?
+
+772
+00:36:23,168 --> 00:36:24,293
+Claro.
+
+773
+00:36:24,293 --> 00:36:25,251
+[exhala]
+
+774
+00:36:29,376 --> 00:36:30,209
+Okey.
+
+775
+00:36:31,126 --> 00:36:34,084
+{\an8}20 DE ABRIL DE 2011, EDAD: 61
+PRUEBA DE 24 HORAS, SAN MARTÍN
+
+776
+00:36:34,084 --> 00:36:36,043
+{\an8}[Bonnie] Buenos días. Okey, escuchen.
+
+777
+00:36:36,709 --> 00:36:41,709
+Es nuestra prueba de nado de 24 horas.
+Ella es la adorable Dee, nuestra capitana.
+
+778
+00:36:41,709 --> 00:36:45,001
+Cuando ella está al timón,
+nadie le habla. ¿Entendido?
+
+779
+00:36:45,001 --> 00:36:48,668
+[susurra] Nunca la he escuchado hablar,
+pero es la mejor de las mejores.
+
+780
+00:36:48,668 --> 00:36:52,126
+Lo mismo con la nadadora.
+Cuando esté en el agua, nadie le habla.
+
+781
+00:36:52,126 --> 00:36:53,459
+No le hacemos bromas.
+
+782
+00:36:53,459 --> 00:36:54,584
+Tómenselo en serio.
+
+783
+00:36:54,584 --> 00:36:56,834
+Andando, vamos. Ustedes se conocen.
+
+784
+00:36:56,834 --> 00:36:57,751
+Hola, Dee.
+
+785
+00:36:58,376 --> 00:37:00,334
+Sí, la luz roja fue idea de Nico.
+
+786
+00:37:00,334 --> 00:37:01,668
+No podemos iluminarte.
+
+787
+00:37:01,668 --> 00:37:04,084
+Eso atraería
+a todo tipo de criaturas hacia ti.
+
+788
+00:37:04,084 --> 00:37:06,584
+Pero... no les gusta el rojo.
+
+789
+00:37:06,584 --> 00:37:07,543
+Guau.
+
+790
+00:37:07,543 --> 00:37:10,834
+Si no hacemos que coma algo,
+su cuerpo se comerá a sí mismo.
+
+791
+00:37:12,001 --> 00:37:16,293
+Entonces, come cada 90 minutos,
+pero nunca le digas qué hora es.
+
+792
+00:37:16,959 --> 00:37:17,834
+Y, eh...
+
+793
+00:37:18,876 --> 00:37:21,918
+tampoco hay que... que ir contra su ego.
+
+794
+00:37:21,918 --> 00:37:23,126
+No le grites.
+
+795
+00:37:23,126 --> 00:37:24,709
+No responde bien al amor duro.
+
+796
+00:37:25,751 --> 00:37:27,001
+Y tampoco la cuides.
+
+797
+00:37:27,001 --> 00:37:30,376
+Cuando empiece a alucinar,
+sigues la corriente, ¿okey?
+
+798
+00:37:30,376 --> 00:37:33,293
+- [John] Sí, hay que enseñarle.
+- Ay, hola. Mira eso.
+
+799
+00:37:34,001 --> 00:37:37,001
+Bartlett te hizo un carril
+para que estés más cerca del bote.
+
+800
+00:37:38,626 --> 00:37:39,501
+¿Tú hiciste eso?
+
+801
+00:37:39,501 --> 00:37:40,418
+[John] Así es.
+
+802
+00:37:40,959 --> 00:37:42,959
+[música suave]
+
+803
+00:37:53,834 --> 00:37:56,293
+[Diana] <i>La mente se deteriora
+junto con el cuerpo.</i>
+
+804
+00:37:56,293 --> 00:37:58,709
+<i>El cuerpo se debilita
+y empiezas a alucinar...</i>
+
+805
+00:37:58,709 --> 00:37:59,959
+<i>Es privación sensorial.</i>
+
+806
+00:37:59,959 --> 00:38:02,584
+<i>Creía que las gaviotas
+me picoteaban las piernas</i>
+
+807
+00:38:02,584 --> 00:38:04,834
+<i>y que tenía toda la cara ensangrentada.</i>
+
+808
+00:38:04,834 --> 00:38:05,834
+<i>Casi no veo.</i>
+
+809
+00:38:05,834 --> 00:38:08,501
+<i>El estrés mental que sufres es increíble.</i>
+
+810
+00:38:08,501 --> 00:38:09,751
+<i>Es casi una tortura.</i>
+
+811
+00:38:09,751 --> 00:38:12,334
+<i>Vomitaba y me quedaba sin fuerza.</i>
+
+812
+00:38:12,334 --> 00:38:13,543
+[Diana vomita]
+
+813
+00:38:13,543 --> 00:38:17,251
+<i>...71, 72, 73, 74...</i>
+
+814
+00:38:17,251 --> 00:38:20,126
+[padre] ¿Puedes leer lo que dice
+después de Nyad?
+
+815
+00:38:20,626 --> 00:38:21,918
+Ese es tu nombre, Diana.
+
+816
+00:38:22,501 --> 00:38:24,293
+<i>Es tu destino.</i>
+
+817
+00:38:24,293 --> 00:38:26,543
+[diálogo indistinto por radio]
+
+818
+00:38:26,543 --> 00:38:30,418
+[entrenador] <i>Después de girar,
+las brazadas deben ser más frecuentes.</i>
+
+819
+00:38:30,418 --> 00:38:31,334
+[Diana tose]
+
+820
+00:38:32,293 --> 00:38:33,834
+Espera. ¿Qué es eso?
+
+821
+00:38:33,834 --> 00:38:35,001
+Eh...
+
+822
+00:38:35,668 --> 00:38:37,959
+- ¿Qué? Déjame ver.
+- No es nada.
+
+823
+00:38:39,376 --> 00:38:40,918
+ENTRENADOR NELSON
+
+824
+00:38:42,334 --> 00:38:43,959
+- [suspira]
+- [entrenador ríe]
+
+825
+00:38:47,626 --> 00:38:49,251
+¿Por qué estás vomitando?
+
+826
+00:38:49,876 --> 00:38:51,543
+Porque... [se queja]
+
+827
+00:38:52,668 --> 00:38:56,126
+...porque acabo de nadar por 24 horas.
+
+828
+00:38:57,376 --> 00:38:58,834
+Ey, ya llegaron las visas.
+
+829
+00:38:58,834 --> 00:38:59,876
+Podemos ir a Cuba.
+
+830
+00:38:59,876 --> 00:39:00,793
+[Diana se queja]
+
+831
+00:39:00,793 --> 00:39:02,084
+- ¿Mejor?
+- [Diana] Sí.
+
+832
+00:39:02,084 --> 00:39:04,126
+- Eso es. Dame cinco.
+- [jadea]
+
+833
+00:39:04,126 --> 00:39:05,418
+[música de mambo]
+
+834
+00:39:05,418 --> 00:39:06,626
+Y por fin, hoy,
+
+835
+00:39:06,626 --> 00:39:09,376
+alguien que fue una heroína
+para muchos de nosotros,
+
+836
+00:39:09,376 --> 00:39:11,043
+{\an8}Diana Nyad.
+
+837
+00:39:11,043 --> 00:39:13,668
+{\an8}La increíble nadadora regresó
+
+838
+00:39:13,668 --> 00:39:15,834
+{\an8}y emprenderá algo que no podemos creer.
+
+839
+00:39:15,834 --> 00:39:20,584
+[reportera] <i>...se propuso superar el desafío
+que no ha podido lograr en 30 años.</i>
+
+840
+00:39:20,584 --> 00:39:21,959
+Espero que mi natación
+
+841
+00:39:21,959 --> 00:39:23,668
+fomente la unidad
+
+842
+00:39:23,668 --> 00:39:28,293
+y las buenas relaciones
+entre nuestros dos países.
+
+843
+00:39:28,293 --> 00:39:30,251
+Un sentido de conexión.
+
+844
+00:39:31,834 --> 00:39:36,501
+Estoy deseando empezar
+tan pronto como el tiempo nos lo permita.
+
+845
+00:39:37,626 --> 00:39:38,459
+Gracias.
+
+846
+00:39:41,834 --> 00:39:44,043
+[música de mambo continúa en la radio]
+
+847
+00:39:44,043 --> 00:39:46,543
+[John] Luke,
+pensé que te gustaría una de estas.
+
+848
+00:39:46,543 --> 00:39:47,626
+[Luke] Ah, gracias.
+
+849
+00:39:48,334 --> 00:39:50,793
+¡Ah! [ríe]
+
+850
+00:39:51,959 --> 00:39:53,834
+Ah, ¿saben qué? Hay...
+
+851
+00:39:54,376 --> 00:39:56,709
+Quiero compartir algo con los presentes.
+
+852
+00:39:56,709 --> 00:39:58,043
+[música se atenúa]
+
+853
+00:39:59,834 --> 00:40:02,459
+Mientras esperamos
+la señal de la madre naturaleza,
+
+854
+00:40:02,459 --> 00:40:04,793
+firmé un contrato con mi alma
+
+855
+00:40:04,793 --> 00:40:07,793
+para nunca jamás rendirme.
+
+856
+00:40:08,376 --> 00:40:10,418
+Todos han sacrificado bastante.
+
+857
+00:40:11,084 --> 00:40:14,084
+Sin paga ni retribución ni garantías.
+
+858
+00:40:14,751 --> 00:40:18,668
+Pero no se me ocurre
+ninguna mejor razón para tal sacrificio.
+
+859
+00:40:18,668 --> 00:40:21,543
+La misión de mi vida,
+por no decir mi destino,
+
+860
+00:40:21,543 --> 00:40:24,876
+es luchar
+las tan impredecibles condiciones,
+
+861
+00:40:24,876 --> 00:40:26,376
+mezclarme con los elementos.
+
+862
+00:40:26,376 --> 00:40:28,918
+Seré la primera Nyad.
+
+863
+00:40:28,918 --> 00:40:31,459
+Si buscan mi nombre
+en el diccionario, van a ver...
+
+864
+00:40:31,459 --> 00:40:34,168
+- Excelente, Diana.
+- ...literalmente, "ninfa de agua".
+
+865
+00:40:34,168 --> 00:40:38,084
+Muchísimas gracias.
+Y... y... y por... por... por el destino.
+
+866
+00:40:38,084 --> 00:40:41,709
+- Por todos nosotros. Por Cuba. ¿Okey?
+- [todos] Por Cuba.
+
+867
+00:40:41,709 --> 00:40:43,376
+- Por que mejore el clima.
+- Sí.
+
+868
+00:40:43,376 --> 00:40:45,876
+[truenos]
+
+869
+00:40:52,876 --> 00:40:55,793
+Si no lo hacemos en un par de semanas,
+va a estar muy frío.
+
+870
+00:40:55,793 --> 00:40:58,001
+- Sería un año desperdiciado.
+- Sí.
+
+871
+00:40:58,959 --> 00:41:00,126
+¿Y cómo va a estar?
+
+872
+00:41:01,001 --> 00:41:03,376
+Eh, eh, tengo tres pronósticos diferentes,
+
+873
+00:41:03,376 --> 00:41:05,751
+tanto del clima
+como del eje de la corriente.
+
+874
+00:41:05,751 --> 00:41:07,751
+Uno en Maryland, otro en Washington
+
+875
+00:41:07,751 --> 00:41:09,918
+y otro del Centro de Huracanes de Miami.
+
+876
+00:41:09,918 --> 00:41:11,668
+Estoy comparando sus modelos.
+
+877
+00:41:11,668 --> 00:41:14,293
+- ¿Y?
+- Y es una ruleta rusa.
+
+878
+00:41:14,293 --> 00:41:16,751
+Tal vez tengamos una ventana
+cuando se despeje.
+
+879
+00:41:16,751 --> 00:41:20,293
+Yo, eh, pondría la probabilidad
+
+880
+00:41:20,293 --> 00:41:22,084
+entre mínima y regular.
+
+881
+00:41:25,501 --> 00:41:28,543
+[inhala y exhala con fuerza]
+
+882
+00:41:28,543 --> 00:41:29,709
+[golpes en la puerta]
+
+883
+00:41:29,709 --> 00:41:30,626
+Hola.
+
+884
+00:41:31,334 --> 00:41:33,168
+[Diana] Ya, tengo que salir de aquí.
+
+885
+00:41:33,168 --> 00:41:34,293
+- [trueno]
+- [lluvia]
+
+886
+00:41:34,293 --> 00:41:35,793
+Como ir a correr o algo.
+
+887
+00:41:37,459 --> 00:41:38,918
+[ríe] No ha parado de llover.
+
+888
+00:41:38,918 --> 00:41:40,668
+Sí, bueno, tengo que estar lista.
+
+889
+00:41:40,668 --> 00:41:41,668
+Ya estás lista.
+
+890
+00:41:42,168 --> 00:41:45,543
+Me estrellé contigo en la cocina
+y fue como darle a una pared.
+
+891
+00:41:45,543 --> 00:41:48,168
+Okey. Mira, no quiero que te fatigues.
+
+892
+00:41:49,084 --> 00:41:51,126
+Entonces, descansa y sé paciente.
+
+893
+00:41:51,126 --> 00:41:53,876
+- Sé que es difícil. Es difícil.
+- No, no tienes idea.
+
+894
+00:41:53,876 --> 00:41:55,293
+Tú no tienes que hacerlo.
+
+895
+00:41:55,293 --> 00:41:57,543
+[ríe] Es fácil para ti decir eso, ¿verdad?
+
+896
+00:41:57,543 --> 00:41:59,834
+Ay, sí, qué tontería.
+
+897
+00:41:59,834 --> 00:42:02,168
+Siempre es:
+"Para mí, para mí, para mí", y ya.
+
+898
+00:42:02,168 --> 00:42:04,209
+- ¿Qué?
+- Hipotequé mi casa para esto.
+
+899
+00:42:04,209 --> 00:42:05,751
+Sí, también yo.
+
+900
+00:42:05,751 --> 00:42:08,251
+Pues la respuesta correcta
+debería ser "gracias".
+
+901
+00:42:08,876 --> 00:42:10,418
+Ah, entonces, ¿te vas a ir?
+
+902
+00:42:10,418 --> 00:42:12,001
+No, no. Vete, bien. Okey.
+
+903
+00:42:12,001 --> 00:42:13,459
+No te detengas. Está bien.
+
+904
+00:42:13,459 --> 00:42:15,084
+Mejor sal a fumarte un porro.
+
+905
+00:42:15,626 --> 00:42:17,709
+Tú ponte a hacer yoga o lee un libro.
+
+906
+00:42:18,418 --> 00:42:19,543
+¡No me traje un libro!
+
+907
+00:42:20,334 --> 00:42:21,584
+[repiqueteo de lluvia]
+
+908
+00:42:32,168 --> 00:42:33,334
+[graznido de gaviotas]
+
+909
+00:42:33,334 --> 00:42:34,834
+[canto de gallo]
+
+910
+00:42:37,168 --> 00:42:38,168
+[tocan la puerta]
+
+911
+00:42:41,501 --> 00:42:42,751
+Paró la tormenta.
+
+912
+00:42:43,918 --> 00:42:45,001
+Es nuestra ventana.
+
+913
+00:42:45,668 --> 00:42:47,376
+Así es, Diana. Es hora de ir.
+
+914
+00:42:48,876 --> 00:42:49,709
+[exhala]
+
+915
+00:42:52,001 --> 00:42:53,959
+[resopla]
+
+916
+00:42:53,959 --> 00:42:57,418
+[Munatones] <i>Hay 16 millones de personas
+que nadan en aguas abiertas.</i>
+
+917
+00:42:57,418 --> 00:43:01,834
+<i>Hay 116 personas que han logrado nadar
+por más de 24 horas seguidas.</i>
+
+918
+00:43:01,834 --> 00:43:04,126
+Pero nadar más de 48 horas,
+
+919
+00:43:04,126 --> 00:43:07,251
+{\an8}solo han sido 12 personas
+en la historia del mundo.
+
+920
+00:43:07,251 --> 00:43:08,668
+{\an8}Y de esas 12,
+
+921
+00:43:08,668 --> 00:43:12,001
+{\an8}Nyad lo hará en un lugar
+con aguamalas, tiburones
+
+922
+00:43:12,001 --> 00:43:15,668
+y el más grande y veloz cuerpo de agua
+en el planeta.
+
+923
+00:43:16,293 --> 00:43:20,543
+<i>Tiene que nadar poco más de 52 horas
+para llegar hasta Florida.</i>
+
+924
+00:43:21,293 --> 00:43:22,793
+<i>Todo tiene que salir perfecto.</i>
+
+925
+00:43:22,793 --> 00:43:24,584
+[multitud aplaude y vitorea]
+
+926
+00:43:25,709 --> 00:43:27,668
+[suena campana]
+
+927
+00:43:27,668 --> 00:43:28,584
+Gracias.
+
+928
+00:43:31,168 --> 00:43:32,876
+- [Bonnie] Okey.
+- [hombre vitorea]
+
+929
+00:43:33,626 --> 00:43:36,543
+Okey, todos. Está lista,
+entonces, háganse para atrás, ¿sí?
+
+930
+00:43:37,168 --> 00:43:38,209
+- Okey.
+- ¡Gracias!
+
+931
+00:43:38,209 --> 00:43:39,584
+Muchas gracias a todos.
+
+932
+00:43:40,709 --> 00:43:43,001
+Lo harás. Vas a lograrlo, Diana.
+
+933
+00:43:48,334 --> 00:43:54,168
+[toca melodía militar]
+
+934
+00:43:56,668 --> 00:43:57,501
+[inaudible]
+
+935
+00:44:02,959 --> 00:44:04,168
+- Adelante.
+- Adelante.
+
+936
+00:44:06,959 --> 00:44:08,251
+{\an8}<i>Courage!</i>
+
+937
+00:44:08,251 --> 00:44:10,001
+{\an8}7 DE AGOSTO DE 2011, EDAD: 61
+
+938
+00:44:10,001 --> 00:44:11,418
+[multitud vitorea]
+
+939
+00:44:11,418 --> 00:44:18,084
+{\an8}166 KILÓMETROS HASTA KEY WEST
+
+940
+00:44:18,084 --> 00:44:20,168
+[música inquietante]
+
+941
+00:44:29,959 --> 00:44:33,709
+[Diana] <i>Presentadores de TV
+y desconocidos en la calle me preguntan:</i>
+
+942
+00:44:33,709 --> 00:44:35,876
+<i>"¿Por qué una mujer aparentemente cuerda</i>
+
+943
+00:44:35,876 --> 00:44:40,334
+<i>y obviamente hermosa
+se somete a semejante tortura?".</i>
+
+944
+00:44:40,334 --> 00:44:43,001
+<i>La clave del éxito
+en la natación de aguas abiertas,</i>
+
+945
+00:44:43,001 --> 00:44:44,584
+<i>por más que suene masoquista,</i>
+
+946
+00:44:44,584 --> 00:44:46,709
+<i>es que la persona que lo logra</i>
+
+947
+00:44:46,709 --> 00:44:51,793
+<i>es aquella dispuesta a soportar más dolor
+durante la mayor cantidad de horas.</i>
+
+948
+00:44:53,959 --> 00:44:57,751
+{\an8}160 KILÓMETROS HASTA KEY WEST
+
+949
+00:45:00,418 --> 00:45:01,418
+[Bonnie aplaude]
+
+950
+00:45:01,418 --> 00:45:02,334
+[vitorea]
+
+951
+00:45:07,084 --> 00:45:09,459
+Bartlett, ¿cómo va todo por allá?
+
+952
+00:45:10,251 --> 00:45:11,084
+Bien.
+
+953
+00:45:13,876 --> 00:45:14,751
+Por ahora.
+
+954
+00:45:17,959 --> 00:45:22,043
+[Diana en inglés] <i>501, 502, 503,</i>
+
+955
+00:45:22,043 --> 00:45:28,334
+<i>504, 505, 506, 507...</i>
+
+956
+00:45:28,334 --> 00:45:31,459
+[graznido de gaviotas]
+
+957
+00:45:33,793 --> 00:45:38,293
+{\an8}[Diana] <i>301, 302, 303, 304...</i>
+
+958
+00:45:38,293 --> 00:45:43,043
+[en español] <i>161, 162, 163, 164...</i>
+
+959
+00:45:43,043 --> 00:45:44,626
+{\an8}127 KILÓMETROS HASTA KEY WEST
+
+960
+00:45:44,626 --> 00:45:47,376
+{\an8}...<i>128, 129, 130.</i>
+
+961
+00:45:49,001 --> 00:45:54,793
+<i>132, 133, 134, 135...</i>
+
+962
+00:45:58,501 --> 00:46:00,084
+{\an8}101 KILÓMETROS HASTA KEY WEST
+
+963
+00:46:00,084 --> 00:46:02,001
+{\an8}<i>...178, 179, 180...</i>
+
+964
+00:46:08,459 --> 00:46:09,876
+{\an8}91 KILÓMETROS HASTA KEY WEST
+
+965
+00:46:09,876 --> 00:46:11,959
+{\an8}<i>1, 2, 3, 4,</i>
+
+966
+00:46:13,001 --> 00:46:15,418
+{\an8}<i>5, 6.</i>
+
+967
+00:46:17,918 --> 00:46:19,501
+[pitido de silbato]
+
+968
+00:46:19,501 --> 00:46:20,543
+[Bonnie] ¡Diana!
+
+969
+00:46:22,126 --> 00:46:23,459
+¡Te toca comer algo!
+
+970
+00:46:23,459 --> 00:46:25,043
+[pitidos de ordenador]
+
+971
+00:46:25,959 --> 00:46:27,043
+[Bonnie] Aquí tienes.
+
+972
+00:46:29,501 --> 00:46:30,793
+Bonnie, mi hombro.
+
+973
+00:46:31,418 --> 00:46:32,751
+¿Del uno a diez?
+
+974
+00:46:33,376 --> 00:46:34,209
+[gruñe]
+
+975
+00:46:35,126 --> 00:46:35,959
+Seis.
+
+976
+00:46:35,959 --> 00:46:39,001
+Ay, no. Alguien normal diría ocho. Okey.
+
+977
+00:46:39,001 --> 00:46:42,084
+- Eh... ¡Médico! Necesita Tylenols.
+- [mujer] Entendido.
+
+978
+00:46:42,793 --> 00:46:45,251
+[Bonnie] Muy bien.
+Tienes que comunicarte conmigo.
+
+979
+00:46:45,251 --> 00:46:46,709
+- Okey.
+- No te aguantes.
+
+980
+00:46:46,709 --> 00:46:47,876
+Por favor, por favor.
+
+981
+00:46:49,668 --> 00:46:50,668
+Aquí tienes.
+
+982
+00:46:54,876 --> 00:46:55,876
+¿Ya está?
+
+983
+00:46:57,376 --> 00:46:58,209
+Todo bien.
+
+984
+00:47:00,168 --> 00:47:01,084
+¿Estás bien?
+
+985
+00:47:02,418 --> 00:47:03,251
+Ya se fue.
+
+986
+00:47:08,834 --> 00:47:09,876
+[Bonnie] Adelante.
+
+987
+00:47:12,626 --> 00:47:14,501
+[música dramática]
+
+988
+00:47:17,084 --> 00:47:20,626
+{\an8}87 KILÓMETROS HASTA KEY WEST
+
+989
+00:47:25,459 --> 00:47:27,459
+[música de tensión]
+
+990
+00:47:29,293 --> 00:47:30,876
+[pitidos del ordenador]
+
+991
+00:47:30,876 --> 00:47:32,126
+[John] Ay, carajo.
+
+992
+00:47:40,584 --> 00:47:42,001
+[música de tensión continúa]
+
+993
+00:47:42,001 --> 00:47:44,501
+[reportera] <i>De entrada,
+el océano fue implacable,</i>
+
+994
+00:47:44,501 --> 00:47:46,084
+<i>pero ella siguió nadando.</i>
+
+995
+00:47:46,084 --> 00:47:47,668
+<i>Tragó agua salada.</i>
+
+996
+00:47:47,668 --> 00:47:50,626
+<i>Los mareos duraron 15 horas</i>
+
+997
+00:47:50,626 --> 00:47:52,001
+<i>y se quedó sin fuerzas.</i>
+
+998
+00:47:52,001 --> 00:47:56,001
+<i>No toleraba la comida,
+pero siguió nadando.</i>
+
+999
+00:47:59,751 --> 00:48:00,584
+[jadea]
+
+1000
+00:48:01,251 --> 00:48:02,918
+- Bon.
+- ¿Qué te pasa, Diana?
+
+1001
+00:48:02,918 --> 00:48:03,959
+¿Estás... estás bien?
+
+1002
+00:48:04,834 --> 00:48:05,793
+Estoy bien.
+
+1003
+00:48:06,834 --> 00:48:08,209
+Yo... [se queja]
+
+1004
+00:48:08,209 --> 00:48:10,293
+Diana, Diana, para. Mírame.
+
+1005
+00:48:10,293 --> 00:48:11,334
+Deja de hablar.
+
+1006
+00:48:11,334 --> 00:48:12,251
+Estoy bien.
+
+1007
+00:48:13,418 --> 00:48:14,251
+Carajo.
+
+1008
+00:48:14,793 --> 00:48:16,626
+Okey, tiene una reacción alérgica.
+
+1009
+00:48:16,626 --> 00:48:19,293
+- ¿Qué carajo le diste?
+- Aspirina. Es como Tylenol.
+
+1010
+00:48:19,293 --> 00:48:21,501
+[Bonnie] ¡No! Hablamos de esto.
+
+1011
+00:48:21,501 --> 00:48:22,418
+Es alérgica.
+
+1012
+00:48:22,418 --> 00:48:24,376
+No puede tomar ningún analgésico.
+
+1013
+00:48:24,376 --> 00:48:25,293
+¡Mierda!
+
+1014
+00:48:26,209 --> 00:48:28,209
+[música de tensión se intensifica]
+
+1015
+00:48:29,043 --> 00:48:30,251
+[zumbido agudo]
+
+1016
+00:48:30,251 --> 00:48:33,001
+[reportera 1] <i>La inestabilidad del viento
+obligó a sus navegantes</i>
+
+1017
+00:48:33,001 --> 00:48:35,251
+<i>a cambiar el rumbo en las primeras horas.</i>
+
+1018
+00:48:35,251 --> 00:48:38,459
+[reportero 1] <i>Se dirigía al noreste,
+hacia la costa de Florida,</i>
+
+1019
+00:48:38,459 --> 00:48:39,709
+<i>directo a aguas bravas.</i>
+
+1020
+00:48:40,793 --> 00:48:44,876
+[reportera 2] <i>Las condiciones adversas
+le exigían a Diana el triple de energía.</i>
+
+1021
+00:48:46,834 --> 00:48:48,043
+[respira con dificultad]
+
+1022
+00:48:49,334 --> 00:48:50,168
+[Diana tose]
+
+1023
+00:48:51,168 --> 00:48:53,584
+[reportera 3] <i>Tras luchar
+contra el mal clima</i>
+
+1024
+00:48:53,584 --> 00:48:54,876
+<i>y desviada de su curso,</i>
+
+1025
+00:48:54,876 --> 00:48:56,584
+<i>retiraron a Diana del agua.</i>
+
+1026
+00:48:56,584 --> 00:48:59,668
+<i>Tardaron cinco minutos
+en convencerla de que era imposible.</i>
+
+1027
+00:48:59,668 --> 00:49:01,709
+<i>Ella repetía: "¿Cuánto me falta?</i>
+
+1028
+00:49:01,709 --> 00:49:04,251
+<i>Sé que puedo seguir 30 horas más".</i>
+
+1029
+00:49:04,251 --> 00:49:06,584
+[música se acelera]
+
+1030
+00:49:06,584 --> 00:49:09,251
+[Diana tose]
+
+1031
+00:49:12,584 --> 00:49:15,376
+[reportero 2] <i>Tuvieron que llevar
+a Diana Nyad al barco.</i>
+
+1032
+00:49:15,376 --> 00:49:19,334
+<i>Había soportado 42 horas
+de aguas bravas en el Estrecho de Florida.</i>
+
+1033
+00:49:22,293 --> 00:49:23,543
+[se queja]
+
+1034
+00:49:27,918 --> 00:49:30,751
+[reportero 3] <i>Aunque el agua salada
+le provocó hinchazón</i>
+
+1035
+00:49:30,751 --> 00:49:32,084
+<i>en ojos, labios y lengua,</i>
+
+1036
+00:49:32,626 --> 00:49:35,751
+<i>la nadadora de 28 años
+quería seguir nadando.</i>
+
+1037
+00:49:36,751 --> 00:49:40,418
+No quiero abandonar,
+regresar y nunca volver a nadar.
+
+1038
+00:49:40,418 --> 00:49:43,209
+[reportero 4]
+<i>Estaba a 137 kilómetros de Key West.</i>
+
+1039
+00:49:43,209 --> 00:49:45,334
+<i>El mar derrotó a Diana Nyad.</i>
+
+1040
+00:49:45,334 --> 00:49:46,626
+[tose]
+
+1041
+00:49:46,626 --> 00:49:49,501
+Ha estado nadando por más de 24 horas.
+
+1042
+00:49:49,501 --> 00:49:50,418
+Sí.
+
+1043
+00:49:50,959 --> 00:49:52,834
+Las últimas, apenas respirando.
+
+1044
+00:49:52,834 --> 00:49:54,834
+- Aquí deberíamos estar.
+- [tose]
+
+1045
+00:49:54,834 --> 00:49:57,084
+Si paramos
+por más de tres o cuatro minutos,
+
+1046
+00:49:57,084 --> 00:49:58,626
+las corrientes nos llevarán.
+
+1047
+00:49:58,626 --> 00:50:00,918
+- Nos empuja al este.
+- Directo hacia África.
+
+1048
+00:50:00,918 --> 00:50:03,709
+Tendría que nadar
+al doble de velocidad para compensar.
+
+1049
+00:50:05,293 --> 00:50:06,334
+Tienes que sacarla.
+
+1050
+00:50:06,334 --> 00:50:07,918
+[Diana respira con dificultad]
+
+1051
+00:50:09,293 --> 00:50:10,126
+[jadea]
+
+1052
+00:50:10,626 --> 00:50:12,459
+- ¡Mierda!
+- Ya sé, ya sé.
+
+1053
+00:50:17,584 --> 00:50:19,001
+[pitido de silbato]
+
+1054
+00:50:21,126 --> 00:50:22,793
+[Bonnie] Diana, acércate al bote.
+
+1055
+00:50:23,793 --> 00:50:26,334
+- Quítate los <i>goggles</i>. Mírame.
+- [Diana jadea]
+
+1056
+00:50:26,334 --> 00:50:27,251
+Mírame.
+
+1057
+00:50:31,876 --> 00:50:32,793
+No.
+
+1058
+00:50:32,793 --> 00:50:34,834
+[John] <i>Tenemos que sacarte.</i>
+
+1059
+00:50:34,834 --> 00:50:37,293
+- No puedes ir contra corriente.
+- No lo digas.
+
+1060
+00:50:39,001 --> 00:50:42,334
+[John] <i>Diana, estás nadando,
+pero no vas a ningún lado.</i>
+
+1061
+00:50:42,334 --> 00:50:44,793
+Das dos pasos adelante y 15 para atrás.
+
+1062
+00:50:44,793 --> 00:50:46,209
+Es imposible.
+
+1063
+00:50:46,209 --> 00:50:48,626
+Has hecho todo lo humanamente posible.
+
+1064
+00:50:49,168 --> 00:50:51,168
+Todo. Eres buena.
+
+1065
+00:50:51,168 --> 00:50:53,043
+Es la madre naturaleza.
+
+1066
+00:50:56,501 --> 00:50:59,626
+{\an8}9 DE AGOSTO DE 2011
+85 KILÓMETROS HASTA KEY WEST
+
+1067
+00:50:59,626 --> 00:51:01,043
+{\an8}[sin aliento] En realidad...
+
+1068
+00:51:01,043 --> 00:51:01,959
+[inhala]
+
+1069
+00:51:02,751 --> 00:51:04,293
+...ni siquiera me duele.
+
+1070
+00:51:06,334 --> 00:51:07,376
+No es broma.
+
+1071
+00:51:07,918 --> 00:51:08,751
+Mmm.
+
+1072
+00:51:09,293 --> 00:51:12,793
+[reportero] <i>...empujó a Nyad
+al este de su ruta planeada.</i>
+
+1073
+00:51:12,793 --> 00:51:15,334
+<i>Tomen en cuenta que tiene 61 años.</i>
+
+1074
+00:51:15,334 --> 00:51:18,001
+<i>A los 28 años, intentó este mismo reto</i>
+
+1075
+00:51:18,001 --> 00:51:19,001
+<i>y tuvo que dimitir</i>
+
+1076
+00:51:19,001 --> 00:51:21,959
+<i>por las fuertes corrientes
+y tiempo inclemente.</i>
+
+1077
+00:51:21,959 --> 00:51:25,626
+Qué pena. Alentaba por ella.
+Me pregunto si probará una tercera vez.
+
+1078
+00:51:25,626 --> 00:51:27,709
+{\an8}- ¡Gracias a todos!
+- [multitud vitorea]
+
+1079
+00:51:27,709 --> 00:51:30,001
+{\an8}23 DE SEPTIEMBRE DE 2011
+EDAD: 62, SIETE SEMANAS MÁS TARDE
+
+1080
+00:51:30,001 --> 00:51:37,084
+{\an8}166 KILÓMETROS HASTA KEY WEST
+
+1081
+00:51:49,376 --> 00:51:51,668
+[Bonnie] Hay que tener cuidado
+con los labios.
+
+1082
+00:51:51,668 --> 00:51:54,959
+Tenemos el oxígeno aquí
+y, eh, no toques esa cosa.
+
+1083
+00:51:55,584 --> 00:51:56,459
+Y, eh... ¿Bartlett?
+
+1084
+00:51:57,251 --> 00:51:59,584
+Saluda a Jon Rose, nuestro nuevo médico.
+
+1085
+00:51:59,584 --> 00:52:01,209
+Bienvenido al Titanic.
+
+1086
+00:52:01,209 --> 00:52:03,543
+No lo escuches. Es un derrotista crónico.
+
+1087
+00:52:03,543 --> 00:52:06,126
+- Mucho gusto.
+- Carece de esperanza y serás feliz.
+
+1088
+00:52:06,126 --> 00:52:08,709
+No dejes que la nadadora te escuche. [ríe]
+
+1089
+00:52:09,918 --> 00:52:12,668
+Ey, ey, Diana.
+¿Puedes bajar el paso un poco?
+
+1090
+00:52:13,293 --> 00:52:15,168
+Vas a 58 brazadas por minuto,
+
+1091
+00:52:15,168 --> 00:52:16,501
+así que desacelera.
+
+1092
+00:52:18,584 --> 00:52:19,793
+- Okey.
+- Espera.
+
+1093
+00:52:20,668 --> 00:52:21,501
+¿Las cuentas?
+
+1094
+00:52:22,376 --> 00:52:23,334
+Sí, las escucho.
+
+1095
+00:52:23,959 --> 00:52:26,334
+Oigo los golpes de sus manos
+sobre el agua.
+
+1096
+00:52:27,084 --> 00:52:28,459
+Así de psicótica me volví.
+
+1097
+00:52:30,043 --> 00:52:33,168
+Le di algo de ese gel de café.
+Por eso va como cohete.
+
+1098
+00:52:33,168 --> 00:52:34,751
+Tenla lento tanto como puedas.
+
+1099
+00:52:34,751 --> 00:52:37,959
+Según mis mediciones,
+la corriente estará a todo en unas horas.
+
+1100
+00:52:37,959 --> 00:52:38,876
+Entendido.
+
+1101
+00:52:39,751 --> 00:52:42,251
+[John] Se ve bien, amigos. Se ve bien.
+
+1102
+00:52:43,209 --> 00:52:44,584
+Cuidado con los <i>icebergs</i>.
+
+1103
+00:52:45,209 --> 00:52:46,543
+[Bonnie ríe]
+
+1104
+00:52:46,543 --> 00:52:49,543
+[suena "Save the Last Dance For Me"
+de The Drifters]
+
+1105
+00:52:49,543 --> 00:52:52,918
+{\an8}125 KILÓMETROS HASTA KEY WEST
+
+1106
+00:52:52,918 --> 00:52:56,709
+{\an8}[Diana canta "Save the Last Dance For Me"]
+
+1107
+00:53:09,043 --> 00:53:11,834
+- [estruendo]
+- [grita]
+
+1108
+00:53:11,834 --> 00:53:13,126
+¡Fuego! ¡Fuego! ¡Fuego!
+
+1109
+00:53:13,126 --> 00:53:15,376
+- [Diana grita]
+- Okey. Diana, ¿qué pasó?
+
+1110
+00:53:15,376 --> 00:53:17,293
+- ¡Fuego!
+- [Bonnie] Okey. Okey.
+
+1111
+00:53:17,293 --> 00:53:19,626
+- Diana, estoy aquí.
+- [Diana] ¡Fuego! ¡Fuego!
+
+1112
+00:53:19,626 --> 00:53:21,084
+[Bonnie] Diana, estoy aquí.
+
+1113
+00:53:21,626 --> 00:53:24,084
+- Tranquila. Van por ti.
+- [Diana] ¡Fuego! ¡Fuego!
+
+1114
+00:53:24,084 --> 00:53:26,918
+- [Bonnie] ¿Qué pasó? ¿Fue una medusa?
+- [Jon] Espera.
+
+1115
+00:53:26,918 --> 00:53:28,584
+[música de tensión]
+
+1116
+00:53:30,376 --> 00:53:31,376
+¡No es una aguamala!
+
+1117
+00:53:31,376 --> 00:53:34,376
+Luke, llama a la experta de Miami
+y... y descríbesela.
+
+1118
+00:53:34,376 --> 00:53:36,751
+[Diana] ¡Fuego! ¡Fuego! ¡Fuego! ¡Fuego!
+
+1119
+00:53:36,751 --> 00:53:39,668
+[Bonnie] Jon Rose,
+acércate a ella, súbela al bote.
+
+1120
+00:53:39,668 --> 00:53:42,293
+- ¡No me toques!
+- [Bonnie] No, nadie va a tocarte.
+
+1121
+00:53:42,293 --> 00:53:44,709
+No vamos a tocarte, solo acércate al bote.
+
+1122
+00:53:44,709 --> 00:53:47,501
+- Te necesito más cerca del bote.
+- [John] ¡Sáquenlos!
+
+1123
+00:53:47,501 --> 00:53:49,459
+¡Diana, ahora! Acércate al bote.
+
+1124
+00:53:53,293 --> 00:53:55,418
+[Jon] ¡Dame la jeringa! ¡Dame la jeringa!
+
+1125
+00:54:00,293 --> 00:54:02,459
+Eso es. Oxígeno, por favor.
+
+1126
+00:54:02,459 --> 00:54:05,043
+[Luke] La Universidad de Miami
+dice que es cubomedusa.
+
+1127
+00:54:05,043 --> 00:54:06,626
+No debería haber aquí. Te pueden matar.
+
+1128
+00:54:06,626 --> 00:54:08,668
+¡Carajo! Hay que sacarlo del agua.
+
+1129
+00:54:08,668 --> 00:54:12,293
+- Tranquila, voy a sacarte del agua.
+- [John] ¿Jon Rose? ¡Sáquenlo!
+
+1130
+00:54:12,293 --> 00:54:14,209
+[Diana] No, no, adentro. No.
+
+1131
+00:54:14,209 --> 00:54:16,126
+Diana, es por tu vida.
+
+1132
+00:54:16,126 --> 00:54:17,126
+Mi vida.
+
+1133
+00:54:17,793 --> 00:54:19,584
+No. No.
+
+1134
+00:54:20,459 --> 00:54:21,293
+¡No!
+
+1135
+00:54:22,709 --> 00:54:24,793
+No toquen. Sigo.
+
+1136
+00:54:25,543 --> 00:54:26,668
+Es mi vida.
+
+1137
+00:54:26,668 --> 00:54:29,251
+Eso es. Inhala por la nariz
+y exhala por la boca.
+
+1138
+00:54:31,251 --> 00:54:33,668
+[Bonnie] Respira con esto. Eso es.
+
+1139
+00:54:33,668 --> 00:54:34,959
+Ahí tienes. Toma esto.
+
+1140
+00:54:34,959 --> 00:54:36,793
+Te lo paso. Tómalo.
+
+1141
+00:54:36,793 --> 00:54:37,834
+Eso es.
+
+1142
+00:54:37,834 --> 00:54:39,126
+Mantenlo en tu nariz.
+
+1143
+00:54:39,126 --> 00:54:41,293
+Otro respiro. Otro respiro.
+
+1144
+00:54:42,293 --> 00:54:43,126
+Bien.
+
+1145
+00:54:46,334 --> 00:54:47,168
+No.
+
+1146
+00:54:49,168 --> 00:54:50,001
+No.
+
+1147
+00:54:50,668 --> 00:54:51,751
+No quiero rendirme.
+
+1148
+00:54:54,626 --> 00:54:55,459
+No.
+
+1149
+00:54:56,043 --> 00:54:57,293
+- No.
+- No, ya sé.
+
+1150
+00:55:15,459 --> 00:55:16,876
+[exhala]
+
+1151
+00:55:16,876 --> 00:55:19,251
+Pues... quiere continuar.
+
+1152
+00:55:20,793 --> 00:55:21,709
+Está estable.
+
+1153
+00:55:24,251 --> 00:55:26,459
+Así que ¿cuál es nuestra posición?
+
+1154
+00:55:27,376 --> 00:55:28,543
+¿Es en serio?
+
+1155
+00:55:29,584 --> 00:55:32,709
+Puede morir en cualquier momento,
+¿y quieres saber la posición?
+
+1156
+00:55:32,709 --> 00:55:34,251
+¿Qué carajos hacemos aquí?
+
+1157
+00:55:34,251 --> 00:55:37,418
+Es su sueño, ¿verdad?
+Pues esa es su decisión.
+
+1158
+00:55:37,418 --> 00:55:40,959
+Y... ya avanzamos una buena parte.
+
+1159
+00:55:40,959 --> 00:55:41,918
+[John resopla]
+
+1160
+00:55:43,834 --> 00:55:44,668
+Sí.
+
+1161
+00:55:46,834 --> 00:55:47,709
+Okey.
+
+1162
+00:55:48,584 --> 00:55:49,834
+Si puedes vivir con ello.
+
+1163
+00:55:53,251 --> 00:55:55,834
+Solo dime nuestra posición, por favor.
+
+1164
+00:55:57,084 --> 00:55:59,126
+{\an8}95 KILÓMETROS HASTA KEY WEST
+
+1165
+00:55:59,126 --> 00:56:00,834
+{\an8}[Bonnie] Los de la universidad
+
+1166
+00:56:00,834 --> 00:56:04,543
+creen que la cubomedusa salió del arrecife
+cuando zarpamos de Cuba.
+
+1167
+00:56:04,543 --> 00:56:05,709
+Calentamiento global.
+
+1168
+00:56:05,709 --> 00:56:09,043
+Al parecer, se reproducen como locas,
+pero ya las dejamos atrás.
+
+1169
+00:56:09,668 --> 00:56:12,709
+Y, eh, Bartlett dijo
+que no nos desviamos mucho,
+
+1170
+00:56:12,709 --> 00:56:14,584
+porque lo has hecho muy bien.
+
+1171
+00:56:14,584 --> 00:56:16,001
+Buen tiempo y todo.
+
+1172
+00:56:16,543 --> 00:56:18,459
+Pero tienes que estar calmada, ¿okey?
+
+1173
+00:56:18,459 --> 00:56:19,376
+Despacio.
+
+1174
+00:56:19,376 --> 00:56:21,459
+[Diana jadea]
+
+1175
+00:56:26,376 --> 00:56:27,501
+Eso es, adelante.
+
+1176
+00:56:30,376 --> 00:56:31,709
+Escuchen, todos, seguimos.
+
+1177
+00:56:32,584 --> 00:56:36,001
+Eso es. ¡Sí, sí, sí, sí!
+
+1178
+00:56:51,501 --> 00:56:52,834
+Es para las medusas.
+
+1179
+00:56:53,501 --> 00:56:54,418
+Por si acaso.
+
+1180
+00:56:57,543 --> 00:56:58,376
+Fantástico.
+
+1181
+00:57:00,751 --> 00:57:01,751
+¿Cómo vamos?
+
+1182
+00:57:01,751 --> 00:57:05,459
+Intento hacer una corrección
+por una pequeña desviación al noreste,
+
+1183
+00:57:05,459 --> 00:57:07,584
+pero me gusta nuestra posición.
+
+1184
+00:57:08,418 --> 00:57:10,334
+Guau. Nunca te gusta nuestra posición.
+
+1185
+00:57:10,334 --> 00:57:11,251
+Ya sé.
+
+1186
+00:57:12,043 --> 00:57:14,834
+A decir verdad, Bon, va a muy buen tiempo.
+
+1187
+00:57:15,584 --> 00:57:18,751
+Estamos a 72.7 kilómetros de la Marina.
+
+1188
+00:57:18,751 --> 00:57:22,001
+Si sigue a este ritmo,
+veremos Florida antes del amanecer.
+
+1189
+00:57:32,709 --> 00:57:33,543
+Mírate.
+
+1190
+00:57:34,501 --> 00:57:35,751
+Lista para seguir.
+
+1191
+00:57:36,584 --> 00:57:37,959
+Se ve bien. Hermosa.
+
+1192
+00:57:38,543 --> 00:57:39,376
+Adelante.
+
+1193
+00:57:41,043 --> 00:57:41,876
+Sí.
+
+1194
+00:57:48,668 --> 00:57:50,668
+[música dramática]
+
+1195
+00:58:02,001 --> 00:58:04,293
+[entrenador] <i>Y por eso
+nadamos una vuelta más.</i>
+
+1196
+00:58:04,293 --> 00:58:05,959
+<i>Por eso corremos una milla más.</i>
+
+1197
+00:58:05,959 --> 00:58:08,751
+<i>Por eso las empujamos
+hasta sus límites cada día más.</i>
+
+1198
+00:58:08,751 --> 00:58:10,459
+Denme todo lo que puedan dar
+
+1199
+00:58:11,334 --> 00:58:12,293
+Todo su corazón.
+
+1200
+00:58:13,084 --> 00:58:15,209
+<i>Toda su fuerza, su concentración.</i>
+
+1201
+00:58:16,626 --> 00:58:18,834
+Y les garantizo que van a salir campeonas.
+
+1202
+00:58:19,626 --> 00:58:21,251
+- ¿Me escucharon?
+- [niñas] Sí.
+
+1203
+00:58:21,251 --> 00:58:22,459
+Panteras a las tres.
+
+1204
+00:58:22,459 --> 00:58:24,126
+Uno, dos, tres.
+
+1205
+00:58:24,126 --> 00:58:25,126
+[todos] ¡Panteras!
+
+1206
+00:58:25,126 --> 00:58:28,959
+- [público vitorea]
+- [entrenador] ¡Más fuerte, Nyad! ¡Eso es!
+
+1207
+00:58:28,959 --> 00:58:30,084
+¡Eso es! ¡Bien!
+
+1208
+00:58:30,751 --> 00:58:32,001
+Eso es, eso es.
+
+1209
+00:58:32,001 --> 00:58:32,959
+¡Eso es, Nyad!
+
+1210
+00:58:32,959 --> 00:58:35,126
+- ¡Sí, sí, sí!
+- [público vitorea]
+
+1211
+00:58:35,126 --> 00:58:36,709
+- ¡Sí!
+- [entrenador] ¡Ganaron!
+
+1212
+00:58:37,709 --> 00:58:39,251
+[niñas gritan y ríen]
+
+1213
+00:58:39,918 --> 00:58:41,626
+- [Diana] <i>¡No, para!</i>
+- [niñas ríen]
+
+1214
+00:58:42,334 --> 00:58:43,584
+¡No! ¡Espera!
+
+1215
+00:58:44,126 --> 00:58:45,459
+[música suave]
+
+1216
+00:58:55,709 --> 00:58:56,876
+[inhala]
+
+1217
+00:58:56,876 --> 00:58:58,668
+[jadea]
+
+1218
+00:59:01,626 --> 00:59:03,626
+[música etérea]
+
+1219
+00:59:31,001 --> 00:59:32,959
+[grita]
+
+1220
+00:59:32,959 --> 00:59:35,209
+¡Mi cara! ¡Mi cara!
+
+1221
+00:59:35,709 --> 00:59:36,751
+¡Tentáculos!
+
+1222
+00:59:36,751 --> 00:59:38,751
+[Bonnie] Okey, ya. ¡Sáquenla del agua!
+
+1223
+00:59:38,751 --> 00:59:41,043
+¡Diana! No me importa lo que diga.
+
+1224
+00:59:41,043 --> 00:59:41,959
+Sáquenla.
+
+1225
+00:59:41,959 --> 00:59:43,543
+Diana, quédate aquí.
+
+1226
+00:59:43,543 --> 00:59:45,043
+Ya. Ve, ve, ve, ve.
+
+1227
+00:59:45,043 --> 00:59:47,126
+[música de tensión]
+
+1228
+00:59:58,126 --> 00:59:59,834
+[música de suspenso]
+
+1229
+00:59:59,834 --> 01:00:02,293
+[conversaciones indistintas]
+
+1230
+01:00:02,293 --> 01:00:03,334
+Ey, Nyad.
+
+1231
+01:00:05,084 --> 01:00:05,959
+Nyad.
+
+1232
+01:00:07,793 --> 01:00:08,876
+[ríe]
+
+1233
+01:00:08,876 --> 01:00:11,793
+Si te quieres dormir,
+hay un cuarto al final del pasillo.
+
+1234
+01:00:23,543 --> 01:00:25,209
+[música de tensión]
+
+1235
+01:00:29,834 --> 01:00:32,209
+[Bonnie] ¿Qué está pasando?
+¿Qué está pasando?
+
+1236
+01:00:32,209 --> 01:00:33,126
+[Jon] Nada.
+
+1237
+01:00:34,001 --> 01:00:36,168
+[Bonnie] No. No, no, no, no, no.
+
+1238
+01:00:36,168 --> 01:00:37,751
+Por favor. Por favor, Diana.
+
+1239
+01:00:37,751 --> 01:00:39,959
+No puedes hacerlo.
+No puedes hacerlo ahora.
+
+1240
+01:00:39,959 --> 01:00:41,084
+<i>Tienes que respirar.</i>
+
+1241
+01:00:41,084 --> 01:00:42,959
+Anda, querida, respira.
+
+1242
+01:00:42,959 --> 01:00:44,501
+Respira, respira fuerte.
+
+1243
+01:00:45,251 --> 01:00:47,959
+Sé que aún puedes hacerlo.
+Por favor, respira otra vez.
+
+1244
+01:00:47,959 --> 01:00:49,126
+Dame otro respiro.
+
+1245
+01:00:49,126 --> 01:00:50,876
+[respira agitada]
+
+1246
+01:00:50,876 --> 01:00:52,834
+Por favor. No juegues conmigo, Diana.
+
+1247
+01:00:52,834 --> 01:00:54,584
+- ¡Respira ahora!
+- [Diana inhala]
+
+1248
+01:00:55,584 --> 01:00:57,584
+[jadea]
+
+1249
+01:00:59,376 --> 01:01:01,918
+¿Qué pasó? ¿Qué pasó?
+¿Qué pasó? ¿Qué pasó?
+
+1250
+01:01:02,751 --> 01:01:04,793
+Exhala, exhala, exhala, exhala.
+
+1251
+01:01:04,793 --> 01:01:07,626
+Por favor, exhala.
+¡Exhala, exhala, exhala, exhala!
+
+1252
+01:01:07,626 --> 01:01:08,543
+Diana, exhala.
+
+1253
+01:01:08,543 --> 01:01:10,251
+- Ahora, exhala.
+- [Diana exhala]
+
+1254
+01:01:11,168 --> 01:01:13,043
+Ay, Dios.
+
+1255
+01:01:16,126 --> 01:01:17,001
+[solloza] Ay, no.
+
+1256
+01:01:17,001 --> 01:01:19,918
+[John] Bonnie.
+Bonnie, Bonnie, Bonnie. Siente esto.
+
+1257
+01:01:21,959 --> 01:01:22,793
+Sí.
+
+1258
+01:01:23,501 --> 01:01:25,168
+Cree que sigue nadando. Mira.
+
+1259
+01:01:31,793 --> 01:01:34,459
+- [Bonnie] ¿Todavía estás nadando?
+- [John] Sí. Sí.
+
+1260
+01:01:34,459 --> 01:01:36,418
+[Bonnie] Bien. Está bien.
+
+1261
+01:01:36,418 --> 01:01:37,584
+Tú sigue nadando.
+
+1262
+01:01:38,959 --> 01:01:40,501
+Y sigue respirando.
+
+1263
+01:01:45,834 --> 01:01:46,793
+[se sorbe la nariz]
+
+1264
+01:01:49,043 --> 01:01:49,918
+[exhala]
+
+1265
+01:02:05,709 --> 01:02:06,876
+Debí haberla sacado.
+
+1266
+01:02:07,918 --> 01:02:10,168
+Debí haberle dicho:
+"Hasta ahí. No, se acabó".
+
+1267
+01:02:16,001 --> 01:02:17,709
+¿Por qué no puedo decir
+
+1268
+01:02:17,709 --> 01:02:23,001
+que me hace enojar
+que me derroten las criaturas marinas,
+
+1269
+01:02:23,001 --> 01:02:25,376
+que una estúpida medusa me quite el poder?
+
+1270
+01:02:25,376 --> 01:02:26,626
+No es algo digno de mí.
+
+1271
+01:02:27,709 --> 01:02:28,543
+[gruñe]
+
+1272
+01:02:29,168 --> 01:02:31,043
+Cuando dices que no es digno de ti,
+
+1273
+01:02:31,043 --> 01:02:33,709
+eso es degradante para nosotros.
+
+1274
+01:02:33,709 --> 01:02:37,293
+Para todos. Para mí y Bartlett,
+Jon Rose, Luke y Dee.
+
+1275
+01:02:38,043 --> 01:02:39,501
+Trabajamos duro, Diana.
+
+1276
+01:02:39,501 --> 01:02:42,001
+- Sé que así fue.
+- Sí, y nos cagamos de miedo.
+
+1277
+01:02:43,709 --> 01:02:45,376
+¿Tienes idea de cómo fue para mí?
+
+1278
+01:02:45,376 --> 01:02:47,668
+- Yo sé.
+- ¿Eh? No, no, no lo sabes.
+
+1279
+01:02:48,251 --> 01:02:50,043
+Te vi morir, Diana.
+
+1280
+01:02:51,209 --> 01:02:54,001
+Por 15 segundos, pensé que estabas muerta.
+
+1281
+01:02:55,834 --> 01:02:59,334
+Todo porque dije que estaba bien otra vez.
+
+1282
+01:02:59,334 --> 01:03:01,126
+Te dije: "Ah, sí. Okey, claro".
+
+1283
+01:03:02,084 --> 01:03:03,543
+No puedo seguir haciendo eso.
+
+1284
+01:03:03,543 --> 01:03:06,043
+Sí, pero no pasó. Aquí estoy. No morí.
+
+1285
+01:03:06,043 --> 01:03:08,543
+Em, estoy aquí, estoy bien
+
+1286
+01:03:08,543 --> 01:03:10,043
+y no me rendiré.
+
+1287
+01:03:10,043 --> 01:03:11,293
+¿Okey?
+
+1288
+01:03:11,293 --> 01:03:13,293
+Aprendemos mucho en cada intento.
+
+1289
+01:03:13,293 --> 01:03:14,959
+Aprendí eso de mí también.
+
+1290
+01:03:14,959 --> 01:03:17,084
+Sí, okey. ¿Qué? ¿Qué aprendiste?
+
+1291
+01:03:17,084 --> 01:03:20,168
+No quería ver el pasado
+y sentir que pude haber luchado más.
+
+1292
+01:03:20,168 --> 01:03:21,626
+Odio ese sentimiento.
+
+1293
+01:03:21,626 --> 01:03:23,126
+Okey, ya sabía. ¿Qué más?
+
+1294
+01:03:23,126 --> 01:03:24,793
+Mira, una vez más.
+
+1295
+01:03:24,793 --> 01:03:27,209
+Una vez más y ya.
+
+1296
+01:03:27,209 --> 01:03:29,293
+Si pasamos el próximo año entrenando,
+
+1297
+01:03:29,876 --> 01:03:34,043
+y sobre todo
+arreglando el problema de las medusas.
+
+1298
+01:03:34,043 --> 01:03:38,709
+De hecho, tengo el contacto
+de una experta en cubomedusas.
+
+1299
+01:03:39,418 --> 01:03:42,626
+¿De dónde sacaste el contacto
+de una experta en cubomedusas?
+
+1300
+01:03:43,293 --> 01:03:45,418
+Lo busqué en internet, Bonnie.
+
+1301
+01:03:46,626 --> 01:03:49,668
+Escucha, es una doctora.
+
+1302
+01:03:49,668 --> 01:03:52,126
+Parece una mujer muy interesante.
+
+1303
+01:03:53,126 --> 01:03:56,543
+¿Tienes una idea
+de lo cansado que es ser tu amiga?
+
+1304
+01:03:58,376 --> 01:04:00,959
+[mujer] En el futuro,
+que no le inyecten epinefrina.
+
+1305
+01:04:00,959 --> 01:04:04,709
+El piquete causa que la epinefrina suba.
+Le pudo dar una sobredosis.
+
+1306
+01:04:05,918 --> 01:04:10,168
+Ah, oye, le dije que solo iría
+si la puedo proteger de las medusas.
+
+1307
+01:04:10,168 --> 01:04:12,459
+¿Tú qué opinas? ¿Es una locura?
+
+1308
+01:04:12,459 --> 01:04:13,959
+No le pueden picar otra vez.
+
+1309
+01:04:13,959 --> 01:04:17,001
+No se genera inmunidad al veneno.
+Funciona al revés.
+
+1310
+01:04:17,001 --> 01:04:20,126
+- [suspira]
+- Entonces, algo así no se puede repetir.
+
+1311
+01:04:20,126 --> 01:04:23,459
+El traje está diseñado justo para eso.
+
+1312
+01:04:23,459 --> 01:04:26,293
+Ayudará. Pero sí, diría que es una locura.
+
+1313
+01:04:26,293 --> 01:04:28,334
+Aunque también está <i>supercool</i>.
+
+1314
+01:04:32,043 --> 01:04:32,959
+Hola.
+
+1315
+01:04:32,959 --> 01:04:35,626
+Bonnie, esto es un martirio.
+
+1316
+01:04:36,251 --> 01:04:38,543
+Pues, escucha, tienes que ponértelo.
+
+1317
+01:04:38,543 --> 01:04:40,376
+Es una regla. No tienes opción.
+
+1318
+01:04:40,959 --> 01:04:42,293
+Pues no puedo hacerlo.
+
+1319
+01:04:43,584 --> 01:04:44,459
+No lo hagas.
+
+1320
+01:04:45,251 --> 01:04:46,459
+Pero, entonces, morirás.
+
+1321
+01:04:48,043 --> 01:04:51,793
+[Diana] Escucha, ¿puedes acompañarnos?
+
+1322
+01:04:51,793 --> 01:04:53,751
+Te ofrecemos una gran aventura.
+
+1323
+01:04:54,418 --> 01:04:57,959
+{\an8}[reportero] <i>Baumgartner dice
+que no tiene miedo a morir en el salto...</i>
+
+1324
+01:04:57,959 --> 01:04:58,876
+[Bonnie] ¡Yuju!
+
+1325
+01:04:58,876 --> 01:05:00,626
+<i>...para llegar hasta este punto.</i>
+
+1326
+01:05:00,626 --> 01:05:02,293
+¿Qué está pasando? ¿Qué sucede?
+
+1327
+01:05:02,293 --> 01:05:03,834
+- ¿Y el control?
+- ¿Qué pasa?
+
+1328
+01:05:05,418 --> 01:05:06,251
+Mira esto.
+
+1329
+01:05:06,251 --> 01:05:10,043
+[mujer] <i>Es el nado más difícil.
+El sumun de la natación en aguas abiertas.</i>
+
+1330
+01:05:10,043 --> 01:05:12,376
+Ay. ¿Qué, esto es una broma?
+
+1331
+01:05:12,376 --> 01:05:14,126
+Es... es como el bebé.
+
+1332
+01:05:14,126 --> 01:05:17,376
+{\an8}<i>Es como conseguir un récord mundial
+y el oro en las Olimpiadas.</i>
+
+1333
+01:05:17,376 --> 01:05:19,209
+<i>No, pero tal vez sea más difícil,</i>
+
+1334
+01:05:19,209 --> 01:05:21,501
+<i>porque nadie ha podido hacerlo.</i>
+
+1335
+01:05:21,501 --> 01:05:23,876
+Sí, sabemos que nadie ha podido hacerlo.
+
+1336
+01:05:23,876 --> 01:05:25,209
+¡Ese es el maldito punto!
+
+1337
+01:05:25,209 --> 01:05:27,584
+¡Ey! ¿Puedes dejar de hablar?
+Quiero escuchar.
+
+1338
+01:05:27,584 --> 01:05:30,959
+[mujer] <i>No usaré traje de neopreno
+ni jaula de tiburones</i>...
+
+1339
+01:05:30,959 --> 01:05:32,626
+No puedo creerlo.
+
+1340
+01:05:32,626 --> 01:05:34,918
+Esta... esta es mi ventana.
+
+1341
+01:05:34,918 --> 01:05:36,793
+Está robando mi triunfo.
+
+1342
+01:05:37,543 --> 01:05:39,668
+<i>...un equipo con los mejores expertos...</i>
+
+1343
+01:05:39,668 --> 01:05:42,209
+Eso... No, eso es lo que voy a hacer.
+
+1344
+01:05:42,209 --> 01:05:45,043
+¡Carajo! ¿Dónde hay una cubomedusa
+cuando la necesitas?
+
+1345
+01:05:45,043 --> 01:05:46,918
+Voy a hacer como que no escuché.
+
+1346
+01:05:50,251 --> 01:05:51,168
+Se detuvo.
+
+1347
+01:05:52,126 --> 01:05:53,793
+Okey, su rastreador se detuvo.
+
+1348
+01:05:54,584 --> 01:05:55,418
+¿Dónde?
+
+1349
+01:05:56,043 --> 01:05:56,876
+¿Dónde paró?
+
+1350
+01:05:58,251 --> 01:05:59,834
+- Justo ahí.
+- ¿Qué?
+
+1351
+01:05:59,834 --> 01:06:02,209
+¿Fue una falla de algo o la...?
+
+1352
+01:06:02,209 --> 01:06:04,001
+- Espera.
+- ¿La tuvieron que sacar?
+
+1353
+01:06:04,001 --> 01:06:06,001
+Mira, mira, mira. A ver, espera.
+
+1354
+01:06:06,668 --> 01:06:07,501
+El control.
+
+1355
+01:06:08,501 --> 01:06:10,209
+[reportero] <i>Tras 11 horas de nado,</i>
+
+1356
+01:06:10,209 --> 01:06:12,793
+<i>las dolorosas picaduras
+de un enjambre de criaturas</i>
+
+1357
+01:06:12,793 --> 01:06:15,293
+<i>obligaron a McCardel a abandonar.</i>
+
+1358
+01:06:15,293 --> 01:06:16,376
+[ambas] ¡Sí!
+
+1359
+01:06:16,376 --> 01:06:18,209
+- ¡Sí, sí, sí, sí!
+- [ríe]
+
+1360
+01:06:18,209 --> 01:06:19,334
+[Bonnie vitorea]
+
+1361
+01:06:19,334 --> 01:06:21,168
+[McCardel] <i>Me saqué uno de la boca.</i>
+
+1362
+01:06:21,168 --> 01:06:23,876
+<i>Empecé a jalar y salió un tentáculo.</i>
+
+1363
+01:06:23,876 --> 01:06:25,751
+<i>Terminé rogándoles.</i>
+
+1364
+01:06:25,751 --> 01:06:28,543
+<i>Les decía: "Tengo que salir.
+Esto no va a parar.</i>
+
+1365
+01:06:28,543 --> 01:06:30,584
+<i>Solo va a empeorar. Y recién comienza".</i>
+
+1366
+01:06:30,584 --> 01:06:32,918
+- [reportero] <i>Cielos.</i>
+- [McCardel] <i>No volveré.</i>
+
+1367
+01:06:32,918 --> 01:06:35,709
+- [reportero] <i>¿No intentarás de nuevo?</i>
+- [McCardel] <i>No.</i>
+
+1368
+01:06:35,709 --> 01:06:37,668
+Bonnie, Bonnie. Despierta.
+
+1369
+01:06:37,668 --> 01:06:38,793
+Bonnie.
+
+1370
+01:06:38,793 --> 01:06:41,084
+Tenemos que ir a Cuba, ahora.
+
+1371
+01:06:41,793 --> 01:06:44,043
+Todos mis modelos dicen que no, ¿okey?
+
+1372
+01:06:44,043 --> 01:06:47,168
+Tenemos el giro del Atlántico
+detenido sobre el paralelo 17
+
+1373
+01:06:47,168 --> 01:06:50,001
+y tenemos tormentas
+que vienen desde la costa de África,
+
+1374
+01:06:50,001 --> 01:06:51,293
+sin mencionar del Golfo.
+
+1375
+01:06:51,293 --> 01:06:55,376
+No tenemos nada más que picos
+si chocamos contra el viento del este.
+
+1376
+01:06:55,376 --> 01:06:56,876
+Esta no es nuestra ventana.
+
+1377
+01:06:57,418 --> 01:07:00,793
+- Revisa los modelos otra vez.
+- Mis modelos están bien, lo siento.
+
+1378
+01:07:00,793 --> 01:07:03,001
+¿Te gusta la idea de una corriente enorme?
+
+1379
+01:07:03,001 --> 01:07:05,334
+¿Paredes de agua golpeando tu cabeza?
+
+1380
+01:07:05,334 --> 01:07:07,876
+¿Vomitar mientras te arrastran
+hacia las Bahamas?
+
+1381
+01:07:07,876 --> 01:07:09,293
+¿Eso te suena divertido?
+
+1382
+01:07:09,293 --> 01:07:12,334
+Si espero más tiempo,
+la temporada terminará.
+
+1383
+01:07:12,334 --> 01:07:15,334
+- Hará mucho frío.
+- Estoy consciente. [suspira]
+
+1384
+01:07:15,334 --> 01:07:17,959
+Mira, no es el único lugar para nadar.
+
+1385
+01:07:17,959 --> 01:07:21,918
+O sea, podrías ir a otro lugar.
+Guam está a gusto en esta temporada.
+
+1386
+01:07:21,918 --> 01:07:23,543
+- ¿Guam?
+- [John] ¿Qué tiene?
+
+1387
+01:07:23,543 --> 01:07:24,668
+¡Que no es Cuba!
+
+1388
+01:07:24,668 --> 01:07:27,168
+[John] ¿Cuándo vas a aceptar
+que soy el experto?
+
+1389
+01:07:27,168 --> 01:07:28,876
+Ah, es cierto, tú lo sabes todo.
+
+1390
+01:07:28,876 --> 01:07:32,459
+No, tú eres el experto. Bien.
+Pero yo soy la jefa de la operación.
+
+1391
+01:07:32,459 --> 01:07:33,959
+- ¿La jefa?
+- [Diana] Iremos.
+
+1392
+01:07:33,959 --> 01:07:37,459
+- No esperaré un año más entrenando.
+- Es muy peligroso, Diana.
+
+1393
+01:07:37,459 --> 01:07:40,209
+Ya contacté a mi climatólogo en Atlanta
+
+1394
+01:07:40,209 --> 01:07:41,834
+y Greg dice que podemos ir.
+
+1395
+01:07:41,834 --> 01:07:43,834
+Ah, bueno. Entonces, si Greg lo dice...
+
+1396
+01:07:43,834 --> 01:07:45,084
+¿Quién carajos es Greg?
+
+1397
+01:07:45,084 --> 01:07:47,418
+Nunca escuché de él.
+Y esta no es su decisión.
+
+1398
+01:07:47,418 --> 01:07:49,751
+Tienes razón, no es suya. Es mía.
+
+1399
+01:07:49,751 --> 01:07:51,418
+Estoy a cargo. Ese es el trato.
+
+1400
+01:07:51,418 --> 01:07:52,959
+¿Y adivina? Iremos.
+
+1401
+01:08:01,668 --> 01:08:02,543
+[suspira]
+
+1402
+01:08:02,543 --> 01:08:03,834
+Por favor, ¿qué te pasa?
+
+1403
+01:08:03,834 --> 01:08:04,751
+¿Eh?
+
+1404
+01:08:06,209 --> 01:08:07,668
+- [Diana suspira]
+- [portazo]
+
+1405
+01:08:12,834 --> 01:08:14,584
+- [Bonnie] ¿Bartlett?
+- [John] ¿Mmm?
+
+1406
+01:08:15,251 --> 01:08:16,501
+[Bonnie] ¿Podemos hablar?
+
+1407
+01:08:17,501 --> 01:08:19,918
+Oye, me disculpo por eso. Eso fue...
+
+1408
+01:08:24,168 --> 01:08:26,084
+¿Cree que no tengo ganas de hacerlo?
+
+1409
+01:08:27,418 --> 01:08:29,668
+Elke y yo cancelamos siete viajes este mes
+
+1410
+01:08:29,668 --> 01:08:30,834
+para poder hacerlo.
+
+1411
+01:08:32,251 --> 01:08:34,459
+Solo quiero cuidar
+la vida de la gente aquí.
+
+1412
+01:08:34,459 --> 01:08:35,668
+Ya sé. Ya sé.
+
+1413
+01:08:37,043 --> 01:08:38,418
+Solo mírate, Bonnie.
+
+1414
+01:08:38,418 --> 01:08:42,084
+Te... te he visto parada en el bote
+por 40 horas seguidas,
+
+1415
+01:08:42,084 --> 01:08:45,293
+orinando por la borda
+para no tener que dejarla ni un segundo.
+
+1416
+01:08:45,293 --> 01:08:46,959
+¿Acaso ve eso?
+
+1417
+01:08:46,959 --> 01:08:48,834
+¿Alguna vez te ha dado las gracias?
+
+1418
+01:08:48,834 --> 01:08:51,459
+- Lo hace a su manera.
+- Te manipula como quiere.
+
+1419
+01:08:51,459 --> 01:08:53,126
+Ey, no lo sabes.
+
+1420
+01:08:53,126 --> 01:08:55,584
+- O sea, ella y yo nos...
+- Ay, por favor, Bonnie.
+
+1421
+01:08:55,584 --> 01:08:58,043
+La pones a ella
+sobre tus propias decisiones
+
+1422
+01:08:58,043 --> 01:08:59,334
+y lo haces siempre.
+
+1423
+01:09:01,501 --> 01:09:03,376
+[suspira] Mira, es un riesgo.
+
+1424
+01:09:04,251 --> 01:09:05,168
+Mierda, sí.
+
+1425
+01:09:06,209 --> 01:09:08,001
+O sea, ya llegamos hasta aquí.
+
+1426
+01:09:08,001 --> 01:09:09,334
+Hay que dejarla intentar.
+
+1427
+01:09:10,876 --> 01:09:13,751
+[chasquea la lengua] Ay, por favor.
+¿Qué... qué vas a hacer?
+
+1428
+01:09:14,709 --> 01:09:16,084
+¿Vas a ir a casa y vas a...
+
+1429
+01:09:16,751 --> 01:09:19,626
+a pasear a un montón de turistas
+toda la temporada?
+
+1430
+01:09:22,126 --> 01:09:22,959
+No me digas.
+
+1431
+01:09:23,793 --> 01:09:25,001
+Estamos cerca.
+
+1432
+01:09:29,043 --> 01:09:31,876
+[suena "Piece of My Heart"
+de Janis Joplin]
+
+1433
+01:09:31,876 --> 01:09:33,418
+[truenos]
+
+1434
+01:09:34,459 --> 01:09:37,376
+{\an8}20 DE AGOSTO DE 2012, EDAD: 62
+93 KILÓMETROS HASTA KEY WEST
+
+1435
+01:09:37,376 --> 01:09:41,668
+{\an8}[Diana] <i>3842, 3843, 3844, 3845.</i>
+
+1436
+01:09:45,376 --> 01:09:47,001
+[arcadas]
+
+1437
+01:09:51,126 --> 01:09:53,834
+[John] ¡Le dije
+que esta no era nuestra ventana!
+
+1438
+01:09:58,918 --> 01:10:03,418
+[Diana] <i>3846, 3847.</i>
+
+1439
+01:10:16,793 --> 01:10:17,959
+¡Son cada dos segundos!
+
+1440
+01:10:19,001 --> 01:10:22,793
+Ah. Hay que sacar los kayaks
+y subirlos a bordo.
+
+1441
+01:10:22,793 --> 01:10:25,751
+- ¡Dee! ¡Sigue al norte!
+- [Bonnie] ¡Mierda!
+
+1442
+01:10:25,751 --> 01:10:27,918
+Llevamos 49 horas. [gruñe]
+
+1443
+01:10:27,918 --> 01:10:29,459
+[John] ¡Se nos mete el agua!
+
+1444
+01:10:30,751 --> 01:10:32,959
+¡Bonnie! ¡Sácala ya!
+
+1445
+01:10:32,959 --> 01:10:34,584
+[pitido de silbato]
+
+1446
+01:10:35,251 --> 01:10:36,709
+¡Diana!
+
+1447
+01:10:38,959 --> 01:10:40,043
+[truenos]
+
+1448
+01:10:41,668 --> 01:10:42,793
+[Bonnie] ¡Diana!
+
+1449
+01:10:45,959 --> 01:10:47,793
+- ¡Diana!
+- [Nico] ¡Diana!
+
+1450
+01:10:47,793 --> 01:10:49,126
+¡Nico! ¿La ves?
+
+1451
+01:10:49,126 --> 01:10:50,501
+¡No!
+
+1452
+01:10:50,501 --> 01:10:51,918
+[Bonnie y John] ¡Diana!
+
+1453
+01:10:51,918 --> 01:10:54,418
+¡Diana! ¡Diana!
+
+1454
+01:10:55,126 --> 01:10:56,001
+[Diana se queja]
+
+1455
+01:10:58,793 --> 01:10:59,959
+[Bonnie] ¡Diana!
+
+1456
+01:11:00,793 --> 01:11:02,126
+¡No puedo verla!
+
+1457
+01:11:02,126 --> 01:11:03,543
+[John y Nico] ¡Diana!
+
+1458
+01:11:03,543 --> 01:11:05,001
+[música dramática]
+
+1459
+01:11:08,168 --> 01:11:09,001
+[Diana se queja]
+
+1460
+01:11:13,418 --> 01:11:14,543
+[susurra] Está bien.
+
+1461
+01:11:15,293 --> 01:11:16,168
+[Diana gruñe]
+
+1462
+01:11:16,168 --> 01:11:18,751
+Bien. Eso es, Nyad. Eso es.
+
+1463
+01:11:20,334 --> 01:11:21,834
+[inhala]
+
+1464
+01:11:21,834 --> 01:11:23,126
+Innegable.
+
+1465
+01:11:23,126 --> 01:11:24,418
+[Diana] <i>¡No!</i>
+
+1466
+01:11:25,459 --> 01:11:27,376
+[entrenador]
+<i>Y si permites que se te entrene...</i>
+
+1467
+01:11:27,376 --> 01:11:28,959
+[Diana] <i>73...</i>
+
+1468
+01:11:28,959 --> 01:11:31,668
+- [ahoga un grito]
+- Tu blusa.
+
+1469
+01:11:32,709 --> 01:11:34,626
+[Diana] <i>...76, 77...</i>
+
+1470
+01:11:35,251 --> 01:11:36,084
+[Diana se queja]
+
+1471
+01:11:36,668 --> 01:11:38,209
+[padre] ¡No me volverán a ver!
+
+1472
+01:11:38,209 --> 01:11:39,543
+[pitido de silbato]
+
+1473
+01:11:40,709 --> 01:11:42,334
+[Bonnie] ¡Diana!
+
+1474
+01:11:43,459 --> 01:11:44,751
+[pitido de silbato]
+
+1475
+01:11:44,751 --> 01:11:46,251
+[Bonnie] ¡Diana!
+
+1476
+01:11:52,459 --> 01:11:53,876
+¡Diana!
+
+1477
+01:11:56,418 --> 01:11:57,459
+¡Diana!
+
+1478
+01:11:57,459 --> 01:11:58,793
+¿Dónde está?
+
+1479
+01:11:59,376 --> 01:12:00,834
+[John] ¡Diana!
+
+1480
+01:12:01,626 --> 01:12:02,501
+¡Ven aquí!
+
+1481
+01:12:02,501 --> 01:12:03,626
+[Bonnie] ¡Diana!
+
+1482
+01:12:06,084 --> 01:12:08,584
+¡Diana! ¡Regresa al bote!
+
+1483
+01:12:08,584 --> 01:12:10,293
+¡Tenemos que sacarte!
+
+1484
+01:12:10,293 --> 01:12:12,668
+[Diana] ¡No! ¡Me quedaré adentro!
+
+1485
+01:12:12,668 --> 01:12:13,793
+¡Puedo hacerlo, Bon!
+
+1486
+01:12:14,626 --> 01:12:16,626
+¿Ya te volviste loca? ¡No!
+
+1487
+01:12:16,626 --> 01:12:18,376
+[Diana] Puedo hacerlo, Bon.
+
+1488
+01:12:18,376 --> 01:12:21,334
+¡No! La tormenta pasará, lo juro.
+
+1489
+01:12:21,334 --> 01:12:23,376
+[Bonnie] El bote ya se está hundiendo.
+
+1490
+01:12:23,376 --> 01:12:25,626
+¡No voy a arriesgar vidas humanas!
+
+1491
+01:12:26,709 --> 01:12:28,334
+[Diana] ¡La tormenta pasará!
+
+1492
+01:12:28,334 --> 01:12:31,168
+¿Me estás diciendo
+que debo morir por esto?
+
+1493
+01:12:39,209 --> 01:12:42,001
+[grita]
+
+1494
+01:12:42,001 --> 01:12:44,084
+[música sombría]
+
+1495
+01:12:44,084 --> 01:12:47,751
+Esta semana,
+tendríamos una noticia alentadora,
+
+1496
+01:12:47,751 --> 01:12:49,543
+pero no resultó así.
+
+1497
+01:12:50,168 --> 01:12:53,251
+Diana Nyad volvió a tierra firme hoy.
+
+1498
+01:12:53,251 --> 01:12:57,293
+Su meta de ser la primera persona
+en nadar de Cuba a Florida
+
+1499
+01:12:57,293 --> 01:13:00,584
+sin jaula de tiburones
+se truncó esta mañana.
+
+1500
+01:13:00,584 --> 01:13:02,459
+Nadó alrededor de 77 kilómetros,
+
+1501
+01:13:02,459 --> 01:13:05,918
+{\an8}lo que equivale a cruzar dos veces
+el canal de la Mancha,
+
+1502
+01:13:05,918 --> 01:13:07,418
+{\an8}pero no pudo avanzar más.
+
+1503
+01:13:07,418 --> 01:13:09,501
+[música sombría continúa]
+
+1504
+01:13:12,001 --> 01:13:12,834
+[exhala]
+
+1505
+01:13:15,418 --> 01:13:16,293
+[suspira]
+
+1506
+01:13:24,126 --> 01:13:24,959
+[exhala]
+
+1507
+01:13:28,584 --> 01:13:31,626
+La única
+que puede decidir rendirse soy yo.
+
+1508
+01:13:31,626 --> 01:13:34,376
+Tal vez quieras continuar,
+pero estamos exhaustos.
+
+1509
+01:13:34,376 --> 01:13:36,668
+Okey, básicamente, ofendiste a Bartlett
+
+1510
+01:13:36,668 --> 01:13:38,459
+y, eh, Nico tiene que trabajar.
+
+1511
+01:13:38,459 --> 01:13:40,793
+Consiguió algo
+reparando aires acondicionados.
+
+1512
+01:13:40,793 --> 01:13:43,918
+Nico dice que esta
+es la aventura de su vida.
+
+1513
+01:13:45,459 --> 01:13:47,251
+En serio no lo entiendes, ¿verdad?
+
+1514
+01:13:47,251 --> 01:13:48,834
+¿Cómo es para nosotros?
+
+1515
+01:13:49,918 --> 01:13:51,001
+Estamos quebrados.
+
+1516
+01:13:51,001 --> 01:13:52,876
+El tiempo, el costo emocional.
+
+1517
+01:13:52,876 --> 01:13:54,584
+O sea, han sido años, Diana.
+
+1518
+01:13:55,168 --> 01:13:56,501
+Pues aguántate.
+
+1519
+01:13:57,043 --> 01:13:58,668
+[ríe] Somos equipo, ¿no?
+
+1520
+01:13:59,459 --> 01:14:00,293
+[Bonnie] Guau.
+
+1521
+01:14:01,001 --> 01:14:04,834
+Tu complejo de superioridad
+está desbordado, ¿sí sabías?
+
+1522
+01:14:04,834 --> 01:14:08,709
+Sí, bueno, todos deberíamos tener
+ese complejo, ¿no crees?
+
+1523
+01:14:08,709 --> 01:14:12,001
+Todos se deberían sentir
+como las estrellas de sus propias vidas.
+
+1524
+01:14:12,584 --> 01:14:14,543
+Sí, exacto. Mi vida.
+
+1525
+01:14:14,543 --> 01:14:15,959
+¡Mi vida!
+
+1526
+01:14:15,959 --> 01:14:18,418
+Y hay cosas que quiero hacer.
+
+1527
+01:14:18,418 --> 01:14:19,709
+Ah, ¿sí? ¿Como qué?
+
+1528
+01:14:22,209 --> 01:14:23,043
+No lo sé.
+
+1529
+01:14:24,043 --> 01:14:27,084
+Okey. Esa es la parte extraña.
+Que, o sea, no lo sé.
+
+1530
+01:14:27,668 --> 01:14:30,418
+¿Qué... qué es lo que quiero?
+¿Qué es lo que quiero hacer?
+
+1531
+01:14:31,043 --> 01:14:33,626
+Pero, ¿sabes qué? Yo lo decido, no tú.
+
+1532
+01:14:34,209 --> 01:14:37,459
+Lo que yo creo
+es que necesitas hacer las paces
+
+1533
+01:14:37,459 --> 01:14:39,168
+con la posibilidad de mi muerte.
+
+1534
+01:14:39,168 --> 01:14:40,376
+¿Qué quiere decir eso?
+
+1535
+01:14:40,376 --> 01:14:43,043
+Yo lo haría por ti
+si eso te hiciera feliz.
+
+1536
+01:14:43,043 --> 01:14:45,376
+Ah, ¿en serio? ¿Harías eso?
+
+1537
+01:14:45,376 --> 01:14:48,334
+Sí. Imagina saber, con toda tu alma,
+
+1538
+01:14:48,334 --> 01:14:51,043
+que puedes hacer algo
+que nadie más podría hacer.
+
+1539
+01:14:51,043 --> 01:14:52,001
+Tu destino.
+
+1540
+01:14:52,001 --> 01:14:54,334
+- Ya estuvo bueno del destino, Diana.
+- Nyad...
+
+1541
+01:14:54,334 --> 01:14:56,209
+¡Ya sé lo que significa tu nombre!
+
+1542
+01:14:56,209 --> 01:14:58,043
+- Mi padre...
+- ¡Era un imbécil!
+
+1543
+01:14:58,043 --> 01:15:00,168
+Sí, era un imbécil,
+
+1544
+01:15:00,168 --> 01:15:03,126
+pero entendía perfectamente mi destino.
+
+1545
+01:15:03,126 --> 01:15:06,209
+Esto no se trata de ti. Y ni tu destino.
+
+1546
+01:15:06,209 --> 01:15:08,001
+Se trata de mí, ¿okey?
+
+1547
+01:15:08,001 --> 01:15:09,834
+¡Por una vez se trata de mí!
+
+1548
+01:15:11,376 --> 01:15:12,709
+Y... y tú no... tú no...
+
+1549
+01:15:12,709 --> 01:15:14,126
+Ni siquiera piensas en mí.
+
+1550
+01:15:14,751 --> 01:15:16,876
+Tú solo quieres que te acompañe, como...
+
+1551
+01:15:16,876 --> 01:15:18,751
+No, claro que pienso en ti.
+
+1552
+01:15:18,751 --> 01:15:21,168
+Sé mejor que tú de lo que eres capaz.
+
+1553
+01:15:21,168 --> 01:15:23,834
+Ay, escúchate.
+Suenas tan condescendiente. No puedo.
+
+1554
+01:15:23,834 --> 01:15:27,293
+Mira, ya sé que el mundo
+quiere que ya mejor cierre la boca
+
+1555
+01:15:27,293 --> 01:15:29,834
+y que me siente y que espere a morir,
+
+1556
+01:15:29,834 --> 01:15:31,043
+pero creí que tú no.
+
+1557
+01:15:31,043 --> 01:15:31,959
+Ya, para.
+
+1558
+01:15:32,709 --> 01:15:33,959
+No lo haré.
+
+1559
+01:15:33,959 --> 01:15:36,459
+No puedo. No aceptaré la derrota.
+
+1560
+01:15:40,543 --> 01:15:41,751
+[suspira]
+
+1561
+01:15:42,626 --> 01:15:43,543
+¿Estás conmigo?
+
+1562
+01:15:49,334 --> 01:15:50,168
+No.
+
+1563
+01:15:54,668 --> 01:15:55,501
+[exhala]
+
+1564
+01:15:57,043 --> 01:15:57,959
+[puerta se cierra]
+
+1565
+01:16:02,584 --> 01:16:04,584
+[música suave]
+
+1566
+01:16:20,501 --> 01:16:24,001
+{\an8}Sí, pero era tu entrenador.
+Estabas descansando para competir.
+
+1567
+01:16:24,001 --> 01:16:26,418
+{\an8}Tu mente y tu cuerpo
+debían estar en sintonía.
+
+1568
+01:16:26,418 --> 01:16:28,293
+[Diana] <i>¿Y crees que nadaba bien?</i>
+
+1569
+01:16:28,293 --> 01:16:31,001
+<i>Él me decía: "No puedes contarle a nadie.</i>
+
+1570
+01:16:31,001 --> 01:16:32,584
+<i>Esto es muy especial.</i>
+
+1571
+01:16:32,584 --> 01:16:36,293
+<i>Tenemos algo tan especial,
+que no se lo puedes contar a nadie.</i>
+
+1572
+01:16:36,293 --> 01:16:37,626
+<i>Nadie lo entenderá.</i>
+
+1573
+01:16:37,626 --> 01:16:39,709
+<i>Te expulsarán de la escuela</i>
+
+1574
+01:16:39,709 --> 01:16:42,084
+<i>y nunca serás nadadora olímpica,</i>
+
+1575
+01:16:42,084 --> 01:16:43,668
+<i>porque me perderás.</i>
+
+1576
+01:16:43,668 --> 01:16:45,834
+<i>Eres una niña, no entiendes.</i>
+
+1577
+01:16:45,834 --> 01:16:48,584
+Pero yo soy un hombre
+y lo necesito. Ya lo entenderás".
+
+1578
+01:16:48,584 --> 01:16:50,376
+[inaudible]
+
+1579
+01:16:54,626 --> 01:16:56,293
+[Diana] Intento número cuatro.
+
+1580
+01:16:57,418 --> 01:16:58,668
+Estoy por empezar,
+
+1581
+01:16:58,668 --> 01:17:00,626
+con los nervios a todo lo que da.
+
+1582
+01:17:00,626 --> 01:17:02,334
+Sin saber lo que viene adelante,
+
+1583
+01:17:02,334 --> 01:17:04,251
+pero resuelta por mi voluntad.
+
+1584
+01:17:05,084 --> 01:17:07,709
+Obligada por el poder del espíritu humano.
+
+1585
+01:17:10,334 --> 01:17:11,293
+<i>Courage.</i>
+
+1586
+01:17:15,376 --> 01:17:18,043
+Ah, ella es Bonnie, mi entrenadora.
+
+1587
+01:17:18,584 --> 01:17:20,084
+[suspira]
+
+1588
+01:17:21,668 --> 01:17:26,793
+Ella está a cargo de que consuma
+mis calorías y electrolitos.
+
+1589
+01:17:30,584 --> 01:17:31,501
+Bonnie de nuevo.
+
+1590
+01:17:34,043 --> 01:17:34,876
+Eh...
+
+1591
+01:17:37,751 --> 01:17:41,043
+Eh, no dejas espacio
+para imaginar la derrota.
+
+1592
+01:17:41,043 --> 01:17:45,751
+Y en serio crees que, en el fondo,
+lo vas a lograr cada vez que lo intentas.
+
+1593
+01:17:46,959 --> 01:17:47,793
+Pero...
+
+1594
+01:17:49,459 --> 01:17:50,584
+[carraspea]
+
+1595
+01:17:50,584 --> 01:17:54,043
+...pues, ya cuatro intentos fallidos.
+
+1596
+01:18:06,543 --> 01:18:07,376
+Okey.
+
+1597
+01:18:12,001 --> 01:18:12,959
+Ay.
+
+1598
+01:18:12,959 --> 01:18:13,876
+[se queja]
+
+1599
+01:18:15,543 --> 01:18:18,001
+Ay, por favor, Nyad, estúpida perra.
+
+1600
+01:18:21,959 --> 01:18:23,334
+[conversación indistinta]
+
+1601
+01:18:26,959 --> 01:18:30,293
+[celular vibra]
+
+1602
+01:18:37,251 --> 01:18:38,168
+¿Sip?
+
+1603
+01:18:38,168 --> 01:18:40,918
+¿Aún estás enojado conmigo?
+
+1604
+01:18:40,918 --> 01:18:44,168
+Porque de verdad,
+en serio, lo siento mucho.
+
+1605
+01:18:45,001 --> 01:18:49,418
+Algunas cosas que dije y mi actitud,
+
+1606
+01:18:49,418 --> 01:18:52,418
+pues, estuvieron fuera de proporción.
+
+1607
+01:18:53,709 --> 01:18:54,626
+Gracias.
+
+1608
+01:18:56,251 --> 01:18:57,668
+Y no, no estoy enojado.
+
+1609
+01:18:59,459 --> 01:19:01,709
+Pero si me pides que lo vuelva a intentar,
+
+1610
+01:19:01,709 --> 01:19:03,876
+en serio no puedo, porque...
+
+1611
+01:19:05,168 --> 01:19:06,501
+estoy con mis asuntos.
+
+1612
+01:19:08,834 --> 01:19:09,876
+<i>Pagar la hipoteca.</i>
+
+1613
+01:19:09,876 --> 01:19:12,584
+<i>Entonces, tengo que regresar
+a trabajar, ¿me explico?</i>
+
+1614
+01:19:13,209 --> 01:19:16,751
+La vida... nos alcanza en algún punto.
+
+1615
+01:19:16,751 --> 01:19:18,418
+Sí, sí, te entiendo.
+
+1616
+01:19:20,501 --> 01:19:22,418
+Tal vez no se puede hacer, ¿no crees?
+
+1617
+01:19:22,418 --> 01:19:24,043
+Entonces, eh,
+
+1618
+01:19:24,751 --> 01:19:26,543
+¿se supone que debo aceptar
+
+1619
+01:19:26,543 --> 01:19:30,293
+los estándares denigrantes y mediocres
+que tiene todo el mundo?
+
+1620
+01:19:30,293 --> 01:19:31,459
+[ríe]
+
+1621
+01:19:31,459 --> 01:19:33,793
+Bonnie ya no está conmigo tampoco.
+
+1622
+01:19:33,793 --> 01:19:36,751
+Ay, ya cállate. Bonnie te ama.
+
+1623
+01:19:36,751 --> 01:19:37,918
+Ustedes son familia.
+
+1624
+01:19:39,876 --> 01:19:43,834
+¿Sabes? No es que no me dé cuenta
+de que soy de esta forma,
+
+1625
+01:19:43,834 --> 01:19:47,168
+de que... de que soy tan... [gruñe]
+
+1626
+01:19:47,168 --> 01:19:48,168
+¿Radical?
+
+1627
+01:19:48,168 --> 01:19:50,543
+Es una forma linda de decirlo.
+
+1628
+01:19:50,543 --> 01:19:51,751
+[ríe]
+
+1629
+01:19:52,376 --> 01:19:53,959
+¿Por qué es tan difícil?
+
+1630
+01:19:53,959 --> 01:19:55,834
+<i>Sí. ¿Por qué es tan difícil?</i>
+
+1631
+01:19:55,834 --> 01:19:57,084
+¿Ser una persona?
+
+1632
+01:19:57,084 --> 01:19:58,084
+[Diana ríe]
+
+1633
+01:19:59,418 --> 01:20:02,334
+¿Sabes algo? Nada se compara la emoción...
+
+1634
+01:20:03,751 --> 01:20:06,501
+de acompañarte en esos días
+en los que estábamos juntos.
+
+1635
+01:20:06,501 --> 01:20:07,418
+[ríe]
+
+1636
+01:20:08,376 --> 01:20:09,834
+<i>Y tú lo hacías muy bien.</i>
+
+1637
+01:20:10,376 --> 01:20:12,043
+Y los delfines te seguían.
+
+1638
+01:20:13,293 --> 01:20:17,876
+Y yo y Bonnie y el equipo
+estábamos en supersincronía, pensando:
+
+1639
+01:20:17,876 --> 01:20:20,543
+"Ay, sí, podemos hacerlo.
+Sí, sí, vamos a lograrlo".
+
+1640
+01:20:20,543 --> 01:20:23,584
+Esta... esta cosa loca en la que creíamos.
+
+1641
+01:20:23,584 --> 01:20:26,084
+Esa energía.
+
+1642
+01:20:28,626 --> 01:20:31,043
+Sí, esa fue una buena experiencia.
+
+1643
+01:20:31,043 --> 01:20:33,084
+Sí, no, yo... yo nunca vi todo eso.
+
+1644
+01:20:34,084 --> 01:20:35,043
+Pero lo sentía.
+
+1645
+01:20:35,043 --> 01:20:36,626
+Sí, pues, eso es cierto.
+
+1646
+01:20:36,626 --> 01:20:39,334
+- Porque estabas bajo el agua.
+- <i>Sí.</i>
+
+1647
+01:20:39,334 --> 01:20:41,876
+Cantando en mi cabeza en la oscuridad.
+
+1648
+01:20:41,876 --> 01:20:43,251
+[ambos ríen]
+
+1649
+01:20:44,168 --> 01:20:45,876
+Eres formidable, Diana.
+
+1650
+01:20:45,876 --> 01:20:47,043
+<i>Lo digo en serio.</i>
+
+1651
+01:20:47,834 --> 01:20:48,668
+[exhala]
+
+1652
+01:20:50,084 --> 01:20:51,084
+[chasquea la lengua]
+
+1653
+01:20:52,668 --> 01:20:55,876
+Bueno, eh, será mejor que...
+
+1654
+01:20:55,876 --> 01:20:57,918
+Sí, sí, ya sé. Sí, claro.
+
+1655
+01:20:59,418 --> 01:21:00,626
+Descansa, John.
+
+1656
+01:21:00,626 --> 01:21:01,876
+Tú igual, Diana.
+
+1657
+01:21:11,001 --> 01:21:11,834
+[puerta se abre]
+
+1658
+01:21:13,251 --> 01:21:14,168
+[puerta se cierra]
+
+1659
+01:21:16,584 --> 01:21:18,126
+[Diana] Te he estado llamado.
+
+1660
+01:21:18,126 --> 01:21:19,584
+- Te dejé mensajes.
+- Ya sé.
+
+1661
+01:21:20,543 --> 01:21:23,376
+Diana, solo no quiero hacer esto otra vez.
+
+1662
+01:21:23,376 --> 01:21:24,668
+No, no, ya sé.
+
+1663
+01:21:26,043 --> 01:21:27,293
+Solo quería verte,
+
+1664
+01:21:28,293 --> 01:21:29,126
+hablar contigo.
+
+1665
+01:21:33,709 --> 01:21:34,543
+Bueno.
+
+1666
+01:21:38,709 --> 01:21:39,876
+[exhala]
+
+1667
+01:21:41,793 --> 01:21:45,001
+Leí en el periódico que Jack Nelson murió.
+
+1668
+01:21:45,668 --> 01:21:46,501
+Sí.
+
+1669
+01:21:47,209 --> 01:21:48,584
+Creí que me llamarías.
+
+1670
+01:21:51,043 --> 01:21:52,668
+Bueno, qué bueno que ya no está.
+
+1671
+01:21:53,793 --> 01:21:56,584
+Carajo. Odio ser una víctima.
+
+1672
+01:21:56,584 --> 01:21:57,626
+Sí, yo lo sé.
+
+1673
+01:21:58,876 --> 01:22:01,001
+Sigue en el Salón de la Fama
+de la Natación
+
+1674
+01:22:01,001 --> 01:22:02,918
+a pesar de que dijimos lo que hacía,
+
+1675
+01:22:02,918 --> 01:22:05,334
+que abusó de nosotras,
+y lo dijimos en público.
+
+1676
+01:22:05,334 --> 01:22:06,501
+¿Lo puedes creer?
+
+1677
+01:22:06,501 --> 01:22:07,876
+Qué coraje.
+
+1678
+01:22:09,543 --> 01:22:12,126
+Eh, eh, ojalá lo hubiera matado yo misma.
+
+1679
+01:22:12,751 --> 01:22:13,668
+Lo habría hecho.
+
+1680
+01:22:13,668 --> 01:22:14,793
+- ¿Sí?
+- Sí.
+
+1681
+01:22:14,793 --> 01:22:16,043
+¿Cómo lo habrías hecho?
+
+1682
+01:22:17,126 --> 01:22:17,959
+[resopla]
+
+1683
+01:22:17,959 --> 01:22:19,376
+Cortándole el pito.
+
+1684
+01:22:19,376 --> 01:22:20,293
+Ah.
+
+1685
+01:22:21,001 --> 01:22:24,501
+Cuchillo sin filo, contra el granito.
+Y dejarlo desangrándose.
+
+1686
+01:22:25,293 --> 01:22:26,209
+¿Por qué granito?
+
+1687
+01:22:27,168 --> 01:22:28,709
+No lo sé, así lo imagino.
+
+1688
+01:22:30,293 --> 01:22:33,293
+Sí, pues, no me dañó mucho
+ni me sacó de mi curso.
+
+1689
+01:22:33,293 --> 01:22:35,168
+Estoy bien, no importa.
+
+1690
+01:22:35,168 --> 01:22:39,626
+Pero luego hay momentos
+en los que siento que tengo 14 y...
+
+1691
+01:22:41,543 --> 01:22:45,793
+es... es como si su voz saliera desde mí.
+
+1692
+01:22:45,793 --> 01:22:49,209
+Y... y me enojo tanto conmigo misma.
+
+1693
+01:22:49,918 --> 01:22:52,459
+O sea, ¿por qué no peleé con más fuerza?
+
+1694
+01:22:53,209 --> 01:22:55,043
+[solloza] Yo era fuerte.
+
+1695
+01:22:55,043 --> 01:22:57,751
+Ay, amiga, amiga,
+sabes... sabes que no funciona así.
+
+1696
+01:22:57,751 --> 01:22:58,709
+Sí lo sabes.
+
+1697
+01:22:59,459 --> 01:23:01,043
+Así es. Eso lo sé.
+
+1698
+01:23:01,876 --> 01:23:02,709
+Es solo que...
+
+1699
+01:23:03,751 --> 01:23:04,584
+Es que...
+
+1700
+01:23:05,959 --> 01:23:06,793
+[exhala]
+
+1701
+01:23:07,543 --> 01:23:09,751
+...era muy lindo conmigo.
+
+1702
+01:23:09,751 --> 01:23:11,626
+O sea, al principio, al menos.
+
+1703
+01:23:13,168 --> 01:23:17,459
+[solloza] Yo escribí
+"Amo al entrenador Nelson" en mi cuaderno.
+
+1704
+01:23:18,584 --> 01:23:20,959
+Y él vio el dibujo y...
+
+1705
+01:23:22,918 --> 01:23:23,751
+[solloza]
+
+1706
+01:23:25,543 --> 01:23:28,543
+Oye, no había contado esto jamás.
+
+1707
+01:23:29,168 --> 01:23:30,001
+Ey.
+
+1708
+01:23:33,418 --> 01:23:34,959
+Tú eres fuerte.
+
+1709
+01:23:36,376 --> 01:23:39,626
+Con o sin natación, eres fuerte.
+
+1710
+01:23:40,418 --> 01:23:41,251
+Sábelo.
+
+1711
+01:23:43,543 --> 01:23:44,959
+[se sorbe la nariz] Lo sé.
+
+1712
+01:23:46,793 --> 01:23:48,751
+Y no... no voy a detenerme.
+
+1713
+01:23:50,834 --> 01:23:52,668
+Soy libre de seguir intentando.
+
+1714
+01:23:53,209 --> 01:23:54,626
+[Bonnie] Sí, así es, Diana.
+
+1715
+01:23:56,459 --> 01:23:57,584
+Entonces, voy a...
+
+1716
+01:23:59,293 --> 01:24:01,418
+entrenar y conseguir un equipo,
+
+1717
+01:24:01,418 --> 01:24:04,584
+y, eh... te veré cuando vuelva.
+
+1718
+01:24:04,584 --> 01:24:06,001
+Te voy a invitar a cenar.
+
+1719
+01:24:06,001 --> 01:24:07,834
+- Claro.
+- Okey.
+
+1720
+01:24:08,584 --> 01:24:10,501
+Sabes que siempre tienes mi apoyo.
+
+1721
+01:24:12,459 --> 01:24:13,626
+Equipo Nyad.
+
+1722
+01:24:13,626 --> 01:24:15,626
+[música melancólica]
+
+1723
+01:24:26,668 --> 01:24:28,209
+[conversaciones indistintas]
+
+1724
+01:24:31,709 --> 01:24:32,668
+[Diana] Oye, James.
+
+1725
+01:24:35,126 --> 01:24:38,876
+Te quiero navegando a mi izquierda, ¿okey?
+Para verte cuando respire.
+
+1726
+01:24:38,876 --> 01:24:40,376
+Y cada 90 minutos,
+
+1727
+01:24:40,376 --> 01:24:43,626
+si pudieras tomar uno
+de esos sobres de comida de la hielera...
+
+1728
+01:24:43,626 --> 01:24:47,126
+Bonnie, mi entrenadora, generalmente,
+los exprime directo en mi boca.
+
+1729
+01:24:47,959 --> 01:24:49,793
+¿Sabes qué? No importa.
+
+1730
+01:24:51,168 --> 01:24:52,001
+Está bien.
+
+1731
+01:24:54,668 --> 01:24:57,168
+Y... y estaré lista en unos minutos.
+
+1732
+01:24:58,959 --> 01:25:00,959
+[perro jadea]
+
+1733
+01:25:05,543 --> 01:25:07,209
+Gus, ¿quieres pasear?
+
+1734
+01:25:08,168 --> 01:25:09,001
+¿Mmm?
+
+1735
+01:25:09,668 --> 01:25:11,168
+Vamos, amor. Vámonos.
+
+1736
+01:25:14,126 --> 01:25:16,126
+[suena música pop en la radio]
+
+1737
+01:25:17,751 --> 01:25:20,209
+[interferencia de radio]
+
+1738
+01:25:21,876 --> 01:25:23,459
+[mujer] <i>¿Qué más debería haber hecho?</i>
+
+1739
+01:25:23,459 --> 01:25:27,084
+<i>¿No es verdad que todo al final
+se muere demasiado pronto?</i>
+
+1740
+01:25:27,793 --> 01:25:30,126
+<i>Dime, ¿qué piensas hacer...</i>
+
+1741
+01:25:30,126 --> 01:25:31,043
+[suspira]
+
+1742
+01:25:31,043 --> 01:25:34,459
+<i>...con tu única, salvaje y preciosa vida?</i>
+
+1743
+01:25:34,459 --> 01:25:36,793
+No, Mary Oliver. Cómo crees.
+
+1744
+01:25:37,501 --> 01:25:39,126
+No estoy para estas tonterías.
+
+1745
+01:25:39,126 --> 01:25:42,043
+[locutora] <i>...Oliver dijo
+que la simpleza es importante para ella.</i>
+
+1746
+01:25:42,043 --> 01:25:45,834
+<i>Sus poemas, muchas veces, son
+una celebración alegre de la naturaleza.</i>
+
+1747
+01:25:45,834 --> 01:25:48,751
+<i>Pero también escribió
+sobre el abuso que sufrió de niña</i>
+
+1748
+01:25:48,751 --> 01:25:50,709
+<i>cuando crecía en el campo, en Ohio.</i>
+
+1749
+01:25:51,251 --> 01:25:53,334
+<i>Como nos contó en 2012,</i>
+
+1750
+01:25:53,334 --> 01:25:56,043
+<i>encontró refugio en dos grandes pasiones:</i>
+
+1751
+01:25:56,043 --> 01:25:58,876
+<i>el mundo natural y los poetas muertos,</i>
+
+1752
+01:25:58,876 --> 01:26:02,084
+<i>a quienes consideró como sus amigos
+durante toda su vida.</i>
+
+1753
+01:26:18,334 --> 01:26:19,251
+[puerta se abre]
+
+1754
+01:26:22,293 --> 01:26:23,459
+[puerta se cierra]
+
+1755
+01:26:26,584 --> 01:26:27,543
+[Bonnie] ¡Yuju!
+
+1756
+01:26:28,834 --> 01:26:29,668
+[suspira]
+
+1757
+01:26:31,251 --> 01:26:32,084
+Okey.
+
+1758
+01:26:32,959 --> 01:26:34,293
+Voy a decir unas cosas.
+
+1759
+01:26:34,293 --> 01:26:35,709
+Bonnie, ¿qué te...?
+
+1760
+01:26:35,709 --> 01:26:36,709
+No me interrumpas.
+
+1761
+01:26:38,293 --> 01:26:40,126
+[exhala] Okey, estoy aquí porque...
+
+1762
+01:26:41,126 --> 01:26:42,043
+lo pensé bien,
+
+1763
+01:26:43,334 --> 01:26:44,168
+y...
+
+1764
+01:26:45,959 --> 01:26:48,584
+has sido mi persona
+desde que teníamos como 30,
+
+1765
+01:26:48,584 --> 01:26:49,834
+corriendo como idiotas.
+
+1766
+01:26:51,001 --> 01:26:52,876
+Siempre haciendo cosas juntas, cosas...
+
+1767
+01:26:53,793 --> 01:26:56,126
+divertidas y aburridas, difíciles.
+
+1768
+01:26:58,918 --> 01:27:01,209
+Intenté hacer lo mío,
+pero no fue lo mismo.
+
+1769
+01:27:03,584 --> 01:27:04,834
+Tú no te rindes.
+
+1770
+01:27:10,876 --> 01:27:11,751
+El punto es que...
+
+1771
+01:27:13,584 --> 01:27:14,834
+envejecemos juntas.
+
+1772
+01:27:15,959 --> 01:27:17,918
+Es que somos viejas y...
+
+1773
+01:27:19,126 --> 01:27:20,126
+si te mueres,
+
+1774
+01:27:21,834 --> 01:27:24,043
+quiero ser la última persona que veas.
+
+1775
+01:27:24,043 --> 01:27:24,959
+No mueras.
+
+1776
+01:27:26,001 --> 01:27:28,376
+Pero si pasa, voy a estar junto a ti.
+
+1777
+01:27:30,918 --> 01:27:31,918
+[ambas sollozan]
+
+1778
+01:27:33,209 --> 01:27:34,251
+[música emotiva]
+
+1779
+01:27:34,834 --> 01:27:36,209
+{\an8}[reportera] <i>A los 28 años,</i>
+
+1780
+01:27:36,209 --> 01:27:40,334
+{\an8}<i>intentó ser la primera persona
+en nadar 165 kilómetros,</i>
+
+1781
+01:27:40,334 --> 01:27:43,376
+{\an8}<i>de Cuba a Florida, sin jaula de tiburones.</i>
+
+1782
+01:27:43,376 --> 01:27:46,126
+{\an8}<i>Tres décadas y media después,</i>
+
+1783
+01:27:46,126 --> 01:27:48,543
+<i>Diana Nyad, de 64 años,</i>
+
+1784
+01:27:48,543 --> 01:27:51,876
+<i>espera lograrlo este año
+y completar el desafío.</i>
+
+1785
+01:27:51,876 --> 01:27:55,793
+[reportero] <i>Es su quinto intento
+de nadar desde La Habana a Florida.</i>
+
+1786
+01:27:55,793 --> 01:27:58,834
+[reportera] <i>Como siempre,
+luchará contra viento y corriente,</i>
+
+1787
+01:27:58,834 --> 01:28:00,334
+<i>deshidratación e hipotermia.</i>
+
+1788
+01:28:00,334 --> 01:28:03,084
+<i>En esos tres días
+que Nyad intentará llegar a Florida,</i>
+
+1789
+01:28:03,084 --> 01:28:04,876
+<i>enfrentará muchos problemas.</i>
+
+1790
+01:28:04,876 --> 01:28:06,459
+[Bonnie] ¿Qué tal? Hola, hola.
+
+1791
+01:28:06,459 --> 01:28:08,918
+- Hola.
+- Qué gusto. [ríe]
+
+1792
+01:28:08,918 --> 01:28:10,126
+[Nico] Sí viniste.
+
+1793
+01:28:10,126 --> 01:28:11,043
+Sí.
+
+1794
+01:28:13,293 --> 01:28:14,126
+¿Tú lo llamaste?
+
+1795
+01:28:14,793 --> 01:28:15,626
+No, yo no fui.
+
+1796
+01:28:20,251 --> 01:28:22,793
+Elke dice que ya estamos quebrados.
+
+1797
+01:28:22,793 --> 01:28:25,001
+Podemos estar un poco más quebrados.
+
+1798
+01:28:26,959 --> 01:28:28,459
+Pero yo decido...
+
+1799
+01:28:29,251 --> 01:28:31,209
+cuándo zarpar. <i>Capisce?</i>
+
+1800
+01:28:32,543 --> 01:28:33,418
+Tú mandas.
+
+1801
+01:28:36,418 --> 01:28:37,501
+Guau.
+
+1802
+01:28:38,126 --> 01:28:39,293
+[ríe]
+
+1803
+01:28:39,876 --> 01:28:43,043
+- [Diana] ¿Qué?
+- Te ves muy parecida a una foca.
+
+1804
+01:28:43,043 --> 01:28:47,001
+[Diana rezonga] ¿Por qué necesito
+esta máscara nueva? Está peor que la otra.
+
+1805
+01:28:47,501 --> 01:28:50,251
+Bueno, Angel insiste
+porque alguien se tragó una medusa.
+
+1806
+01:28:50,251 --> 01:28:51,584
+[Diana] Oh, ¿qué le pasó?
+
+1807
+01:28:51,584 --> 01:28:53,251
+Pues ¿tú qué crees? Murió.
+
+1808
+01:28:53,959 --> 01:28:56,418
+Diana, todos aquí estamos en alerta roja.
+
+1809
+01:28:56,418 --> 01:28:59,251
+Creo que tenemos una ventana.
+Mañana vamos a intentarlo.
+
+1810
+01:28:59,834 --> 01:29:01,293
+- ¡Sí!
+- [Bonnie] Eso es.
+
+1811
+01:29:01,293 --> 01:29:02,334
+[Nico] Ey.
+
+1812
+01:29:02,334 --> 01:29:03,584
+Bien. Lo haremos.
+
+1813
+01:29:03,584 --> 01:29:06,334
+[Bonnie] Nyad, ninfa de agua.
+
+1814
+01:29:06,334 --> 01:29:08,126
+Destino, ¿o no?
+
+1815
+01:29:08,876 --> 01:29:11,376
+¿Sabes? La realidad con Aris...
+
+1816
+01:29:13,293 --> 01:29:16,084
+es que él no era mi padre biológico.
+
+1817
+01:29:16,084 --> 01:29:17,209
+O sea,
+
+1818
+01:29:18,709 --> 01:29:21,626
+en realidad, yo no soy una...
+
+1819
+01:29:21,626 --> 01:29:22,834
+Ey, ey, ey.
+
+1820
+01:29:24,626 --> 01:29:25,501
+Escúchame.
+
+1821
+01:29:27,001 --> 01:29:28,834
+No hay nadie más Nyad que tú.
+
+1822
+01:29:31,751 --> 01:29:32,584
+Adelante.
+
+1823
+01:29:35,501 --> 01:29:36,418
+[inhala]
+
+1824
+01:29:36,959 --> 01:29:38,293
+[exhala]
+
+1825
+01:29:42,376 --> 01:29:46,501
+{\an8}31 DE AGOSTO DE 2013, EDAD: 64
+
+1826
+01:29:46,501 --> 01:29:47,584
+[Diana] <i>Courage!</i>
+
+1827
+01:29:51,293 --> 01:29:58,293
+{\an8}166 KILÓMETROS HASTA KEY WEST
+
+1828
+01:29:58,293 --> 01:30:00,418
+{\an8}[música optimista]
+
+1829
+01:30:10,084 --> 01:30:11,584
+[graznido de gaviotas]
+
+1830
+01:30:23,626 --> 01:30:29,168
+[Diana en inglés] <i>502, 503, 504, 505,</i>
+
+1831
+01:30:30,293 --> 01:30:34,084
+<i>506, 507, 508.</i>
+
+1832
+01:30:39,709 --> 01:30:41,709
+{\an8}[truenos lejanos]
+
+1833
+01:30:55,793 --> 01:30:56,751
+[John] Ay.
+
+1834
+01:30:58,418 --> 01:30:59,543
+Carajo.
+
+1835
+01:31:02,876 --> 01:31:03,709
+Mira allá.
+
+1836
+01:31:04,501 --> 01:31:06,168
+[música inquietante]
+
+1837
+01:31:06,168 --> 01:31:08,668
+[hombre] El escudo
+no se pudo haber desactivado, ¿o sí?
+
+1838
+01:31:09,709 --> 01:31:10,543
+Mierda.
+
+1839
+01:31:14,959 --> 01:31:15,959
+[hombre] ¿Viste eso?
+
+1840
+01:31:15,959 --> 01:31:18,209
+[Luke] Veré qué pasa
+con el escudo, entraré.
+
+1841
+01:31:18,209 --> 01:31:19,251
+[hombre] Entendido.
+
+1842
+01:31:20,418 --> 01:31:21,668
+[golpeteo de equipos]
+
+1843
+01:31:23,834 --> 01:31:25,709
+[Diana] <i>732,</i>
+
+1844
+01:31:26,959 --> 01:31:29,168
+<i>733.</i>
+
+1845
+01:31:29,168 --> 01:31:31,251
+[música dramática]
+
+1846
+01:31:36,334 --> 01:31:39,126
+[Bonnie] ¿Qué está pasando? ¿Qué es eso?
+
+1847
+01:31:40,918 --> 01:31:43,668
+- No puede ser.
+- [John] ¿Lo ves? ¿La sacamos?
+
+1848
+01:31:43,668 --> 01:31:44,584
+[Luke] ¡Bonnie!
+
+1849
+01:31:44,584 --> 01:31:47,668
+- Que se acerque al bote todo lo posible.
+- Apaga el motor.
+
+1850
+01:31:48,376 --> 01:31:49,209
+¡Diana!
+
+1851
+01:31:50,251 --> 01:31:51,584
+[pitido de silbato]
+
+1852
+01:31:52,751 --> 01:31:56,293
+Acércate al bote. No salpiques,
+solo pequeñas brazadas de bebé.
+
+1853
+01:31:56,293 --> 01:31:57,251
+¿Por qué? ¿Qué pasa?
+
+1854
+01:31:57,251 --> 01:31:59,209
+Estamos reparando el escudo.
+No te preocupes.
+
+1855
+01:31:59,209 --> 01:32:01,001
+[Bonnie] No mires. No mires.
+
+1856
+01:32:02,501 --> 01:32:04,501
+[música dramática se intensifica]
+
+1857
+01:32:21,876 --> 01:32:23,084
+[pitidos de dispositivo]
+
+1858
+01:32:23,084 --> 01:32:25,459
+- ¿Está prendido? Dinos.
+- [Luke] Creo que está prendido.
+
+1859
+01:32:25,459 --> 01:32:26,751
+Cree que está prendido.
+
+1860
+01:32:31,334 --> 01:32:32,834
+[pitidos de dispositivo]
+
+1861
+01:32:34,709 --> 01:32:37,751
+- [señal de conexión]
+- [zumbido electrónico]
+
+1862
+01:32:37,751 --> 01:32:38,668
+[música cesa]
+
+1863
+01:32:40,376 --> 01:32:41,418
+[hombre] Despejado.
+
+1864
+01:32:41,418 --> 01:32:43,793
+- ¡Sí! Sí.
+- [todos aplauden]
+
+1865
+01:32:43,793 --> 01:32:46,334
+- [John] Bien. Bien hecho. Muchas gracias.
+- ¡Sí!
+
+1866
+01:32:46,334 --> 01:32:47,251
+[Bonnie] Eso es.
+
+1867
+01:32:47,251 --> 01:32:49,001
+Gracias a todos.
+
+1868
+01:32:49,001 --> 01:32:51,001
+[respira agitada]
+
+1869
+01:32:52,626 --> 01:32:55,209
+[suena "Heart of Gold" de Neil Young]
+
+1870
+01:33:44,918 --> 01:33:49,876
+{\an8}143 KILÓMETROS HASTA KEY WEST
+
+1871
+01:33:52,376 --> 01:33:53,626
+[Diana] Me corta la boca.
+
+1872
+01:33:53,626 --> 01:33:56,584
+Tienes que usarla hasta que amanezca,
+ya no habrá peligro.
+
+1873
+01:33:57,376 --> 01:33:58,918
+La gorra primero, claro.
+
+1874
+01:34:07,418 --> 01:34:09,418
+["Heart of Gold" continúa]
+
+1875
+01:34:40,001 --> 01:34:41,168
+[canción termina]
+
+1876
+01:34:41,168 --> 01:34:42,418
+[John tose]
+
+1877
+01:34:43,959 --> 01:34:44,793
+Carajo.
+
+1878
+01:34:48,209 --> 01:34:49,209
+[suspira]
+
+1879
+01:34:49,209 --> 01:34:50,709
+- Aquí tienes.
+- Sí, gracias.
+
+1880
+01:34:51,459 --> 01:34:53,668
+- Te quería preguntar...
+- ¿Ajá?
+
+1881
+01:34:54,834 --> 01:34:56,293
+¿Cómo te convenció de volver?
+
+1882
+01:35:00,709 --> 01:35:02,043
+Hablamos el otro día.
+
+1883
+01:35:05,876 --> 01:35:07,918
+Y, em... [carraspea]
+
+1884
+01:35:11,834 --> 01:35:13,126
+Estoy enfermo, Bonnie.
+
+1885
+01:35:15,293 --> 01:35:16,334
+Ah.
+
+1886
+01:35:16,334 --> 01:35:17,626
+Diana no lo sabe.
+
+1887
+01:35:17,626 --> 01:35:18,793
+Ay, no.
+
+1888
+01:35:21,793 --> 01:35:23,501
+Quiero irme con la cabeza en alto.
+
+1889
+01:35:24,876 --> 01:35:25,709
+Sí.
+
+1890
+01:35:30,376 --> 01:35:31,251
+Como sea,
+
+1891
+01:35:32,834 --> 01:35:35,501
+pienso que queda
+una última aventura en mí.
+
+1892
+01:35:36,043 --> 01:35:36,876
+[ríe]
+
+1893
+01:35:40,626 --> 01:35:41,459
+Sí.
+
+1894
+01:35:54,876 --> 01:35:56,459
+- La nadadora.
+- La nadadora.
+
+1895
+01:35:59,251 --> 01:36:02,001
+[música suave]
+
+1896
+01:36:13,043 --> 01:36:14,459
+{\an8}66 KILÓMETROS HASTA KEY WEST
+
+1897
+01:36:14,459 --> 01:36:21,168
+{\an8}[Diana] <i>474, 475, 476.</i>
+
+1898
+01:36:40,709 --> 01:36:41,668
+[John] Oye, Bonnie.
+
+1899
+01:36:46,293 --> 01:36:48,668
+Finalmente, le dimos bien a la corriente.
+
+1900
+01:36:48,668 --> 01:36:50,126
+La arrastra hacia el norte.
+
+1901
+01:36:51,001 --> 01:36:52,959
+Solo tiene que seguir avanzando.
+
+1902
+01:36:56,959 --> 01:36:58,709
+[Bonnie] Diana. Diana.
+
+1903
+01:36:59,543 --> 01:37:00,584
+Ven aquí. Ven aquí.
+
+1904
+01:37:01,834 --> 01:37:03,376
+Eso es. Ven.
+
+1905
+01:37:03,376 --> 01:37:04,834
+Brazadas de bebé, eso es.
+
+1906
+01:37:07,376 --> 01:37:08,376
+Bien hecho.
+
+1907
+01:37:09,709 --> 01:37:10,709
+Eso es, aquí tienes.
+
+1908
+01:37:10,709 --> 01:37:13,418
+No, no voy a hacerte comer nada. No.
+
+1909
+01:37:14,918 --> 01:37:17,251
+Solo, eh, tienes que tomar líquidos.
+
+1910
+01:37:17,251 --> 01:37:19,084
+Por lo menos 130 mililitros.
+
+1911
+01:37:19,084 --> 01:37:20,126
+Los necesitas.
+
+1912
+01:37:20,793 --> 01:37:21,626
+Así me gusta.
+
+1913
+01:37:22,168 --> 01:37:23,334
+[tose]
+
+1914
+01:37:23,334 --> 01:37:24,418
+[Bonnie] Ya sé.
+
+1915
+01:37:24,418 --> 01:37:26,168
+Estás tragando mucha agua salada.
+
+1916
+01:37:27,376 --> 01:37:29,293
+- [Diana tose]
+- Sí, ¿ves?
+
+1917
+01:37:29,293 --> 01:37:31,459
+Eso es. Vas a Florida.
+
+1918
+01:37:31,459 --> 01:37:32,709
+Para allá.
+
+1919
+01:37:34,376 --> 01:37:35,959
+Vas a Florida, Key West.
+
+1920
+01:37:37,584 --> 01:37:39,293
+- Eso es. Vas muy bien.
+- [gruñe]
+
+1921
+01:37:39,293 --> 01:37:40,709
+Tienes que seguir.
+
+1922
+01:37:41,501 --> 01:37:43,668
+Casi lo logras. Eso es.
+
+1923
+01:37:44,793 --> 01:37:46,876
+Eso es. No pares.
+
+1924
+01:38:00,876 --> 01:38:02,918
+Llevamos 120 kilómetros.
+
+1925
+01:38:03,709 --> 01:38:06,084
+Es lo más lejos
+que hemos llegado hasta ahora.
+
+1926
+01:38:06,918 --> 01:38:07,751
+[Bonnie ríe]
+
+1927
+01:38:12,418 --> 01:38:14,418
+[música dramática]
+
+1928
+01:38:32,251 --> 01:38:33,376
+[inhala]
+
+1929
+01:38:34,209 --> 01:38:36,501
+No... no creí que lo vería aquí.
+
+1930
+01:38:37,751 --> 01:38:38,834
+El Taj Mahal.
+
+1931
+01:38:39,918 --> 01:38:41,334
+Es increíble.
+
+1932
+01:38:43,376 --> 01:38:45,168
+Sigue nadando hacia él, Diana.
+
+1933
+01:38:46,251 --> 01:38:47,251
+Es hacia allá.
+
+1934
+01:38:48,001 --> 01:38:50,209
+Entonces, ¿por el camino amarillo?
+
+1935
+01:38:50,209 --> 01:38:53,084
+Sip. El camino amarillo
+hacia el Taj Mahal.
+
+1936
+01:38:54,459 --> 01:38:55,543
+Sigue avanzando.
+
+1937
+01:38:58,501 --> 01:39:00,376
+- [ríe]
+- [Bonnie] Sigue avanzando.
+
+1938
+01:39:02,876 --> 01:39:03,959
+[se enciende motor]
+
+1939
+01:39:03,959 --> 01:39:05,334
+[resopla]
+
+1940
+01:39:06,918 --> 01:39:09,251
+[música etérea]
+
+1941
+01:39:11,584 --> 01:39:15,293
+[reportero 1] <i>Nyad tiene el récord mundial
+de nado de Capri a Nápoles.</i>
+
+1942
+01:39:15,293 --> 01:39:17,501
+[Diana] <i>Fantaseo con ser reconocida...</i>
+
+1943
+01:39:17,501 --> 01:39:19,251
+[reportero 2] <i>Nadó 51 kilómetros...</i>
+
+1944
+01:39:19,251 --> 01:39:22,043
+[Diana] <i>Me siento gigante,
+como una ballena.</i>
+
+1945
+01:39:22,043 --> 01:39:25,459
+<i>Tengo mucha masa muscular,
+mucha fuerza y hombros increíbles.</i>
+
+1946
+01:39:25,459 --> 01:39:28,293
+<i>Y avanzo con toda mi fuerza,
+nada me detiene.</i>
+
+1947
+01:39:28,293 --> 01:39:31,001
+<i>Creía que las gaviotas
+me picoteaban las piernas</i>
+
+1948
+01:39:31,001 --> 01:39:33,501
+<i>y que tenía toda la cara ensangrentada.</i>
+
+1949
+01:39:34,751 --> 01:39:37,334
+<i>Sesenta horas sin parar en mar abierto.</i>
+
+1950
+01:39:37,334 --> 01:39:40,251
+<i>Es como ganar una medalla de oro
+en los Juegos Olímpicos.</i>
+
+1951
+01:39:41,709 --> 01:39:46,043
+<i>Este nado es más imposible que posible.</i>
+
+1952
+01:39:46,043 --> 01:39:51,043
+<i>Siento que quedaré inmortalizada
+cuando llegue al otro lado.</i>
+
+1953
+01:39:55,543 --> 01:39:57,418
+[Diana canta "Crying" de Roy Orbison]
+
+1954
+01:39:58,584 --> 01:40:00,501
+[suena "Crying" a la par de Diana]
+
+1955
+01:40:21,876 --> 01:40:23,834
+Oye, tú. Sí, tú.
+
+1956
+01:40:24,668 --> 01:40:25,918
+Sigue nadando.
+
+1957
+01:40:52,043 --> 01:40:53,251
+[John] Bonnie. ¡Bonnie!
+
+1958
+01:40:58,959 --> 01:40:59,959
+¿Lo ves?
+
+1959
+01:41:01,668 --> 01:41:02,751
+¿Lo ves?
+
+1960
+01:41:16,459 --> 01:41:17,709
+[pitido de silbato]
+
+1961
+01:41:17,709 --> 01:41:19,084
+[canción termina]
+
+1962
+01:41:20,376 --> 01:41:21,501
+[pitido de silbato]
+
+1963
+01:41:23,918 --> 01:41:24,751
+[Bonnie] Diana.
+
+1964
+01:41:25,959 --> 01:41:27,043
+Diana.
+
+1965
+01:41:31,584 --> 01:41:32,918
+Ven aquí. Bien.
+
+1966
+01:41:32,918 --> 01:41:34,626
+Eso es, eso es.
+
+1967
+01:41:39,418 --> 01:41:41,418
+[Diana jadea]
+
+1968
+01:41:45,793 --> 01:41:47,918
+Ya no te vas a poner esa máscara otra vez.
+
+1969
+01:41:47,918 --> 01:41:48,834
+[Diana gruñe]
+
+1970
+01:41:50,584 --> 01:41:51,584
+Dame los <i>goggles</i>.
+
+1971
+01:41:52,501 --> 01:41:53,959
+- [gruñe]
+- [Bonnie] Muy bien.
+
+1972
+01:41:57,834 --> 01:41:58,668
+Diana, mírame.
+
+1973
+01:41:58,668 --> 01:42:00,001
+Necesito que me veas.
+
+1974
+01:42:00,001 --> 01:42:01,459
+- [Diana] No.
+- Mírame.
+
+1975
+01:42:01,459 --> 01:42:03,043
+- ¿Vamos mal?
+- [Bonnie] No.
+
+1976
+01:42:03,043 --> 01:42:05,293
+No. No, yo no... ¿Nos desviamos?
+
+1977
+01:42:05,293 --> 01:42:08,293
+- [Bonnie] No. No, no...
+- Lo puedo corregir. Bonnie, no...
+
+1978
+01:42:08,293 --> 01:42:09,918
+No... no me voy a salir.
+
+1979
+01:42:09,918 --> 01:42:12,459
+- Diana, para. Mira para allá.
+- Puedo corregirlo.
+
+1980
+01:42:12,459 --> 01:42:14,251
+- Mira. ¿Ves eso?
+- No voy a salir.
+
+1981
+01:42:14,251 --> 01:42:15,751
+¿Ves eso? ¿El horizonte?
+
+1982
+01:42:15,751 --> 01:42:17,084
+Mira el horizonte.
+
+1983
+01:42:17,084 --> 01:42:18,168
+¿Lo ves?
+
+1984
+01:42:18,168 --> 01:42:19,126
+[gruñe]
+
+1985
+01:42:19,126 --> 01:42:20,668
+[música emotiva]
+
+1986
+01:42:20,668 --> 01:42:21,876
+[Diana] ¿Es el sol?
+
+1987
+01:42:22,918 --> 01:42:25,584
+No, eso no es el sol, querida.
+
+1988
+01:42:26,334 --> 01:42:27,918
+Esas son las luces de Key West.
+
+1989
+01:42:28,668 --> 01:42:32,626
+Diana, a lo que me refiero
+es que no habrá otra noche.
+
+1990
+01:42:32,626 --> 01:42:34,126
+Falta un último esfuerzo.
+
+1991
+01:42:34,126 --> 01:42:35,668
+Si en verdad aún puedes,
+
+1992
+01:42:35,668 --> 01:42:37,376
+si en serio en serio puedes,
+
+1993
+01:42:37,376 --> 01:42:39,376
+entonces, llegarás a Florida hoy.
+
+1994
+01:42:39,376 --> 01:42:41,876
+Pero aún queda un tramo largo, ¿okey?
+
+1995
+01:42:41,876 --> 01:42:43,293
+Al menos 12 horas.
+
+1996
+01:42:44,251 --> 01:42:46,584
+Querida, tienes...
+tienes que hacer un esfuerzo.
+
+1997
+01:42:47,793 --> 01:42:50,084
+¿Puedes hacer un esfuerzo? Okey.
+
+1998
+01:42:53,584 --> 01:42:55,209
+Tengo que darte líquidos.
+
+1999
+01:42:55,209 --> 01:42:56,126
+[Diana gruñe]
+
+2000
+01:42:56,751 --> 01:42:59,251
+[Bonnie] Lo estás haciendo bien.
+Lo haces muy bien.
+
+2001
+01:43:00,376 --> 01:43:01,626
+[graznido de gaviotas]
+
+2002
+01:43:38,001 --> 01:43:38,834
+[carraspea]
+
+2003
+01:43:46,209 --> 01:43:47,293
+[pitido de silbato]
+
+2004
+01:43:48,209 --> 01:43:49,126
+[Bonnie] ¡Diana!
+
+2005
+01:43:49,126 --> 01:43:52,334
+Tienes que intentar nadar
+más cerca del bote.
+
+2006
+01:43:52,334 --> 01:43:54,001
+Aún no terminas.
+
+2007
+01:43:56,834 --> 01:43:57,668
+Más despacio.
+
+2008
+01:43:57,668 --> 01:43:59,751
+[motor de bote desacelera]
+
+2009
+01:44:00,251 --> 01:44:02,293
+Va en la dirección incorrecta
+y desperdicia brazadas.
+
+2010
+01:44:02,293 --> 01:44:03,334
+[Bonnie] Lo sé.
+
+2011
+01:44:03,334 --> 01:44:05,709
+Necesito otra décima de nudo
+o no podremos.
+
+2012
+01:44:05,709 --> 01:44:06,834
+Ya sé. Cállate.
+
+2013
+01:44:10,876 --> 01:44:13,418
+¿Qué estás haciendo? ¿Bonnie? ¿Bonnie?
+
+2014
+01:44:13,418 --> 01:44:14,918
+En serio. Bonnie.
+
+2015
+01:44:22,626 --> 01:44:25,584
+Diana. Diana, ¡yuju!
+
+2016
+01:44:25,584 --> 01:44:26,501
+¡Diana!
+
+2017
+01:44:27,459 --> 01:44:28,293
+Bon.
+
+2018
+01:44:28,959 --> 01:44:30,584
+Estás en el agua conmigo.
+
+2019
+01:44:31,459 --> 01:44:32,668
+[Bonnie] Escúchame.
+
+2020
+01:44:32,668 --> 01:44:35,834
+Lo que tienes que hacer
+es nadar un poco más.
+
+2021
+01:44:36,418 --> 01:44:37,584
+- ¿Okey?
+- No me toques.
+
+2022
+01:44:37,584 --> 01:44:40,043
+- No, no. No voy a tocarte.
+- No puedes tocarme.
+
+2023
+01:44:40,043 --> 01:44:41,584
+Lo haremos juntas. ¿Sí?
+
+2024
+01:44:41,584 --> 01:44:43,501
+Hacemos todo juntas, ¿no?
+
+2025
+01:44:43,501 --> 01:44:46,751
+Pero no tienes que... no tienes que pensar
+en lo que está pasando.
+
+2026
+01:44:46,751 --> 01:44:51,043
+Lo que tienes que hacer
+es regalarme un par de brazadas más.
+
+2027
+01:44:51,043 --> 01:44:52,959
+¿Okey? ¿Puedes hacerlo?
+
+2028
+01:44:52,959 --> 01:44:56,876
+¿Eh? ¿Te parecen...
+te parecen cinco... cinco brazadas buenas?
+
+2029
+01:44:57,418 --> 01:44:59,334
+- Eso. Sé que puedes.
+- [gruñe]
+
+2030
+01:44:59,334 --> 01:45:01,876
+Mira, sé que puedes,
+porque eres como una bestia.
+
+2031
+01:45:01,876 --> 01:45:03,751
+No voy a dejar que te rindas.
+
+2032
+01:45:04,334 --> 01:45:06,293
+Puedes hacerlo. Apuesto a que puedes.
+
+2033
+01:45:06,293 --> 01:45:09,168
+Dame una... una buena brazada. Hazlo por mí.
+
+2034
+01:45:09,709 --> 01:45:11,043
+Es todo. Solo una.
+
+2035
+01:45:11,043 --> 01:45:13,168
+Solo una, y luego nos vamos.
+
+2036
+01:45:13,168 --> 01:45:14,376
+Una buena brazada.
+
+2037
+01:45:16,543 --> 01:45:19,626
+Eso es. Eso es. Hermoso.
+
+2038
+01:45:20,209 --> 01:45:22,251
+Solo una brazada más. Solo una más.
+
+2039
+01:45:23,543 --> 01:45:24,376
+Eso es.
+
+2040
+01:45:24,918 --> 01:45:25,793
+Una más.
+
+2041
+01:45:26,334 --> 01:45:27,418
+[ríe]
+
+2042
+01:45:27,418 --> 01:45:29,501
+- Sí. Una más.
+- Bonnie...
+
+2043
+01:45:29,501 --> 01:45:30,959
+No, no, no, no. No hables.
+
+2044
+01:45:30,959 --> 01:45:33,084
+Solo guarda el aliento para Key West.
+
+2045
+01:45:33,084 --> 01:45:34,376
+Te amo.
+
+2046
+01:45:36,459 --> 01:45:37,459
+Yo también a ti.
+
+2047
+01:45:38,334 --> 01:45:39,793
+Por favor, una brazada más.
+
+2048
+01:45:39,793 --> 01:45:41,709
+Solo una más. Tú puedes.
+
+2049
+01:45:42,293 --> 01:45:43,126
+Eso es.
+
+2050
+01:45:43,918 --> 01:45:45,459
+Eso es, poder.
+
+2051
+01:45:45,459 --> 01:45:46,876
+Eso. ¡Poder!
+
+2052
+01:45:46,876 --> 01:45:47,959
+[música optimista]
+
+2053
+01:45:47,959 --> 01:45:49,334
+[Bonnie] Una brazada más.
+
+2054
+01:45:50,293 --> 01:45:52,001
+Eso, esa estuvo bien.
+
+2055
+01:45:52,543 --> 01:45:54,793
+Eso es. Vas hacia allá.
+
+2056
+01:45:55,709 --> 01:45:57,584
+Hacia allá. Tú puedes, amor.
+
+2057
+01:46:19,084 --> 01:46:19,918
+[John suspira]
+
+2058
+01:46:21,084 --> 01:46:23,043
+[Bonnie jadea]
+
+2059
+01:46:24,293 --> 01:46:25,168
+Presumida.
+
+2060
+01:46:26,001 --> 01:46:27,084
+¿Nos movemos o no?
+
+2061
+01:46:27,084 --> 01:46:28,334
+Nos movemos, Bon.
+
+2062
+01:46:29,001 --> 01:46:31,709
+Oigan, estamos muy cerca.
+
+2063
+01:46:33,251 --> 01:46:34,376
+¿Qué pasa, Bartlett?
+
+2064
+01:46:36,043 --> 01:46:37,209
+Lo lograrás.
+
+2065
+01:46:38,168 --> 01:46:39,126
+[se sorbe la nariz]
+
+2066
+01:46:39,126 --> 01:46:41,209
+Por cierto, tengo arena en los ojos.
+
+2067
+01:46:44,584 --> 01:46:45,584
+Acelera, Dee.
+
+2068
+01:46:46,668 --> 01:46:47,751
+¡Diana!
+
+2069
+01:46:48,626 --> 01:46:49,501
+¡Tú puedes!
+
+2070
+01:46:49,501 --> 01:46:51,418
+Claro que sí. [ríe]
+
+2071
+01:47:00,168 --> 01:47:02,168
+[música optimista se intensifica]
+
+2072
+01:47:22,459 --> 01:47:24,626
+[reportero 1] <i>Es realmente impresionante.</i>
+
+2073
+01:47:24,626 --> 01:47:27,876
+[reportero 2] <i>Su velocidad aumentó
+a mitad del recorrido</i>
+
+2074
+01:47:27,876 --> 01:47:30,668
+<i>cuando entró a la corriente rápida.</i>
+
+2075
+01:47:30,668 --> 01:47:33,834
+[reportero 3]
+<i>Nadó alrededor de 3 km/h en la corriente.</i>
+
+2076
+01:47:33,834 --> 01:47:37,418
+[reportero 4] <i>La acompañaron
+cerca de 40 personas en cuatro botes.</i>
+
+2077
+01:47:37,418 --> 01:47:40,626
+[reportero 5] <i>Desde arriba,
+vemos a Nyad en el agua cristalina,</i>
+
+2078
+01:47:40,626 --> 01:47:43,376
+<i>dando sus últimas brazadas
+hasta la costa de Key West.</i>
+
+2079
+01:47:43,376 --> 01:47:45,918
+[multitud aplaude y vitorea]
+
+2080
+01:47:51,418 --> 01:47:54,626
+[hombre en altavoz]
+¡Diana Nyad está a punto de llegar!
+
+2081
+01:48:02,126 --> 01:48:05,376
+¡Diana Nyad, señoras y señores!
+
+2082
+01:48:05,376 --> 01:48:08,418
+[multitud corea] ¡Nyad! ¡Nyad! ¡Nyad!
+
+2083
+01:48:08,418 --> 01:48:10,584
+[multitud vitorea]
+
+2084
+01:48:11,751 --> 01:48:16,126
+[multitud] ¡Nyad! ¡Nyad! ¡Nyad! ¡Nyad!
+
+2085
+01:48:28,501 --> 01:48:30,918
+[multitud vitorea]
+
+2086
+01:48:30,918 --> 01:48:33,626
+[bullicio]
+
+2087
+01:48:33,626 --> 01:48:36,168
+[Bonnie] ¡Todos para atrás!
+¡Todos para atrás!
+
+2088
+01:48:36,168 --> 01:48:38,959
+Nadie la toque. La descalificarían.
+
+2089
+01:48:38,959 --> 01:48:40,334
+¡Todo el mundo, atrás!
+
+2090
+01:48:40,334 --> 01:48:41,876
+¡Para atrás! ¡No la toquen!
+
+2091
+01:48:41,876 --> 01:48:43,668
+¡No la toquen! ¡Nadie la toque!
+
+2092
+01:48:43,668 --> 01:48:46,001
+[hombre en altavoz] ¡No lo puedo creer!
+
+2093
+01:48:46,001 --> 01:48:50,959
+¡Diana Nyad
+acaba de llegar nadando desde Cuba!
+
+2094
+01:48:52,584 --> 01:48:53,668
+Ven hacia mí.
+
+2095
+01:48:59,959 --> 01:49:00,793
+Por aquí.
+
+2096
+01:49:01,959 --> 01:49:03,751
+Okey, amiga, tú puedes.
+
+2097
+01:49:03,751 --> 01:49:04,793
+Ven para acá.
+
+2098
+01:49:04,793 --> 01:49:05,876
+Vamos, Diana.
+
+2099
+01:49:07,918 --> 01:49:09,251
+Okey, ya lo lograste.
+
+2100
+01:49:22,376 --> 01:49:23,209
+Vamos, amor.
+
+2101
+01:49:23,793 --> 01:49:26,668
+Tienes que seguir moviéndote.
+Eso es, aquí estoy.
+
+2102
+01:49:26,668 --> 01:49:29,001
+Aquí estoy, querida. Adelante.
+
+2103
+01:49:30,126 --> 01:49:32,793
+Un paso más.
+Necesitamos dos tobillos fuera del agua.
+
+2104
+01:49:32,793 --> 01:49:35,043
+Dos tobillos fuera del agua.
+Puedes hacerlo.
+
+2105
+01:49:35,043 --> 01:49:37,709
+Debes hacerlo tú, nadie más.
+Un par de metros más.
+
+2106
+01:49:38,709 --> 01:49:39,876
+Un paso a la vez.
+
+2107
+01:49:41,001 --> 01:49:42,584
+Necesito dos tobillos fuera.
+
+2108
+01:49:43,251 --> 01:49:45,168
+Avanza. Avanza, aquí estoy.
+
+2109
+01:49:45,793 --> 01:49:47,084
+Lo haces muy bien.
+
+2110
+01:49:47,084 --> 01:49:48,418
+Solo uno primero.
+
+2111
+01:49:50,876 --> 01:49:51,959
+Tú puedes.
+
+2112
+01:49:52,959 --> 01:49:53,793
+Tú puedes.
+
+2113
+01:49:54,459 --> 01:49:55,709
+Okey, cuidado, cuidado.
+
+2114
+01:49:55,709 --> 01:49:58,293
+Eso es, eso es. Ya. Dos tobillos afuera.
+
+2115
+01:49:58,293 --> 01:50:00,459
+- Sí.
+- [multitud vitorea con fuerza]
+
+2116
+01:50:00,459 --> 01:50:02,751
+[música emotiva]
+
+2117
+01:50:05,376 --> 01:50:07,209
+Lo hicimos. Lo hicimos.
+
+2118
+01:50:08,668 --> 01:50:09,626
+[solloza]
+
+2119
+01:50:28,709 --> 01:50:31,918
+[Diana solloza y jadea]
+
+2120
+01:50:33,918 --> 01:50:35,543
+[sin aliento] Solo quiero decir...
+
+2121
+01:50:36,418 --> 01:50:37,418
+tres cosas.
+
+2122
+01:50:39,001 --> 01:50:39,959
+Una,
+
+2123
+01:50:41,834 --> 01:50:44,543
+nunca en la vida se rindan.
+
+2124
+01:50:44,543 --> 01:50:45,876
+- [vítores]
+- [Bonnie ríe]
+
+2125
+01:50:46,668 --> 01:50:47,501
+Dos,
+
+2126
+01:50:48,834 --> 01:50:52,709
+nunca eres muy viejo
+para alcanzar tus sueños.
+
+2127
+01:50:55,001 --> 01:50:56,126
+Y tres,
+
+2128
+01:50:57,918 --> 01:51:01,001
+parece un deporte solitario,
+
+2129
+01:51:01,751 --> 01:51:03,876
+pero se necesita un equipo.
+
+2130
+01:51:03,876 --> 01:51:04,793
+Exacto.
+
+2131
+01:51:04,793 --> 01:51:06,376
+[multitud vitorea con fuerza]
+
+2132
+01:51:06,376 --> 01:51:08,001
+[Diana llora]
+
+2133
+01:51:09,834 --> 01:51:11,959
+[grita]
+
+2134
+01:51:36,793 --> 01:51:40,168
+Diana Nyad logró su sueño
+de nadar de Cuba a Florida
+
+2135
+01:51:40,168 --> 01:51:42,709
+el 2 de septiembre de 2013.
+
+2136
+01:51:42,709 --> 01:51:48,251
+La acompañaron 40 personas
+en botes junto al Voyager,
+
+2137
+01:51:48,251 --> 01:51:51,251
+quienes presenciaron su increíble hazaña.
+
+2138
+01:51:51,251 --> 01:51:53,334
+El recorrido es de 165 kilómetros.
+
+2139
+01:51:53,334 --> 01:51:56,084
+Debido a las corrientes,
+Nyad nadó 177 kilómetros.
+
+2140
+01:51:56,084 --> 01:51:57,751
+Tardó 52 horas y 54 min.
+
+2141
+01:51:57,751 --> 01:52:01,001
+Cinco intentos
+
+2142
+01:52:01,001 --> 01:52:04,709
+y 35 años.
+
+2143
+01:52:04,709 --> 01:52:08,084
+[suena "Find a Way" de Jade Bird]
+
+2144
+01:52:10,668 --> 01:52:17,584
+{\an8}Diana y Bonnie aún se ven todos los días.
+
+2145
+01:52:18,459 --> 01:52:19,668
+[en inglés] ¡Lo hicimos!
+
+2146
+01:52:20,668 --> 01:52:22,709
+{\an8}EXPERTO EN TIBURONES
+
+2147
+01:52:23,668 --> 01:52:26,209
+{\an8}BIOQUÍMICA / EXPERTA EN CUBOMEDUSAS
+
+2148
+01:52:27,168 --> 01:52:30,334
+{\an8}CAPITANA
+
+2149
+01:52:30,334 --> 01:52:32,459
+{\an8}Tuvimos suerte con la corriente a favor.
+
+2150
+01:52:32,459 --> 01:52:35,001
+{\an8}A LA MEMORIA DE JOHN BARTLETT, NAVEGANTE
+1947-2013
+
+2151
+01:52:35,001 --> 01:52:37,084
+{\an8}<i>Siempre supe que Diana lo lograría.</i>
+
+2152
+01:52:37,084 --> 01:52:39,084
+<i>Los componentes justos se alinearon.</i>
+
+2153
+01:52:56,168 --> 01:52:59,418
+[reportero] ¿Cómo te sientes
+al ver tanta gente que te apoya?
+
+2154
+01:52:59,418 --> 01:53:01,126
+Bien. Fue bonito.
+
+2155
+01:53:01,126 --> 01:53:03,543
+Vi sus expresiones.
+
+2156
+01:53:03,543 --> 01:53:08,126
+Les encanta ver a alguien de mi edad
+hacer algo que nadie había hecho.
+
+2157
+01:53:10,084 --> 01:53:12,959
+Lo tercero que dije en esa playa
+fue que somos un equipo.
+
+2158
+01:53:12,959 --> 01:53:16,001
+Y si creen que soy fuerte,
+deberían conocer a Bonnie.
+
+2159
+01:53:16,001 --> 01:53:20,043
+- ¿Bonnie?
+- Me dio la mano y es fuerte.
+
+2160
+01:53:20,043 --> 01:53:22,084
+Diana es buena contando anécdotas.
+
+2161
+01:53:22,084 --> 01:53:23,751
+Pero cuando habla sobre mí,
+
+2162
+01:53:23,751 --> 01:53:25,543
+no me gusta cómo exagera todo.
+
+2163
+01:53:25,543 --> 01:53:27,709
+- No es exacta...
+- [público ríe]
+
+2164
+01:53:27,709 --> 01:53:29,209
+La idea general es esa,
+
+2165
+01:53:30,293 --> 01:53:33,084
+pero nunca es exactamente como ella dice.
+
+2166
+01:53:33,084 --> 01:53:34,793
+[público ríe]
+
+2167
+01:53:34,793 --> 01:53:36,168
+Gracias.
+
+2168
+01:53:36,168 --> 01:53:39,793
+Diana Nyad, te desafío.
+
+2169
+01:53:39,793 --> 01:53:41,376
+Te acobardaste.
+
+2170
+01:53:41,376 --> 01:53:45,584
+Nadaste a Cuba con tiburones y medusas,
+
+2171
+01:53:45,584 --> 01:53:48,501
+pero ¿tienes miedo de luchar conmigo?
+
+2172
+01:53:48,501 --> 01:53:51,084
+{\an8}¿Viniste a Estados Unidos en barco? ¡Oh!
+
+2173
+01:53:51,084 --> 01:53:52,793
+[inaudible]
+
+2174
+01:54:01,459 --> 01:54:03,376
+No quiero ser la señora loca...
+
+2175
+01:54:03,376 --> 01:54:06,001
+[público ríe]
+
+2176
+01:54:06,001 --> 01:54:08,668
+...que hace esto una y otra vez,
+
+2177
+01:54:08,668 --> 01:54:11,501
+que fracasa una y otra vez hasta los 90.
+
+2178
+01:54:14,084 --> 01:54:15,918
+Nadaba con esto.
+
+2179
+01:54:15,918 --> 01:54:19,209
+{\an8}No sabía que usabas esto.
+Pensé: "Cómo ha cambiado".
+
+2180
+01:54:29,584 --> 01:54:30,918
+¡Sí!
+
+2181
+01:54:30,918 --> 01:54:32,418
+Si la canto mil veces,
+
+2182
+01:54:32,418 --> 01:54:36,293
+son nueve horas y 45 minutos al ritmo.
+
+2183
+01:54:39,626 --> 01:54:41,084
+{\an8}Cruzaré el país caminando.
+
+2184
+01:54:59,084 --> 01:55:02,418
+Cerré los ojos, apreté los puños,
+
+2185
+01:55:02,418 --> 01:55:04,751
+lo dije, y lo dije en serio.
+
+2186
+01:55:04,751 --> 01:55:09,084
+No pude haberlo hecho
+ni un segundo más rápido.
+
+2187
+01:55:09,084 --> 01:55:10,209
+[canción termina]
+
+2188
+01:55:24,001 --> 01:55:28,043
+Tienes que despertar
+y hacerlo una y otra vez hasta llegar.
+
+2189
+01:55:28,043 --> 01:55:30,751
+A las 4:00, depende del día,
+
+2190
+01:55:30,751 --> 01:55:33,876
+hoy fue a las 4:45, voy a entrenar.
+
+2191
+01:55:33,876 --> 01:55:35,543
+Mis vecinos... Está oscuro.
+
+2192
+01:55:35,543 --> 01:55:38,918
+Mis vecinos están durmiendo, y toco...
+
+2193
+01:55:38,918 --> 01:55:43,834
+[toca melodía militar]
+
+2194
+01:55:43,834 --> 01:55:45,168
+¡Señal para levantarse!
+
+2195
+01:55:45,168 --> 01:55:46,918
+[Diana] Si esta es mi navegación...
+
+2196
+01:55:46,918 --> 01:55:51,293
+- [Bonnie] Es lo que usamos el año pasado.
+- [Diana] Este año no será igual.
+
+2197
+01:55:51,293 --> 01:55:53,918
+[música suave]
+
+2198
+01:59:37,501 --> 01:59:39,043
+[música termina]
+

@@ -1,0 +1,80 @@
+1
+00:13:35,022 --> 00:13:38,150
+<i>[En Náhuatl] ¿De dónde eres?</i>
+
+2
+00:13:48,702 --> 00:13:51,539
+<i>[En Náhuatl] ¿Cada cuándo vas a ir?</i>
+
+3
+00:41:29,111 --> 00:41:31,697
+<i>[En Náhuatl] Hijo.</i>
+
+4
+00:41:46,754 --> 00:41:49,215
+<i>[En Náhuatl] ¿No ibas a llegar a las tres?</i>
+
+5
+00:41:59,975 --> 00:42:04,146
+<i>[En Náhuatl] Tu tío no me puede llevar
+mañana a la clínica.</i>
+
+6
+00:43:09,753 --> 00:43:13,007
+<i>[En Náhuatl] ¿Y yo no te importo?</i>
+
+7
+00:44:15,527 --> 00:44:17,738
+<i>[En Náhuatl] ¿Qué pasa?</i>
+
+8
+00:44:21,700 --> 00:44:24,078
+<i>[En Náhuatl] Sí.</i>
+
+9
+00:44:26,997 --> 00:44:29,041
+<i>[En Náhuatl] No.</i>
+
+10
+00:44:33,212 --> 00:44:36,215
+<i>[En Náhuatl] Gracias.</i>
+
+11
+00:56:41,523 --> 00:56:45,652
+<i>[En Náhuatl] Aquí somos igual a todos.</i>
+
+12
+00:58:49,025 --> 00:58:51,277
+<i>[En Náhuatl] Gracias.</i>
+
+13
+01:16:26,373 --> 01:16:30,752
+<i>- [En Náhuatl] ¿Cómo has estado?
+- [En Náhuatl] Más o menos.</i>
+
+14
+01:16:44,349 --> 01:16:47,227
+<i>[En Náhuatl] Hola. ¿Cómo estás?</i>
+
+15
+01:16:48,645 --> 01:16:50,939
+<i>[En Náhuatl] Párate y saluda bien.</i>
+
+16
+01:16:50,939 --> 01:16:53,525
+<i>[En Náhuatl] No te preocupes.</i>
+
+17
+01:16:53,525 --> 01:16:56,236
+<i>[En Náhuatl] Debe estar cansado.</i>
+
+18
+01:17:02,075 --> 01:17:05,495
+<i>[En Náhuatl] ¿Cómo estás?
+¿Cómo va eso de la escuela?</i>
+
+19
+01:17:07,873 --> 01:17:14,880
+<i>[En Náhuatl] Vas a ser una máquina.
+No nos olvides cuando haya dinero.</i>
+

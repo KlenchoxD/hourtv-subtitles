@@ -1,0 +1,21 @@
+1
+00:06:45,166 --> 00:06:47,083
+ <i>Deje su mensaje.</i>
+
+2
+00:06:47,166 --> 00:06:48,541
+<i>Cuando termine de grabar,</i>
+
+3
+00:06:48,625 --> 00:06:51,625
+<i>cuelgue o presione numeral</i>
+<i>para más opciones.</i>
+
+4
+00:44:53,875 --> 00:44:57,333
+<i>Este es el correo de voz de…</i>
+
+5
+00:44:57,416 --> 00:44:58,958
+<i>Después de la señal, deje…</i>
+

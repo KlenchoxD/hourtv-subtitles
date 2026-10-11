@@ -1,0 +1,5468 @@
+1
+00:01:14,658 --> 00:01:19,413
+29 DE DICIEMBRE DE 2022
+AINCRAD, PISO CUATRO
+
+2
+00:01:29,298 --> 00:01:31,133
+No te pongas demasiado tenso.
+
+3
+00:01:32,259 --> 00:01:34,261
+¡No me trates como a un novato!
+
+4
+00:01:36,179 --> 00:01:38,974
+¿Y no necesitas reparar tu arma, Kirito?
+
+5
+00:01:39,349 --> 00:01:42,019
+Por supuesto.
+Me encargué de eso ayer.
+
+6
+00:01:42,144 --> 00:01:42,978
+¿Qué hay de ti, Asuna?
+
+7
+00:01:50,485 --> 00:01:51,737
+¡Supongo que debería haberme ahorrado el aliento!
+
+8
+00:01:52,821 --> 00:01:55,699
+Con seguridad.
+Esta espada es mi bebé, después de todo.
+
+9
+00:02:05,542 --> 00:02:08,086
+Está bien, es hora.
+¿Por qué no empezamos?
+
+10
+00:02:08,962 --> 00:02:14,092
+Para aquellos de ustedes que no me conocen,
+soy Lind de Dragon Knights Brigade.
+
+11
+00:02:14,217 --> 00:02:16,720
+Soy tu líder de incursión para esta misión.
+
+12
+00:02:17,304 --> 00:02:18,472
+¡Encantado de conocerlos a todos!
+
+13
+00:02:20,599 --> 00:02:23,769
+BRIGADA DE LOS CABALLEROS DEL DRAGÓN DEL GREMIO
+(DKB)
+
+14
+00:02:27,731 --> 00:02:28,482
+¡Eh!
+
+15
+00:02:28,607 --> 00:02:31,693
+Soy Kibaou del Escuadrón de Liberación de Aincrad.
+
+16
+00:02:31,818 --> 00:02:34,529
+Seré su sub-líder hoy.
+¡Hagámoslo!
+
+17
+00:02:35,405 --> 00:02:37,783
+ESCUADRÓN
+DE LIBERACIÓN DE AINCRAD DEL GREMIO (ALS)
+
+18
+00:02:40,994 --> 00:02:45,332
+Sobre los patrones de ataque del jefe y el rol de cada escuadrón,
+es como lo expliqué anteriormente.
+
+19
+00:02:48,919 --> 00:02:51,713
+¡No podríamos haber llegado tan lejos
+sin todos ustedes, los mejores jugadores!
+
+20
+00:02:51,838 --> 00:02:58,303
+Y si puedes prestarle esas habilidades tuyas a este líder, ¡
+estoy seguro de que también podemos derrotar a este Floor Boss!
+
+21
+00:02:58,428 --> 00:03:04,309
+¡Líder, mi ojo! Todo lo que hiciste
+fue encontrar la Sala del Jefe un segundo antes que nosotros.
+
+22
+00:03:04,768 --> 00:03:06,895
+Pero sabes que esas son las reglas.
+
+23
+00:03:07,020 --> 00:03:08,522
+¿No me digas que te sientes mal por eso ahora?
+
+24
+00:03:08,647 --> 00:03:10,691
+¡Eh! Yo no diría eso.
+
+25
+00:03:12,984 --> 00:03:15,821
+¡Escuchen!
+¡Llegaremos al quinto piso hoy!
+
+26
+00:03:16,321 --> 00:03:17,572
+¡Sí! ¡Tu lo dijiste!
+
+27
+00:04:25,515 --> 00:04:28,018
+¡Ya casi llegamos, muchachos!
+¡Solo continúa!
+
+28
+00:04:28,518 --> 00:04:29,644
+¡Bien!
+
+29
+00:04:30,687 --> 00:04:32,063
+¡Tus indicadores acaban de caer!
+
+30
+00:04:32,189 --> 00:04:33,815
+¡Escuadrón D, prepárense para cambiar!
+
+31
+00:04:33,940 --> 00:04:35,650
+¡Escuadrón A, prepárense para cargar!
+
+32
+00:04:37,110 --> 00:04:39,571
+¿Qué demonios?
+¡Aún no hemos terminado!
+
+33
+00:04:39,780 --> 00:04:42,073
+¡Soy tu líder!
+¡Quédate con la rotación!
+
+34
+00:04:42,491 --> 00:04:46,161
+¡ Suena como una excusa para tomar
+el último ataque para ustedes!
+
+35
+00:04:46,286 --> 00:04:47,162
+¡Es claro como el día!
+
+36
+00:04:47,579 --> 00:04:49,206
+No puedes hablar en serio.
+
+37
+00:04:49,331 --> 00:04:50,373
+¡Está viniendo!
+
+38
+00:05:08,725 --> 00:05:09,434
+¡Asuna!
+
+39
+00:05:14,314 --> 00:05:14,981
+Kirito!
+
+40
+00:05:16,525 --> 00:05:17,234
+¡Argón!
+
+41
+00:05:18,944 --> 00:05:19,736
+¡Aquí vamos!
+
+42
+00:05:38,129 --> 00:05:38,964
+¡Vamos, Asuna!
+
+43
+00:05:39,089 --> 00:05:39,756
+¡Bien!
+
+44
+00:06:07,033 --> 00:06:09,619
+¿Te alejarías de mí ya, Kibaou?
+
+45
+00:06:09,744 --> 00:06:12,455
+¿Qué tal si quitas a tus muchachos de encima de mí primero?
+
+46
+00:06:25,969 --> 00:06:33,852
+SWORD ART ONLINE LA PELÍCULA -PROGRESIVO-
+SCHERZO DE LA NOCHE PROFUNDA
+
+47
+00:06:34,102 --> 00:06:37,939
+29 DE DICIEMBRE DE 2022
+AINCRAD, PISO CINCO, KARLUIN
+
+48
+00:06:45,238 --> 00:06:47,407
+Muy bien,
+para celebrar haber llegado al quinto piso...
+
+49
+00:06:48,033 --> 00:06:48,867
+¡Salud!
+
+50
+00:06:49,659 --> 00:06:51,202
+¡Salud!
+
+51
+00:06:52,996 --> 00:06:53,914
+...Salud.
+
+52
+00:06:56,917 --> 00:06:58,543
+¡Oiga, señorita! ¡Golpéame de nuevo!
+
+53
+00:06:58,835 --> 00:07:01,838
+Te debemos mucho
+por ayudarnos en ese Boss Raid, Argo.
+
+54
+00:07:01,963 --> 00:07:07,427
+Dado que no tuve la oportunidad de poner el consejo sobre
+la posibilidad de que Boss Room se inunde en mi guía de estrategia,
+
+55
+00:07:07,552 --> 00:07:09,721
+eso era lo menos que podía hacer.
+
+56
+00:07:10,221 --> 00:07:12,807
+Para ser honesto,
+estaba seguro de que me rechazarías.
+
+57
+00:07:13,058 --> 00:07:15,936
+¡No hace falta decir que
+recibirás mi factura más tarde!
+
+58
+00:07:16,478 --> 00:07:18,188
+Oye, sé fácil conmigo, ¿de acuerdo?
+
+59
+00:07:19,981 --> 00:07:23,902
+Aún así, despejar el piso cuatro tomó alrededor de una semana, ¿eh?
+
+60
+00:07:24,027 --> 00:07:25,779
+Más rápido de lo que pensaba.
+
+61
+00:07:27,197 --> 00:07:30,951
+Teniendo en cuenta que el primer piso tardó un mes entero en despejarse...
+
+62
+00:07:31,076 --> 00:07:34,454
+Si mantenemos este ritmo,
+podemos llegar al piso seis antes de que termine el año, ¿eh?
+
+63
+00:07:34,579 --> 00:07:37,540
+De ninguna manera, solo quedan dos días en el año.
+
+64
+00:07:37,666 --> 00:07:39,793
+Yo no llamaría a eso factible... ¿Eh?
+
+65
+00:07:43,046 --> 00:07:45,632
+¿Asuna?
+
+66
+00:07:45,757 --> 00:07:47,842
+De ninguna manera no fue simultáneo.
+
+67
+00:07:47,968 --> 00:07:49,594
+¿Eh? ¿Lo que era?
+
+68
+00:07:49,719 --> 00:07:51,471
+¡Esa bonificación del último ataque!
+
+69
+00:07:51,596 --> 00:07:54,307
+Oh, eh... bueno...
+
+70
+00:07:57,727 --> 00:08:02,816
+Ese último movimiento... nuestras habilidades con la espada aterrizaron
+al mismo tiempo, ¡y lo sabes!
+
+71
+00:08:02,941 --> 00:08:03,942
+R-Derecha.
+
+72
+00:08:04,109 --> 00:08:07,070
+¿Y eso te da derecho
+a la bonificación porque...?
+
+73
+00:08:07,862 --> 00:08:10,573
+Uh... bueno, eso es porque...
+
+74
+00:08:10,699 --> 00:08:15,161
+Supongo que mi habilidad debe haber aterrizado
+una fracción de segundo antes que la tuya. ¿Suena bien?
+
+75
+00:08:15,286 --> 00:08:18,039
+Oh, no... ¡fue simultáneo!
+
+76
+00:08:18,915 --> 00:08:21,835
+- Pero el sistema reconoció mi habilidad como primera.
+- Gracias por su paciencia.
+
+77
+00:08:21,960 --> 00:08:22,627
+¡Oye, aquí está!
+
+78
+00:08:22,752 --> 00:08:25,213
+¡Vamos, Argo, díselo!
+
+79
+00:08:25,338 --> 00:08:28,008
+No me metas en tu pelea de pareja.
+
+80
+00:08:28,466 --> 00:08:29,175
+¿eh? 
+Coume?
+
+81
+00:08:29,718 --> 00:08:30,927
+De todos modos, Aachan.
+
+82
+00:08:31,052 --> 00:08:33,054
+Pásame ese pollo asado de ahí,
+¿quieres?
+
+83
+00:08:33,847 --> 00:08:35,432
+S-Claro.
+
+84
+00:08:38,518 --> 00:08:41,271
+Pero tienes razón,
+vamos a un ritmo vertiginoso.
+
+85
+00:08:41,396 --> 00:08:42,230
+¿Eh? ¿Para qué?
+
+86
+00:08:42,814 --> 00:08:43,982
+estos allanamientos.
+
+87
+00:08:44,357 --> 00:08:46,151
+Pisos dos, tres y cuatro.
+
+88
+00:08:46,276 --> 00:08:48,361
+El ritmo solo está aumentando.
+
+89
+00:08:48,486 --> 00:08:54,826
+Eso es gracias a que el ALS de Kibaou
+y el DKB de Lind intentan descaradamente superarse entre sí.
+
+90
+00:08:54,951 --> 00:09:00,206
+Lo que ha llevado a buenos resultados hasta ahora,
+pero sigue siendo un enfoque tan defectuoso.
+
+91
+00:09:01,791 --> 00:09:05,754
+Tampoco estuvieron sincronizados
+durante el Boss Raid de ayer.
+
+92
+00:09:07,297 --> 00:09:10,967
+Bueno, esos tipos siguen metiéndose en eso
+cada vez que se encuentran.
+
+93
+00:09:11,968 --> 00:09:16,723
+El equipo de asalto que tenemos hoy
+es una rama del equipo de ataque de Diabel, ¿verdad?
+
+94
+00:09:16,848 --> 00:09:20,143
+Y dado que Diabel fue asesinada
+en el ataque al jefe del primer piso,
+
+95
+00:09:20,268 --> 00:09:24,189
+Lind se hizo cargo y creó DKB, ¿verdad?
+
+96
+00:09:24,314 --> 00:09:28,359
+Pero luego Kibaou comenzó a irritarse contra
+los métodos orientados al liderazgo de Lind,
+
+97
+00:09:28,485 --> 00:09:31,237
+y comenzó el ALS más orientado al trabajo en equipo.
+
+98
+00:09:31,696 --> 00:09:36,659
+Ambos gremios se ven a sí mismos
+como el equipo de asalto principal.
+
+99
+00:09:36,785 --> 00:09:41,873
+La manera de Lind es tratar de despejar el juego dando
+a los mejores jugadores la mayor parte de los recursos,
+
+100
+00:09:41,998 --> 00:09:46,127
+pero Kibaou siempre habla sobre cómo
+se deben distribuir los recursos tanto como sea posible.
+
+101
+00:09:47,003 --> 00:09:50,632
+Ambos están compitiendo para ser el sucesor de Diabel,
+
+102
+00:09:50,757 --> 00:09:53,051
+pero sus filosofías son exactamente opuestas.
+
+103
+00:09:53,593 --> 00:09:59,557
+¿ Pero DKB y ALS no planearon
+juntos la fiesta de la cuenta regresiva?
+
+104
+00:09:59,682 --> 00:10:02,227
+Entonces, ¿por qué no tratar de llevarse bien fuera de las redadas también?
+
+105
+00:10:02,769 --> 00:10:07,273
+Bueno, apuesto a que ni siquiera esos dos gremios quieren
+pelearse por el Año Nuevo.
+
+106
+00:10:07,398 --> 00:10:08,066
+¿eh?
+
+107
+00:10:09,275 --> 00:10:11,361
+Espera, ¿de qué estás hablando?
+
+108
+00:10:13,530 --> 00:10:16,741
+Ki-boy... espera...
+No me digas...
+
+109
+00:10:16,866 --> 00:10:18,701
+¿Nadie te ha invitado?
+
+110
+00:10:20,245 --> 00:10:22,872
+¿Me invitó a qué, exactamente?
+
+111
+00:10:22,997 --> 00:10:23,873
+Ahora, ahora, escúchame.
+
+112
+00:10:23,998 --> 00:10:27,043
+¿No dijiste que
+solo quedaban dos días en el año?
+
+113
+00:10:27,168 --> 00:10:28,920
+Entonces, ¿qué es el día después de mañana?
+
+114
+00:10:29,045 --> 00:10:32,382
+Bueno, por supuesto. 31 de diciembre, ¿verdad?
+
+115
+00:10:34,134 --> 00:10:36,511
+¿Eh qué?
+¿Qué está sucediendo?
+
+116
+00:10:37,011 --> 00:10:39,139
+En esa misma noche,
+la víspera de Año Nuevo,
+
+117
+00:10:39,264 --> 00:10:42,433
+los dos gremios principales
+están celebrando una fiesta conjunta de cuenta regresiva.
+
+118
+00:10:42,934 --> 00:10:46,229
+¡Oye... eso es una novedad para mí!
+
+119
+00:10:51,985 --> 00:10:56,114
+Por cierto, ¿te importaría decirme
+quién te lo contó, Asuna?
+
+120
+00:10:56,239 --> 00:10:58,408
+Era Shivata de DKB.
+
+121
+00:10:59,075 --> 00:11:00,869
+¿Oh?
+
+122
+00:11:01,202 --> 00:11:05,456
+Bueno, también recibí un montón de mensajes instantáneos
+de otras personas.
+
+123
+00:11:06,166 --> 00:11:07,917
+¿Oh?
+
+124
+00:11:08,251 --> 00:11:10,503
+¡No tienes que ponerte todo malhumorado!
+
+125
+00:11:10,879 --> 00:11:12,297
+¿Quién está de mal humor?
+
+126
+00:11:12,422 --> 00:11:15,216
+¡Los jugadores en solitario no son del tipo de fiesta, de todos modos!
+
+127
+00:11:15,341 --> 00:11:16,009
+¿eh?
+
+128
+00:11:16,676 --> 00:11:21,890
+¿Oh? Entonces, ¿realmente crees que estás jugando solo?
+
+129
+00:11:23,766 --> 00:11:25,018
+¡ ¡Ji ji ji!
+
+130
+00:11:25,894 --> 00:11:27,187
+¿Cuál es tu problema?
+
+131
+00:11:27,312 --> 00:11:29,939
+¡No, no, no te preocupes por mí!
+
+132
+00:11:30,523 --> 00:11:33,234
+Está bien,
+creo que voy a rebotar.
+
+133
+00:11:33,359 --> 00:11:35,987
+¿Qué, ya?
+Pero se acerca el postre...
+
+134
+00:11:36,446 --> 00:11:41,993
+Bueno, necesito recopilar algunos datos sobre las misiones de esta ciudad
+y los artículos que venden aquí.
+
+135
+00:11:42,118 --> 00:11:45,246
+¡Nos vemos, Aachan, Ki-boy!
+
+136
+00:11:47,707 --> 00:11:49,751
+- Oye, casi lo olvido. Aachan?
+- ¿Mmm?
+
+137
+00:11:50,418 --> 00:11:53,963
+Eso que me preguntaste,
+voy a necesitar un poco más de tiempo.
+
+138
+00:11:54,088 --> 00:11:55,882
+Te enviaré un mensaje tan pronto
+como sepa más, ¿de acuerdo?
+
+139
+00:11:56,216 --> 00:11:57,425
+¡Bueno! Entendido.
+
+140
+00:12:05,308 --> 00:12:08,436
+Te he traído tus tartas de Blue-Blueberry para el postre.
+
+141
+00:12:12,774 --> 00:12:15,151
+¿Serán suficientes dos porciones?
+
+142
+00:12:15,568 --> 00:12:17,862
+Sí. Gracias.
+
+143
+00:12:20,782 --> 00:12:22,825
+¡Guau! ¡Se ven deliciosos!
+
+144
+00:12:24,535 --> 00:12:27,664
+¡ Estas tartas son artículos de menú limitados
+que vienen con un beneficio!
+
+145
+00:12:28,039 --> 00:12:30,875
+Por beneficios,
+te refieres a efectos de estado, ¿verdad?
+
+146
+00:12:31,793 --> 00:12:34,003
+Sin embargo, se parecen a las típicas tartas de arándanos.
+
+147
+00:12:34,879 --> 00:12:36,631
+Entonces, ¿qué tipo de efectos tienen?
+
+148
+00:12:36,756 --> 00:12:39,050
+¡Tendrás que indagar para averiguarlo!
+
+149
+00:12:52,063 --> 00:12:54,023
+¡Mmm delicioso!
+
+150
+00:12:56,234 --> 00:12:58,152
+Este icono... ¿qué es?
+
+151
+00:12:58,278 --> 00:13:00,405
+Fíjese bien
+en el suelo que nos rodea.
+
+152
+00:13:02,782 --> 00:13:03,533
+Oh.
+
+153
+00:13:04,325 --> 00:13:05,702
+Hay algo por ahí.
+
+154
+00:13:15,378 --> 00:13:16,546
+¿Qué es esto?
+
+155
+00:13:16,921 --> 00:13:18,256
+¿Alguien lo dejó caer?
+
+156
+00:13:21,551 --> 00:13:23,886
+No, es una reliquia.
+
+157
+00:13:24,554 --> 00:13:27,056
+El piso cinco se basa en ruinas antiguas.
+
+158
+00:13:27,181 --> 00:13:30,018
+Puedes encontrar pequeñas reliquias
+como esta por todas partes.
+
+159
+00:13:30,143 --> 00:13:34,022
+En un día o dos, toneladas de jugadores
+de los pisos inferiores estarán aquí,
+
+160
+00:13:34,397 --> 00:13:37,275
+así que probablemente habrá
+un festival de búsqueda de reliquias en toda la ciudad.
+
+161
+00:13:37,608 --> 00:13:39,193
+¿En realidad?
+
+162
+00:13:41,154 --> 00:13:41,821
+¡Oh!
+
+163
+00:13:45,908 --> 00:13:47,076
+¡Encontré otro!
+
+164
+00:13:47,201 --> 00:13:49,704
+Mejor no dejarse atrapar por la búsqueda de reliquias aquí.
+
+165
+00:13:50,079 --> 00:13:54,083
+En los juegos normales, te muestran dónde
+están los elementos en los mapas,
+
+166
+00:13:54,208 --> 00:13:56,294
+o los elementos se iluminarán en la pantalla,
+
+167
+00:13:56,419 --> 00:13:58,921
+pero en "SAO",
+simplemente se dejan caer al suelo.
+
+168
+00:13:59,255 --> 00:14:01,841
+¿Qué?
+Pero puedo verlos brillar.
+
+169
+00:14:04,052 --> 00:14:06,429
+¡Oh! Así que este beneficio es...
+
+170
+00:14:06,554 --> 00:14:12,018
+Sí. Son una oferta increíble en forma
+de monedas caídas o joyas que brillan débilmente.
+
+171
+00:14:12,185 --> 00:14:12,977
+¿Joyas?
+
+172
+00:14:13,353 --> 00:14:14,645
+S-Sí.
+
+173
+00:14:16,564 --> 00:14:18,566
+¿Cuánto dura este beneficio?
+
+174
+00:14:20,943 --> 00:14:21,736
+¿eh?
+
+175
+00:14:23,279 --> 00:14:26,282
+A mí también me gustaría ir a buscar reliquias.
+
+176
+00:14:35,083 --> 00:14:36,209
+Ahora entiendo lo que quieres decir.
+
+177
+00:14:36,334 --> 00:14:38,836
+Tienes razón, ¡
+ser absorbido por esto es una mala noticia!
+
+178
+00:14:38,961 --> 00:14:44,509
+¿Bien? Durante la prueba beta, algunos jugadores incluso
+se convirtieron en especialistas en la búsqueda de reliquias en el acto.
+
+179
+00:14:44,634 --> 00:14:47,678
+Fueron llamados "acumuladores de reliquias"
+con el mayor respeto...
+
+180
+00:14:47,804 --> 00:14:50,014
+¿Se supone que eso es respetuoso?
+
+181
+00:14:50,807 --> 00:14:54,727
+¿ Pero crees que está bien
+que recojamos tantos?
+
+182
+00:14:54,852 --> 00:14:55,853
+Eres tan considerado.
+
+183
+00:14:56,104 --> 00:14:57,271
+¿E-eh?
+
+184
+00:14:57,772 --> 00:14:59,982
+Oye... no es como yo...
+
+185
+00:15:00,108 --> 00:15:02,276
+No tienes que
+sentirte mal por eso, Asuna.
+
+186
+00:15:02,402 --> 00:15:08,324
+De todas las reliquias esparcidas por esta ciudad,
+lo que acabamos de reunir es solo una gota en el océano.
+
+187
+00:15:08,449 --> 00:15:13,913
+Y de todos modos, en lo que respecta a la búsqueda del tesoro en el juego,
+la búsqueda de reliquias en la ciudad es solo una ventaja.
+
+188
+00:15:14,664 --> 00:15:16,749
+¿Oh? ¿Que se supone que significa eso?
+
+189
+00:15:17,375 --> 00:15:20,461
+Debajo de nosotros hay algunas catacumbas increíblemente grandes.
+
+190
+00:15:20,753 --> 00:15:22,964
+En otras palabras,
+hay una gran mazmorra,
+
+191
+00:15:23,089 --> 00:15:24,924
+y ahí es donde se llevan a cabo las verdaderas búsquedas del tesoro.
+
+192
+00:15:25,383 --> 00:15:29,303
+Para ser honesto, las reliquias que puedes recoger
+en la ciudad no valen mucho.
+
+193
+00:15:29,595 --> 00:15:30,304
+¿eh?
+
+194
+00:15:30,721 --> 00:15:31,389
+¿eh?
+
+195
+00:15:32,014 --> 00:15:33,266
+¿eh?
+
+196
+00:15:33,641 --> 00:15:38,104
+¡Podrías haberme dado una pista sobre eso primero!
+
+197
+00:15:41,399 --> 00:15:44,444
+Incluso aquí en la zona segura,
+ese gancho tuyo no es broma.
+
+198
+00:15:47,447 --> 00:15:51,617
+O-Está bien, entonces, ¿por qué no seguimos cazando hasta que
+el beneficio desaparezca?
+
+199
+00:15:52,702 --> 00:15:55,913
+La escalera a esas catacumbas que mencioné
+está justo allí.
+
+200
+00:15:56,497 --> 00:15:58,624
+¿Hay toneladas más ahí abajo?
+
+201
+00:15:58,749 --> 00:15:59,500
+Sí.
+
+202
+00:15:59,625 --> 00:16:03,463
+No solo monedas, también anillos
+con efectos mágicos y collares...
+
+203
+00:16:03,588 --> 00:16:05,173
+¿Anillos? collares?
+
+204
+00:16:05,298 --> 00:16:05,965
+Sí.
+
+205
+00:16:06,299 --> 00:16:09,844
+Nos encontraremos con muchos Astrals,
+pero el segundo piso del sótano es como una pelea para todos.
+
+206
+00:16:10,428 --> 00:16:11,929
+Gratuita para todos...
+
+207
+00:16:13,473 --> 00:16:14,682
+¿Astrales?
+
+208
+00:16:14,974 --> 00:16:16,517
+Un tipo de monstruo.
+
+209
+00:16:16,642 --> 00:16:19,061
+Has oído hablar de tipos de insectos
+y tipos semihumanos, ¿verdad?
+
+210
+00:16:19,187 --> 00:16:22,023
+Los astrales no tienen cuerpos físicos,
+por lo que son como fantasmas.
+
+211
+00:16:22,190 --> 00:16:23,024
+NORTE'! PAG"!
+
+212
+00:16:30,740 --> 00:16:32,408
+¿Qué significa "nyet"?
+
+213
+00:16:33,284 --> 00:16:34,911
+Significa "no" en ruso.
+
+214
+00:16:35,036 --> 00:16:36,412
+¿A qué le estás diciendo que no?
+
+215
+00:16:36,537 --> 00:16:38,456
+Bueno, eso es, eh...
+
+216
+00:16:39,207 --> 00:16:40,875
+Me refiero a "¡sin spoilers!"
+
+217
+00:16:42,627 --> 00:16:45,713
+Bueno, supongo que sabiendo de antemano
+a qué tipo de lugar te diriges
+
+218
+00:16:45,838 --> 00:16:48,674
+podría quitarle algo de diversión.
+Sí.
+
+219
+00:16:49,258 --> 00:16:51,677
+Bien, entonces puedes abrir el camino
+a las catacumbas, Asuna.
+
+220
+00:16:56,140 --> 00:16:57,141
+E-¿Es eso correcto?
+
+221
+00:16:57,266 --> 00:16:59,185
+Entonces creo que haré exactamente eso.
+
+222
+00:16:59,310 --> 00:17:00,561
+¿Estás listo tú mismo?
+
+223
+00:17:01,354 --> 00:17:02,438
+Listo cuando tu lo estés.
+
+224
+00:17:04,857 --> 00:17:06,234
+¡Entonces vamos, vamos!
+
+225
+00:17:11,280 --> 00:17:11,948
+¡Bien!
+
+226
+00:17:20,373 --> 00:17:21,040
+¿eh?
+
+227
+00:17:24,961 --> 00:17:27,088
+Esas rocas están bloqueando el camino.
+
+228
+00:17:35,805 --> 00:17:36,889
+¿Asuna?
+
+229
+00:17:37,014 --> 00:17:37,723
+¿Qué?
+
+230
+00:18:21,809 --> 00:18:22,852
+Guau...
+
+231
+00:18:23,603 --> 00:18:25,313
+¡Asombroso!
+
+232
+00:18:26,897 --> 00:18:28,482
+¡No te apresures o te caerás!
+
+233
+00:18:28,774 --> 00:18:30,276
+¡No me voy a caer!
+
+234
+00:18:32,695 --> 00:18:33,529
+Oh...
+
+235
+00:18:33,654 --> 00:18:36,407
+Puede haber trampas cerca de la pared,
+así que cuida tu espalda.
+
+236
+00:18:36,907 --> 00:18:39,619
+Y ahora estamos fuera de la zona segura,
+así que habrá monstruos.
+
+237
+00:18:39,744 --> 00:18:41,120
+Sí. Lo sé.
+
+238
+00:18:41,287 --> 00:18:44,081
+Los llamados Mournful Wraiths aparecen de la nada.
+
+239
+00:18:46,000 --> 00:18:50,087
+Um, creo que leí sobre espectros
+en el folclore escocés...
+
+240
+00:18:50,463 --> 00:18:51,964
+Seguro que sabes lo que haces.
+
+241
+00:18:52,089 --> 00:18:54,759
+Así es.
+El monstruo tipo fantasma que mencioné.
+
+242
+00:18:55,092 --> 00:18:56,218
+Fantasma...
+
+243
+00:19:09,315 --> 00:19:10,941
+N-Necesito algo de luz...
+
+244
+00:19:12,526 --> 00:19:14,445
+G-Gracias, Kirito-
+
+245
+00:19:14,779 --> 00:19:15,446
+¿eh?
+
+246
+00:19:16,238 --> 00:19:17,531
+¡Asuna! ¡Estar atento!
+
+247
+00:19:33,547 --> 00:19:34,465
+No,no,no“.
+
+248
+00:19:34,799 --> 00:19:36,384
+¡Detente, detente, detente!
+
+249
+00:19:38,344 --> 00:19:39,095
+¡Asuna!
+
+250
+00:19:47,812 --> 00:19:49,438
+¡No!
+
+251
+00:19:53,943 --> 00:19:54,985
+¡Asuna!
+
+252
+00:20:28,352 --> 00:20:29,019
+¿eh?
+
+253
+00:20:31,105 --> 00:20:32,481
+¡Estás bromeando! ¡Ey!
+
+254
+00:20:32,606 --> 00:20:33,315
+¡V-Vuelve aquí!
+
+255
+00:20:37,528 --> 00:20:39,405
+¡No te vas a escapar!
+
+256
+00:20:46,162 --> 00:20:47,121
+Otra pulgada...
+
+257
+00:20:48,164 --> 00:20:49,290
+¡Oh!
+
+258
+00:20:54,712 --> 00:20:55,379
+Oh...
+
+259
+00:21:20,446 --> 00:21:21,280
+Enviaré un mensaje...
+
+260
+00:21:23,115 --> 00:21:25,159
+LA PERSONA CON LA QUE INTENTA LLEGAR ESTÁ
+FUERA DE ALCANCE O AÚN NO HA INICIADO SESIÓN
+
+261
+00:21:25,451 --> 00:21:27,244
+Cierto, se me olvidaba...
+
+262
+00:21:55,815 --> 00:21:57,024
+Kirito...
+
+263
+00:22:00,986 --> 00:22:02,071
+¡Voy a hacer esto!
+
+264
+00:22:06,742 --> 00:22:07,827
+PENDIENTES DE BOTAS RIPPLES
+
+265
+00:22:11,914 --> 00:22:12,957
+ROPE DE HIERRO
+
+266
+00:22:17,419 --> 00:22:20,005
+Lamento tenerte guardado...
+
+267
+00:22:22,258 --> 00:22:24,468
+Por favor, ayúdame...
+
+268
+00:22:39,525 --> 00:22:41,068
+Debería ser capaz
+de atraerlo ahora...
+
+269
+00:22:47,616 --> 00:22:48,284
+¡Ahí viene!
+
+270
+00:23:17,605 --> 00:23:19,064
+No en la lista, ¿eh?
+
+271
+00:23:31,327 --> 00:23:31,994
+No.
+
+272
+00:23:33,913 --> 00:23:34,580
+No.
+
+273
+00:23:35,414 --> 00:23:36,665
+No. No.
+
+274
+00:23:40,419 --> 00:23:41,712
+Nuevamente incorrecto.
+
+275
+00:23:44,632 --> 00:23:48,677
+PALO DE PAPEL
+
+276
+00:24:02,066 --> 00:24:03,067
+¿Qué es esto?
+
+277
+00:24:03,734 --> 00:24:07,696
+10100 pm el 29...
+Sótano Nivel 3...
+
+278
+00:24:08,322 --> 00:24:09,990
+¿Y los números en esos paréntesis?
+
+279
+00:24:10,407 --> 00:24:11,408
+¿Coordenadas?
+
+280
+00:24:11,867 --> 00:24:14,078
+¿Una cita,
+todo el camino en esta mazmorra?
+
+281
+00:24:17,122 --> 00:24:20,668
+MAPAS [CALZORRA]
+
+282
+00:24:23,837 --> 00:24:26,715
+Alguien tiró esto porque se estropeó.
+¿Es eso lo que pasó?
+
+283
+00:24:27,508 --> 00:24:29,718
+¿Y luego el monstruo lo derrotó?
+
+284
+00:24:45,234 --> 00:24:47,903
+Si alguien que parece una pareja aparece...
+
+285
+00:24:48,028 --> 00:24:50,280
+Seré totalmente un mirón.
+
+286
+00:25:30,237 --> 00:25:32,656
+¡Hola hola! Llegas temprano hoy, ¿eh?
+
+287
+00:25:33,240 --> 00:25:34,992
+¡Lamento haberte hecho esperar!
+
+288
+00:25:35,117 --> 00:25:37,036
+No es como si hubiera estado esperando tanto tiempo.
+
+289
+00:25:37,161 --> 00:25:39,246
+Pero llegar aquí es un dolor.
+
+290
+00:25:39,913 --> 00:25:44,001
+Y no me hagas empezar con esas notas de reunión escritas a mano... ¡
+habla de un dolor en el trasero!
+
+291
+00:25:44,126 --> 00:25:46,128
+¡Y ese bolígrafo me da ataques!
+
+292
+00:25:46,253 --> 00:25:48,255
+¿Por qué no podemos simplemente enviarnos mensajes?
+
+293
+00:25:48,380 --> 00:25:50,382
+Eso es un gran no-no.
+
+294
+00:25:50,507 --> 00:25:53,802
+¡Estaríamos dejando un registro
+de todos nuestros mensajes!
+
+295
+00:25:54,261 --> 00:25:57,389
+Vale, ¿por qué no nos ponemos manos a la obra?
+
+296
+00:25:58,015 --> 00:26:00,476
+Esa cosa que discutimos...
+¿cómo fue?
+
+297
+00:26:00,601 --> 00:26:02,936
+Sí, es una oportunidad.
+
+298
+00:26:03,062 --> 00:26:07,357
+Pasado mañana, los principales jugadores de la ALS
+abandonarán el evento de cuenta regresiva conjunta,
+
+299
+00:26:07,483 --> 00:26:09,526
+y asalta el laberinto.
+
+300
+00:26:09,943 --> 00:26:14,782
+- Hmm, hmm, ¡suena como un plan!
+- ¿Abandonar el evento y asaltar el laberinto?
+
+301
+00:26:14,907 --> 00:26:15,574
+Es ese hombre-
+
+302
+00:26:15,699 --> 00:26:21,205
+No será divertido a menos que Kibaou
+y Lind se enfrenten, ¿verdad?
+
+303
+00:26:21,538 --> 00:26:23,540
+No hagas que suene tan fácil.
+
+304
+00:26:23,665 --> 00:26:27,294
+Fue una verdadera molestia lograr que celebraran
+una reunión del gremio sin que se dieran cuenta.
+
+305
+00:26:27,669 --> 00:26:29,379
+¡Ay, no hace falta que me lo digas!
+
+306
+00:26:29,505 --> 00:26:36,095
+Pero, ¿no te entrenó el jefe para ser
+el conversador suave que eres por esa misma razón?
+
+307
+00:26:36,220 --> 00:26:37,096
+Supongo que sí.
+
+308
+00:26:37,513 --> 00:26:42,559
+Sin embargo , quiero que avives las llamas lo suficiente
+como para que se maten entre sí.
+
+309
+00:26:42,810 --> 00:26:43,977
+¿Matarse unos a otros?
+
+310
+00:26:44,103 --> 00:26:48,565
+La cuestión es que todavía no puedo obtener una lectura
+de lo que está pasando en la mente de la cabeza.
+
+311
+00:26:48,774 --> 00:26:51,777
+¿Por qué haría esto de la manera difícil?
+
+312
+00:26:52,694 --> 00:26:55,197
+Todavía estamos sembrando las semillas en este momento.
+
+313
+00:26:55,322 --> 00:26:59,493
+¡Paciencia, ahora, o este delicioso festival
+terminará antes de que te des cuenta!
+
+314
+00:26:59,618 --> 00:27:03,163
+Te escucho.
+También tenemos que saborear el proceso, ¿verdad?
+
+315
+00:27:08,001 --> 00:27:09,628
+¿Escuchaste eso hace un momento?
+
+316
+00:27:10,170 --> 00:27:10,838
+Sí.
+
+317
+00:27:11,213 --> 00:27:15,759
+Si alguien escuchó nuestra conversación ultrasecreta, ¡
+apestaría mucho!
+
+318
+00:27:30,858 --> 00:27:34,820
+_ ¡Apresúrate! _ ¡
+Por favor, ven aquí ahora mismo!
+
+319
+00:27:41,910 --> 00:27:43,453
+¡Guau!
+¿Qué demonios es eso?
+
+320
+00:27:44,037 --> 00:27:45,914
+¡Ey! ¡Alejarse de mí!
+
+321
+00:27:46,748 --> 00:27:48,750
+Oye, mantén esa salida bloqueada para mí, ¿de acuerdo?
+
+322
+00:27:54,756 --> 00:27:58,177
+Vaya, supongo que fueron sus pasos
+los que escuchamos, ¿eh?
+
+323
+00:27:58,427 --> 00:28:00,929
+¡Esas cosas son tan malditamente molestas!
+
+324
+00:28:01,054 --> 00:28:03,557
+¿Aparecieron también en la beta?
+
+325
+00:28:03,682 --> 00:28:07,269
+Bueno, de vez en cuando desviaban las armas que
+otros jugadores arrojaban,
+
+326
+00:28:07,853 --> 00:28:10,022
+así que fue un buen trato.
+
+327
+00:28:10,856 --> 00:28:13,025
+¿Mirarías eso?
+Hablar del demonio.
+
+328
+00:28:14,318 --> 00:28:15,736
+¡Ey! ¿Me estás tomando el pelo?
+
+329
+00:28:16,028 --> 00:28:18,071
+¡Eso parece un estoque súper raro!
+
+330
+00:28:20,032 --> 00:28:21,909
+¡Uf, es pesado!
+
+331
+00:28:22,326 --> 00:28:23,660
+Déjame ver las especificaciones.
+
+332
+00:28:24,244 --> 00:28:26,121
+¡Guau! ¿Esto es en serio?
+
+333
+00:28:26,246 --> 00:28:27,998
+¡Esta cosa tiene un poder de ataque increíble!
+
+334
+00:28:28,123 --> 00:28:30,250
+¡Tan letal como una
+de las armas de dos manos menores!
+
+335
+00:28:30,626 --> 00:28:32,211
+¿Lo que realmente?
+
+336
+00:28:32,336 --> 00:28:34,546
+Vamos, ¿esa es tu reacción?
+
+337
+00:28:34,671 --> 00:28:37,007
+¡Si no lo quieres,
+dámelo!
+
+338
+00:28:37,216 --> 00:28:40,677
+¿Qué? ¡Pero eres un portador de espadas cortas!
+
+339
+00:28:40,802 --> 00:28:42,221
+¿Tienes los músculos para esto?
+
+340
+00:28:44,723 --> 00:28:48,977
+¿ Quién no cambiaría
+a la esgrima para usar esta espada?
+
+341
+00:28:49,102 --> 00:28:50,270
+Se llama...
+
+342
+00:28:50,395 --> 00:28:53,357
+...el Estoque Chilvaric, ¿eh?
+¿Cuan genial es eso?
+
+343
+00:28:53,941 --> 00:28:57,778
+Mira más de cerca, ¿quieres?
+¡Dice "caballería"!
+
+344
+00:29:01,240 --> 00:29:01,907
+¿eh?
+
+345
+00:29:07,788 --> 00:29:10,165
+¿Cuándo llegaste aquí?
+
+346
+00:29:10,582 --> 00:29:14,378
+En este momento.
+Los escuché hablar.
+
+347
+00:29:15,003 --> 00:29:17,005
+Bueno, eso apesta para mí.
+
+348
+00:29:17,130 --> 00:29:21,051
+Pensé que nuestras voces eran lo suficientemente bajas
+como para estar fuera del alcance del oído a lo largo del camino principal,
+
+349
+00:29:21,176 --> 00:29:24,680
+¡pero supongo que nos emocionamos demasiado con
+esta rara caída de armas!
+
+350
+00:29:26,431 --> 00:29:28,392
+Sobre esa rara arma...
+
+351
+00:29:28,517 --> 00:29:31,311
+¿Cómo lo llamaste?
+¿El estoque caballeresco?
+
+352
+00:29:32,020 --> 00:29:33,021
+¿Estás seguro de eso?
+
+353
+00:29:33,438 --> 00:29:36,900
+Oye, bien
+por recordarlo después de escucharlo solo una vez.
+
+354
+00:29:37,025 --> 00:29:38,777
+De todos modos, ¿qué pasa con eso?
+
+355
+00:29:38,986 --> 00:29:42,239
+Ese estoque pertenece a mi socio.
+
+356
+00:29:43,740 --> 00:29:45,742
+¿Qué estás diciendo?
+
+357
+00:29:46,326 --> 00:29:48,412
+Es el arma de tu amigo,
+¿devolverla?
+
+358
+00:29:48,870 --> 00:29:52,833
+Nah, no voy a
+pelear contigo por eso. Pero...
+
+359
+00:29:54,126 --> 00:30:00,340
+Podrías haber puesto tus manos en ese estoque peleando
+en duelo o haciendo PK con mi compañero, ¿verdad?
+
+360
+00:30:00,465 --> 00:30:01,466
+Película'?
+
+361
+00:30:02,759 --> 00:30:05,971
+Oh, ya veo a lo que te refieres.
+
+362
+00:30:06,096 --> 00:30:09,474
+Como traté de hacerte
+en uno de los pisos inferiores.
+
+363
+00:30:10,058 --> 00:30:11,310
+¿Es asi?
+
+364
+00:30:11,435 --> 00:30:12,686
+¿kirito?
+
+365
+00:30:56,772 --> 00:31:00,275
+¿Q-Q-Qué demonios?
+¿De donde vienes?
+
+366
+00:31:00,484 --> 00:31:04,279
+¡Tengo que admitir
+que ese grito inesperado me dio un infarto!
+
+367
+00:31:04,613 --> 00:31:06,865
+Díganos, ¿cuánto tiempo
+ha estado parado allí?
+
+368
+00:31:08,575 --> 00:31:10,494
+¡Bien bien!
+Manteniendo tu silencio, ¿estás?
+
+369
+00:31:10,619 --> 00:31:14,289
+Emboscarme por detrás me
+quitó tres segundos de vida,
+
+370
+00:31:14,414 --> 00:31:17,292
+así que al menos puedes decirme eso, ¿no?
+
+371
+00:31:17,751 --> 00:31:20,837
+Sabes qué,
+estoy más que molesto en este momento.
+
+372
+00:31:20,962 --> 00:31:23,590
+Quiero decir, no tenemos tiempo
+para estar disparando la brisa ahora.
+
+373
+00:31:23,715 --> 00:31:26,843
+¡Tendremos que suponer que escucharon
+todo y lidiar con ellos!
+
+374
+00:31:26,968 --> 00:31:28,470
+¡Ahora, ahora, la prisa hace desperdicio!
+
+375
+00:31:29,179 --> 00:31:31,890
+Y viste las especificaciones de ese estoque, ¿
+no?
+
+376
+00:31:32,015 --> 00:31:33,683
+¡No me des eso!
+
+377
+00:31:33,809 --> 00:31:36,186
+¡Como si fuera a perder
+contra una jugadora aficionada de JcJ!
+
+378
+00:31:36,812 --> 00:31:43,443
+Además, ¿cómo puedo volver sin mi súper estoque,
+que ella robó gracias a esa casualidad de un golpe bajo?
+
+379
+00:32:06,883 --> 00:32:07,551
+¡Maldita sea!
+
+380
+00:32:08,135 --> 00:32:10,679
+Atraer a esa mafia con tu grito,
+y luego culparme a mí...
+
+381
+00:32:10,804 --> 00:32:12,931
+¡Te lo digo,
+estás jugando sucio!
+
+382
+00:32:14,307 --> 00:32:16,184
+¿Es eso lo que te molesta?
+
+383
+00:32:16,309 --> 00:32:18,812
+¡Esto no se ve bien!
+¡Retirémonos por ahora!
+
+384
+00:32:18,937 --> 00:32:21,022
+¡Eh! Parece que tendremos que hacerlo.
+
+385
+00:32:59,644 --> 00:33:01,188
+Buen trabajo, aguantando ahí.
+
+386
+00:33:01,771 --> 00:33:03,565
+Estoy tan contenta de que estés a salvo.
+
+387
+00:33:05,525 --> 00:33:08,653
+Tenía miedo...
+Tenía mucho miedo...
+
+388
+00:33:09,571 --> 00:33:12,199
+Apareció un monstruo...
+luego caí por una trampilla...
+
+389
+00:33:12,324 --> 00:33:16,495
+Perdí mi camino,
+e incluso perdí mi estoque.
+
+390
+00:33:16,620 --> 00:33:18,872
+Pensé que mi número estaba arriba.
+
+391
+00:33:18,997 --> 00:33:22,459
+Estaba seguro de que todo había terminado para mí,
+aquí en esta cueva oscura...
+
+392
+00:33:23,084 --> 00:33:25,295
+Y eso me asustó.
+Estaba tan, tan asustado.
+
+393
+00:33:25,420 --> 00:33:26,880
+Realmente aterrorizado.
+
+394
+00:33:27,506 --> 00:33:30,258
+Todo está bien.
+Estás a salvo ahora.
+
+395
+00:33:31,468 --> 00:33:33,970
+Si alguna vez nos separamos de nuevo,
+
+396
+00:33:34,095 --> 00:33:36,473
+Juro que te encontraré
+y vendré a rescatarte.
+
+397
+00:33:37,432 --> 00:33:40,268
+Porque, Asuna, eres mi compañera,
+¿de acuerdo?
+
+398
+00:33:42,896 --> 00:33:43,605
+Sí.
+
+399
+00:33:51,613 --> 00:33:56,117
+30 DE DICIEMBRE DE 2022
+AINCRAD, PISO CINCO - ALDEA DE SHIYAYA
+
+400
+00:34:06,169 --> 00:34:10,006
+¡Gracias, Aachán! ¡ Por pedirme
+que me una a ustedes en un baño tan increíble!
+
+401
+00:34:10,298 --> 00:34:11,633
+No lo menciones.
+
+402
+00:34:11,758 --> 00:34:15,470
+Solo quería que supieras
+cuánto aprecio todo lo que haces, Argo.
+
+403
+00:34:15,804 --> 00:34:19,224
+¡Ay, por favor, por favor!
+No es nada, de verdad.
+
+404
+00:34:19,766 --> 00:34:24,521
+De todos modos, escuché que después de que me fui, ¿
+te encontraste con algunos matones desagradables?
+
+405
+00:34:24,646 --> 00:34:25,355
+Sí.
+
+406
+00:34:25,855 --> 00:34:28,233
+Bueno, me alegro de que hayas sobrevivido, Aachan.
+
+407
+00:34:28,942 --> 00:34:33,363
+Los he estado persiguiendo yo mismo,
+así que te avisaré si descubro algo.
+
+408
+00:34:34,030 --> 00:34:35,198
+¿Argo?
+
+409
+00:34:35,574 --> 00:34:37,158
+¿Mmm? ¿Qué pasa?
+
+410
+00:34:37,826 --> 00:34:41,621
+¿No te estás poniendo en demasiado peligro
+mirando a gente así solo?
+
+411
+00:34:44,583 --> 00:34:49,170
+Toda la información que recopilas
+es de gran ayuda,
+
+412
+00:34:49,296 --> 00:34:51,339
+no solo para nosotros, los jugadores del Equipo de Asalto,
+
+413
+00:34:51,464 --> 00:34:54,551
+pero también para los jugadores de nivel medio que dejaron
+la Ciudad de los Inicios después de nosotros.
+
+414
+00:34:55,302 --> 00:35:00,140
+Si algo te sucediera,
+dejaría de limpiarse en seco.
+
+415
+00:35:00,724 --> 00:35:04,853
+Por eso...
+no, déjame decirlo simple y llanamente.
+
+416
+00:35:05,020 --> 00:35:09,190
+Me preocupa tanto que te estés esforzando
+demasiado por tu cuenta.
+
+417
+00:35:09,941 --> 00:35:13,028
+Ya sabes, como tu amigo.
+
+418
+00:35:14,946 --> 00:35:16,448
+Gracias, Aachan.
+
+419
+00:35:17,073 --> 00:35:20,827
+Me conmueve mucho que te preocupes por mí.
+
+420
+00:35:20,952 --> 00:35:26,124
+Pero es mi deber seguir arriesgando
+mi vida para recopilar información.
+
+421
+00:35:26,625 --> 00:35:29,711
+¿Quieres decir,
+como un corredor de información?
+
+422
+00:35:29,836 --> 00:35:33,006
+¡No, como ex probador beta, en realidad!
+
+423
+00:35:34,174 --> 00:35:39,846
+Aun así, eso no significa que debas
+asumir un papel tan peligroso por tu cuenta.
+
+424
+00:35:40,430 --> 00:35:45,685
+Incluso Kirito siempre se une a las incursiones del Equipo de Asalto
+cuando luchamos contra un Jefe de Piso.
+
+425
+00:35:45,810 --> 00:35:47,020
+Mm...
+
+426
+00:35:47,145 --> 00:35:53,026
+Estás tan preocupado porque no tengo
+la constitución de un luchador, ¿verdad?
+
+427
+00:35:53,401 --> 00:35:55,987
+¿Qué? Bien...
+
+428
+00:36:05,538 --> 00:36:07,999
+La prueba está en el pudín,
+como dicen.
+
+429
+00:36:08,124 --> 00:36:10,293
+Oye, Aachan,
+¿qué tal si lo intentamos?
+
+430
+00:36:10,418 --> 00:36:12,128
+G-Dar qué ir?
+
+431
+00:36:12,671 --> 00:36:14,714
+¿Qué otra cosa?
+¡Claro que me refiero a un duelo!
+
+432
+00:36:14,839 --> 00:36:17,217
+¿O es una exageración?
+¿Una pelea de espadas, supongo?
+
+433
+00:36:17,717 --> 00:36:18,968
+¿Qué?
+¿Una pelea de espadas?
+
+434
+00:36:19,427 --> 00:36:21,846
+¡Tengamos un duelo simulado!
+
+435
+00:36:21,971 --> 00:36:22,972
+R-¿Ahora mismo?
+
+436
+00:36:23,807 --> 00:36:24,474
+¡Por supuesto!
+
+437
+00:36:25,058 --> 00:36:27,936
+¿ No deberíamos al menos
+ponernos trajes de baño para esto?
+
+438
+00:36:28,061 --> 00:36:31,398
+¿Eh? Ni siquiera tengo un traje de baño.
+
+439
+00:36:31,523 --> 00:36:33,525
+¡Entonces te haré uno ahora mismo!
+
+440
+00:36:35,276 --> 00:36:38,947
+Um... entonces, ¿cuáles son las reglas?
+
+441
+00:36:39,906 --> 00:36:43,410
+¿Qué tal si el que golpea
+al otro bien gana?
+
+442
+00:36:43,910 --> 00:36:45,620
+¿Te refieres a un golpe limpio?
+
+443
+00:36:45,745 --> 00:36:46,871
+¡Si, eso!
+
+444
+00:36:47,414 --> 00:36:48,581
+R-Entendido eso...
+
+445
+00:36:51,376 --> 00:36:53,253
+Bien, ¡listo cuando lo estés!
+
+446
+00:36:54,087 --> 00:36:55,088
+¡Ahí va!
+
+447
+00:36:59,592 --> 00:37:00,260
+¡Ella es rápida!
+
+448
+00:37:07,600 --> 00:37:09,936
+¡Oye, ese es mi Aachan!
+
+449
+00:37:10,270 --> 00:37:12,689
+Iba a ganar esto con mi primer strike,
+
+450
+00:37:12,814 --> 00:37:15,817
+pero en lugar de un "golpe",
+fue un "golpe".
+
+451
+00:37:16,401 --> 00:37:18,778
+Bien, ¡sigamos con esta pelea de espadas!
+
+452
+00:37:41,926 --> 00:37:43,011
+¡ Yo gano!
+
+453
+00:38:13,416 --> 00:38:15,668
+¡Oye, eso fue genial!
+
+454
+00:38:15,794 --> 00:38:20,673
+Cada uno de nosotros recibió un "golpe",
+entonces, ¿podemos llamar empate a esta pelea de espadas?
+
+455
+00:38:20,799 --> 00:38:22,884
+S-Sí, por supuesto.
+
+456
+00:38:23,593 --> 00:38:24,427
+Uno...
+
+457
+00:38:24,552 --> 00:38:27,972
+Cuando corriste sobre la superficie del agua hace un momento,
+¿fue algún tipo de efecto de habilidad?
+
+458
+00:38:28,348 --> 00:38:29,808
+Bien ahora...
+
+459
+00:38:29,933 --> 00:38:34,729
+Hmm, normalmente pido la tarifa de información,
+pero supongo que está bien.
+
+460
+00:38:35,396 --> 00:38:38,399
+Eso no era una habilidad.
+Fue el resultado de todo mi entrenamiento.
+
+461
+00:38:38,525 --> 00:38:42,362
+¿ Nunca lo probaste
+de niño en la piscina?
+
+462
+00:38:42,487 --> 00:38:47,408
+¿La teoría de que "puedes correr sobre el agua si adelantas
+el pie izquierdo antes de que se hunda el pie derecho"?
+
+463
+00:38:47,534 --> 00:38:49,869
+Creo que podría haber hecho eso.
+
+464
+00:38:50,203 --> 00:38:53,790
+Pensé que podría
+ser posible en este mundo.
+
+465
+00:38:53,915 --> 00:38:57,836
+Desde entonces, practico como un loco todos los días,
+en los ríos o en el baño.
+
+466
+00:38:57,961 --> 00:39:01,506
+Y finalmente logré correr,
+hasta cuatro pasos.
+
+467
+00:39:01,631 --> 00:39:04,759
+Bueno, supongo que podrías llamarlo
+una habilidad del sistema externo.
+
+468
+00:39:05,468 --> 00:39:11,391
+Puedes explorar solo debido a esa velocidad poco común
+que me acabas de mostrar, ¿verdad?
+
+469
+00:39:12,183 --> 00:39:15,478
+Eso es lo que querías
+mostrarme en nuestro duelo.
+
+470
+00:39:15,603 --> 00:39:19,899
+Bueno, si lo pones de esa manera,
+me hace sonar demasiado arrogante.
+
+471
+00:39:20,024 --> 00:39:21,234
+Pero bueno, es verdad.
+
+472
+00:39:21,776 --> 00:39:26,614
+Una parte de mí cree que si llega el caso,
+siempre podría usar mi velocidad para escapar.
+
+473
+00:39:26,739 --> 00:39:29,325
+Aunque, por supuesto, siempre estoy vigilando mis pasos.
+
+474
+00:39:30,034 --> 00:39:32,495
+Como agradecimiento por invitarme
+a sumergirme en este lujoso baño,
+
+475
+00:39:32,620 --> 00:39:34,747
+Aquí hay una pieza más de información, gratis.
+
+476
+00:39:34,998 --> 00:39:36,958
+¿Qué? O-Está bien.
+
+477
+00:39:37,500 --> 00:39:42,171
+Acabas de decirme que no había necesidad de que me
+hiciera cargo de investigaciones arriesgadas solo.
+
+478
+00:39:42,297 --> 00:39:47,760
+ya que incluso Ki-boy, otro ex probador beta,
+participa en las incursiones del Equipo de Asalto. ¿Bien?
+
+479
+00:39:47,969 --> 00:39:52,765
+Pero mira, no creo que las razones de Ki-boy
+para no ser un jugador en solitario completo
+
+480
+00:39:52,891 --> 00:39:55,226
+tienen nada que ver con minimizar el riesgo.
+
+481
+00:39:55,435 --> 00:39:57,353
+¿Entonces por qué?
+
+482
+00:39:57,520 --> 00:39:58,396
+¿Qué otra razón puede haber?
+
+483
+00:40:02,775 --> 00:40:05,111
+¡Es porque te tiene a ti, Aachan!
+
+484
+00:40:21,920 --> 00:40:24,672
+¡Kirito, estoy fuera del baño!
+
+485
+00:40:25,256 --> 00:40:27,050
+Oye, ¿dónde está Argo?
+
+486
+00:40:27,175 --> 00:40:28,509
+Dijo que regresará por ahora.
+
+487
+00:40:29,260 --> 00:40:31,137
+Ella me dijo que te dijera que dijo hola.
+
+488
+00:40:31,387 --> 00:40:32,555
+Veo.
+
+489
+00:40:33,389 --> 00:40:35,141
+Fue un baño bastante largo el que tomaste.
+
+490
+00:40:35,266 --> 00:40:36,643
+¿De qué hablaron?
+
+491
+00:40:36,935 --> 00:40:40,772
+Uh... ¡realmente no deberías entrometerte cuando
+se trata de chicas hablando!
+
+492
+00:40:40,897 --> 00:40:46,235
+¿Eh? Esperar. ¿Significa eso que tú, de todas las personas,
+y que Argo estaban realmente metidos en lo que ellos llaman "charla de chicas"?
+
+493
+00:40:46,653 --> 00:40:49,364
+¿No te acabo de decir que no curiosees?
+
+494
+00:40:49,489 --> 00:40:52,033
+¿Y qué quieres decir
+con "tú de todas las personas"?
+
+495
+00:40:52,158 --> 00:40:55,745
+M-Mi culpa, ¿de acuerdo?
+Pero es tan fuera del campo izquierdo.
+
+496
+00:40:55,870 --> 00:40:59,332
+Quiero que sepas que
+no nos involucramos en ninguna "charla de chicas".
+
+497
+00:41:05,505 --> 00:41:07,006
+¿Por qué?
+' ¿Eh?
+
+498
+00:41:07,799 --> 00:41:10,093
+Mira lo lejos que hemos llegado todos,
+luchando juntos...
+
+499
+00:41:10,218 --> 00:41:13,429
+lo suficientemente alto como para contemplar
+un paisaje tan hermoso...
+
+500
+00:41:14,263 --> 00:41:18,142
+Entonces, ¿por qué esos dos tratarían de enfrentar
+a los dos gremios principales?
+
+501
+00:41:19,769 --> 00:41:24,023
+Quiero decir, eso es lo mismo
+que impedirnos borrar "SAO".
+
+502
+00:41:24,524 --> 00:41:31,406
+No solo eso, sino ¿qué quiso decir ese tal Morte cuando dijo que
+quería que el gremio de Kibaou y el gremio de Lind se mataran entre sí?
+
+503
+00:41:31,531 --> 00:41:34,409
+¿Qué bien haría eso?
+
+504
+00:41:36,703 --> 00:41:39,706
+Esos tipos... ese grupo de PK-ers...
+
+505
+00:41:39,831 --> 00:41:40,957
+eso es lo que son.
+
+506
+00:41:41,416 --> 00:41:42,375
+¿PAQUETE?
+
+507
+00:41:42,875 --> 00:41:44,210
+Asesinos de jugadores.
+
+508
+00:41:44,752 --> 00:41:47,463
+Es decir, los asesinos de este mundo.
+
+509
+00:41:48,089 --> 00:41:50,258
+Asuna, nunca olvides esto.
+
+510
+00:41:50,800 --> 00:41:52,969
+En este castillo flotante llamado Aincrad,
+
+511
+00:41:53,094 --> 00:41:57,140
+hay personas a las que les encantaría limpiar el juego
+para poder sumergirse en PK-ing.
+
+512
+00:41:57,890 --> 00:41:59,559
+De ninguna manera.
+
+513
+00:41:59,684 --> 00:42:01,227
+¿Por qué harían eso?
+
+514
+00:42:01,352 --> 00:42:05,773
+¡Matar a otro jugador en este mundo
+también mataría a ese jugador de verdad en el mundo real!
+
+515
+00:42:06,065 --> 00:42:09,777
+Sí. Es exactamente por eso
+que quieren PK aquí.
+
+516
+00:42:09,902 --> 00:42:13,114
+En realidad, matar gente podría
+ser lo que quieren.
+
+517
+00:42:15,199 --> 00:42:17,118
+Te lo explicaré mejor en otro momento.
+
+518
+00:42:17,618 --> 00:42:20,371
+Primero, tenemos que encontrar una manera
+de evitar que el gremio de Kibaou se escape.
+
+519
+00:42:21,247 --> 00:42:23,666
+Asuna, eso que te pedí que hicieras...
+
+520
+00:42:23,791 --> 00:42:24,792
+¿Crees que puedes manejarlo?
+
+521
+00:42:26,127 --> 00:42:28,212
+Sí, creo que sí.
+
+522
+00:42:28,755 --> 00:42:33,426
+Pero, ¿por qué estamos convocando a los organizadores
+de la fiesta de cuenta regresiva de ambos gremios?
+
+523
+00:42:33,551 --> 00:42:38,598
+Porque si solo les preguntamos a los tipos de ALS,
+podrían hacer un acto de despistado sobre nosotros.
+
+524
+00:42:38,723 --> 00:42:42,351
+Pero es posible que los organizadores ni
+siquiera sepan sobre el plan.
+
+525
+00:42:43,144 --> 00:42:44,145
+Buen punto.
+
+526
+00:42:45,480 --> 00:42:47,857
+Por eso fui con todo
+y le pregunté también.
+
+527
+00:42:47,982 --> 00:42:50,818
+Todo el mundo está deseando que llegue esta fiesta,
+ya sabes.
+
+528
+00:42:50,943 --> 00:42:53,029
+¡Intenta no estropearlo demasiado!
+
+529
+00:42:54,238 --> 00:42:55,698
+La fiesta, ¿eh?
+
+530
+00:42:56,365 --> 00:42:58,701
+Creo que todo está bien
+para disfrutar de la fiesta.
+
+531
+00:42:58,826 --> 00:43:01,204
+Hasta ahí ha llegado todo el mundo,
+acostumbrándose a las redadas.
+
+532
+00:43:01,329 --> 00:43:03,372
+Va a mostrarte que
+podemos relajarnos más ahora.
+
+533
+00:43:03,915 --> 00:43:07,418
+Cuando estábamos en el primer piso,
+nunca pensé que llegaría este día.
+
+534
+00:43:09,754 --> 00:43:13,216
+Pero ese tipo de lapso
+es lo que los PK-ers...
+
+535
+00:43:13,966 --> 00:43:18,096
+No... lo que este juego está a punto de explotar...
+Simplemente no puedo quitarme ese sentimiento.
+
+536
+00:43:45,748 --> 00:43:48,835
+Tengo ganas de llamarte aquí 
+en breve, Shivata.
+
+537
+00:43:48,960 --> 00:43:50,962
+Oh, eso está bien conmigo.
+
+538
+00:43:51,295 --> 00:43:53,172
+Y, eh...
+
+539
+00:44:04,600 --> 00:44:07,353
+Soy el planificador de eventos de ALS
+y mi nombre es Liten.
+
+540
+00:44:09,021 --> 00:44:10,606
+¡Gracias por venir!
+
+541
+00:44:10,731 --> 00:44:12,441
+¡Oh por supuesto! Mmm...
+
+542
+00:44:12,775 --> 00:44:14,026
+Entonces...
+
+543
+00:44:19,866 --> 00:44:21,701
+¿Qué haces aquí, líder?
+
+544
+00:44:21,826 --> 00:44:23,744
+Sí, ¿por qué estás aquí?
+
+545
+00:44:24,078 --> 00:44:26,247
+¡Eso es lo que me gustaría saber!
+
+546
+00:44:26,372 --> 00:44:28,374
+Ese tipo me envió un mensaje para que viniera.
+
+547
+00:44:29,834 --> 00:44:32,962
+Bueno, pensé que solo había
+un cincuenta por ciento de posibilidades de que aparecieras.
+
+548
+00:44:35,047 --> 00:44:37,091
+Entonces, ¿de qué se trata todo esto?
+
+549
+00:44:37,216 --> 00:44:38,593
+Yo también estoy ocupado, ¿sabes?
+
+550
+00:44:38,718 --> 00:44:40,887
+¡Si quieres algo de mí,
+escúpelo ya!
+
+551
+00:44:48,019 --> 00:44:49,937
+Solo voy a salir con eso.
+
+552
+00:44:50,479 --> 00:44:54,442
+Los de la ALS planean
+saltarse la fiesta de la cuenta regresiva de mañana.
+
+553
+00:44:54,567 --> 00:44:57,445
+y atacar al Floor Boss solo.
+
+554
+00:44:57,570 --> 00:44:58,237
+¿Tengo razón?
+
+555
+00:44:59,822 --> 00:45:00,615
+¿De qué estás hablando?
+
+556
+00:45:02,700 --> 00:45:06,495
+¿Qué demonios?
+¿De dónde sacaste esa información falsa?
+
+557
+00:45:06,829 --> 00:45:08,372
+No puedo darte mi fuente.
+
+558
+00:45:08,497 --> 00:45:10,625
+Pero no fue una fuga dentro del ALS,
+
+559
+00:45:10,958 --> 00:45:13,002
+y tampoco se lo compré a un corredor de información.
+
+560
+00:45:14,921 --> 00:45:16,505
+¡Tienes que estar bromeando!
+
+561
+00:45:16,756 --> 00:45:18,799
+¡Esto es tan estupido!
+Me voy.
+
+562
+00:45:18,925 --> 00:45:19,675
+Plomo
+
+563
+00:45:20,092 --> 00:45:25,223
+Mi capitán me contó esta mañana
+sobre el plan para abandonar el evento.
+
+564
+00:45:25,473 --> 00:45:28,184
+¡Eh, tú!
+¿De qué estás hablando?
+
+565
+00:45:28,309 --> 00:45:32,563
+Todo lo que mi capitán me dijo fue que se
+decidió repentinamente en la reunión de líderes.
+
+566
+00:45:33,022 --> 00:45:37,235
+¡Pero no quiero sabotear la fiesta
+en la que hemos trabajado tan duro!
+
+567
+00:45:37,360 --> 00:45:41,155
+No cuando es el primer evento conjunto
+entre ALS y DKB.
+
+568
+00:45:41,280 --> 00:45:42,365
+lic-chan...
+
+569
+00:45:42,490 --> 00:45:44,867
+Lo siento, te mantuve en la oscuridad, Shiva.
+
+570
+00:45:46,244 --> 00:45:47,870
+Por favor dígame, líder.
+
+571
+00:45:48,537 --> 00:45:51,040
+¿ Qué te hizo decidir
+hacer este movimiento?
+
+572
+00:45:53,000 --> 00:45:57,713
+Como alguien que siempre hace lo que le place,
+sé que no es mi lugar decir esto...
+
+573
+00:45:57,838 --> 00:46:01,175
+pero estás yendo demasiado lejos con este movimiento.
+
+574
+00:46:01,300 --> 00:46:04,887
+Hazlo y nunca repararás
+la brecha entre ALS y DKB.
+
+575
+00:46:05,221 --> 00:46:10,017
+Realmente no queremos que haya más
+mala sangre entre los dos gremios principales.
+
+576
+00:46:14,897 --> 00:46:16,899
+Oh, al diablo,
+te lo diré, entonces.
+
+577
+00:46:17,024 --> 00:46:19,902
+Uno de mis muchachos consiguió
+información realmente jugosa.
+
+578
+00:46:20,319 --> 00:46:21,362
+¿Intel?
+
+579
+00:46:21,487 --> 00:46:25,700
+¡ Que el jefe del Piso Cinco
+va a dejar caer un objeto alucinante!
+
+580
+00:46:25,825 --> 00:46:28,953
+Siendo un ex probador beta,
+sabrías lo que es, ¿verdad?
+
+581
+00:46:29,245 --> 00:46:30,413
+Déjame pensar...
+
+582
+00:46:30,538 --> 00:46:32,665
+El jefe del Piso Cinco, ¿verdad?
+
+583
+00:46:33,541 --> 00:46:34,792
+Oh...
+
+584
+00:46:35,626 --> 00:46:38,212
+Creo que podría haber sido
+un arma tipo lanza.
+
+585
+00:46:38,337 --> 00:46:39,630
+No, espera.
+
+586
+00:46:41,716 --> 00:46:43,467
+¡Si eso es!
+
+587
+00:46:43,592 --> 00:46:45,344
+Tienes razón.
+¡Ese está loco!
+
+588
+00:46:45,469 --> 00:46:46,262
+¿Qué quieres decir?
+
+589
+00:46:47,096 --> 00:46:48,264
+Es una bandera del gremio.
+
+590
+00:46:48,597 --> 00:46:50,850
+¿Una bandera del gremio?
+Entonces, ¿es una bandera?
+
+591
+00:46:51,434 --> 00:46:52,977
+¿Qué tiene eso de loco?
+
+592
+00:46:53,769 --> 00:46:58,107
+Bueno, como arma,
+es solo una lanza larga con el poder de ataque más bajo.
+
+593
+00:46:58,232 --> 00:46:59,358
+Te lo tomas así, y...
+
+594
+00:47:00,693 --> 00:47:03,237
+Cuando el jugador que lo empuña
+lo clava en el suelo,
+
+595
+00:47:03,362 --> 00:47:07,283
+aumenta todas las estadísticas
+de sus compañeros de gremio cercanos.
+
+596
+00:47:08,701 --> 00:47:09,702
+¿En serio?
+
+597
+00:47:09,910 --> 00:47:12,955
+¿Puede moverse el jugador que sostiene esa bandera?
+
+598
+00:47:13,080 --> 00:47:15,166
+Y cuanto dura ese buff?
+
+599
+00:47:15,291 --> 00:47:16,542
+¿Algún límite en cuántas personas?
+
+600
+00:47:16,917 --> 00:47:18,753
+El jugador no puede moverse mientras está activado,
+
+601
+00:47:18,878 --> 00:47:21,589
+pero los efectos duran mientras
+la bandera esté erguida.
+
+602
+00:47:21,714 --> 00:47:24,842
+Y no hay límites,
+siempre y cuando estés en el mismo gremio.
+
+603
+00:47:25,051 --> 00:47:26,302
+¿Hablas en serio?
+
+604
+00:47:26,427 --> 00:47:29,805
+Entonces realmente va
+a trastornar la mente de los jugadores.
+
+605
+00:47:29,930 --> 00:47:35,102
+Si ALS adquiere esa bandera, enviará
+la moral de todos los miembros de ALS por las nubes,
+
+606
+00:47:35,269 --> 00:47:37,480
+mientras que los chicos de DKB estarán totalmente desmoralizados.
+
+607
+00:47:38,022 --> 00:47:40,066
+Y si eso sucede, DKB...
+
+608
+00:47:40,441 --> 00:47:44,320
+Podría perder el control de sus propios muchachos
+y todo el gremio podría colapsar.
+
+609
+00:47:44,445 --> 00:47:49,492
+Entonces, ALS está apresurando el arma para derrotar al jefe
+para que puedan asegurarse de obtener ese artículo, ¿eh?
+
+610
+00:47:49,617 --> 00:47:52,453
+¿No pueden los dos gremios simplemente compartirlo entre ellos?
+
+611
+00:47:52,828 --> 00:47:57,917
+Te estás adelantando a DKB porque no quieres
+que se hagan con la bandera del gremio primero, ¿verdad?
+
+612
+00:47:58,459 --> 00:48:01,087
+Entonces, ¿por qué no hablar con Lind
+y usarlo de manera justa y honesta?
+
+613
+00:48:01,295 --> 00:48:05,007
+Algunas personas tenían esa misma opinión.
+Pero la cosa es...
+
+614
+00:48:06,217 --> 00:48:08,260
+La bandera del gremio no se puede compartir.
+
+615
+00:48:09,428 --> 00:48:14,141
+Solo puede registrar el nombre de un gremio
+y no se puede cambiar más tarde.
+
+616
+00:48:14,642 --> 00:48:18,437
+Solo puede pertenecer a ALS o DKB,
+solo a uno o al otro.
+
+617
+00:48:18,562 --> 00:48:19,480
+No...
+
+618
+00:48:19,814 --> 00:48:23,484
+Ahora que sé la puntuación,
+tengo que hablar.
+
+619
+00:48:23,776 --> 00:48:25,194
+¿Qué vas a hacer?
+
+620
+00:48:25,319 --> 00:48:29,532
+Sabes que. Voy a informarle de esto a Lind,
+y evitaré que ustedes se burlen de nosotros.
+
+621
+00:48:29,657 --> 00:48:32,993
+¿Sabes que eso podría desencadenar
+una guerra entre nuestros gremios?
+
+622
+00:48:33,119 --> 00:48:34,412
+Eso puede ser cierto, pero...
+
+623
+00:48:34,829 --> 00:48:35,996
+¡Espera, Shiva!
+
+624
+00:48:36,122 --> 00:48:36,997
+lic-chan...
+
+625
+00:48:40,000 --> 00:48:40,709
+Líder...
+
+626
+00:48:43,129 --> 00:48:48,175
+Los únicos que insistieron en esta estrategia fueron
+aquellos cuyos temores fueron avivados, ¿verdad?
+
+627
+00:48:48,300 --> 00:48:53,139
+Pero para evitar que el gremio se dividiera,
+no tuviste más remedio que aceptarlo.
+
+628
+00:48:53,347 --> 00:48:56,892
+Sé que tú mismo
+no tienes ningún deseo de usar esa táctica.
+
+629
+00:48:57,017 --> 00:48:58,519
+¿No es así?
+
+630
+00:48:58,644 --> 00:48:59,562
+¿No hay...
+
+631
+00:48:59,812 --> 00:49:02,064
+¿No hay otra manera de manejar esto?
+
+632
+00:49:02,189 --> 00:49:03,315
+Pequeño...
+
+633
+00:49:21,167 --> 00:49:22,835
+Acabemos con ese jefe nosotros mismos.
+
+634
+00:49:26,088 --> 00:49:30,092
+Si reclamamos esa bandera nosotros mismos, entonces podemos evitar
+la lucha de poder entre los dos grandes gremios.
+
+635
+00:49:33,179 --> 00:49:34,930
+Sí... esa es la única forma de salir de esto.
+
+636
+00:49:35,389 --> 00:49:37,433
+Shiva, tú...
+
+637
+00:49:37,975 --> 00:49:41,854
+Lo sé. Gracias por ser honesto
+conmigo, Licchan.
+
+638
+00:49:43,272 --> 00:49:44,565
+Yo también te daré una mano.
+
+639
+00:49:45,774 --> 00:49:46,817
+Yo también.
+
+640
+00:49:46,942 --> 00:49:47,693
+¡Yo también lo haré!
+
+641
+00:49:47,985 --> 00:49:51,197
+¿Está seguro?
+Significará traicionar a tu propio gremio.
+
+642
+00:49:51,614 --> 00:49:55,284
+Si vamos a despejar este juego,
+necesitamos DKB y ALS.
+
+643
+00:49:55,826 --> 00:49:58,537
+No podemos socavar más esa alianza.
+
+644
+00:49:58,662 --> 00:50:00,748
+Incluso si termino traicionando a mi propio gremio,
+
+645
+00:50:00,873 --> 00:50:05,753
+No puedo traicionar a los miles de jugadores
+en los pisos inferiores que esperan ser liberados.
+
+646
+00:50:08,255 --> 00:50:09,256
+Gracias.
+
+647
+00:50:10,424 --> 00:50:12,051
+¿Hemos terminado aquí?
+
+648
+00:50:14,386 --> 00:50:16,555
+Eso es todo lo que necesitas de mí, ¿verdad?
+
+649
+00:50:17,056 --> 00:50:18,724
+Entonces, regresaré ahora.
+
+650
+00:50:19,016 --> 00:50:20,768
+Estoy abrumado, ¿de acuerdo?
+
+651
+00:50:21,268 --> 00:50:26,565
+Ya que tengo que partir mañana
+con mi equipo A a las 6100 p. m.
+
+652
+00:50:26,899 --> 00:50:31,111
+Si por alguna razón llegamos tarde
+y alguien se nos adelanta, habrá que pagar mucho.
+
+653
+00:50:32,321 --> 00:50:36,534
+Haz lo que quieras,
+ya que no eres parte de mi A-Team.
+
+654
+00:50:37,076 --> 00:50:41,247
+¿Lo tengo?
+Nos vamos a las 6100 pm mañana.
+
+655
+00:50:41,372 --> 00:50:43,123
+Asegúrate de mantenerte fuera de nuestro camino.
+
+656
+00:50:43,415 --> 00:50:44,583
+Líder...
+
+657
+00:50:47,336 --> 00:50:49,129
+Gracias, Kibaou.
+
+658
+00:50:52,132 --> 00:50:54,802
+Uh, él no pagó por su comida.
+
+659
+00:51:00,015 --> 00:51:03,561
+Entonces, Kibaou y su equipo
+partirán mañana a las 61:00 p. m.
+
+660
+00:51:03,686 --> 00:51:06,438
+Si nos damos prisa,
+podemos vencerlos, ¿eh?
+
+661
+00:51:06,564 --> 00:51:10,609
+Pero, de manera realista, no podemos enfrentarnos a
+un Floor Boss con solo cuatro personas.
+
+662
+00:51:10,734 --> 00:51:12,611
+Necesitaremos más camaradas, ¿no?
+
+663
+00:51:13,153 --> 00:51:14,989
+Camaradas, ¿eh?
+
+664
+00:51:15,406 --> 00:51:19,076
+Dadas las circunstancias,
+no puedo preguntarle a ninguno de mis compañeros de gremio.
+
+665
+00:51:19,201 --> 00:51:20,452
+Tampoco puedo.
+
+666
+00:51:20,744 --> 00:51:25,291
+Supongo que los únicos que podrían unirse a nosotros son
+los cuatro del grupo de Agil, además de Argo, ¿quizás?
+
+667
+00:51:25,416 --> 00:51:27,126
+Lo que todavía nos lleva a nueve.
+
+668
+00:51:27,251 --> 00:51:29,920
+Dudas o no,
+tendremos que intentarlo, ¿no?
+
+669
+00:51:31,880 --> 00:51:32,923
+CON RESPECTO A ENCONTRAR A ALGUIEN
+¡Oye! Sostener.
+
+670
+00:51:32,923 --> 00:51:33,299
+CON RESPECTO A ENCONTRAR A ALGUIEN
+
+671
+00:51:38,637 --> 00:51:41,140
+Acabo de pensar en una persona más.
+
+672
+00:52:21,764 --> 00:52:23,140
+Mucho tiempo sin verlo.
+
+673
+00:52:31,315 --> 00:52:32,483
+Asuna.
+
+674
+00:52:32,983 --> 00:52:34,443
+¿Qué estás haciendo aquí?
+
+675
+00:52:35,277 --> 00:52:38,947
+Un agente de información
+me dijo dónde estabas, Mito.
+
+676
+00:52:39,573 --> 00:52:42,242
+Que has estado reuniendo materiales
+en este bosque.
+
+677
+00:52:42,368 --> 00:52:44,620
+Debe ser un diablo de un corredor de información.
+
+678
+00:52:45,496 --> 00:52:47,456
+La incursión del jefe del primer piso
+fue la última vez que nos vimos.
+
+679
+00:52:48,207 --> 00:52:48,874
+Desde entonces...
+
+680
+00:52:51,543 --> 00:52:56,215
+Nunca te vi en las redadas de primera línea.
+¿Fue porque estabas reuniendo materiales?
+
+681
+00:52:58,342 --> 00:53:00,260
+Realmente no lo llamaría reunir materiales.
+
+682
+00:53:01,053 --> 00:53:03,931
+Quiero abrir una tienda
+de artículos hechos a mano.
+
+683
+00:53:04,556 --> 00:53:07,142
+Para eso me estoy preparando ahora.
+
+684
+00:53:07,267 --> 00:53:08,310
+¿Una tienda?
+
+685
+00:53:08,435 --> 00:53:11,105
+Estoy pensando en
+una tienda de equipo de protección.
+
+686
+00:53:11,271 --> 00:53:14,233
+Las caídas de artículos raros son pocas
+y distantes entre sí en los pisos inferiores,
+
+687
+00:53:14,358 --> 00:53:16,527
+pero se pueden utilizar como mejoras.
+
+688
+00:53:16,652 --> 00:53:17,653
+Veo.
+
+689
+00:53:21,240 --> 00:53:23,492
+Entonces, en lugar de solo bienes prácticos,
+
+690
+00:53:23,617 --> 00:53:26,620
+Sería genial si
+también pudieras comprar ropa elegante y baratijas.
+
+691
+00:53:27,079 --> 00:53:30,165
+¡Entonces me convertiría en un cliente habitual!
+
+692
+00:53:30,290 --> 00:53:32,167
+- Escucha, Asuna. 
+- ¿Eh?
+
+693
+00:53:33,836 --> 00:53:38,716
+Un miembro del Equipo de Asalto como tú no vendría
+a verme sin una razón, ¿verdad?
+
+694
+00:53:39,967 --> 00:53:40,634
+Sí.
+
+695
+00:53:41,468 --> 00:53:43,262
+En realidad, vine a pedirte un favor.
+
+696
+00:53:46,223 --> 00:53:50,644
+Mañana me enfrentaré
+al jefe del piso cinco con una pequeña fiesta.
+
+697
+00:53:53,814 --> 00:54:00,070
+Es complicado, pero tenemos que derrotar
+al jefe antes de que los dos grandes gremios puedan hacerlo.
+
+698
+00:54:00,195 --> 00:54:03,574
+Entonces, en este momento, estamos buscando
+ayuda de algunos jugadores fuertes.
+
+699
+00:54:05,075 --> 00:54:07,995
+Para ayudar a despejar este juego... ¡por favor!
+
+700
+00:54:08,120 --> 00:54:09,204
+¡Ayúdame, Mito!
+
+701
+00:54:11,999 --> 00:54:13,417
+Suena serio.
+
+702
+00:54:13,625 --> 00:54:14,293
+Es.
+
+703
+00:54:14,418 --> 00:54:15,794
+Suficiente para influir en el Equipo de Asalto...
+
+704
+00:54:16,420 --> 00:54:20,716
+el futuro de este juego de muerte, "SAO".
+
+705
+00:54:24,428 --> 00:54:27,055
+Asuna, no voy a ir contigo.
+
+706
+00:54:27,181 --> 00:54:28,182
+¿Pero por qué?
+
+707
+00:54:28,807 --> 00:54:31,977
+Me pondría antes
+que el que prometí mantener a salvo.
+
+708
+00:54:34,271 --> 00:54:36,148
+Ese es el tipo de jugador que soy.
+
+709
+00:54:36,774 --> 00:54:40,486
+¿Quién puede decir que no volvería a huir
+abandonando a mis camaradas?
+
+710
+00:54:40,986 --> 00:54:41,779
+Mito!
+
+711
+00:54:43,447 --> 00:54:46,784
+Lo siento. No quiero
+volver a traicionar a nadie nunca más.
+
+712
+00:54:49,244 --> 00:54:51,830
+Asuna, me alegro de haberte
+visto hoy.
+
+713
+00:54:52,331 --> 00:54:55,125
+Pero no puedo ayudarte.
+
+714
+00:54:55,793 --> 00:54:56,460
+Adiós.
+
+715
+00:55:01,173 --> 00:55:03,425
+Mito! Duel me!
+
+716
+00:55:05,928 --> 00:55:09,473
+¡Ya no soy un novato que depende de ti
+para tu protección!
+
+717
+00:55:10,724 --> 00:55:12,434
+Por favor. ¡Por favor!
+
+718
+00:55:13,769 --> 00:55:17,022
+Si gano este duelo,
+ven y ataca al jefe conmigo.
+
+719
+00:55:17,147 --> 00:55:17,981
+¿ACEPTARÁN ESTA SOLICITUD DE DUELO?
+OPPONENTI ASUNA TYPEI 1 VS. 1
+
+720
+00:55:26,657 --> 00:55:29,034
+Y te irás una vez que esto termine, ¿verdad?
+
+721
+00:55:32,371 --> 00:55:34,873
+MODO DE PÉRDIDA COMPLETA
+MODO DE PRIMER GOLPE MODO DE PÉRDIDA MEDIA
+
+722
+00:55:57,229 --> 00:55:58,230
+¿Qué pasa, Mito?
+
+723
+00:55:59,815 --> 00:56:01,149
+¿No me vas a atacar?
+
+724
+00:56:02,359 --> 00:56:05,237
+Estás demasiado concentrada en la defensa, Asuna.
+
+725
+00:56:05,445 --> 00:56:06,238
+Tienes que atacar más.
+
+726
+00:57:07,925 --> 00:57:12,262
+¡Ey! Sra. Tozawa, ¿es ese el juego
+que estaba jugando en la sala de juegos?
+
+727
+00:57:12,387 --> 00:57:13,055
+Sí.
+
+728
+00:57:13,555 --> 00:57:15,849
+Acaban de lanzar el puerto para teléfonos inteligentes.
+
+729
+00:57:17,017 --> 00:57:18,810
+Todo este tiempo,
+me he arrepentido.
+
+730
+00:57:19,227 --> 00:57:21,647
+También me gustaría verte allí.
+
+731
+00:57:21,772 --> 00:57:24,733
+Si tan solo no hubiera dicho esas palabras ese día...
+
+732
+00:57:25,692 --> 00:57:29,696
+Nunca te habría atrapado
+dentro de este mundo cruel.
+
+733
+00:57:30,864 --> 00:57:32,324
+Pero yo...
+
+734
+00:58:06,733 --> 00:58:09,403
+Él)', ¿puedo jugar contigo?
+
+735
+00:58:23,625 --> 00:58:25,877
+Eres tan fuerte como siempre, Mito.
+
+736
+00:58:26,336 --> 00:58:28,463
+Mira lo fuerte que eres ahora también.
+
+737
+00:58:29,423 --> 00:58:31,591
+Estaba jugando para siempre, ya sabes.
+
+738
+00:58:33,010 --> 00:58:35,262
+Eso es lo que me hizo jugar para siempre, también.
+
+739
+00:58:35,595 --> 00:58:39,766
+Ahora que me has ganado, ya no puedo pedirte
+que te unas al Boss Raid.
+
+740
+00:58:40,350 --> 00:58:41,476
+Pero Mito, tú eres...
+
+741
+00:58:45,814 --> 00:58:46,982
+Bueno, nos vemos entonces.
+
+742
+00:58:47,107 --> 00:58:47,899
+¿Asuna?
+
+743
+00:58:51,486 --> 00:58:52,237
+Aquí.
+
+744
+00:58:55,240 --> 00:58:58,201
+Para compensar el
+que rompí en nuestro duelo.
+
+745
+00:58:58,452 --> 00:59:00,620
+Espera, ¿tú hiciste esto?
+
+746
+00:59:00,746 --> 00:59:04,583
+Es solo un diseño simple,
+ya que mis habilidades de elaboración aún son bajas.
+
+747
+00:59:04,708 --> 00:59:06,918
+¡No, no, es precioso!
+
+748
+00:59:07,502 --> 00:59:10,130
+También es resistente a
+los venenos paralizantes y dañinos.
+
+749
+00:59:10,255 --> 00:59:11,673
+Su, ¿eh?
+
+750
+00:59:14,801 --> 00:59:17,596
+Nunca podré volver a luchar en el frente de batalla.
+
+751
+00:59:24,853 --> 00:59:26,104
+Gracias por hoy.
+
+752
+00:59:27,064 --> 00:59:28,356
+Fue genial verte.
+
+753
+00:59:42,162 --> 00:59:42,871
+¿Quién está ahí?
+
+754
+00:59:46,625 --> 00:59:47,501
+Culpa mía.
+
+755
+00:59:48,126 --> 00:59:50,462
+No estaba planeando esconderme, ¿de acuerdo?
+
+756
+00:59:55,217 --> 00:59:57,594
+Asuna se retrasó en regresar,
+así que vine a ver cómo estaba.
+
+757
+00:59:57,719 --> 01:00:01,014
+Entonces ustedes comenzaron a batirse en duelo.
+Entonces, realmente no podía mostrarme.
+
+758
+01:00:01,139 --> 01:00:02,265
+Creo que te recuerdo.
+
+759
+01:00:02,808 --> 01:00:05,811
+Correcto.
+Nunca me presenté, ¿verdad?
+
+760
+01:00:05,977 --> 01:00:08,772
+Soy Kirito.
+Asuna es mi compañera.
+
+761
+01:00:08,939 --> 01:00:11,274
+Lo sé.
+Ya que eres tan famoso.
+
+762
+01:00:11,733 --> 01:00:14,152
+Entonces, ¿te estabas escondiendo porque
+estabas preocupado por Asuna?
+
+763
+01:00:14,277 --> 01:00:16,154
+¿Sobreprotector, mucho?
+
+764
+01:00:16,279 --> 01:00:18,156
+Supongo que no puedo negar eso.
+
+765
+01:00:18,824 --> 01:00:21,743
+¿Y ahora me vas a pedir
+que me una a tu Boss Raid también?
+
+766
+01:00:21,868 --> 01:00:23,620
+No, no es por eso que estoy aquí.
+
+767
+01:00:23,745 --> 01:00:26,123
+Eh... la cosa es...
+
+768
+01:00:26,623 --> 01:00:28,625
+Tú también lo ves, ¿no?
+
+769
+01:00:29,209 --> 01:00:30,710
+Si Asuna sigue creciendo como jugadora,
+
+770
+01:00:30,836 --> 01:00:32,712
+ella podría volverse mucho,
+mucho más fuerte.
+
+771
+01:00:33,213 --> 01:00:35,382
+Más fuerte que nadie en el Equipo de Asalto.
+
+772
+01:00:35,507 --> 01:00:36,758
+¿Qué pasa si ella lo hace?
+
+773
+01:00:36,883 --> 01:00:38,677
+Eventualmente, se unirá a un gremio importante,
+
+774
+01:00:38,802 --> 01:00:42,430
+y conviértete en uno de los mejores jugadores
+que lideren la carga para despejar este juego mortal.
+
+775
+01:00:42,722 --> 01:00:46,810
+Pero antes de que eso suceda,
+necesita el apoyo de todas las personas cercanas a ella.
+
+776
+01:00:46,977 --> 01:00:48,645
+Como tu y yo.
+
+777
+01:00:49,312 --> 01:00:54,192
+Ese estoque de Asuna fue hecho
+con el Wind Fleuret que le diste.
+
+778
+01:00:55,694 --> 01:00:59,823
+A pesar de que las especificaciones del Wind Fleuret
+se alcanzaron al máximo en el piso tres,
+
+779
+01:00:59,948 --> 01:01:02,450
+Asuna todavía no pensaría en dejarlo.
+
+780
+01:01:02,701 --> 01:01:08,915
+Entonces, le sugerí que convirtiera
+el Fleuret en oro y forjara una nueva arma con él.
+
+781
+01:01:09,040 --> 01:01:10,792
+Y así es como se hizo ese estoque.
+
+782
+01:01:10,917 --> 01:01:13,253
+¿Por qué se tomaría todas esas molestias?
+
+783
+01:01:13,837 --> 01:01:17,132
+Supongo que la espada que le diste
+debe haber sido muy importante para ella.
+
+784
+01:01:20,802 --> 01:01:25,265
+Asuna todavía te ve
+como un amigo insustituible, incluso ahora.
+
+785
+01:01:31,521 --> 01:01:32,397
+Nos vemos.
+
+786
+01:01:32,522 --> 01:01:33,523
+I...
+
+787
+01:01:39,696 --> 01:01:40,780
+no me gustas
+
+788
+01:01:45,911 --> 01:01:49,206
+31 DE DICIEMBRE DE 2022
+AINCRAD PISO CINCO - LABERINTO
+
+789
+01:01:56,379 --> 01:01:58,173
+MOSTRAR A TODOS
+LOS UNO
+
+790
+01:01:58,340 --> 01:02:00,383
+WOLFGANG LOBACCA NAB AN
+
+791
+01:02:00,550 --> 01:02:02,594
+ARGO
+AGIL
+
+792
+01:02:07,057 --> 01:02:07,807
+¿Qué es?
+
+793
+01:02:08,934 --> 01:02:09,684
+Cualquier cosa.
+
+794
+01:02:11,686 --> 01:02:15,523
+Solo hay nueve de nosotros en este Boss Raid,
+pero nuestras probabilidades de ganar son buenas,
+
+795
+01:02:15,649 --> 01:02:17,776
+y no tengo intención
+de dar una sola baja.
+
+796
+01:02:18,318 --> 01:02:20,695
+Para evitar el colapso del Equipo de Asalto,
+
+797
+01:02:20,820 --> 01:02:25,867
+y para asegurar el éxito de la fiesta de cuenta regresiva que
+Shivata y Liten planearon para nosotros...
+
+798
+01:02:25,992 --> 01:02:27,619
+¡vamos a dar todo lo que tenemos!
+
+799
+01:02:27,953 --> 01:02:30,789
+¡Está bien!
+¡Hagámoslo!
+
+800
+01:02:30,914 --> 01:02:32,123
+- ¡Sí!
+- ¡Sí!
+
+801
+01:02:59,234 --> 01:03:02,195
+AINCRAD PISO CINCO - LABERINTO
+FRENTE A LA SALA DEL JEFE
+
+802
+01:03:05,615 --> 01:03:09,411
+Eh. Entonces, ¿hay otro corredor
+en la parte superior de los escalones?
+
+803
+01:03:09,536 --> 01:03:12,038
+¿O es la sala del jefe en sí?
+
+804
+01:03:12,163 --> 01:03:13,915
+¿Fue diferente en la prueba beta?
+
+805
+01:03:14,207 --> 01:03:15,000
+Sí.
+
+806
+01:03:15,583 --> 01:03:17,252
+Antes había una puerta aquí,
+
+807
+01:03:17,377 --> 01:03:19,087
+y cuando lo abriste,
+estabas en la sala del jefe.
+
+808
+01:03:19,212 --> 01:03:22,716
+¿En realidad?
+Entonces, ¿qué tipo de Floor Boss era?
+
+809
+01:03:22,841 --> 01:03:26,553
+Según su perfil, es un golem gigante,
+el Guardián de las Ruinas.
+
+810
+01:03:26,678 --> 01:03:30,432
+Pero hasta ahora, todos los Floor Bosses
+han sido modificados de alguna manera,
+
+811
+01:03:30,557 --> 01:03:33,351
+incluso si se veían igual
+que en la versión beta.
+
+812
+01:03:33,476 --> 01:03:36,229
+Oh, cierto, ¿sabes algo
+sobre este jefe?
+
+813
+01:03:36,938 --> 01:03:40,859
+Disculpe, ¿
+olvidó que soy un corredor de información?
+
+814
+01:03:40,984 --> 01:03:42,027
+¡Lo siento!
+
+815
+01:03:42,402 --> 01:03:47,991
+DINERO
+
+816
+01:03:49,534 --> 01:03:52,078
+Entonces, para resumir,
+parece que el jefe sigue siendo un golem,
+
+817
+01:03:52,203 --> 01:03:54,331
+como si estuviera en la beta.
+
+818
+01:03:54,456 --> 01:03:57,542
+Hay una cresta en su frente,
+y ese es su punto débil.
+
+819
+01:03:57,667 --> 01:03:59,669
+Suena mágico, ¿eh?
+
+820
+01:04:00,378 --> 01:04:04,632
+Sí. Y no es de extrañar que en este nivel histórico,
+Floor Five Boss sea especialmente temible.
+
+821
+01:04:05,633 --> 01:04:07,719
+Bueno, supongo que tendrán que
+verlo por ustedes mismos.
+
+822
+01:04:07,844 --> 01:04:12,974
+R-Derecha. De acuerdo, supondremos que
+la sala del jefe estará justo ahí.
+
+823
+01:04:13,099 --> 01:04:14,809
+Seguiré adelante y lo comprobaré.
+
+824
+01:04:15,477 --> 01:04:18,897
+Sostener.
+Permíteme manejar esto.
+
+825
+01:04:24,235 --> 01:04:25,403
+Podría ser eso...
+
+826
+01:04:25,528 --> 01:04:30,533
+estas escaleras son una trampa que
+se eleva desde el suelo para bloquear la entrada.
+
+827
+01:04:30,867 --> 01:04:34,746
+Incluso si eso sucede,
+puedo escapar antes de que se cierre por completo.
+
+828
+01:04:35,622 --> 01:04:37,332
+Entonces vamos juntos.
+
+829
+01:04:37,457 --> 01:04:38,541
+¡Eso no es negociable!
+
+830
+01:04:38,917 --> 01:04:40,251
+¿eh?
+
+831
+01:04:43,296 --> 01:04:44,297
+Supongo que puedo vivir con eso.
+
+832
+01:04:45,173 --> 01:04:48,093
+Chicos, siento preguntaros esto,
+pero ¿podríais vigilar las escaleras?
+
+833
+01:04:48,218 --> 01:04:48,885
+Seguro.
+
+834
+01:04:49,719 --> 01:04:50,804
+¿kirito?
+
+835
+01:04:53,306 --> 01:04:53,973
+Ten cuidado.
+
+836
+01:04:55,392 --> 01:04:58,103
+No te preocupes.
+Volveré pronto.
+
+837
+01:05:10,698 --> 01:05:13,535
+Espera... esta es la sala del jefe, ¿verdad?
+
+838
+01:05:14,244 --> 01:05:16,287
+No hay escaleras que conduzcan
+al piso seis.
+
+839
+01:05:16,413 --> 01:05:18,748
+Tampoco hay señales de que el jefe se materialice.
+
+840
+01:05:18,873 --> 01:05:19,707
+¡Oye!
+
+841
+01:05:20,083 --> 01:05:23,420
+Probablemente tengamos
+que movernos un poco o no explotará.
+
+842
+01:05:34,013 --> 01:05:34,681
+¡Argón!
+
+843
+01:05:37,183 --> 01:05:38,226
+¡Guau!
+
+844
+01:05:38,768 --> 01:05:39,436
+¡Argón!
+
+845
+01:05:39,811 --> 01:05:40,478
+¡Mantente alejado!
+
+846
+01:06:11,759 --> 01:06:12,802
+¡Vaya, creo que tuve un infarto!
+
+847
+01:06:12,927 --> 01:06:14,471
+¡De vuelta a ti!
+
+848
+01:06:17,849 --> 01:06:18,933
+Regresemos por ahora.
+
+849
+01:06:19,058 --> 01:06:20,059
+N-chico'. Ahí abajo'.!
+
+850
+01:06:28,234 --> 01:06:28,985
+¡Abajo abajo!
+
+851
+01:06:34,908 --> 01:06:36,743
+¿Que demonios?
+¿Tiene dos de ellos?
+
+852
+01:06:37,118 --> 01:06:39,704
+¡ Creo que tener dos brazos
+es bastante estándar!
+
+853
+01:06:54,302 --> 01:06:55,428
+¡Oye, Ki-boy!
+
+854
+01:06:55,803 --> 01:06:58,223
+Si tiene dos brazos,
+entonces también debe tener-
+
+855
+01:06:58,473 --> 01:06:59,432
+¡Aquí viene!
+
+856
+01:07:08,316 --> 01:07:08,983
+¡No te muevas!
+
+857
+01:07:09,400 --> 01:07:10,068
+¿eh?
+
+858
+01:07:10,860 --> 01:07:12,570
+Ahora mira hacia abajo lentamente.
+
+859
+01:07:12,695 --> 01:07:14,197
+O-Está bien.
+
+860
+01:07:14,656 --> 01:07:20,078
+Tanto tus pies como mis pies están cerca,
+pero sin tocar las líneas azules ni por un pelo, ¿verdad?
+
+861
+01:07:20,203 --> 01:07:23,456
+Lo que significa que si pisamos estas líneas,
+aparecerán esos círculos objetivo,
+
+862
+01:07:23,957 --> 01:07:26,709
+y ahí es donde esos brazos
+y piernas gigantes atacarán?
+
+863
+01:07:26,834 --> 01:07:27,919
+Creo que así es como funciona.
+
+864
+01:07:28,336 --> 01:07:30,964
+Así que, si nos movemos sin pisar
+estas líneas...
+
+865
+01:07:31,089 --> 01:07:31,965
+Oye, ¿estás bien?
+
+866
+01:07:34,467 --> 01:07:36,844
+Oh, pensé que el jefe
+ya habría aparecido.
+
+867
+01:07:37,428 --> 01:07:39,180
+¡Evadir! ¡Evadir!
+
+868
+01:07:53,778 --> 01:07:54,445
+¡Asuna!
+
+869
+01:08:29,981 --> 01:08:33,526
+No se parece en nada a la beta... ¡
+ni siquiera su nombre!
+
+870
+01:08:44,454 --> 01:08:45,955
+¡Whoa Whoa!
+
+871
+01:08:46,372 --> 01:08:49,375
+¡Parece que este jefe ataca
+con esos brazos y piernas que acabas de ver!
+
+872
+01:08:49,584 --> 01:08:52,712
+¡Si pisas las líneas azules en el suelo,
+aparecerán círculos de objetivos!
+
+873
+01:08:53,004 --> 01:08:56,758
+Voy a pisar uno a propósito, ¡
+así que prepara tus habilidades con la espada para atacar!
+
+874
+01:08:56,883 --> 01:08:57,717
+¡Cosa segura!
+
+875
+01:08:57,842 --> 01:08:58,676
+¡Entendido!
+
+876
+01:09:01,638 --> 01:09:02,347
+¡Ahí va!
+
+877
+01:09:28,373 --> 01:09:30,208
+¡Esa cresta es su punto débil!
+
+878
+01:09:30,667 --> 01:09:32,335
+Cuando veas tu oportunidad, ¡
+adelante!
+
+879
+01:09:32,835 --> 01:09:33,586
+¡Bien!
+
+880
+01:09:43,388 --> 01:09:44,055
+¡Vamos!
+
+881
+01:09:48,226 --> 01:09:49,519
+¡El tercero!
+
+882
+01:09:54,357 --> 01:09:56,609
+¡Ustedes!
+¡Mira las paredes!
+
+883
+01:10:06,869 --> 01:10:09,997
+¡Oye... definitivamente no es un patrón que hayamos visto antes!
+
+884
+01:10:10,123 --> 01:10:11,833
+¿Es seguro continuar con este Boss Raid?
+
+885
+01:10:12,333 --> 01:10:14,836
+Tienes razón,
+tengo un mal presentimiento sobre esto.
+
+886
+01:10:15,420 --> 01:10:17,964
+¡Todos!
+¡Refugiaos abajo!
+
+887
+01:10:18,089 --> 01:10:18,923
+¡Entendido!
+
+888
+01:10:19,048 --> 01:10:20,383
+¡Todos, por aquí!
+
+889
+01:10:23,469 --> 01:10:24,137
+Ki-chico!
+
+890
+01:10:28,975 --> 01:10:31,352
+Su cara... se ha ido?
+
+891
+01:10:32,103 --> 01:10:33,104
+Shiva!
+
+892
+01:10:43,990 --> 01:10:45,366
+La escalera...
+
+893
+01:10:45,908 --> 01:10:47,577
+... acaba de convertirse en su boca!
+
+894
+01:10:50,413 --> 01:10:53,332
+¡Ágil! ¡Intenta atacar esa cresta en su frente!
+
+895
+01:10:53,791 --> 01:10:56,878
+No es bueno.
+¡No tiene cresta!
+
+896
+01:10:57,795 --> 01:10:58,463
+¡Esperar!
+
+897
+01:10:59,547 --> 01:11:02,842
+Ahora lo entiendo.
+El jefe es la habitación misma.
+
+898
+01:11:05,386 --> 01:11:08,431
+Apuesto a que movió esa cresta
+a algún lugar dentro de esta habitación.
+
+899
+01:11:09,098 --> 01:11:11,642
+¡No podemos salvarlos a menos que lo aplastemos!
+
+900
+01:11:16,647 --> 01:11:19,942
+Maldita sea... ¿a dónde se fue esa cresta en la frente?
+
+901
+01:11:22,028 --> 01:11:25,573
+Incluso si toda esta habitación es el golem. ..
+dame un respiro!
+
+902
+01:11:26,365 --> 01:11:29,035
+Esto es realmente malo.
+Si no hacemos algo, Aachan va a...
+
+903
+01:11:46,219 --> 01:11:48,721
+¡Asuna!
+
+904
+01:12:03,611 --> 01:12:04,278
+¿Qué es eso?
+
+905
+01:12:04,737 --> 01:12:06,531
+E-¿Hay alguien más?
+
+906
+01:12:15,581 --> 01:12:16,624
+Mito?
+
+907
+01:12:20,711 --> 01:12:21,379
+¡Apurarse!
+
+908
+01:12:21,963 --> 01:12:23,005
+¡Ahora es tu oportunidad!
+
+909
+01:12:29,929 --> 01:12:30,638
+¡Ustedes!
+
+910
+01:12:30,847 --> 01:12:33,182
+¡Quiero que pises las líneas
+para resaltar los brazos y las piernas!
+
+911
+01:12:33,474 --> 01:12:36,269
+Su punto débil, ¡
+la cresta tiene que estar ahí en alguna parte!
+
+912
+01:12:36,686 --> 01:12:37,353
+¡Entendido!
+
+913
+01:12:37,478 --> 01:12:38,187
+¡Vamos a darle un tiro!
+
+914
+01:12:38,479 --> 01:12:39,647
+¡Entendido!
+
+915
+01:12:43,609 --> 01:12:44,610
+Mito.
+
+916
+01:12:45,319 --> 01:12:49,699
+Todavía no puedo perdonarme.
+
+917
+01:12:50,408 --> 01:12:51,409
+Pero...
+
+918
+01:12:52,076 --> 01:12:55,746
+¡No dejaré que mueras,
+Asuna, pase lo que pase!
+
+919
+01:12:57,498 --> 01:12:58,791
+¡No es bueno!
+¡No está a la vista!
+
+920
+01:12:59,375 --> 01:13:00,084
+¡Sólo una vez más!
+
+921
+01:13:06,257 --> 01:13:08,092
+Encontró
+
+922
+01:13:10,720 --> 01:13:11,554
+¡No te vas a escapar!
+
+923
+01:13:14,348 --> 01:13:15,474
+¡Maldita sea! Alcanzalo.
+
+924
+01:13:15,725 --> 01:13:17,351
+¡Baja la cabeza, Ki-boy!
+
+925
+01:13:26,652 --> 01:13:28,404
+¡Golpea ese objetivo!
+
+926
+01:13:38,414 --> 01:13:39,248
+¡Asuna!
+
+927
+01:13:48,424 --> 01:13:49,425
+¿Cualquier daño?
+
+928
+01:13:50,259 --> 01:13:51,093
+No.
+
+929
+01:13:52,553 --> 01:13:53,554
+Estoy bien.
+
+930
+01:13:54,138 --> 01:13:55,848
+¿Está bien?
+Gracias a dios.
+
+931
+01:13:59,727 --> 01:14:02,229
+Entonces... todavía puedes pelear, ¿verdad?
+
+932
+01:14:04,148 --> 01:14:04,857
+¡Por supuesto que puedo!
+
+933
+01:14:05,942 --> 01:14:07,944
+¡Vamos, derribemos a ese jefe!
+
+934
+01:14:08,736 --> 01:14:09,403
+¡Bueno!
+
+935
+01:14:18,245 --> 01:14:18,913
+Eso es todo.
+
+936
+01:14:19,664 --> 01:14:20,873
+¿ En qué se diferencia
+de la beta?
+
+937
+01:14:21,207 --> 01:14:24,961
+Su punto débil estaba fijo en su frente en la versión beta,
+pero ahora el patrón ha cambiado,
+
+938
+01:14:25,086 --> 01:14:27,380
+¡y parece que se mueve
+por todo su cuerpo!
+
+939
+01:14:38,432 --> 01:14:39,433
+¡Ahí está!
+
+940
+01:14:39,725 --> 01:14:41,894
+¡No lo hagas!
+¡Es demasiado lejos!
+
+941
+01:14:57,368 --> 01:14:59,370
+Vaya, ¿un ataque de seguimiento?
+
+942
+01:14:59,495 --> 01:15:00,454
+¡Ella podría lograrlo!
+
+943
+01:15:02,123 --> 01:15:05,710
+Chicos, a mi señal,
+pisen las líneas.
+
+944
+01:15:06,544 --> 01:15:09,505
+¡Tan pronto como ubiquemos la cresta,
+la golpearé!
+
+945
+01:15:09,880 --> 01:15:11,340
+- ¡Bien!
+- ¡Contamos contigo!
+
+946
+01:15:17,430 --> 01:15:18,472
+¡Aquí! 
+Takeifl
+
+947
+01:15:42,788 --> 01:15:43,831
+¿Q-Qué está pasando?
+
+948
+01:15:48,919 --> 01:15:50,838
+¡Retrocede!
+
+949
+01:16:02,141 --> 01:16:03,309
+Esa cosa es enorme.
+
+950
+01:16:03,726 --> 01:16:07,772
+Sí. ¡Pero ahora podemos usar
+nuestra estrategia inicial para combatirlo!
+
+951
+01:16:08,230 --> 01:16:11,025
+¡Vamos a borrar esa barra final!
+
+952
+01:16:11,150 --> 01:16:12,234
+¡Bien!
+
+953
+01:16:37,093 --> 01:16:38,803
+¡Ahora! ¡Cargar!
+
+954
+01:16:41,722 --> 01:16:42,973
+¡Cambiar!
+
+955
+01:17:08,791 --> 01:17:11,293
+Ki-boy, ¡parece que esa cresta
+ya no se mueve!
+
+956
+01:17:11,544 --> 01:17:12,378
+¡Entendido!
+
+957
+01:17:12,503 --> 01:17:13,420
+¡Asuna!
+
+958
+01:17:13,546 --> 01:17:14,213
+¡Bien!
+
+959
+01:17:31,564 --> 01:17:32,648
+¡La cresta en su frente!
+
+960
+01:17:32,982 --> 01:17:34,108
+¡Bien!
+
+961
+01:17:43,075 --> 01:17:43,742
+Mito!
+
+962
+01:17:54,587 --> 01:17:55,838
+¡Asuna! Kirito!
+
+963
+01:17:56,172 --> 01:17:57,923
+¡Acaba con él con estilo!
+
+964
+01:17:58,048 --> 01:17:59,133
+¡Lo entendiste!
+
+965
+01:18:00,134 --> 01:18:01,802
+¡No te preocupes si lo hago!
+
+966
+01:18:18,110 --> 01:18:18,903
+Se acabo...
+
+967
+01:18:20,237 --> 01:18:23,157
+...para ti ahora!
+
+968
+01:19:08,535 --> 01:19:09,495
+¡Lo hicimos!
+
+969
+01:19:10,746 --> 01:19:13,249
+- ¡Lo hicimos!
+- ¡Lo hicimos!
+
+970
+01:19:16,919 --> 01:19:17,920
+H" ¡Oye!
+
+971
+01:19:21,090 --> 01:19:22,883
+Buen trabajo, Kirito.
+
+972
+01:19:23,342 --> 01:19:24,093
+¡Sí!
+
+973
+01:19:33,978 --> 01:19:36,772
+Quienquiera que haya dejado caer la bandera del gremio,
+háganoslo saber, ¿de acuerdo?
+
+974
+01:19:39,316 --> 01:19:40,693
+Ey. ¿Cualquiera?
+
+975
+01:19:40,818 --> 01:19:41,860
+¿kirito?
+
+976
+01:19:44,822 --> 01:19:46,198
+¡Tampoco está en mi inventario!
+
+977
+01:20:03,007 --> 01:20:04,675
+¿ Es esta la bandera
+de la que hablas?
+
+978
+01:20:10,723 --> 01:20:11,390
+¡Eso es todo!
+
+979
+01:20:19,064 --> 01:20:19,732
+¿Está seguro?
+
+980
+01:20:20,232 --> 01:20:22,443
+Sí. No tengo uso para ello.
+
+981
+01:20:23,527 --> 01:20:24,194
+Mito.
+
+982
+01:20:25,988 --> 01:20:26,655
+Asuna.
+
+983
+01:20:27,781 --> 01:20:29,575
+Gracias por venir.
+
+984
+01:20:32,411 --> 01:20:33,078
+Seguro.
+
+985
+01:20:36,123 --> 01:20:38,125
+¿Hagamos esto de nuevo alguna vez?
+
+986
+01:20:38,459 --> 01:20:41,295
+Sí... Quiero decir,
+eso es realmente tentador y todo.
+
+987
+01:20:41,754 --> 01:20:44,006
+Pero la cosa es que
+yo también quiero encontrarlo.
+
+988
+01:20:48,344 --> 01:20:49,678
+Mi forma de vida en este mundo.
+
+989
+01:20:53,474 --> 01:20:54,433
+Mito.
+
+990
+01:21:00,230 --> 01:21:04,068
+Quiero decir, esa es una de las mejores partes
+de este mundo, ¿verdad?
+
+991
+01:21:04,276 --> 01:21:05,569
+Tienes razón sobre eso.
+
+992
+01:21:06,153 --> 01:21:08,322
+Sé que puedes hacerlo, Mito.
+¡Con seguridad!
+
+993
+01:21:09,448 --> 01:21:10,407
+Sí.
+
+994
+01:21:10,532 --> 01:21:11,784
+Voy a trabajar en ello.
+
+995
+01:21:12,534 --> 01:21:13,535
+Realmente trabaja en ello.
+
+996
+01:21:15,162 --> 01:21:16,830
+Entonces, llámame de nuevo cuando lo haga.
+
+997
+01:21:16,955 --> 01:21:20,000
+Iré corriendo hacia ti, Asuna,
+pase lo que pase.
+
+998
+01:21:20,125 --> 01:21:22,711
+¡Bien!
+Realmente cuento contigo.
+
+999
+01:21:25,547 --> 01:21:27,216
+Esta bien, nos vemos.
+
+1000
+01:21:27,925 --> 01:21:29,718
+Nos vemos, Mito.
+
+1001
+01:21:36,350 --> 01:21:38,852
+ALS debería aparecer en cualquier momento.
+
+1002
+01:21:41,397 --> 01:21:44,608
+¿Estás seguro de que no querías
+ir al Piso Seis con los demás?
+
+1003
+01:21:44,733 --> 01:21:46,777
+No es que tenga prisa.
+
+1004
+01:21:46,902 --> 01:21:48,237
+Estoy feliz de hacerte compañía.
+
+1005
+01:21:48,362 --> 01:21:49,071
+¿Qué?
+
+1006
+01:21:49,405 --> 01:21:50,406
+Gracias.
+
+1007
+01:22:08,215 --> 01:22:09,508
+Eh
+
+1008
+01:22:10,092 --> 01:22:11,552
+En todo caso...
+
+1009
+01:22:11,677 --> 01:22:14,012
+ya que sé a ciencia cierta
+que derrotaste al jefe,
+
+1010
+01:22:14,138 --> 01:22:15,305
+Supongo que no me matará decir:
+"¡Buen trabajo!"
+
+1011
+01:22:15,431 --> 01:22:18,016
+Blackie, ¿qué hiciste con
+el objeto del Jefe?
+
+1012
+01:22:18,142 --> 01:22:20,602
+¡Sí, sabemos que dejó caer la bandera del gremio!
+
+1013
+01:22:20,727 --> 01:22:23,647
+Sí. Cayó, de acuerdo.
+
+1014
+01:22:25,357 --> 01:22:26,900
+Esta es esa bandera.
+
+1015
+01:22:27,025 --> 01:22:29,319
+Se llama la Bandera del Valor.
+
+1016
+01:22:29,445 --> 01:22:31,613
+Probablemente ya conozcas su efecto.
+
+1017
+01:22:31,947 --> 01:22:36,577
+¡Eh! Déjalo en manos del renombrado Beater.
+Te aseguraste de tenerlo en tus manos, ¿eh?
+
+1018
+01:22:36,702 --> 01:22:40,831
+Entonces, ¿qué vas a hacer con eso?
+Ni siquiera estás en un gremio.
+
+1019
+01:22:41,957 --> 01:22:45,836
+No es que no tenga intención
+de entregarles esto a ustedes.
+
+1020
+01:22:45,961 --> 01:22:47,463
+Pero sólo bajo dos condiciones.
+
+1021
+01:22:47,921 --> 01:22:49,256
+¿Dijiste condiciones?
+
+1022
+01:22:50,716 --> 01:22:51,592
+¿Qué son?
+Escuchémoslos.
+
+1023
+01:22:51,967 --> 01:22:55,554
+Sobre el papel son dos, pero mientras uno
+de ellos se borre, estaré satisfecho.
+
+1024
+01:22:56,138 --> 01:23:00,142
+En primer lugar,
+si el mismo elemento cae nuevamente en el futuro,
+
+1025
+01:23:00,267 --> 01:23:04,146
+ALS se hará cargo de uno
+y DKB del otro.
+
+1026
+01:23:04,271 --> 01:23:08,066
+Entonces, cualquier gremio que no tenga una bandera
+en ese momento se queda con esta, sin hacer preguntas.
+
+1027
+01:23:08,650 --> 01:23:09,359
+¿Y el segundo?
+
+1028
+01:23:09,735 --> 01:23:14,656
+Eso entrará en juego si ALS
+y DKB se fusionan, formando un nuevo gremio.
+
+1029
+01:23:14,781 --> 01:23:16,325
+Si eso sucede,
+lo entregaré en el acto.
+
+1030
+01:23:19,244 --> 01:23:20,829
+¡De ninguna manera eso va a suceder!
+
+1031
+01:23:20,954 --> 01:23:22,998
+¿Fusionarse con esos tipos que actúan
+como si fueran mejores que nosotros?
+
+1032
+01:23:23,123 --> 01:23:24,333
+¡Tienes que estar bromeando!
+
+1033
+01:23:24,458 --> 01:23:25,751
+¡Anímate y pregúntales!
+
+1034
+01:23:25,876 --> 01:23:27,920
+¡Te van a decir que estás loco!
+
+1035
+01:23:28,045 --> 01:23:31,757
+- ¿Y cuánto tiempo tenemos que esperar hasta que baje otra bandera?
+- ¡Estaríamos perdiendo el tiempo hasta que caiga!
+
+1036
+01:23:31,882 --> 01:23:32,883
+Kirito.
+
+1037
+01:23:34,593 --> 01:23:37,387
+Lo siento, pero no cambiaré estos términos.
+
+1038
+01:23:38,055 --> 01:23:39,640
+¡Maldita sea!
+
+1039
+01:23:41,016 --> 01:23:43,852
+¡Yo... yo sé lo que realmente está pasando!
+
+1040
+01:23:44,353 --> 01:23:47,606
+¡Estos tipos nunca tuvieron la intención
+de entregar esa bandera!
+
+1041
+01:23:48,565 --> 01:23:49,858
+Haciéndonos saltar a través de aros imposibles,
+
+1042
+01:23:49,983 --> 01:23:53,946
+¡cuando solo van a deslizar
+la bandera y crear su propio gremio!
+
+1043
+01:23:54,196 --> 01:23:55,030
+- ¡Eso no es cierto!
+- Oye, ¿hablas en serio?
+
+1044
+01:23:55,155 --> 01:23:56,657
+- Nosotros no...
+- ¿Se lo van a quedar para ellos?
+
+1045
+01:23:56,782 --> 01:23:58,200
+Siempre supe que sacarían algo así.
+
+1046
+01:23:58,325 --> 01:24:00,786
+No tenemos que sentarnos aquí
+y escuchar su basura.
+
+1047
+01:24:01,036 --> 01:24:03,830
+Kibau! ¡Son solo ellos dos!
+
+1048
+01:24:03,956 --> 01:24:06,542
+¡Hay muchas maneras
+de recuperar la bandera!
+
+1049
+01:24:08,835 --> 01:24:12,172
+¿Estás hablando de fuerza bruta, Joe?
+
+1050
+01:24:12,506 --> 01:24:13,590
+¡Así es!
+
+1051
+01:24:13,715 --> 01:24:17,427
+Tenemos toda una fuerza.
+Podemos encargarnos de esos dos tontos solitarios-
+
+1052
+01:24:17,803 --> 01:24:19,596
+¡Estúpido!
+
+1053
+01:24:20,097 --> 01:24:22,307
+No me importa lo valiosos que sean los artículos.
+
+1054
+01:24:22,432 --> 01:24:28,605
+Si comenzamos a amenazar a nuestros compañeros jugadores a punta de espada
+para atraparlos, ¡no seremos mejores que un grupo de criminales!
+
+1055
+01:24:28,981 --> 01:24:33,443
+¡Piense bien de nuevo por qué existe la ELA en primer lugar!
+
+1056
+01:24:36,113 --> 01:24:38,824
+Lamento que hayas tenido que presenciar esa mierda.
+
+1057
+01:24:39,491 --> 01:24:45,122
+Esas condiciones tuyas...
+¿lo mismo vale para DKB, entonces?
+
+1058
+01:24:45,247 --> 01:24:47,583
+Sí. Claro que lo hace.
+
+1059
+01:24:48,208 --> 01:24:52,129
+En ese caso,
+te dejaremos la bandera por ahora.
+
+1060
+01:24:52,254 --> 01:24:56,341
+Para ser honesto,
+realmente no veo una fusión en proceso.
+
+1061
+01:24:56,466 --> 01:24:57,259
+Muy bien, ¡nos vamos!
+
+1062
+01:24:57,467 --> 01:25:02,639
+Oye, la puerta de teletransporte a la ciudad principal
+en el piso seis ya se activó,
+
+1063
+01:25:02,764 --> 01:25:05,142
+así que si regresas a Karluin,
+ese camino sería más rápido.
+
+1064
+01:25:06,810 --> 01:25:07,477
+¿Está bien?
+
+1065
+01:25:12,983 --> 01:25:14,693
+Oye, gracias, "Kirito".
+
+1066
+01:25:15,652 --> 01:25:19,448
+Cielos, ¿una vez más Blackie
+se lleva el premio?
+
+1067
+01:25:19,573 --> 01:25:22,701
+¡Ni siquiera en un gremio,
+y nos roba ese objeto raro!
+
+1068
+01:25:22,826 --> 01:25:24,119
+¿Qué tan astuto es eso?
+
+1069
+01:25:24,244 --> 01:25:26,538
+¡No es que no estemos trabajando también!
+
+1070
+01:25:26,663 --> 01:25:30,667
+Si todo lo que le importa es él mismo, ¡
+entonces debería completar el juego solo!
+
+1071
+01:25:45,349 --> 01:25:48,894
+Buen trabajo, Asuna.
+Deberíamos descansar un rato, entonces...
+
+1072
+01:25:52,981 --> 01:25:54,775
+¿A-Asuna?
+
+1073
+01:25:55,776 --> 01:25:56,652
+Por qué...
+
+1074
+01:25:58,362 --> 01:25:59,279
+¿Por qué?
+
+1075
+01:26:00,697 --> 01:26:03,659
+¿Por qué tienes que pasar por todo esto?
+
+1076
+01:26:04,409 --> 01:26:06,244
+Para el equipo de asalto...
+
+1077
+01:26:06,787 --> 01:26:09,790
+Para todos los atrapados dentro de este mundo...
+
+1078
+01:26:09,915 --> 01:26:11,416
+Arriesgas tu vida luchando...
+
+1079
+01:26:12,125 --> 01:26:15,295
+Y aunque fuiste tú
+quien evitó que los gremios colapsaran,
+
+1080
+01:26:15,420 --> 01:26:20,008
+esa gente sigue aferrándose a sus camarillas,
+haciendo lo que les da la gana...
+
+1081
+01:26:20,133 --> 01:26:22,135
+peleándose sin pensarlo dos veces...
+
+1082
+01:26:22,969 --> 01:26:27,683
+Por eso has estado luchando,
+hasta que estás maltratado y magullado...
+
+1083
+01:26:27,808 --> 01:26:29,810
+pero todo lo que hacen es hablar mal de ti.
+
+1084
+01:26:30,727 --> 01:26:32,646
+Esto esta muy mal.
+
+1085
+01:26:32,771 --> 01:26:33,897
+Está tan mal.
+
+1086
+01:26:36,066 --> 01:26:37,859
+¡Te lo digo,
+es totalmente incorrecto!
+
+1087
+01:26:43,657 --> 01:26:44,449
+Asuna...
+
+1088
+01:26:44,991 --> 01:26:46,827
+Siempre fue mi propia elección.
+
+1089
+01:26:48,078 --> 01:26:51,790
+Soy el que eligió no
+unirse a un gremio.
+
+1090
+01:26:52,165 --> 01:26:58,755
+No estoy peleando porque quiero que todos
+me reconozcan o me colmen de elogios.
+
+1091
+01:26:59,548 --> 01:27:03,427
+Mientras pueda mantenerme a mí mismo
+y a las personas cercanas a mí a salvo,
+
+1092
+01:27:03,552 --> 01:27:05,595
+nada más me importa.
+
+1093
+01:27:05,971 --> 01:27:07,013
+Es todo...
+
+1094
+01:27:08,557 --> 01:27:11,268
+Para poder sobrevivir en este mundo.
+
+1095
+01:27:13,478 --> 01:27:14,563
+Es por eso...
+
+1096
+01:27:14,730 --> 01:27:16,648
+No tengo derecho
+a ser reconocido por nadie...
+
+1097
+01:27:17,399 --> 01:27:20,110
+O para ganar el elogio de nadie.
+
+1098
+01:27:20,777 --> 01:27:23,155
+No tienes que llorar por mí-
+
+1099
+01:27:24,531 --> 01:27:27,284
+¡Seré yo quien
+decida por quién lloro!
+
+1100
+01:27:37,961 --> 01:27:41,506
+Entonces déjame derramarte algunos elogios, Kirito.
+
+1101
+01:27:42,966 --> 01:27:45,260
+Si hay algo que pueda hacer por ti...
+
+1102
+01:27:46,386 --> 01:27:47,763
+Sólo di la palabra.
+
+1103
+01:27:51,600 --> 01:27:54,478
+Es suficiente oírte decir esas palabras.
+
+1104
+01:27:54,603 --> 01:27:57,355
+No es como si tuvieras
+que hacer algo por mí.
+
+1105
+01:27:57,481 --> 01:27:59,274
+Bien, entonces, ¡siéntate allí!
+
+1106
+01:28:24,549 --> 01:28:25,467
+Gracias.
+
+1107
+01:28:29,679 --> 01:28:31,932
+Cinco cuatro,
+
+1108
+01:28:32,599 --> 01:28:36,895
+tres dos uno...
+
+1109
+01:28:37,479 --> 01:28:39,648
+¡Cero!
+
+1110
+01:28:39,773 --> 01:28:42,901
+- ¡Feliz año nuevo!
+- ¡Feliz año nuevo!
+
+1111
+01:28:43,777 --> 01:28:46,738
+¡Feliz año nuevo, Kirito!
+
+1112
+01:28:47,280 --> 01:28:48,573
+¡Feliz año nuevo!
+
+1113
+01:28:50,700 --> 01:28:53,620
+Todavía no puedo creer que consiguieron fuegos artificiales.
+
+1114
+01:28:53,745 --> 01:28:55,413
+¿Dónde los vendían?
+
+1115
+01:28:55,539 --> 01:28:59,543
+Escuché que puedes comprarlos en una tienda de equipo
+en un rincón de Town of Beginnings.
+
+1116
+01:28:59,668 --> 01:29:01,461
+Aparentemente fue Liten quien los encontró.
+
+1117
+01:29:01,586 --> 01:29:02,420
+¿En realidad?
+
+1118
+01:29:02,546 --> 01:29:04,339
+Entonces podemos usar
+esos fuegos artificiales contra mon-
+
+1119
+01:29:04,464 --> 01:29:06,883
+Lo siento, pero solo podemos usarlos
+en la zona segura.
+
+1120
+01:29:07,008 --> 01:29:08,927
+Ah, ¿es así?
+
+1121
+01:29:11,263 --> 01:29:13,765
+2023, ¿eh?
+
+1122
+01:29:14,558 --> 01:29:18,520
+Todavía es un poco difícil de creer
+que ya han pasado dos meses.
+
+1123
+01:29:19,062 --> 01:29:25,318
+Sí. Cuando me encerraba en mi habitación
+en la Ciudad de los Comienzos, cada día me parecía tan largo.
+
+1124
+01:29:26,111 --> 01:29:28,530
+Pero ahora es como si cada día pasara en un instante.
+
+1125
+01:29:31,533 --> 01:29:34,202
+¿Sabes que?
+Después de dejar la Ciudad de los Comienzos,
+
+1126
+01:29:34,327 --> 01:29:38,707
+y antes de conocerte, pensé que podía
+tratar mis armas como desechables.
+
+1127
+01:29:39,291 --> 01:29:41,293
+Compraría el mismo una y otra vez,
+
+1128
+01:29:41,418 --> 01:29:42,919
+y nunca los mejoré,
+ni los mandé a reparar.
+
+1129
+01:29:43,044 --> 01:29:45,797
+Una vez que la hoja se desafilaba, los arrojaba al
+suelo de alguna mazmorra.
+
+1130
+01:29:46,631 --> 01:29:50,468
+Pero eso era lo que yo era en el pasado.
+
+1131
+01:29:51,303 --> 01:29:54,389
+Pero luego Mito me dio el Wind Fleuret,
+
+1132
+01:29:54,514 --> 01:29:57,517
+y gracias a ti, lo he vuelto a forjar en
+el que estoy usando ahora.
+
+1133
+01:29:58,226 --> 01:29:59,769
+Y después de todas las batallas que he pasado,
+
+1134
+01:29:59,936 --> 01:30:03,023
+Empecé a darme cuenta de algo,
+poco a poco.
+
+1135
+01:30:03,607 --> 01:30:05,483
+Que debo cuidarme más.
+
+1136
+01:30:06,151 --> 01:30:09,905
+Y por eso quiero que tú
+también te cuides, Kirito.
+
+1137
+01:30:10,614 --> 01:30:11,364
+bueno
+
+1138
+01:30:12,949 --> 01:30:17,120
+Oye, voy a bajar a buscar
+una botella nueva y algo de comer.
+
+1139
+01:30:17,704 --> 01:30:19,289
+¡Oh, entonces voy contigo!
+
+1140
+01:30:30,634 --> 01:30:32,510
+Cuida tus pasos, ¿de acuerdo?
+
+1141
+01:30:33,720 --> 01:30:34,471
+Seguro.
+
+1142
+01:30:35,472 --> 01:30:36,139
+¿Qué es?
+
+1143
+01:30:36,264 --> 01:30:38,183
+Eh'? Ah, no es nada.
+
+1144
+01:30:53,949 --> 01:30:54,950
+¿Pasa algo?
+
+1145
+01:30:55,075 --> 01:30:57,494
+Oh, no, no es nada.
+
+1146
+01:30:57,619 --> 01:30:58,828
+Entonces pongámonos en marcha.
+
+1147
+01:30:59,120 --> 01:30:59,788
+bueno
+
+1148
+01:31:37,492 --> 01:31:40,954
+Es... ¡hora del espectáculo!
+
+1149
+01:31:45,500 --> 01:31:46,167
+¿Quién eres?
+
+1150
+01:31:46,292 --> 01:31:49,129
+Espera, espera, quédate quieto, ahora.
+
+1151
+01:31:49,254 --> 01:31:53,550
+Muévete, y mi cuchillo cortará a tu chica.
+
+1152
+01:31:55,552 --> 01:31:57,137
+Estamos en una zona segura.
+
+1153
+01:31:57,262 --> 01:31:59,973
+Tus amenazas no significan nada aquí.
+
+1154
+01:32:00,098 --> 01:32:03,893
+Escucharte.
+Tranquilízate, ¿quieres, Blackie?
+
+1155
+01:32:04,019 --> 01:32:09,024
+La zona segura termina en ese jardín delantero.
+Esto es parte de la mazmorra.
+
+1156
+01:32:09,441 --> 01:32:10,108
+Qué-
+
+1157
+01:32:11,860 --> 01:32:13,695
+¿ Cuánto daño puedes
+hacer con un cuchillo?
+
+1158
+01:32:13,945 --> 01:32:17,115
+¡Ja! ¿No somos luchadores?
+
+1159
+01:32:17,782 --> 01:32:23,663
+Pero, ¿y si te dijera que sumergí esta hoja
+en venenos paralizantes y dañinos de nivel 5?
+
+1160
+01:32:29,169 --> 01:32:30,628
+¿Por qué estás haciendo esto?
+
+1161
+01:32:34,215 --> 01:32:37,844
+¿No es obvio, hermano?
+¡Porque es entretenido!
+
+1162
+01:32:38,344 --> 01:32:39,804
+¿Entre... entreteniendo?
+
+1163
+01:32:40,263 --> 01:32:42,891
+Sí.
+Quiero pasar un buen rato.
+
+1164
+01:32:43,016 --> 01:32:45,393
+También podría,
+en este gran escenario, ¿verdad?
+
+1165
+01:32:45,518 --> 01:32:48,480
+¡Quiero configurarlo bien
+para que sea genial!
+
+1166
+01:32:48,646 --> 01:32:51,566
+Está bien, no me gustaría que
+ningún intruso se entrometa.
+
+1167
+01:32:51,691 --> 01:32:53,276
+Nos dirigimos a otro lugar.
+
+1168
+01:32:53,401 --> 01:32:55,195
+¿Qué te parecen las catacumbas?
+
+1169
+01:32:58,239 --> 01:32:59,157
+Bien por mi.
+
+1170
+01:32:59,824 --> 01:33:00,492
+¿Asuna?
+
+1171
+01:33:11,586 --> 01:33:12,295
+Kirito!
+
+1172
+01:33:12,420 --> 01:33:13,129
+¡Entendido!
+
+1173
+01:33:32,065 --> 01:33:36,402
+¡Otra vez, Blackie! ¡Esgrimidor!
+
+1174
+01:33:43,201 --> 01:33:44,953
+No fue sumergido en veneno.
+
+1175
+01:33:45,995 --> 01:33:47,914
+Tal como sospechábamos, estaba mintiendo.
+
+1176
+01:33:48,957 --> 01:33:50,667
+¿Qué estabas pensando justo ahora?
+
+1177
+01:33:51,292 --> 01:33:53,503
+Si realmente estuviéramos fuera
+de la zona segura aquí,
+
+1178
+01:33:53,628 --> 01:33:55,755
+no se habría molestado
+en cambiar de lugar.
+
+1179
+01:33:55,880 --> 01:33:57,632
+Nos habría apuñalado en el acto.
+
+1180
+01:33:57,757 --> 01:33:59,968
+Pero, ¿y si te equivocaste?
+
+1181
+01:34:00,093 --> 01:34:00,760
+Hubiera estado bien.
+
+1182
+01:34:02,470 --> 01:34:03,346
+Porque tengo esto.
+
+1183
+01:34:06,558 --> 01:34:08,768
+CREADO PORI MITO NEUTRALIZA EL VENENO DAÑINO DE NIVEL 5
+Y EL VENENO PARALIZADOR DE NIVEL 5 (UNA CARGA RESTANTE)
+
+1184
+01:34:08,977 --> 01:34:09,686
+¡Guau!
+
+1185
+01:34:10,311 --> 01:34:11,146
+De ninguna manera.
+
+1186
+01:34:11,396 --> 01:34:13,523
+¿Esto es real... Asuna?
+
+1187
+01:34:16,109 --> 01:34:18,278
+Gracias, Mito.
+
+1188
+01:34:22,949 --> 01:34:25,326
+De todos modos, ¡estoy tan contenta de que ambos hayamos sobrevivido!
+
+1189
+01:34:25,451 --> 01:34:26,828
+Creo que deberíamos irnos de aquí para estar seguros-
+
+1190
+01:34:26,953 --> 01:34:29,747
+Kirito, ese tipo de hace un momento...
+
+1191
+01:34:30,081 --> 01:34:33,543
+Debe habernos atacado para robar la bandera del gremio, ¿
+no crees?
+
+1192
+01:34:34,752 --> 01:34:36,212
+Escuché lo que dijo.
+
+1193
+01:34:36,337 --> 01:34:39,757
+"Gran escenario" y "Quiero
+prepararlo bien para que sea genial".
+
+1194
+01:34:39,883 --> 01:34:45,221
+¿Crees que estaba hablando de hacer que
+los dos grandes gremios, ALS y DKB, se maten entre sí?
+
+1195
+01:34:45,346 --> 01:34:47,265
+Si lo fue,
+¿no es demasiado pronto?
+
+1196
+01:34:47,390 --> 01:34:49,309
+Nadie sabe de nosotros pero...
+
+1197
+01:34:49,559 --> 01:34:51,394
+Haciéndonos saltar a través de aros imposibles-
+
+1198
+01:34:51,519 --> 01:34:53,146
+Uno de mis muchachos consiguió
+información realmente jugosa.
+
+1199
+01:34:53,479 --> 01:34:58,109
+¿Qué quiso decir ese tal Morte cuando dijo que
+quería que el gremio de Kibaou y el gremio de Lind se mataran entre sí?
+
+1200
+01:34:58,943 --> 01:35:01,112
+¡De ninguna manera!
+¿Un grupo de PK?
+
+1201
+01:35:01,362 --> 01:35:02,488
+¿Los compañeros de la muerte?
+
+1202
+01:35:02,614 --> 01:35:04,949
+Sí, creo que es una buena apuesta.
+
+1203
+01:35:06,451 --> 01:35:09,078
+Probablemente saben todo lo que sabemos.
+
+1204
+01:35:09,871 --> 01:35:13,625
+Uno de estos días,
+este mundo se tratará de matar jugadores,
+
+1205
+01:35:13,750 --> 01:35:15,585
+y borrar el juego
+simplemente se quedará en el camino.
+
+1206
+01:35:17,754 --> 01:35:20,048
+Cierto, eso realmente podría suceder.
+
+1207
+01:35:20,173 --> 01:35:24,552
+Por lo tanto, es aún más crucial que impidamos que
+la bandera caiga en sus manos.
+
+1208
+01:35:24,677 --> 01:35:26,346
+Si al final tenemos que luchar...
+
+1209
+01:35:26,471 --> 01:35:32,644
+Tengo algo de conocimiento de los métodos de los PK-ers,
+y he estado en muchos duelos desde los días de la beta.
+
+1210
+01:35:35,521 --> 01:35:37,357
+Entonces yo también pelearé.
+
+1211
+01:35:37,649 --> 01:35:40,109
+¿Qué? Eso no es lo que quise decir.
+
+1212
+01:35:40,235 --> 01:35:41,569
+No, me he decidido.
+
+1213
+01:35:41,694 --> 01:35:44,822
+De ahora en adelante, no voy a
+dejar que te encargues solo de todos los trabajos peligrosos.
+
+1214
+01:35:45,990 --> 01:35:49,118
+Y además,
+soy tu socio, ¿recuerdas?
+
+1215
+01:35:49,786 --> 01:35:53,873
+Te voy a apoyar,
+así como me rescataste en las catacumbas.
+
+1216
+01:35:56,709 --> 01:35:58,586
+Correcto, tú y yo somos socios.
+
+1217
+01:35:58,920 --> 01:36:00,338
+¡Cuento con usted!
+
+1218
+01:36:00,463 --> 01:36:01,172
+Bien.
+
+1219
+01:36:06,386 --> 01:36:08,054
+Vamos, Kirito.
+
+1220
+01:36:08,972 --> 01:36:10,515
+Está bien, Asuna.
+
+1221
+01:37:20,001 --> 01:37:28,343
+De alguna manera tú y yo todavía estamos acostados aquí
+
+1222
+01:37:29,010 --> 01:37:34,974
+Como si nunca tuviéramos suficiente de mirar al cielo
+
+1223
+01:37:35,099 --> 01:37:41,689
+¿Cuándo fue la última vez que nos pusimos de pie?
+
+1224
+01:37:44,192 --> 01:37:51,908
+Lejos, muy lejos,
+alguien nos llama
+
+1225
+01:37:54,577 --> 01:37:57,080
+Lejos en la distancia
+
+1226
+01:37:59,665 --> 01:38:04,587
+Date prisa, toma vuelo ahora mismo
+con la intuición de tu corazón
+
+1227
+01:38:04,712 --> 01:38:09,634
+Todos mis problemas se hacen añicos ante tus vítores
+
+1228
+01:38:09,759 --> 01:38:14,847
+Más lejos, más y más alto
+Audazmente mirando hacia arriba
+
+1229
+01:38:14,972 --> 01:38:24,273
+Hacia el mañana que nadie más puede ver
+
+1230
+01:38:33,282 --> 01:38:41,624
+¿Por qué lo siento de nuevo,
+fuera de mi cuerpo?
+
+1231
+01:38:42,250 --> 01:38:48,339
+Este latido que me pone nervioso
+
+1232
+01:38:48,464 --> 01:38:56,639
+Parece que todavía podemos volar-ver?
+
+1233
+01:38:57,265 --> 01:39:05,314
+Partí mi corazón en dos
+para que parecieran alas
+
+1234
+01:39:07,775 --> 01:39:10,403
+Yo creo
+
+1235
+01:39:12,905 --> 01:39:17,869
+Date prisa, escucha los latidos de tu corazón imaginario cantando
+
+1236
+01:39:17,994 --> 01:39:22,874
+Date prisa, estoy devastado y siento que
+voy a desaparecer.
+
+1237
+01:39:22,999 --> 01:39:28,087
+Sé fuerte y sube más alto
+Audazmente batiendo tus alas
+
+1238
+01:39:28,212 --> 01:39:37,513
+Hacia el mañana
+que nadie más puede ver
+
+1239
+01:39:45,855 --> 01:39:50,193
+Solía ​​caminar este camino solo
+
+1240
+01:39:50,610 --> 01:39:55,907
+Y eso debería haber sido suficiente para mí
+
+1241
+01:39:56,032 --> 01:40:07,210
+Pero ahora hay dos sonidos en lugar de uno
+
+1242
+01:40:08,503 --> 01:40:13,424
+Date prisa, toma vuelo ahora mismo
+con la intuición de tu corazón
+
+1243
+01:40:13,549 --> 01:40:18,346
+Más alto en el cielo contigo,
+volando más allá de ese sol
+
+1244
+01:40:18,471 --> 01:40:23,684
+Más lejos, más y más alto
+Audazmente mirando hacia arriba
+
+1245
+01:40:23,809 --> 01:40:33,528
+Los dos nos dirigimos más allá de las nubes.

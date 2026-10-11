@@ -1,0 +1,3681 @@
+1
+00:00:22,856 --> 00:00:26,193
+{\an8}<b>EN LOS ALREDEDORES DE LINCOLN,
+UN PUEBLO DE LAS MONTAÑAS ROCOSAS,</b>
+
+2
+00:00:26,276 --> 00:00:28,278
+{\an8}<b>UN HOMBRE LLAMADO
+THEODORE J. KACZYNSKI</b>
+
+3
+00:00:28,362 --> 00:00:30,364
+{\an8}<b>VIVIÓ SIN AGUA CORRIENTE
+NI ELECTRICIDAD</b>
+
+4
+00:00:30,447 --> 00:00:33,408
+{\an8}<b>DURANTE 25 AÑOS, MIENTRAS LLEVABA
+UNA VIDA SECRETA SINIESTRA</b>
+
+5
+00:00:33,492 --> 00:00:35,619
+{\an8}<b>QUE LLAMÓ LA ATENCIÓN DEL MUNDO.</b>
+
+6
+00:00:35,702 --> 00:00:37,704
+{\an8}<b>NACIÓ EN 1942 Y SUS PADRES ERAN
+UN SALCHICHERO</b>
+
+7
+00:00:37,788 --> 00:00:39,665
+{\an8}<b>Y UN AMA DE CASA DE CHICAGO.</b>
+
+8
+00:00:39,748 --> 00:00:41,708
+{\an8}<b>A LOS 16 AÑOS, ENTRÓ EN HARVARD</b>
+
+9
+00:00:41,792 --> 00:00:43,627
+{\an8}<b>Y OBTUVO UN DOCTORADO EN
+MATEMÁTICAS.</b>
+
+10
+00:00:43,710 --> 00:00:45,462
+{\an8}<b>TRAS UN AÑO COMO CATEDRÁTICO,</b>
+
+11
+00:00:45,546 --> 00:00:47,297
+{\an8}<b>RECHAZÓ A LA SOCIEDAD
+Y HUYÓ AL BOSQUE,</b>
+
+12
+00:00:47,381 --> 00:00:51,093
+{\an8}<b>DONDE COMPRÓ UNA PARCELA.
+DURANTE EL VERANO DE 1971,</b>
+
+13
+00:00:51,176 --> 00:00:53,345
+{\an8}<b>TED Y SU HERMANO DAVID
+CONSTRUYERON</b>
+
+14
+00:00:53,428 --> 00:00:56,056
+{\an8}<b>UNA PEQUEÑA CABAÑA
+QUE SERÍA SU HOGAR.</b>
+
+15
+00:00:56,139 --> 00:00:57,683
+{\an8}<b>ESTE LARGOMETRAJE SE FILMÓ
+EN EL TERRENO</b>
+
+16
+00:00:57,766 --> 00:00:59,309
+{\an8}<b>DONDE ESTUVO LA CABAÑA</b>
+
+17
+00:00:59,393 --> 00:01:04,982
+{\an8}<b>Y UTILIZA LAS 25.000 PÁGINAS
+QUE LLENARON SUS ESTANTERÍAS</b>
+
+18
+00:01:05,065 --> 00:01:08,110
+{\an8}<b>PARA CONTAR ESTA HISTORIA.</b>
+
+19
+00:01:20,163 --> 00:01:25,085
+<b>MONTANA
+ESTADOS UNIDOS</b>
+
+20
+00:07:27,030 --> 00:07:30,450
+<b><i>La tecnología moderna es
+lo peor que le ha pasado al mundo,</i></b>
+
+21
+00:07:31,660 --> 00:07:34,454
+<b><i>y promover su progreso es
+como mínimo algo criminal.</i></b>
+
+22
+00:08:57,162 --> 00:08:58,413
+<b>Gracias, abuelo conejo.</b>
+
+23
+00:09:15,055 --> 00:09:19,601
+<b><i>Gracias por escuchar NPR,
+su emisora local de música clásica.</i></b>
+
+24
+00:09:19,685 --> 00:09:25,148
+<b><i>KUHFN 91.7 Helena, 89.1 Missoula,</i></b>
+
+25
+00:09:25,232 --> 00:09:26,775
+<b><i>otra hora del barroco.</i></b>
+
+26
+00:10:16,283 --> 00:10:19,620
+<b>Técnica cinco… tomamos el uno.</b>
+
+27
+00:10:21,705 --> 00:10:22,706
+<b>Sesenta y cuatro.</b>
+
+28
+00:10:23,790 --> 00:10:29,755
+{\an8}<b>Dos, 51, dos, 19…</b>
+
+29
+00:10:30,255 --> 00:10:35,052
+{\an8}<b>…18, 63, tres, uno, 51…</b>
+
+30
+00:10:35,844 --> 00:10:40,557
+{\an8}<b>…dieciocho, 63, tres,</b>
+
+31
+00:10:41,683 --> 00:10:47,773
+{\an8}<b>uno, 51 dos, 19, 18…</b>
+
+32
+00:11:37,823 --> 00:11:39,366
+<b><i>Ayer estuvo bastante bien.</i></b>
+
+33
+00:11:40,284 --> 00:11:43,704
+<b><i>Los únicos ruidos perturbadores fueron
+los de nueve malditos aviones.</i></b>
+
+34
+00:11:44,538 --> 00:11:46,999
+<b><i>Por la mañana estuvo bastante tranquilo,</i></b>
+
+35
+00:11:47,082 --> 00:11:50,961
+<b><i>pero más tarde,
+sonaron aviones casi sin interrupción</i></b>
+
+36
+00:11:51,044 --> 00:11:55,132
+<b><i>durante una hora, según mis cálculos.</i></b>
+
+37
+00:11:56,008 --> 00:11:59,261
+<b><i>En Lamborn, Illinois,
+suenan muchos más aviones,</i></b>
+
+38
+00:11:59,344 --> 00:12:00,679
+<b><i>y a veces, es insoportable.</i></b>
+
+39
+00:12:00,762 --> 00:12:04,975
+<b><i>Pero acá, me molestan más los ruidos,
+aunque sean más leves,</i></b>
+
+40
+00:12:05,767 --> 00:12:08,896
+<b><i>porque en esta zona
+destruyen algo muy lindo,</i></b>
+
+41
+00:12:08,979 --> 00:12:11,732
+<b><i>y en la ciudad,
+los ruidos no tienen nada que destruir,</i></b>
+
+42
+00:12:11,815 --> 00:12:14,401
+<b><i>porque la gente vive
+rodeada de un montón de mierda.</i></b>
+
+43
+00:13:38,485 --> 00:13:39,945
+<b>QUIÉN ES QUIÉN EN CALIFORNIA</b>
+
+44
+00:13:49,246 --> 00:13:55,377
+<b>PERCY WOOD- DIRECTOR EJECUTIVO
+DE UNITED AIRLINES</b>
+
+45
+00:14:09,766 --> 00:14:12,311
+<b>TELÉFONO</b>
+
+46
+00:14:20,027 --> 00:14:21,111
+<b><i>Disculpe.</i></b>
+
+47
+00:14:21,195 --> 00:14:24,323
+<b><i>Por favor, introduzca cinco centavos
+para hablar tres minutos.</i></b>
+
+48
+00:14:24,406 --> 00:14:27,034
+<b><i>Si no los introduce en 25 segundos…</i></b>
+
+49
+00:14:27,117 --> 00:14:29,995
+<b>- Ya, ya lo hice.
+</b><b><i>- Su llamada finalizará automáticamente.</i></b>
+
+50
+00:14:32,497 --> 00:14:33,498
+<b>¡Mierda!</b>
+
+51
+00:15:29,847 --> 00:15:30,889
+<b><i>¿Te llevo, Ted?</i></b>
+
+52
+00:15:32,558 --> 00:15:35,185
+<b>No puedo… no puedo ponérmelo.</b>
+
+53
+00:15:35,269 --> 00:15:36,812
+<b>- No…
+- Ted, no funciona.</b>
+
+54
+00:15:38,021 --> 00:15:39,273
+<b>Está roto.</b>
+
+55
+00:15:43,402 --> 00:15:44,528
+<b>Solo ajústatelo bien.</b>
+
+56
+00:15:52,327 --> 00:15:53,537
+<b>No pude evitarlo.</b>
+
+57
+00:15:56,498 --> 00:15:59,626
+<b>Siento… Lo siento, Ted,
+no lo volveré a hacer, lo prometo.</b>
+
+58
+00:16:03,964 --> 00:16:04,965
+<b>Dios.</b>
+
+59
+00:16:53,138 --> 00:16:55,891
+<b><i>El superpetrolero con destino
+a Long Beach, California,</i></b>
+
+60
+00:16:55,974 --> 00:16:58,352
+<b><i>encalló a unos 35 kilómetros
+al sur de Valdez</i></b>
+
+61
+00:16:58,435 --> 00:17:01,396
+<b><i>el viernes por la mañana
+tras embarcar un cargamento</i></b>
+
+62
+00:17:01,480 --> 00:17:03,899
+<b><i>de 1.250.000 barriles
+del oleoducto de Alaska.</i></b>
+
+63
+00:17:04,650 --> 00:17:09,530
+<b><i>El petróleo se vertió a 75.000 litros
+por hora durante 12 horas.</i></b>
+
+64
+00:17:09,613 --> 00:17:13,825
+<b><i>Exxon reconoce que el Valdez se desvió
+hacia aguas peligrosas.</i></b>
+
+65
+00:17:13,909 --> 00:17:16,703
+<b><i>La Guardia Costera dice
+que el capitán estaba tratando</i></b>
+
+66
+00:17:16,787 --> 00:17:21,250
+<b><i>de evitar grandes trozos de hielo,
+conocidos como </i></b><b>growlers</b><b><i>.</i></b>
+
+67
+00:17:26,588 --> 00:17:27,881
+<b>Setenta y cinco centavos.</b>
+
+68
+00:17:28,715 --> 00:17:30,092
+<b>Hola, mamá, soy yo.</b>
+
+69
+00:17:31,718 --> 00:17:32,761
+<b>Qué calor.</b>
+
+70
+00:17:34,388 --> 00:17:36,640
+<b>No, no pasa nada, siempre lo hace,</b>
+
+71
+00:17:36,723 --> 00:17:39,768
+<b>pero solo tenía un dólar cincuenta
+y se va acabar el tiempo</b>
+
+72
+00:17:39,852 --> 00:17:41,603
+<b>antes de que terminemos de hablar.</b>
+
+73
+00:17:42,062 --> 00:17:45,440
+<b>Nada. Solo… solo quería hablar con él.
+Simplemente le di la espalda.</b>
+
+74
+00:17:45,524 --> 00:17:46,817
+<b>No quería hablar con él.</b>
+
+75
+00:17:46,900 --> 00:17:51,154
+<b>Sí, bueno, ese es su problema.
+No tenía… No tenía que haberse casado.</b>
+
+76
+00:17:52,239 --> 00:17:55,701
+<b>No tenía que haberse casado con ella.
+Es una mala influencia para él.</b>
+
+77
+00:17:55,784 --> 00:17:58,453
+<b>Si todavía no lo ves,
+ya lo entenderás más adelante.</b>
+
+78
+00:17:59,830 --> 00:18:01,999
+<b>Bueno, aún lo quiero, mamá, pero no…</b>
+
+79
+00:18:02,082 --> 00:18:04,042
+<b>No tengo nada en común con David.</b>
+
+80
+00:18:04,126 --> 00:18:06,920
+<b>Estaba celoso porque sé hacer
+casi todo mejor que él.</b>
+
+81
+00:18:07,004 --> 00:18:08,338
+<b>Es evidente, mamá.</b>
+
+82
+00:18:10,424 --> 00:18:13,051
+<b>Bueno, sí,
+a él se le daba mejor socializar, pero…</b>
+
+83
+00:18:13,677 --> 00:18:16,763
+<b>Bueno, si no me hubieras adelantado
+dos años en la secundaria,</b>
+
+84
+00:18:16,847 --> 00:18:19,766
+<b>tal vez podría entablar una conversación</b>
+
+85
+00:18:19,850 --> 00:18:24,104
+<b>con una mujer durante más de 30 segundos.
+Tuve dos relaciones en toda mi vida. Dos.</b>
+
+86
+00:18:24,188 --> 00:18:27,107
+<b>Solo llegué a la primera fase, mamá.
+¿Sabes lo que es la primera fase?</b>
+
+87
+00:18:27,191 --> 00:18:28,859
+<b>Sí, besarse, besarse con lengua.</b>
+
+88
+00:18:28,942 --> 00:18:33,113
+<b>Sí. Me he besado con lengua dos veces.</b>
+
+89
+00:18:33,197 --> 00:18:36,700
+<b>Dos. Eso es todo. Nada.
+No… No he tocado ningún pecho.</b>
+
+90
+00:18:36,783 --> 00:18:38,619
+<b>No he mantenido relaciones sexuales.</b>
+
+91
+00:18:38,702 --> 00:18:41,330
+<b>¿A quién quieres que se lo cuente?
+¿A quién debería contarle esto, mamá?</b>
+
+92
+00:18:43,332 --> 00:18:44,374
+<b>Diablos, hay gente…</b>
+
+93
+00:18:46,543 --> 00:18:47,711
+<b>Hay gente escuchando.</b>
+
+94
+00:18:47,794 --> 00:18:52,049
+<b>Solo quiero saber si me mandarás dinero.
+Mamá, por favor, estoy desesperado.</b>
+
+95
+00:18:52,716 --> 00:18:54,718
+<b>Por favor, envíame un cheque.</b>
+
+96
+00:18:56,470 --> 00:19:00,015
+<b>Por el amor de Dios,
+¿eso es un sí o un no?</b>
+
+97
+00:19:02,476 --> 00:19:03,602
+<b>Gracias.</b>
+
+98
+00:19:03,685 --> 00:19:06,396
+<b>Y no envíes comida
+con el cheque, solo el cheque, mamá.</b>
+
+99
+00:19:06,480 --> 00:19:09,816
+<b>Tengo que irme. El teléfono…
+Es la compañía telefónica, mamá.</b>
+
+100
+00:19:09,900 --> 00:19:11,527
+<b>Es la compañía telefónica. Tengo que irme.</b>
+
+101
+00:20:55,506 --> 00:20:59,968
+<b><i>Al editor: Me gustaría advertirle
+a la gente del peligro que supone</i></b>
+
+102
+00:21:00,052 --> 00:21:03,013
+<b><i>recolectar moras en las zonas
+de tendido eléctrico de la carretera.</i></b>
+
+103
+00:21:03,847 --> 00:21:06,934
+<b><i>La compañía eléctrica de Montana
+rocía herbicidas cancerígenos</i></b>
+
+104
+00:21:07,017 --> 00:21:09,019
+<b><i>sin advertírselo a la gente.</i></b>
+
+105
+00:23:31,620 --> 00:23:33,080
+<b>¡Malditos…!</b>
+
+106
+00:23:35,999 --> 00:23:39,920
+<b><i>Y luego hubo
+un estruendo sónico muy fuerte.</i></b>
+
+107
+00:23:40,796 --> 00:23:46,260
+<b><i>Esa fue la gota que colmó el vaso.
+Y me hizo llorar de rabia e impotencia.</i></b>
+
+108
+00:23:47,761 --> 00:23:51,598
+<b><i>Pero tengo un plan para vengarme.</i></b>
+
+109
+00:25:15,557 --> 00:25:16,683
+<b>Largo.</b>
+
+110
+00:25:26,068 --> 00:25:29,029
+<b><i>La gente dice que la violencia
+y quitarle la vida a alguien</i></b>
+
+111
+00:25:29,112 --> 00:25:31,573
+<b><i>no es la manera de resolver
+los problemas humanos.</i></b>
+
+112
+00:25:32,783 --> 00:25:33,825
+<b><i>No puede funcionar.</i></b>
+
+113
+00:25:35,452 --> 00:25:39,414
+<b><i>En realidad, la historia muestra
+que muy a menudo funciona.</i></b>
+
+114
+00:25:41,416 --> 00:25:43,210
+<b><i>Quiero matar a algunas personas.</i></b>
+
+115
+00:25:43,752 --> 00:25:48,340
+<b><i>A poder ser a un científico, un comunista,
+un empresario o algún pez gordo.</i></b>
+
+116
+00:25:50,092 --> 00:25:55,013
+<b><i>Usaré pólvora de escopeta
+esperando a que hiera más que la de rifle.</i></b>
+
+117
+00:26:00,769 --> 00:26:05,524
+<b><i>Gasté 350 dólares en la última misión
+de bombardeo y apenas me volé un dedo.</i></b>
+
+118
+00:26:06,191 --> 00:26:09,695
+<b><i>Es totalmente frustrante.
+Parece que no puedo hacer una bomba letal.</i></b>
+
+119
+00:26:10,946 --> 00:26:13,907
+<b><i>Cada vez parece
+más inviable hacerlo sin dinero.</i></b>
+
+120
+00:27:17,346 --> 00:27:18,388
+<b>¿Bien?</b>
+
+121
+00:27:22,768 --> 00:27:23,852
+<b>Eso es.</b>
+
+122
+00:28:20,617 --> 00:28:21,869
+<b><i>Oye, Ted.</i></b>
+
+123
+00:28:21,952 --> 00:28:24,705
+<b><i>Si sigues haciéndolo así,
+te cortarás las pelotas.</i></b>
+
+124
+00:28:26,039 --> 00:28:28,750
+<b>No acepto consejos de mujeres
+en asuntos mecánicos.</b>
+
+125
+00:28:28,834 --> 00:28:31,628
+<b>Por favor, dile a tu esposo
+que me diga cómo trabajar.</b>
+
+126
+00:28:33,422 --> 00:28:34,840
+<b>Maldito estúpido.</b>
+
+127
+00:28:45,809 --> 00:28:49,771
+<b>¿Viste eso? Intentó despedirme,
+estoy haciendo mi trabajo,</b>
+
+128
+00:28:49,855 --> 00:28:51,982
+<b>estoy haciendo lo que me dijiste. Maldita…</b>
+
+129
+00:28:52,065 --> 00:28:54,484
+<b>- ¿Sabías que ella está al mando?
+- ¿Qué?</b>
+
+130
+00:28:54,568 --> 00:28:56,528
+<b>Ella… ella es la que manda.</b>
+
+131
+00:28:57,237 --> 00:28:58,780
+<b><i>¡Lárgate de aquí!</i></b>
+
+132
+00:29:05,787 --> 00:29:10,626
+<b><i>Existe una operación psicoquirúrgica
+que alivia a las personas muy irritables.</i></b>
+
+133
+00:29:11,126 --> 00:29:13,420
+<b><i>Te adhieren unos electrodos
+al cerebro y queman</i></b>
+
+134
+00:29:13,504 --> 00:29:15,839
+<b><i>la parte que produce
+el sentimiento de la ira.</i></b>
+
+135
+00:29:16,507 --> 00:29:20,219
+<b><i>Obviamente, preferiría estar devastado
+o muerto a que me alivien</i></b>
+
+136
+00:29:20,302 --> 00:29:21,845
+<b><i>con un método tan humillante.</i></b>
+
+137
+00:30:41,425 --> 00:30:43,510
+<b>Disculpe. ¿Cuánto cuesta?</b>
+
+138
+00:30:43,594 --> 00:30:44,720
+<b>Veinticinco centavos.</b>
+
+139
+00:30:50,392 --> 00:30:51,685
+<b>Bueno, lo pensaré.</b>
+
+140
+00:30:56,940 --> 00:30:58,984
+<b>¿Lo estás pasando bien, Ted?</b>
+
+141
+00:31:01,445 --> 00:31:03,405
+<b>No. Solo necesitaba unos cubiertos.</b>
+
+142
+00:31:04,448 --> 00:31:08,493
+<b>No tengo una esposa que mastique por mí
+y que me regurgite la comida en la boca.</b>
+
+143
+00:31:10,162 --> 00:31:11,205
+<b>Muy bien.</b>
+
+144
+00:31:23,133 --> 00:31:26,970
+<b><i>Desde que cometí los crímenes
+reportados en mis notas, me siento mejor.</i></b>
+
+145
+00:31:28,055 --> 00:31:30,182
+<b><i>Sigo lleno de rabia, como entenderán,</i></b>
+
+146
+00:31:30,265 --> 00:31:34,311
+<b><i>pero la diferencia es que ahora puedo
+devolver el golpe hasta cierto punto.</i></b>
+
+147
+00:31:35,729 --> 00:31:40,150
+<b><i>Es cierto que no puedo devolverlo
+en la medida en la que me gustaría,</i></b>
+
+148
+00:31:40,234 --> 00:31:42,694
+<b><i>pero ya no me siento totalmente impotente,</i></b>
+
+149
+00:31:43,320 --> 00:31:45,948
+<b><i>y la ira no me corroe
+las entrañas como antes.</i></b>
+
+150
+00:31:48,408 --> 00:31:51,078
+<b><i>¿Que si me siento culpable? Sí, un poco.</i></b>
+
+151
+00:31:51,787 --> 00:31:55,207
+<b><i>A veces, tengo pesadillas
+en las que me persigue la policía,</i></b>
+
+152
+00:31:55,290 --> 00:32:01,380
+<b><i>o en las que una criatura sobrenatural,
+como el diablo, me amenaza con castigarme.</i></b>
+
+153
+00:32:03,590 --> 00:32:06,301
+<b><i>Pero no sucede tan a menudo
+como para ser un problema.</i></b>
+
+154
+00:32:07,469 --> 00:32:11,098
+<b><i>Definitivamente,
+estoy contento con lo que hice.</i></b>
+
+155
+00:34:38,453 --> 00:34:39,538
+<b>Ahora uno complicado.</b>
+
+156
+00:34:40,080 --> 00:34:42,833
+<b>Cuatro números.</b>
+
+157
+00:34:44,293 --> 00:34:46,043
+<b>Dejando el siete en el mismo sitio.</b>
+
+158
+00:34:47,504 --> 00:34:52,134
+<b>Genera la cifra más alta y más baja
+combinando estos cuatro dígitos.</b>
+
+159
+00:34:52,676 --> 00:34:56,096
+<b>Te daré una pista.
+El 0754 es una cifra de tres dígitos.</b>
+
+160
+00:34:57,181 --> 00:34:58,223
+<b>¿Sí?</b>
+
+161
+00:35:01,643 --> 00:35:05,439
+<b>¿Cuál es la cifra más alta
+y más baja con esos cuatro dígitos?</b>
+
+162
+00:35:15,115 --> 00:35:16,742
+<b>Genial. Increíble.</b>
+
+163
+00:35:19,119 --> 00:35:20,287
+<b>Fantástico.</b>
+
+164
+00:35:21,413 --> 00:35:25,250
+<b>La más baja. Está avanzando mucho.</b>
+
+165
+00:35:25,334 --> 00:35:26,585
+<b>Es muy inteligente.</b>
+
+166
+00:35:26,668 --> 00:35:28,504
+<b>Creo que ya hiciste suficiente.</b>
+
+167
+00:35:28,587 --> 00:35:31,632
+<b>Sí. Tantas matemáticas
+me dan dolor de cabeza.</b>
+
+168
+00:35:32,257 --> 00:35:33,425
+<b>Eso es lo que queremos.</b>
+
+169
+00:36:12,840 --> 00:36:17,970
+<b><i>En Montana, si iba a la ciudad
+a enviar una bomba a algún pez gordo,</i></b>
+
+170
+00:36:18,053 --> 00:36:21,515
+<b><i>el conductor, sin duda, recordaría
+que aquel día viajé en el autobús.</i></b>
+
+171
+00:36:22,516 --> 00:36:25,686
+<b><i>En el anonimato de la gran ciudad, pensé</i></b>
+
+172
+00:36:25,769 --> 00:36:29,523
+<b><i>que sería más seguro comprar materiales
+para fabricar una bomba y enviarla.</i></b>
+
+173
+00:37:22,576 --> 00:37:24,369
+<b>"Quiero acostarme contigo".</b>
+
+174
+00:37:24,453 --> 00:37:26,788
+<b>"Yo también quiero, sí".</b>
+
+175
+00:37:31,418 --> 00:37:35,672
+<b>Bonito trasero. Bonitos pechos. La cara…</b>
+
+176
+00:37:41,553 --> 00:37:43,013
+<b>Podría acabar con esa perra.</b>
+
+177
+00:38:30,018 --> 00:38:31,103
+<b>¿Sobre qué lee?</b>
+
+178
+00:38:32,771 --> 00:38:36,733
+<b>La psicología femenina.
+Estoy leyendo, tengo trabajo.</b>
+
+179
+00:38:36,817 --> 00:38:38,902
+<b>- Yo…
+- ¿Sí?</b>
+
+180
+00:38:39,945 --> 00:38:42,698
+<b>- ¿A qué se dedica?
+- Soy psiquiatra.</b>
+
+181
+00:38:43,824 --> 00:38:44,908
+<b>- ¿En serio?
+- Sí.</b>
+
+182
+00:38:47,744 --> 00:38:49,663
+<b>Por favor, no me cuente sus problemas.</b>
+
+183
+00:38:51,582 --> 00:38:52,624
+<b>Está bien.</b>
+
+184
+00:38:54,501 --> 00:38:56,295
+<b>¿A qué se dedica?</b>
+
+185
+00:38:58,338 --> 00:39:00,799
+<b>Acabo de salir de prisión.
+Tengo que conseguir un trabajo.</b>
+
+186
+00:39:01,466 --> 00:39:02,509
+<b>Claro.</b>
+
+187
+00:39:11,935 --> 00:39:14,271
+<b>Quizá me haga psiquiatra.</b>
+
+188
+00:39:19,943 --> 00:39:22,362
+<b>- Disculpe, tengo que…
+- Oiga.</b>
+
+189
+00:39:22,446 --> 00:39:24,823
+<b>Tengo que largarme de aquí.</b>
+
+190
+00:39:27,159 --> 00:39:28,368
+<b>Que tenga un buen viaje.</b>
+
+191
+00:40:16,333 --> 00:40:20,587
+<b>Buenas noches.
+Necesito… una habitación individual.</b>
+
+192
+00:40:20,671 --> 00:40:22,005
+<b>¿Nombre?</b>
+
+193
+00:40:22,089 --> 00:40:25,592
+<b>Conrad. Joseph Conrad.</b>
+
+194
+00:40:28,470 --> 00:40:29,513
+<b>¿Cuánto cuesta?</b>
+
+195
+00:40:30,138 --> 00:40:31,306
+<b>Cuesta 19,95 dólares.</b>
+
+196
+00:40:49,992 --> 00:40:51,118
+<b>¿Los cinco centavos?</b>
+
+197
+00:40:51,994 --> 00:40:53,078
+<b>¿El cambio?</b>
+
+198
+00:40:55,622 --> 00:40:57,416
+<b>Llámeme si necesita algo.</b>
+
+199
+00:41:24,693 --> 00:41:27,696
+<b><i>…la cara del invierno otra vez, en breve.</i></b>
+
+200
+00:41:27,779 --> 00:41:30,032
+<b><i>Si no lo estamos ya
+reacondicionando los Estados Unidos.</i></b>
+
+201
+00:41:30,115 --> 00:41:33,035
+<b><i>Es un intercambio justo con las otras
+nuevas compañías propuestas…</i></b>
+
+202
+00:41:33,118 --> 00:41:36,079
+<b><i>…pero algunas fuentes nos dicen
+que la investigación interna</i></b>
+
+203
+00:41:36,163 --> 00:41:38,498
+<b><i>y el informe al consejo
+plantearon muchas preguntas,</i></b>
+
+204
+00:41:38,582 --> 00:41:41,376
+<b><i>y hay que señalar que hasta la fecha,
+no hubo ninguna investigación</i></b>
+
+205
+00:41:41,460 --> 00:41:44,796
+<b><i>independiente sobre por qué se tardó
+más de un año en detener</i></b>
+
+206
+00:41:44,880 --> 00:41:46,590
+<b><i>al hijo de una concejal,</i></b>
+
+207
+00:41:46,673 --> 00:41:50,844
+<b><i>al hijo de un ayudante del sheriff
+y al del asistente Shipley,</i></b>
+
+208
+00:41:50,928 --> 00:41:53,430
+<b><i>que están relacionados
+con dos robos en la ciudad.</i></b>
+
+209
+00:42:06,401 --> 00:42:09,196
+<b><i>Si viaja con frecuencia
+de un lado del océano a otro,</i></b>
+
+210
+00:42:09,780 --> 00:42:14,117
+<b><i>verá que la gran flota
+de 747 de United es muy agradable.</i></b>
+
+211
+00:42:20,707 --> 00:42:25,295
+<b><i>De hecho, su gran comodidad
+y sus ambientes espaciosos,</i></b>
+
+212
+00:42:25,379 --> 00:42:29,716
+<b><i>combinados con nuestro
+reconocido servicio internacional…</i></b>
+
+213
+00:43:01,582 --> 00:43:08,589
+<b>COMPUTADORAS
+VENTA - ALQUILER - REPARACIONES</b>
+
+214
+00:43:56,094 --> 00:43:58,263
+<b>¡ESPECIAL! PRUÉBEME</b>
+
+215
+00:44:10,108 --> 00:44:12,653
+<b>Busco algo asequible, si…</b>
+
+216
+00:44:12,736 --> 00:44:14,696
+<b>¿Para qué necesita la computadora?</b>
+
+217
+00:44:16,907 --> 00:44:18,367
+<b>- Para escribir.
+- Está bien.</b>
+
+218
+00:44:27,876 --> 00:44:30,212
+<b>Podría llevarse un PC18…</b>
+
+219
+00:44:33,423 --> 00:44:34,800
+<b>…Microsoft Word…</b>
+
+220
+00:44:39,346 --> 00:44:45,060
+<b>…escribir, teclear, procesador de texto,
+aplicaciones de productividad…</b>
+
+221
+00:44:48,355 --> 00:44:53,193
+<b>Puede hacer muchas más cosas
+aparte de editar textos y códigos.</b>
+
+222
+00:44:54,152 --> 00:44:55,737
+<b>Su segundo nombre es "negocio".</b>
+
+223
+00:44:56,572 --> 00:44:59,950
+<b>Mire esto. Si comienzo a escribir…
+Observe, acá cometí un error.</b>
+
+224
+00:45:00,033 --> 00:45:04,079
+<b>Escribí una "A" en lugar de una "S",
+pero si presiono dos veces esta tecla,</b>
+
+225
+00:45:04,162 --> 00:45:08,458
+<b>la de retroceso, puedo cambiar
+esa "A" por una "S". Y listo.</b>
+
+226
+00:45:08,542 --> 00:45:12,045
+<b>No hay que usar tinta blanca,
+ni cinta correctora. Todo se hace acá.</b>
+
+227
+00:45:12,129 --> 00:45:14,131
+<b>¿Es usted el propietario de la tienda?</b>
+
+228
+00:45:14,214 --> 00:45:17,718
+<b>- No. Solo trabajo acá.
+- ¿Quién es el propietario?</b>
+
+229
+00:45:17,801 --> 00:45:21,889
+<b>Es el señor con bigote
+que está en el mostrador.</b>
+
+230
+00:45:24,224 --> 00:45:25,684
+<b>¿Quiere que le llame?</b>
+
+231
+00:45:25,767 --> 00:45:27,186
+<b>- No.
+- Está bien.</b>
+
+232
+00:45:27,269 --> 00:45:28,979
+<b>- Gracias.
+- De nada.</b>
+
+233
+00:45:30,147 --> 00:45:33,775
+<b>Muy interesante. Gracias.
+Tengo… tengo que irme.</b>
+
+234
+00:45:33,859 --> 00:45:36,069
+<b>- Bien.
+- Me lo pensaré</b>
+
+235
+00:45:36,153 --> 00:45:39,740
+<b>- y me pondré en contacto con usted.
+- Vuelva cuando quiera. Acá estaré.</b>
+
+236
+00:45:47,623 --> 00:45:51,835
+<b><i>Voy a hacer
+lo que voy a hacer por venganza.</i></b>
+
+237
+00:45:52,419 --> 00:45:54,838
+<b><i>No espero obtener nada a cambio.</i></b>
+
+238
+00:45:55,839 --> 00:45:58,634
+<b><i>Evidentemente,
+si el crimen y las razones para cometerlo</i></b>
+
+239
+00:45:58,717 --> 00:46:01,970
+<b><i>captan la atención del público,
+quizá pueda despertar</i></b>
+
+240
+00:46:02,054 --> 00:46:04,723
+<b><i>el interés por la cuestión tecnológica</i></b>
+
+241
+00:46:04,806 --> 00:46:08,644
+<b><i>y aumentar las posibilidades de detener
+la tecnología antes de que sea tarde.</i></b>
+
+242
+00:46:09,102 --> 00:46:12,898
+<b><i>No obstante, la mayoría de la gente
+seguramente critique mi crimen.</i></b>
+
+243
+00:46:13,440 --> 00:46:17,361
+<b><i>Los opositores a la libertad pueden usarlo
+como arma para apoyar sus argumentos</i></b>
+
+244
+00:46:17,444 --> 00:46:19,571
+<b><i>sobre el control
+del comportamiento humano.</i></b>
+
+245
+00:46:19,655 --> 00:46:23,283
+<b><i>Sin saber si haré más bien que mal,</i></b>
+
+246
+00:46:24,034 --> 00:46:28,205
+<b><i>no pretendo ser altruista
+ni actuar por el bien,</i></b>
+
+247
+00:46:28,288 --> 00:46:30,207
+<b><i>sea cual sea, de la raza humana.</i></b>
+
+248
+00:46:31,208 --> 00:46:33,710
+<b><i>Lo hago por el mero hecho de vengarme.</i></b>
+
+249
+00:46:49,810 --> 00:46:51,728
+<b>¿Qué tal la noche?</b>
+
+250
+00:46:58,151 --> 00:47:01,238
+<b>Dinero, dinero, dinero. ¡Me encanta!</b>
+
+251
+00:47:05,200 --> 00:47:08,370
+<b>Menuda tos. ¿Está bien?</b>
+
+252
+00:47:09,288 --> 00:47:10,289
+<b>No.</b>
+
+253
+00:47:10,956 --> 00:47:12,040
+<b>Tiene mala cara.</b>
+
+254
+00:47:13,166 --> 00:47:14,334
+<b>Acá tiene.</b>
+
+255
+00:47:15,127 --> 00:47:16,545
+<b>Son 40 para esta noche,</b>
+
+256
+00:47:17,379 --> 00:47:22,759
+<b>y agarre algo de beber, no se lo cobraré.</b>
+
+257
+00:47:25,220 --> 00:47:28,724
+<b>Y agarre también
+un poco de desodorante, invita la casa.</b>
+
+258
+00:49:07,364 --> 00:49:11,034
+<b><i>En estos momentos, aún no tienen pistas
+del paquete bomba de Lake Forest.</i></b>
+
+259
+00:49:11,118 --> 00:49:14,913
+<b><i>Chuck Goudie nos cuenta
+las novedades de lo sucedido. Chuck.</i></b>
+
+260
+00:49:14,997 --> 00:49:19,626
+<b><i>Jack, hace unos días, Percy Wood
+recibió una carta de un tal Enoch Fisher.</i></b>
+
+261
+00:49:19,710 --> 00:49:22,796
+<b><i>La carta decía que un libro
+le llegaría por correo pronto.</i></b>
+
+262
+00:49:22,880 --> 00:49:25,340
+<b><i>Cuando lo recibió,
+el libro le explotó en la cara.</i></b>
+
+263
+00:49:25,424 --> 00:49:28,927
+<b><i>La dirección del remitente es
+3414 West Ravenswood Avenue.</i></b>
+
+264
+00:49:29,011 --> 00:49:31,388
+<b><i>No sirvió de mucho. Es un solar vacío.</i></b>
+
+265
+00:49:31,471 --> 00:49:35,893
+<b><i>La policía espera tener más suerte
+con las pistas que dejó la explosión.</i></b>
+
+266
+00:49:36,852 --> 00:49:41,148
+<b><i>Hoy, dentro de la vivienda del Sr. Wood,
+se han tomado los fragmentos de la bomba.</i></b>
+
+267
+00:49:41,231 --> 00:49:42,524
+<b><i>Fue algo muy inquietante.</i></b>
+
+268
+00:49:42,608 --> 00:49:45,777
+<b><i>Los fragmentos estaban por toda la cocina
+y tuvieron que ser separados</i></b>
+
+269
+00:49:45,861 --> 00:49:47,529
+<b><i>de trozos de cristales y papeles.</i></b>
+
+270
+00:49:47,613 --> 00:49:49,865
+<b><i>Las prueba tomada de la casa del Sr. Wood…</i></b>
+
+271
+00:49:49,948 --> 00:49:52,951
+<b><i>estaba en buen estado y fue enviada</i></b>
+
+272
+00:49:53,035 --> 00:49:55,913
+<b><i>por mensajería al Laboratorio
+Forense de Inspección Postal</i></b>
+
+273
+00:49:55,996 --> 00:49:57,247
+<b><i>de Washington D. C.</i></b>
+
+274
+00:49:58,415 --> 00:50:01,877
+<b><i>El envoltorio del paquete, el embalaje
+y los trozos de la misma bomba</i></b>
+
+275
+00:50:02,377 --> 00:50:05,005
+<b><i>serán analizados
+por los técnicos de laboratorio</i></b>
+
+276
+00:50:05,088 --> 00:50:07,174
+<b><i>y nos proporcionarán un informe completo.</i></b>
+
+277
+00:50:08,217 --> 00:50:12,763
+<b><i>Ahora mismo, no podemos revelar ningún
+detalle de la composición de la bomba.</i></b>
+
+278
+00:50:14,348 --> 00:50:18,268
+<b><i>Abrimos una investigación exhaustiva
+para resolver el ataque al Sr. Wood.</i></b>
+
+279
+00:50:18,852 --> 00:50:23,065
+<b><i>Hace poco, Percy Wood instaló
+un sistema de seguridad en su casa</i></b>
+
+280
+00:50:23,148 --> 00:50:26,610
+<b><i>y probablemente no le abriría
+la puerta a ningún extraño.</i></b>
+
+281
+00:50:27,319 --> 00:50:29,404
+<b><i>Abre el correo como todos nosotros.</i></b>
+
+282
+00:50:29,488 --> 00:50:31,240
+<b><i>Sin saber lo que hay dentro.</i></b>
+
+283
+00:50:31,323 --> 00:50:34,868
+{\an8}<b>"Nunca me pasará a mí",
+así es como lo ve mucha gente.</b>
+
+284
+00:50:36,578 --> 00:50:38,789
+<b><i>Usted mismo,
+¿cuántas veces abrió su correo</i></b>
+
+285
+00:50:38,872 --> 00:50:41,083
+<b><i>y pensó que podría
+haber algo en su interior?</i></b>
+
+286
+00:51:21,874 --> 00:51:23,792
+<b><i>- Vengo a ayudar.
+</i></b><b>- Tienes…</b>
+
+287
+00:51:23,876 --> 00:51:26,879
+<b><i>Sí, estoy muy enojado
+con el auto, estúpido.</i></b>
+
+288
+00:51:28,297 --> 00:51:30,424
+<b><i>¿Quieres saber
+quién nos dijo dónde estaba?</i></b>
+
+289
+00:51:30,507 --> 00:51:32,217
+<b><i>Tu maldito hermano.</i></b>
+
+290
+00:53:49,563 --> 00:53:56,236
+{\an8}<b>18 MESES DESPUÉS</b>
+
+291
+00:54:02,701 --> 00:54:05,037
+<b><i>La dinamita explota sobre la colina.</i></b>
+
+292
+00:54:06,622 --> 00:54:08,916
+<b><i>A veces lo oigo desde mi cabaña.</i></b>
+
+293
+00:54:10,709 --> 00:54:13,795
+<b><i>Exxon realiza exploraciones sísmicas
+en busca de petróleo.</i></b>
+
+294
+00:54:21,261 --> 00:54:24,014
+<b><i>Un par de helicópteros
+sobrevuelan las colinas.</i></b>
+
+295
+00:54:24,097 --> 00:54:26,391
+<b><i>Bajan lo que creo
+que es dinamita con un cable.</i></b>
+
+296
+00:54:26,475 --> 00:54:30,312
+<b><i>Estallan el suelo, los aparatos
+se rompen por las vibraciones.</i></b>
+
+297
+00:54:37,110 --> 00:54:40,822
+<b><i>Acampé principalmente
+en lo que yo llamo "el barranco diagonal",</i></b>
+
+298
+00:54:40,906 --> 00:54:44,576
+<b><i>con la esperanza de disparar
+a un helicóptero al este de Crater Mount.</i></b>
+
+299
+00:54:49,748 --> 00:54:51,500
+<b><i>Resultó ser más difícil de lo que pensaba.</i></b>
+
+300
+00:54:52,417 --> 00:54:56,880
+<b><i>No paraban de moverse,
+nunca sabía dónde iban a ir.</i></b>
+
+301
+00:55:10,060 --> 00:55:11,478
+<b>¡Cabrones!</b>
+
+302
+00:55:36,795 --> 00:55:37,838
+<b>Mierda.</b>
+
+303
+00:55:41,717 --> 00:55:42,885
+<b><i>Profanación.</i></b>
+
+304
+00:55:43,719 --> 00:55:45,971
+<b><i>¿Dónde puedo ir
+para tener paz y tranquilidad?</i></b>
+
+305
+00:55:52,394 --> 00:55:54,479
+<b><i>Cuando regresé al campamento, lloré.</i></b>
+
+306
+00:55:54,563 --> 00:55:57,107
+<b><i>En parte por la frustración
+de haber perdido,</i></b>
+
+307
+00:55:57,191 --> 00:55:59,651
+<b><i>pero sobre todo por el daño
+que le hacían al país.</i></b>
+
+308
+00:55:59,735 --> 00:56:00,777
+<b>¡Mierda!</b>
+
+309
+00:56:01,403 --> 00:56:02,487
+<b>¡Púdranse!</b>
+
+310
+00:56:03,822 --> 00:56:04,907
+<b><i>Es tan lindo…</i></b>
+
+311
+00:56:05,991 --> 00:56:08,702
+<b><i>Pero si encuentran petróleo…
+sería un desastre.</i></b>
+
+312
+00:56:09,828 --> 00:56:12,873
+<b><i>Y si no, las explosiones
+de los helicópteros lo arruinarían.</i></b>
+
+313
+00:56:45,989 --> 00:56:52,204
+<b>BIBLIOTECA</b>
+
+314
+00:57:10,848 --> 00:57:12,432
+<b>Ted Kaczynksi a su servicio.</b>
+
+315
+00:57:13,684 --> 00:57:15,352
+<b>- Hola, Ted.
+- Hola, Srta. Hill.</b>
+
+316
+00:57:15,435 --> 00:57:17,813
+<b>Me alegro de que vinieras.
+¿Listo para trabajar?</b>
+
+317
+00:57:17,896 --> 00:57:18,897
+<b>Sí. ¿Qué tengo que hacer?</b>
+
+318
+00:57:18,981 --> 00:57:20,065
+<b>Por acá.</b>
+
+319
+00:57:22,442 --> 00:57:28,490
+<b>Estarás en la parte de atrás con Becky,
+tenemos que clasificar todos estos libros.</b>
+
+320
+00:57:28,574 --> 00:57:31,159
+<b>Por desgracia,
+hay que deshacerse de ellos.</b>
+
+321
+00:57:31,869 --> 00:57:35,747
+<b>Así que tienen
+que ordenarlos por género y…</b>
+
+322
+00:58:13,327 --> 00:58:14,453
+<b>- Hola.
+- Hola.</b>
+
+323
+00:58:15,204 --> 00:58:16,246
+<b>Soy Becky.</b>
+
+324
+00:58:16,872 --> 00:58:19,625
+<b>Soy Ted Kaczynksi.</b>
+
+325
+00:58:29,885 --> 00:58:33,972
+<b>Deberían pasar
+del Sistema Dewey de clasificación</b>
+
+326
+00:58:34,056 --> 00:58:36,141
+<b>al sistema de la Biblioteca del Congreso.</b>
+
+327
+00:58:37,643 --> 00:58:41,146
+<b>Lo sugerí hace un tiempo,
+pero siguen sin hacerlo,</b>
+
+328
+00:58:41,230 --> 00:58:43,524
+<b>por eso tenemos
+que volver a hacer todo esto.</b>
+
+329
+00:59:11,009 --> 00:59:12,010
+<b>No, lo estamos…</b>
+
+330
+00:59:48,505 --> 00:59:49,548
+<b>Mierda.</b>
+
+331
+01:00:00,809 --> 01:00:02,060
+<b>Maldita sea.</b>
+
+332
+01:00:21,205 --> 01:00:22,497
+<b>Hola, David, soy yo. Sí.</b>
+
+333
+01:00:26,001 --> 01:00:30,380
+<b>Sí, porque… Llamé para hablar contigo,
+pero respondió ella. Y yo…</b>
+
+334
+01:00:31,673 --> 01:00:35,552
+<b>Bueno, pensé…
+Quería hablar contigo, no con ella.</b>
+
+335
+01:00:35,636 --> 01:00:39,056
+<b>No la conozco. Pensé que no era
+buena idea presentarme por teléfono.</b>
+
+336
+01:00:39,139 --> 01:00:40,474
+<b>Por eso colgué.</b>
+
+337
+01:00:41,308 --> 01:00:46,188
+<b>¿Se puede confiar en que le diga
+lo correcto a una mujer, David?</b>
+
+338
+01:00:46,271 --> 01:00:48,440
+<b>Sobre todo a Linda, con lo que pasó y…</b>
+
+339
+01:00:49,566 --> 01:00:52,486
+<b>Dios mío, ¿es ella la que habla de fondo?
+Mierda, David.</b>
+
+340
+01:00:56,782 --> 01:00:59,535
+<b>Dile que lo siento y pídele que se vaya</b>
+
+341
+01:00:59,618 --> 01:01:01,912
+<b>para que podamos
+hablar en privado, por favor.</b>
+
+342
+01:01:01,995 --> 01:01:03,914
+<b>Te domesticaste a ti mismo.</b>
+
+343
+01:01:03,997 --> 01:01:08,502
+<b>Eres como un caballo que corre
+hacia el cultivo de un granjero y…</b>
+
+344
+01:01:08,585 --> 01:01:12,256
+<b>se ofrece para que se suban a su lomo
+y le metan un bocado en la boca.</b>
+
+345
+01:01:13,340 --> 01:01:16,385
+<b>Bueno, pensé
+que compartíamos muchos valores</b>
+
+346
+01:01:16,468 --> 01:01:19,930
+<b>y que veíamos del mismo modo
+lo de vivir en la naturaleza.</b>
+
+347
+01:01:20,013 --> 01:01:24,518
+<b>Ahora vives en un zoológico,
+como un animal enjaulado con adiestrador.</b>
+
+348
+01:01:25,853 --> 01:01:29,523
+<b>Un adiestrador
+del que dependes para hacer todo.</b>
+
+349
+01:01:32,150 --> 01:01:35,487
+<b>Apuesto a que tienes que hacerlo.
+Como si te pidiera…</b>
+
+350
+01:01:35,571 --> 01:01:39,116
+<b>Te llamé para pedirte ayuda económica.</b>
+
+351
+01:01:39,199 --> 01:01:42,953
+<b>Solo necesito un poco de dinero.
+Estoy seguro de que puedes prestarme algo.</b>
+
+352
+01:01:43,704 --> 01:01:46,832
+<b>Ya, tendrías que…
+Tendrías que pedirle permiso, ¿no?</b>
+
+353
+01:01:49,251 --> 01:01:50,544
+<b>Ves, a eso me refería.</b>
+
+354
+01:05:02,110 --> 01:05:03,111
+<b>¡Oigan!</b>
+
+355
+01:05:24,925 --> 01:05:27,719
+<b>¡Fuera de aquí! Lárguense de mi propiedad.</b>
+
+356
+01:06:22,900 --> 01:06:23,901
+<b>¡Ted!</b>
+
+357
+01:06:25,360 --> 01:06:26,528
+<b>El hombre de la cabaña.</b>
+
+358
+01:06:28,572 --> 01:06:29,573
+<b>Ted.</b>
+
+359
+01:06:48,133 --> 01:06:49,218
+<b>Buenos días.</b>
+
+360
+01:06:49,301 --> 01:06:50,969
+<b>Buenos días. Hace buen día.</b>
+
+361
+01:06:52,971 --> 01:06:54,097
+<b>Sí.</b>
+
+362
+01:06:54,181 --> 01:06:57,184
+<b>Estaba por aquí haciendo
+una pequeña investigación</b>
+
+363
+01:06:57,267 --> 01:06:58,936
+<b>y esperaba que pudieras ayudarme.</b>
+
+364
+01:06:59,811 --> 01:07:03,565
+<b>¿Viste a alguien, algo,
+gente destrozando algún edificio?</b>
+
+365
+01:07:04,775 --> 01:07:08,946
+<b>No, solo a esos… chicos que destrozaron
+hace un tiempo esa cabaña.</b>
+
+366
+01:07:09,780 --> 01:07:10,906
+<b>Desde entonces, nada.</b>
+
+367
+01:07:11,532 --> 01:07:13,408
+<b>- Claro.
+- ¿Hablaste con Steve o Tom?</b>
+
+368
+01:07:13,492 --> 01:07:16,411
+<b>Sí, Steve dijo que destrozaron
+su molino hace un tiempo también.</b>
+
+369
+01:07:16,495 --> 01:07:18,497
+<b>Sí, hace un tiempo. Sí.</b>
+
+370
+01:07:18,997 --> 01:07:21,750
+<b>Y… ¿los motoristas?
+¿Te molestan mucho por acá?</b>
+
+371
+01:07:22,251 --> 01:07:24,711
+<b>No, nada como la temporada
+de motos de nieve.</b>
+
+372
+01:07:24,795 --> 01:07:26,505
+<b>Claro. Sí…</b>
+
+373
+01:07:27,089 --> 01:07:29,591
+<b>Te pregunto porque escuché
+que te enojaste bastante</b>
+
+374
+01:07:29,675 --> 01:07:31,385
+<b>con unos motoristas del arroyo.</b>
+
+375
+01:07:32,177 --> 01:07:34,221
+<b>Sí, es verdad, sí.</b>
+
+376
+01:07:35,514 --> 01:07:38,267
+<b>Sí, unos estúpidos.
+Un par de vándalos que intentaron…</b>
+
+377
+01:07:38,350 --> 01:07:41,520
+<b>pasar por mi propiedad y…</b>
+
+378
+01:07:43,063 --> 01:07:44,064
+<b>Sí.</b>
+
+379
+01:07:45,399 --> 01:07:52,030
+<b>No lo llamaría algo fuera de lo común,
+imagino que si estuvieras en mi lugar…</b>
+
+380
+01:07:54,825 --> 01:07:56,952
+<b>Posiblemente actuarías de la misma manera.</b>
+
+381
+01:08:01,373 --> 01:08:02,916
+<b>Claro. Es lo justo.</b>
+
+382
+01:08:03,000 --> 01:08:04,543
+<b>- Gracias por tu tiempo.
+- Sí.</b>
+
+383
+01:08:04,626 --> 01:08:06,753
+<b>Si te enteras de algo, házmelo saber.</b>
+
+384
+01:08:38,202 --> 01:08:40,370
+<b>- Que tengas un buen día.
+- Nos vemos, Ted.</b>
+
+385
+01:09:03,352 --> 01:09:05,145
+<b><i>No nos dejan entrar en su oferta,</i></b>
+
+386
+01:09:06,104 --> 01:09:08,774
+<b><i>porque no tienen ninguna credibilidad
+para nosotros.</i></b>
+
+387
+01:09:10,108 --> 01:09:12,444
+<b><i>Algunos creen que Earth First
+es una organización terrorista</i></b>
+
+388
+01:09:12,528 --> 01:09:14,654
+<b><i>y que no renunciaron a la violencia.</i></b>
+
+389
+01:09:14,738 --> 01:09:17,198
+<b><i>Ven una diferencia
+entre terrorismo y sabotaje.</i></b>
+
+390
+01:09:17,282 --> 01:09:19,493
+<b><i>Todo tipo de operaciones.</i></b>
+
+391
+01:09:19,576 --> 01:09:23,663
+<b><i>Yo… coloqué clavos en los árboles,</i></b>
+
+392
+01:09:23,747 --> 01:09:25,874
+<b><i>pinté equipos que aún funcionan.</i></b>
+
+393
+01:09:26,542 --> 01:09:27,835
+<b>Gracias, David.</b>
+
+394
+01:09:27,917 --> 01:09:30,629
+<b>Gracias.</b>
+
+395
+01:09:31,712 --> 01:09:34,925
+<b>Menudo tipo.</b>
+
+396
+01:09:35,425 --> 01:09:37,719
+<b><i>…el sistema industrial moderno
+que conocemos,</i></b>
+
+397
+01:09:37,803 --> 01:09:41,348
+<b><i>y uno de los motivos
+por los que ese sistema nos parece</i></b>
+
+398
+01:09:42,182 --> 01:09:44,475
+<b><i>tan destructivo es porque</i></b>
+
+399
+01:09:45,018 --> 01:09:48,104
+<b><i>se basa en la premisa
+de que el mundo existe para los humanos.</i></b>
+
+400
+01:09:48,689 --> 01:09:51,859
+<b><i>La idea es que el ser humano
+es una especie más</i></b>
+
+401
+01:09:51,942 --> 01:09:54,820
+<b><i>entre las millones de especies
+de este planeta.</i></b>
+
+402
+01:09:55,654 --> 01:09:59,199
+<b><i>Y les recuerdo que David Foreman estará
+en el área de Missoula</i></b>
+
+403
+01:09:59,283 --> 01:10:03,370
+<b><i>dando una conferencia en la escuela
+John Edwards el 23 de septiembre.</i></b>
+
+404
+01:10:03,453 --> 01:10:10,210
+<b><i>Soy Tom Douglas, informando
+desde la WCGR Montana, NPR Radio.</i></b>
+
+405
+01:10:43,493 --> 01:10:45,537
+<b>- ¡Acción!
+- ¡Acción!</b>
+
+406
+01:10:45,621 --> 01:10:47,372
+<b>Una acción de cualquier tipo.</b>
+
+407
+01:10:47,456 --> 01:10:49,499
+<b>- ¡Acción!
+- ¡Acción!</b>
+
+408
+01:10:49,583 --> 01:10:53,587
+<b><i>Pero dejemos que esa acción establezca
+los puntos sutiles de nuestra filosofía.</i></b>
+
+409
+01:10:53,670 --> 01:10:55,631
+<b><i>No hace falta que lo resolvamos todo.</i></b>
+
+410
+01:10:55,714 --> 01:10:59,343
+<b>No hay que ser un santo
+para hacer algo por este planeta.</b>
+
+411
+01:11:00,344 --> 01:11:04,223
+{\an8}<b><i>Es hora de que una sociedad guerrera
+se alce sobre la Tierra.</i></b>
+
+412
+01:11:05,098 --> 01:11:06,183
+<b>LISTA DE ECO-MIERDAS</b>
+
+413
+01:11:06,266 --> 01:11:09,228
+<b><i>Y plantarnos delante
+de una gran fuerza devastadora.</i></b>
+
+414
+01:11:09,311 --> 01:11:10,896
+{\an8}<b>COMITÉ DIRECTIVO NACIONAL</b>
+
+415
+01:11:10,979 --> 01:11:12,981
+{\an8}<b>MADERA -CAZA PETRÓLEO
+Y GAS-AGRICULTURA</b>
+
+416
+01:11:17,319 --> 01:11:21,114
+<b><i>Necesitamos guerreros,
+gente y cuerpos que salgan a luchar</i></b>
+
+417
+01:11:21,198 --> 01:11:25,160
+<b>para desmontar
+el aparato de destrucción mecanizada</b>
+
+418
+01:11:25,244 --> 01:11:27,412
+<b>del planeta tan lindo que tenemos.</b>
+
+419
+01:11:27,496 --> 01:11:29,790
+<b><i>Para eso vivo.</i></b>
+
+420
+01:11:29,873 --> 01:11:32,584
+<b><i>Y para eso deberían vivir ustedes.</i></b>
+
+421
+01:11:32,668 --> 01:11:36,088
+<b>¡Si se consideran eco-luchadores,</b>
+
+422
+01:11:36,171 --> 01:11:42,553
+<b>tendrán que salir,
+ponerle ganas y luchar! ¡Hacer algo!</b>
+
+423
+01:11:54,481 --> 01:11:58,277
+<b><i>Lista de eco-mierdas: Chevron 225,</i></b>
+
+424
+01:11:58,360 --> 01:12:00,863
+<b><i>Bush Street, San Francisco, California.</i></b>
+
+425
+01:12:00,946 --> 01:12:03,615
+<b><i>Nueve, cuatro, uno, cero…</i></b>
+
+426
+01:12:03,699 --> 01:12:06,535
+<b><i>La Organización Nacional
+de Exploradores Madereros.</i></b>
+
+427
+01:12:06,618 --> 01:12:08,996
+<b><i>Al día siguiente, salí desde mi cabaña.</i></b>
+
+428
+01:12:09,663 --> 01:12:11,748
+<b><i>Mi ruta me llevó a un hermoso lugar.</i></b>
+
+429
+01:12:12,541 --> 01:12:16,086
+<b><i>Uno de mis sitios favoritos,
+donde había un manantial de agua pura</i></b>
+
+430
+01:12:16,170 --> 01:12:18,046
+<b><i>del que podía beber sin preocuparme.</i></b>
+
+431
+01:12:19,256 --> 01:12:22,718
+<b><i>Paré y le recé una especie de oración
+al espíritu del manantial.</i></b>
+
+432
+01:12:24,553 --> 01:12:30,392
+<b><i>Fue una oración en la que juré vengarme
+de lo que les hacían a los bosques.</i></b>
+
+433
+01:13:43,674 --> 01:13:46,134
+<b><i>La gente que impulsa toda esta basura</i></b>
+
+434
+01:13:46,218 --> 01:13:49,096
+<b><i>sobre el crecimiento y el progreso
+merece ser castigada severamente.</i></b>
+
+435
+01:13:49,179 --> 01:13:52,683
+<b><i>Pero nuestro objetivo no es castigarlos,
+sino difundir nuestras ideas.</i></b>
+
+436
+01:13:55,394 --> 01:13:57,104
+<b><i>Introducción. Uno:</i></b>
+
+437
+01:13:58,397 --> 01:14:00,732
+<b><i>La revolución industrial
+y sus consecuencias</i></b>
+
+438
+01:14:00,816 --> 01:14:03,318
+<b><i>son un desastre para la raza humana.</i></b>
+
+439
+01:14:05,237 --> 01:14:10,075
+<b><i>Cuatro: Abogamos por la revolución
+contra el sistema industrial.</i></b>
+
+440
+01:14:11,159 --> 01:14:14,663
+<b><i>Treinta y siete: Atribuimos
+los problemas sociales y psicológicos</i></b>
+
+441
+01:14:14,746 --> 01:14:17,499
+<b><i>de la sociedad moderna
+al hecho de que esa sociedad</i></b>
+
+442
+01:14:17,583 --> 01:14:21,003
+<b><i>exige que las personas vivan
+en condiciones radicalmente diferentes</i></b>
+
+443
+01:14:21,086 --> 01:14:23,714
+<b><i>a aquellas
+en las que la raza humana evolucionó.</i></b>
+
+444
+01:14:24,840 --> 01:14:28,760
+<b><i>Cuarenta y seis: Para evitar
+problemas psicológicos graves,</i></b>
+
+445
+01:14:28,844 --> 01:14:32,514
+<b><i>el ser humano necesita objetivos
+que requieran un esfuerzo para lograrlos.</i></b>
+
+446
+01:14:34,016 --> 01:14:37,728
+<b><i>Sesenta y nueve: Es cierto
+que el hombre primitivo es débil</i></b>
+
+447
+01:14:37,811 --> 01:14:41,106
+<b><i>contra algunas amenazas,
+como por ejemplo, la enfermedad,</i></b>
+
+448
+01:14:41,190 --> 01:14:44,359
+<b><i>pero puede aceptar
+su riesgo con estoicismo.</i></b>
+
+449
+01:14:46,069 --> 01:14:50,741
+<b><i>Ciento setenta: Los tecnófilos
+dicen: "La ciencia lo solucionará.</i></b>
+
+450
+01:14:50,824 --> 01:14:53,452
+<b><i>Venceremos el hambre,
+eliminaremos el sufrimiento psicológico,</i></b>
+
+451
+01:14:53,535 --> 01:14:55,829
+<b><i>haremos que todos estén sanos y felices".</i></b>
+
+452
+01:14:57,414 --> 01:15:00,501
+<b><i>Ya, claro.
+Eso es lo que dijeron hace dos siglos.</i></b>
+
+453
+01:15:02,920 --> 01:15:06,798
+<b><i>Ciento ochenta: Una vez el sistema
+pase a ser inestable y se altere,</i></b>
+
+454
+01:15:06,882 --> 01:15:10,010
+<b><i>es posible iniciar
+una revolución contra la tecnología.</i></b>
+
+455
+01:15:12,054 --> 01:15:14,723
+<b><i>Ciento ochenta y uno: Los tecnófilos</i></b>
+
+456
+01:15:14,806 --> 01:15:18,685
+<b><i>nos conducen a un viaje totalmente
+temerario hacia lo desconocido.</i></b>
+
+457
+01:15:23,357 --> 01:15:26,693
+<b><i>Ciento ochenta y cinco:
+En cuanto a las consecuencias negativas</i></b>
+
+458
+01:15:26,777 --> 01:15:28,654
+<b><i>de eliminar la sociedad industrial…</i></b>
+
+459
+01:15:28,737 --> 01:15:31,281
+<b><i>Bueno, no se puede tener todo a la vez.</i></b>
+
+460
+01:15:31,990 --> 01:15:34,660
+<b><i>Para conseguir una cosa,
+es necesario sacrificar otra.</i></b>
+
+461
+01:16:20,873 --> 01:16:21,915
+<b>Becky.</b>
+
+462
+01:16:28,380 --> 01:16:30,799
+<b>Tengo… ¡Tengo un pez!</b>
+
+463
+01:16:31,925 --> 01:16:33,302
+<b>¡Pesqué uno!</b>
+
+464
+01:16:33,385 --> 01:16:35,262
+<b>- Sí.
+- ¡Bien hecho!</b>
+
+465
+01:16:35,345 --> 01:16:36,346
+<b>¡Sí!</b>
+
+466
+01:16:38,348 --> 01:16:41,310
+<b>Dios… ¡Es increíble!</b>
+
+467
+01:16:44,396 --> 01:16:45,480
+<b>¡Es grande!</b>
+
+468
+01:17:42,120 --> 01:17:45,999
+<b>No hay nada lo suficientemente importante
+como para que contactes conmigo.</b>
+
+469
+01:17:46,083 --> 01:17:48,377
+<b>Incluso si mamá muriese
+no querría saber nada.</b>
+
+470
+01:17:50,504 --> 01:17:52,047
+<b>No tengo nada más que…</b>
+
+471
+01:17:54,091 --> 01:17:57,302
+<b><i>David. Solo necesito un "sí" o un "no".</i></b>
+
+472
+01:17:57,386 --> 01:17:58,428
+<b><i>¿Vas a…?</i></b>
+
+473
+01:17:59,263 --> 01:18:01,431
+<b><i>¿Podrías prestarme dinero, por favor?</i></b>
+
+474
+01:18:01,515 --> 01:18:03,225
+<b>¿Qué quieres? ¿Que te suplique?</b>
+
+475
+01:18:03,308 --> 01:18:05,978
+<b>Te lo suplico, David.
+Estoy de rodillas ahora mismo,</b>
+
+476
+01:18:06,061 --> 01:18:07,771
+<b>en una cabina de teléfono, te lo suplico.</b>
+
+477
+01:18:07,855 --> 01:18:10,440
+<b>¿Te sientes poderoso, David?
+¿Te sientes empoderado?</b>
+
+478
+01:18:11,275 --> 01:18:13,527
+<b><i>El hombre fuerte y dominante.</i></b>
+
+479
+01:18:13,610 --> 01:18:16,947
+<b><i>Ya tienes a tu hermano
+arrodillado pidiéndote dinero.</i></b>
+
+480
+01:18:17,489 --> 01:18:20,158
+<b>¡Maldita sea, David! ¡Cabrón!</b>
+
+481
+01:18:20,701 --> 01:18:22,119
+<b>Te estoy pidiendo…</b>
+
+482
+01:18:30,294 --> 01:18:31,795
+<b><i>Sí. Mil.</i></b>
+
+483
+01:18:35,174 --> 01:18:37,050
+<b><i>Gracias, David. Sí, lo sé.</i></b>
+
+484
+01:18:39,469 --> 01:18:43,432
+<b>Sí, es un acto fraternal y… entendido.</b>
+
+485
+01:18:46,268 --> 01:18:49,062
+<b>A ti. Un beso y un abrazo para Linda.</b>
+
+486
+01:18:51,273 --> 01:18:52,441
+<b>Está bien.</b>
+
+487
+01:19:23,680 --> 01:19:25,891
+<b><i>El aburrimiento
+es prácticamente inexistente</i></b>
+
+488
+01:19:25,974 --> 01:19:28,477
+<b><i>cuando te acostumbras
+a vivir en la naturaleza.</i></b>
+
+489
+01:19:28,560 --> 01:19:30,771
+<b><i>Si no tienes nada que hacer,
+ninguna tarea,</i></b>
+
+490
+01:19:30,854 --> 01:19:33,607
+<b><i>puedes sentarte
+durante horas sin hacer nada.</i></b>
+
+491
+01:19:33,690 --> 01:19:37,861
+<b><i>Escuchando los sonidos
+de los pájaros, el viento o el silencio.</i></b>
+
+492
+01:19:37,945 --> 01:19:40,989
+<b><i>Observando cómo las sombras cambian
+con el movimiento del sol</i></b>
+
+493
+01:19:42,407 --> 01:19:44,826
+<b><i>o simplemente mirando objetos que conoces.</i></b>
+
+494
+01:19:45,494 --> 01:19:46,537
+<b><i>Así no te aburres.</i></b>
+
+495
+01:19:47,829 --> 01:19:48,872
+<b><i>Estás en paz.</i></b>
+
+496
+01:21:34,895 --> 01:21:36,522
+<b><i>Para el San Francisco Examiner:</i></b>
+
+497
+01:21:37,397 --> 01:21:39,775
+<b><i>Esperamos hasta este momento
+para manifestarnos</i></b>
+
+498
+01:21:39,858 --> 01:21:43,070
+<b><i>porque nuestras anteriores bombas
+fueron vergonzosamente ineficaces.</i></b>
+
+499
+01:21:43,153 --> 01:21:45,572
+<b><i>Las heridas que causaron
+fueron relativamente pequeñas.</i></b>
+
+500
+01:21:46,323 --> 01:21:47,616
+<b><i>Para influir en la gente,</i></b>
+
+501
+01:21:47,699 --> 01:21:50,118
+<b><i>un grupo terrorista debe mostrar
+un cierto grado de éxito.</i></b>
+
+502
+01:21:51,411 --> 01:21:54,248
+<b><i>Cuando nos dimos cuenta de la cantidad
+de pólvora sin humo necesaria</i></b>
+
+503
+01:21:54,331 --> 01:21:57,543
+<b><i>para volar a alguien o algo
+era demasiado grande para ser viable,</i></b>
+
+504
+01:21:57,626 --> 01:21:59,628
+<b><i>decidimos tomarnos dos años de descanso</i></b>
+
+505
+01:21:59,711 --> 01:22:02,965
+<b><i>para aprender sobre explosivos
+y desarrollar una bomba efectiva.</i></b>
+
+506
+01:22:07,177 --> 01:22:08,262
+<b><i>Para finalizar…</i></b>
+
+507
+01:22:08,345 --> 01:22:10,639
+<b><i>Uno: El objetivo del club de la libertad</i></b>
+
+508
+01:22:10,722 --> 01:22:14,226
+<b><i>es la destrucción total y permanente
+de la sociedad industrial moderna</i></b>
+
+509
+01:22:14,309 --> 01:22:15,477
+<b><i>en todo el mundo.</i></b>
+
+510
+01:22:52,264 --> 01:22:54,600
+<b><i>…posiblemente a larga distancia,</i></b>
+
+511
+01:22:54,683 --> 01:22:59,855
+<b><i>no hay lugar para la conversación
+entre el agresor y las víctimas.</i></b>
+
+512
+01:23:00,397 --> 01:23:05,277
+<b><i>El hecho de que contemos
+con un testigo ocular,</i></b>
+
+513
+01:23:05,360 --> 01:23:08,530
+<b><i>por lo que en parte
+tenemos suerte, es muy…</i></b>
+
+514
+01:23:09,781 --> 01:23:13,035
+<b><i>Hemos observado a todas las víctimas</i></b>
+
+515
+01:23:13,702 --> 01:23:18,624
+<b><i>meticulosamente. Y hasta ahora,
+no hemos encontrado ninguna correlación.</i></b>
+
+516
+01:23:20,209 --> 01:23:24,880
+<b><i>Bueno, hay… una gran variedad,
+hay ejecutivos empresariales,</i></b>
+
+517
+01:23:24,963 --> 01:23:28,842
+<b><i>una bomba colocada
+en un avión de American Airlines,</i></b>
+
+518
+01:23:28,926 --> 01:23:30,552
+<b><i>igual que a finales de los 70.</i></b>
+
+519
+01:23:31,011 --> 01:23:33,096
+<b><i>También profesores de universidad.</i></b>
+
+520
+01:23:34,223 --> 01:23:41,021
+<b><i>Dos tipos de bombas según su envío:
+Cartas y paquetes bomba.</i></b>
+
+521
+01:23:41,104 --> 01:23:43,357
+<b><i>Y más o menos,
+la mitad de ellas se colocaron</i></b>
+
+522
+01:23:43,440 --> 01:23:48,946
+<b><i>en una posición
+en la que es necesario mover el paquete.</i></b>
+
+523
+01:23:55,869 --> 01:23:59,456
+<b><i>Bueno,
+ya que voy a tirarlo todo por la borda</i></b>
+
+524
+01:23:59,540 --> 01:24:02,960
+<b><i>en lugar de enfrentarme
+en un tiroteo con la policía o algo,</i></b>
+
+525
+01:24:03,043 --> 01:24:08,006
+<b><i>iré a Canadá, me adentraré en los bosques
+con un rifle e intentaré vivir del campo.</i></b>
+
+526
+01:24:08,966 --> 01:24:12,469
+<b><i>Si no sale bien
+y tengo que regresar a la civilización</i></b>
+
+527
+01:24:12,553 --> 01:24:16,181
+<b><i>antes de morir de hambre,
+volveré acá y mataré a alguien que odio.</i></b>
+
+528
+01:24:17,850 --> 01:24:22,646
+<b>ABIERTO</b>
+
+529
+01:24:22,729 --> 01:24:25,399
+<b>Necesito renovar mi pasaporte.</b>
+
+530
+01:24:26,775 --> 01:24:27,818
+<b>Y…</b>
+
+531
+01:25:04,062 --> 01:25:08,901
+<b>RECOMPENSA: 500.000 DÓLARES</b>
+
+532
+01:25:15,199 --> 01:25:18,869
+<b><i>Evidentemente, estamos en una posición
+en la que podemos hacer mucho daño.</i></b>
+
+533
+01:25:18,952 --> 01:25:22,539
+<b><i>Y no parece que el FBI
+nos vaya a atrapar pronto.</i></b>
+
+534
+01:25:25,334 --> 01:25:27,169
+<b><i>El FBI es un chiste.</i></b>
+
+535
+01:25:42,851 --> 01:25:45,854
+<b><i>FBI, lámanme las pelotas.</i></b>
+
+536
+01:25:45,938 --> 01:25:47,731
+<b>FBI, LÁMANME LAS PELOTAS</b>
+
+537
+01:26:28,313 --> 01:26:30,274
+<b>- Buenos días.
+- Buenos días.</b>
+
+538
+01:26:31,650 --> 01:26:35,112
+<b>Tengo una queja
+para la compañía telefónica de Montana.</b>
+
+539
+01:26:36,029 --> 01:26:39,283
+<b>Es por algunas
+de sus cabinas en Lincoln, Montana.</b>
+
+540
+01:26:39,825 --> 01:26:43,620
+<b>Estas cabinas funcionan mal, de tal manera</b>
+
+541
+01:26:43,704 --> 01:26:46,331
+<b>que le roban el dinero
+a la persona que llama.</b>
+
+542
+01:26:46,415 --> 01:26:50,335
+<b>Insertas una moneda
+y se atasca o no se detecta.</b>
+
+543
+01:26:50,419 --> 01:26:53,881
+<b>Tampoco devuelve la moneda,
+por lo que o no funciona la llamada</b>
+
+544
+01:26:53,964 --> 01:26:56,800
+<b>y pierdes la moneda,
+o sí funciona la llamada</b>
+
+545
+01:26:56,884 --> 01:26:59,928
+<b>pero acabas pagando 25
+o 50 centavos más que el precio real.</b>
+
+546
+01:27:01,597 --> 01:27:03,724
+<b>Hace años que pasa esto.</b>
+
+547
+01:27:07,269 --> 01:27:10,314
+<b>Esta no es la primera vez que me quejo,</b>
+
+548
+01:27:10,397 --> 01:27:12,983
+<b>pero sí la primera que lo hago en persona,</b>
+
+549
+01:27:13,066 --> 01:27:17,237
+<b>hablé varias veces con los operadores
+y no hicieron nada al respecto.</b>
+
+550
+01:27:18,071 --> 01:27:20,824
+<b>En realidad, el problema
+lo tiene principalmente la cabina</b>
+
+551
+01:27:20,908 --> 01:27:23,327
+<b>de la esquina de la carretera 200
+y Stemple Pass.</b>
+
+552
+01:27:23,410 --> 01:27:26,955
+<b>Tuve que utilizar esa por obligación,
+ya que es la única de la compañía</b>
+
+553
+01:27:27,039 --> 01:27:29,625
+<b>que ofrece un poco de privacidad.</b>
+
+554
+01:27:30,125 --> 01:27:32,544
+<b>Pero me robó la mitad de monedas.</b>
+
+555
+01:27:32,628 --> 01:27:33,670
+<b>Me estafó.</b>
+
+556
+01:27:33,754 --> 01:27:36,048
+<b>Y la compañía es consciente del problema.</b>
+
+557
+01:27:37,174 --> 01:27:38,258
+<b>Eso es un delito.</b>
+
+558
+01:27:39,343 --> 01:27:40,761
+<b>Me están robando mi dinero.</b>
+
+559
+01:27:43,263 --> 01:27:45,641
+<b>En nombre
+de la compañía telefónica de Montana,</b>
+
+560
+01:27:45,724 --> 01:27:48,227
+<b>le pido disculpas
+por las molestias ocasionadas.</b>
+
+561
+01:27:48,936 --> 01:27:51,897
+<b>¿Tiene algún registro
+de cuánto dinero perdió en estos años?</b>
+
+562
+01:27:51,980 --> 01:27:54,441
+<b>Sí. Cinco dólares con setenta y cinco.</b>
+
+563
+01:27:54,942 --> 01:27:57,736
+<b>- ¿Cinco dólares con setenta y cinco?
+- Sí, en este año.</b>
+
+564
+01:27:58,445 --> 01:27:59,738
+<b>- Este año.
+- Sí.</b>
+
+565
+01:28:01,573 --> 01:28:05,911
+<b>Tengo una carta
+que podría entregar a sus superiores</b>
+
+566
+01:28:05,994 --> 01:28:11,166
+<b>y que contiene todos los detalles
+de lo que le acabo de contar a usted.</b>
+
+567
+01:28:11,250 --> 01:28:13,919
+<b>Me encantaría
+dársela a mis superiores, pero…</b>
+
+568
+01:28:14,503 --> 01:28:17,589
+<b>solo aceptamos cartas a través del correo.</b>
+
+569
+01:28:18,841 --> 01:28:20,634
+<b>No puedo entregarla en mano.</b>
+
+570
+01:28:21,760 --> 01:28:22,803
+<b>¿Lo entiende?</b>
+
+571
+01:28:30,435 --> 01:28:32,771
+<b>Vine acá para traer la carta en persona.</b>
+
+572
+01:28:33,397 --> 01:28:34,565
+<b>Es todo un detalle.</b>
+
+573
+01:28:36,233 --> 01:28:37,442
+<b>Pero no puedo aceptarla.</b>
+
+574
+01:28:58,213 --> 01:28:59,965
+<b>Que tenga un buen día.</b>
+
+575
+01:29:00,674 --> 01:29:02,759
+<b>Escribiré a mi congresista al respecto.</b>
+
+576
+01:29:02,843 --> 01:29:03,886
+<b>Está bien.</b>
+
+577
+01:30:01,235 --> 01:30:05,989
+<b><i>Durante mi etapa romántica,
+seguí fantaseando con la vida primitiva,</i></b>
+
+578
+01:30:06,657 --> 01:30:10,953
+<b><i>pero tendía a adornarlo
+con detalles románticos,</i></b>
+
+579
+01:30:11,036 --> 01:30:14,039
+<b><i>como unos cuernos resonando en el bosque,</i></b>
+
+580
+01:30:14,122 --> 01:30:17,543
+<b><i>túnicas de aspecto salvaje,
+piel de oso y demás.</i></b>
+
+581
+01:30:56,665 --> 01:30:58,917
+<b>LA SOCIEDAD INDUSTRIAL
+Y SU FUTURO POR FC</b>
+
+582
+01:31:09,428 --> 01:31:11,638
+<b>Una secuencia de pequeños avances,</b>
+
+583
+01:31:11,722 --> 01:31:14,975
+<b>no habrá ninguna resistencia pública
+racional y efectiva.</b>
+
+584
+01:31:15,517 --> 01:31:19,771
+<b>No es posible hacer una promesa duradera
+entre la tecnología y la libertad</b>
+
+585
+01:31:20,564 --> 01:31:24,318
+<b>porque la tecnología es la fuerza social
+más potente, y continuamente</b>
+
+586
+01:31:25,402 --> 01:31:28,822
+<b>erosiona la libertad
+mediante compromisos que se repiten.</b>
+
+587
+01:31:33,911 --> 01:31:35,954
+<b>LA SOCIEDAD INDUSTRIAL
+Y SU FUTURO POR FC</b>
+
+588
+01:31:47,049 --> 01:31:51,470
+<b><i>A medida que la sociedad y los problemas
+a los que se enfrenta se complican,</i></b>
+
+589
+01:31:51,553 --> 01:31:54,765
+<b><i>y a medida que las máquinas se vuelven
+cada vez más inteligentes,</i></b>
+
+590
+01:31:54,848 --> 01:31:59,061
+<b><i>la gente dejará que las máquinas tomen
+cada vez más decisiones por ella,</i></b>
+
+591
+01:31:59,144 --> 01:32:04,316
+<b><i>porque las decisiones que toma una máquina
+son mejores que las que toma el hombre.</i></b>
+
+592
+01:32:07,903 --> 01:32:11,823
+<b><i>Algún día, se llegará a una etapa
+en la que las decisiones para mantener</i></b>
+
+593
+01:32:11,907 --> 01:32:13,951
+<b><i>el sistema en funcionamiento
+serán tan complejas</i></b>
+
+594
+01:32:14,034 --> 01:32:17,454
+<b><i>que los seres humanos serán incapaces
+de tomarlas de manera racional.</i></b>
+
+595
+01:32:17,955 --> 01:32:20,666
+<b><i>En ese momento,
+las máquinas tendrán todo el control.</i></b>
+
+596
+01:32:21,208 --> 01:32:23,377
+<b><i>La gente no podrá desconectarlas</i></b>
+
+597
+01:32:24,044 --> 01:32:28,006
+<b><i>porque dependerá tanto de ellas
+que eso supondría el suicidio.</i></b>
+
+598
+01:33:03,917 --> 01:33:06,378
+<b>Iría a 60 kilómetros por hora.</b>
+
+599
+01:33:49,463 --> 01:33:50,923
+<b>Sabes, mis padres…</b>
+
+600
+01:33:51,715 --> 01:33:53,467
+<b>me presionaron tanto en la escuela</b>
+
+601
+01:33:53,550 --> 01:33:56,762
+<b>que nunca aprendí realmente
+a estar a gusto con las mujeres.</b>
+
+602
+01:33:58,180 --> 01:33:59,640
+<b>Dímelo con el corazón.</b>
+
+603
+01:34:01,016 --> 01:34:03,227
+<b>Tienes razón. Me amas.</b>
+
+604
+01:34:04,728 --> 01:34:05,729
+<b>Sí.</b>
+
+605
+01:34:06,939 --> 01:34:11,401
+<b>En serio. Verás, de hecho…
+Esa es la verdad. Te amo.</b>
+
+606
+01:34:11,485 --> 01:34:13,946
+<b>Te amo tanto que soltaré el manillar.</b>
+
+607
+01:34:14,029 --> 01:34:15,989
+<b>- ¡No, no lo hagas!
+- ¡Voy a soltarlo!</b>
+
+608
+01:34:16,073 --> 01:34:17,783
+<b>- Por favor, no.
+- Una mano.</b>
+
+609
+01:34:17,866 --> 01:34:19,117
+<b>Solo una mano, ¿sí?</b>
+
+610
+01:34:19,201 --> 01:34:21,328
+<b>Vamos, ¡eso es!</b>
+
+611
+01:34:22,412 --> 01:34:24,206
+<b>- ¡Agárralo!
+- Bueno.</b>
+
+612
+01:34:24,289 --> 01:34:26,917
+<b>¡Se soltó la mano derecha!
+Tú eres mi mano derecha.</b>
+
+613
+01:34:27,000 --> 01:34:29,086
+<b>Debes ser la mano derecha de un hombre.</b>
+
+614
+01:34:29,169 --> 01:34:30,254
+<b>Bueno.</b>
+
+615
+01:35:01,201 --> 01:35:04,413
+<b><i>Somos un grupo anarquista…</i></b>
+
+616
+01:35:05,414 --> 01:35:08,375
+<b>y nos hacemos llamar…</b>
+
+617
+01:35:09,585 --> 01:35:12,754
+<b>-</b><b><i> Nos hacemos llamar FC.
+</i></b><b>- FC.</b>
+
+618
+01:35:12,838 --> 01:35:17,926
+<b><i>Obsérvese que el matasellos precede
+a un evento de interés periodístico</i></b>
+
+619
+01:35:18,010 --> 01:35:21,555
+<b><i>que ocurrirá, más o menos, en el momento
+en el que reciban esta carta,</i></b>
+
+620
+01:35:21,638 --> 01:35:23,599
+<b><i>si todo va bien.</i></b>
+
+621
+01:35:23,682 --> 01:35:28,854
+<b>Nos estamos cansando</b>
+
+622
+01:35:29,730 --> 01:35:33,525
+<b>de fabricar bombas.</b>
+
+623
+01:35:36,445 --> 01:35:39,031
+<b><i>No es divertido pasar todas las tardes</i></b>
+
+624
+01:35:39,114 --> 01:35:41,658
+<b><i>y fines de semana
+preparando mezclas peligrosas,</i></b>
+
+625
+01:35:41,742 --> 01:35:44,411
+<b><i>rellenando mecanismos de disparo
+con trozos de metal</i></b>
+
+626
+01:35:44,494 --> 01:35:47,956
+<b><i>o buscando en las Sierras
+un lugar aislado para probar una bomba.</i></b>
+
+627
+01:35:50,792 --> 01:35:52,461
+<b><i>Así que les ofrecemos un trato.</i></b>
+
+628
+01:35:53,921 --> 01:35:56,757
+<b><i>Tenemos un artículo de entre 29.000</i></b>
+
+629
+01:35:56,840 --> 01:35:59,551
+<b><i>y 37.000 palabras
+que queremos que publiquen.</i></b>
+
+630
+01:36:00,385 --> 01:36:03,472
+<b><i>Si lo publican
+cumpliendo nuestros requisitos,</i></b>
+
+631
+01:36:04,306 --> 01:36:07,267
+<b><i>detendremos por completo
+la actividad terrorista.</i></b>
+
+632
+01:36:07,851 --> 01:36:09,436
+<b><i>Si la respuesta nos complace,</i></b>
+
+633
+01:36:09,520 --> 01:36:12,356
+<b><i>terminaremos de redactar
+el manuscrito y se lo enviaremos.</i></b>
+
+634
+01:36:13,273 --> 01:36:16,985
+<b><i>Si no, comenzaremos
+a fabricar nuestra próxima bomba.</i></b>
+
+635
+01:36:21,740 --> 01:36:22,783
+<b><i>FC.</i></b>
+
+636
+01:37:10,080 --> 01:37:13,417
+<b>CARTA AL EDITOR ANEXO
+DEL NEW YORK TIMES</b>
+
+637
+01:37:18,839 --> 01:37:22,634
+<b>CARTA AL EDITOR REVISTA PENTHOUSE</b>
+
+638
+01:37:27,222 --> 01:37:30,017
+<b><i>Me ahoga la frustración al ser incapaz</i></b>
+
+639
+01:37:30,100 --> 01:37:33,228
+<b>de lograr quitarme de encima
+a mi maldita familia de una vez por todas.</b>
+
+640
+01:37:34,104 --> 01:37:37,983
+<b>No, también te incluye a ti, David.
+Te incluye enfática y específicamente, sí.</b>
+
+641
+01:37:38,609 --> 01:37:41,028
+<b>Claro, eres…
+eres parte de mi maldita familia.</b>
+
+642
+01:37:41,862 --> 01:37:44,072
+<b>No es una decisión emocional,
+es una decisión lógica, David.</b>
+
+643
+01:37:44,156 --> 01:37:46,825
+<b>Es lógica. Sí, tengo mente propia.</b>
+
+644
+01:37:46,909 --> 01:37:48,493
+<b>Tengo mente propia, David.</b>
+
+645
+01:37:48,577 --> 01:37:51,288
+<b>Fabrico mis propios pensamientos
+y luego hago lo que debo hacer,</b>
+
+646
+01:37:51,371 --> 01:37:53,916
+<b>no lo que otras personas… Mira, no…</b>
+
+647
+01:37:54,541 --> 01:37:56,043
+<b>No pasaré por esto otra vez.</b>
+
+648
+01:37:56,126 --> 01:37:58,504
+<b>No pasaré por esto
+otra vez contigo, David. ¿Sí?</b>
+
+649
+01:37:58,587 --> 01:38:01,215
+<b>No quiero saber
+nada de ti ni de otro miembro</b>
+
+650
+01:38:01,298 --> 01:38:03,967
+<b>de mi maldita familia nunca más.</b>
+
+651
+01:38:05,135 --> 01:38:06,178
+<b>Adiós.</b>
+
+652
+01:38:27,699 --> 01:38:29,117
+<b>- Hola.
+- Hi.</b>
+
+653
+01:38:29,201 --> 01:38:30,619
+<b>- Bueno?
+- Sí, sí.</b>
+
+654
+01:38:51,974 --> 01:38:55,143
+<b><i>Noticias de última hora de la CNN.</i></b>
+
+655
+01:38:56,228 --> 01:38:59,356
+<b><i>Saludos desde el centro de noticias
+de la CNN en Atlanta. Soy Natalie Allen.</i></b>
+
+656
+01:38:59,439 --> 01:39:02,484
+<b><i>Transmitiremos en directo una conferencia
+de prensa desde San Francisco,</i></b>
+
+657
+01:39:02,568 --> 01:39:06,238
+<b><i>presidida por el FBI respecto
+a la amenaza de bomba que recibieron.</i></b>
+
+658
+01:39:06,321 --> 01:39:09,908
+<b><i>El individuo detrás de la amenaza
+podría ser el llamado "Unabomber",</i></b>
+
+659
+01:39:09,992 --> 01:39:14,329
+<b><i>esto hizo que aumentase la seguridad
+en cinco aeropuertos en…</i></b>
+
+660
+01:39:15,080 --> 01:39:18,625
+<b><i>Restos pequeños, grandes, polvo…</i></b>
+
+661
+01:39:18,709 --> 01:39:21,044
+<b><i>Me tranquiliza ver mucha seguridad…</i></b>
+
+662
+01:39:21,128 --> 01:39:22,671
+<b><i>…y tenacidad.</i></b>
+
+663
+01:39:22,754 --> 01:39:25,674
+<b><i>La idea es mantener
+las medidas de seguridad</i></b>
+
+664
+01:39:25,757 --> 01:39:28,177
+<b><i>hasta que se resuelva todo.</i></b>
+
+665
+01:39:28,260 --> 01:39:30,012
+<b><i>Pasaron cinco días</i></b>
+
+666
+01:39:30,095 --> 01:39:33,056
+<b><i>desde que Unabomber amenazó
+con hacer explotar un avión</i></b>
+
+667
+01:39:33,140 --> 01:39:35,726
+<b><i>que vuele desde
+o hacia Los Ángeles el 4 de julio.</i></b>
+
+668
+01:39:36,268 --> 01:39:40,063
+<b><i>Pero después de 17 años,
+unos 23 heridos y tres muertos,</i></b>
+
+669
+01:39:40,147 --> 01:39:42,524
+<b><i>Unabomber no es motivo de broma.</i></b>
+
+670
+01:39:42,608 --> 01:39:45,527
+<b><i>Los expertos creen
+que Unabomber intensificó su actividad</i></b>
+
+671
+01:39:45,611 --> 01:39:49,740
+<b><i>porque está celoso de la atención
+que recibió el atentado de Oklahoma City,</i></b>
+
+672
+01:39:49,823 --> 01:39:53,202
+<b><i>que le robó protagonismo
+a su último paquete bomba.</i></b>
+
+673
+01:39:53,285 --> 01:39:57,080
+<b><i>Los expertos también creen
+que está a punto de ser atrapado.</i></b>
+
+674
+01:39:57,706 --> 01:40:01,585
+<b><i>Creo que ahora está en un punto álgido.
+Creo que está muy emocionado.</i></b>
+
+675
+01:40:01,668 --> 01:40:04,296
+<b><i>Creo que se intoxicó con su propio poder,</i></b>
+
+676
+01:40:04,379 --> 01:40:08,675
+<b><i>y creo que en este momento,
+es más vulnerable.</i></b>
+
+677
+01:40:08,759 --> 01:40:11,512
+<b><i>Creo que pudo cometer
+algunos errores muy importantes.</i></b>
+
+678
+01:40:47,381 --> 01:40:51,343
+<b><i>El FBI no puede atraparlo, y ahora,
+Unabomber subió la apuesta.</i></b>
+
+679
+01:40:51,426 --> 01:40:53,470
+<b><i>En la carta que envió al Washington Post</i></b>
+
+680
+01:40:53,554 --> 01:40:55,514
+<b><i>y al New York Times esta semana,
+Unabomber promete</i></b>
+
+681
+01:40:55,597 --> 01:40:58,392
+<b><i>detener sus crímenes si estos periódicos
+estadounidenses tan importantes</i></b>
+
+682
+01:40:58,475 --> 01:41:01,019
+<b><i>publican un manifiesto de 35.000 palabras.</i></b>
+
+683
+01:41:01,103 --> 01:41:03,730
+<b><i>En ese documento, Unabomber condena
+la tecnología moderna</i></b>
+
+684
+01:41:03,814 --> 01:41:06,149
+<b><i>y dice que las computadoras crearon
+un mundo en el que los humanos</i></b>
+
+685
+01:41:06,233 --> 01:41:07,776
+<b><i>son meros engranajes en la máquina.</i></b>
+
+686
+01:41:07,860 --> 01:41:11,530
+<b><i>La propuesta supone una cuestión
+de vida o muerte para el Post y el Times:</i></b>
+
+687
+01:41:11,613 --> 01:41:16,118
+<b><i>Ceder a las amenazas y publicarlo,
+o negarse a ser utilizados como medios…</i></b>
+
+688
+01:41:16,201 --> 01:41:19,913
+<b><i>En el párrafo 125,
+utilizamos una analogía del vecino débil</i></b>
+
+689
+01:41:19,997 --> 01:41:22,916
+<b><i>que acaba en la indigencia
+porque el vecino fuerte se quedó</i></b>
+
+690
+01:41:23,000 --> 01:41:26,420
+<b><i>con todo su terreno tras someterle
+a una serie de compromisos.</i></b>
+
+691
+01:41:27,462 --> 01:41:30,465
+<b><i>Pero supongamos ahora
+que el vecino fuerte enferma</i></b>
+
+692
+01:41:30,549 --> 01:41:32,676
+<b><i>y no puede defenderse por sí solo.</i></b>
+
+693
+01:41:33,594 --> 01:41:36,889
+<b><i>El vecino débil puede obligarlo
+a que le devuelva su terreno</i></b>
+
+694
+01:41:36,972 --> 01:41:38,348
+<b><i>o matarlo.</i></b>
+
+695
+01:41:38,432 --> 01:41:41,351
+<b><i>Si le deja con vida y solo lo obliga</i></b>
+
+696
+01:41:41,435 --> 01:41:43,812
+<b><i>a devolverle el terreno, sería estúpido,</i></b>
+
+697
+01:41:43,896 --> 01:41:47,691
+<b><i>porque cuando el fuerte se recupere,
+volverá a quitarle su terreno.</i></b>
+
+698
+01:41:47,774 --> 01:41:50,527
+<b><i>La única alternativa sensata para el débil</i></b>
+
+699
+01:41:50,611 --> 01:41:52,738
+<b><i>es matar al fuerte mientras
+tenga la oportunidad.</i></b>
+
+700
+01:41:52,821 --> 01:41:56,283
+<b><i>Del mismo modo, mientras
+el sistema industrial esté enfermo,</i></b>
+
+701
+01:41:56,366 --> 01:41:57,451
+<b><i>debemos destruirlo.</i></b>
+
+702
+01:41:57,993 --> 01:42:03,582
+<b><i>Si dejamos que se recupere,
+terminará arrebatándonos toda la libertad.</i></b>
+
+703
+01:42:04,374 --> 01:42:06,585
+<b><i>Regresamos con CNN en Washington…</i></b>
+
+704
+01:42:06,668 --> 01:42:09,129
+<b><i>Escuchamos a alguien gritar:
+"No volverá a pasar".</i></b>
+
+705
+01:42:12,299 --> 01:42:15,844
+{\an8}<b><i>Tratando de alcanzar
+a O.J. Simpson mientras se dirige</i></b>
+
+706
+01:42:15,928 --> 01:42:18,305
+{\an8}<b><i>al aeropuerto de Los Ángeles
+por la autopista 405 hacia el norte.</i></b>
+
+707
+01:42:18,388 --> 01:42:19,598
+{\an8}<b>DIRECTO PATÓLOGO FORENSE</b>
+
+708
+01:42:19,681 --> 01:42:21,975
+{\an8}<b><i>Pueden ver el tráfico deteniéndose
+en los carriles del sur</i></b>
+
+709
+01:42:22,059 --> 01:42:26,522
+{\an8}<b><i>y mirando, autos policiales persiguiendo,
+el resto del tráfico en el carril derecho.</i></b>
+
+710
+01:42:42,162 --> 01:42:44,790
+<b>Gilbert, deberías quedártelo,
+aunque no sea para ti.</b>
+
+711
+01:42:44,873 --> 01:42:47,501
+<b>Puede que sea una bomba.
+Deberías enviárselo a Bill.</b>
+
+712
+01:42:47,584 --> 01:42:51,755
+<b>- Puede que sea una carta de amor.
+- De Oklahoma City. Ten cuidado.</b>
+
+713
+01:43:04,560 --> 01:43:07,104
+<b><i>El servicio postal está distribuyendo
+una cinta de formación</i></b>
+
+714
+01:43:07,187 --> 01:43:08,897
+<b><i>que muestra técnicas de detección.</i></b>
+
+715
+01:43:09,398 --> 01:43:11,650
+<b><i>También enseña gráficamente la potencia</i></b>
+
+716
+01:43:11,733 --> 01:43:15,362
+<b><i>de un paquete bomba con un muñeco
+en una reproducción de una oficina.</i></b>
+
+717
+01:43:15,445 --> 01:43:19,324
+<b><i>Está igualando el ingenio de todo
+aquel que entra en conflicto con él.</i></b>
+
+718
+01:43:19,408 --> 01:43:21,827
+<b><i>Este es el ring. Este es el Coliseo.</i></b>
+
+719
+01:43:21,910 --> 01:43:23,745
+<b><i>"Soy yo contra el león".</i></b>
+
+720
+01:43:23,829 --> 01:43:26,707
+<b><i>Además de la carta
+que recibió el New York Times,</i></b>
+
+721
+01:43:26,790 --> 01:43:29,626
+<b><i>hay otra enviada
+antes de los últimos atentados.</i></b>
+
+722
+01:43:29,710 --> 01:43:33,213
+<b><i>Advertía de un evento de interés
+periodístico y reivindicaba la autoría</i></b>
+
+723
+01:43:33,297 --> 01:43:36,466
+<b><i>en nombre de un grupo anarquista
+que se hace llamar FC.</i></b>
+
+724
+01:43:36,550 --> 01:43:40,512
+<b><i>No tenemos ninguna prueba de que esté
+relacionado con otras personas.</i></b>
+
+725
+01:43:40,596 --> 01:43:42,973
+<b><i>El FBI dice que depende del New York Times</i></b>
+
+726
+01:43:43,056 --> 01:43:47,352
+<b><i>cumplir con la demanda de Unabomber
+de publicar el manuscrito.</i></b>
+
+727
+01:43:47,436 --> 01:43:51,732
+<b><i>Pero el FBI duda de la sinceridad
+de la oferta de Unabomber.</i></b>
+
+728
+01:43:51,815 --> 01:43:53,692
+<b><i>Y es que en la misma carta,</i></b>
+
+729
+01:43:53,775 --> 01:43:56,612
+<b><i>se reserva el derecho
+a participar en el sabotaje</i></b>
+
+730
+01:43:56,695 --> 01:43:59,740
+<b><i>pensado para dañar
+propiedades en lugar de seres humanos.</i></b>
+
+731
+01:45:56,440 --> 01:46:00,736
+<b><i>Esta mañana, en Washington,
+el tema de conversación predominante</i></b>
+
+732
+01:46:00,819 --> 01:46:03,780
+<b><i>fue lo que apareció
+en la portada de los periódicos.</i></b>
+
+733
+01:46:03,864 --> 01:46:06,950
+<b><i>El Washington Post publicó
+una sección especial</i></b>
+
+734
+01:46:07,034 --> 01:46:09,995
+<b><i>con el manifiesto de 35.000 palabras</i></b>
+
+735
+01:46:10,078 --> 01:46:12,873
+<b><i>del bombardero en serie
+conocido como "Unabomber".</i></b>
+
+736
+01:46:12,956 --> 01:46:15,667
+<b><i>El Post menciona, cito:
+"Razones de seguridad pública"</i></b>
+
+737
+01:46:15,751 --> 01:46:20,005
+<b><i>para justificar su decisión,
+tomada y pagada con el New York Times.</i></b>
+
+738
+01:46:20,088 --> 01:46:22,007
+<b><i>En una inusual declaración conjunta,</i></b>
+
+739
+01:46:22,090 --> 01:46:26,053
+<b><i>los editores Donald Graham, del Post,
+y Arthur Sulzberger Jr.,</i></b>
+
+740
+01:46:26,136 --> 01:46:28,639
+<b><i>del Times, justifican la publicación.</i></b>
+
+741
+01:46:28,722 --> 01:46:31,767
+<b><i>Cito: "Si no lo hiciéramos, Unabomber…".</i></b>
+
+742
+01:46:49,952 --> 01:46:53,121
+<b>¡Sí!</b>
+
+743
+01:47:04,675 --> 01:47:06,552
+<b><i>Por desgracia,
+para el fiscal general y el FBI,</i></b>
+
+744
+01:47:06,635 --> 01:47:09,596
+<b><i>todos se rindieron
+ante la autoridad de Unabomber.</i></b>
+
+745
+01:47:09,680 --> 01:47:15,894
+<b><i>Me imagino a este tipo ahora mismo
+teniendo un orgasmo psicológico.</i></b>
+
+746
+01:47:15,978 --> 01:47:18,146
+<b><i>Le han dado el control,</i></b>
+
+747
+01:47:18,230 --> 01:47:23,193
+<b><i>como un titiritero, de ciudades,
+periódicos y todo lo demás.</i></b>
+
+748
+01:47:23,277 --> 01:47:24,778
+<b><i>¿Cómo acabará todo esto?</i></b>
+
+749
+01:47:24,862 --> 01:47:27,447
+<b><i>Es difícil argumentar su lógica.</i></b>
+
+750
+01:47:27,531 --> 01:47:29,199
+<b><i>Seguro que ni el New York Times,</i></b>
+
+751
+01:47:29,283 --> 01:47:31,952
+<b><i>ni el Washington Post
+habrían publicado su manuscrito</i></b>
+
+752
+01:47:32,035 --> 01:47:34,872
+<b><i>de no ser por su historial como asesino,</i></b>
+
+753
+01:47:34,955 --> 01:47:38,709
+<b><i>y por lo tanto, de su amenaza,
+totalmente creíble, de volver a matar.</i></b>
+
+754
+01:47:39,001 --> 01:47:42,462
+<b>SE BUSCA</b>
+
+755
+01:48:12,743 --> 01:48:15,245
+<b>UNABOMBER HABLA</b>
+
+756
+01:48:51,990 --> 01:48:54,326
+<b>SE BUSCA</b>
+
+757
+01:49:22,104 --> 01:49:26,066
+<b><i>"Discrepo de la creencia popular
+de que usted es un asesino en serie</i></b>
+
+758
+01:49:26,149 --> 01:49:27,693
+<b><i>y debe ser tratado como tal.</i></b>
+
+759
+01:49:29,319 --> 01:49:32,197
+<b><i>Puntualicé que los asesinos
+en serie obtienen</i></b>
+
+760
+01:49:32,281 --> 01:49:34,491
+<b><i>toda su satisfacción del acto de matar.</i></b>
+
+761
+01:49:36,118 --> 01:49:40,330
+<b><i>En su caso, sugerí que matar
+era el medio para lograr el fin.</i></b>
+
+762
+01:49:42,249 --> 01:49:46,003
+<b><i>Sus objetivos son mucho más audaces
+e infinitamente mucho más elaborados.</i></b>
+
+763
+01:49:47,504 --> 01:49:49,089
+<b><i>Usted quiere cambiar el mundo".</i></b>
+
+764
+01:49:50,799 --> 01:49:54,094
+<b><i>Bob Guccione, Editor, Revista Penthouse.</i></b>
+
+765
+01:50:47,189 --> 01:50:52,402
+{\an8}<b>SIETE MESES DESPUÉS</b>
+
+766
+01:52:47,059 --> 01:52:51,438
+<b>PERO ME PREOCUPAS…</b>
+
+767
+01:52:51,522 --> 01:52:54,983
+<b>PARA PODER IR A VERTE…</b>
+
+768
+01:53:15,546 --> 01:53:16,547
+<b>Por favor.</b>
+
+769
+01:53:18,131 --> 01:53:21,176
+<b>Claro, ven acá, David. Sí, por favor.</b>
+
+770
+01:55:14,081 --> 01:55:15,123
+<b><i>¿Ted?</i></b>
+
+771
+01:55:17,918 --> 01:55:18,961
+<b><i>¡Soy Gary!</i></b>
+
+772
+01:55:24,216 --> 01:55:26,426
+<b><i>Oye, ¿puedes venir
+a enseñarnos tus límites?</i></b>
+
+773
+01:55:27,135 --> 01:55:29,388
+<b><i>Estamos tratando de averiguar
+dónde termina tu propiedad.</i></b>
+
+774
+01:55:42,317 --> 01:55:43,986
+<b>- Buenos días, Ted.
+- Buenos días.</b>
+
+775
+01:55:44,611 --> 01:55:46,530
+<b>Estos son Bob y Mike. Son mineros.</b>
+
+776
+01:55:48,615 --> 01:55:50,325
+<b>Buenos días, Sr. Kaczynski.</b>
+
+777
+01:55:50,409 --> 01:55:53,036
+<b>Estábamos haciendo
+unos trabajos en la zona y, bueno,</b>
+
+778
+01:55:53,120 --> 01:55:57,916
+<b>no sabemos muy bien
+dónde están los límites de su propiedad.</b>
+
+779
+01:56:03,046 --> 01:56:07,634
+<b>Esperábamos que pudiese
+decirnos los límites exactos.</b>
+
+780
+01:56:11,555 --> 01:56:15,184
+<b>Sí, no. De acuerdo,
+deje que agarre un abrigo…</b>
+
+781
+01:56:15,851 --> 01:56:17,436
+<b>¡Quítenme las manos de encima!</b>
+
+782
+01:56:17,519 --> 01:56:20,689
+<b>¡Quítenme las malditas manos de encima!</b>
+
+783
+01:56:20,772 --> 01:56:23,275
+<b>¡Quítenme las malditas manos de encima!</b>
+
+784
+01:56:23,358 --> 01:56:27,196
+<b>Sr. Kaczynski, somos del FBI.</b>
+
+785
+01:56:27,821 --> 01:56:30,490
+<b>Tenemos una orden
+para registrar su cabaña.</b>
+
+786
+01:56:35,245 --> 01:56:36,705
+<b>Está bien.</b>
+
+787
+01:56:37,706 --> 01:56:38,790
+<b>Sí.</b>
+
+788
+01:56:48,383 --> 01:56:49,551
+<b>¡Lo tenemos!</b>
+
+789
+01:57:54,074 --> 01:57:56,451
+<b><i>…los oficiales
+de la ley federal nos comunicaron</i></b>
+
+790
+01:57:56,535 --> 01:57:59,454
+<b><i>que recibieron una pista
+sobre este individuo de manera indirecta</i></b>
+
+791
+01:57:59,538 --> 01:58:01,623
+<b><i>desde un miembro de la familia.</i></b>
+
+792
+01:58:01,707 --> 01:58:05,586
+<b><i>Se trata de su hermano, que contactó
+con un abogado de renombre de Washington,</i></b>
+
+793
+01:58:05,669 --> 01:58:09,381
+<b><i>que a su vez se puso en contacto
+con el FBI y les habló de esta persona,</i></b>
+
+794
+01:58:09,464 --> 01:58:12,718
+<b><i>y lo tienen bajo vigilancia
+desde hace más o menos una semana.</i></b>
+
+795
+01:58:12,801 --> 01:58:15,971
+<b><i>En este momento se están preparando
+para entregar una orden de registro,</i></b>
+
+796
+01:58:16,054 --> 01:58:18,473
+<b><i>o probablemente,
+la estén entregando ahora mismo.</i></b>
+
+797
+01:58:18,557 --> 01:58:21,977
+<b><i>No sabemos si este individuo está
+en la casa o qué esperan encontrar allá,</i></b>
+
+798
+01:58:22,060 --> 01:58:24,605
+<b><i>si solo van en busca de pruebas
+dentro de la casa,</i></b>
+
+799
+01:58:24,688 --> 01:58:27,524
+<b><i>pruebas potenciales,
+o si buscan a alguien.</i></b>
+
+800
+01:58:27,608 --> 01:58:30,110
+<b><i>No sabemos si ya hubo algún arresto…</i></b>
+
+801
+01:58:37,534 --> 01:58:42,497
+<b>COLORADO ESTADOS UNIDOS</b>
+
+802
+01:58:42,581 --> 01:58:48,587
+{\an8}<b>25 AÑOS MÁS TARDE</b>
+
+803
+01:59:11,151 --> 01:59:14,321
+<b>TRAS TRES MUERTOS Y 22 HERIDOS,</b>
+
+804
+01:59:14,404 --> 01:59:17,366
+<b>TED KACZYNSKI
+FUE DETENIDO Y CONDENADO</b>
+
+805
+01:59:17,449 --> 01:59:19,201
+<b>A CADENA PERPETUA
+EN MÁXIMA SEGURIDAD,</b>
+
+806
+01:59:19,284 --> 01:59:21,245
+<b>DONDE SE ENCUENTRA ACTUALMENTE.</b>
+
+807
+01:59:21,328 --> 01:59:23,497
+<b>CON LA PUBLICACIÓN DEL MANIFIESTO,</b>
+
+808
+01:59:23,580 --> 01:59:25,707
+<b>LINDA Y DAVID
+RECONOCIERON SUS ESCRITOS</b>
+
+809
+01:59:25,791 --> 01:59:29,127
+<b>E INFORMARON AL FBI.</b>
+
+810
+01:59:29,211 --> 01:59:35,217
+<b>FUE LA MAYOR PERSECUCIÓN
+EN LA HISTORIA DEL FBI.</b>
+
