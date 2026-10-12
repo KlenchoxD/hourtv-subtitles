@@ -1,0 +1,8008 @@
+1
+00:00:17,059 --> 00:00:19,270
+<i>Señoras y señores...</i>
+
+2
+00:00:27,278 --> 00:00:29,238
+<i>Estamos en Moscú, en la Unión Soviética,</i>
+
+3
+00:00:29,280 --> 00:00:33,284
+<i>y esto promete ser el evento más visto</i>
+<i>de la historia del boxeo.</i>
+
+4
+00:00:42,793 --> 00:00:44,420
+Te aniquilaré.
+
+5
+00:00:49,175 --> 00:00:50,217
+¡Tírale un derechazo!
+
+6
+00:00:50,301 --> 00:00:52,428
+<i>¡No lo dejará salir de la esquina!</i>
+
+7
+00:00:52,470 --> 00:00:53,679
+{\an8}¡Rocky!
+
+8
+00:00:55,973 --> 00:00:58,476
+{\an8}<i>Rocky Balboa está en serios problemas.</i>
+
+9
+00:00:58,559 --> 00:00:59,935
+{\an8}¡Lo está matando!
+
+10
+00:01:03,105 --> 00:01:05,816
+{\an8}<i>Drago sigue castigando a Rocky Balboa.</i>
+
+11
+00:01:08,778 --> 00:01:10,070
+{\an8}<i>-¡No duele!</i>
+<i>-No duele.</i>
+
+12
+00:01:10,154 --> 00:01:11,655
+{\an8}-No duele.
+-¡No duele!
+
+13
+00:01:13,407 --> 00:01:15,326
+{\an8}<i>Acribillaron a Rocky.</i>
+
+14
+00:01:15,576 --> 00:01:17,036
+{\an8}<i>¡Rocky está herido!</i>
+
+15
+00:01:18,537 --> 00:01:23,042
+{\an8}<i>¡El derechazo de Drago</i>
+<i>lanza a Rocky al otro lado del ring!</i>
+
+16
+00:01:23,125 --> 00:01:24,960
+<i>¡El campeón está en la lona!</i>
+
+17
+00:01:25,503 --> 00:01:27,004
+¡Rock! ¡Ponte de pie!
+
+18
+00:01:30,508 --> 00:01:32,635
+<i>Hasta ahora sólo ha peleado uno.</i>
+
+19
+00:01:33,719 --> 00:01:37,431
+<i>Drago tira un derechazo</i>
+<i>que aturde a Rocky Balboa.</i>
+
+20
+00:01:39,850 --> 00:01:43,270
+<i>Tienen que detener la pelea</i>
+<i>antes de que haya una tragedia.</i>
+
+21
+00:01:48,359 --> 00:01:51,695
+<i>Rocky no para de recibir golpes.</i>
+<i>¡Está exhausto!</i>
+
+22
+00:02:04,166 --> 00:02:07,044
+<i>Otro derechazo derriba a Balboa.</i>
+
+23
+00:02:15,219 --> 00:02:18,013
+<i>Puñetazo tras puñetazo.</i>
+<i>¡Qué fuerza de voluntad!</i>
+
+24
+00:02:22,560 --> 00:02:26,313
+<i>Balboa sigue recibiendo</i>
+<i>los mejores golpes de Ivan Drago.</i>
+
+25
+00:02:26,397 --> 00:02:28,482
+{\an8}<i>Tiene un corte y está sangrando.</i>
+
+26
+00:02:28,566 --> 00:02:30,234
+{\an8}<i>¿Qué está pasando?</i>
+
+27
+00:02:30,276 --> 00:02:31,777
+{\an8}Veo tres Dragos.
+
+28
+00:02:32,278 --> 00:02:34,113
+{\an8}-Golpea al del medio.
+-¡Sí!
+
+29
+00:02:34,196 --> 00:02:35,698
+{\an8}Golpea al del medio.
+
+30
+00:02:36,949 --> 00:02:39,285
+{\an8}<i>-¡El ruso tiene un corte!</i>
+-¡Pégale!
+
+31
+00:02:44,707 --> 00:02:46,333
+-¡Acábalo! ¡Sí!
+-¡Vamos!
+
+32
+00:02:54,592 --> 00:02:57,761
+{\an8}<i>¡Están en el piso! ¡Parece lucha libre!</i>
+<i>¡Es una pelea callejera!</i>
+
+33
+00:02:57,845 --> 00:02:59,638
+{\an8}<i>¡Lucha libre en Moscú!</i>
+
+34
+00:02:59,722 --> 00:03:03,183
+{\an8}¡Con toda tu fuerza! ¡Con toda tu potencia!
+
+35
+00:03:03,267 --> 00:03:04,643
+¡Pon todo! ¡Tu vida está en juego!
+
+36
+00:03:05,603 --> 00:03:08,063
+<i>¡Un gran derechazo de Rocky Balboa!</i>
+
+37
+00:03:13,193 --> 00:03:16,196
+{\an8}<i>¡Rocky Balboa ha logrado lo imposible!</i>
+
+38
+00:03:17,281 --> 00:03:18,407
+{\an8}¡Sí!
+
+39
+00:03:20,993 --> 00:03:25,706
+{\an8}¡Rocky! ¡Rocky! ¡Rocky!
+¡Rocky! ¡Rocky! ¡Rocky!
+
+40
+00:03:39,887 --> 00:03:42,765
+¡Cielos, nunca vi nada igual!
+
+41
+00:03:42,806 --> 00:03:44,975
+¡Peleaste como el campeón que eres!
+
+42
+00:03:45,559 --> 00:03:50,314
+{\an8}Todos estamos orgullosos de ti.
+¡En especial, Apollo!
+
+43
+00:03:50,397 --> 00:03:51,523
+{\an8}Oye, Tony.
+
+44
+00:03:51,607 --> 00:03:53,984
+{\an8}¿Qué pasa, amigo? ¿Qué necesitas?
+
+45
+00:03:54,068 --> 00:03:55,819
+{\an8}Llama a Adrian.
+
+46
+00:04:08,457 --> 00:04:09,500
+¿Rocky?
+
+47
+00:04:09,833 --> 00:04:12,628
+¿Cómo están todos afuera?
+
+48
+00:04:12,670 --> 00:04:15,422
+Todos... todo está bien.
+
+49
+00:04:16,840 --> 00:04:18,217
+¿Qué pasa?
+
+50
+00:04:20,636 --> 00:04:21,804
+¿Qué pasa?
+
+51
+00:04:21,845 --> 00:04:27,184
+¿Recuerdas cuando Mick decía,
+en los tiempos que peleaba,
+
+52
+00:04:27,267 --> 00:04:31,689
+que la pelea había sido tan dura que sentía
+
+53
+00:04:32,147 --> 00:04:37,528
+que algo se le había roto adentro,
+y que iba a morirse?
+
+54
+00:04:37,611 --> 00:04:42,533
+Eso fue lo que dijo. Ahí fue
+cuando los ángeles lo llevaron arriba.
+
+55
+00:04:44,034 --> 00:04:47,371
+Rocky, me asustas. ¿Qué te sucede?
+
+56
+00:04:47,413 --> 00:04:50,874
+-Adrian, no puedo...
+-¿No puedes qué?
+
+57
+00:04:53,544 --> 00:04:56,046
+No puedo controlar
+el temblor de mis manos.
+
+58
+00:04:59,675 --> 00:05:02,720
+-Es la primera vez que me pasa.
+-Hay que ver al médico.
+
+59
+00:05:02,761 --> 00:05:04,304
+-No...
+-Enseguida. ¡Sí!
+
+60
+00:05:04,388 --> 00:05:06,432
+-No, sólo quiero ir a casa.
+-No.
+
+61
+00:05:06,515 --> 00:05:07,933
+-No.
+-¿Sin ver al médico?
+
+62
+00:05:08,017 --> 00:05:09,601
+Sí. Sólo es cansancio.
+
+63
+00:05:11,895 --> 00:05:13,856
+Lo único que quiero es ir a casa, Mick.
+
+64
+00:05:13,897 --> 00:05:16,025
+-Estoy cansado.
+-Bien.
+
+65
+00:05:16,066 --> 00:05:18,444
+Sólo quiero ir a casa, ¿sí?
+
+66
+00:05:18,527 --> 00:05:19,528
+Bien.
+
+67
+00:05:21,780 --> 00:05:22,823
+Bien.
+
+68
+00:05:41,759 --> 00:05:44,928
+-Adrian, ¿dónde está el niño?
+-No lo sé.
+
+69
+00:05:45,512 --> 00:05:49,725
+No veo al niño.
+¿Dónde está el niño? ¿No vino?
+
+70
+00:05:49,975 --> 00:05:51,769
+¡Papá! ¡Papá!
+
+71
+00:05:51,852 --> 00:05:55,939
+¡Ahí está! ¡Hola, campeón! ¿Cómo estás?
+
+72
+00:05:55,981 --> 00:05:57,775
+-¡Saluda a tu mamá!
+-¡Hola, mamá!
+
+73
+00:05:57,858 --> 00:06:01,111
+-Otra vez se olvida de mí.
+-Hola, tío Paulie. Papá, ¿cómo te sientes?
+
+74
+00:06:01,153 --> 00:06:03,113
+Aún tengo algunos moretones.
+¿Cómo vas en la escuela?
+
+75
+00:06:03,155 --> 00:06:05,157
+-Estoy en el cuadro de honor.
+-¡Te felicito!
+
+76
+00:06:05,240 --> 00:06:06,784
+-Soy de Seguridad del Aeropuerto.
+-Hola.
+
+77
+00:06:06,867 --> 00:06:09,411
+Bienvenidos. Acompáñeme.
+Hay una conferencia de prensa.
+
+78
+00:06:10,913 --> 00:06:13,957
+¡Rocky! ¿Qué le pareció el pueblo ruso?
+
+79
+00:06:14,041 --> 00:06:16,126
+<i>Muy bueno. La gente es fantástica.</i>
+
+80
+00:06:16,210 --> 00:06:19,046
+<i>No siempre les entendía,</i>
+
+81
+00:06:19,129 --> 00:06:21,298
+<i>pero entendía lo que querían decir.</i>
+
+82
+00:06:21,340 --> 00:06:23,550
+Sra. Balboa, ¿aprendió algo de ruso?
+
+83
+00:06:23,634 --> 00:06:26,595
+<i>-¿Si aprendí ruso?</i>
+<i>-Dice fluidamente "vodka".</i>
+
+84
+00:06:26,637 --> 00:06:28,806
+<i>-Oye, Paulie...</i>
+<i>-Paulie.</i>
+
+85
+00:06:28,847 --> 00:06:32,101
+¡Rocky! Dicen que hubo
+complicaciones físicas tras la pelea.
+
+86
+00:06:32,142 --> 00:06:35,395
+<i>-¿Complicaciones?</i>
+<i>-No, no, eso fue un rumor.</i>
+
+87
+00:06:35,479 --> 00:06:38,440
+<i>Está en perfecto estado físico.</i>
+
+88
+00:06:39,733 --> 00:06:41,193
+Rocky, una pregunta.
+
+89
+00:06:41,276 --> 00:06:44,071
+Hace poco, la Asociación Médica
+de los EUA recomendó
+
+90
+00:06:44,154 --> 00:06:45,489
+la prohibición del boxeo.
+
+91
+00:06:45,531 --> 00:06:47,783
+<i>-¿Sí?</i>
+-¿Coincide con los médicos?
+
+92
+00:06:47,825 --> 00:06:51,829
+<i>Por supuesto.</i>
+<i>Los médicos no deben boxear. No.</i>
+
+93
+00:06:51,912 --> 00:06:54,498
+<i>¡Bien dicho, campeón! ¡Eso es!</i>
+
+94
+00:06:54,540 --> 00:06:57,793
+<i>¡Los médicos no deben subir al ring!</i>
+<i>¡No deben pelear!</i>
+
+95
+00:06:57,835 --> 00:07:02,256
+<i>¡Que nunca pisen el ring! ¡Rocky Balboa,</i>
+<i>el campeón más gracioso de la historia!</i>
+
+96
+00:07:02,339 --> 00:07:05,467
+<i>¡El campeón americano Rocky Balboa!</i>
+<i>¿Cómo estás?</i>
+
+97
+00:07:05,509 --> 00:07:07,052
+<i>Soy George Washington Duke,</i>
+
+98
+00:07:07,136 --> 00:07:10,806
+<i>empresario "extraordinaire",</i>
+<i>y le doy la bienvenida a Rocky Balboa,</i>
+
+99
+00:07:10,848 --> 00:07:13,684
+{\an8}<i>campeón de los americanos y de los rusos.</i>
+
+100
+00:07:13,767 --> 00:07:16,562
+<i>Me gustaría dejar las preguntas a un lado</i>
+
+101
+00:07:16,645 --> 00:07:19,356
+<i>y, ante los medios,</i>
+<i>hacer una propuesta interesante.</i>
+
+102
+00:07:19,439 --> 00:07:22,276
+<i>Todos dentro del mundo deportivo</i>
+
+103
+00:07:22,359 --> 00:07:24,236
+<i>me conocen porque promuevo</i>
+
+104
+00:07:24,319 --> 00:07:26,613
+<i>-los mejores eventos...</i>
+<i>-Yo... Que...</i>
+
+105
+00:07:26,697 --> 00:07:28,198
+<i>...de este país.</i>
+
+106
+00:07:28,282 --> 00:07:30,617
+<i>Hoy, ante la prensa,</i>
+
+107
+00:07:30,701 --> 00:07:33,704
+<i>-me gustaría pedirle a Rocky Balboa...</i>
+<i>-¿Sí?</i>
+
+108
+00:07:33,745 --> 00:07:38,125
+<i>...que sea el deportista magnífico</i>
+<i>que todos sabemos que puede ser,</i>
+
+109
+00:07:38,208 --> 00:07:40,586
+<i>y le dé a este hombre, Union Cane,</i>
+
+110
+00:07:40,669 --> 00:07:44,298
+<i>la oportunidad de desafiarlo ¡por el título</i>
+<i>mundial de los pesos pesados!</i>
+
+111
+00:07:44,381 --> 00:07:47,426
+<i>Balboa, quiero disputarte</i>
+<i>el título que has conseguido.</i>
+
+112
+00:07:48,177 --> 00:07:50,721
+¿No es inoportuno
+presentar a un retador ahora, Duke?
+
+113
+00:07:50,762 --> 00:07:52,264
+Acaba de bajar del avión.
+
+114
+00:07:52,347 --> 00:07:55,601
+<i>Hay que saber escoger el momento.</i>
+
+115
+00:07:55,684 --> 00:07:59,229
+<i>En esta hoja tengo la garantía más grande</i>
+
+116
+00:07:59,271 --> 00:08:02,482
+<i>jamás ofrecida a un campeón,</i>
+<i>en este mundo.</i>
+
+117
+00:08:02,566 --> 00:08:06,320
+<i>Me refiero</i>
+<i>a un evento internacional increíble</i>
+
+118
+00:08:06,403 --> 00:08:10,240
+<i>a realizarse en Japón,</i>
+<i>llamado ¡"Paliza en Tokio"!</i>
+
+119
+00:08:11,450 --> 00:08:13,452
+<i>¿No es increíble que sólo en los EUA</i>
+
+120
+00:08:13,535 --> 00:08:15,412
+<i>gente como nosotros pueda salir</i>
+
+121
+00:08:15,454 --> 00:08:19,750
+<i>de la opresión, la pobreza, para unirse</i>
+<i>en un evento internacional como éste?</i>
+
+122
+00:08:19,791 --> 00:08:22,044
+<i>-¡Sólo en EUA!</i>
+-¡Disculpe!
+
+123
+00:08:23,253 --> 00:08:26,340
+<i>Disculpe. Mi esposo está retirándose.</i>
+
+124
+00:08:26,423 --> 00:08:29,009
+<i>No tiene nada más que probar.</i>
+
+125
+00:08:29,092 --> 00:08:30,427
+¡Aguarde!
+
+126
+00:08:30,469 --> 00:08:33,555
+Rocky, ¿no crees que tienes
+la responsabilidad pública
+
+127
+00:08:33,597 --> 00:08:35,891
+de dar una respuesta ahora?
+
+128
+00:08:36,266 --> 00:08:37,434
+<i>Respóndele al pueblo.</i>
+
+129
+00:08:37,476 --> 00:08:39,603
+¿No le parece más profesional
+
+130
+00:08:39,686 --> 00:08:41,647
+responder ahora mismo?
+
+131
+00:08:41,730 --> 00:08:43,232
+<i>¿Les importa si primero me recupero?</i>
+
+132
+00:08:43,273 --> 00:08:45,609
+<i>¡Yo te dejaré más lastimado!</i>
+
+133
+00:08:45,692 --> 00:08:47,110
+<i>¿Qué significa esto?</i>
+
+134
+00:08:47,152 --> 00:08:50,155
+No nos basta. ¡Queremos saberlo ahora!
+
+135
+00:08:50,239 --> 00:08:52,115
+<i>Tengo que pensarlo.</i>
+
+136
+00:08:52,199 --> 00:08:56,745
+<i>Bueno, quiero contarles</i>
+<i>que el vuelo de regreso fue muy bueno.</i>
+
+137
+00:08:57,579 --> 00:08:58,914
+Vamos, muchachos, ¡necesitamos más!
+
+138
+00:08:58,956 --> 00:09:02,626
+<i>Adrian, si no te tuviera,</i>
+<i>nunca me habría ido tan bien.</i>
+
+139
+00:09:02,668 --> 00:09:04,711
+<i>Eres todo para mí. Siempre a mi lado.</i>
+
+140
+00:09:04,795 --> 00:09:09,383
+<i>Y tú, hijo: tenerte es como volver a nacer.</i>
+
+141
+00:09:09,800 --> 00:09:12,302
+Vamos, ¿al final qué? ¿Se retira o no?
+
+142
+00:09:12,344 --> 00:09:15,597
+<i>Disculpen. Me gustaría ir a casa.</i>
+
+143
+00:09:15,639 --> 00:09:17,057
+¿Nos va a dar algo para publicar?
+
+144
+00:09:17,140 --> 00:09:19,434
+-Muchas gracias. Se los agradezco.
+-¿Qué dices?
+
+145
+00:09:19,476 --> 00:09:20,560
+¡No!
+
+146
+00:09:24,106 --> 00:09:28,068
+No te preocupes. Lo conseguirás.
+Lo conseguirás.
+
+147
+00:09:48,588 --> 00:09:50,674
+En realidad, no. Es genial.
+
+148
+00:09:52,175 --> 00:09:55,137
+¡Ay, mira! ¡Qué lugar!
+
+149
+00:09:56,054 --> 00:09:59,182
+Nunca más me iré de aquí.
+
+150
+00:09:59,266 --> 00:10:02,644
+¡Lo juro! ¿Quieres bailar?
+
+151
+00:10:02,686 --> 00:10:04,604
+¿Qué te parece un baile de bienvenida?
+
+152
+00:10:04,688 --> 00:10:08,150
+-No seas tonto. Hace frío.
+-Yo le daré calor, señorita.
+
+153
+00:10:08,191 --> 00:10:10,777
+De prisa. Se acaba la música.
+
+154
+00:10:13,155 --> 00:10:14,197
+<i>¿Te gusta esta canción?</i>
+
+155
+00:10:14,239 --> 00:10:15,532
+Debes descansar.
+
+156
+00:10:15,615 --> 00:10:17,200
+-Sí, lo sé.
+-Estoy cansada. Vamos.
+
+157
+00:10:17,242 --> 00:10:20,954
+Te llevaré arriba y te atacaré.
+
+158
+00:10:21,496 --> 00:10:24,374
+-No te saldrá gratis.
+-¡Oye, Adrian!
+
+159
+00:10:24,416 --> 00:10:26,543
+¿Dónde aprendiste esas respuestas?
+
+160
+00:10:29,504 --> 00:10:33,175
+Oye, tío Paulie,
+¿no le notas algo raro a papá?
+
+161
+00:10:33,717 --> 00:10:36,261
+Recibió algunos golpes muy duros.
+
+162
+00:10:36,345 --> 00:10:39,598
+Creo que cuentas mejores chistes que yo.
+
+163
+00:10:42,851 --> 00:10:45,896
+¿Escuché a alguien llamando a su papá?
+
+164
+00:10:45,979 --> 00:10:49,566
+¿Fuiste tú? Hora de dormir, ¿sí?
+
+165
+00:10:49,649 --> 00:10:53,278
+Papá, ¿sabías que los huesos crecen
+tres veces más rápido durante la noche?
+
+166
+00:10:53,362 --> 00:10:56,073
+No, no lo sabía pero creo
+que lo había oído por ahí.
+
+167
+00:10:56,114 --> 00:10:59,117
+-¿Éste soy yo? ¡Excelente!
+-Sí, eres tú.
+
+168
+00:10:59,201 --> 00:11:00,452
+-¿Así que soy yo?
+-Sí.
+
+169
+00:11:00,535 --> 00:11:02,371
+-Cuando fuimos de pesca, ¿no?
+-Sí.
+
+170
+00:11:02,412 --> 00:11:04,831
+¡Es hermoso! Qué linda tienda.
+
+171
+00:11:04,915 --> 00:11:08,502
+Si mal no recuerdo
+el pescado era mucho más grande.
+
+172
+00:11:08,585 --> 00:11:11,922
+En realidad, era mucho más pequeño.
+
+173
+00:11:11,963 --> 00:11:14,216
+Bueno, a la cama.
+
+174
+00:11:14,257 --> 00:11:16,301
+Es hora de reponer fuerzas y todo eso.
+
+175
+00:11:16,385 --> 00:11:19,471
+Qué lindo, ¿cómo lo haces?
+No sé dónde lo aprendiste.
+
+176
+00:11:19,554 --> 00:11:22,599
+Es increíble lo que puedes hacer
+con tus manos.
+
+177
+00:11:23,433 --> 00:11:24,810
+Ay, Dios mío.
+
+178
+00:11:26,186 --> 00:11:27,562
+Ay, Dios mío.
+
+179
+00:11:30,273 --> 00:11:31,566
+¿Quién es?
+
+180
+00:11:33,276 --> 00:11:36,613
+Es Madame Dupont,
+mi profesora de francés.
+
+181
+00:11:37,030 --> 00:11:38,281
+¿En serio?
+
+182
+00:11:41,410 --> 00:11:43,578
+Sí, parece francesa.
+
+183
+00:11:43,620 --> 00:11:45,956
+Yo no se lo mostraría a tu madre,
+
+184
+00:11:46,039 --> 00:11:48,583
+no entiende bien el francés.
+
+185
+00:11:48,625 --> 00:11:51,753
+Qué lindo te salió. Mejor escóndelo.
+
+186
+00:11:51,795 --> 00:11:53,630
+Bueno, campeón, a la cama.
+
+187
+00:11:54,464 --> 00:11:56,967
+¿Sabes? Yo sé algo de francés.
+
+188
+00:11:57,426 --> 00:11:59,636
+-Toc, toc.
+-¿Quién es?
+
+189
+00:11:59,719 --> 00:12:02,055
+-¡Madame!
+-¿Madame qué?
+
+190
+00:12:02,139 --> 00:12:03,890
+Ma, dame agua que estoy sediento.
+
+191
+00:12:03,974 --> 00:12:05,225
+Ese chiste es viejo.
+
+192
+00:12:05,308 --> 00:12:07,978
+¿Qué quieres? Hago lo que puedo.
+
+193
+00:12:08,019 --> 00:12:09,980
+No estoy al día.
+
+194
+00:12:10,063 --> 00:12:13,692
+-¿Qué tenemos aquí?
+-¿Qué?
+
+195
+00:12:14,568 --> 00:12:18,780
+Mira lo que hallé en tu oreja. Dinero.
+¡Orejas adineradas!
+
+196
+00:12:19,489 --> 00:12:22,659
+Bueno, tienes que dormir.
+
+197
+00:12:22,742 --> 00:12:24,119
+-¿Papá?
+-¿Sí?
+
+198
+00:12:24,494 --> 00:12:27,372
+Hoy, cuando dijiste que
+tenerme fue como volver a nacer...
+
+199
+00:12:27,456 --> 00:12:29,374
+-¿Sí?
+-¿A qué te referías?
+
+200
+00:12:30,125 --> 00:12:34,504
+Cuando tienes una infancia como la mía
+
+201
+00:12:36,006 --> 00:12:39,676
+comes pocas veces al día
+o a veces no comes nada.
+
+202
+00:12:39,718 --> 00:12:41,928
+La vida tiene cara y contracara.
+
+203
+00:12:42,012 --> 00:12:45,765
+Yo nací en la contracara,
+pero tú tienes todo.
+
+204
+00:12:45,849 --> 00:12:50,145
+Tú tienes todo lo que yo no tuve,
+
+205
+00:12:50,187 --> 00:12:53,356
+y me gusta ver el mundo
+a través de tus ojos.
+
+206
+00:12:53,440 --> 00:12:58,028
+Lo disfruto. Es como vivir todo de nuevo.
+
+207
+00:12:58,069 --> 00:12:59,362
+Qué lindo.
+
+208
+00:13:00,614 --> 00:13:04,242
+Oye, mira mi cara. ¿Parezco un mapache?
+
+209
+00:13:05,243 --> 00:13:06,244
+Un poco.
+
+210
+00:13:06,328 --> 00:13:08,371
+-¿Parezco Rocky Mapache?
+-Sí, un poco.
+
+211
+00:13:08,413 --> 00:13:10,457
+-¡No!
+-Sí, un poco.
+
+212
+00:13:10,540 --> 00:13:11,541
+¿En serio?
+
+213
+00:13:11,583 --> 00:13:15,504
+Si crees que me veo mal,
+deberías ver los nudillos del otro tipo.
+
+214
+00:13:17,297 --> 00:13:20,091
+Bien, amigo, que descanses.
+
+215
+00:13:20,175 --> 00:13:22,219
+-Buenas noches.
+-Adiós, muchacho.
+
+216
+00:13:23,678 --> 00:13:25,055
+-¿Papá?
+-¿Sí?
+
+217
+00:13:26,598 --> 00:13:28,225
+Me alegra que estés en casa.
+
+218
+00:13:28,308 --> 00:13:30,185
+Gracias. Me alegro.
+
+219
+00:13:30,852 --> 00:13:32,521
+Mañana jugamos, ¿sí?
+
+220
+00:13:33,271 --> 00:13:34,940
+Quizá me muestres a tu maestra de inglés.
+
+221
+00:13:35,023 --> 00:13:36,316
+También es muy atractiva.
+
+222
+00:13:36,399 --> 00:13:38,026
+-¡No!
+-Sí.
+
+223
+00:13:38,068 --> 00:13:39,528
+Buenas noches.
+
+224
+00:13:40,070 --> 00:13:42,155
+Con lo que has hecho te mereces lo peor.
+
+225
+00:13:42,239 --> 00:13:44,658
+Paulie, ¿el dinero era tuyo? Era de Rocky.
+
+226
+00:13:44,741 --> 00:13:46,535
+-¿Te vas a poner histérica?
+-Perdimos todo.
+
+227
+00:13:46,576 --> 00:13:48,537
+Lo único que me faltaba. Fue un error.
+
+228
+00:13:48,578 --> 00:13:51,331
+¿Crees que sabía que iba a pasar esto?
+
+229
+00:13:51,414 --> 00:13:53,083
+¡No me rehúyas!
+
+230
+00:13:53,166 --> 00:13:55,794
+¡Acabas de destruir nuestras vidas!
+
+231
+00:13:56,253 --> 00:13:58,588
+¿Y crees que es una tontería?
+
+232
+00:13:58,672 --> 00:14:01,341
+¡Paulie! ¡Paulie! ¿Entiendes lo que hiciste?
+
+233
+00:14:01,424 --> 00:14:02,926
+¿Te das cuenta de la gravedad?
+
+234
+00:14:02,968 --> 00:14:04,052
+¡Claro que sí!
+
+235
+00:14:04,094 --> 00:14:07,430
+-¿Lo entiendes? ¡Contéstame!
+-Lo entiendo perfectamente, ¿sí?
+
+236
+00:14:07,472 --> 00:14:10,892
+¡Claro que lo entiendo!
+Tu contador es el ladrón, ¡no yo!
+
+237
+00:14:10,934 --> 00:14:14,145
+¡Hice lo que creí correcto!
+¡Yo no tengo la culpa!
+
+238
+00:14:14,229 --> 00:14:16,606
+¡Yo también quiero matar a ese maldito!
+
+239
+00:14:16,690 --> 00:14:18,733
+Adrian, ¿qué pasa?
+
+240
+00:14:18,775 --> 00:14:21,528
+Mira lo que has hecho.
+Me culpa a mí de todo.
+
+241
+00:14:21,611 --> 00:14:23,405
+Paulie, no tergiverses.
+
+242
+00:14:23,446 --> 00:14:26,241
+-¿Qué hiciste, Paulie?
+-Le dio un poder...
+
+243
+00:14:26,283 --> 00:14:28,285
+-Un poder a nuestro contador.
+-¿Qué?
+
+244
+00:14:28,326 --> 00:14:32,163
+No le "di" nada a nadie.
+
+245
+00:14:32,247 --> 00:14:33,331
+¡Él envió la carta!
+
+246
+00:14:33,415 --> 00:14:35,834
+Decía que nos íbamos
+a Rusia por unos meses
+
+247
+00:14:35,917 --> 00:14:38,420
+y necesitaba que Rocky
+firmara una prórroga impositiva.
+
+248
+00:14:38,461 --> 00:14:42,215
+¡Una prórroga impositiva!
+¡Eso era un poder!
+
+249
+00:14:42,299 --> 00:14:44,801
+¡Él es el ladrón! Necesito un trago.
+
+250
+00:14:45,552 --> 00:14:48,680
+Rocky, por la luz que me alumbra,
+nunca robé un centavo.
+
+251
+00:14:49,306 --> 00:14:51,474
+Adrian, ¿qué está pasando?
+
+252
+00:14:52,058 --> 00:14:54,311
+-No nos queda nada.
+-¿Nada de qué?
+
+253
+00:14:54,352 --> 00:14:57,939
+Del dinero. Del dinero. Perdimos todo.
+
+254
+00:14:58,648 --> 00:15:00,275
+El papel que te hizo firmar Paulie
+
+255
+00:15:00,317 --> 00:15:03,111
+no era una prórroga impositiva.
+
+256
+00:15:03,153 --> 00:15:07,157
+Era un poder en blanco
+a favor del contador,
+
+257
+00:15:07,240 --> 00:15:10,285
+que estaba involucrado
+con bienes raíces sobretasados.
+
+258
+00:15:10,327 --> 00:15:12,412
+Creyó que podía recuperarlo rápido,
+sacar ganancia
+
+259
+00:15:12,495 --> 00:15:14,539
+y devolverte el dinero
+antes de que te enteraras.
+
+260
+00:15:14,623 --> 00:15:17,459
+Lamentablemente para ti y todos nosotros,
+
+261
+00:15:17,500 --> 00:15:20,253
+sus planes fallaron
+porque el mercado colapsó,
+
+262
+00:15:20,337 --> 00:15:21,880
+y tú perdiste millones.
+
+263
+00:15:21,963 --> 00:15:23,965
+¿Qué quieres decir?
+¿Que no puedo hacer nada?
+
+264
+00:15:24,007 --> 00:15:26,343
+Yo ya me he ocupado.
+Le he entablado ocho juicios,
+
+265
+00:15:26,426 --> 00:15:29,179
+pero debes casi toda
+esta propiedad, Rocky.
+
+266
+00:15:29,262 --> 00:15:31,431
+No ha pagado tus impuestos
+de los últimos seis años,
+
+267
+00:15:31,514 --> 00:15:33,725
+y la hipoteca no se paga
+desde hace meses.
+
+268
+00:15:33,808 --> 00:15:37,270
+No teníamos hipoteca.
+La casa estaba totalmente pagada.
+
+269
+00:15:37,354 --> 00:15:38,855
+No me lo digas a mí. Pregúntale a él.
+
+270
+00:15:38,897 --> 00:15:42,609
+Parece que no. Aún se deben casi $400.000.
+
+271
+00:15:42,692 --> 00:15:44,527
+Lo único sin deuda
+
+272
+00:15:44,569 --> 00:15:46,529
+es un gimnasio que le fue legado a tu hijo
+
+273
+00:15:46,613 --> 00:15:49,616
+por Mickey Goldmill en 1982.
+
+274
+00:15:49,699 --> 00:15:52,327
+Podrías hacer comerciales.
+¿Recuerdas aquéllos que hiciste?
+
+275
+00:15:52,369 --> 00:15:54,746
+Paulie, no sirvo para los comerciales.
+
+276
+00:15:54,829 --> 00:15:56,706
+Soy boxeador. De eso vivo.
+
+277
+00:15:56,748 --> 00:15:59,250
+No, tampoco sirve.
+No conseguiríamos auspiciantes.
+
+278
+00:15:59,334 --> 00:16:01,336
+Al investigar al contador,
+
+279
+00:16:01,378 --> 00:16:05,215
+hallarán los antecedentes penales
+de Rocky por agresión a usureros.
+
+280
+00:16:05,298 --> 00:16:07,592
+Eso fue hace mucho tiempo. Él no sabía...
+
+281
+00:16:07,676 --> 00:16:09,219
+¿Por qué no algunas peleas más?
+
+282
+00:16:09,260 --> 00:16:12,055
+Con tu popularidad actual,
+saldrías adelante enseguida.
+
+283
+00:16:12,097 --> 00:16:14,683
+-Se está retirando.
+-Rocko, el boxeo es la salida.
+
+284
+00:16:14,724 --> 00:16:18,561
+¡Dije que se va a retirar!
+Paulie, ¡estamos aquí por tu culpa!
+
+285
+00:16:19,187 --> 00:16:21,439
+Yo no cargaré con todo.
+
+286
+00:16:21,523 --> 00:16:25,235
+-¡Creí que hacía buen negocio!
+-¿Buen negocio?
+
+287
+00:16:25,318 --> 00:16:26,319
+-Oye, tú...
+-¿Yo?
+
+288
+00:16:26,403 --> 00:16:28,363
+-¿Yo, qué?
+-¡Lo elegiste tú!
+
+289
+00:16:28,405 --> 00:16:29,739
+-¿Yo?
+-Debiste notar que robaba,
+
+290
+00:16:29,781 --> 00:16:30,782
+pero nunca estás despierta.
+
+291
+00:16:30,865 --> 00:16:33,493
+¡Vives en una cajita de cristal!
+
+292
+00:16:33,576 --> 00:16:35,412
+-Paulie...
+-¡Nunca te sucede nada!
+
+293
+00:16:35,495 --> 00:16:38,581
+-Oye, no le hables así.
+-¡No me puedes botar como la basura!
+
+294
+00:16:38,623 --> 00:16:39,999
+-Paulie, ¡no!
+-¡Sí!
+
+295
+00:16:40,083 --> 00:16:44,254
+¡Llama a Duke! ¡Pelearé contra Cane!
+Donde sea. Cuando sea.
+
+296
+00:16:44,295 --> 00:16:45,463
+-No. Rocky.
+-Si eso quieres,
+
+297
+00:16:45,547 --> 00:16:47,882
+-ya me ocupo.
+-¡No!
+
+298
+00:16:47,924 --> 00:16:48,925
+Rocky, Rocky, ¡por favor!
+
+299
+00:16:49,008 --> 00:16:51,803
+No podemos hundirnos así.
+Con dos peleas salimos del problema.
+
+300
+00:16:51,886 --> 00:16:54,264
+-Sí, pero dijiste...
+-No, no dije nada.
+
+301
+00:16:54,305 --> 00:16:55,598
+¿Llegamos aquí para perderlo todo?
+
+302
+00:16:55,640 --> 00:16:57,267
+Sabes que debes ir al médico.
+
+303
+00:16:57,308 --> 00:16:59,811
+No necesito un médico.
+Necesito un empresario.
+
+304
+00:16:59,894 --> 00:17:01,020
+Sabes que debes ver al médico.
+
+305
+00:17:01,104 --> 00:17:02,939
+Si te dicen que todo está bien, te apoyaré.
+
+306
+00:17:02,981 --> 00:17:05,775
+Voy a pelear, ¿sí?
+Tengo problemas, voy a pelear.
+
+307
+00:17:06,568 --> 00:17:08,319
+¿Lo harás por mí?
+
+308
+00:17:10,613 --> 00:17:12,240
+Bueno, por ti.
+
+309
+00:17:13,199 --> 00:17:16,202
+Los continuos golpes
+que ha recibido en la cabeza
+
+310
+00:17:16,286 --> 00:17:18,455
+le han causado una lesión
+propia de los boxeadores
+
+311
+00:17:18,538 --> 00:17:20,874
+en el cavum septum pellucidum.
+
+312
+00:17:20,957 --> 00:17:24,377
+Es un hoyo en la membrana
+que separa los ventrículos.
+
+313
+00:17:24,461 --> 00:17:28,298
+Las neuronas de la corteza cerebral
+también están afectadas.
+
+314
+00:17:28,339 --> 00:17:30,842
+En pocas palabras,
+
+315
+00:17:30,925 --> 00:17:34,053
+tiene un daño cerebral.
+
+316
+00:17:34,137 --> 00:17:36,097
+¿Cuánto tardará en recuperarse?
+
+317
+00:17:36,139 --> 00:17:37,766
+Es irreversible.
+
+318
+00:17:39,017 --> 00:17:42,729
+Rocky, debes retirarte.
+
+319
+00:17:42,812 --> 00:17:44,147
+Adrian, no quiero retirarme.
+
+320
+00:17:44,230 --> 00:17:48,526
+No es momento para eso.
+Aquí no. No en un consultorio.
+
+321
+00:17:49,152 --> 00:17:52,906
+Acabo de disputar la mejor pelea
+de mi vida. Acabo de hacerlo.
+
+322
+00:17:54,365 --> 00:17:56,910
+Sólo necesito un par de peleas más.
+
+323
+00:17:56,993 --> 00:17:59,496
+¡No! Has sufrido una grave lesión cerebral.
+
+324
+00:17:59,537 --> 00:18:01,289
+¡Puede equivocarse!
+¡Cualquiera se equivoca!
+
+325
+00:18:01,331 --> 00:18:02,332
+No lo creo.
+
+326
+00:18:02,415 --> 00:18:04,584
+Él no es Dios. ¡Sólo Dios es infalible!
+
+327
+00:18:04,667 --> 00:18:08,755
+-Rocky, te conviene retirarte.
+-Sólo un par de peleas fáciles, ¿sí?
+
+328
+00:18:08,838 --> 00:18:11,216
+¡No obtendrás autorización
+en ningún estado!
+
+329
+00:18:11,299 --> 00:18:14,886
+-No se lo permitirán, ¿no, doctor?
+-Así es.
+
+330
+00:18:15,512 --> 00:18:17,972
+Rocky, ¿me amas?
+
+331
+00:18:20,183 --> 00:18:22,101
+Te amo. ¿Por qué lo preguntas?
+
+332
+00:18:22,185 --> 00:18:26,981
+Porque si amas a una persona,
+vives con ella. Vives para ella.
+
+333
+00:18:27,023 --> 00:18:29,067
+No arriesgas tu vida.
+
+334
+00:18:29,150 --> 00:18:32,111
+No me importa el dinero. Me importas tú.
+
+335
+00:18:33,238 --> 00:18:35,031
+Es lo único que importa.
+
+336
+00:18:36,658 --> 00:18:40,703
+Por favor, estaremos bien.
+
+337
+00:18:44,624 --> 00:18:46,000
+Todo saldrá bien.
+
+338
+00:18:51,297 --> 00:18:55,218
+-Nadie debe saber esto, ¿Sí, doctor?
+-Será estrictamente confidencial.
+
+339
+00:18:59,973 --> 00:19:01,307
+Gracias.
+
+340
+00:19:02,725 --> 00:19:06,396
+{\an8}ROCKY SE RETIRA
+
+341
+00:19:08,439 --> 00:19:10,984
+Rocky en Bancarrota
+Demanda a su Ex Contador
+
+342
+00:19:13,069 --> 00:19:15,530
+{\an8}Subasta de la Propiedad de Balboa
+
+343
+00:19:15,613 --> 00:19:20,243
+VENTA DE BIENES
+
+344
+00:19:20,910 --> 00:19:23,830
+{\an8}<i>¿Quién da más?</i>
+
+345
+00:19:23,913 --> 00:19:25,415
+<i>¿Alguna otra oferta?</i>
+
+346
+00:19:26,332 --> 00:19:27,458
+<i>Vendido.</i>
+
+347
+00:19:30,753 --> 00:19:33,923
+<i>Señoras y señores,</i>
+<i>pasamos ahora al artículo 46.</i>
+
+348
+00:19:33,965 --> 00:19:36,259
+Niño, la motocicleta se ha vendido.
+
+349
+00:19:37,093 --> 00:19:39,679
+Oye, se ha vendido. Baja de ella. Vamos.
+
+350
+00:19:43,766 --> 00:19:47,770
+<i>Tenemos una primera oferta.</i>
+<i>La oferta es de $25.000.</i>
+
+351
+00:19:49,314 --> 00:19:51,816
+Oye, no te preocupes.
+Ya hemos tocado fondo antes.
+
+352
+00:19:51,900 --> 00:19:55,445
+La recuperaremos.
+Sólo debemos estar unidos.
+
+353
+00:19:55,528 --> 00:19:56,863
+Somos un equipo.
+
+354
+00:19:56,946 --> 00:19:59,157
+-Sí, seguro.
+<i>-Vendido.</i>
+
+355
+00:19:59,782 --> 00:20:04,287
+Vamos. Mick decía que una pelea no acaba
+hasta que escuchas la campana.
+
+356
+00:20:04,329 --> 00:20:06,080
+Aún no la hemos escuchado, ¿no?
+
+357
+00:20:06,122 --> 00:20:10,084
+<i>Los guantes de su primera pelea</i>
+<i>como peso pesado.</i>
+
+358
+00:20:27,727 --> 00:20:29,062
+¿Rocky?
+
+359
+00:20:30,730 --> 00:20:32,106
+Todavía me va.
+
+360
+00:20:35,151 --> 00:20:37,654
+¿Por qué llevas esa ropa?
+
+361
+00:20:37,737 --> 00:20:40,782
+Estaba revisando
+algunas cosas aquí arriba,
+
+362
+00:20:40,823 --> 00:20:43,159
+las hallé y son muy cómodas.
+
+363
+00:20:43,201 --> 00:20:46,371
+Te estuve buscando por todos lados abajo.
+
+364
+00:20:46,454 --> 00:20:50,208
+-Es un poco deprimente.
+-Sé a lo que te refieres.
+
+365
+00:20:50,291 --> 00:20:53,419
+¿Qué hay aquí en tu oreja?
+
+366
+00:20:53,503 --> 00:20:56,214
+-¡Oh, Dios!
+-¿Los recuerdas?
+
+367
+00:20:56,923 --> 00:20:58,800
+Sí.
+
+368
+00:20:58,841 --> 00:21:00,593
+-Adelante.
+-Tú...
+
+369
+00:21:00,927 --> 00:21:02,971
+-Recuerdo cuando me los quitaste.
+-Así es.
+
+370
+00:21:03,012 --> 00:21:05,848
+Sí, la primera vez que te besé.
+
+371
+00:21:06,140 --> 00:21:07,350
+Bésame.
+
+372
+00:21:09,185 --> 00:21:12,939
+Adrian, quiero salir un rato.
+
+373
+00:21:13,022 --> 00:21:14,774
+A caminar.
+
+374
+00:21:14,857 --> 00:21:16,442
+Para sentirme mejor.
+
+375
+00:21:16,526 --> 00:21:19,404
+¿Puedes hablar con el niño?
+
+376
+00:21:19,821 --> 00:21:22,031
+-Todo esto le está costando mucho.
+-Claro.
+
+377
+00:21:22,115 --> 00:21:23,241
+¿Está bien?
+
+378
+00:21:23,992 --> 00:21:26,911
+-¿Para dónde vas?
+-Pensé en ir a Andy.
+
+379
+00:21:36,796 --> 00:21:38,381
+BAR de Andy
+
+380
+00:22:07,493 --> 00:22:09,787
+PODEROSO MICK
+BOXEO
+
+381
+00:22:11,873 --> 00:22:13,791
+¿Cómo estás, Mick?
+
+382
+00:23:24,529 --> 00:23:25,905
+Un golpe corto.
+
+383
+00:23:27,865 --> 00:23:31,160
+-Un golpe corto. Un golpe corto.
+<i>-Un golpe corto, ¿quieres?</i>
+
+384
+00:23:32,411 --> 00:23:33,788
+¡Un golpe corto!
+
+385
+00:23:36,415 --> 00:23:38,543
+Eso es. Así.
+
+386
+00:23:38,626 --> 00:23:41,170
+-¡Oye, no escuché la campana!
+-Bien.
+
+387
+00:23:42,505 --> 00:23:43,965
+Muy bien. Así se hace.
+
+388
+00:23:44,006 --> 00:23:47,593
+<i>Un golpe corto. ¡Así! ¡Visualízalo!</i>
+
+389
+00:23:47,677 --> 00:23:49,846
+Imagina al contrincante.
+
+390
+00:23:49,887 --> 00:23:53,015
+Imagínate haciéndolo bien, ¡y lo lograrás!
+
+391
+00:23:54,142 --> 00:23:56,102
+<i>¡Qué bien! ¡Muy bien!</i>
+
+392
+00:23:56,769 --> 00:23:58,479
+¡Tiempo!
+
+393
+00:23:58,521 --> 00:24:01,983
+Ven aquí, Rock. Dios mío, estás listo, ¿no?
+
+394
+00:24:02,024 --> 00:24:03,568
+Apollo no sabrá qué lo derribó.
+
+395
+00:24:03,651 --> 00:24:07,822
+Lo arrollarás como una aplanadora,
+una aplanadora italiana.
+
+396
+00:24:08,489 --> 00:24:12,368
+Sé cómo te sientes ante tu próxima pelea.
+
+397
+00:24:12,785 --> 00:24:15,121
+Porque yo también fui joven.
+
+398
+00:24:16,164 --> 00:24:17,707
+<i>Déjame contarte algo:</i>
+
+399
+00:24:18,916 --> 00:24:24,422
+Si no estuvieras aquí,
+probablemente yo no estaría vivo hoy.
+
+400
+00:24:24,964 --> 00:24:27,049
+El hecho de que estés aquí
+
+401
+00:24:27,133 --> 00:24:29,969
+haciendo las cosas tan bien me da,
+
+402
+00:24:30,052 --> 00:24:33,723
+¿cómo se dice? ¿Motivación?
+Para estar vivo.
+
+403
+00:24:34,348 --> 00:24:38,561
+<i>Creo que a veces las personas mueren</i>
+<i>cuando se cansan de estar vivas.</i>
+
+404
+00:24:39,061 --> 00:24:41,230
+"La naturaleza es más lista
+de lo que creemos."
+
+405
+00:24:41,314 --> 00:24:43,649
+La naturaleza es más lista
+de lo que creemos.
+
+406
+00:24:43,733 --> 00:24:46,903
+Poco a poco, perdemos a nuestros amigos,
+perdemos todo.
+
+407
+00:24:46,986 --> 00:24:50,072
+Continuamos perdiendo cosas
+hasta que nos preguntamos:
+
+408
+00:24:51,073 --> 00:24:55,328
+"¿Para qué diablos sigo vivo?
+No tengo motivos para vivir."
+
+409
+00:24:56,746 --> 00:25:01,209
+Pero contigo, muchacho,
+tengo una razón para vivir.
+
+410
+00:25:02,001 --> 00:25:06,005
+<i>Voy a seguir viviendo y te veré triunfar.</i>
+
+411
+00:25:06,422 --> 00:25:08,925
+-"Nunca te abandonaré."
+<i>-No te abandonaré</i>
+
+412
+00:25:08,966 --> 00:25:10,468
+hasta que lo logres.
+
+413
+00:25:10,927 --> 00:25:15,097
+Cuando te deje, no sólo sabrás pelear,
+
+414
+00:25:15,932 --> 00:25:19,227
+también sabrás cuidarte fuera del ring.
+
+415
+00:25:19,268 --> 00:25:20,353
+¿De acuerdo?
+
+416
+00:25:20,436 --> 00:25:21,562
+<i>De acuerdo.</i>
+
+417
+00:25:22,271 --> 00:25:23,981
+<i>Bien.</i>
+
+418
+00:25:24,065 --> 00:25:25,608
+<i>Tengo algo para ti.</i>
+
+419
+00:25:25,650 --> 00:25:27,526
+-Mick, tú...
+-Espera un minuto.
+
+420
+00:25:27,610 --> 00:25:29,820
+-Espera un minuto.
+-En serio, no necesito nada.
+
+421
+00:25:29,904 --> 00:25:32,448
+Mira esto. ¿Lo ves?
+
+422
+00:25:32,615 --> 00:25:35,243
+Es lo que más aprecio en el mundo.
+
+423
+00:25:36,535 --> 00:25:39,038
+Rocky Marciano me lo dio.
+
+424
+00:25:39,830 --> 00:25:41,916
+¿Sabes qué era? Su gemelo.
+
+425
+00:25:43,626 --> 00:25:45,753
+Y ahora te lo doy yo a ti.
+
+426
+00:25:47,004 --> 00:25:49,507
+<i>Será como...</i>
+
+427
+00:25:50,466 --> 00:25:53,135
+un ángel sobre tu hombro.
+
+428
+00:25:54,220 --> 00:25:58,975
+Si alguna vez te lastiman,
+
+429
+00:25:59,558 --> 00:26:02,687
+y sientes que flaqueas,
+este angelito te susurrará al oído.
+
+430
+00:26:02,770 --> 00:26:06,607
+Te dirá: "¡De pie, maldito!"
+
+431
+00:26:08,025 --> 00:26:09,610
+"Mickey te quiere".
+
+432
+00:26:10,319 --> 00:26:11,487
+<i>¿Está bien?</i>
+
+433
+00:26:13,072 --> 00:26:14,365
+-Gracias, Mick.
+-Está bien.
+
+434
+00:26:14,448 --> 00:26:16,534
+Yo también te quiero.
+
+435
+00:26:17,451 --> 00:26:19,078
+Ve por ellos, muchacho.
+
+436
+00:26:19,996 --> 00:26:21,622
+-Ve por ellos.
+-Gracias.
+
+437
+00:26:26,460 --> 00:26:28,004
+Tú eras ese ángel.
+
+438
+00:26:29,088 --> 00:26:30,339
+<i>Ahí lo tienes.</i>
+
+439
+00:26:30,798 --> 00:26:32,300
+¿Qué pasó con el otro gemelo?
+
+440
+00:26:32,341 --> 00:26:34,427
+No lo sé. Sólo me dio uno.
+
+441
+00:26:35,344 --> 00:26:37,179
+Se lo dio a algún vagabundo.
+
+442
+00:27:27,855 --> 00:27:29,315
+No te preocupes por esto.
+
+443
+00:27:29,398 --> 00:27:31,067
+Bien. Vamos, Paulie.
+
+444
+00:27:32,026 --> 00:27:33,944
+No lo creo.
+El niño lo toma demasiado bien.
+
+445
+00:27:34,028 --> 00:27:35,654
+-¿Necesitas ayuda?
+-No, yo lo llevo.
+
+446
+00:27:35,738 --> 00:27:38,282
+Rock, qué bueno que conservé
+este lugar, ¿no?
+
+447
+00:27:38,366 --> 00:27:39,825
+-¿Cómo estás?
+-Ahorraremos dinero.
+
+448
+00:27:39,909 --> 00:27:41,702
+-Sí.
+-Retrocedan.
+
+449
+00:27:41,744 --> 00:27:42,745
+¿Verdad?
+
+450
+00:27:43,245 --> 00:27:46,832
+Revestiremos de aluminio el frente.
+Quedará genial.
+
+451
+00:27:50,378 --> 00:27:51,462
+Gracias.
+
+452
+00:27:53,005 --> 00:27:55,925
+¡Bienvenido a casa, Rocky!
+¡Te extrañamos!
+
+453
+00:27:57,468 --> 00:27:59,762
+Es sólo... Es sólo temporal, ¿sabes?
+
+454
+00:28:00,513 --> 00:28:02,056
+Entremos.
+
+455
+00:28:04,433 --> 00:28:05,434
+Gracias.
+
+456
+00:28:13,109 --> 00:28:14,944
+-Hola.
+<i>-¿Sra. Balboa?</i>
+
+457
+00:28:14,985 --> 00:28:17,613
+<i>-Soy George Washington Duke.</i>
+-¿Sí?
+
+458
+00:28:17,947 --> 00:28:22,034
+¿Lo oye? Debe oír con atención.
+
+459
+00:28:23,244 --> 00:28:25,913
+-¿Oír qué?
+<i>-El sonido del éxito que pasa</i>
+
+460
+00:28:25,955 --> 00:28:28,124
+<i>y golpea a su puerta.</i>
+
+461
+00:28:28,165 --> 00:28:30,292
+¿Cuánto tiempo le tomará darse cuenta
+
+462
+00:28:30,334 --> 00:28:33,712
+de que les estoy ofreciendo
+rehacer sus vidas?
+
+463
+00:28:33,796 --> 00:28:36,132
+Permítame representar a su marido,
+y tendrán dinero.
+
+464
+00:28:36,215 --> 00:28:38,676
+Pueden volver a vivir como seres humanos.
+
+465
+00:28:39,427 --> 00:28:41,679
+Oiga, vivimos como seres humanos.
+
+466
+00:28:41,762 --> 00:28:43,889
+Usted debería probarlo alguna vez.
+
+467
+00:28:44,932 --> 00:28:46,725
+Deje a mi marido tranquilo.
+
+468
+00:28:50,438 --> 00:28:51,605
+Mujeres.
+
+469
+00:28:58,821 --> 00:29:00,531
+¿Cuándo empezaste a fumar?
+
+470
+00:29:01,157 --> 00:29:03,534
+No sé. Es un mal hábito que vuelve.
+
+471
+00:29:03,617 --> 00:29:05,035
+Escucha, no hablábamos de mí.
+
+472
+00:29:05,119 --> 00:29:08,289
+Estamos hablando de ti, ¿sí?
+
+473
+00:29:08,330 --> 00:29:10,458
+-Rocky, ¿cómo estás?
+-¿Cómo va todo?
+
+474
+00:29:10,499 --> 00:29:11,834
+Qué bueno volver a verte.
+
+475
+00:29:11,917 --> 00:29:13,210
+Gracias. Es bueno volver.
+
+476
+00:29:13,294 --> 00:29:14,879
+Eres muy inteligente en la escuela,
+
+477
+00:29:14,962 --> 00:29:17,173
+pero debes serlo en la calle también, ¿sí?
+
+478
+00:29:17,214 --> 00:29:18,424
+¿Qué quieres decir?
+
+479
+00:29:18,507 --> 00:29:20,217
+Tienes que saber quién es quién
+
+480
+00:29:20,301 --> 00:29:22,178
+y con quién estás hablando.
+
+481
+00:29:22,219 --> 00:29:24,597
+Cuídate de los timadores.
+Todos tratarán de timarte.
+
+482
+00:29:24,680 --> 00:29:26,599
+-¿Qué significa eso?
+-Pregúntale a tu padre.
+
+483
+00:29:26,682 --> 00:29:29,143
+Timar significa embaucar.
+
+484
+00:29:29,643 --> 00:29:30,644
+No lo entiende.
+
+485
+00:29:30,686 --> 00:29:32,146
+Es algo así como...
+
+486
+00:29:32,188 --> 00:29:33,355
+-¿Rocky?
+-¿Sí?
+
+487
+00:29:33,397 --> 00:29:35,107
+Rocky, ¿me recuerdas?
+Soy la madre de Bubba.
+
+488
+00:29:35,191 --> 00:29:36,192
+Ah, sí.
+
+489
+00:29:36,275 --> 00:29:37,943
+Usabas su cabeza de saco de arena.
+
+490
+00:29:38,027 --> 00:29:40,404
+-Sí, tenía una buena cabeza.
+-Bienvenido.
+
+491
+00:29:41,197 --> 00:29:43,866
+En fin, un timo se parece a una estafa.
+
+492
+00:29:43,908 --> 00:29:45,993
+-No lo entiende.
+-Un engaño.
+
+493
+00:29:46,035 --> 00:29:48,204
+-¿Qué?
+-Que me cuide de los engaños.
+
+494
+00:29:48,287 --> 00:29:51,916
+Así es. Claro. Eres muy inteligente.
+
+495
+00:29:52,541 --> 00:29:56,545
+Oye, ¿aquí no estaba
+la tienda de emparedados?
+
+496
+00:29:56,587 --> 00:29:58,422
+Soy nuevo aquí, papá.
+
+497
+00:29:58,714 --> 00:30:01,050
+Este vecindario se está yendo a pique.
+
+498
+00:30:01,091 --> 00:30:03,302
+-Lo llaman "decadencia urbana".
+-¿Sí?
+
+499
+00:30:04,220 --> 00:30:07,556
+Te digo algo. Este lugar está
+en decadencia por todos lados.
+
+500
+00:30:07,806 --> 00:30:09,767
+Con placas de aluminio y pintura,
+
+501
+00:30:09,850 --> 00:30:12,061
+este lugar podría quedar bien.
+¿Qué opinas?
+
+502
+00:30:12,102 --> 00:30:13,979
+No sé. Vas a llegar tarde a la escuela.
+
+503
+00:30:14,063 --> 00:30:17,024
+Paulie, quiero hablar con el niño a solas,
+
+504
+00:30:17,066 --> 00:30:19,401
+-de hombre a hombrecito.
+-¿No tengo sentimientos?
+
+505
+00:30:19,485 --> 00:30:21,737
+-Vamos, Paulie.
+-Así se desatan las guerras.
+
+506
+00:30:21,779 --> 00:30:23,280
+Relájate, ¿sí?
+
+507
+00:30:23,364 --> 00:30:25,282
+Cada uno tiene sus cosas.
+
+508
+00:30:25,366 --> 00:30:27,326
+-¡Es difícil lo tuyo, Rock!
+-Sí.
+
+509
+00:30:27,409 --> 00:30:29,161
+Todos hacen trampas.
+
+510
+00:30:29,245 --> 00:30:32,081
+Estos niños conocen la calle.
+
+511
+00:30:32,122 --> 00:30:34,750
+¿Sí? Es parte de sus vidas.
+Estos niños... Escúchame.
+
+512
+00:30:34,792 --> 00:30:37,753
+No son como aquéllos
+con los que has crecido.
+
+513
+00:30:37,836 --> 00:30:40,464
+Debes estar muy alerta aquí.
+
+514
+00:30:40,548 --> 00:30:42,132
+Ése es mi propósito.
+
+515
+00:30:42,216 --> 00:30:45,761
+"Propósito." A veces,
+me haces sentir muy tonto.
+
+516
+00:30:46,470 --> 00:30:48,013
+-¿Por qué?
+-¿Por qué?
+
+517
+00:30:48,097 --> 00:30:50,057
+Porque eres más inteligente que yo.
+
+518
+00:30:50,099 --> 00:30:51,725
+-No lo soy.
+-Sí.
+
+519
+00:30:51,767 --> 00:30:53,852
+Todos los días aprendes algo nuevo.
+
+520
+00:30:53,936 --> 00:30:55,854
+Yo, todos los días, me olvido algo nuevo.
+
+521
+00:30:55,938 --> 00:30:57,731
+Escúchame.
+
+522
+00:30:57,773 --> 00:31:00,442
+Estamos juntos en esto.
+
+523
+00:31:00,484 --> 00:31:02,861
+Si se te ocurre cómo salir de esto, dímelo.
+
+524
+00:31:02,945 --> 00:31:05,948
+Debemos estar unidos. ¿Qué somos?
+
+525
+00:31:05,990 --> 00:31:08,450
+-¿Qué?
+-¿Qué somos?
+
+526
+00:31:09,702 --> 00:31:12,788
+-Ah, un equipo.
+-¡Un equipo! Eso es.
+
+527
+00:31:12,871 --> 00:31:15,624
+Yo, de niño, vine a esta escuela.
+
+528
+00:31:15,708 --> 00:31:18,877
+La leche del almuerzo era buena.
+
+529
+00:31:18,961 --> 00:31:21,630
+Fue duro,
+pero creo que tú puedes arreglártelas.
+
+530
+00:31:21,672 --> 00:31:24,800
+¡No sabes de qué estás hablando!
+
+531
+00:31:24,842 --> 00:31:26,760
+Si tú pudiste, yo también.
+
+532
+00:31:27,845 --> 00:31:30,973
+-No tengo miedo. En serio.
+-¿En serio?
+
+533
+00:31:32,474 --> 00:31:36,353
+Bueno, un poco.
+Supongo que es normal, ¿no?
+
+534
+00:31:36,437 --> 00:31:40,232
+Por supuesto. He peleado 72 peleas,
+y antes de cada una sentí miedo.
+
+535
+00:31:40,316 --> 00:31:43,736
+Así que sí, es muy normal.
+
+536
+00:31:46,864 --> 00:31:48,949
+-Nos vemos luego.
+-Está bien.
+
+537
+00:31:48,991 --> 00:31:50,909
+Ésta es la puerta del frente.
+
+538
+00:31:51,910 --> 00:31:53,829
+Oye, espera. ¿Qué es esto?
+
+539
+00:31:53,912 --> 00:31:55,039
+¿Qué es...?
+
+540
+00:31:56,165 --> 00:31:58,751
+Dios mío, ¿de dónde salió?
+
+541
+00:31:58,834 --> 00:32:02,004
+Un lugar extraño
+para guardar el dinero del almuerzo.
+
+542
+00:32:02,046 --> 00:32:04,256
+Oye, es sólo un chiste.
+
+543
+00:32:04,340 --> 00:32:07,384
+-Gracias, papá.
+-Hasta luego.
+
+544
+00:32:08,177 --> 00:32:10,554
+Recuérdalo, papá te ama.
+Eres el número uno.
+
+545
+00:32:10,638 --> 00:32:14,266
+¡Un equipo! Pórtate bien, ¿sí?
+Todo saldrá bien.
+
+546
+00:32:15,267 --> 00:32:19,563
+Y no le quites la novia a nadie.
+Eso cae mal por aquí.
+
+547
+00:32:26,487 --> 00:32:28,614
+Paulie, estoy muy preocupado por él.
+
+548
+00:32:28,697 --> 00:32:32,326
+No conoce esta vida.
+No sabe nada de la calle.
+
+549
+00:32:32,368 --> 00:32:34,953
+Sé lo que va sufrir en la escuela.
+
+550
+00:32:35,037 --> 00:32:38,040
+Algún tonto se le va a acercar
+porque es mi hijo.
+
+551
+00:32:38,082 --> 00:32:40,125
+Intentará pegarle,
+
+552
+00:32:40,209 --> 00:32:43,170
+darle un golpe bajo. Ay, Dios...
+
+553
+00:32:43,212 --> 00:32:44,296
+-¿Sr. Balboa?
+-¿Sí?
+
+554
+00:32:44,380 --> 00:32:46,715
+-¿Cómo está? Me llamo Tommy Gunn.
+-Mucho gusto.
+
+555
+00:32:46,757 --> 00:32:48,592
+¿Gunn? ¿Pistola? Debes ser rudo.
+
+556
+00:32:48,676 --> 00:32:50,344
+-Sí, es cierto.
+-No es fácil.
+
+557
+00:32:50,386 --> 00:32:51,762
+Vengo de Oklahoma.
+
+558
+00:32:51,845 --> 00:32:54,181
+-Bienvenido.
+-Mi récord amateur es 45 a 1.
+
+559
+00:32:54,223 --> 00:32:56,225
+Me hice profesional a los 18.
+Disputé 8 peleas.
+
+560
+00:32:56,308 --> 00:32:58,102
+-¿Eres boxeador?
+-Sí.
+
+561
+00:32:58,185 --> 00:33:01,105
+Y ahora que tengo 20,
+quisiera mostrarle lo que hago.
+
+562
+00:33:01,188 --> 00:33:02,981
+-Bueno, yo...
+-Tengo $400 ahorrados.
+
+563
+00:33:03,065 --> 00:33:04,525
+-Sr. Balboa.
+-Pago mi entrenamiento.
+
+564
+00:33:04,566 --> 00:33:05,609
+Sí... ¿Qué?
+
+565
+00:33:05,693 --> 00:33:07,403
+Discúlpame, tenemos que hablar
+de negocios.
+
+566
+00:33:07,486 --> 00:33:08,696
+-¿Quién es éste?
+-Gracias.
+
+567
+00:33:08,737 --> 00:33:09,947
+Es un placer volver a verte.
+
+568
+00:33:10,030 --> 00:33:11,031
+¿Cómo estás?
+
+569
+00:33:11,073 --> 00:33:12,658
+De salud, bien. ¿Qué más puedo pedir?
+
+570
+00:33:12,741 --> 00:33:14,993
+-Dinero y cabello.
+-Escucha, debo ir a trabajar.
+
+571
+00:33:15,077 --> 00:33:17,246
+-¿Qué? ¿Dónde? ¿Aquí? ¿En este antro?
+-Sí.
+
+572
+00:33:17,329 --> 00:33:18,455
+No es bueno para tu imagen.
+
+573
+00:33:18,539 --> 00:33:19,957
+Cadencia urbana. ¿Qué le hacemos?
+
+574
+00:33:20,040 --> 00:33:21,542
+-Rocky, ven aquí.
+-¿Qué dijiste?
+
+575
+00:33:21,583 --> 00:33:23,627
+-¡Cadencia urbana!
+-Es decadencia urbana.
+
+576
+00:33:23,711 --> 00:33:26,255
+A George le gustaría
+que volvieras a usar los guantes.
+
+577
+00:33:26,338 --> 00:33:28,006
+Es mucho dinero.
+
+578
+00:33:28,090 --> 00:33:30,968
+-Estoy oficialmente retirado.
+-Tu nombre tiene valor comercial.
+
+579
+00:33:31,051 --> 00:33:32,845
+Atraes los billetes, la gente va a verte.
+
+580
+00:33:32,928 --> 00:33:34,555
+Un hombre inteligente
+
+581
+00:33:34,596 --> 00:33:36,890
+no se retira mientras pueda sacar tajada.
+
+582
+00:33:36,932 --> 00:33:39,101
+Sólo en los EUA,
+tenemos estas oportunidades.
+
+583
+00:33:39,143 --> 00:33:41,478
+Union Cane peleará por el título el 14.
+
+584
+00:33:41,562 --> 00:33:43,188
+Aquí tienes boletos de cortesía.
+
+585
+00:33:43,272 --> 00:33:45,607
+Le tenemos fe. Creemos que ganará.
+
+586
+00:33:45,691 --> 00:33:48,986
+-Es el momento de desafiarlo.
+-La gente adora los regresos,
+
+587
+00:33:49,069 --> 00:33:51,405
+no hay nada más lucrativo en el boxeo
+
+588
+00:33:51,447 --> 00:33:52,698
+que el regreso
+
+589
+00:33:52,781 --> 00:33:55,159
+de un pura sangre desvalido
+que quiere levantar cabeza.
+
+590
+00:33:55,242 --> 00:33:56,869
+Como dijo Mark Twain:
+
+591
+00:33:56,952 --> 00:33:59,455
+"La virtud se respeta menos que el dinero."
+
+592
+00:33:59,496 --> 00:34:00,956
+-¿Quién es Twain?
+-Era un pintor.
+
+593
+00:34:01,039 --> 00:34:03,667
+En resumen,
+eres la Gran Esperanza Blanca.
+
+594
+00:34:03,751 --> 00:34:05,919
+-Dirás La Estupidez Blanca. Olvídalo.
+-No, Rocky...
+
+595
+00:34:05,961 --> 00:34:08,964
+-Ya no me interesa...
+-Basta. ¡Basta de tonterías!
+
+596
+00:34:09,047 --> 00:34:11,049
+Sé de tu problema. ¿Crees que nací ayer?
+
+597
+00:34:11,133 --> 00:34:12,468
+Merlin, muéstrale el documento.
+
+598
+00:34:12,509 --> 00:34:14,219
+-¿Qué documento?
+-Tu historia clínica.
+
+599
+00:34:14,303 --> 00:34:16,346
+No es muy buena.
+Pero podemos solucionarlo.
+
+600
+00:34:16,430 --> 00:34:18,724
+-¿Dónde la consiguieron?
+-No importa.
+
+601
+00:34:18,807 --> 00:34:20,726
+Si peleas contra Cane, George te garantiza
+
+602
+00:34:20,809 --> 00:34:22,311
+que podrás pelear en cualquier lado.
+
+603
+00:34:22,352 --> 00:34:23,979
+-Garantizado.
+-¿En serio puedes?
+
+604
+00:34:24,062 --> 00:34:25,063
+Ningún problema.
+
+605
+00:34:25,147 --> 00:34:27,024
+Tu regreso vale oro.
+
+606
+00:34:27,107 --> 00:34:29,485
+Es el momento.
+
+607
+00:34:29,568 --> 00:34:31,361
+-Podríamos hacerlo una vez más.
+-Coincido.
+
+608
+00:34:31,445 --> 00:34:33,989
+-Adrian, ¿de dónde vienes?
+-¿Qué están haciendo?
+
+609
+00:34:34,031 --> 00:34:36,200
+La Sra. Balboa aparece siempre
+por arte de magia.
+
+610
+00:34:36,283 --> 00:34:37,743
+No le veo la gracia.
+
+611
+00:34:37,826 --> 00:34:39,703
+¿Intenta convencerlo
+para que vuelva a pelear?
+
+612
+00:34:39,787 --> 00:34:43,332
+Hablábamos de negocios.
+¿Les gusta ser pobre?
+
+613
+00:34:43,415 --> 00:34:46,043
+¿Te gusta meter la mano
+en el bolsillo y encontrarlo vacío?
+
+614
+00:34:46,126 --> 00:34:48,128
+¿Les gusta? No.
+
+615
+00:34:48,170 --> 00:34:51,673
+Les ofrezco la última tabla de salvación
+para salir a flote.
+
+616
+00:34:51,757 --> 00:34:53,008
+¿Con quién cree que habla?
+
+617
+00:34:53,050 --> 00:34:54,343
+Adrian, ¿estás trabajando ahí?
+
+618
+00:34:54,426 --> 00:34:57,554
+¿De qué diablos están hablando?
+
+619
+00:34:57,638 --> 00:35:00,682
+-Es una oportunidad increíble.
+-¿Una oportunidad para quién?
+
+620
+00:35:00,766 --> 00:35:03,352
+¿Para que usted haga dinero?
+¿Para que él quede inválido?
+
+621
+00:35:03,393 --> 00:35:05,813
+¿Qué haría usted si fuera al revés?
+
+622
+00:35:06,230 --> 00:35:08,023
+Piénselo.
+
+623
+00:35:08,690 --> 00:35:11,026
+Rocky, no piensan en ti.
+
+624
+00:35:11,944 --> 00:35:14,112
+¿Quieren hablar en serio?
+Hablemos en serio.
+
+625
+00:35:14,196 --> 00:35:16,824
+Tú representas
+los sueños de la gente común.
+
+626
+00:35:16,865 --> 00:35:20,452
+Se identifican contigo. La identificación es
+la clave del éxito público.
+
+627
+00:35:20,536 --> 00:35:23,497
+Eres un verdadero campeón,
+un producto popular.
+
+628
+00:35:23,539 --> 00:35:25,374
+¡Vende mientras haya compradores!
+
+629
+00:35:25,415 --> 00:35:27,584
+Aprovéchalos. ¡Si eres boxeador, pelea!
+
+630
+00:35:27,668 --> 00:35:29,586
+¿Dices ser un campeón? Entonces, acepta.
+
+631
+00:35:29,670 --> 00:35:32,339
+¡Nadarás en la abundancia!
+
+632
+00:35:32,381 --> 00:35:34,049
+¿Sabe nadar, señora?
+
+633
+00:35:34,091 --> 00:35:35,717
+¿Qué dices? ¡Vamos, atrévete!
+
+634
+00:35:35,759 --> 00:35:37,511
+Es hora de sumar valor y sudor.
+
+635
+00:35:37,553 --> 00:35:40,472
+¡Se retiró! ¡Él no peleará más!
+
+636
+00:35:47,646 --> 00:35:49,898
+Eres un maldito tonto.
+
+637
+00:35:51,358 --> 00:35:53,068
+Contratemos a la señora.
+
+638
+00:35:54,403 --> 00:35:57,447
+Parece que ella es
+la que tiene cojones en la familia.
+
+639
+00:36:00,075 --> 00:36:03,245
+Oiga, no hable así frente a mi esposa.
+
+640
+00:36:03,287 --> 00:36:05,205
+Eso no es un banco, muchacho.
+
+641
+00:36:09,293 --> 00:36:10,627
+Lo convenceré.
+
+642
+00:36:10,711 --> 00:36:13,088
+Rocky, lo lamento. No quería...
+
+643
+00:36:13,171 --> 00:36:16,300
+¿Quieren hablar a solas? Estaré arriba.
+
+644
+00:36:20,304 --> 00:36:21,388
+Rocky...
+
+645
+00:36:22,764 --> 00:36:24,933
+Rocky, lo siento. Yo...
+
+646
+00:36:25,017 --> 00:36:28,478
+Basta un mal golpe para dejarte inválido.
+
+647
+00:36:28,562 --> 00:36:31,732
+¡Ya me siento un inválido!
+¿Por qué volviste a ese lugar?
+
+648
+00:36:31,773 --> 00:36:35,193
+-¡No es para ti!
+-No tenía nada que hacer.
+
+649
+00:36:35,277 --> 00:36:37,070
+Gloria... Llamé a Gloria.
+
+650
+00:36:37,112 --> 00:36:39,740
+Dijo que necesitaba ayuda.
+
+651
+00:36:39,781 --> 00:36:41,283
+¿Por qué haces esto, Adrian?
+
+652
+00:36:41,366 --> 00:36:43,493
+¿Por qué quieres volver
+al lugar donde empezaste?
+
+653
+00:36:43,577 --> 00:36:45,621
+Es mi obligación. ¡No la tuya!
+
+654
+00:36:45,662 --> 00:36:49,124
+Quise hacerlo para estar cerca de ti.
+
+655
+00:36:58,508 --> 00:37:00,052
+Sí, claro.
+
+656
+00:37:00,135 --> 00:37:02,304
+Está haciendo frío.
+
+657
+00:37:02,387 --> 00:37:05,223
+Mejor entremos, ¿sí?
+
+658
+00:37:05,307 --> 00:37:07,142
+-¿Estás bien?
+-¿Qué?
+
+659
+00:37:07,184 --> 00:37:09,895
+-¿Estás bien?
+-Sí, estoy bien.
+
+660
+00:37:09,978 --> 00:37:11,980
+Adrian, está haciendo frío, ¿sí?
+
+661
+00:37:17,986 --> 00:37:21,782
+Oye, ¡Adrian!
+¿Alguna vez nos fuimos de aquí?
+
+662
+00:37:24,576 --> 00:37:26,328
+¡No lo sé!
+
+663
+00:37:31,833 --> 00:37:33,835
+Disculpe. ¿Puedo hablarle ahora?
+
+664
+00:37:34,795 --> 00:37:37,089
+La cabeza me estalla.
+
+665
+00:37:49,059 --> 00:37:50,310
+No sé si lo convencerás.
+
+666
+00:37:50,352 --> 00:37:52,062
+Le falla la cabeza.
+
+667
+00:37:52,145 --> 00:37:54,106
+A todos ellos les falla. Algo se me ocurrirá.
+
+668
+00:37:54,189 --> 00:37:55,941
+-¡Pelearé contra Balboa!
+-Oye...
+
+669
+00:37:56,024 --> 00:37:57,484
+¡Soy mejor que Balboa!
+
+670
+00:37:57,526 --> 00:37:58,860
+¡Oye! ¡Oye!
+
+671
+00:38:00,362 --> 00:38:03,365
+Yo te represento, muchacho.
+Pelearás contra quien yo diga,
+
+672
+00:38:03,407 --> 00:38:06,368
+dónde y cómo yo diga. ¿Entendiste?
+
+673
+00:38:07,828 --> 00:38:10,372
+No muerdas la mano del que te alimenta.
+
+674
+00:38:10,539 --> 00:38:11,540
+¿Sí?
+
+675
+00:38:14,167 --> 00:38:16,211
+Todos son iguales.
+
+676
+00:38:20,882 --> 00:38:22,426
+Sólo necesito un anzuelo.
+
+677
+00:38:34,229 --> 00:38:36,356
+Oye, ¿eres el hijo de Rocky?
+
+678
+00:38:37,065 --> 00:38:39,401
+-Sí, eres hijo de Rocky.
+-Eres el hijo de Rocky, ¿no?
+
+679
+00:38:39,443 --> 00:38:42,070
+-Sí. ¿Cómo les va?
+-Vi tu foto en el diario.
+
+680
+00:38:42,154 --> 00:38:43,363
+¿Sabes algo?
+
+681
+00:38:43,405 --> 00:38:45,240
+-Tu viejo es un patán.
+-¿Qué?
+
+682
+00:38:47,200 --> 00:38:48,243
+¡Suéltame!
+
+683
+00:38:48,326 --> 00:38:50,245
+¿Qué haces con mi abrigo?
+
+684
+00:38:50,287 --> 00:38:52,998
+-¡Déjenlo en paz!
+-¿Quieres que también te golpee?
+
+685
+00:38:53,081 --> 00:38:55,375
+¡Dame mi abrigo! ¡Hablo en serio!
+
+686
+00:38:55,417 --> 00:38:57,085
+-Mejor dáselo.
+-¡Ni loco!
+
+687
+00:39:03,717 --> 00:39:05,427
+¡No te enfermes!
+
+688
+00:39:06,053 --> 00:39:08,430
+¡No te resfríes, niño rico!
+
+689
+00:39:11,850 --> 00:39:15,353
+No bajes los brazos.
+Entra por ahí, Rich. Eso es. Vamos.
+
+690
+00:39:15,437 --> 00:39:16,605
+{\an8}¿Te interesa esta tasa?
+
+691
+00:39:16,688 --> 00:39:18,940
+{\an8}Rocky la usa en su casa. Diez dólares.
+
+692
+00:39:19,024 --> 00:39:20,817
+{\an8}¿Cómo sé que es auténtica?
+
+693
+00:39:20,901 --> 00:39:22,527
+{\an8}Mira la marca de los labios.
+
+694
+00:39:22,611 --> 00:39:24,488
+{\an8}Bien, cinco dólares. Ni un dólar más.
+
+695
+00:39:24,571 --> 00:39:25,989
+{\an8}-Trato hecho.
+-Bien.
+
+696
+00:39:26,948 --> 00:39:29,034
+-Disculpe.
+-¡Tommy Gunn!
+
+697
+00:39:29,117 --> 00:39:30,410
+¿Dónde me cambio?
+
+698
+00:39:30,452 --> 00:39:31,953
+Allí. Deme el dinero.
+
+699
+00:39:32,037 --> 00:39:35,123
+¡Tiempo! Richard, escúchame:
+
+700
+00:39:35,165 --> 00:39:37,751
+Si quieres sobrevivir,
+debes tirar golpes cortos.
+
+701
+00:39:37,793 --> 00:39:40,670
+No bajes los brazos
+así pegas y no te pegan.
+
+702
+00:39:40,754 --> 00:39:41,963
+Bien, sal.
+
+703
+00:39:42,047 --> 00:39:43,131
+-¿Rocko?
+-¿Sí?
+
+704
+00:39:43,215 --> 00:39:45,050
+-¿Recuerdas a Tommy Gunn?
+-Sí, claro.
+
+705
+00:39:45,133 --> 00:39:47,677
+Quiere pelear. Le dije que se case.
+
+706
+00:39:47,761 --> 00:39:48,845
+¿Por qué?
+
+707
+00:39:49,471 --> 00:39:52,933
+-Es un chiste, Rocko.
+-Ah, sí.
+
+708
+00:39:53,350 --> 00:39:55,644
+Oye, veamos qué sabes hacer.
+
+709
+00:39:56,436 --> 00:39:57,813
+¿Casarse?
+
+710
+00:39:58,438 --> 00:40:00,774
+¡Benson! ¿quieres acción?
+
+711
+00:40:00,816 --> 00:40:03,193
+-Sí.
+-Oye, Paulie,
+
+712
+00:40:03,276 --> 00:40:04,903
+¿qué significa cojones?
+
+713
+00:40:05,529 --> 00:40:10,617
+¿Cojones? Significa huevos españoles
+en latín.
+
+714
+00:40:10,659 --> 00:40:11,785
+Rock.
+
+715
+00:40:11,827 --> 00:40:13,662
+-Estamos listos.
+-Genial.
+
+716
+00:40:15,163 --> 00:40:17,999
+Oye, ¿tienes protector para la cabeza?
+
+717
+00:40:18,041 --> 00:40:20,085
+No, no lo necesito.
+
+718
+00:40:21,628 --> 00:40:23,922
+Le van a doler hasta los cojones.
+
+719
+00:40:24,464 --> 00:40:28,677
+Listo, muchachos. Benson, de a poco, ¿sí?
+
+720
+00:40:28,718 --> 00:40:30,637
+-Claro, Rock.
+-Tiempo.
+
+721
+00:40:32,180 --> 00:40:34,015
+Bien, de a poco.
+
+722
+00:40:34,099 --> 00:40:35,767
+Un golpe corto.
+
+723
+00:40:37,602 --> 00:40:39,813
+-De a poco.
+-Oye, muchacho. ¿Cómo se llamaba?
+
+724
+00:40:39,855 --> 00:40:41,439
+-Tommy Gunn.
+-Tommy Gunn.
+
+725
+00:40:41,523 --> 00:40:44,568
+Tommy, nada dice
+que no te puedas agachar.
+
+726
+00:40:44,651 --> 00:40:47,154
+-Así es.
+-De un lado al otro. Así.
+
+727
+00:40:48,071 --> 00:40:50,115
+¡Genial! ¡Suficiente!
+
+728
+00:40:50,532 --> 00:40:52,325
+¿Qué haces, Tommy?
+¡Vamos, amigo, relájate!
+
+729
+00:40:52,367 --> 00:40:56,204
+Vamos, aflojen. Es sólo una práctica.
+
+730
+00:40:57,581 --> 00:40:59,166
+¡Oye! ¡Oye!
+
+731
+00:40:59,207 --> 00:41:01,334
+Bien, muchacho. ¡Afloja!
+
+732
+00:41:01,376 --> 00:41:02,669
+-Listo.
+-¿Hueles eso, Rocko?
+
+733
+00:41:02,711 --> 00:41:04,588
+-¿Qué?
+-El olor del éxito.
+
+734
+00:41:04,671 --> 00:41:06,089
+¡Oye, ya basta!
+
+735
+00:41:06,173 --> 00:41:07,966
+¿Qué te dije? ¡Oye! ¡Tiempo!
+
+736
+00:41:08,049 --> 00:41:09,885
+Ya está. ¡Basta! ¡Tiempo!
+
+737
+00:41:09,968 --> 00:41:11,386
+-Cálmate, viejo.
+-¡Dije tiempo!
+
+738
+00:41:11,469 --> 00:41:13,430
+-¡Tiempo!
+-¡Atrás! ¡Ya basta!
+
+739
+00:41:13,513 --> 00:41:16,016
+¿Qué te sucede?
+
+740
+00:41:16,057 --> 00:41:17,559
+¿Estás loco?
+
+741
+00:41:17,642 --> 00:41:19,060
+¿Qué te sucede?
+
+742
+00:41:19,144 --> 00:41:20,562
+-Sal del ring.
+-Lo siento.
+
+743
+00:41:20,645 --> 00:41:21,688
+-Sal del ring.
+-Tranquilízate.
+
+744
+00:41:21,730 --> 00:41:25,066
+-Lo siento.
+-Éste apesta a éxito.
+
+745
+00:41:25,400 --> 00:41:26,651
+Escúchame.
+
+746
+00:41:26,735 --> 00:41:29,029
+Ir tranquilamente
+no significa romperle los huesos.
+
+747
+00:41:29,070 --> 00:41:30,655
+Lo siento. ¿Qué opinas?
+
+748
+00:41:30,739 --> 00:41:33,366
+¿Qué opino? Opino que eres sordo.
+
+749
+00:41:33,408 --> 00:41:36,161
+Peleas como si estuvieras en la calle.
+
+750
+00:41:36,244 --> 00:41:37,454
+Y yo sé de eso.
+
+751
+00:41:37,537 --> 00:41:40,415
+Pero esto es boxeo. No es un atraco.
+
+752
+00:41:40,498 --> 00:41:42,167
+Perdón. Sé que sirvo.
+
+753
+00:41:42,250 --> 00:41:44,419
+¿Sí? Pues hoy no lo demostraste.
+
+754
+00:41:45,462 --> 00:41:46,588
+¿Es todo?
+
+755
+00:41:46,630 --> 00:41:48,590
+Tengo que trabajar con ellos.
+
+756
+00:41:48,632 --> 00:41:50,008
+Prepárense, muchachos.
+
+757
+00:41:50,091 --> 00:41:52,594
+-¿Me entrenarías?
+-¿Entrenarte?
+
+758
+00:41:52,636 --> 00:41:56,264
+Sí. A menos que creas
+que no tengo condiciones.
+
+759
+00:41:56,348 --> 00:41:57,974
+Condiciones...
+
+760
+00:41:58,058 --> 00:42:00,644
+Sí, tienes condiciones.
+Tienes muchas herramientas,
+
+761
+00:42:00,727 --> 00:42:03,355
+pero no soy entrenador.
+Nunca he entrenado a nadie...
+
+762
+00:42:03,438 --> 00:42:06,524
+El dueño de este lugar,
+ése sí era entrenador.
+
+763
+00:42:06,608 --> 00:42:10,612
+Yo, siempre fui el entrenado.
+
+764
+00:42:11,279 --> 00:42:13,615
+Oye, buena suerte, ¿sí?
+
+765
+00:42:16,368 --> 00:42:18,119
+Bueno, muchachos, sigamos.
+
+766
+00:42:18,870 --> 00:42:20,080
+Vamos, giren.
+
+767
+00:42:22,123 --> 00:42:23,875
+Eso es. Muy bien.
+
+768
+00:42:36,846 --> 00:42:40,141
+Bien, muchachos. Vamos.
+Sin golpes bajos. Giren.
+
+769
+00:42:47,732 --> 00:42:49,234
+¿Cómo estás?
+
+770
+00:42:50,110 --> 00:42:52,654
+¿Con frío? Parece que tienes frío.
+
+771
+00:42:53,655 --> 00:42:56,241
+Ha de ser el clima.
+
+772
+00:42:57,993 --> 00:42:59,703
+Toma mi abrigo.
+
+773
+00:43:00,370 --> 00:43:03,790
+No, gracias. ¿Y tu novio?
+
+774
+00:43:04,332 --> 00:43:07,335
+Olvídalo. No tiene modales.
+
+775
+00:43:09,087 --> 00:43:11,631
+Me llamo Jewel, por si te interesa saberlo.
+
+776
+00:43:13,174 --> 00:43:16,177
+-Yo soy Robert.
+-Hola.
+
+777
+00:43:17,887 --> 00:43:20,515
+Hace seis años que vivo aquí.
+
+778
+00:43:21,516 --> 00:43:23,727
+Esto no es Disneylandia.
+
+779
+00:43:23,810 --> 00:43:26,187
+-¿Has ido a Disneylandia?
+-Por supuesto.
+
+780
+00:43:26,688 --> 00:43:29,232
+Lo dices como si todos hubieran ido.
+
+781
+00:43:29,607 --> 00:43:34,070
+Sé que no puedes juzgarlo por mi aspecto,
+pero no soy como los demás niños de aquí.
+
+782
+00:43:35,071 --> 00:43:37,866
+¿Por qué? ¿Qué te hace tan diferente?
+
+783
+00:43:37,949 --> 00:43:40,118
+No sé. Supongo que es
+el deseo de salir de aquí.
+
+784
+00:43:40,201 --> 00:43:41,995
+Sabes a qué me refiero.
+
+785
+00:43:43,788 --> 00:43:48,585
+Sabes, para ser un niño italiano
+tienes un lindo trasero.
+
+786
+00:43:50,170 --> 00:43:51,713
+¡Cállate! ¡Vamos!
+
+787
+00:43:57,635 --> 00:44:01,348
+-En cuanto junte dinero, me voy a Miami.
+-¿Por qué a Miami?
+
+788
+00:44:01,389 --> 00:44:05,477
+-Allí necesitan nuevos gigolós.
+-Sí, leí algo sobre eso.
+
+789
+00:44:08,730 --> 00:44:12,275
+¡Ay! Mi espalda está cada vez peor.
+¿Por qué tú no tienes artritis?
+
+790
+00:44:12,359 --> 00:44:13,526
+¿No te parece suficiente?
+
+791
+00:44:13,568 --> 00:44:15,236
+Fíjate por dónde vas.
+
+792
+00:44:15,320 --> 00:44:17,405
+Adrian merece mucho más que esto.
+
+793
+00:44:18,365 --> 00:44:20,700
+Este lugar es deprimente, Paulie.
+
+794
+00:44:20,742 --> 00:44:21,743
+Rock, pasa.
+
+795
+00:44:21,826 --> 00:44:23,912
+Todos preguntan por ti.
+Por ti también, Paulie.
+
+796
+00:44:23,953 --> 00:44:27,248
+-No, gracias. Estoy un poco cansado.
+-Yo tengo sed.
+
+797
+00:44:27,332 --> 00:44:28,500
+Si tú quieres ve, Paulie.
+
+798
+00:44:28,583 --> 00:44:31,294
+-¿Sr. Balboa?
+-Vaya, Tommy Gunn.
+
+799
+00:44:31,378 --> 00:44:35,048
+¿Qué haces por aquí todavía?
+¿Puedo ayudarte en algo?
+
+800
+00:44:35,090 --> 00:44:37,425
+Sí, me gustaría volver a intentarlo.
+
+801
+00:44:38,051 --> 00:44:39,928
+Me gustaría ayudarte,
+
+802
+00:44:40,011 --> 00:44:42,097
+pero no sé nada de entrenamiento.
+
+803
+00:44:42,180 --> 00:44:43,723
+Sólo quiero una oportunidad.
+
+804
+00:44:43,765 --> 00:44:45,350
+Si hago algo mal o no le gusta,
+
+805
+00:44:45,433 --> 00:44:47,143
+no tendrá que echarme, me iré solo.
+
+806
+00:44:47,227 --> 00:44:48,353
+¿Qué puede perder?
+
+807
+00:44:48,436 --> 00:44:50,271
+¿Yo? Nada. Ya no tengo nada.
+
+808
+00:44:50,313 --> 00:44:52,816
+-¿Qué perderías tú?
+-¡No tengo nada que perder!
+
+809
+00:44:52,899 --> 00:44:54,025
+Quizá sí.
+
+810
+00:44:54,109 --> 00:44:57,445
+¿Qué pasa si lo hago mal y fracasas?
+
+811
+00:44:57,487 --> 00:45:00,657
+No quiero cargar con esa culpa.
+
+812
+00:45:00,740 --> 00:45:03,451
+Esto es lo que haría en tu lugar.
+No, escúchame.
+
+813
+00:45:03,535 --> 00:45:05,537
+Esto es lo que haría en tu lugar:
+
+814
+00:45:05,620 --> 00:45:08,289
+Iría a casa y hablaría con mi familia.
+
+815
+00:45:08,373 --> 00:45:10,250
+Quizá se me ocurriría algo mejor.
+
+816
+00:45:10,291 --> 00:45:13,670
+¡No tengo familia!
+¡Todo lo que tengo está a la vista!
+
+817
+00:45:13,753 --> 00:45:14,963
+Sé todo acerca de usted.
+
+818
+00:45:15,004 --> 00:45:17,173
+Desde su primera pelea contra Apollo.
+
+819
+00:45:17,257 --> 00:45:18,883
+-Sí.
+-Sé que a nadie le importaba.
+
+820
+00:45:18,967 --> 00:45:20,510
+Nadie creía en usted.
+
+821
+00:45:20,593 --> 00:45:22,554
+Sé que no venimos del mismo lugar,
+
+822
+00:45:22,637 --> 00:45:24,514
+pero también ansío ganar.
+
+823
+00:45:24,597 --> 00:45:27,142
+Desde que me puse los guantes,
+quise conocerlo.
+
+824
+00:45:27,225 --> 00:45:30,478
+Siempre supe que sólo usted
+podría convertirme en campeón.
+
+825
+00:45:31,229 --> 00:45:34,607
+Campeón. Oye, Paulie,
+¿ves algún campeón por aquí?
+
+826
+00:45:34,649 --> 00:45:38,319
+¡Sí! ¡Usted le ha ganado a los mejores!
+Nadie puede negarlo.
+
+827
+00:45:38,361 --> 00:45:42,532
+Mire, Rock, no me conoce,
+pero haré lo que me pida.
+
+828
+00:45:42,615 --> 00:45:45,160
+Si no alcanza, sudaré el doble.
+
+829
+00:45:45,243 --> 00:45:48,705
+No intento engañarlo.
+Sólo deme una oportunidad.
+
+830
+00:45:48,788 --> 00:45:50,248
+Sólo una.
+
+831
+00:46:01,092 --> 00:46:02,677
+¿Tienes hambre?
+
+832
+00:46:04,846 --> 00:46:06,222
+Sí.
+
+833
+00:46:06,306 --> 00:46:07,432
+¿Sí?
+
+834
+00:46:08,183 --> 00:46:09,392
+Ven.
+
+835
+00:46:09,851 --> 00:46:12,395
+Te va a gustar la comida de Adrian.
+
+836
+00:46:12,479 --> 00:46:16,357
+Prepara unos macarrones
+con salsa deliciosos.
+
+837
+00:46:16,399 --> 00:46:20,361
+Pero te advierto:
+a veces se excede con el ajo.
+
+838
+00:46:22,697 --> 00:46:25,200
+¿Por qué te golpeó la cara?
+
+839
+00:46:25,283 --> 00:46:26,743
+-No importa, papá.
+-Perdón.
+
+840
+00:46:26,826 --> 00:46:29,537
+-Sí que importa.
+-Le quitaron el abrigo.
+
+841
+00:46:29,579 --> 00:46:31,039
+-No.
+-No quiero el abrigo.
+
+842
+00:46:31,122 --> 00:46:32,415
+¿Tomaron el que tiene cuello?
+
+843
+00:46:32,499 --> 00:46:34,125
+Mañana iré a tu escuela.
+
+844
+00:46:34,209 --> 00:46:35,919
+-Sí, hazlo.
+-¡Eso empeorará las cosas!
+
+845
+00:46:36,002 --> 00:46:37,086
+¿No puedo hacerlo a mi modo?
+
+846
+00:46:37,170 --> 00:46:38,796
+¿Qué quieres hacer?
+
+847
+00:46:38,880 --> 00:46:40,715
+Partirle la cara con un bate.
+
+848
+00:46:40,757 --> 00:46:42,175
+Paulie, ¿qué le dices?
+
+849
+00:46:42,217 --> 00:46:44,636
+-Pásame el plato.
+-Perdón, toma.
+
+850
+00:46:44,719 --> 00:46:47,013
+Una vez me pasó lo mismo en la escuela.
+
+851
+00:46:47,055 --> 00:46:49,265
+Un niño me perseguía todos los días.
+
+852
+00:46:49,349 --> 00:46:51,392
+Hasta que un día mi madre me dijo:
+
+853
+00:46:51,476 --> 00:46:53,228
+"Imagínatelo como un globo."
+
+854
+00:46:53,311 --> 00:46:54,562
+¿Un globo?
+
+855
+00:46:54,604 --> 00:46:57,524
+Me dijo:
+"Si lo golpeas fuerte, desaparecerá".
+
+856
+00:47:00,235 --> 00:47:02,695
+Tommy, intentamos educarlo
+
+857
+00:47:02,737 --> 00:47:05,240
+para que actúe usando la cabeza
+
+858
+00:47:05,281 --> 00:47:06,699
+y no los músculos.
+
+859
+00:47:07,242 --> 00:47:09,369
+-Lo siento.
+-Por eso me van a destrozar.
+
+860
+00:47:09,410 --> 00:47:11,371
+No te van a destrozar.
+
+861
+00:47:11,412 --> 00:47:13,206
+Papá, ¿me enseñarías a pelear?
+
+862
+00:47:13,248 --> 00:47:14,916
+Un bate funcionaría.
+
+863
+00:47:14,999 --> 00:47:17,919
+¿Quieres crecer
+y sólo saber usar los puños?
+
+864
+00:47:18,002 --> 00:47:20,421
+No me parece mala idea
+
+865
+00:47:20,463 --> 00:47:24,842
+enseñarle a dar algunos golpes mortales.
+
+866
+00:47:24,926 --> 00:47:27,095
+Tommy, ¿tu papá te enseñó a pelear?
+
+867
+00:47:27,220 --> 00:47:29,639
+-No precisamente.
+-¿Qué?
+
+868
+00:47:29,722 --> 00:47:31,933
+-Amor, no seas indiscreto.
+-No importa.
+
+869
+00:47:31,975 --> 00:47:35,144
+Mi padre bebía mucho.
+
+870
+00:47:35,228 --> 00:47:37,564
+Salía con sus amigos y se emborrachaba.
+
+871
+00:47:37,605 --> 00:47:39,232
+Después regresaba a casa
+y me pegaba.
+
+872
+00:47:39,274 --> 00:47:43,278
+Le pegaba a mamá, también.
+Lo hizo muchas veces.
+
+873
+00:47:43,361 --> 00:47:45,738
+De chico, al único que quería pegarle
+
+874
+00:47:45,780 --> 00:47:46,990
+era a mi padre.
+
+875
+00:47:47,073 --> 00:47:50,118
+A los 13, me metí en líos en la escuela.
+
+876
+00:47:50,201 --> 00:47:53,788
+Me ató y me pegó tanto
+que no pude caminar durante una semana.
+
+877
+00:47:53,830 --> 00:47:55,790
+Ella no podía hacer nada.
+
+878
+00:47:56,499 --> 00:47:59,460
+Al primero que noqueé fue a mi padre.
+
+879
+00:47:59,502 --> 00:48:03,089
+Cuando subo al ring, sólo lo veo a él.
+
+880
+00:48:03,131 --> 00:48:05,258
+Estoy un poco loco, ¿no?
+
+881
+00:48:06,092 --> 00:48:09,637
+Tommy, al menos tuviste
+un viejo a quien pegarle.
+
+882
+00:48:12,098 --> 00:48:13,266
+Sí.
+
+883
+00:48:14,601 --> 00:48:16,644
+Algunos no tuvimos ni eso.
+
+884
+00:48:16,686 --> 00:48:18,479
+Ya le darás una paliza a tu padre.
+
+885
+00:48:18,521 --> 00:48:21,190
+¿Para qué le dices esas cosas al niño?
+
+886
+00:48:21,274 --> 00:48:23,151
+Es la ley del más fuerte.
+
+887
+00:48:24,569 --> 00:48:25,862
+Tommy,
+
+888
+00:48:25,945 --> 00:48:27,697
+¿dónde dormirás?
+¿Tienes dónde quedarte?
+
+889
+00:48:27,780 --> 00:48:30,325
+Ya veré.
+
+890
+00:48:30,408 --> 00:48:32,702
+Tenemos lugar en el sótano.
+
+891
+00:48:32,785 --> 00:48:34,871
+-No es... Está bien.
+-¿Y yo, qué?
+
+892
+00:48:34,954 --> 00:48:37,165
+Amor, allí duerme tu hijo.
+
+893
+00:48:37,248 --> 00:48:40,001
+Puede dormir con su tío.
+
+894
+00:48:40,043 --> 00:48:41,252
+¿Tengo cara de hotel?
+
+895
+00:48:41,336 --> 00:48:43,338
+-No...
+-No quiero causar problemas.
+
+896
+00:48:43,421 --> 00:48:44,672
+Hallaré un lugar. No te preocupes.
+
+897
+00:48:44,756 --> 00:48:49,552
+Es sólo por un tiempo, ¿no?
+
+898
+00:48:49,636 --> 00:48:51,304
+No hay problema. Despreocúpate.
+
+899
+00:48:51,346 --> 00:48:53,848
+Gracias, hijo. Hace frío afuera.
+
+900
+00:48:53,890 --> 00:48:55,475
+No cambiaré las sábanas.
+
+901
+00:48:55,516 --> 00:48:57,769
+¿Cuándo lo has hecho?
+
+902
+00:48:58,770 --> 00:49:02,732
+Oye, Tommy, ven abajo a ver el lugar.
+
+903
+00:49:02,815 --> 00:49:04,025
+Amor, ¿por qué no bajas?
+
+904
+00:49:04,108 --> 00:49:07,028
+Muéstrale a papá
+lo que hiciste hoy. Vamos.
+
+905
+00:49:11,658 --> 00:49:14,160
+Oye, hijo, tu cañería no gotea, ¿no?
+
+906
+00:49:21,793 --> 00:49:24,504
+-¿Conoces a este muchacho?
+-Sí. Pega fuerte.
+
+907
+00:49:27,382 --> 00:49:29,008
+¡Qué bien cocina Adrian!
+
+908
+00:49:29,050 --> 00:49:30,134
+Sí. Lo hace bien.
+
+909
+00:49:30,218 --> 00:49:34,639
+Aún no pudimos ordenar el lugar.
+
+910
+00:49:34,722 --> 00:49:37,100
+Lo haremos pronto.
+
+911
+00:49:38,142 --> 00:49:40,603
+¡Guau! ¡Esto es lo que quiero!
+
+912
+00:49:40,687 --> 00:49:44,232
+-Santo cielo... Bueno, yo...
+-¿Por qué lo tienes todo aquí abajo?
+
+913
+00:49:44,315 --> 00:49:45,692
+¿Cuándo tuviste tiempo para hacerlo?
+
+914
+00:49:45,733 --> 00:49:48,528
+Sacó todo de las cajas. Lo dejó hermoso.
+
+915
+00:49:48,569 --> 00:49:52,240
+¡Hasta pintaste! ¿Cuándo lo hiciste?
+
+916
+00:49:52,281 --> 00:49:54,200
+Después de la escuela. No es para tanto.
+
+917
+00:49:54,242 --> 00:49:56,160
+¿Puedo preguntarle dónde consiguió
+ese guante?
+
+918
+00:49:56,244 --> 00:49:57,245
+-¿Éste?
+-Sí.
+
+919
+00:49:57,328 --> 00:49:59,288
+Es uno de mis objetos predilectos.
+
+920
+00:49:59,372 --> 00:50:02,250
+Mickey me lo dio antes de irse.
+
+921
+00:50:02,291 --> 00:50:04,794
+Era un gemelo de Rocky Marciano.
+
+922
+00:50:04,877 --> 00:50:06,963
+-¿En serio? ¿El verdadero Rocky Marciano?
+-Sí.
+
+923
+00:50:07,046 --> 00:50:08,798
+Me hiciste recordar a Mickey.
+
+924
+00:50:08,881 --> 00:50:10,425
+Quiero mostrarte algo. Ven.
+
+925
+00:50:10,466 --> 00:50:14,095
+Hace mucho tiempo me dijo
+
+926
+00:50:15,221 --> 00:50:17,890
+que el 90% de la pelea está en la cabeza
+
+927
+00:50:17,974 --> 00:50:20,601
+y el 10% en el cuerpo. Eso me dijo.
+
+928
+00:50:20,643 --> 00:50:23,604
+Oye, papá, hoy conocí
+a una niña muy agradable.
+
+929
+00:50:23,646 --> 00:50:27,108
+-¿En serio? Me alegro.
+-Es mejor que Sarah.
+
+930
+00:50:27,150 --> 00:50:30,111
+Hijo, espera. No cambies de tema.
+Enseguida hablamos.
+
+931
+00:50:30,153 --> 00:50:32,947
+Quiero contarle algunas cosas a Tommy.
+
+932
+00:50:33,030 --> 00:50:35,950
+¿Quién es tu mejor amigo allá en Orlando?
+
+933
+00:50:36,033 --> 00:50:38,286
+En Oklahoma.
+
+934
+00:50:38,327 --> 00:50:40,288
+-Bueno, sí.
+-Eric Elder.
+
+935
+00:50:40,371 --> 00:50:44,500
+No, no. Tu mejor amigo es Franco Miedo.
+
+936
+00:50:44,584 --> 00:50:47,295
+El miedo es el mejor amigo del boxeador.
+
+937
+00:50:47,336 --> 00:50:49,297
+Que no te avergüence.
+
+938
+00:50:49,380 --> 00:50:52,300
+El miedo te mantiene alerta.
+Te mantiene despierto.
+
+939
+00:50:52,383 --> 00:50:54,469
+Te da deseos de sobrevivir,
+
+940
+00:50:54,510 --> 00:50:57,930
+pero tienes que aprender a controlarlo.
+
+941
+00:50:57,972 --> 00:51:01,809
+El miedo es como un fuego
+que arde en nuestro interior.
+
+942
+00:51:01,851 --> 00:51:05,188
+Si lo dominas, te hará poderoso.
+
+943
+00:51:05,271 --> 00:51:07,815
+Si él te domina,
+
+944
+00:51:07,857 --> 00:51:10,735
+acabará destruyéndote a ti
+y a todo lo que te rodea.
+
+945
+00:51:10,818 --> 00:51:12,153
+Así es.
+
+946
+00:51:12,195 --> 00:51:15,698
+Esto es lo que me enseñaron.
+
+947
+00:51:15,782 --> 00:51:18,659
+Si quieres, me gustaría enseñártelo a ti.
+
+948
+00:51:19,202 --> 00:51:21,996
+¿Esto significa que será mi entrenador?
+
+949
+00:51:22,038 --> 00:51:25,374
+-Claro. Un equipo.
+-¡Qué bien!
+
+950
+00:51:25,458 --> 00:51:26,751
+-Hagámoslo.
+-Oye, Rock,
+
+951
+00:51:26,834 --> 00:51:28,920
+¿quiere enseñarme algo ahora?
+
+952
+00:51:29,003 --> 00:51:31,339
+Claro, Tommy.
+Tengo mucho para enseñarte.
+
+953
+00:51:36,594 --> 00:51:39,680
+Oye, niño rico:
+¿Cuánto dinero trajiste hoy?
+
+954
+00:51:39,722 --> 00:51:41,516
+-Nada.
+-Vamos. Dámelo.
+
+955
+00:51:41,557 --> 00:51:42,975
+¡Nada! ¡No traje nada!
+
+956
+00:51:43,017 --> 00:51:45,895
+-¡Dame el dinero!
+-¡Vamos!
+
+957
+00:51:45,978 --> 00:51:47,230
+¡Tengo que comer!
+
+958
+00:51:47,313 --> 00:51:50,441
+Tiene hambre. Tiene que comer.
+Bueno, trágate esto.
+
+959
+00:51:53,361 --> 00:51:54,737
+Lo tengo. Vamos.
+
+960
+00:51:55,696 --> 00:51:58,699
+¡Padre Carmine! ¡Hola!
+
+961
+00:51:59,200 --> 00:52:01,035
+¡Padre Carmine!
+
+962
+00:52:01,118 --> 00:52:03,788
+-Quizá salió.
+-Los curas no salen.
+
+963
+00:52:03,871 --> 00:52:06,249
+-¡Rocky!
+-¡Hola!
+
+964
+00:52:08,668 --> 00:52:11,504
+No quería molestarlo tanto, padre.
+
+965
+00:52:14,048 --> 00:52:17,093
+Genial. Muy bien.
+
+966
+00:52:17,176 --> 00:52:19,637
+Padre, le presento a mi amigo:
+Tommy Gunn.
+
+967
+00:52:24,475 --> 00:52:26,894
+Tommy es boxeador
+
+968
+00:52:26,936 --> 00:52:28,729
+y se supone que yo
+debo ser su entrenador.
+
+969
+00:52:28,771 --> 00:52:30,565
+¿Puede hacerme un favor?
+
+970
+00:52:30,606 --> 00:52:31,858
+Si no está ocupado.
+
+971
+00:52:31,899 --> 00:52:34,235
+¿Podría darnos su bendición?
+
+972
+00:52:34,318 --> 00:52:36,904
+Para no fracasar como entrenador
+
+973
+00:52:36,946 --> 00:52:39,657
+y para que Tommy sea
+tan bueno como yo pienso.
+
+974
+00:52:39,740 --> 00:52:42,994
+Y para que nadie salga herido. ¿Podría?
+
+975
+00:52:51,252 --> 00:52:52,420
+Me encanta cuando hace eso.
+
+976
+00:52:52,503 --> 00:52:55,006
+Gracias, Padre. Se lo agradezco mucho.
+
+977
+00:52:56,215 --> 00:52:57,258
+Cuando quieras.
+
+978
+00:52:57,300 --> 00:52:59,302
+¡Bueno! ¡Lo veré en la iglesia!
+
+979
+00:53:01,679 --> 00:53:02,680
+Está bien.
+
+980
+00:53:02,763 --> 00:53:03,931
+Oye, ¿para qué hiciste esto?
+
+981
+00:53:04,015 --> 00:53:06,601
+No está de más tener un ángel en el ring.
+
+982
+00:53:06,642 --> 00:53:07,685
+¡Vamos!
+
+983
+00:53:11,814 --> 00:53:14,775
+-Hola, Rock. ¿Cómo estás?
+-Muy bien, muchachos.
+
+984
+00:53:14,817 --> 00:53:16,611
+Vayan más lento. Si no, los multaremos.
+
+985
+00:53:16,694 --> 00:53:18,529
+Es Tommy Gunn. ¡Será campeón!
+
+986
+00:53:18,613 --> 00:53:19,947
+¿Cómo estás, Tom?
+
+987
+00:53:30,291 --> 00:53:33,085
+Bien. ¡Sepárense! ¡Sepárense! ¡Sepárense!
+
+988
+00:53:45,431 --> 00:53:47,058
+Aléjate de las cuerdas.
+
+989
+00:53:54,607 --> 00:53:56,776
+-Ve despacio, ¿sí?
+-Necesito practicar más.
+
+990
+00:53:56,817 --> 00:53:58,444
+-No. Estás listo.
+-No, más práctica.
+
+991
+00:53:58,486 --> 00:53:59,612
+Me está matando.
+
+992
+00:53:59,654 --> 00:54:01,364
+-Ya estás listo.
+-Me está matando.
+
+993
+00:54:01,447 --> 00:54:02,949
+No, estás en perfectas condiciones.
+
+994
+00:54:02,990 --> 00:54:04,784
+-Me siento débil.
+-No, no. Escúchame.
+
+995
+00:54:04,825 --> 00:54:05,868
+¡Cállate! ¡Escúchame!
+
+996
+00:54:05,952 --> 00:54:07,828
+Mick decía que la única diferencia
+
+997
+00:54:07,870 --> 00:54:10,957
+entre un héroe y un cobarde es
+que el héroe lo desea.
+
+998
+00:54:10,998 --> 00:54:12,583
+Está dispuesto a arriesgarse.
+
+999
+00:54:12,667 --> 00:54:14,043
+Él también está asustado.
+
+1000
+00:54:14,126 --> 00:54:15,836
+¡Él tiene miedo! ¡Tú tienes!
+¡Ambos tienen!
+
+1001
+00:54:15,920 --> 00:54:18,130
+¿Recuerdas cuando en el sótano decíamos
+
+1002
+00:54:18,172 --> 00:54:19,840
+que el miedo es parecido al fuego?
+
+1003
+00:54:19,882 --> 00:54:22,385
+Debes dominarlo o te consumirá.
+
+1004
+00:54:22,468 --> 00:54:23,803
+O lo consumirá a él.
+
+1005
+00:54:23,844 --> 00:54:25,846
+El fuego debe ser tu aliado, Tommy.
+
+1006
+00:54:25,930 --> 00:54:27,723
+Nunca haría algo que te perjudicara.
+
+1007
+00:54:27,807 --> 00:54:29,016
+Entiéndelo bien.
+
+1008
+00:54:29,100 --> 00:54:30,559
+El miedo es este fuego.
+
+1009
+00:54:30,643 --> 00:54:33,688
+Déjalo arder.
+Que arda hasta que sea un volcán.
+
+1010
+00:54:33,771 --> 00:54:35,815
+Cuando llegue el momento,
+déjalo hacer erupción
+
+1011
+00:54:35,856 --> 00:54:37,483
+sobre este tipo, ¿sí?
+
+1012
+00:54:37,525 --> 00:54:38,859
+¡Tú puedes con él!
+
+1013
+00:54:38,901 --> 00:54:40,361
+-¡Todo está en el corazón!
+-Entendido.
+
+1014
+00:54:40,444 --> 00:54:42,655
+No está en los músculos,
+está en el corazón.
+
+1015
+00:54:42,697 --> 00:54:43,948
+¡Corazón y fuego!
+
+1016
+00:54:44,031 --> 00:54:45,241
+Ahora, hazlo.
+
+1017
+00:54:47,702 --> 00:54:50,371
+Recuerda: soy un ángel en tu hombro.
+
+1018
+00:54:50,454 --> 00:54:52,206
+¡No permitiré que nada te pase!
+
+1019
+00:54:52,289 --> 00:54:53,416
+-¡Ve!
+-Bien.
+
+1020
+00:54:57,837 --> 00:54:59,672
+¡Vamos, Tommy! ¡Golpe corto!
+
+1021
+00:55:03,300 --> 00:55:05,803
+¡Lánzalo! ¡Izquierda! ¡Derecha!
+
+1022
+00:55:08,472 --> 00:55:10,099
+¡Al cuerpo! ¡Al cuerpo!
+
+1023
+00:55:10,725 --> 00:55:11,767
+¡Gancho!
+
+1024
+00:55:13,394 --> 00:55:14,478
+¡Muy bien!
+
+1025
+00:55:33,080 --> 00:55:35,541
+¡PELEAS VIERNES POR LA NOCHE!
+
+1026
+00:55:36,083 --> 00:55:37,918
+HORIZONTE AZUL
+de Jimmy Toppi
+
+1027
+00:55:40,254 --> 00:55:41,338
+¡Bien!
+
+1028
+00:55:42,590 --> 00:55:45,092
+Discípulo de Balboa gana 2ª pelea por K.O.
+
+1029
+00:55:47,178 --> 00:55:48,554
+¡Tiempo!
+
+1030
+00:56:10,284 --> 00:56:13,412
+Clon de Balboa Aniquila a
+Novato Prometedor, sigue 8 a 0
+
+1031
+00:56:13,746 --> 00:56:15,790
+¡Al cuerpo!
+
+1032
+00:56:15,873 --> 00:56:17,458
+¡Así es! ¡Así es!
+
+1033
+00:56:18,542 --> 00:56:23,798
+Oye, ¿estás bien? Oye, Tommy Gunn,
+¡Se nota que tienes ganas!
+
+1034
+00:56:27,635 --> 00:56:28,886
+¡Rocky!
+
+1035
+00:56:31,388 --> 00:56:32,473
+<i>Se acabó.</i>
+
+1036
+00:56:32,515 --> 00:56:34,100
+Muchacho de Balboa Vuelve a Ganar
+
+1037
+00:56:34,308 --> 00:56:36,310
+18, 19.
+
+1038
+00:56:40,022 --> 00:56:41,315
+Robot de Rocky lleva 11-0
+
+1039
+00:56:41,357 --> 00:56:43,275
+Llévalo. 85. Vamos, ahora.
+
+1040
+00:56:52,076 --> 00:56:54,620
+10. Vamos, tú puedes.
+
+1041
+00:56:56,914 --> 00:56:58,249
+¡Vamos! ¡Arriba! ¡Bien!
+
+1042
+00:56:58,332 --> 00:56:59,667
+¡Sí!
+
+1043
+00:56:59,708 --> 00:57:02,002
+¡Esta vez te atrapé!
+
+1044
+00:57:08,425 --> 00:57:09,635
+¡Demonios!
+
+1045
+00:57:10,761 --> 00:57:12,012
+{\an8}Estalla la Bomba de Rocky
+
+1046
+00:57:12,930 --> 00:57:14,181
+Sí.
+
+1047
+00:57:14,223 --> 00:57:17,351
+Tommy, estos shorts
+son muy especiales para mí.
+
+1048
+00:57:19,895 --> 00:57:21,438
+¡Entra, entra, entra!
+
+1049
+00:57:24,733 --> 00:57:25,734
+¡Gancho!
+
+1050
+00:57:26,735 --> 00:57:27,862
+¡Sí!
+
+1051
+00:57:29,530 --> 00:57:32,032
+¡Así se hace, muchacho!
+¡Eso estuvo genial!
+
+1052
+00:57:32,324 --> 00:57:34,702
+¡Tommy! ¡Tommy!
+
+1053
+00:57:44,044 --> 00:57:45,337
+Bien, muchacho.
+
+1054
+00:57:52,595 --> 00:57:54,597
+¡Sí!
+
+1055
+00:57:55,639 --> 00:57:57,600
+¡Lo vencí! ¡No lo puedo creer!
+
+1056
+00:57:57,683 --> 00:58:01,061
+¡Bien hecho!
+Eres muy veloz, Tommy Gunn.
+
+1057
+00:58:10,738 --> 00:58:13,407
+Sí, Merlin, escucha, tengo una idea.
+
+1058
+00:58:14,700 --> 00:58:16,535
+Creo saber cómo destruir a Balboa.
+
+1059
+00:58:20,789 --> 00:58:22,416
+-Otra vez te esperan.
+-Sí.
+
+1060
+00:58:22,499 --> 00:58:24,627
+Si no te alcanza el dinero,
+yo tengo casi un dólar.
+
+1061
+00:58:24,710 --> 00:58:26,712
+-Guárdatelo.
+-¿Otra vez con la chusma, rubia?
+
+1062
+00:58:26,754 --> 00:58:28,339
+¿Qué tienes en la mochila?
+
+1063
+00:58:28,422 --> 00:58:29,423
+Cállate.
+
+1064
+00:58:29,465 --> 00:58:31,050
+Oye, despacio. ¿Ya no me hablas?
+
+1065
+00:58:31,091 --> 00:58:33,510
+Dos pasos más, y te romperé los dientes.
+
+1066
+00:58:33,594 --> 00:58:36,305
+-¡Atrévete!
+-¿Qué dijo?
+
+1067
+00:58:36,388 --> 00:58:38,807
+¿Este tonto perdió la cabeza? ¿Qué dijiste?
+
+1068
+00:58:38,891 --> 00:58:40,601
+-¡Atrévete!
+-¡Vamos, hazlo!
+
+1069
+00:58:45,940 --> 00:58:47,316
+¡Mátalo!
+
+1070
+00:58:57,868 --> 00:59:00,371
+¡Vamos! ¡Levanta las manos! ¡Vamos!
+
+1071
+00:59:00,454 --> 00:59:02,873
+¡Ni loco! ¡Él no me cae bien!
+
+1072
+00:59:06,377 --> 00:59:08,254
+Creo que eso me pertenece.
+
+1073
+00:59:08,295 --> 00:59:12,633
+¡Robert! ¡Robert! ¡Robert!
+
+1074
+00:59:12,675 --> 00:59:15,386
+Si quieres hacer las paces,
+éste es el momento.
+
+1075
+00:59:15,594 --> 00:59:17,805
+Sí, mejor así.
+
+1076
+00:59:17,846 --> 00:59:19,431
+-Te veré luego.
+-Bien.
+
+1077
+00:59:20,849 --> 00:59:21,934
+No lo puedo creer.
+
+1078
+00:59:21,976 --> 00:59:23,477
+¿Se lo contarás a tu papá?
+
+1079
+00:59:23,560 --> 00:59:25,312
+-Sí.
+-¡Vamos a contárselo!
+
+1080
+00:59:27,022 --> 00:59:29,441
+Bien, bien. Así es. Una vez más. Sí, sí.
+
+1081
+00:59:29,984 --> 00:59:33,404
+Mira. Oye, Tommy:
+Las combinaciones te salen bien,
+
+1082
+00:59:33,487 --> 00:59:37,283
+pero debes moverte de lado a lado,
+como un limpiaparabrisas,
+
+1083
+00:59:37,324 --> 00:59:39,243
+para que no te peguen en la cara.
+
+1084
+00:59:39,326 --> 00:59:40,661
+-¡Papá!
+-Adelante y atrás...
+
+1085
+00:59:40,703 --> 00:59:43,831
+¡Recuperé mi abrigo! ¡Mira! ¡Mi abrigo!
+
+1086
+00:59:43,872 --> 00:59:46,500
+Hola. ¡Qué bien, hijo! Genial.
+
+1087
+00:59:46,583 --> 00:59:50,504
+¡Lo aplasté! ¡Todos me felicitaban!
+
+1088
+00:59:50,587 --> 00:59:52,047
+Rock, me enfrío.
+
+1089
+00:59:52,131 --> 00:59:53,841
+Debo seguir.
+
+1090
+00:59:53,882 --> 00:59:56,010
+Debe seguir entrenando. Se está enfriando.
+
+1091
+00:59:56,051 --> 00:59:58,220
+¡Dile a tu mamá! Le dará gusto saberlo.
+
+1092
+00:59:58,304 --> 01:00:01,849
+Bien, sigamos, Tommy.
+
+1093
+01:00:02,850 --> 01:00:05,519
+Ay, muy bien. Sigue.
+
+1094
+01:00:05,561 --> 01:00:09,189
+¡Bien, ahí va, Tommy! Ahí va, Tommy.
+
+1095
+01:00:16,280 --> 01:00:19,366
+<i>Union Cane,</i>
+<i>¡el nuevo campeón peso pesado!</i>
+
+1096
+01:00:19,408 --> 01:00:21,869
+-¿Crees que tengo posibilidades?
+-Claro. ¿Bromeas?
+
+1097
+01:00:21,952 --> 01:00:26,373
+Tommy, cualquiera con dos puños
+y sangre en sus venas,
+
+1098
+01:00:26,415 --> 01:00:27,791
+tiene posibilidades.
+
+1099
+01:00:35,716 --> 01:00:36,759
+¡Fuera!
+
+1100
+01:00:40,596 --> 01:00:43,182
+EL DESCUBRIMIENTO DE BALBOA
+
+1101
+01:00:46,769 --> 01:00:47,853
+¡Vamos!
+
+1102
+01:00:49,480 --> 01:00:52,107
+Vamos, muchacho. 49 ¡Las manos arriba!
+
+1103
+01:00:56,362 --> 01:00:57,780
+¡Sí!
+
+1104
+01:00:57,863 --> 01:00:59,823
+EL BOMBARDERO DE BALBOA
+Prepárate "Union" Cane Viene Tommy
+
+1105
+01:01:07,706 --> 01:01:10,584
+¡Tienes puños de oro!
+Quiero presentarte a alguien.
+
+1106
+01:01:24,139 --> 01:01:25,516
+¡Vamos, Tommy!
+
+1107
+01:01:31,021 --> 01:01:32,731
+¡Sí!
+
+1108
+01:01:47,996 --> 01:01:50,124
+{\an8}EL MUCHACHO DE BALBOA
+SIGUE INVICTO
+
+1109
+01:02:08,809 --> 01:02:10,811
+-¡Bien!
+-Eso es todo. ¡Se acabó!
+
+1110
+01:02:12,563 --> 01:02:15,399
+EL ARMA DE ROCKY APUNTA A CANE
+
+1111
+01:02:17,651 --> 01:02:19,111
+¡Tommy, noquéalo!
+
+1112
+01:02:19,403 --> 01:02:21,613
+TRUMP PLAZA
+T. GUNN contra J. LANGTON
+
+1113
+01:02:25,784 --> 01:02:27,119
+-¡Eso es!
+-¡Sí!
+
+1114
+01:02:27,161 --> 01:02:28,412
+Ahí está tu barco, Rock.
+
+1115
+01:02:28,495 --> 01:02:30,789
+-¿Qué barco?
+-El que se está hundiendo.
+
+1116
+01:02:33,167 --> 01:02:35,669
+{\an8}¿CUÁNDO IRÁ POR EL TÍTULO?
+
+1117
+01:02:46,430 --> 01:02:48,307
+Tommy Gunn en la cima.
+
+1118
+01:02:49,892 --> 01:02:51,393
+Si vienes con Duke,
+
+1119
+01:02:52,311 --> 01:02:55,689
+ganarás sumas
+con las que Balboa sólo puede soñar.
+
+1120
+01:02:57,107 --> 01:02:59,526
+El vencedor se lleva el botín.
+
+1121
+01:03:01,653 --> 01:03:02,779
+AMETRALLADORA GUNN
+contra TIM SIMMS
+
+1122
+01:03:08,827 --> 01:03:10,454
+¡Un golpe corto, Tommy!
+
+1123
+01:03:16,001 --> 01:03:17,127
+¡Sí!
+
+1124
+01:03:18,045 --> 01:03:19,087
+¡Fuera!
+
+1125
+01:03:22,216 --> 01:03:23,300
+-¡Sí!
+-Muy bien, muchacho.
+
+1126
+01:03:23,383 --> 01:03:24,551
+¡Lo lograste, viejo!
+
+1127
+01:03:24,593 --> 01:03:26,386
+¿Ahora podré ir por el título?
+
+1128
+01:03:26,470 --> 01:03:28,555
+-¡Sí, lo vas a lograr muy pronto!
+-¡Tommy, aquí!
+
+1129
+01:03:28,597 --> 01:03:30,432
+¡Hola, nena!
+
+1130
+01:03:30,766 --> 01:03:33,393
+<i>Ganó en dos minutos y diez segundos.</i>
+
+1131
+01:03:33,435 --> 01:03:35,854
+¿Cuándo enfrentará Tommy a Union Cane?
+
+1132
+01:03:35,896 --> 01:03:37,356
+Tenemos que hablar.
+
+1133
+01:03:37,397 --> 01:03:39,149
+-¿Qué se siente ser entrenador?
+-Vete, ¿sí?
+
+1134
+01:03:39,233 --> 01:03:41,109
+No vale la pena, amigo.
+
+1135
+01:03:41,193 --> 01:03:43,237
+Peleó una gran pelea.
+
+1136
+01:03:43,278 --> 01:03:46,406
+Tu barco se hundió, Rocko. Se hundió, ¿sí?
+
+1137
+01:04:02,714 --> 01:04:05,717
+Probablemente, se atrasó por el tránsito.
+Ya debería estar aquí.
+
+1138
+01:04:05,759 --> 01:04:07,803
+-¿Por qué?
+-¿Por qué? Es Navidad.
+
+1139
+01:04:07,886 --> 01:04:09,346
+Debería estar con su familia.
+
+1140
+01:04:09,429 --> 01:04:11,598
+Quizá no considere ésta su familia.
+
+1141
+01:04:11,682 --> 01:04:12,724
+Por supuesto que sí.
+
+1142
+01:04:12,766 --> 01:04:15,310
+-Adrian, mira esto.
+-¿Qué?
+
+1143
+01:04:17,563 --> 01:04:19,898
+Quiero dárselo. ¿Qué opinas?
+
+1144
+01:04:21,108 --> 01:04:23,110
+Creo que ya le has dado suficiente.
+
+1145
+01:04:23,193 --> 01:04:26,738
+Él también nos ha dado cosas.
+
+1146
+01:04:26,780 --> 01:04:30,158
+Nos ha dado una segunda oportunidad.
+Vamos, es Navidad.
+
+1147
+01:04:33,161 --> 01:04:37,749
+Eso es. Sólo en los EUA.
+Tener lo mejor, vestir lo mejor.
+
+1148
+01:04:37,791 --> 01:04:39,668
+Pero para tenerlo,
+debes quedarte en la cima.
+
+1149
+01:04:39,751 --> 01:04:42,379
+-Nadie recuerda al segundo, muchacho.
+-Te aseguro que yo no.
+
+1150
+01:04:42,462 --> 01:04:45,340
+Tommy, investigué
+en la Comisión de Boxeo
+
+1151
+01:04:45,424 --> 01:04:48,677
+y parece que no tienes
+contrato con Balboa.
+
+1152
+01:04:49,845 --> 01:04:51,972
+No. Sólo de palabra.
+
+1153
+01:04:52,014 --> 01:04:55,767
+Éste es un negocio complejo.
+Hay que estar alerta.
+
+1154
+01:04:55,809 --> 01:04:57,603
+No hace falta que te lo aclare, ¿sí?
+
+1155
+01:04:57,644 --> 01:05:00,314
+Ha de ser difícil vivir a la sombra de Rocky,
+
+1156
+01:05:00,397 --> 01:05:01,690
+que te llamen su marioneta.
+
+1157
+01:05:01,773 --> 01:05:03,817
+No sé cómo resistes.
+
+1158
+01:05:03,859 --> 01:05:05,485
+Tommy, me temo...
+
+1159
+01:05:05,569 --> 01:05:08,238
+me temo que si continúas así,
+
+1160
+01:05:08,322 --> 01:05:10,490
+el tren del éxito pasará de largo.
+
+1161
+01:05:11,366 --> 01:05:12,534
+Exactamente.
+
+1162
+01:05:13,118 --> 01:05:15,245
+Tommy, aún no has ganado mucho dinero.
+
+1163
+01:05:15,329 --> 01:05:17,789
+Y no lo harás si no enfrentas
+a los mejores.
+
+1164
+01:05:17,831 --> 01:05:21,126
+Yo soy el dueño de los mejores.
+
+1165
+01:05:21,168 --> 01:05:25,130
+Tengo los contratos.
+Es un negocio complejo,
+
+1166
+01:05:26,048 --> 01:05:28,884
+pero si quieres lo mejor, ve con el mejor.
+
+1167
+01:05:28,967 --> 01:05:30,552
+¿Y Rocky?
+
+1168
+01:05:30,636 --> 01:05:33,722
+Rocky puede seguir entrenándote.
+Ha hecho un trabajo magnífico.
+
+1169
+01:05:33,805 --> 01:05:37,976
+Mira, aquí tienes $20.000.
+Tómalo como un adelanto.
+
+1170
+01:05:40,187 --> 01:05:42,356
+Es hora de sumar valor y sudor.
+
+1171
+01:05:42,439 --> 01:05:43,690
+Feliz Navidad.
+
+1172
+01:05:44,858 --> 01:05:46,443
+Feliz Navidad.
+
+1173
+01:05:47,903 --> 01:05:49,446
+¡Paren las imprentas!
+
+1174
+01:05:49,529 --> 01:05:52,157
+No puedo creer quién apareció en el techo.
+
+1175
+01:05:52,199 --> 01:05:55,243
+Aterrizó y se estrelló.
+
+1176
+01:05:55,327 --> 01:05:58,497
+-¿Saben quién es?
+-¿Escucho renos en el techo?
+
+1177
+01:05:59,456 --> 01:06:01,166
+Saben...
+
+1178
+01:06:01,208 --> 01:06:02,209
+Cornadas.
+
+1179
+01:06:02,292 --> 01:06:04,711
+¡Increíble! Eran millones...
+
+1180
+01:06:04,795 --> 01:06:08,507
+¡Vamos! ¡Miren quién llegó!
+¡Ustedes lo conocen!
+
+1181
+01:06:08,548 --> 01:06:11,259
+-Tu familia es rara.
+-Qué novedad.
+
+1182
+01:06:11,343 --> 01:06:13,303
+Terminará de bajar la próxima Navidad.
+
+1183
+01:06:13,387 --> 01:06:16,723
+¡Démosle un aplauso a Papá Noel!
+
+1184
+01:06:16,765 --> 01:06:18,433
+¡Feliz Navidad! ¡Yo, yo, yo!
+
+1185
+01:06:18,517 --> 01:06:23,730
+No te salió bien, Papá Noel.
+No, no, no ¡Es "jo, jo, jo"!
+
+1186
+01:06:23,814 --> 01:06:26,733
+¿Cuál es la maldita diferencia?
+Donde yo nací, dicen yo, yo, yo.
+
+1187
+01:06:26,775 --> 01:06:29,152
+Parece que Papá Noel empinó el codo.
+
+1188
+01:06:29,236 --> 01:06:31,071
+Oye, Santa,
+
+1189
+01:06:31,113 --> 01:06:33,865
+muéstrale a los niños
+qué tienes en la bolsa,
+
+1190
+01:06:33,907 --> 01:06:37,160
+-qué les trajiste desde el norte.
+-Tengo la ropa para lavar.
+
+1191
+01:06:37,244 --> 01:06:38,829
+No, te equivocaste de bolsa.
+
+1192
+01:06:38,912 --> 01:06:40,914
+-Vamos, gordito, apártate.
+-Sí, ten cuidado.
+
+1193
+01:06:40,997 --> 01:06:42,499
+Dejen que Papá Noel se siente.
+
+1194
+01:06:42,582 --> 01:06:44,084
+Ven aquí, muchachito.
+¿Te portaste bien?
+
+1195
+01:06:44,167 --> 01:06:46,211
+-¡Tío Paulie!
+-Ven aquí. Siéntate.
+
+1196
+01:06:46,253 --> 01:06:48,755
+Dile a Papá Noel qué necesitas.
+
+1197
+01:06:48,839 --> 01:06:51,550
+¡Me estiras la ropa! ¡No necesito nada!
+
+1198
+01:06:51,591 --> 01:06:54,469
+Dile a Papá Noel qué necesitas.
+
+1199
+01:06:54,553 --> 01:06:57,848
+No es Papá Noel. Es el tío Paulie.
+Basta de farsas.
+
+1200
+01:06:57,931 --> 01:07:00,767
+¿Qué quieres decir con farsas?
+¿Por qué me contestas así?
+
+1201
+01:07:00,809 --> 01:07:05,105
+Sólo queremos pasarla bien.
+Llegó Papá Noel...
+
+1202
+01:07:05,147 --> 01:07:06,773
+¡Esto es una tontería!
+
+1203
+01:07:07,441 --> 01:07:11,987
+Vamos, no es una tontería.
+Es sólo una ilusión.
+
+1204
+01:07:12,070 --> 01:07:14,448
+Tan solo debes sumarte a esta ilusión.
+
+1205
+01:07:14,531 --> 01:07:16,992
+Es como un juego.
+
+1206
+01:07:17,075 --> 01:07:19,619
+Detesto disimular.
+¿Por qué no hablan ustedes con él?
+
+1207
+01:07:19,661 --> 01:07:21,955
+Oye, esto no corre para ellos.
+
+1208
+01:07:22,038 --> 01:07:23,874
+Te estoy hablando.
+
+1209
+01:07:23,957 --> 01:07:27,377
+Es muy importante
+pasar tiempo con la familia,
+
+1210
+01:07:27,461 --> 01:07:31,131
+tener tiempo para divertirse
+y el ánimo para festejar.
+
+1211
+01:07:31,214 --> 01:07:33,967
+-Es bueno, ¿cierto?
+-¿Bueno para qué?
+
+1212
+01:07:35,802 --> 01:07:38,597
+Sus amigos están aquí. Quizá no quiera.
+
+1213
+01:07:38,638 --> 01:07:40,891
+Adrian, yo sé lo que quiere.
+
+1214
+01:07:40,974 --> 01:07:43,727
+-¿Cómo sabes lo que quiero?
+-Porque te conozco.
+
+1215
+01:07:43,810 --> 01:07:46,605
+¿Me conoces? Cree que me conoce.
+
+1216
+01:07:48,899 --> 01:07:50,525
+No tengo nada que celebrar.
+
+1217
+01:07:50,609 --> 01:07:53,320
+Aguarda. Oye, ven aquí. ¿Qué te pasa?
+
+1218
+01:07:53,403 --> 01:07:54,988
+Siempre festejamos.
+
+1219
+01:07:55,030 --> 01:07:56,990
+Siempre la pasamos bien.
+
+1220
+01:07:57,032 --> 01:07:58,825
+No hay por qué cambiar las cosas.
+
+1221
+01:07:58,867 --> 01:08:03,163
+¿Recuerdas cómo nos divertimos
+el año pasado?
+
+1222
+01:08:03,830 --> 01:08:06,750
+No es el año pasado, ni tú eres el mismo.
+
+1223
+01:08:08,835 --> 01:08:09,878
+¿Qué?
+
+1224
+01:08:13,840 --> 01:08:15,842
+Adrian, ¿qué hice?
+
+1225
+01:08:16,551 --> 01:08:18,011
+Ve a hablar con él.
+
+1226
+01:08:21,515 --> 01:08:23,975
+Hasta yo sabía que esto iba a ocurrir.
+
+1227
+01:08:24,017 --> 01:08:26,353
+Debí haberme ido a Miami cuando podía.
+
+1228
+01:08:28,063 --> 01:08:30,524
+¿Quieres hablar? Hablemos.
+
+1229
+01:08:31,942 --> 01:08:35,403
+Bueno, siempre pensé
+
+1230
+01:08:35,821 --> 01:08:37,572
+que éramos muy unidos.
+
+1231
+01:08:37,656 --> 01:08:40,283
+-Oye, hijo. Te amo.
+-No, no me amas.
+
+1232
+01:08:41,034 --> 01:08:43,703
+Claro que sí. ¿Recuerdas cuál era el trato?
+
+1233
+01:08:43,787 --> 01:08:47,707
+Debíamos ser unidos,
+como los dedos de la mano.
+
+1234
+01:08:47,791 --> 01:08:50,585
+Sólo te interesa ser unido con Tommy.
+
+1235
+01:08:50,669 --> 01:08:52,838
+-Es lo único que te importa.
+-No digas eso.
+
+1236
+01:08:52,879 --> 01:08:54,172
+¿Por qué no?
+
+1237
+01:08:54,214 --> 01:08:56,675
+¡Desde que llegó, es Tommy esto,
+Tommy aquello!
+
+1238
+01:08:56,716 --> 01:08:59,553
+No tienes tiempo para nadie,
+así que yo no tengo tiempo para ti.
+
+1239
+01:08:59,636 --> 01:09:02,389
+¿Qué me estás diciendo?
+Pareces otra persona.
+
+1240
+01:09:02,430 --> 01:09:04,349
+¡Tú eres otra persona!
+
+1241
+01:09:04,391 --> 01:09:07,185
+¡Dijiste que siempre sería
+el mejor para ti! ¡Mentiste!
+
+1242
+01:09:07,227 --> 01:09:09,646
+¡Me mentiste y le mentiste a mamá!
+
+1243
+01:09:09,729 --> 01:09:11,773
+Nunca te mentí.
+
+1244
+01:09:11,857 --> 01:09:14,776
+-Tommy necesitaba mi ayuda.
+-Yo también.
+
+1245
+01:09:15,527 --> 01:09:18,738
+¿Recuerdas cuando dijiste
+que me cuide de los engaños?
+
+1246
+01:09:19,406 --> 01:09:20,490
+Sí.
+
+1247
+01:09:21,032 --> 01:09:23,910
+Tú tendrías que haberte cuidado.
+
+1248
+01:09:31,001 --> 01:09:32,711
+- ¿Adónde vas?
+-Afuera.
+
+1249
+01:09:32,752 --> 01:09:34,588
+-¿Cuándo vuelves?
+-Más tarde.
+
+1250
+01:09:34,629 --> 01:09:36,756
+-¿Más tarde? ¿Cuándo?
+-Más tarde.
+
+1251
+01:09:41,511 --> 01:09:43,805
+¡Felices fiestas, Sra. Balboa!
+
+1252
+01:09:45,432 --> 01:09:46,933
+Ocúpate tú de estos.
+
+1253
+01:09:48,935 --> 01:09:51,855
+¡Qué Papá Noel tan peculiar!
+
+1254
+01:09:53,607 --> 01:09:54,983
+¿Están perdidos?
+
+1255
+01:09:57,277 --> 01:09:59,112
+Sé perfectamente donde estoy.
+
+1256
+01:10:00,739 --> 01:10:02,282
+¡Rocko!
+
+1257
+01:10:02,365 --> 01:10:04,034
+Rocko, mira quién vino a cenar.
+
+1258
+01:10:04,117 --> 01:10:06,036
+Tommy Gunn tiene nuevos amigos.
+
+1259
+01:10:06,119 --> 01:10:08,163
+Año nuevo, amigos nuevos.
+
+1260
+01:10:08,538 --> 01:10:12,459
+Oh, por favor. Por Dios, Paulie.
+
+1261
+01:10:12,918 --> 01:10:15,086
+¡Lindo árbol! Encantador.
+
+1262
+01:10:16,212 --> 01:10:17,964
+Hola, Tommy. ¿Cómo estás?
+
+1263
+01:10:18,006 --> 01:10:20,717
+Feliz Navidad. ¡Felices fiestas!
+
+1264
+01:10:20,967 --> 01:10:21,968
+Sí. ¿Cómo estás?
+
+1265
+01:10:22,010 --> 01:10:24,471
+Oye, no quiero molestar.
+
+1266
+01:10:24,512 --> 01:10:26,514
+Sólo quería pasar a saludarlos.
+
+1267
+01:10:26,598 --> 01:10:28,892
+-No necesito regalos.
+-Dáselos a los vecinos.
+
+1268
+01:10:28,975 --> 01:10:31,811
+Has hecho un trabajo increíble.
+Es innegable.
+
+1269
+01:10:31,895 --> 01:10:35,231
+Estaría ciego si no viera
+que Tommy está para el título.
+
+1270
+01:10:35,315 --> 01:10:36,399
+¿Para el título?
+
+1271
+01:10:36,483 --> 01:10:38,735
+Así es. Juntos trabajaremos
+maravillosamente.
+
+1272
+01:10:38,818 --> 01:10:40,070
+Sin problemas.
+
+1273
+01:10:40,987 --> 01:10:42,197
+Sin roces.
+
+1274
+01:10:42,864 --> 01:10:44,866
+En armonía, ¿sí?
+
+1275
+01:10:44,950 --> 01:10:47,285
+Es hora de sumar valor y sudor.
+
+1276
+01:10:47,327 --> 01:10:51,039
+Tommy quiere discutir
+algo personal contigo.
+
+1277
+01:10:51,122 --> 01:10:53,166
+Así que yo me despido.
+
+1278
+01:10:53,208 --> 01:10:55,460
+-Feliz Navidad.
+-Feliz Navidad, Duke.
+
+1279
+01:10:56,127 --> 01:10:57,837
+-Nos vemos pronto.
+-Adiós.
+
+1280
+01:10:58,964 --> 01:11:01,967
+-Lamento el retraso. Al final, cené afuera.
+-Vamos.
+
+1281
+01:11:02,050 --> 01:11:03,843
+Está bien, Tom.
+
+1282
+01:11:03,927 --> 01:11:06,846
+Adrian cocinó algo, pero debe estar frío.
+
+1283
+01:11:06,888 --> 01:11:09,391
+Prepararemos unos emparedados.
+No cuesta...
+
+1284
+01:11:09,474 --> 01:11:11,017
+Rocky, no quiero hacer emparedados.
+
+1285
+01:11:11,059 --> 01:11:14,354
+¿Por qué viniste con él?
+
+1286
+01:11:14,396 --> 01:11:15,855
+Él quería pasar a verlos.
+
+1287
+01:11:15,939 --> 01:11:17,732
+-Tommy...
+-Rocky, ¿podemos hablar afuera
+
+1288
+01:11:17,816 --> 01:11:19,234
+acerca de unas cosas?
+
+1289
+01:11:19,317 --> 01:11:20,860
+Sí, claro.
+
+1290
+01:11:21,361 --> 01:11:23,780
+Se hace tarde.
+Debemos estar allá a las 10:00.
+
+1291
+01:11:23,863 --> 01:11:24,864
+Rocky.
+
+1292
+01:11:24,948 --> 01:11:26,282
+No. Está bien.
+
+1293
+01:11:29,953 --> 01:11:32,372
+¿Qué me querías decir?
+
+1294
+01:11:32,455 --> 01:11:34,624
+-¿Es lejos de aquí?
+-Sí.
+
+1295
+01:11:34,708 --> 01:11:36,084
+¿Qué te parece?
+
+1296
+01:11:37,377 --> 01:11:39,963
+-¿Dónde lo conseguiste?
+-Duke me lo dio.
+
+1297
+01:11:40,046 --> 01:11:41,214
+¡Tommy!
+
+1298
+01:11:41,756 --> 01:11:44,426
+Quizá deberías devolverlo.
+
+1299
+01:11:44,509 --> 01:11:46,845
+Lo sabía. Sabía que dirías eso.
+
+1300
+01:11:46,886 --> 01:11:50,056
+Devolverlo. ¿Por qué?
+Al tipo le gusta cómo peleo.
+
+1301
+01:11:50,098 --> 01:11:51,808
+-Son casi las 10:00.
+-Llegaremos.
+
+1302
+01:11:51,891 --> 01:11:55,270
+¿No ves lo que está haciendo?
+
+1303
+01:11:55,353 --> 01:11:57,605
+No dejes que se interponga entre nosotros.
+
+1304
+01:11:57,689 --> 01:11:59,858
+-Vamos por buen camino.
+-¿Que se interponga?
+
+1305
+01:11:59,899 --> 01:12:02,068
+Sólo dijo que podía conseguirme
+una oportunidad.
+
+1306
+01:12:02,152 --> 01:12:04,362
+No lo necesitamos.
+
+1307
+01:12:04,404 --> 01:12:05,905
+Llegarás por tus medios.
+
+1308
+01:12:05,947 --> 01:12:08,241
+Podrás comprarte diez autos de estos.
+
+1309
+01:12:08,324 --> 01:12:10,035
+Rock, ¿cuándo abrirás los ojos?
+
+1310
+01:12:10,076 --> 01:12:13,997
+-Perderemos el tren.
+-¿Qué tren? ¿De qué hablas?
+
+1311
+01:12:14,080 --> 01:12:15,123
+-¿Qué tren?
+-El tren del éxito.
+
+1312
+01:12:15,206 --> 01:12:17,959
+A este ritmo,
+tardaré mucho en pelear por el título.
+
+1313
+01:12:18,043 --> 01:12:19,461
+-Oye, Tommy...
+-Tengo el récord perfecto.
+
+1314
+01:12:19,544 --> 01:12:22,547
+22 a 0. ¿Y el dinero? ¿Dónde está?
+
+1315
+01:12:22,589 --> 01:12:24,591
+Aún no hemos ganado grandes sumas.
+
+1316
+01:12:24,632 --> 01:12:27,218
+-Y no las ganaremos sin él.
+-No es cuestión de dinero.
+
+1317
+01:12:27,260 --> 01:12:30,430
+El dinero va a llegar.
+Es tu reputación, Tommy.
+
+1318
+01:12:30,472 --> 01:12:32,974
+No se la vendas.
+No necesitamos a este tipo.
+
+1319
+01:12:33,058 --> 01:12:36,061
+Duke es un hombre encantador.
+Sube la capota.
+
+1320
+01:12:36,102 --> 01:12:37,729
+Olvídate de la capota, ¿quieres?
+
+1321
+01:12:37,771 --> 01:12:39,439
+Mañana firmaré contrato con él.
+
+1322
+01:12:39,481 --> 01:12:42,275
+Tommy, una vez que firmes,
+le pertenecerás.
+
+1323
+01:12:42,317 --> 01:12:45,153
+¡Perderás el control!
+¡Este negocio es sucio!
+
+1324
+01:12:45,236 --> 01:12:47,655
+¡Hay muchos ladrones y rufianes!
+
+1325
+01:12:47,739 --> 01:12:51,409
+A los novatos les prometen
+el oro y el moro.
+
+1326
+01:12:51,451 --> 01:12:55,413
+¡Les prometen el paraíso y los exprimen!
+
+1327
+01:12:55,455 --> 01:12:56,956
+Y cuando no sirven, los desechan.
+
+1328
+01:12:57,040 --> 01:12:58,750
+Los dejan en la calle.
+
+1329
+01:12:58,792 --> 01:13:00,376
+¡Así manejan el negocio!
+
+1330
+01:13:00,460 --> 01:13:02,921
+¿Sabes qué son los tipos como Duke?
+
+1331
+01:13:02,962 --> 01:13:06,758
+¡Vampiros! ¡Te está chupando la sangre!
+
+1332
+01:13:06,800 --> 01:13:09,969
+¡Intento ayudarte
+como Mick me ayudó a mí!
+
+1333
+01:13:10,053 --> 01:13:13,640
+Él me alejó de la carroña de este negocio.
+
+1334
+01:13:13,681 --> 01:13:15,183
+Como lo estoy haciendo yo contigo.
+
+1335
+01:13:15,266 --> 01:13:17,310
+¡Yo no soy tú, ni tú eres Mick!
+
+1336
+01:13:17,393 --> 01:13:18,895
+¿Cuándo vas a entenderlo?
+
+1337
+01:13:18,978 --> 01:13:20,688
+¡Esto es un negocio!
+
+1338
+01:13:20,772 --> 01:13:22,857
+-En los negocios, necesitas...
+-¿Qué? ¿Cerebro?
+
+1339
+01:13:22,941 --> 01:13:24,275
+¡Tú lo dijiste, no yo!
+
+1340
+01:13:24,317 --> 01:13:25,985
+¿Eso quieres decir?
+¿Que no tengo cerebro?
+
+1341
+01:13:26,069 --> 01:13:27,654
+Tú me llevaste hasta donde podías.
+
+1342
+01:13:27,695 --> 01:13:29,405
+Duke me ofreció el título. ¡Tú no!
+
+1343
+01:13:29,489 --> 01:13:32,283
+¡Si quieres seguir entrenándome, hazlo!
+¡Si no, no importa!
+
+1344
+01:13:32,325 --> 01:13:34,077
+¡Pero es a mi modo o nada!
+
+1345
+01:13:35,495 --> 01:13:36,704
+¡Tommy!
+
+1346
+01:13:45,463 --> 01:13:50,009
+¡Rocky! Ponte el abrigo. Ponte el abrigo.
+
+1347
+01:13:50,051 --> 01:13:52,303
+Vamos, no vale la pena.
+
+1348
+01:13:52,345 --> 01:13:54,764
+Adrian, sí vale la pena. ¡Está confundido!
+
+1349
+01:13:54,848 --> 01:13:56,057
+¡No ves lo que está pasando!
+
+1350
+01:13:56,141 --> 01:13:57,809
+¡Sí lo veo! Sí, él...
+
+1351
+01:13:57,851 --> 01:14:00,019
+Sí. ¡Duke lo está manipulando!
+
+1352
+01:14:00,103 --> 01:14:02,897
+¡A él no! ¡A ti!
+¡No puedes vivir en el pasado!
+
+1353
+01:14:02,981 --> 01:14:05,692
+¡No puedes retroceder el tiempo!
+¡Ésta es nuestra realidad!
+
+1354
+01:14:05,775 --> 01:14:08,403
+¡Sé dónde estoy parado!
+¿Crees que soy tonto?
+
+1355
+01:14:08,486 --> 01:14:10,864
+¡No soy tan tonto como crees!
+
+1356
+01:14:10,905 --> 01:14:13,199
+¿Crees que no me doy cuenta?
+
+1357
+01:14:13,283 --> 01:14:14,868
+¡Sé dónde estamos!
+
+1358
+01:14:14,951 --> 01:14:16,619
+¡Y estoy harto de esto!
+
+1359
+01:14:16,703 --> 01:14:19,539
+¡Quiero algo mejor para los míos!
+
+1360
+01:14:19,622 --> 01:14:21,040
+¡No quiero esto!
+
+1361
+01:14:21,082 --> 01:14:24,878
+¿Luché y me dejé golpear tanto
+para que éstos digan:
+
+1362
+01:14:24,961 --> 01:14:26,880
+"Ahí va Balboa,
+
+1363
+01:14:26,963 --> 01:14:29,382
+"otro infeliz más del barrio"?
+
+1364
+01:14:29,465 --> 01:14:30,800
+¡No aspiraba a esto!
+
+1365
+01:14:30,884 --> 01:14:33,595
+¡No! ¡Nadie dice eso!
+
+1366
+01:14:33,678 --> 01:14:36,973
+¡Yo lo digo, Adrian! ¡Yo sí lo digo!
+
+1367
+01:14:37,849 --> 01:14:39,851
+¿Sabes qué sentía
+cuando él estaba en el ring?
+
+1368
+01:14:39,893 --> 01:14:42,145
+¡Sentía que ganaba!
+Cuando él ganaba, yo ganaba.
+
+1369
+01:14:42,228 --> 01:14:44,063
+-¿Tú ganabas?
+-Sí. Era...
+
+1370
+01:14:44,147 --> 01:14:47,525
+Era la última oportunidad
+de que nos respeten de nuevo.
+
+1371
+01:14:47,567 --> 01:14:49,319
+-¿Sabes algo?
+-Vamos, yo te respeto.
+
+1372
+01:14:49,402 --> 01:14:51,613
+-¡Yo te respeto!
+-¡No puedes respetarme!
+
+1373
+01:14:51,696 --> 01:14:53,281
+Yo no me respeto a mí mismo.
+
+1374
+01:14:53,364 --> 01:14:54,407
+-¡Sí lo hago!
+-¡No, no puedes!
+
+1375
+01:14:54,449 --> 01:14:58,536
+Todos los golpes que recibiste en el ring,
+¡los recibí yo también!
+
+1376
+01:14:59,078 --> 01:15:00,288
+Sé cómo te sientes.
+
+1377
+01:15:00,371 --> 01:15:03,917
+Sé que cuando aparece alguien
+como Tommy, te sientes vivo.
+
+1378
+01:15:04,584 --> 01:15:07,045
+Pero él no es tú. ¡No tiene tu corazón!
+
+1379
+01:15:07,086 --> 01:15:11,549
+A todos los que venciste, los venciste
+con el corazón, no con los músculos.
+
+1380
+01:15:11,591 --> 01:15:15,094
+Eso vio Mickey en ti.
+Por eso ustedes eran distintos.
+
+1381
+01:15:15,136 --> 01:15:16,804
+¡Pero Mickey murió!
+
+1382
+01:15:17,513 --> 01:15:21,100
+Si quieres legarle algo a alguien,
+légaselo a tu hijo.
+
+1383
+01:15:21,184 --> 01:15:24,437
+¡Por Dios, tu hijo está desorientado!
+
+1384
+01:15:25,271 --> 01:15:26,606
+¡Él te necesita!
+
+1385
+01:15:27,565 --> 01:15:30,318
+Sé que Tommy te hace sentir bien.
+
+1386
+01:15:30,401 --> 01:15:33,112
+Te hace sentir que vuelves a ganar.
+
+1387
+01:15:33,196 --> 01:15:35,615
+¡Pero nos estás perdiendo!
+
+1388
+01:15:35,698 --> 01:15:38,117
+Rocky, ¡estás perdiendo a tu familia!
+
+1389
+01:15:45,792 --> 01:15:47,126
+Lo siento.
+
+1390
+01:15:48,211 --> 01:15:50,421
+Siempre fuimos tú y yo.
+
+1391
+01:15:50,463 --> 01:15:52,423
+Siempre fuimos tú y yo.
+
+1392
+01:15:54,801 --> 01:15:56,469
+Lo siento, Adrian.
+
+1393
+01:15:59,472 --> 01:16:01,015
+No sé ustedes, muchachos,
+
+1394
+01:16:02,183 --> 01:16:04,310
+pero yo me iré de este lugar.
+
+1395
+01:16:05,979 --> 01:16:07,939
+Oigan, ¿qué les parece si vamos a la playa?
+
+1396
+01:16:07,981 --> 01:16:09,065
+Sí, vamos.
+
+1397
+01:16:09,148 --> 01:16:10,775
+Genial. ¿Cómo vamos?
+
+1398
+01:16:10,817 --> 01:16:12,151
+¿Qué quieres decir con cómo vamos?
+
+1399
+01:16:12,193 --> 01:16:14,487
+Pediremos aventón.
+
+1400
+01:16:15,113 --> 01:16:16,281
+Hola.
+
+1401
+01:16:16,322 --> 01:16:17,824
+¿Y ahora qué quiere?
+
+1402
+01:16:17,907 --> 01:16:19,325
+¿Quieres que me quede?
+
+1403
+01:16:19,367 --> 01:16:20,451
+No.
+
+1404
+01:16:20,493 --> 01:16:23,204
+Ya tengo bastante con mi padre. Vamos.
+
+1405
+01:16:25,331 --> 01:16:26,958
+No va a pegarle, ¿cierto?
+
+1406
+01:16:27,000 --> 01:16:29,168
+No, no voy a pegarle.
+
+1407
+01:16:30,920 --> 01:16:33,840
+Hola, hijo. ¿Cuándo empezaste a fumar?
+
+1408
+01:16:33,881 --> 01:16:36,009
+No sé. ¿Tú nunca fumaste?
+
+1409
+01:16:36,050 --> 01:16:38,386
+Sí, hice muchas cosas malas.
+
+1410
+01:16:39,887 --> 01:16:40,972
+¿Y?
+
+1411
+01:16:42,765 --> 01:16:45,685
+Pero luego aprendí.
+
+1412
+01:16:45,727 --> 01:16:48,646
+Entonces, yo también aprenderé algún día.
+
+1413
+01:16:50,732 --> 01:16:55,903
+Quizá hoy sea un buen día
+para que empecemos a aprender juntos.
+
+1414
+01:16:56,779 --> 01:16:59,365
+-No te preocupes por eso.
+-Debo preocuparme.
+
+1415
+01:16:59,407 --> 01:17:01,909
+El trato era que íbamos a ser unidos.
+
+1416
+01:17:01,993 --> 01:17:04,871
+¿Y qué hacemos con Tommy?
+También eres unido a él.
+
+1417
+01:17:06,414 --> 01:17:07,582
+Tommy.
+
+1418
+01:17:12,128 --> 01:17:13,504
+Bueno.
+
+1419
+01:17:14,964 --> 01:17:16,716
+Eso ya pertenece al pasado.
+
+1420
+01:17:21,012 --> 01:17:22,513
+¿Recuerdas cuando
+
+1421
+01:17:23,222 --> 01:17:26,726
+me hablaste hace un tiempo
+sobre los engaños,
+
+1422
+01:17:26,768 --> 01:17:29,270
+y yo te hablaba de las trampas?
+
+1423
+01:17:29,354 --> 01:17:32,231
+Debí haberte escuchado.
+Intentaba educarte,
+
+1424
+01:17:33,024 --> 01:17:36,819
+pero tú estabas educándome a mí.
+No aprendí.
+
+1425
+01:17:36,903 --> 01:17:40,907
+No me di cuenta y me equivoqué.
+Me están ocurriendo cosas
+
+1426
+01:17:42,825 --> 01:17:45,912
+que me preocupan, ¿sabes?
+Me olvido de las cosas.
+
+1427
+01:17:46,496 --> 01:17:49,374
+Es que...
+
+1428
+01:17:51,584 --> 01:17:53,002
+Sabes...
+
+1429
+01:17:59,926 --> 01:18:01,344
+Oye, hijo.
+
+1430
+01:18:03,179 --> 01:18:06,099
+Sé que me equivoqué.
+
+1431
+01:18:07,350 --> 01:18:09,936
+Pero me gustaría
+volver a compartir cosas contigo.
+
+1432
+01:18:09,977 --> 01:18:11,521
+Sólo tú y yo.
+
+1433
+01:18:15,733 --> 01:18:19,946
+Lo juro ante Dios:
+Esta vez, seremos sólo tú y yo.
+
+1434
+01:18:22,865 --> 01:18:24,242
+¿Un equipo?
+
+1435
+01:18:26,577 --> 01:18:29,288
+Sí. Un equipo.
+
+1436
+01:18:32,458 --> 01:18:35,753
+-¿Quieres escuchar un chiste?
+-Sí, ¿por qué no?
+
+1437
+01:18:36,379 --> 01:18:39,006
+-Toc, toc.
+-¿Quién es?
+
+1438
+01:18:39,090 --> 01:18:42,051
+-Esteban Quito.
+-¿Esteban Quito?
+
+1439
+01:18:42,135 --> 01:18:45,847
+Este ban Quito es incómodo,
+¿me puedo sentar con usted?
+
+1440
+01:18:45,930 --> 01:18:49,976
+-Estás mejorando.
+-Sí, ése es bueno.
+
+1441
+01:18:50,977 --> 01:18:56,190
+PELEA
+CANE contra GUNN
+
+1442
+01:18:56,274 --> 01:18:58,985
+<i>Muchachos. Cierren las puertas</i>
+<i>y manden los niños a dormir.</i>
+
+1443
+01:18:59,068 --> 01:19:01,279
+<i>¡La guerra está por comenzar!</i>
+
+1444
+01:19:03,781 --> 01:19:04,991
+<i>El estilo de Tommy Gunn</i>
+
+1445
+01:19:05,032 --> 01:19:07,160
+<i>es tan parecido al de Rocky Balboa,</i>
+
+1446
+01:19:07,243 --> 01:19:09,787
+<i>que la prensa lo ha apodado "Superclón".</i>
+
+1447
+01:19:09,829 --> 01:19:11,664
+<i>En la esquina roja...</i>
+
+1448
+01:19:11,706 --> 01:19:14,167
+Relájate, Rocko. No se lo merece.
+
+1449
+01:19:14,250 --> 01:19:17,086
+No es por él, Paulie.
+
+1450
+01:19:17,170 --> 01:19:18,171
+<i>El fórmula uno.</i>
+
+1451
+01:19:18,254 --> 01:19:22,008
+<i>¡Tommy "Ametralladora" Gunn!</i>
+
+1452
+01:19:22,091 --> 01:19:23,342
+<i>Tommy Gunn.</i>
+
+1453
+01:19:27,597 --> 01:19:30,224
+<i>Parece que a sus seguidores no les gustó</i>
+<i>que Tommy Gunn</i>
+
+1454
+01:19:30,308 --> 01:19:32,143
+<i>abandonara a Rocky.</i>
+
+1455
+01:19:32,810 --> 01:19:35,897
+Claro que no. No le cae bien a nadie.
+
+1456
+01:19:35,980 --> 01:19:40,067
+<i>Con un peso increíble de 110 kilos,</i>
+
+1457
+01:19:40,485 --> 01:19:46,866
+<i>el actual Campeón Mundial</i>
+<i>de los Pesos Pesados: ¡Union Cane!</i>
+
+1458
+01:19:48,201 --> 01:19:49,869
+Parece que está en forma, ¿no?
+
+1459
+01:19:49,911 --> 01:19:50,953
+Sí.
+
+1460
+01:19:51,037 --> 01:19:54,415
+<i>El árbitro, Cappuccino,</i>
+<i>llama a ambos peleadores.</i>
+
+1461
+01:19:54,499 --> 01:19:56,626
+Oh, Tommy. Qué bien se te ve.
+
+1462
+01:19:56,709 --> 01:19:58,711
+Está tenso. Está nervioso.
+
+1463
+01:19:58,753 --> 01:20:01,672
+Como estaba yo en la pelea con Apollo.
+
+1464
+01:20:01,714 --> 01:20:04,175
+Rocko, él no es como tú. Nunca lo fue.
+
+1465
+01:20:04,217 --> 01:20:05,843
+Vamos, dame un respiro, ¿sí?
+
+1466
+01:20:13,142 --> 01:20:15,394
+Tommy, haz lo que te enseñé.
+
+1467
+01:20:15,478 --> 01:20:18,356
+Adelante y atrás. Lado a lado.
+No te dejes golpear.
+
+1468
+01:20:21,234 --> 01:20:23,528
+¡Aléjate de las cuerdas! ¿Estás ciego?
+
+1469
+01:20:24,987 --> 01:20:26,948
+Recibe todos los golpes.
+
+1470
+01:20:27,031 --> 01:20:28,783
+Vamos, Cane, destrúyelo. Derríbalo.
+
+1471
+01:20:28,866 --> 01:20:32,286
+¿Qué te sucede, Tommy? ¡Eso es!
+
+1472
+01:20:37,917 --> 01:20:39,043
+¡Eso es!
+
+1473
+01:20:39,919 --> 01:20:42,463
+Un golpe corto.
+Muévete hacia ambos lados.
+
+1474
+01:20:42,547 --> 01:20:45,550
+Atrás y adelante, como un péndulo.
+A ambos lados.
+
+1475
+01:20:45,591 --> 01:20:46,968
+¡Así!
+
+1476
+01:20:51,180 --> 01:20:52,431
+¡Golpe corto!
+
+1477
+01:21:00,314 --> 01:21:02,942
+¿Ves? Se acuerda de todo.
+
+1478
+01:21:03,818 --> 01:21:06,779
+Vamos, Tommy.
+Estoy a tu lado. Haz lo que yo hago.
+
+1479
+01:21:06,821 --> 01:21:09,657
+Atrás y adelante, a ambos lados.
+
+1480
+01:21:15,121 --> 01:21:16,122
+¡Vamos! ¡Vamos!
+
+1481
+01:21:16,205 --> 01:21:18,416
+Vamos. ¡Que no reaccione!
+
+1482
+01:21:18,457 --> 01:21:20,251
+¡Ataca! ¡Ataca!
+
+1483
+01:21:25,298 --> 01:21:26,632
+¡Vamos, vamos!
+
+1484
+01:21:37,101 --> 01:21:38,811
+-¡Lo tiene! ¡Cayó al piso!
+<i>-¡El campeón</i>
+
+1485
+01:21:38,894 --> 01:21:40,688
+<i>Union Cane está en la lona!</i>
+
+1486
+01:21:43,024 --> 01:21:46,152
+¡Sí!
+
+1487
+01:21:46,235 --> 01:21:47,320
+<i>Cuatro.</i>
+
+1488
+01:21:47,403 --> 01:21:48,529
+Cinco.
+
+1489
+01:21:48,613 --> 01:21:50,990
+-Seis, siete.
+-¿Qué hace?
+
+1490
+01:21:51,032 --> 01:21:52,074
+Ocho.
+
+1491
+01:21:52,158 --> 01:21:53,159
+¡Nueve!
+
+1492
+01:21:53,242 --> 01:21:54,952
+¡Diez! ¡Fuera!
+
+1493
+01:21:54,994 --> 01:21:56,078
+¡Sí!
+
+1494
+01:21:56,162 --> 01:21:57,663
+¡Bien! ¡Bien!
+
+1495
+01:21:57,747 --> 01:22:00,041
+<i>El Campeón</i>
+<i>de los Pesos Pesados, Tommy...</i>
+
+1496
+01:22:01,834 --> 01:22:02,877
+¡Sí!
+
+1497
+01:22:04,337 --> 01:22:07,381
+<i>Señoras y señores,</i>
+<i>un nuevo campeón por K.O:</i>
+
+1498
+01:22:07,465 --> 01:22:12,845
+<i>¡Tommy "Ametralladora" Gunn!</i>
+
+1499
+01:22:16,849 --> 01:22:19,602
+<i>¡Felicitaciones! Una victoria sensacional.</i>
+
+1500
+01:22:19,685 --> 01:22:22,271
+<i>Eres el Campeón del Mundo.</i>
+<i>¿Cómo te sientes?</i>
+
+1501
+01:22:22,355 --> 01:22:25,191
+<i>Nunca me sentí mejor.</i>
+<i>No sé qué le pasa a esta gente.</i>
+
+1502
+01:22:25,232 --> 01:22:29,278
+No eres un campeón.
+Eres una bolsa llena de basura.
+
+1503
+01:22:29,362 --> 01:22:30,529
+Vamos, dale un respiro.
+
+1504
+01:22:30,613 --> 01:22:33,866
+Hizo algo increíble.
+
+1505
+01:22:33,908 --> 01:22:36,494
+<i>¡Larga vida al rey! ¡Sí!</i>
+
+1506
+01:22:36,535 --> 01:22:40,456
+<i>Deseo agradecer</i>
+<i>al hombre que hizo esto posible.</i>
+
+1507
+01:22:40,539 --> 01:22:43,834
+<i>Deseo agradecer al hombre</i>
+<i>que me hizo creer que podía,</i>
+
+1508
+01:22:43,876 --> 01:22:46,128
+<i>que ha sido mi ángel guardián.</i>
+
+1509
+01:22:46,212 --> 01:22:47,755
+<i>¡El Sr. George Washington Duke!</i>
+
+1510
+01:22:47,838 --> 01:22:48,881
+<i>¡Sí!</i>
+
+1511
+01:22:50,716 --> 01:22:52,051
+<i>Ahí lo tienen,</i>
+
+1512
+01:22:52,093 --> 01:22:55,888
+<i>nuevo Campeón del Mundo,</i>
+<i>Tommy "Ametralladora" Gunn.</i>
+
+1513
+01:22:55,971 --> 01:22:58,641
+<i>Me sorprendió</i>
+
+1514
+01:22:58,724 --> 01:23:02,103
+<i>que el campeón agradeciera a Duke</i>
+<i>y no al hombre que lo formó.</i>
+
+1515
+01:23:02,186 --> 01:23:04,480
+-Sí.
+<i>-La multitud está enfadada.</i>
+
+1516
+01:23:04,563 --> 01:23:09,443
+<i>¡Rocky! ¡Rocky! ¡Rocky!</i>
+
+1517
+01:23:09,527 --> 01:23:11,404
+La TV te va a hacer mal a los ojos.
+
+1518
+01:23:11,445 --> 01:23:13,280
+Mis ojos están bien, Paulie.
+
+1519
+01:23:14,031 --> 01:23:16,033
+La TV me hace mal a los oídos.
+
+1520
+01:23:16,075 --> 01:23:17,201
+Sí.
+
+1521
+01:23:17,785 --> 01:23:19,787
+Campeón, buena pelea, ¿no?
+
+1522
+01:23:19,912 --> 01:23:21,247
+Sí, papá.
+
+1523
+01:23:21,288 --> 01:23:23,749
+Tú eres el verdadero campeón.
+Hice esto para ti.
+
+1524
+01:23:23,791 --> 01:23:25,126
+¿En serio?
+
+1525
+01:23:26,168 --> 01:23:27,503
+Es hermoso.
+
+1526
+01:23:28,754 --> 01:23:32,633
+Rocko, vayamos por unos tragos.
+Necesito compañía.
+
+1527
+01:23:32,717 --> 01:23:34,093
+Buena idea.
+
+1528
+01:23:36,137 --> 01:23:37,847
+¿Crees que debo acompañarlo?
+
+1529
+01:23:37,930 --> 01:23:39,098
+Si me dejas ver la TV.
+
+1530
+01:23:39,140 --> 01:23:43,227
+Bueno, está bien,
+puedes hacerlo.
+
+1531
+01:23:43,269 --> 01:23:45,938
+Pero no te acuestes muy tarde.
+Tus huesos tienen que crecer.
+
+1532
+01:23:46,021 --> 01:23:48,524
+-Está bien.
+-De acuerdo.
+
+1533
+01:23:49,400 --> 01:23:52,903
+-¡Qué pelea!
+-Fue increíble.
+
+1534
+01:23:52,945 --> 01:23:54,071
+Increíble.
+
+1535
+01:23:54,113 --> 01:23:57,992
+Te dije que podías darle todo,
+menos tu corazón.
+
+1536
+01:23:58,075 --> 01:24:00,286
+Está bien, Adrian. En serio.
+
+1537
+01:24:00,327 --> 01:24:02,872
+-¿Sí?
+-Sí, en serio.
+
+1538
+01:24:04,165 --> 01:24:08,210
+Oye, hijo, no te acuestes tarde.
+
+1539
+01:24:09,462 --> 01:24:10,796
+Qué pelea.
+
+1540
+01:24:12,423 --> 01:24:13,966
+¿Estás bien?
+
+1541
+01:24:14,049 --> 01:24:15,301
+Por supuesto.
+
+1542
+01:24:17,219 --> 01:24:19,138
+-No regresaré muy tarde.
+-De acuerdo.
+
+1543
+01:24:20,097 --> 01:24:21,390
+Nos vemos, campeón.
+
+1544
+01:24:21,474 --> 01:24:24,310
+Sí. Diviértete con el tío Paulie.
+
+1545
+01:24:24,393 --> 01:24:25,811
+Sí.
+
+1546
+01:24:31,817 --> 01:24:33,986
+Señoras y señores, les presento
+al flamante Campeón,
+
+1547
+01:24:34,028 --> 01:24:38,699
+al más joven de todos los tiempos,
+¡Tommy "Ametralladora" Gunn!
+
+1548
+01:24:38,783 --> 01:24:40,326
+¡Sí!
+
+1549
+01:24:40,409 --> 01:24:42,077
+¿La pelea fue demasiado fácil?
+
+1550
+01:24:42,161 --> 01:24:43,996
+Me dio unos golpes, pero no me lastimó.
+
+1551
+01:24:44,079 --> 01:24:46,207
+¡Estoy feliz de ser el campeón!
+
+1552
+01:24:46,290 --> 01:24:48,167
+¿No crees que esto se pareció
+
+1553
+01:24:48,209 --> 01:24:51,712
+más a una sesión de entrenamiento
+que a una disputa por el título?
+
+1554
+01:24:51,796 --> 01:24:53,047
+Ni siquiera sudaste.
+
+1555
+01:24:53,130 --> 01:24:56,717
+Eres muy observador.
+Union Cane no se sentía tan bien.
+
+1556
+01:24:56,801 --> 01:25:01,514
+Pero Tommy Gunn habría ganado igual
+aunque Union hubiera estado mejor.
+
+1557
+01:25:01,555 --> 01:25:04,975
+¡Vamos! Luchó como si no tuviera
+sangre en sus venas.
+
+1558
+01:25:05,017 --> 01:25:07,019
+Sabemos que Cane es
+campeón sólo en papeles.
+
+1559
+01:25:07,061 --> 01:25:08,437
+¿Qué quieres decir con eso?
+
+1560
+01:25:08,521 --> 01:25:10,523
+Que el título de Cane fue inventado.
+
+1561
+01:25:10,606 --> 01:25:11,774
+Nunca le ganó a Balboa.
+
+1562
+01:25:11,857 --> 01:25:14,068
+Denle al muchacho un descanso.
+Union Cane existe.
+
+1563
+01:25:14,151 --> 01:25:15,528
+¿Crees que alguna vez
+
+1564
+01:25:15,611 --> 01:25:17,154
+te despegarás de Balboa?
+
+1565
+01:25:17,196 --> 01:25:19,031
+¡Gané el título! ¿Qué más debo hacer?
+
+1566
+01:25:19,073 --> 01:25:20,574
+Te diré qué debes hacer.
+
+1567
+01:25:20,658 --> 01:25:22,660
+Debes enfrentar a boxeadores de verdad.
+
+1568
+01:25:22,701 --> 01:25:25,162
+-Balboa los enfrentó.
+-¡Hoy vencí al mejor!
+
+1569
+01:25:25,204 --> 01:25:26,789
+¿Al mejor? Ese tipo es un imbécil.
+
+1570
+01:25:26,872 --> 01:25:28,707
+No merece ni disputar el título.
+
+1571
+01:25:28,749 --> 01:25:31,418
+Tranquilos. Nos estamos dejando llevar.
+
+1572
+01:25:31,502 --> 01:25:34,213
+Union Cane era el campeón oficial.
+Siguiente pregunta.
+
+1573
+01:25:34,296 --> 01:25:36,882
+Se sabe que el nivel de audiencia
+se puede manipular.
+
+1574
+01:25:36,966 --> 01:25:39,844
+A lo que voy: Tommy Gunn
+venció a un boxeador de segunda
+
+1575
+01:25:39,885 --> 01:25:42,346
+con mandíbula de porcelana.
+
+1576
+01:25:42,388 --> 01:25:46,225
+Digan lo que quieran. Este hombre
+probará que es un gran campeón.
+
+1577
+01:25:46,267 --> 01:25:49,395
+Podrá ganar algunas peleas,
+pero nunca será Rocky Balboa.
+
+1578
+01:25:49,478 --> 01:25:52,606
+Él no es Rocky Balboa. Eso no se discute.
+
+1579
+01:25:52,690 --> 01:25:56,068
+Balboa sólo hay uno.
+Balboa fue el campeón del pueblo.
+
+1580
+01:25:56,151 --> 01:26:00,030
+Pero con el tiempo,
+Tommy Gunn lo igualará. La siguiente.
+
+1581
+01:26:00,072 --> 01:26:02,616
+Con inválidos como Cane, seguro que no.
+
+1582
+01:26:02,700 --> 01:26:04,368
+¡Enfrentaré a quién sea, dónde sea!
+
+1583
+01:26:04,410 --> 01:26:07,204
+¿A quién?
+¿Cuándo disputarás una pelea en serio?
+
+1584
+01:26:07,246 --> 01:26:08,914
+¡Señores! ¡Señores! ¡Por favor!
+
+1585
+01:26:08,956 --> 01:26:11,876
+Gracias por venir esta noche.
+
+1586
+01:26:11,917 --> 01:26:14,086
+¡Tommy! Tengo una idea.
+
+1587
+01:26:14,169 --> 01:26:16,755
+En tu próxima pelea,
+¿por qué no enfrentas a la pelirroja?
+
+1588
+01:26:16,797 --> 01:26:19,133
+Dicen que es fácil. ¿Qué opinas?
+
+1589
+01:26:19,925 --> 01:26:23,596
+Esperamos verlos
+en la próxima pelea de Tommy Gunn.
+
+1590
+01:26:24,179 --> 01:26:26,223
+¿Por qué dijo que Balboa es mejor?
+
+1591
+01:26:26,265 --> 01:26:27,641
+-¿Usted cree que es mejor?
+-No.
+
+1592
+01:26:27,725 --> 01:26:30,227
+No es lugar para hablar.
+Eres el campeón.
+
+1593
+01:26:30,269 --> 01:26:32,771
+¿A quién enfrentarás en tu próxima pelea?
+
+1594
+01:26:32,980 --> 01:26:34,773
+¿Qué diablos sucedió allí?
+
+1595
+01:26:34,857 --> 01:26:37,276
+¡Gané el título
+y todos creen que soy un fiasco!
+
+1596
+01:26:37,359 --> 01:26:39,069
+¿Por qué no me defendió?
+
+1597
+01:26:39,111 --> 01:26:40,696
+Cuando la prensa tiene razón, la tiene.
+
+1598
+01:26:40,779 --> 01:26:42,448
+¿Razón? ¡Soy tan bueno como Balboa!
+
+1599
+01:26:42,531 --> 01:26:43,699
+No me importa lo que digan.
+
+1600
+01:26:43,782 --> 01:26:45,326
+Estoy harto de que me llamen títere.
+
+1601
+01:26:45,409 --> 01:26:48,120
+Ni tú ni yo podemos enfrentar a la prensa.
+
+1602
+01:26:48,162 --> 01:26:49,246
+¡Cielos!
+
+1603
+01:26:49,288 --> 01:26:52,291
+Mientras no olviden a Balboa,
+él seguirá siendo el campeón.
+
+1604
+01:26:52,333 --> 01:26:54,460
+-Era un tornado en el ring.
+-Ve los hechos.
+
+1605
+01:26:54,501 --> 01:26:56,170
+Estás bajo su sombra. Y no sé si saldrás.
+
+1606
+01:26:56,253 --> 01:26:57,296
+¡Tu propia gente habla así!
+
+1607
+01:26:57,338 --> 01:26:58,505
+No, no. Escúchame.
+
+1608
+01:26:58,589 --> 01:27:00,507
+Para conseguir el respeto que mereces,
+
+1609
+01:27:00,591 --> 01:27:03,844
+debes desafiar a Balboa.
+De hombre a hombre.
+
+1610
+01:27:03,928 --> 01:27:06,680
+Cierto. ¡Podrías organizarla en el exterior
+en poco tiempo!
+
+1611
+01:27:06,764 --> 01:27:08,182
+Sería la mejor pelea de la historia.
+
+1612
+01:27:08,265 --> 01:27:11,518
+Discípulo contra maestro.
+León viejo contra león joven.
+
+1613
+01:27:11,602 --> 01:27:13,479
+Sólo así estarás tranquilo.
+
+1614
+01:27:13,520 --> 01:27:14,730
+Créeme,
+
+1615
+01:27:14,813 --> 01:27:17,024
+la prensa te torturará
+con esta leyenda del boxeo
+
+1616
+01:27:17,107 --> 01:27:19,318
+siempre que tengas los guantes.
+
+1617
+01:27:19,401 --> 01:27:21,654
+Debes lograr que suba al ring,
+
+1618
+01:27:21,695 --> 01:27:23,447
+o seguirás escuchando
+las mismas preguntas
+
+1619
+01:27:23,489 --> 01:27:24,615
+por el resto de tu vida.
+
+1620
+01:27:24,657 --> 01:27:27,076
+Comenzarás a preguntarte:
+"¿Puedo vencerlo?
+
+1621
+01:27:27,159 --> 01:27:28,452
+"¿Soy realmente bueno?
+
+1622
+01:27:28,494 --> 01:27:30,579
+"¿La gente piensa
+que soy una copia barata?
+
+1623
+01:27:30,663 --> 01:27:35,042
+"¿Un farsante? ¿Que me dieron una
+oportunidad sólo por el color de mi piel?"
+
+1624
+01:27:35,417 --> 01:27:37,836
+¡Debes desafiarlo, Tommy!
+
+1625
+01:27:37,878 --> 01:27:40,255
+Si se niega, ¡debes insultarlo!
+
+1626
+01:27:40,339 --> 01:27:42,841
+¡Debes perseguirlo, humillarlo!
+
+1627
+01:27:42,883 --> 01:27:45,052
+Haz lo que sea necesario
+para que se suba al ring.
+
+1628
+01:27:45,135 --> 01:27:46,971
+No tienes alternativa.
+
+1629
+01:27:52,434 --> 01:27:55,521
+Bien, despega.
+
+1630
+01:27:55,604 --> 01:27:58,941
+Como rayo de plata.
+Andy, esta máquina anda mal.
+
+1631
+01:27:59,024 --> 01:28:00,734
+Me costó una fortuna.
+
+1632
+01:28:00,818 --> 01:28:03,445
+¡A mí me está costando una fortuna!
+
+1633
+01:28:03,529 --> 01:28:05,447
+Rocky Balboa.
+
+1634
+01:28:05,531 --> 01:28:06,532
+¿Qué diablos es eso?
+
+1635
+01:28:06,573 --> 01:28:09,952
+Rocky Balboa, hay alguien aquí
+que desea hablar contigo.
+
+1636
+01:28:10,035 --> 01:28:11,704
+¡Rocky Balboa!
+
+1637
+01:28:14,081 --> 01:28:15,666
+Rocko, sabes quién es, ¿no?
+
+1638
+01:28:15,708 --> 01:28:16,875
+¿No es Duke?
+
+1639
+01:28:16,917 --> 01:28:18,293
+Sí, claro.
+
+1640
+01:28:20,963 --> 01:28:22,673
+Rock, ¿necesitas ayuda?
+
+1641
+01:28:22,715 --> 01:28:25,467
+No, muchachos. Esto no es un circo.
+
+1642
+01:28:29,096 --> 01:28:30,931
+Mira quién está en la calle.
+
+1643
+01:28:31,306 --> 01:28:32,891
+Hola, Tommy. ¿Qué haces aquí?
+
+1644
+01:28:32,933 --> 01:28:34,852
+Deberías estar celebrando.
+
+1645
+01:28:34,893 --> 01:28:36,228
+Te desafío a una pelea.
+
+1646
+01:28:36,311 --> 01:28:38,439
+Cuando sea, donde sea.
+
+1647
+01:28:38,522 --> 01:28:40,399
+-¿Una pelea?
+-Sí.
+
+1648
+01:28:40,441 --> 01:28:42,943
+¿Has venido aquí con estos
+
+1649
+01:28:43,027 --> 01:28:45,863
+para saber si quiero pelear?
+¿Para eso viniste?
+
+1650
+01:28:45,904 --> 01:28:49,575
+Sí, para eso vine. ¡No soy el títere
+de nadie! ¡No soy el hijito de nadie!
+
+1651
+01:28:49,616 --> 01:28:51,910
+Aceptas el desafío o eres un cobarde.
+
+1652
+01:28:53,203 --> 01:28:57,458
+Él no tiene clase. Vamos, Rock.
+
+1653
+01:28:58,459 --> 01:29:00,169
+¡No tiene clase! ¡Vamos!
+
+1654
+01:29:07,301 --> 01:29:09,511
+Oye, Paulie:
+
+1655
+01:29:09,595 --> 01:29:10,763
+¿Quieres jugar al billar?
+
+1656
+01:29:10,846 --> 01:29:13,974
+¡Oye! ¡Aún no terminé!
+
+1657
+01:29:14,058 --> 01:29:16,894
+Tommy, no tengo nada que agregar.
+
+1658
+01:29:16,935 --> 01:29:18,604
+Sólo quiero lo mejor para ti.
+
+1659
+01:29:18,645 --> 01:29:20,564
+No vengas con eso.
+¡Sólo te interesa el dinero!
+
+1660
+01:29:20,606 --> 01:29:21,607
+¿El dinero?
+
+1661
+01:29:21,690 --> 01:29:23,108
+Sí, estoy harto
+de estar en tu sombra.
+
+1662
+01:29:23,192 --> 01:29:24,193
+Dicen que soy tu títere.
+
+1663
+01:29:24,276 --> 01:29:26,403
+¿Creíste que sólo me interesaba el dinero?
+
+1664
+01:29:26,445 --> 01:29:28,864
+Se suponía que éramos como hermanos.
+
+1665
+01:29:28,947 --> 01:29:30,115
+¿Te acuerdas?
+
+1666
+01:29:30,157 --> 01:29:32,785
+Te están engañando.
+
+1667
+01:29:32,826 --> 01:29:35,412
+¡Este tipo te usó de carnada!
+
+1668
+01:29:35,454 --> 01:29:37,247
+¡Quiere que subamos los dos al ring!
+
+1669
+01:29:37,289 --> 01:29:39,291
+Eso quiere, enfrentarnos.
+
+1670
+01:29:39,333 --> 01:29:40,626
+Para hacerse rico, ¿entiendes?
+
+1671
+01:29:40,667 --> 01:29:44,129
+No se preocupa por ti, Tommy.
+Él tampoco me importa.
+
+1672
+01:29:44,213 --> 01:29:46,799
+Vamos. Ya basta de fantasía.
+Hablemos en serio.
+
+1673
+01:29:46,840 --> 01:29:50,636
+Rocky Balboa, ¿estás preparado
+para el desafío de Tommy Gunn?
+
+1674
+01:29:50,719 --> 01:29:52,054
+-Tommy.
+-Está bien.
+
+1675
+01:29:52,137 --> 01:29:53,263
+¡Oye!
+
+1676
+01:29:53,305 --> 01:29:55,349
+-¡Te hubiera ganado cuando fuera!
+-Vámonos.
+
+1677
+01:29:55,432 --> 01:29:57,267
+Tommy, eres una basura.
+
+1678
+01:29:57,309 --> 01:29:58,769
+¡No es asunto tuyo!
+
+1679
+01:29:58,811 --> 01:30:00,395
+-¿Que no es asunto mío?
+-Vamos, Paulie.
+
+1680
+01:30:00,479 --> 01:30:01,647
+¿Que no es asunto mío?
+
+1681
+01:30:01,688 --> 01:30:03,649
+-Olvídalo.
+-Este hombre sudó sangre por ti.
+
+1682
+01:30:03,732 --> 01:30:05,359
+Te antepuso a su familia,
+
+1683
+01:30:05,442 --> 01:30:09,321
+¿y tú vienes con estas ratas?
+¿No te da vergüenza?
+
+1684
+01:30:09,404 --> 01:30:11,907
+Rocky te dio una oportunidad.
+Él es el verdadero campeón.
+
+1685
+01:30:11,990 --> 01:30:13,575
+¡Me das risa!
+
+1686
+01:30:13,659 --> 01:30:15,202
+¡Sal de aquí o te rompo la cara!
+
+1687
+01:30:15,285 --> 01:30:17,204
+¡No! ¡Tommy! ¡Tommy!
+
+1688
+01:30:17,913 --> 01:30:19,164
+¡Paulie!
+
+1689
+01:30:20,249 --> 01:30:21,333
+¿Qué te sucede?
+
+1690
+01:30:21,375 --> 01:30:23,210
+No te lastimes por este imbécil.
+
+1691
+01:30:23,293 --> 01:30:24,878
+¿Estás bien?
+
+1692
+01:30:24,962 --> 01:30:27,005
+Deberías haberlo dejado en la calle.
+
+1693
+01:30:27,089 --> 01:30:29,466
+-¡Quítame las manos de encima!
+-¡Sácalo de aquí!
+
+1694
+01:30:29,508 --> 01:30:31,802
+Merlin, ¡sácalo de aquí!
+
+1695
+01:30:31,844 --> 01:30:32,886
+-¡No me toques!
+-¡Sácalo!
+
+1696
+01:30:32,970 --> 01:30:34,513
+-¡Sácalo de aquí, Merlin!
+-¡Tommy!
+
+1697
+01:30:34,596 --> 01:30:36,014
+¡No me toques!
+
+1698
+01:30:37,015 --> 01:30:40,144
+Lo noqueaste.
+¿Por qué no intentas noquearme a mí?
+
+1699
+01:30:40,185 --> 01:30:41,603
+No, en el ring, en el ring.
+
+1700
+01:30:41,687 --> 01:30:44,523
+Tommy Gunn sólo pelea en el ring.
+Salgamos de aquí.
+
+1701
+01:30:44,606 --> 01:30:45,816
+Mi ring está en la calle.
+
+1702
+01:30:45,858 --> 01:30:48,777
+¿Sí? Vamos.
+
+1703
+01:30:48,861 --> 01:30:49,945
+¡Tommy!
+
+1704
+01:30:50,028 --> 01:30:51,697
+¡En vivo!
+¡En vivo!
+
+1705
+01:30:51,780 --> 01:30:54,032
+Vamos, Rocky. Mata a ese imbécil.
+
+1706
+01:30:54,116 --> 01:30:56,118
+No vale nada. Derríbalo.
+
+1707
+01:30:56,743 --> 01:30:58,078
+Acaba con él.
+
+1708
+01:30:58,162 --> 01:30:59,830
+Es un patán, Rocky.
+
+1709
+01:30:59,872 --> 01:31:02,249
+Balboa es un luchador de la calle.
+Tú eres profesional.
+
+1710
+01:31:02,332 --> 01:31:04,168
+-No seas imbécil.
+-¡Tú no eres mi dueño!
+
+1711
+01:31:04,209 --> 01:31:05,878
+-¡Cálmate, Tommy!
+-¡Tú no eres mi dueño!
+
+1712
+01:31:05,961 --> 01:31:07,671
+¿Qué te pasa? ¡Cálmate!
+
+1713
+01:31:07,713 --> 01:31:09,256
+¡No tengo dueño!
+
+1714
+01:31:09,339 --> 01:31:10,674
+-¡Quiero mi lugar!
+-Tommy.
+
+1715
+01:31:10,716 --> 01:31:13,010
+Ven a buscarlo. Vamos, Tommy.
+
+1716
+01:31:13,677 --> 01:31:15,012
+¡Vamos, Rocky!
+
+1717
+01:31:24,897 --> 01:31:27,649
+Te quería, ¿sabes?
+
+1718
+01:31:27,733 --> 01:31:31,320
+Se suponía que éramos así, Tommy.
+
+1719
+01:31:31,737 --> 01:31:33,238
+¡Lo arruinaste!
+
+1720
+01:31:33,280 --> 01:31:34,406
+Tú...
+
+1721
+01:31:38,160 --> 01:31:40,412
+Eres siempre el campeón, Rocky.
+
+1722
+01:31:43,498 --> 01:31:45,918
+¡Un golpe con suerte!
+Es un luchador de la calle.
+
+1723
+01:31:46,001 --> 01:31:48,253
+Dije que no pelearas con rufianes.
+
+1724
+01:31:48,295 --> 01:31:50,088
+Salgamos de aquí. ¡Vamos!
+
+1725
+01:31:50,130 --> 01:31:52,424
+Siempre fuiste campeón, Rocky. Genial.
+
+1726
+01:31:52,507 --> 01:31:55,010
+¡Oye! ¡Ten cuidado!
+
+1727
+01:32:03,852 --> 01:32:04,937
+Alguien...
+
+1728
+01:32:06,146 --> 01:32:09,191
+¡Rocky, vamos! ¡Vamos, Rocky!
+
+1729
+01:32:09,274 --> 01:32:11,568
+¡Vamos, Rocky!
+
+1730
+01:32:12,361 --> 01:32:13,946
+¡Acábalo, Rocky!
+
+1731
+01:32:16,907 --> 01:32:18,617
+¡Vamos, Rocky!
+
+1732
+01:32:22,246 --> 01:32:24,081
+Rocky ¡tú puedes!
+
+1733
+01:32:24,665 --> 01:32:25,958
+¡Lo tengo!
+
+1734
+01:32:26,041 --> 01:32:27,751
+¡Vamos, Rocky!
+
+1735
+01:32:27,793 --> 01:32:29,586
+¡Levántate, Rocky!
+
+1736
+01:32:29,628 --> 01:32:31,964
+¡Es un material increíble! ¡Magnífico!
+
+1737
+01:32:32,089 --> 01:32:36,093
+¡Mamá! ¡Mamá!
+¡Papá está en la televisión! ¡Está peleando!
+
+1738
+01:32:36,176 --> 01:32:37,302
+¿Qué?
+
+1739
+01:32:38,303 --> 01:32:41,598
+¡Vamos, viejo! ¡Vamos! ¡Vamos!
+
+1740
+01:32:42,432 --> 01:32:44,977
+Vamos, Balboa.
+¿Quién es tu marioneta, ahora?
+
+1741
+01:32:45,686 --> 01:32:48,772
+-¡Vamos!
+-¡Tú puedes, Rocky! ¡Tú puedes!
+
+1742
+01:32:52,276 --> 01:32:54,319
+¡Vamos! ¡Vamos!
+
+1743
+01:32:54,611 --> 01:32:56,363
+¡Vamos!
+
+1744
+01:32:58,198 --> 01:32:59,241
+¡Vamos!
+
+1745
+01:33:06,081 --> 01:33:08,417
+-Rocky, levántate.
+-¡Vamos, Balboa!
+
+1746
+01:33:14,881 --> 01:33:16,717
+-¡Vamos!
+-¿Qué te pasa, Rock?
+
+1747
+01:33:22,264 --> 01:33:23,473
+¡Rocky!
+
+1748
+01:33:25,767 --> 01:33:26,977
+<i>¡Fuera!</i>
+
+1749
+01:33:29,354 --> 01:33:31,315
+Si muere, muere.
+
+1750
+01:33:31,773 --> 01:33:34,359
+Levántate ahora. Un round más.
+
+1751
+01:33:35,610 --> 01:33:37,237
+<i>¡Oye, Balboa!</i>
+
+1752
+01:33:38,196 --> 01:33:40,699
+¡Levántate! ¡No aflojes! ¡Dale su merecido!
+
+1753
+01:33:40,741 --> 01:33:42,534
+¡Vamos! ¡Vamos!
+
+1754
+01:33:43,076 --> 01:33:45,245
+No es una ametralladora.
+¡No oí la campana!
+
+1755
+01:33:45,329 --> 01:33:49,166
+¡Levántate, maldito! Mickey te quiere.
+
+1756
+01:33:52,252 --> 01:33:54,796
+Vamos, muchacho. Está bien.
+Eres el campeón.
+
+1757
+01:34:00,761 --> 01:34:02,137
+¡Tommy!
+
+1758
+01:34:05,474 --> 01:34:07,059
+No oí la campana.
+
+1759
+01:34:08,185 --> 01:34:10,228
+Tommy. Un round más.
+
+1760
+01:34:10,270 --> 01:34:12,439
+Vamos, Tommy.
+Levántate. ¡Levántate, muchacho!
+
+1761
+01:34:12,522 --> 01:34:13,732
+Tommy, no necesitas esto.
+
+1762
+01:34:13,815 --> 01:34:15,400
+¡Tommy! ¡Si pierdes, estás acabado!
+
+1763
+01:34:15,484 --> 01:34:17,152
+Un round más. ¡Vamos!
+
+1764
+01:34:18,070 --> 01:34:19,988
+No te voy a noquear esta vez.
+
+1765
+01:34:20,530 --> 01:34:22,324
+Te voy a mandar al otro lado de la calle.
+
+1766
+01:34:22,407 --> 01:34:23,617
+Un round más.
+
+1767
+01:34:24,242 --> 01:34:26,912
+¡Vamos, Rocky! ¡Vamos!
+
+1768
+01:34:35,754 --> 01:34:37,089
+Vamos, Tommy.
+
+1769
+01:34:42,761 --> 01:34:44,096
+¡Vamos!
+
+1770
+01:34:59,277 --> 01:35:00,779
+¡Vamos!
+
+1771
+01:35:02,322 --> 01:35:04,324
+Vamos, Tommy. ¡Vamos!
+
+1772
+01:35:13,417 --> 01:35:15,127
+Si me tocas, te demando.
+
+1773
+01:35:17,504 --> 01:35:18,964
+Bien, Rocky.
+
+1774
+01:35:20,966 --> 01:35:22,592
+¿Qué diablos estás haciendo?
+
+1775
+01:35:22,634 --> 01:35:24,469
+¡Levántate!
+
+1776
+01:35:27,431 --> 01:35:29,015
+-¡Rocko!
+-Vamos a casa.
+
+1777
+01:35:32,561 --> 01:35:34,062
+¡Así es, Rocky!
+
+1778
+01:35:48,660 --> 01:35:51,329
+¡Vamos, noquea a ese imbécil!
+¡Se quedó con mi cuarto!
+
+1779
+01:35:51,371 --> 01:35:53,206
+Tu derecha. ¡Usa la derecha!
+
+1780
+01:35:55,750 --> 01:35:57,669
+¡Un golpe corto! ¡Vamos!
+
+1781
+01:35:59,796 --> 01:36:02,299
+¡Estás tirando todo por la borda!
+
+1782
+01:36:04,176 --> 01:36:06,178
+¡Vamos, papá! ¡Puedes vencerlo!
+
+1783
+01:36:09,598 --> 01:36:12,017
+¡Defiéndete, imbécil! ¡Defiéndete!
+
+1784
+01:36:20,358 --> 01:36:21,526
+¡Alto!
+
+1785
+01:36:23,028 --> 01:36:24,237
+¡Rocky!
+
+1786
+01:36:25,197 --> 01:36:27,032
+¡Vamos!
+
+1787
+01:36:27,532 --> 01:36:29,284
+Vamos, papá. ¡Ve por él!
+
+1788
+01:36:32,496 --> 01:36:34,956
+¡Rocky! ¡Rocky! ¡Rocky!
+
+1789
+01:36:35,040 --> 01:36:36,750
+¡Derríbalo, papá! ¡Vamos!
+
+1790
+01:36:46,843 --> 01:36:48,553
+¡Derríbalo, papá! ¡Vamos!
+
+1791
+01:36:49,930 --> 01:36:52,724
+¡Rocky! ¡Rocky! ¡Rocky!
+
+1792
+01:36:55,894 --> 01:36:57,229
+¡Ve por él!
+
+1793
+01:37:11,284 --> 01:37:12,285
+¡Papá!
+
+1794
+01:37:12,953 --> 01:37:16,498
+¡Rocky! ¡Rocky! ¡Rocky!
+
+1795
+01:37:17,749 --> 01:37:20,585
+Adrian, tenías razón. Tenías razón.
+
+1796
+01:37:24,839 --> 01:37:26,591
+¡Maldición!
+
+1797
+01:37:28,969 --> 01:37:30,387
+Sólo en los EUA.
+
+1798
+01:37:37,060 --> 01:37:40,146
+¡Oye, Rock! Superaste al imbécil.
+
+1799
+01:37:43,608 --> 01:37:46,069
+¡Sí!
+
+1800
+01:37:46,111 --> 01:37:47,946
+Rocky, vamos. No.
+
+1801
+01:37:48,029 --> 01:37:49,114
+Duke.
+
+1802
+01:37:50,782 --> 01:37:52,450
+Si me tocas, te demando.
+
+1803
+01:37:54,703 --> 01:37:56,037
+Vamos, patán.
+
+1804
+01:37:56,121 --> 01:37:58,248
+Tócame, y te demandaré.
+
+1805
+01:38:07,966 --> 01:38:09,467
+¿Demandarme por qué?
+
+1806
+01:38:13,680 --> 01:38:15,307
+¡Rocky! ¡Rocky!
+
+1807
+01:38:17,809 --> 01:38:19,185
+Hola, Padre.
+
+1808
+01:38:21,146 --> 01:38:22,897
+Me encanta cuando hace eso.
+
+1809
+01:38:24,149 --> 01:38:27,861
+¡Rocky! ¡Rocky!
+
+1810
+01:38:40,540 --> 01:38:42,459
+¡Vamos, papá! ¡Llegaremos tarde!
+
+1811
+01:38:42,500 --> 01:38:45,003
+¡Vamos, Speedy González! ¡Vamos!
+
+1812
+01:38:48,840 --> 01:38:50,717
+Puedes correr más rápido.
+
+1813
+01:38:50,800 --> 01:38:51,926
+Ni loco.
+
+1814
+01:38:53,136 --> 01:38:56,514
+No sé. Estos escalones parecen
+más altos cada año.
+
+1815
+01:38:56,556 --> 01:38:58,016
+Dios mío.
+
+1816
+01:38:59,601 --> 01:39:00,935
+Mira esto, hijo.
+
+1817
+01:39:01,019 --> 01:39:02,520
+Mientras esté aquí,
+
+1818
+01:39:02,604 --> 01:39:05,315
+las palomas tendrán
+un lugar para sentarse.
+
+1819
+01:39:05,357 --> 01:39:08,902
+No lo puedo creer.
+Aquí empezó todo para mí, hijo.
+
+1820
+01:39:08,985 --> 01:39:10,695
+Subiendo y bajando por estos escalones.
+
+1821
+01:39:10,737 --> 01:39:11,863
+Papá.
+
+1822
+01:39:11,905 --> 01:39:13,740
+-¿Sí?
+-Llegaremos tarde.
+
+1823
+01:39:13,823 --> 01:39:15,283
+Bien.
+
+1824
+01:39:15,367 --> 01:39:17,494
+Un momento. ¿Qué le pasa a tu oreja?
+
+1825
+01:39:17,535 --> 01:39:18,620
+¿Qué le pasa?
+
+1826
+01:39:18,703 --> 01:39:21,665
+Parece que tuvieras algo en la oreja.
+
+1827
+01:39:21,706 --> 01:39:23,792
+¿Qué cosa?
+
+1828
+01:39:23,875 --> 01:39:25,168
+Esto.
+
+1829
+01:39:29,214 --> 01:39:30,632
+Gracias, papá.
+
+1830
+01:39:30,715 --> 01:39:33,885
+Te lo mereces. Gracias por haber nacido.
+
+1831
+01:39:34,719 --> 01:39:36,513
+Gracias. Gracias.
+
+1832
+01:39:37,389 --> 01:39:39,599
+¿Qué te parece mi nueva imagen?
+
+1833
+01:39:40,183 --> 01:39:41,810
+Bueno,
+
+1834
+01:39:41,893 --> 01:39:44,062
+pareces la hija que siempre quise tener.
+
+1835
+01:39:44,104 --> 01:39:46,147
+-¿De qué hablas?
+-Vamos, vamos.
+
+1836
+01:39:46,231 --> 01:39:49,359
+Oye, no me golpees. La edad no viene sola.
+
+1837
+01:39:49,401 --> 01:39:50,777
+Mira esto.
+
+1838
+01:39:50,860 --> 01:39:53,738
+Corrí por estos escalones durante 20 años
+
+1839
+01:39:53,780 --> 01:39:57,158
+y nunca supe
+que había obras de arte en ese edificio.
+
+1840
+01:39:57,242 --> 01:39:58,868
+Nunca es tarde para aprender.
+
+1841
+01:39:58,910 --> 01:39:59,953
+Sí.
+
+1842
+01:40:00,036 --> 01:40:01,705
+-Picasso te va a gustar.
+-¿Sí?
+
+1843
+01:40:01,746 --> 01:40:04,290
+Bueno, a mí me gusta casi todo el mundo.
