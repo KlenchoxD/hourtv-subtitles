@@ -1,0 +1,5479 @@
+1
+00:00:34,717 --> 00:00:36,678
+<font face="sans-serif" size="52"><i>Esto... es Berk.</i></font>
+
+2
+00:00:38,304 --> 00:00:41,516
+<font face="sans-serif" size="52"><i>Tan alejado de todo,
+que hasta podría no existir.</i></font>
+
+3
+00:00:43,101 --> 00:00:46,979
+<font face="sans-serif" size="52"><i>Mi pueblo, en una palabra: tenaz.</i></font>
+
+4
+00:00:46,980 --> 00:00:51,191
+<font face="sans-serif" size="52"><i>Ha estado aquí por generaciones,
+pero todas las casas son nuevas.</i></font>
+
+5
+00:00:51,192 --> 00:00:55,654
+<font face="sans-serif" size="52"><i>El aire es fresco, el agua limpia,
+y no tengo queja del paisaje.</i></font>
+
+6
+00:00:55,655 --> 00:00:57,949
+<font face="sans-serif" size="52"><i>Lo único malo son las plagas.</i></font>
+
+7
+00:01:05,874 --> 00:01:09,502
+<font face="sans-serif" size="52"><i>Verán, en muchos lugares
+hay ratones o mosquitos.</i></font>
+
+8
+00:01:10,169 --> 00:01:11,796
+<font face="sans-serif" size="52"><i>Nosotros tenemos</i>...</font>
+
+9
+00:01:16,885 --> 00:01:18,011
+<font face="sans-serif" size="52">Dragones.</font>
+
+10
+00:01:22,724 --> 00:01:24,267
+<font face="sans-serif" size="52"><i>La mayoría se mudaría.</i></font>
+
+11
+00:01:24,976 --> 00:01:26,268
+<font face="sans-serif" size="52"><i>Nosotros no.</i></font>
+
+12
+00:01:26,269 --> 00:01:27,604
+<font face="sans-serif" size="52"><i>Somos vikingos.</i></font>
+
+13
+00:01:28,188 --> 00:01:30,147
+<font face="sans-serif" size="52"><i>No evitamos las peleas. Las empezamos.</i></font>
+
+14
+00:01:30,148 --> 00:01:31,815
+<font face="sans-serif" size="52">- ¡Hipo!
+- ¡Buenas tardes!</font>
+
+15
+00:01:31,816 --> 00:01:34,401
+<font face="sans-serif" size="52">- ¡Vete a casa!
+- Ya voy, sólo déjame...</font>
+
+16
+00:01:34,402 --> 00:01:36,571
+<font face="sans-serif" size="52">¡Otra vez estás estorbando!</font>
+
+17
+00:01:39,699 --> 00:01:41,366
+<font face="sans-serif" size="52">¡Hipo, hazte el muerto!</font>
+
+18
+00:01:41,367 --> 00:01:43,912
+<font face="sans-serif" size="52"><i>Es que los dragones han sido un problema</i></font>
+
+19
+00:01:44,579 --> 00:01:47,122
+<font face="sans-serif" size="52"><i>aquí y, bueno</i>... <i>en todos lados.</i></font>
+
+20
+00:01:47,123 --> 00:01:49,292
+<font face="sans-serif" size="52"><i>Así que decidimos pelear contra ellos.</i></font>
+
+21
+00:01:50,585 --> 00:01:52,419
+<font face="sans-serif" size="52"><i>¿Y eso cómo nos ha funcionado?</i></font>
+
+22
+00:01:52,420 --> 00:01:53,462
+<font face="sans-serif" size="52">¡Auxilio!</font>
+
+23
+00:01:53,463 --> 00:01:54,547
+<font face="sans-serif" size="52"><i>Eh</i>...</font>
+
+24
+00:01:59,510 --> 00:02:00,719
+<font face="sans-serif" size="52">¿Qué estás haciendo?</font>
+
+25
+00:02:00,720 --> 00:02:02,972
+<font face="sans-serif" size="52">¿Qué hace otra vez afuera?</font>
+
+26
+00:02:03,473 --> 00:02:05,099
+<font face="sans-serif" size="52">Regresa adentro. Corre.</font>
+
+27
+00:02:05,934 --> 00:02:08,309
+<font face="sans-serif" size="52"><i>Él es Estoico el Vasto,</i></font>
+
+28
+00:02:08,310 --> 00:02:09,479
+<font face="sans-serif" size="52"><i>jefe de la tribu.</i></font>
+
+29
+00:02:10,939 --> 00:02:12,147
+<font face="sans-serif" size="52"><i>Dicen que cuando era bebé,</i></font>
+
+30
+00:02:12,148 --> 00:02:15,317
+<font face="sans-serif" size="52"><i>le arrancó la cabeza
+a un dragón desde los hombros.</i></font>
+
+31
+00:02:15,318 --> 00:02:16,903
+<font face="sans-serif" size="52"><i>¿Que si lo creo?</i></font>
+
+32
+00:02:18,738 --> 00:02:19,696
+<font face="sans-serif" size="52"><i>Claro que sí.</i></font>
+
+33
+00:02:19,697 --> 00:02:20,782
+<font face="sans-serif" size="52">¿Qué tenemos?</font>
+
+34
+00:02:21,533 --> 00:02:24,368
+<font face="sans-serif" size="52">Gronckles, Nadders, Cremallerus, Skrills.</font>
+
+35
+00:02:24,369 --> 00:02:26,620
+<font face="sans-serif" size="52">Roncón vio un Pesadilla Monstruosa.</font>
+
+36
+00:02:26,621 --> 00:02:28,830
+<font face="sans-serif" size="52">- ¿Algún Furia Nocturna?
+- Aún no, jefe.</font>
+
+37
+00:02:28,831 --> 00:02:29,916
+<font face="sans-serif" size="52">Bien.</font>
+
+38
+00:02:31,042 --> 00:02:32,793
+<font face="sans-serif" size="52">- Síganme.
+- Sí, jefe.</font>
+
+39
+00:02:32,794 --> 00:02:34,628
+<font face="sans-serif" size="52">¡A ver, bestias!</font>
+
+40
+00:02:34,629 --> 00:02:36,714
+<font face="sans-serif" size="52">¡Ya lo escucharon! ¡A la carga!</font>
+
+41
+00:02:40,552 --> 00:02:41,635
+<font face="sans-serif" size="52">¿Afuera otra vez?</font>
+
+42
+00:02:41,636 --> 00:02:43,595
+<font face="sans-serif" size="52">Finge... que no estoy aquí.</font>
+
+43
+00:02:43,596 --> 00:02:45,847
+<font face="sans-serif" size="52">Me iré antes de que puedas decir...</font>
+
+44
+00:02:45,848 --> 00:02:47,475
+<font face="sans-serif" size="52">No tan rápido.</font>
+
+45
+00:02:48,142 --> 00:02:49,560
+<font face="sans-serif" size="52">¡Bocón, por favor!</font>
+
+46
+00:02:49,561 --> 00:02:52,813
+<font face="sans-serif" size="52"><i>Este cabeza hueca bravucón
+con manos intercambiables, es Bocón.</i></font>
+
+47
+00:02:52,814 --> 00:02:54,231
+<font face="sans-serif" size="52">Toma. Trabaja.</font>
+
+48
+00:02:54,232 --> 00:02:56,316
+<font face="sans-serif" size="52"><i>He sido su aprendiz desde que era niño.</i></font>
+
+49
+00:02:56,317 --> 00:02:57,943
+<font face="sans-serif" size="52">Te estaré vigilando.</font>
+
+50
+00:02:57,944 --> 00:02:59,612
+<font face="sans-serif" size="52">Yo no debería estar aquí.</font>
+
+51
+00:03:00,154 --> 00:03:01,864
+<font face="sans-serif" size="52">¿Y eso cuándo te ha detenido?</font>
+
+52
+00:03:01,865 --> 00:03:03,156
+<font face="sans-serif" size="52">- ¡Rápido!
+- ¡Arréglala!</font>
+
+53
+00:03:03,157 --> 00:03:04,616
+<font face="sans-serif" size="52">¡No me dejas ver!</font>
+
+54
+00:03:04,617 --> 00:03:06,994
+<font face="sans-serif" size="52">- Cuiden las reservas de comida.
+- Sí, jefe.</font>
+
+55
+00:03:06,995 --> 00:03:09,162
+<font face="sans-serif" size="52">- Protejan a las ovejas.
+- Sí, Estoico.</font>
+
+56
+00:03:09,163 --> 00:03:11,583
+<font face="sans-serif" size="52">Y estén muy atentos a los Furia Nocturna.</font>
+
+57
+00:03:20,341 --> 00:03:21,342
+<font face="sans-serif" size="52">Martillo.</font>
+
+58
+00:03:30,059 --> 00:03:31,059
+<font face="sans-serif" size="52">¡Brigada de fuego!</font>
+
+59
+00:03:31,060 --> 00:03:34,479
+<font face="sans-serif" size="52"><i>La brigada de fuego.
+Los niños</i> cool <i>de Berk.</i></font>
+
+60
+00:03:34,480 --> 00:03:36,441
+<font face="sans-serif" size="52"><i>Ellos sí pueden estar en la acción.</i></font>
+
+61
+00:03:37,108 --> 00:03:38,985
+<font face="sans-serif" size="52">¡Oigan, muévanse!</font>
+
+62
+00:03:40,570 --> 00:03:42,655
+<font face="sans-serif" size="52"><i>Pero no son nada sin su capitana.</i></font>
+
+63
+00:03:43,239 --> 00:03:46,200
+<font face="sans-serif" size="52"><i>La estrella más brillante
+de nuestra generación,</i></font>
+
+64
+00:03:46,201 --> 00:03:48,578
+<font face="sans-serif" size="52"><i>maravillosa sin siquiera intentarlo.</i></font>
+
+65
+00:03:49,662 --> 00:03:51,414
+<font face="sans-serif" size="52"><i>La que los eclipsa a todos</i>...</font>
+
+66
+00:03:54,334 --> 00:03:55,376
+<font face="sans-serif" size="52"><i>Astrid.</i></font>
+
+67
+00:04:09,224 --> 00:04:10,058
+<font face="sans-serif" size="52">¿Qué?</font>
+
+68
+00:04:12,060 --> 00:04:13,353
+<font face="sans-serif" size="52">¿No deberías estar en la cama?</font>
+
+69
+00:04:16,855 --> 00:04:17,941
+<font face="sans-serif" size="52">Hipo, a trabajar.</font>
+
+70
+00:04:19,442 --> 00:04:22,945
+<font face="sans-serif" size="52">Tengo que ir con ellos.
+Mostrar quién soy, dejar mi huella.</font>
+
+71
+00:04:22,946 --> 00:04:25,614
+<font face="sans-serif" size="52">Ya has dejado muchas huellas
+en los lugares equivocados.</font>
+
+72
+00:04:25,615 --> 00:04:27,783
+<font face="sans-serif" size="52">Dame dos minutos.
+Si asesino un dragón,</font>
+
+73
+00:04:27,784 --> 00:04:30,245
+<font face="sans-serif" size="52">mi vida será infinitamente mejor.</font>
+
+74
+00:04:30,828 --> 00:04:31,995
+<font face="sans-serif" size="52">Tal vez consiga novia.</font>
+
+75
+00:04:31,996 --> 00:04:33,497
+<font face="sans-serif" size="52">¡Te persigue un Cremallerus!</font>
+
+76
+00:04:33,498 --> 00:04:34,998
+<font face="sans-serif" size="52">¿Astrid?</font>
+
+77
+00:04:34,999 --> 00:04:36,917
+<font face="sans-serif" size="52">Pero ella sí es una vikinga.</font>
+
+78
+00:04:36,918 --> 00:04:39,836
+<font face="sans-serif" size="52">Tú no puedes cargar un martillo,
+ni empuñar un hacha.</font>
+
+79
+00:04:39,837 --> 00:04:41,797
+<font face="sans-serif" size="52">Y menos lanzar una de estas.</font>
+
+80
+00:04:41,798 --> 00:04:44,341
+<font face="sans-serif" size="52">Sí, pero esto...
+esto la va a lanzar por mí.</font>
+
+81
+00:04:44,342 --> 00:04:47,262
+<font face="sans-serif" size="52">- Una más.
+- Es un nuevo... rediseño.</font>
+
+82
+00:04:49,847 --> 00:04:52,140
+<font face="sans-serif" size="52">- Es...
+- ¡Hipo!</font>
+
+83
+00:04:52,141 --> 00:04:53,393
+<font face="sans-serif" size="52">de doble cañón.</font>
+
+84
+00:04:54,060 --> 00:04:55,227
+<font face="sans-serif" size="52">Es justo eso</font>
+
+85
+00:04:55,228 --> 00:04:57,271
+<font face="sans-serif" size="52">a lo que me refiero.</font>
+
+86
+00:04:57,272 --> 00:04:58,897
+<font face="sans-serif" size="52">Puedo mejorar la calibración.</font>
+
+87
+00:04:58,898 --> 00:05:01,358
+<font face="sans-serif" size="52">Si quieres salir
+y empezar a pelear dragones,</font>
+
+88
+00:05:01,359 --> 00:05:02,819
+<font face="sans-serif" size="52">tienes que dejar de ser...</font>
+
+89
+00:05:03,528 --> 00:05:04,571
+<font face="sans-serif" size="52">todo esto.</font>
+
+90
+00:05:05,280 --> 00:05:06,864
+<font face="sans-serif" size="52">Me señalaste completo.</font>
+
+91
+00:05:06,865 --> 00:05:09,117
+<font face="sans-serif" size="52">Sí. Tienes que dejar de ser tú.</font>
+
+92
+00:05:10,869 --> 00:05:11,994
+<font face="sans-serif" size="52">Ah, ¿qué?</font>
+
+93
+00:05:11,995 --> 00:05:14,788
+<font face="sans-serif" size="52">Tú... estás jugando con fuego,</font>
+
+94
+00:05:14,789 --> 00:05:16,457
+<font face="sans-serif" size="52">conteniéndome así.</font>
+
+95
+00:05:17,000 --> 00:05:18,792
+<font face="sans-serif" size="52">¡Pues habrá consecuencias!</font>
+
+96
+00:05:18,793 --> 00:05:21,713
+<font face="sans-serif" size="52">Pues... me la voy a jugar.</font>
+
+97
+00:05:22,797 --> 00:05:24,799
+<font face="sans-serif" size="52">Espada, afílala, ahora.</font>
+
+98
+00:05:27,218 --> 00:05:28,595
+<font face="sans-serif" size="52"><i>Algún día saldré a pelear.</i></font>
+
+99
+00:05:29,929 --> 00:05:33,600
+<font face="sans-serif" size="52"><i>Porque matar a un dragón...
+lo es todo por aquí.</i></font>
+
+100
+00:05:35,059 --> 00:05:36,768
+<font face="sans-serif" size="52"><i>Los Gronckles son rudos.</i></font>
+
+101
+00:05:36,769 --> 00:05:39,147
+<font face="sans-serif" size="52"><i>Matar a uno al menos me haría destacar.</i></font>
+
+102
+00:05:42,108 --> 00:05:43,483
+<font face="sans-serif" size="52"><i>¿Un Cremallerus?</i></font>
+
+103
+00:05:43,484 --> 00:05:45,278
+<font face="sans-serif" size="52"><i>Exótico, emocionante.</i></font>
+
+104
+00:05:47,488 --> 00:05:49,324
+<font face="sans-serif" size="52"><i>Dos cabezas, el doble de estatus.</i></font>
+
+105
+00:05:50,867 --> 00:05:54,537
+<font face="sans-serif" size="52"><i>Cortarle la cabeza a un Nadder
+demostraría que soy uno de ellos.</i></font>
+
+106
+00:06:00,543 --> 00:06:01,711
+<font face="sans-serif" size="52">¡Sigan peleando!</font>
+
+107
+00:06:02,378 --> 00:06:03,545
+<font face="sans-serif" size="52">Hallaron a las ovejas.</font>
+
+108
+00:06:03,546 --> 00:06:05,882
+<font face="sans-serif" size="52">Atáquenlos con todo lo que tenemos.</font>
+
+109
+00:06:10,637 --> 00:06:13,556
+<font face="sans-serif" size="52"><i>Y luego... está la Pesadilla Monstruosa.</i></font>
+
+110
+00:06:15,725 --> 00:06:16,683
+<font face="sans-serif" size="52">¡Recarguen!</font>
+
+111
+00:06:16,684 --> 00:06:19,103
+<font face="sans-serif" size="52"><i>Sólo los mejores vikingos
+se enfrentan a ellos.</i></font>
+
+112
+00:06:24,984 --> 00:06:29,030
+<font face="sans-serif" size="52"><i>Pero el máximo trofeo es el dragón
+que nadie ha visto jamás.</i></font>
+
+113
+00:06:29,864 --> 00:06:30,697
+<font face="sans-serif" size="52"><i>Le decimos</i>...</font>
+
+114
+00:06:30,698 --> 00:06:32,115
+<font face="sans-serif" size="52">¡Furia Nocturna!</font>
+
+115
+00:06:32,116 --> 00:06:33,368
+<font face="sans-serif" size="52">¡Salten!</font>
+
+116
+00:06:37,997 --> 00:06:40,123
+<font face="sans-serif" size="52">Y... tenemos un Furia Nocturna.</font>
+
+117
+00:06:40,124 --> 00:06:43,044
+<font face="sans-serif" size="52">Nunca roba comida. Nunca se deja ver.</font>
+
+118
+00:06:43,711 --> 00:06:45,129
+<font face="sans-serif" size="52">Y nunca falla.</font>
+
+119
+00:06:46,172 --> 00:06:48,882
+<font face="sans-serif" size="52">¡Son demasiados! ¡Rápido!</font>
+
+120
+00:06:48,883 --> 00:06:50,677
+<font face="sans-serif" size="52">Es hora de que Bocón entre en acción.</font>
+
+121
+00:06:52,011 --> 00:06:53,011
+<font face="sans-serif" size="52">¡...salvar el rebaño!</font>
+
+122
+00:06:53,012 --> 00:06:54,596
+<font face="sans-serif" size="52">Quédate aquí.</font>
+
+123
+00:06:54,597 --> 00:06:56,223
+<font face="sans-serif" size="52">No te muevas. Es en serio.</font>
+
+124
+00:06:56,224 --> 00:06:58,684
+<font face="sans-serif" size="52"><i>Nadie jamás,
+ha matado a un Furia Nocturna.</i></font>
+
+125
+00:06:58,685 --> 00:07:00,686
+<font face="sans-serif" size="52">¡Ataquen!</font>
+
+126
+00:07:00,687 --> 00:07:02,689
+<font face="sans-serif" size="52"><i>Y por eso, yo seré el primero.</i></font>
+
+127
+00:07:04,649 --> 00:07:07,234
+<font face="sans-serif" size="52">- ¿Tú otra vez? ¡Vuelve adentro!
+- Haré que valga la pena.</font>
+
+128
+00:07:07,235 --> 00:07:09,152
+<font face="sans-serif" size="52">¡Vas a hacer que te maten, Hipo!</font>
+
+129
+00:07:09,153 --> 00:07:10,905
+<font face="sans-serif" size="52">¡Ya sé! Perdón.</font>
+
+130
+00:07:15,159 --> 00:07:16,494
+<font face="sans-serif" size="52">A ver, dame eso.</font>
+
+131
+00:07:23,209 --> 00:07:24,626
+<font face="sans-serif" size="52">¡Tengan cuidado!</font>
+
+132
+00:07:24,627 --> 00:07:27,297
+<font face="sans-serif" size="52">¡A este Nadder aún le queda fuego!</font>
+
+133
+00:07:38,224 --> 00:07:41,519
+<font face="sans-serif" size="52">Déjate ver.
+Dame un blanco. Dame un blanco.</font>
+
+134
+00:07:43,855 --> 00:07:45,273
+<font face="sans-serif" size="52">¿Por qué no apareces?</font>
+
+135
+00:07:59,078 --> 00:08:00,288
+<font face="sans-serif" size="52">Le di.</font>
+
+136
+00:08:05,627 --> 00:08:06,668
+<font face="sans-serif" size="52">¡Le di!</font>
+
+137
+00:08:06,669 --> 00:08:08,213
+<font face="sans-serif" size="52">¿Alguien vio eso?</font>
+
+138
+00:08:10,298 --> 00:08:11,633
+<font face="sans-serif" size="52">Aparte de ti.</font>
+
+139
+00:08:15,303 --> 00:08:16,930
+<font face="sans-serif" size="52">¡Ay, dioses!</font>
+
+140
+00:08:18,556 --> 00:08:21,434
+<font face="sans-serif" size="52">Patón, no dejes que escape.</font>
+
+141
+00:08:22,519 --> 00:08:23,520
+<font face="sans-serif" size="52">Gracias.</font>
+
+142
+00:08:49,045 --> 00:08:50,254
+<font face="sans-serif" size="52">¿Ya se te acabó?</font>
+
+143
+00:08:50,255 --> 00:08:52,423
+<font face="sans-serif" size="52">A ver de qué estás hecho.</font>
+
+144
+00:09:10,608 --> 00:09:12,610
+<font face="sans-serif" size="52">Sí, eso creí.</font>
+
+145
+00:09:15,029 --> 00:09:17,782
+<font face="sans-serif" size="52"><i>Y se me olvidaba un detalle importante.</i></font>
+
+146
+00:09:20,410 --> 00:09:21,703
+<font face="sans-serif" size="52">¡Cuidado!</font>
+
+147
+00:09:31,629 --> 00:09:33,590
+<font face="sans-serif" size="52">Perdón, papá.</font>
+
+148
+00:09:36,009 --> 00:09:37,635
+<font face="sans-serif" size="52">¡Cuidado!</font>
+
+149
+00:09:50,899 --> 00:09:52,317
+<font face="sans-serif" size="52">Pero le di a un Furia Nocturna.</font>
+
+150
+00:09:53,401 --> 00:09:56,404
+<font face="sans-serif" size="52">Papá, no es como las otras veces.
+Le di de verdad.</font>
+
+151
+00:09:56,946 --> 00:09:59,489
+<font face="sans-serif" size="52">Sí, a un dragón que nadie ha visto jamás.</font>
+
+152
+00:09:59,490 --> 00:10:01,658
+<font face="sans-serif" size="52">Porque usa la noche como camuflaje.</font>
+
+153
+00:10:01,659 --> 00:10:04,036
+<font face="sans-serif" size="52">Si te fijas,
+al volar tapa las estrellas.</font>
+
+154
+00:10:04,037 --> 00:10:05,162
+<font face="sans-serif" size="52">Así logré derribarlo.</font>
+
+155
+00:10:05,163 --> 00:10:06,372
+<font face="sans-serif" size="52">¡Basta ya!</font>
+
+156
+00:10:07,332 --> 00:10:08,666
+<font face="sans-serif" size="52">¡Basta!</font>
+
+157
+00:10:10,043 --> 00:10:12,794
+<font face="sans-serif" size="52">Cada vez que sales,
+pasa un desastre.</font>
+
+158
+00:10:12,795 --> 00:10:15,840
+<font face="sans-serif" size="52">¿Qué no ves
+que tengo problemas más graves?</font>
+
+159
+00:10:17,050 --> 00:10:21,094
+<font face="sans-serif" size="52">Tengo el invierno encima
+y a todo un pueblo que alimentar.</font>
+
+160
+00:10:21,095 --> 00:10:24,556
+<font face="sans-serif" size="52">Siendo sincero, al pueblo
+no le vendría mal comer menos.</font>
+
+161
+00:10:24,557 --> 00:10:27,059
+<font face="sans-serif" size="52">¡Esto no es un juego, Hipo!</font>
+
+162
+00:10:27,060 --> 00:10:30,103
+<font face="sans-serif" size="52">¿Por qué no puedes obedecer
+las órdenes más simples?</font>
+
+163
+00:10:30,104 --> 00:10:32,564
+<font face="sans-serif" size="52">Porque no puedo evitarlo. ¿Sí?</font>
+
+164
+00:10:32,565 --> 00:10:35,818
+<font face="sans-serif" size="52">Si veo un dragón,
+siento que tengo que... matarlo.</font>
+
+165
+00:10:36,569 --> 00:10:38,696
+<font face="sans-serif" size="52">¿Entiendes? Es quien soy.</font>
+
+166
+00:10:40,573 --> 00:10:41,991
+<font face="sans-serif" size="52">Tú eres muchas cosas, hijo.</font>
+
+167
+00:10:43,243 --> 00:10:45,495
+<font face="sans-serif" size="52">Pero un asesino de dragones, no.</font>
+
+168
+00:10:49,082 --> 00:10:50,291
+<font face="sans-serif" size="52">Regresa a la casa.</font>
+
+169
+00:10:51,709 --> 00:10:52,835
+<font face="sans-serif" size="52">Cuida que no salga.</font>
+
+170
+00:10:53,836 --> 00:10:55,754
+<font face="sans-serif" size="52">¿Cuántas veces se puede meter la pata?</font>
+
+171
+00:10:55,755 --> 00:10:58,715
+<font face="sans-serif" size="52">A cualquier otro
+lo habrían expulsado de la isla.</font>
+
+172
+00:10:58,716 --> 00:11:00,969
+<font face="sans-serif" size="52">Ser hijo del jefe
+tiene sus privilegios.</font>
+
+173
+00:11:01,844 --> 00:11:03,429
+<font face="sans-serif" size="52">Si no fuera por el jefe...</font>
+
+174
+00:11:06,099 --> 00:11:09,686
+<font face="sans-serif" size="52">Como sea, mi papá
+está muy orgulloso de mí, entonces...</font>
+
+175
+00:11:10,979 --> 00:11:12,104
+<font face="sans-serif" size="52">¡Papá! Decía que...</font>
+
+176
+00:11:12,105 --> 00:11:13,523
+<font face="sans-serif" size="52">No me hables en público.</font>
+
+177
+00:11:16,234 --> 00:11:18,735
+<font face="sans-serif" size="52">- En serio, le di a uno.
+- Claro que sí, Hipo.</font>
+
+178
+00:11:18,736 --> 00:11:21,446
+<font face="sans-serif" size="52">- Él nunca escucha.
+- Bueno, eso viene de familia.</font>
+
+179
+00:11:21,447 --> 00:11:22,949
+<font face="sans-serif" size="52">Y cuando lo hace,</font>
+
+180
+00:11:23,783 --> 00:11:26,493
+<font face="sans-serif" size="52">siempre frunce el ceño, decepcionado.</font>
+
+181
+00:11:26,494 --> 00:11:28,704
+<font face="sans-serif" size="52">Como si le faltara carne al estofado.</font>
+
+182
+00:11:28,705 --> 00:11:29,788
+<font face="sans-serif" size="52">He visto esa mirada.</font>
+
+183
+00:11:29,789 --> 00:11:33,251
+<font face="sans-serif" size="52">Oye, hay algo que no estás entendiendo.</font>
+
+184
+00:11:34,502 --> 00:11:36,712
+<font face="sans-serif" size="52">No es tanto por cómo te ves...</font>
+
+185
+00:11:36,713 --> 00:11:38,882
+<font face="sans-serif" size="52">Lo que no tolera
+es lo que hay dentro de ti.</font>
+
+186
+00:11:40,300 --> 00:11:42,427
+<font face="sans-serif" size="52">Gracias... por plantearlo tan bien.</font>
+
+187
+00:11:42,969 --> 00:11:44,846
+<font face="sans-serif" size="52">Espera. El punto es...</font>
+
+188
+00:11:45,680 --> 00:11:48,266
+<font face="sans-serif" size="52">que dejes de intentar ser quien no eres.</font>
+
+189
+00:11:50,518 --> 00:11:52,145
+<font face="sans-serif" size="52">Sólo quiero ser igual que ustedes.</font>
+
+190
+00:11:59,694 --> 00:12:00,904
+<font face="sans-serif" size="52">Sí, lo sé.</font>
+
+191
+00:12:28,264 --> 00:12:31,184
+<font face="sans-serif" size="52">Nadie dijo que esto sería fácil.</font>
+
+192
+00:12:33,645 --> 00:12:35,521
+<font face="sans-serif" size="52">Pero les recuerdo...</font>
+
+193
+00:12:35,522 --> 00:12:40,317
+<font face="sans-serif" size="52">que somos descendientes
+de los mejores cazadores de dragones</font>
+
+194
+00:12:40,318 --> 00:12:43,779
+<font face="sans-serif" size="52">de todos los lugares
+donde han vivido los vikingos.</font>
+
+195
+00:12:43,780 --> 00:12:46,365
+<font face="sans-serif" size="52">Y se quedaron aquí, porque sabían</font>
+
+196
+00:12:46,366 --> 00:12:50,995
+<font face="sans-serif" size="52">que estábamos a muy poca distancia
+de un importante nido de dragones.</font>
+
+197
+00:12:52,580 --> 00:12:54,414
+<font face="sans-serif" size="52">Si podemos destruirlo,</font>
+
+198
+00:12:54,415 --> 00:12:56,959
+<font face="sans-serif" size="52">podremos vencer
+a estos demonios para siempre.</font>
+
+199
+00:12:56,960 --> 00:13:00,629
+<font face="sans-serif" size="52">- ¿Destruirlo? No podemos ni encontrarlo.
+- Exacto.</font>
+
+200
+00:13:00,630 --> 00:13:03,465
+<font face="sans-serif" size="52">Este nido suena cada vez más
+como un cuento de hadas.</font>
+
+201
+00:13:03,466 --> 00:13:05,050
+<font face="sans-serif" size="52">- Estamos agotados.
+- Ya sé.</font>
+
+202
+00:13:05,051 --> 00:13:06,385
+<font face="sans-serif" size="52">¿Y qué hemos ganado?</font>
+
+203
+00:13:06,386 --> 00:13:07,761
+<font face="sans-serif" size="52">¡Nada! ¡Nada!</font>
+
+204
+00:13:07,762 --> 00:13:09,055
+<font face="sans-serif" size="52">Tenemos propósito.</font>
+
+205
+00:13:09,847 --> 00:13:10,889
+<font face="sans-serif" size="52">¿De qué hablas?</font>
+
+206
+00:13:10,890 --> 00:13:14,434
+<font face="sans-serif" size="52">¡Nosotros... somos los guerreros de Berk!</font>
+
+207
+00:13:14,435 --> 00:13:17,814
+<font face="sans-serif" size="52">La más ruda y dura tribu
+de este lado del sol.</font>
+
+208
+00:13:19,482 --> 00:13:20,483
+<font face="sans-serif" size="52">¿No?</font>
+
+209
+00:13:21,776 --> 00:13:22,986
+<font face="sans-serif" size="52">Flemia,</font>
+
+210
+00:13:23,903 --> 00:13:27,781
+<font face="sans-serif" size="52">todos te vimos vencer a un Cremallerus
+sin ayuda alguna.</font>
+
+211
+00:13:27,782 --> 00:13:28,699
+<font face="sans-serif" size="52">Sí.</font>
+
+212
+00:13:28,700 --> 00:13:30,659
+<font face="sans-serif" size="52">Perdiste la pierna en el proceso,</font>
+
+213
+00:13:30,660 --> 00:13:33,370
+<font face="sans-serif" size="52">pero saliste victoriosa. ¿O no?</font>
+
+214
+00:13:33,371 --> 00:13:35,247
+<font face="sans-serif" size="52">- Bueno...
+- Sí, así fue.</font>
+
+215
+00:13:35,248 --> 00:13:38,500
+<font face="sans-serif" size="52">Recha... tu pueblo
+vino del Lejano Oriente.</font>
+
+216
+00:13:38,501 --> 00:13:42,254
+<font face="sans-serif" size="52">Fungio, el tuyo vino
+desde la Ruta de la Seda.</font>
+
+217
+00:13:42,255 --> 00:13:46,592
+<font face="sans-serif" size="52">Lugi, tu pueblo vino
+de las calurosas costas de Bláland.</font>
+
+218
+00:13:46,593 --> 00:13:50,220
+<font face="sans-serif" size="52">Y mírennos. Aquí seguimos.
+Seguimos peleando.</font>
+
+219
+00:13:50,221 --> 00:13:52,640
+<font face="sans-serif" size="52">Seguimos cuidándonos las espaldas.</font>
+
+220
+00:13:53,725 --> 00:13:56,393
+<font face="sans-serif" size="52">¿De verdad vamos a empacar e irnos</font>
+
+221
+00:13:56,394 --> 00:14:00,857
+<font face="sans-serif" size="52">mientras estas malditas bestias
+son una amenaza para nuestras tierras?</font>
+
+222
+00:14:02,066 --> 00:14:04,484
+<font face="sans-serif" size="52">- ¿Así somos los vikingos?
+- No.</font>
+
+223
+00:14:04,485 --> 00:14:10,200
+<font face="sans-serif" size="52">- ¿Así somos?
+- ¡No!</font>
+
+224
+00:14:10,992 --> 00:14:12,201
+<font face="sans-serif" size="52">¿Así somos?</font>
+
+225
+00:14:12,202 --> 00:14:13,453
+<font face="sans-serif" size="52">No, jefe. Creo que no.</font>
+
+226
+00:14:14,662 --> 00:14:16,122
+<font face="sans-serif" size="52">Es lo que creí.</font>
+
+227
+00:14:19,751 --> 00:14:22,503
+<font face="sans-serif" size="52">Anciana Gothi... danos una señal.</font>
+
+228
+00:14:23,546 --> 00:14:27,508
+<font face="sans-serif" size="52">¿Es posible que encontremos el nido
+antes de que el hielo nos cubra?</font>
+
+229
+00:14:46,736 --> 00:14:48,196
+<font face="sans-serif" size="52">Y sólo eso necesito.</font>
+
+230
+00:14:51,658 --> 00:14:54,285
+<font face="sans-serif" size="52">Ahora volveremos a la niebla.</font>
+
+231
+00:14:54,827 --> 00:14:57,413
+<font face="sans-serif" size="52">Escuchen, vikingos. ¡Preparen los barcos!</font>
+
+232
+00:15:09,634 --> 00:15:13,303
+<font face="sans-serif" size="52">¿Me llevaré mi mano de cubeta
+para cuando quemen los barcos,</font>
+
+233
+00:15:13,304 --> 00:15:16,349
+<font face="sans-serif" size="52">o mi mano de nadar
+para cuando los hundan?</font>
+
+234
+00:15:21,145 --> 00:15:23,231
+<font face="sans-serif" size="52">No tan rápido, Bocón.</font>
+
+235
+00:15:25,191 --> 00:15:28,026
+<font face="sans-serif" size="52">No tengo tiempo
+de entrenar a los reclutas,</font>
+
+236
+00:15:28,027 --> 00:15:29,487
+<font face="sans-serif" size="52">así que lo harás tú.</font>
+
+237
+00:15:29,988 --> 00:15:31,030
+<font face="sans-serif" size="52">El rito de iniciación.</font>
+
+238
+00:15:31,656 --> 00:15:33,199
+<font face="sans-serif" size="52">Hipo ya tiene edad, ¿no?</font>
+
+239
+00:15:33,741 --> 00:15:34,825
+<font face="sans-serif" size="52">Me refería a los otros.</font>
+
+240
+00:15:34,826 --> 00:15:37,412
+<font face="sans-serif" size="52">Bueno. Mientras no esté,
+él se encargará del negocio.</font>
+
+241
+00:15:37,954 --> 00:15:41,623
+<font face="sans-serif" size="52">Acero derretido, espadas afiladas,
+tiempo de sobra.</font>
+
+242
+00:15:41,624 --> 00:15:43,375
+<font face="sans-serif" size="52">¿Qué podría salir mal?</font>
+
+243
+00:15:43,376 --> 00:15:45,587
+<font face="sans-serif" size="52">¿Qué voy a hacer con él, Bocón?</font>
+
+244
+00:15:46,296 --> 00:15:47,546
+<font face="sans-serif" size="52">Mételo a entrenar.</font>
+
+245
+00:15:47,547 --> 00:15:49,339
+<font face="sans-serif" size="52">No. Hablo en serio.</font>
+
+246
+00:15:49,340 --> 00:15:50,924
+<font face="sans-serif" size="52">Sí, yo también.</font>
+
+247
+00:15:50,925 --> 00:15:53,510
+<font face="sans-serif" size="52">El niño quiere entrenar más que otra cosa.</font>
+
+248
+00:15:53,511 --> 00:15:54,804
+<font face="sans-serif" size="52">Y aunque no lo creas,</font>
+
+249
+00:15:55,430 --> 00:15:57,389
+<font face="sans-serif" size="52">él sólo quiere enorgullecerte.</font>
+
+250
+00:15:57,390 --> 00:15:59,225
+<font face="sans-serif" size="52">Pero piensa tan diferente.</font>
+
+251
+00:16:00,018 --> 00:16:01,311
+<font face="sans-serif" size="52">Lo sacó de su madre.</font>
+
+252
+00:16:02,145 --> 00:16:03,187
+<font face="sans-serif" size="52">Y mira lo que le pasó.</font>
+
+253
+00:16:03,188 --> 00:16:05,063
+<font face="sans-serif" size="52">Sí. Porque Valka era la testaruda.</font>
+
+254
+00:16:05,064 --> 00:16:06,940
+<font face="sans-serif" size="52">- Cuando yo era niño...
+- Va de nuevo.</font>
+
+255
+00:16:06,941 --> 00:16:09,359
+<font face="sans-serif" size="52">...seguía órdenes, ¿sí? Me esforzaba.</font>
+
+256
+00:16:09,360 --> 00:16:12,362
+<font face="sans-serif" size="52">Porque creía
+en lo que un vikingo podía hacer.</font>
+
+257
+00:16:12,363 --> 00:16:16,618
+<font face="sans-serif" size="52">Mover montañas,
+conquistar bosques, domar mares...</font>
+
+258
+00:16:17,660 --> 00:16:21,164
+<font face="sans-serif" size="52">Yo sabía quién era
+y en qué me convertiría.</font>
+
+259
+00:16:22,081 --> 00:16:23,124
+<font face="sans-serif" size="52">Hipo es...</font>
+
+260
+00:16:23,875 --> 00:16:25,126
+<font face="sans-serif" size="52">No se parece a mí.</font>
+
+261
+00:16:26,002 --> 00:16:29,631
+<font face="sans-serif" size="52">Es muy poco probable que
+mi hijo siga mis pasos.</font>
+
+262
+00:16:30,798 --> 00:16:31,799
+<font face="sans-serif" size="52">Sí.</font>
+
+263
+00:16:36,429 --> 00:16:38,139
+<font face="sans-serif" size="52">No podrás detenerlo, Estoico.</font>
+
+264
+00:16:38,932 --> 00:16:40,391
+<font face="sans-serif" size="52">Sólo puedes prepararlo.</font>
+
+265
+00:16:41,017 --> 00:16:42,392
+<font face="sans-serif" size="52">Porque lo cierto es...</font>
+
+266
+00:16:42,393 --> 00:16:44,729
+<font face="sans-serif" size="52">que no estaremos
+siempre para protegerlo.</font>
+
+267
+00:16:45,522 --> 00:16:47,106
+<font face="sans-serif" size="52">Él va a volver a salir.</font>
+
+268
+00:16:48,608 --> 00:16:50,026
+<font face="sans-serif" size="52">Seguro ya lo hizo.</font>
+
+269
+00:17:22,350 --> 00:17:25,353
+<font face="sans-serif" size="52">¿Cómo se me perdió un dragón entero?</font>
+
+270
+00:18:26,581 --> 00:18:27,749
+<font face="sans-serif" size="52">¡Lo hice!</font>
+
+271
+00:18:29,542 --> 00:18:30,752
+<font face="sans-serif" size="52">¡Lo hice!</font>
+
+272
+00:18:40,345 --> 00:18:41,971
+<font face="sans-serif" size="52">¿Por qué no moriste, y ya?</font>
+
+273
+00:18:44,557 --> 00:18:46,100
+<font face="sans-serif" size="52">Ahora tengo que matarte.</font>
+
+274
+00:20:44,802 --> 00:20:45,887
+<font face="sans-serif" size="52">¿Hipo?</font>
+
+275
+00:20:46,804 --> 00:20:47,805
+<font face="sans-serif" size="52">Papá...</font>
+
+276
+00:20:51,059 --> 00:20:53,061
+<font face="sans-serif" size="52">Tengo que hablar contigo, papá.</font>
+
+277
+00:20:55,980 --> 00:20:57,690
+<font face="sans-serif" size="52">También tengo que hablar contigo, hijo.</font>
+
+278
+00:21:01,110 --> 00:21:03,820
+<font face="sans-serif" size="52">- Aprenderás a pelear con dragones.
+- No quiero pelear con dragones.</font>
+
+279
+00:21:03,821 --> 00:21:04,989
+<font face="sans-serif" size="52">- ¿Qué?
+- ¿Qué?</font>
+
+280
+00:21:05,532 --> 00:21:07,700
+<font face="sans-serif" size="52">- No, tú primero.
+- No, no, no. Tú primero.</font>
+
+281
+00:21:08,243 --> 00:21:09,744
+<font face="sans-serif" size="52">Tu deseo será cumplido.</font>
+
+282
+00:21:10,245 --> 00:21:12,664
+<font face="sans-serif" size="52">Entrenamiento con dragones.
+Empiezas mañana.</font>
+
+283
+00:21:15,208 --> 00:21:17,251
+<font face="sans-serif" size="52">Ay, debí haber hablado primero.</font>
+
+284
+00:21:17,252 --> 00:21:18,669
+<font face="sans-serif" size="52">Es que estaba pensando,</font>
+
+285
+00:21:18,670 --> 00:21:21,380
+<font face="sans-serif" size="52">hay muchos vikingos
+peleando con dragones,</font>
+
+286
+00:21:21,381 --> 00:21:23,215
+<font face="sans-serif" size="52">pero... casi no hay panaderos.</font>
+
+287
+00:21:23,216 --> 00:21:24,467
+<font face="sans-serif" size="52">Necesitarás esto.</font>
+
+288
+00:21:25,426 --> 00:21:26,427
+<font face="sans-serif" size="52">Papá,</font>
+
+289
+00:21:27,262 --> 00:21:28,971
+<font face="sans-serif" size="52">no quiero pelear con dragones.</font>
+
+290
+00:21:28,972 --> 00:21:31,099
+<font face="sans-serif" size="52">¡Cómo que no! Claro que quieres.</font>
+
+291
+00:21:31,599 --> 00:21:34,810
+<font face="sans-serif" size="52">No. Lo diré de otro modo.
+No puedo matar dragones.</font>
+
+292
+00:21:34,811 --> 00:21:36,186
+<font face="sans-serif" size="52">Pero lo harás.</font>
+
+293
+00:21:36,187 --> 00:21:38,730
+<font face="sans-serif" size="52">No, estoy muy seguro de que no.</font>
+
+294
+00:21:38,731 --> 00:21:41,359
+<font face="sans-serif" size="52">Es hora, Hipo.</font>
+
+295
+00:21:45,154 --> 00:21:46,655
+<font face="sans-serif" size="52">¿No estás escuchándome?</font>
+
+296
+00:21:46,656 --> 00:21:48,783
+<font face="sans-serif" size="52">¿Tú no estás escuchándome?</font>
+
+297
+00:21:54,873 --> 00:21:58,084
+<font face="sans-serif" size="52">La Prueba de Fuego
+es donde te vuelves vikingo.</font>
+
+298
+00:21:58,835 --> 00:22:00,794
+<font face="sans-serif" size="52">Donde los héroes se forjan,</font>
+
+299
+00:22:00,795 --> 00:22:03,381
+<font face="sans-serif" size="52">donde los futuros jefes nacen.</font>
+
+300
+00:22:05,216 --> 00:22:06,926
+<font face="sans-serif" size="52">Yo no soy eso que tú quieres.</font>
+
+301
+00:22:08,761 --> 00:22:10,972
+<font face="sans-serif" size="52">No soy como tú, papá.</font>
+
+302
+00:22:16,102 --> 00:22:17,228
+<font face="sans-serif" size="52">Escucha.</font>
+
+303
+00:22:21,274 --> 00:22:23,067
+<font face="sans-serif" size="52">Cuando cargas esta hacha,</font>
+
+304
+00:22:24,110 --> 00:22:26,236
+<font face="sans-serif" size="52">lo haces con y por todos nosotros.</font>
+
+305
+00:22:26,237 --> 00:22:28,155
+<font face="sans-serif" size="52">Eso significa que caminas como nosotros,</font>
+
+306
+00:22:28,156 --> 00:22:29,740
+<font face="sans-serif" size="52">hablas como nosotros,</font>
+
+307
+00:22:29,741 --> 00:22:31,618
+<font face="sans-serif" size="52">piensas como nosotros.</font>
+
+308
+00:22:32,160 --> 00:22:35,246
+<font face="sans-serif" size="52">Ya basta de... esto.</font>
+
+309
+00:22:36,122 --> 00:22:37,832
+<font face="sans-serif" size="52">Me señalaste completo.</font>
+
+310
+00:22:39,042 --> 00:22:39,875
+<font face="sans-serif" size="52">¿Es un trato?</font>
+
+311
+00:22:39,876 --> 00:22:41,919
+<font face="sans-serif" size="52">Siento que no me estás tomando en cuenta.</font>
+
+312
+00:22:41,920 --> 00:22:43,171
+<font face="sans-serif" size="52">¿Es un trato?</font>
+
+313
+00:22:46,049 --> 00:22:47,341
+<font face="sans-serif" size="52">Sí.</font>
+
+314
+00:22:47,342 --> 00:22:48,426
+<font face="sans-serif" size="52">Perfecto.</font>
+
+315
+00:22:55,308 --> 00:22:56,351
+<font face="sans-serif" size="52">Entrena duro.</font>
+
+316
+00:22:58,937 --> 00:23:00,313
+<font face="sans-serif" size="52">¡Volveré!</font>
+
+317
+00:23:04,067 --> 00:23:05,109
+<font face="sans-serif" size="52">Probablemente...</font>
+
+318
+00:23:10,114 --> 00:23:11,574
+<font face="sans-serif" size="52">Y yo estaré aquí.</font>
+
+319
+00:23:13,576 --> 00:23:14,702
+<font face="sans-serif" size="52">Tal vez...</font>
+
+320
+00:23:19,499 --> 00:23:23,169
+<font face="sans-serif" size="52">Bienvenidos... ¡a la Prueba de Fuego!</font>
+
+321
+00:23:37,225 --> 00:23:39,726
+<font face="sans-serif" size="52">El momento que todos
+hemos estado esperando.</font>
+
+322
+00:23:39,727 --> 00:23:42,271
+<font face="sans-serif" size="52">Sólo debo elegir
+dónde poner mi estatua.</font>
+
+323
+00:23:42,272 --> 00:23:44,314
+<font face="sans-serif" size="52">Se ve mucho más grande desde aquí.</font>
+
+324
+00:23:44,315 --> 00:23:46,900
+<font face="sans-serif" size="52">¿Pueden creer que estemos en este lugar?</font>
+
+325
+00:23:46,901 --> 00:23:49,653
+<font face="sans-serif" size="52">Aquí el jefe Bilisio
+mató al Muerte Susurrante.</font>
+
+326
+00:23:49,654 --> 00:23:53,156
+<font face="sans-serif" size="52">Sí, y donde el jefe Brutacio
+repetirá esa hazaña. Miren y aprendan.</font>
+
+327
+00:23:53,157 --> 00:23:56,159
+<font face="sans-serif" size="52">No puedo esperar a tener
+heridas de guerra legendarias.</font>
+
+328
+00:23:56,160 --> 00:23:58,996
+<font face="sans-serif" size="52">Sí, como una cortada horrenda
+que atraviese mi cara.</font>
+
+329
+00:23:58,997 --> 00:24:00,289
+<font face="sans-serif" size="52">- Díganme aburrido...
+- Aburrido.</font>
+
+330
+00:24:00,290 --> 00:24:04,376
+<font face="sans-serif" size="52">...pero estoy emocionado de ver
+a unos dragones reales... de cerca.</font>
+
+331
+00:24:04,377 --> 00:24:07,421
+<font face="sans-serif" size="52">Claro que podría ahorrarme...
+las heridas, y...</font>
+
+332
+00:24:07,422 --> 00:24:08,881
+<font face="sans-serif" size="52">¿Y eso qué tiene de glorioso?</font>
+
+333
+00:24:08,882 --> 00:24:10,841
+<font face="sans-serif" size="52">Sólo es divertido si te deja cicatriz.</font>
+
+334
+00:24:10,842 --> 00:24:12,343
+<font face="sans-serif" size="52">Muy cierto.</font>
+
+335
+00:24:13,761 --> 00:24:15,805
+<font face="sans-serif" size="52">Dolor. Lo amo.</font>
+
+336
+00:24:16,389 --> 00:24:18,599
+<font face="sans-serif" size="52">Lo que faltaba. ¿Quién lo invitó?</font>
+
+337
+00:24:18,600 --> 00:24:21,018
+<font face="sans-serif" size="52">Creo que papi usó sus influencias, ¿no?</font>
+
+338
+00:24:21,019 --> 00:24:23,312
+<font face="sans-serif" size="52">- ¿No están muy viejos para estar aquí?
+- Auch.</font>
+
+339
+00:24:23,313 --> 00:24:25,523
+<font face="sans-serif" size="52">- ¿Qué dijiste, mocoso?
+- A ver, ¡repítelo!</font>
+
+340
+00:24:26,900 --> 00:24:28,275
+<font face="sans-serif" size="52">Es un tema delicado,</font>
+
+341
+00:24:28,276 --> 00:24:30,235
+<font face="sans-serif" size="52">han reprobado varias veces.</font>
+
+342
+00:24:30,236 --> 00:24:32,237
+<font face="sans-serif" size="52">Sólo han sido cuatro veces.</font>
+
+343
+00:24:32,238 --> 00:24:36,033
+<font face="sans-serif" size="52">Sí, y no quieren que nos vayamos.
+Somos muy valiosos para dejarnos ir.</font>
+
+344
+00:24:36,034 --> 00:24:37,911
+<font face="sans-serif" size="52">Qué empático, Hipo.</font>
+
+345
+00:24:38,661 --> 00:24:40,078
+<font face="sans-serif" size="52">Lindo nombre, por cierto.</font>
+
+346
+00:24:40,079 --> 00:24:41,955
+<font face="sans-serif" size="52">Tu nombre es Patán, ¿no?</font>
+
+347
+00:24:41,956 --> 00:24:42,956
+<font face="sans-serif" size="52">Exacto.</font>
+
+348
+00:24:42,957 --> 00:24:45,167
+<font face="sans-serif" size="52">Y es un nombre muy vikingo.</font>
+
+349
+00:24:45,168 --> 00:24:48,378
+<font face="sans-serif" size="52">Se traduce de las escrituras como
+"aquel patán que venció al..."</font>
+
+350
+00:24:48,379 --> 00:24:49,671
+<font face="sans-serif" size="52">Cállense.</font>
+
+351
+00:24:49,672 --> 00:24:51,215
+<font face="sans-serif" size="52">Empecemos de una vez.</font>
+
+352
+00:24:51,216 --> 00:24:52,550
+<font face="sans-serif" size="52">Benditos mocosos.</font>
+
+353
+00:24:53,968 --> 00:24:57,596
+<font face="sans-serif" size="52">Ustedes son los últimos en unirse
+a esta milenaria tradición.</font>
+
+354
+00:24:57,597 --> 00:25:01,850
+<font face="sans-serif" size="52">Todos los nacidos en nuestra tribu
+deberán sobrevivir a esta arena</font>
+
+355
+00:25:01,851 --> 00:25:04,896
+<font face="sans-serif" size="52">si algún día esperan
+combatir junto a los demás.</font>
+
+356
+00:25:06,231 --> 00:25:07,941
+<font face="sans-serif" size="52">Será agotador.</font>
+
+357
+00:25:10,485 --> 00:25:13,863
+<font face="sans-serif" size="52">Y también muy, muy peligroso.</font>
+
+358
+00:25:15,281 --> 00:25:19,285
+<font face="sans-serif" size="52">Pero quien lo haga mejor,
+ganará el título de Cazador Supremo.</font>
+
+359
+00:25:20,745 --> 00:25:21,829
+<font face="sans-serif" size="52">Y con el título...</font>
+
+360
+00:25:23,331 --> 00:25:24,623
+<font face="sans-serif" size="52">Con el título...</font>
+
+361
+00:25:24,624 --> 00:25:28,920
+<font face="sans-serif" size="52">el honor de matar a su primer dragón
+enfrente de todo el pueblo.</font>
+
+362
+00:25:29,546 --> 00:25:31,172
+<font face="sans-serif" size="52">No hay gloria más grande.</font>
+
+363
+00:25:32,549 --> 00:25:33,550
+<font face="sans-serif" size="52">¿Qué?</font>
+
+364
+00:25:34,050 --> 00:25:35,884
+<font face="sans-serif" size="52">Hipo ya mató un Furia Nocturna.</font>
+
+365
+00:25:35,885 --> 00:25:38,387
+<font face="sans-serif" size="52">Entonces, ¿eso qué?
+¿Lo descalifica, o...?</font>
+
+366
+00:25:38,388 --> 00:25:39,722
+<font face="sans-serif" size="52">Ignórenlo.</font>
+
+367
+00:25:40,765 --> 00:25:43,142
+<font face="sans-serif" size="52">Eres flaquito. Eres débil.</font>
+
+368
+00:25:43,935 --> 00:25:45,603
+<font face="sans-serif" size="52">Nada atractivo para ellos.</font>
+
+369
+00:25:46,312 --> 00:25:49,023
+<font face="sans-serif" size="52">Les parecerás un huesito sin carne.
+No valdrías el esfuerzo.</font>
+
+370
+00:25:49,566 --> 00:25:51,860
+<font face="sans-serif" size="52">Irán tras lo que vean más...</font>
+
+371
+00:25:52,569 --> 00:25:54,779
+<font face="sans-serif" size="52">vikingos y corpulentos.</font>
+
+372
+00:25:55,905 --> 00:26:00,492
+<font face="sans-serif" size="52">Tras estas puertas... hay algunas de las
+especies con las que aprenderán a pelear.</font>
+
+373
+00:26:00,493 --> 00:26:01,910
+<font face="sans-serif" size="52">El Mortífero Nadder.</font>
+
+374
+00:26:01,911 --> 00:26:03,288
+<font face="sans-serif" size="52">Ataque, 8. Armadura, 16.</font>
+
+375
+00:26:04,330 --> 00:26:06,540
+<font face="sans-serif" size="52">- El Espantosus Cremallerus.
+- Cautela doble 11.</font>
+
+376
+00:26:06,541 --> 00:26:09,209
+<font face="sans-serif" size="52">- El Pesadilla Monstruosa.
+- Poder de fuego, 15.</font>
+
+377
+00:26:09,210 --> 00:26:11,044
+<font face="sans-serif" size="52">- Terrible Terror.
+- Ataque 8, veneno 12.</font>
+
+378
+00:26:11,045 --> 00:26:12,672
+<font face="sans-serif" size="52">¡Ya cállate...</font>
+
+379
+00:26:13,590 --> 00:26:15,008
+<font face="sans-serif" size="52">enorme bola de lana!</font>
+
+380
+00:26:17,427 --> 00:26:19,888
+<font face="sans-serif" size="52">Y finalmente... el horrible Gronckle.</font>
+
+381
+00:26:20,763 --> 00:26:22,056
+<font face="sans-serif" size="52">Fuerza de mordida, 8.</font>
+
+382
+00:26:25,810 --> 00:26:26,811
+<font face="sans-serif" size="52">¡Oye, Bocón!</font>
+
+383
+00:26:27,395 --> 00:26:30,189
+<font face="sans-serif" size="52">¿No vas a enseñarnos algo... primero?</font>
+
+384
+00:26:30,190 --> 00:26:32,150
+<font face="sans-serif" size="52">¡Aprenderán sobre la marcha!</font>
+
+385
+00:26:37,238 --> 00:26:39,574
+<font face="sans-serif" size="52">Hoy entrenaremos la defensa.</font>
+
+386
+00:26:40,283 --> 00:26:41,867
+<font face="sans-serif" size="52">Si los flamean, se van.</font>
+
+387
+00:26:41,868 --> 00:26:43,286
+<font face="sans-serif" size="52">O también... mueren.</font>
+
+388
+00:26:43,870 --> 00:26:45,329
+<font face="sans-serif" size="52">Lo primero que necesitan es...</font>
+
+389
+00:26:45,330 --> 00:26:47,456
+<font face="sans-serif" size="52">- ¡Un escudo!
+- ¡Exacto! ¡Vayan!</font>
+
+390
+00:26:47,457 --> 00:26:48,832
+<font face="sans-serif" size="52">- No estorben.
+- ¡Ese es mío!</font>
+
+391
+00:26:48,833 --> 00:26:51,502
+<font face="sans-serif" size="52">El escudo es lo más importante
+de su equipo.</font>
+
+392
+00:26:53,296 --> 00:26:56,507
+<font face="sans-serif" size="52">Si tienen que elegir
+entre un arma y un escudo...</font>
+
+393
+00:26:57,342 --> 00:26:58,634
+<font face="sans-serif" size="52">Suelta eso.</font>
+
+394
+00:26:58,635 --> 00:26:59,843
+<font face="sans-serif" size="52">...elijan el escudo.</font>
+
+395
+00:26:59,844 --> 00:27:02,180
+<font face="sans-serif" size="52">- ¡Suéltalo! ¡Es mi escudo!
+- ¡Mío, mío, mío!</font>
+
+396
+00:27:04,057 --> 00:27:05,058
+<font face="sans-serif" size="52">Eres una...</font>
+
+397
+00:27:06,518 --> 00:27:09,020
+<font face="sans-serif" size="52">Brutilda, Brutacio, están fuera.</font>
+
+398
+00:27:10,688 --> 00:27:13,815
+<font face="sans-serif" size="52">Sus escudos tienen otra función...
+hacer ruido.</font>
+
+399
+00:27:13,816 --> 00:27:16,945
+<font face="sans-serif" size="52">Hagan mucho ruido
+para confundir al dragón.</font>
+
+400
+00:27:19,197 --> 00:27:22,491
+<font face="sans-serif" size="52">Recuerden que los disparos
+de los dragones son limitados.</font>
+
+401
+00:27:22,492 --> 00:27:24,285
+<font face="sans-serif" size="52">¿Cuántos tiene un Gronckle?</font>
+
+402
+00:27:25,203 --> 00:27:27,371
+<font face="sans-serif" size="52">- ¡Seis!
+- ¡Seis, sí!</font>
+
+403
+00:27:27,372 --> 00:27:28,830
+<font face="sans-serif" size="52">¡Justo para cada uno!</font>
+
+404
+00:27:28,831 --> 00:27:30,916
+<font face="sans-serif" size="52">Aunque, un dato curioso,</font>
+
+405
+00:27:30,917 --> 00:27:33,336
+<font face="sans-serif" size="52">es que las rocas
+de diferentes regiones varían de...</font>
+
+406
+00:27:37,173 --> 00:27:38,507
+<font face="sans-serif" size="52">¿Qué estás haciendo?</font>
+
+407
+00:27:38,508 --> 00:27:40,343
+<font face="sans-serif" size="52">¿Qué haces? ¡Ve a pelear!</font>
+
+408
+00:27:42,387 --> 00:27:43,846
+<font face="sans-serif" size="52">Patapez, estás fuera.</font>
+
+409
+00:27:45,181 --> 00:27:46,014
+<font face="sans-serif" size="52">Le quedan cuatro disparos.</font>
+
+410
+00:27:46,015 --> 00:27:49,101
+<font face="sans-serif" size="52">Seremos los mejores de esto.</font>
+
+411
+00:27:49,102 --> 00:27:50,811
+<font face="sans-serif" size="52">Como si nos uniera el destino.</font>
+
+412
+00:27:50,812 --> 00:27:53,857
+<font face="sans-serif" size="52">Esto es una eliminatoria, genio.
+Sólo hay un Cazador Supremo.</font>
+
+413
+00:27:57,193 --> 00:27:58,903
+<font face="sans-serif" size="52">¡Patán! Estás fuera.</font>
+
+414
+00:27:59,654 --> 00:28:00,780
+<font face="sans-serif" size="52">Tres disparos.</font>
+
+415
+00:28:01,447 --> 00:28:03,032
+<font face="sans-serif" size="52">Sólo quedamos tú y yo, ¿no?</font>
+
+416
+00:28:03,533 --> 00:28:05,034
+<font face="sans-serif" size="52">Nop. Sólo yo.</font>
+
+417
+00:28:06,202 --> 00:28:08,079
+<font face="sans-serif" size="52">¡Oye! ¡Acá estoy!</font>
+
+418
+00:28:15,503 --> 00:28:16,546
+<font face="sans-serif" size="52">¡Eso!</font>
+
+419
+00:28:17,130 --> 00:28:18,505
+<font face="sans-serif" size="52">Bien hecho, Astrid.</font>
+
+420
+00:28:18,506 --> 00:28:19,674
+<font face="sans-serif" size="52">Le quedan dos disparos.</font>
+
+421
+00:28:21,259 --> 00:28:22,302
+<font face="sans-serif" size="52">Ay, no puede ser.</font>
+
+422
+00:28:23,553 --> 00:28:24,971
+<font face="sans-serif" size="52">¡Hipo, estás fuera!</font>
+
+423
+00:28:25,763 --> 00:28:27,599
+<font face="sans-serif" size="52">- ¡Le queda un disparo!
+- Oye, ¡cuidado!</font>
+
+424
+00:28:29,684 --> 00:28:30,810
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+425
+00:28:34,063 --> 00:28:35,523
+<font face="sans-serif" size="52">Se acabó la clase.</font>
+
+426
+00:28:40,069 --> 00:28:42,530
+<font face="sans-serif" size="52">¡Vuelve a tu cueva, mortadela grasienta!</font>
+
+427
+00:28:49,954 --> 00:28:53,166
+<font face="sans-serif" size="52">Y recuerden, un dragón siempre...</font>
+
+428
+00:28:54,000 --> 00:28:55,251
+<font face="sans-serif" size="52">siempre...</font>
+
+429
+00:28:56,753 --> 00:28:58,421
+<font face="sans-serif" size="52">tira a matar.</font>
+
+430
+00:29:13,228 --> 00:29:14,687
+<font face="sans-serif" size="52">¿Por qué tú no?</font>
+
+431
+00:30:21,004 --> 00:30:22,005
+<font face="sans-serif" size="52">A ver...</font>
+
+432
+00:31:31,533 --> 00:31:32,951
+<font face="sans-serif" size="52">Hagamos un repaso, ¿sí?</font>
+
+433
+00:31:33,743 --> 00:31:36,161
+<font face="sans-serif" size="52">¿Qué hizo mal Astrid hoy en la arena?</font>
+
+434
+00:31:36,162 --> 00:31:37,704
+<font face="sans-serif" size="52">Calculé mal mi salto mortal.</font>
+
+435
+00:31:37,705 --> 00:31:39,581
+<font face="sans-serif" size="52">Calculé mal. Y afectó mi voltereta.</font>
+
+436
+00:31:39,582 --> 00:31:41,668
+<font face="sans-serif" size="52">- Sí. Nos dimos cuenta.
+- ¡Oye!</font>
+
+437
+00:31:42,210 --> 00:31:45,254
+<font face="sans-serif" size="52">Deja de molestarla.
+Hizo lo mejor que pudo.</font>
+
+438
+00:31:45,255 --> 00:31:47,839
+<font face="sans-serif" size="52">Sí. No te recrimines. Lo lograrás.</font>
+
+439
+00:31:47,840 --> 00:31:49,717
+<font face="sans-serif" size="52">La próxima haz lo que yo...</font>
+
+440
+00:31:50,260 --> 00:31:51,718
+<font face="sans-serif" size="52">Astrid tiene razón.</font>
+
+441
+00:31:51,719 --> 00:31:53,720
+<font face="sans-serif" size="52">Sean duros con ustedes.</font>
+
+442
+00:31:53,721 --> 00:31:55,974
+<font face="sans-serif" size="52">Un eslabón débil será suficiente.</font>
+
+443
+00:31:58,226 --> 00:31:59,394
+<font face="sans-serif" size="52">Finalmente llegas.</font>
+
+444
+00:32:01,688 --> 00:32:03,773
+<font face="sans-serif" size="52">Tienes que tomarte esto en serio,</font>
+
+445
+00:32:04,274 --> 00:32:06,316
+<font face="sans-serif" size="52">porque vivimos en un campo de batalla.</font>
+
+446
+00:32:06,317 --> 00:32:09,236
+<font face="sans-serif" size="52">Por si no lo habían notado,
+el otro lado va ganando.</font>
+
+447
+00:32:09,237 --> 00:32:11,530
+<font face="sans-serif" size="52">Necesitarán cada ventaja posible.</font>
+
+448
+00:32:11,531 --> 00:32:15,827
+<font face="sans-serif" size="52">Y si no han hecho su tarea,
+permítanme presentarles...</font>
+
+449
+00:32:21,082 --> 00:32:22,500
+<font face="sans-serif" size="52">El Libro de Dragones.</font>
+
+450
+00:32:24,335 --> 00:32:27,005
+<font face="sans-serif" size="52">Contiene todo lo que
+sabemos de cada dragón.</font>
+
+451
+00:32:28,256 --> 00:32:32,176
+<font face="sans-serif" size="52">Cada una de sus tribus puso su sabiduría
+y experiencia en estas páginas.</font>
+
+452
+00:32:33,553 --> 00:32:35,221
+<font face="sans-serif" size="52">Es nuestra posesión más sagrada.</font>
+
+453
+00:32:38,141 --> 00:32:40,935
+<font face="sans-serif" size="52">Hoy no hay ataques de dragones,
+así que estudien.</font>
+
+454
+00:32:42,687 --> 00:32:43,854
+<font face="sans-serif" size="52">¿Quieres que lea?</font>
+
+455
+00:32:43,855 --> 00:32:45,481
+<font face="sans-serif" size="52">Lo he leído cien veces.</font>
+
+456
+00:32:45,982 --> 00:32:49,067
+<font face="sans-serif" size="52">Hay un dragón acuático
+que escupe agua hirviendo.</font>
+
+457
+00:32:49,068 --> 00:32:51,320
+<font face="sans-serif" size="52">Y hay otro que...</font>
+
+458
+00:32:51,321 --> 00:32:53,363
+<font face="sans-serif" size="52">¿Por qué leería palabras</font>
+
+459
+00:32:53,364 --> 00:32:56,491
+<font face="sans-serif" size="52">cuando puedo asesinar a la cosa
+de la que hablan las palabras?</font>
+
+460
+00:32:56,492 --> 00:33:00,412
+<font face="sans-serif" size="52">¿Verdad? ¿Porque yo soy la persona
+del que otros van a escribir libros.</font>
+
+461
+00:33:00,413 --> 00:33:01,539
+<font face="sans-serif" size="52">¡Bien dicho!</font>
+
+462
+00:33:02,081 --> 00:33:03,415
+<font face="sans-serif" size="52">¡Exacto!</font>
+
+463
+00:33:03,416 --> 00:33:06,710
+<font face="sans-serif" size="52">No se preocupen, yo responderé
+todas sus dudas sobre dragones.</font>
+
+464
+00:33:06,711 --> 00:33:10,215
+<font face="sans-serif" size="52">Teorías, datos. Hasta escribí tarjetas.</font>
+
+465
+00:33:12,175 --> 00:33:13,342
+<font face="sans-serif" size="52">Pregúntenme lo que sea.</font>
+
+466
+00:33:13,343 --> 00:33:14,468
+<font face="sans-serif" size="52">Deja de seguirme.</font>
+
+467
+00:33:14,469 --> 00:33:16,888
+<font face="sans-serif" size="52">- ¿Y ahora? Pónganme a prueba.
+- De ninguna manera.</font>
+
+468
+00:33:25,605 --> 00:33:26,606
+<font face="sans-serif" size="52">Oye,</font>
+
+469
+00:33:27,398 --> 00:33:30,360
+<font face="sans-serif" size="52">parece que será divertidísimo leerlo, ¿no?</font>
+
+470
+00:33:31,653 --> 00:33:32,611
+<font face="sans-serif" size="52">Ya lo leí.</font>
+
+471
+00:33:32,612 --> 00:33:33,696
+<font face="sans-serif" size="52">Es que...</font>
+
+472
+00:33:34,906 --> 00:33:37,534
+<font face="sans-serif" size="52">tal vez no sean tan malos como creemos.</font>
+
+473
+00:33:39,786 --> 00:33:42,079
+<font face="sans-serif" size="52">¿De verdad estás loco, o sólo actúas así?</font>
+
+474
+00:33:42,080 --> 00:33:44,374
+<font face="sans-serif" size="52">Hay... ¿hay una tercera opción?</font>
+
+475
+00:33:46,084 --> 00:33:48,293
+<font face="sans-serif" size="52">Estamos aquí para matar dragones.</font>
+
+476
+00:33:48,294 --> 00:33:50,672
+<font face="sans-serif" size="52">Por eso nuestras
+mejores tribus se juntaron.</font>
+
+477
+00:33:51,172 --> 00:33:53,757
+<font face="sans-serif" size="52">Porque sí, los dragones
+son tan malos como pensamos.</font>
+
+478
+00:33:53,758 --> 00:33:55,635
+<font face="sans-serif" size="52">Sí, sí, lo sé. Sólo que...</font>
+
+479
+00:33:56,302 --> 00:33:57,887
+<font face="sans-serif" size="52">tal vez somos parte del problema.</font>
+
+480
+00:33:58,721 --> 00:34:00,222
+<font face="sans-serif" size="52">Invadimos sus tierras,</font>
+
+481
+00:34:00,223 --> 00:34:01,808
+<font face="sans-serif" size="52">comemos su comida.</font>
+
+482
+00:34:06,729 --> 00:34:07,730
+<font face="sans-serif" size="52">Guau.</font>
+
+483
+00:34:08,398 --> 00:34:10,400
+<font face="sans-serif" size="52">Tú vives en un mundo diferente.</font>
+
+484
+00:34:11,192 --> 00:34:12,025
+<font face="sans-serif" size="52">¿Qué estás...?</font>
+
+485
+00:34:12,026 --> 00:34:14,444
+<font face="sans-serif" size="52">Vas por la vida,
+dando todo por sentado.</font>
+
+486
+00:34:14,445 --> 00:34:15,571
+<font face="sans-serif" size="52">No creo que...</font>
+
+487
+00:34:15,572 --> 00:34:18,366
+<font face="sans-serif" size="52">No te esfuerzas por nada,
+ni luchas para tener éxito.</font>
+
+488
+00:34:18,867 --> 00:34:19,909
+<font face="sans-serif" size="52">¿Sabes qué?</font>
+
+489
+00:34:20,451 --> 00:34:22,493
+<font face="sans-serif" size="52">Yo no tengo nada.</font>
+
+490
+00:34:22,494 --> 00:34:24,078
+<font face="sans-serif" size="52">Mi papá no es el jefe,</font>
+
+491
+00:34:24,079 --> 00:34:26,623
+<font face="sans-serif" size="52">nadie me dio nada. No hay excusa.</font>
+
+492
+00:34:26,624 --> 00:34:27,833
+<font face="sans-serif" size="52">No le temo al trabajo.</font>
+
+493
+00:34:27,834 --> 00:34:30,085
+<font face="sans-serif" size="52">Haré lo que sea
+por cumplir con mi obligación,</font>
+
+494
+00:34:30,086 --> 00:34:33,505
+<font face="sans-serif" size="52">que, en este caso, es matar
+dragones por el bien del pueblo.</font>
+
+495
+00:34:34,299 --> 00:34:35,300
+<font face="sans-serif" size="52">Entiendo.</font>
+
+496
+00:34:36,800 --> 00:34:38,010
+<font face="sans-serif" size="52">¿Te digo otra cosa?</font>
+
+497
+00:34:38,011 --> 00:34:40,262
+<font face="sans-serif" size="52">Me da miedo... preguntar.</font>
+
+498
+00:34:43,308 --> 00:34:45,726
+<font face="sans-serif" size="52">Estoy interesada en tu gran casa.</font>
+
+499
+00:34:47,020 --> 00:34:48,688
+<font face="sans-serif" size="52">Algún día seré la jefa.</font>
+
+500
+00:34:50,190 --> 00:34:51,773
+<font face="sans-serif" size="52">No... no lo dudo.</font>
+
+501
+00:34:52,983 --> 00:34:55,153
+<font face="sans-serif" size="52">De hecho, a mi papá le encantaría.</font>
+
+502
+00:34:55,653 --> 00:34:57,738
+<font face="sans-serif" size="52">Eres la hija que siempre soñó.</font>
+
+503
+00:34:57,739 --> 00:34:58,990
+<font face="sans-serif" size="52">Y en lugar de eso...</font>
+
+504
+00:35:00,575 --> 00:35:01,618
+<font face="sans-serif" size="52">tiene esto.</font>
+
+505
+00:35:03,912 --> 00:35:05,455
+<font face="sans-serif" size="52">No me estorbes, Hipo.</font>
+
+506
+00:35:21,554 --> 00:35:23,223
+<font face="sans-serif" size="52">"Clasificación de dragones.</font>
+
+507
+00:35:23,932 --> 00:35:26,851
+<font face="sans-serif" size="52">Los que matan.
+Los que asustan. Los que acechan".</font>
+
+508
+00:35:30,480 --> 00:35:31,813
+<font face="sans-serif" size="52">"Truenotambor.</font>
+
+509
+00:35:31,814 --> 00:35:34,107
+<font face="sans-serif" size="52">Cuando se asusta,
+produce un sonido</font>
+
+510
+00:35:34,108 --> 00:35:35,859
+<font face="sans-serif" size="52">que mataría al que esté cerca.</font>
+
+511
+00:35:35,860 --> 00:35:37,862
+<font face="sans-serif" size="52">Extremadamente peligroso. Tirar a matar".</font>
+
+512
+00:35:38,738 --> 00:35:39,780
+<font face="sans-serif" size="52">"Cortaleña.</font>
+
+513
+00:35:39,781 --> 00:35:40,906
+<font face="sans-serif" size="52">Skrill.</font>
+
+514
+00:35:40,907 --> 00:35:42,032
+<font face="sans-serif" size="52">Muerte Susurrante.</font>
+
+515
+00:35:42,033 --> 00:35:43,242
+<font face="sans-serif" size="52">Quema a sus víctimas.</font>
+
+516
+00:35:43,243 --> 00:35:44,284
+<font face="sans-serif" size="52">Las entierra.</font>
+
+517
+00:35:44,285 --> 00:35:45,619
+<font face="sans-serif" size="52">Asfixia a sus víctimas.</font>
+
+518
+00:35:45,620 --> 00:35:46,954
+<font face="sans-serif" size="52">Destripa a sus víctimas.</font>
+
+519
+00:35:46,955 --> 00:35:49,331
+<font face="sans-serif" size="52">En extremo peligroso.</font>
+
+520
+00:35:49,332 --> 00:35:52,085
+<font face="sans-serif" size="52">Tirar a matar. Tirar a matar.
+Tirar a matar".</font>
+
+521
+00:35:54,003 --> 00:35:55,129
+<font face="sans-serif" size="52">"Furia Nocturna.</font>
+
+522
+00:35:56,673 --> 00:35:59,258
+<font face="sans-serif" size="52">Tamaño: desconocido.
+Velocidad: desconocida.</font>
+
+523
+00:35:59,259 --> 00:36:02,010
+<font face="sans-serif" size="52">La cría maligna
+del relámpago y la muerte misma.</font>
+
+524
+00:36:02,011 --> 00:36:04,931
+<font face="sans-serif" size="52">No enfrentarse jamás a este dragón".</font>
+
+525
+00:36:16,943 --> 00:36:19,362
+<font face="sans-serif" size="52">Casi puedo olerlos.</font>
+
+526
+00:36:27,537 --> 00:36:28,830
+<font face="sans-serif" size="52">Llévennos...</font>
+
+527
+00:36:29,998 --> 00:36:31,916
+<font face="sans-serif" size="52">a las Puertas de Helheim.</font>
+
+528
+00:36:32,500 --> 00:36:33,917
+<font face="sans-serif" size="52">Aquí vamos de nuevo.</font>
+
+529
+00:36:33,918 --> 00:36:35,837
+<font face="sans-serif" size="52">¡A babor!</font>
+
+530
+00:36:42,802 --> 00:36:46,263
+<font face="sans-serif" size="52">¡Saquen los remos! ¡Enrollen las velas!</font>
+
+531
+00:36:46,264 --> 00:36:47,640
+<font face="sans-serif" size="52">¡Todos juntos!</font>
+
+532
+00:36:49,142 --> 00:36:50,185
+<font face="sans-serif" size="52">¡Más arriba!</font>
+
+533
+00:37:38,399 --> 00:37:39,442
+<font face="sans-serif" size="52">¡No estamos solos!</font>
+
+534
+00:37:39,984 --> 00:37:41,569
+<font face="sans-serif" size="52">¡Cuidado con las cabezas!</font>
+
+535
+00:37:56,543 --> 00:37:58,460
+<font face="sans-serif" size="52">¡Retirada!</font>
+
+536
+00:37:58,461 --> 00:37:59,587
+<font face="sans-serif" size="52">¡Nos rodearon!</font>
+
+537
+00:38:02,924 --> 00:38:03,967
+<font face="sans-serif" size="52">Oye, Bocón quería...</font>
+
+538
+00:38:04,968 --> 00:38:08,304
+<font face="sans-serif" size="52">Vi que en el libro
+no hay nada sobre Furias Nocturnas.</font>
+
+539
+00:38:09,180 --> 00:38:11,307
+<font face="sans-serif" size="52">¿Es posible que haya otro libro?</font>
+
+540
+00:38:12,183 --> 00:38:13,810
+<font face="sans-serif" size="52">¿Un panfleto de Furias Nocturnas?</font>
+
+541
+00:38:15,353 --> 00:38:16,771
+<font face="sans-serif" size="52">¡Concéntrate, Hipo!</font>
+
+542
+00:38:17,313 --> 00:38:18,606
+<font face="sans-serif" size="52">Ni siquiera lo intentas.</font>
+
+543
+00:38:19,399 --> 00:38:21,275
+<font face="sans-serif" size="52">Hoy veremos ataques.</font>
+
+544
+00:38:21,276 --> 00:38:24,278
+<font face="sans-serif" size="52">Los Nadders son rápidos y muy ágiles.</font>
+
+545
+00:38:24,279 --> 00:38:27,615
+<font face="sans-serif" size="52">Su trabajo, es ser
+más rápidos y ágiles que ellos.</font>
+
+546
+00:38:36,207 --> 00:38:37,208
+<font face="sans-serif" size="52">Perdón.</font>
+
+547
+00:38:39,919 --> 00:38:42,881
+<font face="sans-serif" size="52">Creo que tus métodos de enseñanza
+ya no funcionan.</font>
+
+548
+00:38:43,631 --> 00:38:46,633
+<font face="sans-serif" size="52">Busquen su punto ciego.
+Todo dragón tiene uno.</font>
+
+549
+00:38:46,634 --> 00:38:49,596
+<font face="sans-serif" size="52">Encuéntrenlo, escóndanse ahí, y ataquen.</font>
+
+550
+00:38:52,932 --> 00:38:54,183
+<font face="sans-serif" size="52">¿Nunca te bañas?</font>
+
+551
+00:38:54,184 --> 00:38:56,518
+<font face="sans-serif" size="52">Si te doy asco,
+busca tu propio punto ciego.</font>
+
+552
+00:38:56,519 --> 00:38:57,729
+<font face="sans-serif" size="52">¡Corre!</font>
+
+553
+00:38:58,771 --> 00:39:01,608
+<font face="sans-serif" size="52">¡Punto ciego, sí!
+¡Punto sordo, no les servirá!</font>
+
+554
+00:39:02,901 --> 00:39:05,110
+<font face="sans-serif" size="52">¡Me lastimé! ¡Estoy muy lastimado!</font>
+
+555
+00:39:05,111 --> 00:39:07,779
+<font face="sans-serif" size="52">Entonces... ¿cómo te acercas
+a un Furia Nocturna?</font>
+
+556
+00:39:07,780 --> 00:39:10,365
+<font face="sans-serif" size="52">Nadie ha visto uno
+y ha vivido para contarlo.</font>
+
+557
+00:39:10,366 --> 00:39:11,450
+<font face="sans-serif" size="52">¡Regresa a pelear!</font>
+
+558
+00:39:11,451 --> 00:39:13,243
+<font face="sans-serif" size="52">Sí, ya sé. Sólo me parece que...</font>
+
+559
+00:39:13,244 --> 00:39:14,329
+<font face="sans-serif" size="52">Hipo.</font>
+
+560
+00:39:15,788 --> 00:39:16,956
+<font face="sans-serif" size="52">Agáchate.</font>
+
+561
+00:39:30,345 --> 00:39:31,845
+<font face="sans-serif" size="52">¡Corre y sálvate!</font>
+
+562
+00:39:31,846 --> 00:39:33,348
+<font face="sans-serif" size="52">Yo me encargo de él.</font>
+
+563
+00:39:35,558 --> 00:39:36,392
+<font face="sans-serif" size="52">Ay, no.</font>
+
+564
+00:39:37,435 --> 00:39:38,685
+<font face="sans-serif" size="52">No fue mi culpa, Astrid.</font>
+
+565
+00:39:38,686 --> 00:39:41,439
+<font face="sans-serif" size="52">Es que me distrajo...
+el brillo de tus ojos.</font>
+
+566
+00:40:11,386 --> 00:40:13,304
+<font face="sans-serif" size="52">¡Espera! Sólo déjame...</font>
+
+567
+00:40:30,113 --> 00:40:32,198
+<font face="sans-serif" size="52">¡Eso! Bien hecho, Astrid.</font>
+
+568
+00:40:32,699 --> 00:40:35,576
+<font face="sans-serif" size="52">Nada como darles
+una probada de su propia medicina.</font>
+
+569
+00:40:35,577 --> 00:40:39,538
+<font face="sans-serif" size="52">¿Qué tal un "gracias Patán,
+por tu ayuda", eh? ¡Un equipazo!</font>
+
+570
+00:40:39,539 --> 00:40:42,040
+<font face="sans-serif" size="52">¿Alguien aquí se toma esto en serio?</font>
+
+571
+00:40:42,041 --> 00:40:43,750
+<font face="sans-serif" size="52">Tómatelo en serio.</font>
+
+572
+00:40:43,751 --> 00:40:46,838
+<font face="sans-serif" size="52">Les recuerdo que la guerra
+de nuestros padres se volverá nuestra.</font>
+
+573
+00:40:52,135 --> 00:40:53,761
+<font face="sans-serif" size="52">Define de qué lado estás.</font>
+
+574
+00:41:39,807 --> 00:41:41,059
+<font face="sans-serif" size="52">Okey.</font>
+
+575
+00:42:18,179 --> 00:42:19,430
+<font face="sans-serif" size="52">Chimuelo.</font>
+
+576
+00:42:20,265 --> 00:42:21,599
+<font face="sans-serif" size="52">Habría jurado que tenías...</font>
+
+577
+00:42:24,853 --> 00:42:25,854
+<font face="sans-serif" size="52">dientes.</font>
+
+578
+00:42:30,441 --> 00:42:32,652
+<font face="sans-serif" size="52">Ya no tengo más comida.</font>
+
+579
+00:42:54,424 --> 00:42:55,508
+<font face="sans-serif" size="52">¿Gracias?</font>
+
+580
+00:43:04,434 --> 00:43:06,060
+<font face="sans-serif" size="52">Ah, es una broma, ¿verdad?</font>
+
+581
+00:47:04,841 --> 00:47:08,635
+<font face="sans-serif" size="52">Luego se volteó, agarró mi brazo,
+y con un giro,</font>
+
+582
+00:47:08,636 --> 00:47:11,431
+<font face="sans-serif" size="52">me arrancó la mano
+y se la tragó entera.</font>
+
+583
+00:47:12,140 --> 00:47:14,308
+<font face="sans-serif" size="52">Y debe haber esparcido el rumor,</font>
+
+584
+00:47:14,309 --> 00:47:17,853
+<font face="sans-serif" size="52">porque al mes siguiente,
+otro dragón se llevó mi pierna.</font>
+
+585
+00:47:17,854 --> 00:47:21,857
+<font face="sans-serif" size="52">Seguro fue un Skrill.
+Dientes de sierra, con mordida 17.</font>
+
+586
+00:47:21,858 --> 00:47:24,067
+<font face="sans-serif" size="52">Yo vengaré tus partes caídas, Bocón.</font>
+
+587
+00:47:24,068 --> 00:47:27,237
+<font face="sans-serif" size="52">Cortaré las garras y patas
+de cada dragón que encuentre.</font>
+
+588
+00:47:27,238 --> 00:47:28,406
+<font face="sans-serif" size="52">No.</font>
+
+589
+00:47:29,991 --> 00:47:31,742
+<font face="sans-serif" size="52">Corten las alas y la cola.</font>
+
+590
+00:47:31,743 --> 00:47:34,620
+<font face="sans-serif" size="52">Si no pueden volar, no pueden escapar.</font>
+
+591
+00:47:34,621 --> 00:47:37,998
+<font face="sans-serif" size="52">Un dragón caído, es un dragón muerto.</font>
+
+592
+00:47:37,999 --> 00:47:40,542
+<font face="sans-serif" size="52">Cualquiera puede vivir
+sin las otras partes.</font>
+
+593
+00:47:40,543 --> 00:47:42,169
+<font face="sans-serif" size="52">Perderé todas mis extremidades.</font>
+
+594
+00:47:42,170 --> 00:47:45,423
+<font face="sans-serif" size="52">Propongo a Brutilda para que pierda...
+al menos un pie.</font>
+
+595
+00:47:46,174 --> 00:47:48,801
+<font face="sans-serif" size="52">¿Qué? Somos gemelos. Tu dolor es mi dolor.</font>
+
+596
+00:47:49,344 --> 00:47:50,344
+<font face="sans-serif" size="52">¿Son gemelos?</font>
+
+597
+00:47:50,345 --> 00:47:52,512
+<font face="sans-serif" size="52">Ni nuestra madre sabe quién es quién.</font>
+
+598
+00:47:52,513 --> 00:47:54,057
+<font face="sans-serif" size="52">Ni nadie.</font>
+
+599
+00:47:55,099 --> 00:47:57,685
+<font face="sans-serif" size="52">Qué buena idea la de Astrid.</font>
+
+600
+00:47:58,228 --> 00:47:59,938
+<font face="sans-serif" size="52">Duerman, ahora que pueden.</font>
+
+601
+00:48:00,772 --> 00:48:02,856
+<font face="sans-serif" size="52">Estoico volverá pronto.</font>
+
+602
+00:48:02,857 --> 00:48:05,527
+<font face="sans-serif" size="52">Y uno de ustedes será elegido
+para matar al dragón.</font>
+
+603
+00:48:06,069 --> 00:48:08,655
+<font face="sans-serif" size="52">La pregunta es... ¿quién será?</font>
+
+604
+00:48:49,112 --> 00:48:50,572
+<font face="sans-serif" size="52">¡Chimuelo!</font>
+
+605
+00:48:52,532 --> 00:48:53,533
+<font face="sans-serif" size="52">Traje el desayuno.</font>
+
+606
+00:49:01,374 --> 00:49:02,667
+<font face="sans-serif" size="52">¿Qué te parece, amigo?</font>
+
+607
+00:49:03,668 --> 00:49:04,794
+<font face="sans-serif" size="52">Bien.</font>
+
+608
+00:49:06,379 --> 00:49:07,922
+<font face="sans-serif" size="52">Te traje trucha.</font>
+
+609
+00:49:09,424 --> 00:49:10,675
+<font face="sans-serif" size="52">Y salmón.</font>
+
+610
+00:49:11,217 --> 00:49:13,303
+<font face="sans-serif" size="52">Y... una anguila ahumada.</font>
+
+611
+00:49:15,805 --> 00:49:17,682
+<font face="sans-serif" size="52">¡Olvídalo, anguila no!</font>
+
+612
+00:49:20,268 --> 00:49:21,269
+<font face="sans-serif" size="52">Sí,</font>
+
+613
+00:49:22,270 --> 00:49:23,646
+<font face="sans-serif" size="52">a mí tampoco me gusta.</font>
+
+614
+00:49:26,608 --> 00:49:27,734
+<font face="sans-serif" size="52">Muy bien.</font>
+
+615
+00:49:28,776 --> 00:49:30,028
+<font face="sans-serif" size="52">Todo para ti.</font>
+
+616
+00:49:30,528 --> 00:49:32,155
+<font face="sans-serif" size="52">Concéntrate en comer.</font>
+
+617
+00:49:32,780 --> 00:49:35,575
+<font face="sans-serif" size="52">Yo voy a estar... acá atrás,</font>
+
+618
+00:49:36,784 --> 00:49:38,411
+<font face="sans-serif" size="52">revisando mis asuntos.</font>
+
+619
+00:49:41,998 --> 00:49:42,999
+<font face="sans-serif" size="52">A ver...</font>
+
+620
+00:50:02,310 --> 00:50:03,394
+<font face="sans-serif" size="52">Muy bien.</font>
+
+621
+00:50:04,312 --> 00:50:05,313
+<font face="sans-serif" size="52">Ya está.</font>
+
+622
+00:50:09,776 --> 00:50:11,069
+<font face="sans-serif" size="52">Bien, no está mal.</font>
+
+623
+00:50:11,778 --> 00:50:13,154
+<font face="sans-serif" size="52">Servirá. Si...</font>
+
+624
+00:50:13,655 --> 00:50:14,613
+<font face="sans-serif" size="52">¡Ay, no!</font>
+
+625
+00:50:14,614 --> 00:50:15,739
+<font face="sans-serif" size="52">¡Chimuelo, no!</font>
+
+626
+00:50:15,740 --> 00:50:16,950
+<font face="sans-serif" size="52">¡Ayúdenme dioses!</font>
+
+627
+00:50:20,828 --> 00:50:22,163
+<font face="sans-serif" size="52">¡Ay, dioses!</font>
+
+628
+00:50:29,170 --> 00:50:30,171
+<font face="sans-serif" size="52">¡Okey!</font>
+
+629
+00:50:33,758 --> 00:50:35,260
+<font face="sans-serif" size="52">¡Sí funciona!</font>
+
+630
+00:50:44,477 --> 00:50:46,062
+<font face="sans-serif" size="52">¡Sí!</font>
+
+631
+00:50:47,814 --> 00:50:50,108
+<font face="sans-serif" size="52"><i>Hoy... aprenderemos a trabajar en equipo.</i></font>
+
+632
+00:50:50,692 --> 00:50:53,486
+<font face="sans-serif" size="52">Si trabajan juntos, tal vez sobrevivan.</font>
+
+633
+00:50:55,405 --> 00:50:59,658
+<font face="sans-serif" size="52">Verán... una cabeza de dragón mojada
+no puede lanzar fuego.</font>
+
+634
+00:50:59,659 --> 00:51:02,452
+<font face="sans-serif" size="52">Pero el Espantosus Cremallerus
+es muy difícil,</font>
+
+635
+00:51:02,453 --> 00:51:05,539
+<font face="sans-serif" size="52">porque una cabeza expulsa el gas,
+y la otra lo enciende.</font>
+
+636
+00:51:05,540 --> 00:51:08,501
+<font face="sans-serif" size="52">Su trabajo es averiguar cuál es cuál.</font>
+
+637
+00:51:09,127 --> 00:51:10,128
+<font face="sans-serif" size="52">¡Buena suerte!</font>
+
+638
+00:51:13,715 --> 00:51:17,468
+<font face="sans-serif" size="52">Colmillos muy afilados
+que inyectan veneno para la predigestión.</font>
+
+639
+00:51:18,094 --> 00:51:19,846
+<font face="sans-serif" size="52">Mantiene a sus víctimas...</font>
+
+640
+00:51:21,222 --> 00:51:22,264
+<font face="sans-serif" size="52">conscientes.</font>
+
+641
+00:51:22,265 --> 00:51:24,809
+<font face="sans-serif" size="52">Oye, me da gusto que nos pusieran juntas.</font>
+
+642
+00:51:25,518 --> 00:51:28,271
+<font face="sans-serif" size="52">Porque... las mujeres debemos estar unidas.</font>
+
+643
+00:51:28,980 --> 00:51:30,772
+<font face="sans-serif" size="52">- Hasta que te elimine.
+- Silencio.</font>
+
+644
+00:51:30,773 --> 00:51:32,816
+<font face="sans-serif" size="52">Creo que ya me gané a Astrid.</font>
+
+645
+00:51:32,817 --> 00:51:34,944
+<font face="sans-serif" size="52">Apenas puede mirarme a los ojos.</font>
+
+646
+00:51:35,445 --> 00:51:37,362
+<font face="sans-serif" size="52">Viniste con el indicado por un consejo.</font>
+
+647
+00:51:37,363 --> 00:51:38,447
+<font face="sans-serif" size="52">No te pedí...</font>
+
+648
+00:51:38,448 --> 00:51:41,784
+<font face="sans-serif" size="52">Una cosa que el cerebro
+de una vikinga no resiste, es...</font>
+
+649
+00:51:42,660 --> 00:51:43,703
+<font face="sans-serif" size="52">¡Cuidado!</font>
+
+650
+00:51:44,996 --> 00:51:47,581
+<font face="sans-serif" size="52">- ¡Oigan!
+- Somos nosotras, genios.</font>
+
+651
+00:51:47,582 --> 00:51:50,126
+<font face="sans-serif" size="52">Reflejos rápidos.
+Si veo dos cabezas horrendas, ataco.</font>
+
+652
+00:51:53,504 --> 00:51:55,215
+<font face="sans-serif" size="52">Sólo veo una cabeza horrenda, Astrid.</font>
+
+653
+00:51:59,969 --> 00:52:01,179
+<font face="sans-serif" size="52">¡Sálvese quien pueda!</font>
+
+654
+00:52:02,347 --> 00:52:04,598
+<font face="sans-serif" size="52">Y se dice que juega con sus víctimas.</font>
+
+655
+00:52:04,599 --> 00:52:06,308
+<font face="sans-serif" size="52">Las desmiembra de a poco.</font>
+
+656
+00:52:06,309 --> 00:52:08,478
+<font face="sans-serif" size="52">¿Puedes callarte la boca?</font>
+
+657
+00:52:10,939 --> 00:52:12,023
+<font face="sans-serif" size="52">¡Patapez!</font>
+
+658
+00:52:14,984 --> 00:52:16,069
+<font face="sans-serif" size="52">No era esa cabeza.</font>
+
+659
+00:52:20,073 --> 00:52:21,658
+<font face="sans-serif" size="52">¡Sal de ahí, Hipo!</font>
+
+660
+00:52:23,368 --> 00:52:24,452
+<font face="sans-serif" size="52">¿Qué hice?</font>
+
+661
+00:52:34,921 --> 00:52:37,090
+<font face="sans-serif" size="52">¡Sí! ¡Atrás!</font>
+
+662
+00:52:38,925 --> 00:52:41,385
+<font face="sans-serif" size="52">¡Corre...! Hipo.</font>
+
+663
+00:52:41,386 --> 00:52:42,844
+<font face="sans-serif" size="52">¡No me obliguen a repetirlo!</font>
+
+664
+00:52:42,845 --> 00:52:43,763
+<font face="sans-serif" size="52">¡Sí!</font>
+
+665
+00:52:44,264 --> 00:52:46,099
+<font face="sans-serif" size="52">Así se hace. Vuelvan a su jaula.</font>
+
+666
+00:52:49,227 --> 00:52:51,688
+<font face="sans-serif" size="52">Ahora, mediten lo que hicieron.</font>
+
+667
+00:53:10,039 --> 00:53:12,917
+<font face="sans-serif" size="52">¿Ya terminamos por hoy?</font>
+
+668
+00:53:13,459 --> 00:53:15,712
+<font face="sans-serif" size="52">Es que hay algo que necesito...</font>
+
+669
+00:53:16,838 --> 00:53:18,339
+<font face="sans-serif" size="52">Sí, nos... nos vemos mañana.</font>
+
+670
+00:53:29,601 --> 00:53:30,643
+<font face="sans-serif" size="52">¡Oye!</font>
+
+671
+00:53:31,144 --> 00:53:33,646
+<font face="sans-serif" size="52">¡Vamos, pruébatela!</font>
+
+672
+00:53:45,867 --> 00:53:47,368
+<font face="sans-serif" size="52">¡Voy a morir!</font>
+
+673
+00:53:48,703 --> 00:53:49,996
+<font face="sans-serif" size="52">¡No, no, no!</font>
+
+674
+00:53:51,956 --> 00:53:53,707
+<font face="sans-serif" size="52">¡No, por favor!</font>
+
+675
+00:53:53,708 --> 00:53:55,710
+<font face="sans-serif" size="52">¡Trata de girarte un poco!</font>
+
+676
+00:54:02,091 --> 00:54:03,468
+<font face="sans-serif" size="52">¡Ay, no, no!</font>
+
+677
+00:54:24,906 --> 00:54:27,032
+<font face="sans-serif" size="52">- ¡Salgan de ahí!
+- ¡Muévanse!</font>
+
+678
+00:54:27,033 --> 00:54:29,368
+<font face="sans-serif" size="52">¡Cuidado! ¡Ponte en su punto ciego!</font>
+
+679
+00:54:29,369 --> 00:54:30,827
+<font face="sans-serif" size="52">¡Yo me encargo! ¡Lo tengo!</font>
+
+680
+00:54:30,828 --> 00:54:32,580
+<font face="sans-serif" size="52">¡No lo traigas aquí!</font>
+
+681
+00:54:45,593 --> 00:54:46,969
+<font face="sans-serif" size="52">El flaquito. ¿Cómo se llama?</font>
+
+682
+00:54:46,970 --> 00:54:49,012
+<font face="sans-serif" size="52">- No me acuerdo.
+- ¡Espérate!</font>
+
+683
+00:54:49,013 --> 00:54:51,139
+<font face="sans-serif" size="52">- ¿Intentas avergonzarnos?
+- No.</font>
+
+684
+00:54:51,140 --> 00:54:53,267
+<font face="sans-serif" size="52">Jamás vi a nadie vencer
+a un Gronckle así.</font>
+
+685
+00:54:53,268 --> 00:54:55,394
+<font face="sans-serif" size="52">Yo lo hago todo el tiempo.
+¿Quién te enseñó?</font>
+
+686
+00:54:55,395 --> 00:54:57,271
+<font face="sans-serif" size="52">¿Enseñar qué? Dinos qué fue eso.</font>
+
+687
+00:54:57,272 --> 00:54:58,939
+<font face="sans-serif" size="52">Me encantaría explicarles.</font>
+
+688
+00:54:58,940 --> 00:55:01,526
+<font face="sans-serif" size="52">Pero dejé mi hacha en la arena.</font>
+
+689
+00:55:02,026 --> 00:55:04,236
+<font face="sans-serif" size="52">¿Quién se porta bien?
+Dime, ¿quién?</font>
+
+690
+00:55:04,237 --> 00:55:05,696
+<font face="sans-serif" size="52">Bien, así.</font>
+
+691
+00:55:05,697 --> 00:55:07,948
+<font face="sans-serif" size="52">Sí. ¿Así? ¿Así te gusta?</font>
+
+692
+00:55:07,949 --> 00:55:09,033
+<font face="sans-serif" size="52">¿Ahí te da cosquillas?</font>
+
+693
+00:55:44,110 --> 00:55:45,111
+<font face="sans-serif" size="52">¡Eso, Hipo!</font>
+
+694
+00:55:49,115 --> 00:55:50,200
+<font face="sans-serif" size="52">Ya llegó.</font>
+
+695
+00:55:50,950 --> 00:55:52,076
+<font face="sans-serif" size="52">Oye, Hipo.</font>
+
+696
+00:55:53,203 --> 00:55:54,286
+<font face="sans-serif" size="52">Bien.</font>
+
+697
+00:55:54,287 --> 00:55:56,580
+<font face="sans-serif" size="52">- Yo tengo una pregunta.
+- Me gustaría...</font>
+
+698
+00:55:56,581 --> 00:55:58,708
+<font face="sans-serif" size="52">que estemos solos,
+tú y yo en la arena.</font>
+
+699
+00:56:07,425 --> 00:56:08,885
+<font face="sans-serif" size="52">El Terrible Terror.</font>
+
+700
+00:56:17,727 --> 00:56:19,062
+<font face="sans-serif" size="52">Es del tamaño de mi...</font>
+
+701
+00:56:20,522 --> 00:56:22,232
+<font face="sans-serif" size="52">¡Quítamelo, quítamelo, quítamelo!</font>
+
+702
+00:58:07,378 --> 00:58:08,713
+<font face="sans-serif" size="52">¿Y los otros barcos?</font>
+
+703
+00:58:21,100 --> 00:58:22,185
+<font face="sans-serif" size="52">¡Papá!</font>
+
+704
+00:58:22,810 --> 00:58:23,811
+<font face="sans-serif" size="52">Te ayudo.</font>
+
+705
+00:58:24,604 --> 00:58:25,812
+<font face="sans-serif" size="52">Te extrañé.</font>
+
+706
+00:58:25,813 --> 00:58:27,607
+<font face="sans-serif" size="52">De manera super masculina.</font>
+
+707
+00:58:28,233 --> 00:58:30,484
+<font face="sans-serif" size="52">Tengo mucho que contarte
+de la Prueba de Fuego.</font>
+
+708
+00:58:30,485 --> 00:58:32,111
+<font face="sans-serif" size="52">Está entre... ¿Papá?</font>
+
+709
+00:58:33,988 --> 00:58:35,156
+<font face="sans-serif" size="52">¿Papá?</font>
+
+710
+00:58:36,699 --> 00:58:38,826
+<font face="sans-serif" size="52">¿Pa...? ¡Sí, te veo en la casa!</font>
+
+711
+00:58:40,203 --> 00:58:41,995
+<font face="sans-serif" size="52">Entonces... ¿no encontraron el nido?</font>
+
+712
+00:58:41,996 --> 00:58:43,289
+<font face="sans-serif" size="52">Ni nos acercamos.</font>
+
+713
+00:58:44,624 --> 00:58:46,542
+<font face="sans-serif" size="52">Espero que tú hayas tenido más éxito.</font>
+
+714
+00:58:46,543 --> 00:58:49,795
+<font face="sans-serif" size="52">Si el éxito es que tus
+problemas paternales se acabaron,</font>
+
+715
+00:58:49,796 --> 00:58:52,173
+<font face="sans-serif" size="52">entonces... sí.</font>
+
+716
+00:58:53,341 --> 00:58:55,217
+<font face="sans-serif" size="52">¿Ya se enteró, jefe?</font>
+
+717
+00:58:55,218 --> 00:58:57,177
+<font face="sans-serif" size="52">Todos están tan aliviados.</font>
+
+718
+00:58:57,178 --> 00:58:58,887
+<font face="sans-serif" size="52">Que descanse en paz Hipo.</font>
+
+719
+00:58:58,888 --> 00:59:01,307
+<font face="sans-serif" size="52">Sí. Nadie extrañará a ese inútil.</font>
+
+720
+00:59:04,269 --> 00:59:05,270
+<font face="sans-serif" size="52">Hipo ya...</font>
+
+721
+00:59:06,855 --> 00:59:07,689
+<font face="sans-serif" size="52">¿no está?</font>
+
+722
+00:59:08,523 --> 00:59:10,274
+<font face="sans-serif" size="52">Sí. Sí, en las tardes.</font>
+
+723
+00:59:10,275 --> 00:59:13,610
+<font face="sans-serif" size="52">Pero no lo culpo. La vida
+de una celebridad puede ser muy difícil.</font>
+
+724
+00:59:13,611 --> 00:59:15,320
+<font face="sans-serif" size="52">Apenas puede andar por el pueblo</font>
+
+725
+00:59:15,321 --> 00:59:18,032
+<font face="sans-serif" size="52">sin que lo persiga su ejército de <i>fans</i>.</font>
+
+726
+00:59:19,325 --> 00:59:21,035
+<font face="sans-serif" size="52">¿Quién pensaría que es un...</font>
+
+727
+00:59:22,245 --> 00:59:23,621
+<font face="sans-serif" size="52">domador de bestias?</font>
+
+728
+00:59:36,634 --> 00:59:37,760
+<font face="sans-serif" size="52">Muy bien, amigo.</font>
+
+729
+00:59:38,261 --> 00:59:40,054
+<font face="sans-serif" size="52">Nos tomaremos esto con calma.</font>
+
+730
+00:59:42,849 --> 00:59:43,974
+<font face="sans-serif" size="52">Aquí vamos.</font>
+
+731
+00:59:43,975 --> 00:59:45,977
+<font face="sans-serif" size="52">Posición tres. No, cuatro.</font>
+
+732
+01:00:02,744 --> 01:00:03,745
+<font face="sans-serif" size="52">¿Listo?</font>
+
+733
+01:00:18,843 --> 01:00:19,886
+<font face="sans-serif" size="52">¡Tú puedes!</font>
+
+734
+01:00:36,027 --> 01:00:37,695
+<font face="sans-serif" size="52">¡Sí, mírennos!</font>
+
+735
+01:00:42,075 --> 01:00:43,535
+<font face="sans-serif" size="52">¡Fue mi culpa!</font>
+
+736
+01:00:44,619 --> 01:00:45,995
+<font face="sans-serif" size="52">Sí, sí, ya voy.</font>
+
+737
+01:00:46,996 --> 01:00:48,122
+<font face="sans-serif" size="52">Posición cinco.</font>
+
+738
+01:00:51,000 --> 01:00:52,252
+<font face="sans-serif" size="52">Arriba, amigo.</font>
+
+739
+01:00:56,673 --> 01:00:58,424
+<font face="sans-serif" size="52">¡Bien! ¡Así se hace!</font>
+
+740
+01:00:59,968 --> 01:01:02,762
+<font face="sans-serif" size="52">¡Esto es increíble! El viento en mis...</font>
+
+741
+01:01:03,388 --> 01:01:06,099
+<font face="sans-serif" size="52">¡En mis notas! ¡Alto!</font>
+
+742
+01:01:10,645 --> 01:01:12,814
+<font face="sans-serif" size="52">¡Dioses!</font>
+
+743
+01:02:21,090 --> 01:02:22,217
+<font face="sans-serif" size="52">¡Sí!</font>
+
+744
+01:02:34,771 --> 01:02:36,606
+<font face="sans-serif" size="52">- ¡Hijo!
+- ¡Papá! ¡Volviste!</font>
+
+745
+01:02:37,815 --> 01:02:40,360
+<font face="sans-serif" size="52">- Bocón no está aquí, así que...
+- Ya sé.</font>
+
+746
+01:02:43,613 --> 01:02:45,239
+<font face="sans-serif" size="52">Te buscaba a ti.</font>
+
+747
+01:02:45,240 --> 01:02:47,325
+<font face="sans-serif" size="52">¿En serio? ¿Por qué?</font>
+
+748
+01:02:47,825 --> 01:02:49,660
+<font face="sans-serif" size="52">No me has contado tus secretos.</font>
+
+749
+01:02:49,661 --> 01:02:50,953
+<font face="sans-serif" size="52">¿Cuáles?</font>
+
+750
+01:02:50,954 --> 01:02:54,249
+<font face="sans-serif" size="52">¿Cuánto tiempo creíste
+que ibas a poder esconderlo?</font>
+
+751
+01:02:55,083 --> 01:02:56,917
+<font face="sans-serif" size="52">No sé de qué me estás hablando.</font>
+
+752
+01:02:56,918 --> 01:03:00,712
+<font face="sans-serif" size="52">Nada pasa en esta isla</font>
+
+753
+01:03:00,713 --> 01:03:03,091
+<font face="sans-serif" size="52">sin que yo me entere.</font>
+
+754
+01:03:04,175 --> 01:03:06,970
+<font face="sans-serif" size="52">Así que... cuéntame...</font>
+
+755
+01:03:07,637 --> 01:03:09,388
+<font face="sans-serif" size="52">sobre ese dragón.</font>
+
+756
+01:03:09,389 --> 01:03:11,014
+<font face="sans-serif" size="52">Ay, dioses, papá.</font>
+
+757
+01:03:11,015 --> 01:03:12,517
+<font face="sans-serif" size="52">Por favor, perdóname.</font>
+
+758
+01:03:13,142 --> 01:03:16,145
+<font face="sans-serif" size="52">Iba a decirte antes.
+Es que no sabía...</font>
+
+759
+01:03:22,610 --> 01:03:23,902
+<font face="sans-serif" size="52">¿No estás molesto?</font>
+
+760
+01:03:23,903 --> 01:03:25,738
+<font face="sans-serif" size="52">¿Qué? ¿De qué hablas?</font>
+
+761
+01:03:26,281 --> 01:03:27,615
+<font face="sans-serif" size="52">Esperaba esto.</font>
+
+762
+01:03:28,324 --> 01:03:30,200
+<font face="sans-serif" size="52">- ¿En serio?
+- ¡Claro que sí!</font>
+
+763
+01:03:30,201 --> 01:03:33,120
+<font face="sans-serif" size="52">Y créeme, esto se pondrá mejor.</font>
+
+764
+01:03:33,121 --> 01:03:37,666
+<font face="sans-serif" size="52">Espera a que destripes un Nadder
+por primera vez.</font>
+
+765
+01:03:37,667 --> 01:03:41,963
+<font face="sans-serif" size="52">O que pongas tu primera cabeza
+de Gronckle en una lanza.</font>
+
+766
+01:03:42,714 --> 01:03:43,965
+<font face="sans-serif" size="52">¡Qué emoción!</font>
+
+767
+01:03:44,799 --> 01:03:46,718
+<font face="sans-serif" size="52">De verdad me engañaste, hijo.</font>
+
+768
+01:03:47,343 --> 01:03:52,515
+<font face="sans-serif" size="52">Tantos años de ser el peor vikingo
+que Berk ha visto jamás.</font>
+
+769
+01:03:53,308 --> 01:03:55,225
+<font face="sans-serif" size="52">¡Odín, fue difícil!</font>
+
+770
+01:03:55,226 --> 01:03:56,894
+<font face="sans-serif" size="52">Casi me doy por vencido contigo.</font>
+
+771
+01:03:56,895 --> 01:04:00,148
+<font face="sans-serif" size="52">Y todo el tiempo
+me lo estuviste escondiendo.</font>
+
+772
+01:04:01,232 --> 01:04:02,984
+<font face="sans-serif" size="52">¡Thor, santísimo!</font>
+
+773
+01:04:03,610 --> 01:04:05,736
+<font face="sans-serif" size="52">¿Quién diría que el entrenamiento</font>
+
+774
+01:04:05,737 --> 01:04:07,488
+<font face="sans-serif" size="52">iba a ser tu lugar para brillar?</font>
+
+775
+01:04:09,449 --> 01:04:11,992
+<font face="sans-serif" size="52">Podrías convertirte en el Cazador Supremo.</font>
+
+776
+01:04:11,993 --> 01:04:13,286
+<font face="sans-serif" size="52">Igual que tu padre.</font>
+
+777
+01:04:13,912 --> 01:04:14,913
+<font face="sans-serif" size="52">Lo sé.</font>
+
+778
+01:04:15,914 --> 01:04:19,125
+<font face="sans-serif" size="52">Mira, ahora que te está yendo
+tan bien en la arena...</font>
+
+779
+01:04:19,834 --> 01:04:20,959
+<font face="sans-serif" size="52">Me tengo que...</font>
+
+780
+01:04:20,960 --> 01:04:22,127
+<font face="sans-serif" size="52">- Siéntate.
+- Bueno.</font>
+
+781
+01:04:22,128 --> 01:04:25,381
+<font face="sans-serif" size="52">Por fin... tenemos algo de qué hablar.</font>
+
+782
+01:04:32,889 --> 01:04:33,890
+<font face="sans-serif" size="52">A ver...</font>
+
+783
+01:04:45,944 --> 01:04:47,528
+<font face="sans-serif" size="52">Yo...</font>
+
+784
+01:04:47,529 --> 01:04:48,905
+<font face="sans-serif" size="52">te traje algo.</font>
+
+785
+01:04:49,656 --> 01:04:51,199
+<font face="sans-serif" size="52">Sí, para...</font>
+
+786
+01:04:52,784 --> 01:04:55,119
+<font face="sans-serif" size="52">que estés seguro en la arena.</font>
+
+787
+01:04:58,331 --> 01:05:00,833
+<font face="sans-serif" size="52">Tu madre habría querido que lo tuvieras.</font>
+
+788
+01:05:01,834 --> 01:05:03,503
+<font face="sans-serif" size="52">Gracias.</font>
+
+789
+01:05:04,170 --> 01:05:05,588
+<font face="sans-serif" size="52">Es la mitad de su pechera.</font>
+
+790
+01:05:07,674 --> 01:05:08,675
+<font face="sans-serif" size="52">Esta es la otra.</font>
+
+791
+01:05:09,342 --> 01:05:10,343
+<font face="sans-serif" size="52">La mantiene...</font>
+
+792
+01:05:11,928 --> 01:05:13,346
+<font face="sans-serif" size="52">cerca de nosotros.</font>
+
+793
+01:05:15,890 --> 01:05:17,350
+<font face="sans-serif" size="52">Úsalo con orgullo, hijo.</font>
+
+794
+01:05:17,851 --> 01:05:19,894
+<font face="sans-serif" size="52">Ya cumpliste con tu parte del trato.</font>
+
+795
+01:05:27,026 --> 01:05:28,068
+<font face="sans-serif" size="52">- Sí.
+- Sí.</font>
+
+796
+01:05:28,069 --> 01:05:30,279
+<font face="sans-serif" size="52">- ¿Cansado?
+- Sí, no, voy a... dormir.</font>
+
+797
+01:05:30,280 --> 01:05:31,363
+<font face="sans-serif" size="52">Buena plática.</font>
+
+798
+01:05:31,364 --> 01:05:33,657
+<font face="sans-serif" size="52">- Gran día, mañana.
+- Sí. La Prueba de Fuego y...</font>
+
+799
+01:05:33,658 --> 01:05:36,159
+<font face="sans-serif" size="52">- Sí, la Prueba de Fuego.
+- Te quita mucha energía.</font>
+
+800
+01:05:36,160 --> 01:05:37,369
+<font face="sans-serif" size="52">- Suerte.
+- Sí, gracias.</font>
+
+801
+01:05:37,370 --> 01:05:39,121
+<font face="sans-serif" size="52">- Ojalá te...
+- Gracias por el pechicasco.</font>
+
+802
+01:05:39,122 --> 01:05:40,707
+<font face="sans-serif" size="52">- Eso, el casco.
+- Sí.</font>
+
+803
+01:05:42,125 --> 01:05:44,419
+<font face="sans-serif" size="52">Sí, bueno... buenas noches.</font>
+
+804
+01:05:53,928 --> 01:05:57,097
+<font face="sans-serif" size="52">Basta de trucos.
+Hoy me volveré la Cazadora Suprema.</font>
+
+805
+01:05:57,098 --> 01:06:00,101
+<font face="sans-serif" size="52">Sí, sí. Es todo tuyo.
+Tú cazas supremamente.</font>
+
+806
+01:06:00,685 --> 01:06:01,686
+<font face="sans-serif" size="52">Perdón.</font>
+
+807
+01:06:23,666 --> 01:06:25,877
+<font face="sans-serif" size="52">Ahora sí, haz que valga la pena.</font>
+
+808
+01:06:32,550 --> 01:06:33,592
+<font face="sans-serif" size="52">¡Tú puedes!</font>
+
+809
+01:06:33,593 --> 01:06:34,968
+<font face="sans-serif" size="52">¡Eso, Astrid! ¡Ataca!</font>
+
+810
+01:06:34,969 --> 01:06:37,680
+<font face="sans-serif" size="52">- ¡Tú puedes, Hipo! ¡Tú puedes!
+- ¡Vamos!</font>
+
+811
+01:06:42,268 --> 01:06:43,520
+<font face="sans-serif" size="52">¡No!</font>
+
+812
+01:06:44,062 --> 01:06:46,355
+<font face="sans-serif" size="52">Hijo de troll, come ratas.</font>
+
+813
+01:06:46,356 --> 01:06:48,065
+<font face="sans-serif" size="52">Veo que lo toma con calma.</font>
+
+814
+01:06:48,066 --> 01:06:49,651
+<font face="sans-serif" size="52">¡Tú!</font>
+
+815
+01:06:55,281 --> 01:06:56,615
+<font face="sans-serif" size="52">- Muy bien.
+- Me voy.</font>
+
+816
+01:06:56,616 --> 01:06:58,242
+<font face="sans-serif" size="52">- Oye, no tan rápido.
+- Silencio.</font>
+
+817
+01:06:58,243 --> 01:07:01,787
+<font face="sans-serif" size="52">- No, no puedo. Llegaré tarde a...
+- ¿A qué? ¿A qué llegarás tarde?</font>
+
+818
+01:07:01,788 --> 01:07:03,121
+<font face="sans-serif" size="52">- Otro año...
+- Cállense.</font>
+
+819
+01:07:03,122 --> 01:07:05,959
+<font face="sans-serif" size="52">...y otra Prueba de Fuego
+ha llegado a su fin.</font>
+
+820
+01:07:06,960 --> 01:07:09,587
+<font face="sans-serif" size="52">La Anciana Gothi ha tomado su decisión.</font>
+
+821
+01:07:11,923 --> 01:07:16,469
+<font face="sans-serif" size="52">El nuevo Cazador Supremo será...</font>
+
+822
+01:07:39,033 --> 01:07:40,450
+<font face="sans-serif" size="52">Lo lograste, Hipo.</font>
+
+823
+01:07:40,451 --> 01:07:42,160
+<font face="sans-serif" size="52">¡Ganaste la Prueba de Fuego!</font>
+
+824
+01:07:42,161 --> 01:07:43,537
+<font face="sans-serif" size="52">¡Podrás matar a un dragón!</font>
+
+825
+01:07:43,538 --> 01:07:45,206
+<font face="sans-serif" size="52">¡Ese es mi hijo!</font>
+
+826
+01:07:49,669 --> 01:07:51,754
+<font face="sans-serif" size="52">¡Hipo, ganaste!</font>
+
+827
+01:07:54,424 --> 01:07:55,800
+<font face="sans-serif" size="52">¡Sí! ¡Gané!</font>
+
+828
+01:07:57,051 --> 01:08:00,220
+<font face="sans-serif" size="52">Apláudanme. No puedo esperar a...</font>
+
+829
+01:08:00,221 --> 01:08:02,015
+<font face="sans-serif" size="52">Irme... y jamás volver.</font>
+
+830
+01:08:02,557 --> 01:08:03,892
+<font face="sans-serif" size="52">Listo, amigo. Es hora.</font>
+
+831
+01:08:05,101 --> 01:08:06,394
+<font face="sans-serif" size="52">Opino lo mismo.</font>
+
+832
+01:08:06,936 --> 01:08:07,979
+<font face="sans-serif" size="52">¿Qué estás...?</font>
+
+833
+01:08:08,646 --> 01:08:10,230
+<font face="sans-serif" size="52">¿Qué estás haciendo aquí?</font>
+
+834
+01:08:10,231 --> 01:08:11,608
+<font face="sans-serif" size="52">Buscando respuestas.</font>
+
+835
+01:08:12,400 --> 01:08:13,692
+<font face="sans-serif" size="52">¿Tú que haces aquí?</font>
+
+836
+01:08:13,693 --> 01:08:16,821
+<font face="sans-serif" size="52">¿Le hablas a tu entrenador?
+¿Él te puso esto?</font>
+
+837
+01:08:17,655 --> 01:08:20,283
+<font face="sans-serif" size="52">Sé que se ve sospechoso,
+pero, aunque parezca increíble...</font>
+
+838
+01:08:22,076 --> 01:08:23,577
+<font face="sans-serif" size="52">Tienes razón, es cierto. Yo...</font>
+
+839
+01:08:23,578 --> 01:08:27,706
+<font face="sans-serif" size="52">Ya no quiero mentir.
+He estado haciendo ropa. Me atrapaste.</font>
+
+840
+01:08:27,707 --> 01:08:29,459
+<font face="sans-serif" size="52">Vamos a decírselo a todos.
+Hay que volver.</font>
+
+841
+01:08:31,628 --> 01:08:32,794
+<font face="sans-serif" size="52">¿Por qué hiciste eso?</font>
+
+842
+01:08:32,795 --> 01:08:34,254
+<font face="sans-serif" size="52">Eso fue por las mentiras.</font>
+
+843
+01:08:35,673 --> 01:08:38,218
+<font face="sans-serif" size="52">Y eso... por todo lo demás.</font>
+
+844
+01:08:40,469 --> 01:08:41,471
+<font face="sans-serif" size="52">Ay, no.</font>
+
+845
+01:08:42,304 --> 01:08:43,972
+<font face="sans-serif" size="52">Corre. ¡Corre!</font>
+
+846
+01:08:43,973 --> 01:08:45,391
+<font face="sans-serif" size="52">- ¡No! No.
+- ¿Qué...?</font>
+
+847
+01:08:45,892 --> 01:08:47,351
+<font face="sans-serif" size="52">¡Chimuelo, no! ¡Alto!</font>
+
+848
+01:08:47,352 --> 01:08:50,605
+<font face="sans-serif" size="52">Está bien. Es mi amiga.</font>
+
+849
+01:08:55,317 --> 01:08:56,651
+<font face="sans-serif" size="52">Chimuelo, Astrid.</font>
+
+850
+01:08:56,652 --> 01:08:57,820
+<font face="sans-serif" size="52">Astrid, Chimuelo,</font>
+
+851
+01:08:58,487 --> 01:09:01,199
+<font face="sans-serif" size="52">el... el Furia Nocturna.</font>
+
+852
+01:09:07,330 --> 01:09:08,373
+<font face="sans-serif" size="52">Yo no haría eso.</font>
+
+853
+01:09:13,503 --> 01:09:14,504
+<font face="sans-serif" size="52">Estamos muertos.</font>
+
+854
+01:09:17,006 --> 01:09:19,092
+<font face="sans-serif" size="52">¡Oye! ¿A dónde crees que vas?</font>
+
+855
+01:09:50,498 --> 01:09:51,582
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+856
+01:09:51,583 --> 01:09:54,877
+<font face="sans-serif" size="52">- ¡Bájame de aquí!
+- Tienes que dejar que te explique.</font>
+
+857
+01:09:54,878 --> 01:09:57,212
+<font face="sans-serif" size="52">No escucharé nada
+de lo que digas.</font>
+
+858
+01:09:57,213 --> 01:10:00,091
+<font face="sans-serif" size="52">Entonces no hablaré. Déjanos enseñarte.</font>
+
+859
+01:10:00,967 --> 01:10:02,594
+<font face="sans-serif" size="52">Por favor, Astrid.</font>
+
+860
+01:10:14,856 --> 01:10:16,024
+<font face="sans-serif" size="52">¿Y esto qué es?</font>
+
+861
+01:10:17,609 --> 01:10:18,693
+<font face="sans-serif" size="52">Es mi diseño.</font>
+
+862
+01:10:19,444 --> 01:10:21,154
+<font face="sans-serif" size="52">Y soy casi el cocapitán.</font>
+
+863
+01:10:24,115 --> 01:10:25,617
+<font face="sans-serif" size="52">Acabemos pronto con esto.</font>
+
+864
+01:10:26,951 --> 01:10:28,077
+<font face="sans-serif" size="52">Sí, claro.</font>
+
+865
+01:10:28,661 --> 01:10:29,703
+<font face="sans-serif" size="52">Chimuelo,</font>
+
+866
+01:10:29,704 --> 01:10:31,039
+<font face="sans-serif" size="52">hay que bajarla...</font>
+
+867
+01:10:32,332 --> 01:10:33,499
+<font face="sans-serif" size="52">Con cuidado.</font>
+
+868
+01:10:35,084 --> 01:10:36,753
+<font face="sans-serif" size="52">No hay de qué asustarse.</font>
+
+869
+01:10:43,968 --> 01:10:45,511
+<font face="sans-serif" size="52">¡Ah, te luciste!</font>
+
+870
+01:10:48,681 --> 01:10:50,307
+<font face="sans-serif" size="52">¿No eras su cocapitán?</font>
+
+871
+01:10:50,308 --> 01:10:53,102
+<font face="sans-serif" size="52">¡Lo soy! ¡Es una falla temporal!</font>
+
+872
+01:10:56,481 --> 01:10:58,525
+<font face="sans-serif" size="52">Creamos todo un sistema, ¿recuerdas?</font>
+
+873
+01:11:00,443 --> 01:11:02,820
+<font face="sans-serif" size="52">¡Si sobrevivimos, te voy a matar!</font>
+
+874
+01:11:07,534 --> 01:11:09,118
+<font face="sans-serif" size="52">¡Y ahora, las vueltas!</font>
+
+875
+01:11:09,661 --> 01:11:12,496
+<font face="sans-serif" size="52">Gracias por nada, reptil inútil.</font>
+
+876
+01:11:12,497 --> 01:11:14,874
+<font face="sans-serif" size="52">Por favor, dile que nos baje.</font>
+
+877
+01:11:16,543 --> 01:11:18,878
+<font face="sans-serif" size="52">Es obvio que yo no tengo el control.</font>
+
+878
+01:11:19,379 --> 01:11:20,588
+<font face="sans-serif" size="52">¡Ya, perdóname!</font>
+
+879
+01:11:21,256 --> 01:11:22,966
+<font face="sans-serif" size="52">¡Chimuelo, perdóname!</font>
+
+880
+01:13:05,777 --> 01:13:06,778
+<font face="sans-serif" size="52">Está bien.</font>
+
+881
+01:13:08,655 --> 01:13:09,989
+<font face="sans-serif" size="52">Ya te entendí.</font>
+
+882
+01:13:12,909 --> 01:13:15,411
+<font face="sans-serif" size="52">No cambia el hecho de que tengas
+que matar uno mañana.</font>
+
+883
+01:13:17,997 --> 01:13:19,915
+<font face="sans-serif" size="52">- Pero si cambiaste tu opinión...
+- ¿Qué?</font>
+
+884
+01:13:19,916 --> 01:13:22,627
+<font face="sans-serif" size="52">¿Les vas a dar a todos un paseo mágico?</font>
+
+885
+01:13:25,880 --> 01:13:28,466
+<font face="sans-serif" size="52">Eso no va a borrar
+lo que nos han hecho, Hipo.</font>
+
+886
+01:13:29,759 --> 01:13:31,593
+<font face="sans-serif" size="52">Nos cazan, roban nuestra comida...</font>
+
+887
+01:13:31,594 --> 01:13:33,263
+<font face="sans-serif" size="52">Y uno mató a mi mamá.</font>
+
+888
+01:13:33,846 --> 01:13:36,599
+<font face="sans-serif" size="52">- ¿Y por eso seguiremos matándonos?
+- ¿Hay otra opción?</font>
+
+889
+01:13:38,101 --> 01:13:39,227
+<font face="sans-serif" size="52">No lo sé.</font>
+
+890
+01:13:41,104 --> 01:13:43,690
+<font face="sans-serif" size="52">Mi plan era irme,
+pero lo echaste a perder.</font>
+
+891
+01:13:48,278 --> 01:13:51,281
+<font face="sans-serif" size="52">Bueno... tal vez no le diga a nadie.</font>
+
+892
+01:13:52,991 --> 01:13:55,034
+<font face="sans-serif" size="52">Y tal vez... no te tiremos al mar.</font>
+
+893
+01:13:59,372 --> 01:14:01,291
+<font face="sans-serif" size="52">Amigo, ¿qué pasa?</font>
+
+894
+01:14:02,250 --> 01:14:03,251
+<font face="sans-serif" size="52">¿Qué haces?</font>
+
+895
+01:14:03,751 --> 01:14:04,961
+<font face="sans-serif" size="52">¡Oye!</font>
+
+896
+01:14:07,922 --> 01:14:08,923
+<font face="sans-serif" size="52">¡Agáchate!</font>
+
+897
+01:14:11,467 --> 01:14:12,927
+<font face="sans-serif" size="52">Chimuelo, sácanos de aquí.</font>
+
+898
+01:14:19,142 --> 01:14:21,352
+<font face="sans-serif" size="52">Creo que llevan comida a algún lugar.</font>
+
+899
+01:14:22,478 --> 01:14:24,105
+<font face="sans-serif" size="52">¿Y eso en qué nos convierte?</font>
+
+900
+01:15:00,767 --> 01:15:02,143
+<font face="sans-serif" size="52">Es el nido de dragones.</font>
+
+901
+01:15:03,770 --> 01:15:05,813
+<font face="sans-serif" size="52">Qué no daría mi padre por encontrarlo.</font>
+
+902
+01:15:39,889 --> 01:15:41,474
+<font face="sans-serif" size="52">¿Qué es eso?</font>
+
+903
+01:15:44,602 --> 01:15:46,104
+<font face="sans-serif" size="52">Listo Chimuelo, vámonos.</font>
+
+904
+01:15:55,572 --> 01:15:58,156
+<font face="sans-serif" size="52">No puedo creer
+que tardáramos tanto en entenderlo.</font>
+
+905
+01:15:58,157 --> 01:15:59,992
+<font face="sans-serif" size="52">Ahora tiene sentido.</font>
+
+906
+01:15:59,993 --> 01:16:02,452
+<font face="sans-serif" size="52">Es como... una colmena gigante.</font>
+
+907
+01:16:02,453 --> 01:16:06,206
+<font face="sans-serif" size="52">Ellos son los obreros,
+y ella es su reina. Su alfa.</font>
+
+908
+01:16:06,207 --> 01:16:07,959
+<font face="sans-serif" size="52">Que los controla.</font>
+
+909
+01:16:08,543 --> 01:16:09,626
+<font face="sans-serif" size="52">Busquemos a tu papá.</font>
+
+910
+01:16:09,627 --> 01:16:11,086
+<font face="sans-serif" size="52">¡No, todavía no!</font>
+
+911
+01:16:11,087 --> 01:16:14,132
+<font face="sans-serif" size="52">Es que... matarían a Chimuelo.</font>
+
+912
+01:16:15,800 --> 01:16:17,092
+<font face="sans-serif" size="52">Astrid,</font>
+
+913
+01:16:17,093 --> 01:16:20,179
+<font face="sans-serif" size="52">pensemos qué hacer. Con calma.</font>
+
+914
+01:16:22,348 --> 01:16:26,059
+<font face="sans-serif" size="52">Hipo, ya descubrimos el nido de dragones.</font>
+
+915
+01:16:26,060 --> 01:16:28,270
+<font face="sans-serif" size="52">¿Y quieres guardar el secreto?</font>
+
+916
+01:16:28,271 --> 01:16:30,648
+<font face="sans-serif" size="52">¿Para proteger a... tu mascota dragón?</font>
+
+917
+01:16:31,566 --> 01:16:33,067
+<font face="sans-serif" size="52">¿Es en serio?</font>
+
+918
+01:16:34,485 --> 01:16:35,486
+<font face="sans-serif" size="52">Sí.</font>
+
+919
+01:16:45,371 --> 01:16:46,414
+<font face="sans-serif" size="52">Bien.</font>
+
+920
+01:16:48,208 --> 01:16:50,585
+<font face="sans-serif" size="52">Y... ¿qué hacemos?</font>
+
+921
+01:16:54,839 --> 01:16:56,715
+<font face="sans-serif" size="52">Sólo dame hasta mañana.</font>
+
+922
+01:16:56,716 --> 01:16:58,092
+<font face="sans-serif" size="52">Lo voy a resolver.</font>
+
+923
+01:17:01,888 --> 01:17:03,639
+<font face="sans-serif" size="52">Eso fue por secuestrarme.</font>
+
+924
+01:17:03,640 --> 01:17:04,933
+<font face="sans-serif" size="52">Oye, ¿vas a...?</font>
+
+925
+01:17:08,102 --> 01:17:10,980
+<font face="sans-serif" size="52">Y esto por... todo lo demás.</font>
+
+926
+01:17:21,950 --> 01:17:23,034
+<font face="sans-serif" size="52">¿Qué?</font>
+
+927
+01:17:34,504 --> 01:17:38,841
+<font face="sans-serif" size="52">¡Finalmente puedo mostrar
+mi cara en público con orgullo!</font>
+
+928
+01:17:42,971 --> 01:17:44,346
+<font face="sans-serif" size="52">Muy bien.</font>
+
+929
+01:17:44,347 --> 01:17:48,559
+<font face="sans-serif" size="52">Si alguien me hubiera dicho
+que en tan poco tiempo</font>
+
+930
+01:17:48,560 --> 01:17:52,856
+<font face="sans-serif" size="52">Hipo iba a pasar de ser, bueno... Hipo,</font>
+
+931
+01:17:55,525 --> 01:17:58,777
+<font face="sans-serif" size="52">a ganar el primer lugar
+en la Prueba de Fuego,</font>
+
+932
+01:17:58,778 --> 01:18:01,697
+<font face="sans-serif" size="52">los habría atado a un mástil
+y lanzado a la mar</font>
+
+933
+01:18:01,698 --> 01:18:03,741
+<font face="sans-serif" size="52">por temor a que estuvieran locos.</font>
+
+934
+01:18:04,826 --> 01:18:06,077
+<font face="sans-serif" size="52">Y lo saben.</font>
+
+935
+01:18:09,414 --> 01:18:10,748
+<font face="sans-serif" size="52">Pero henos aquí.</font>
+
+936
+01:18:12,834 --> 01:18:16,504
+<font face="sans-serif" size="52">Mi hijo ganó el título de Cazador Supremo.</font>
+
+937
+01:18:17,839 --> 01:18:20,091
+<font face="sans-serif" size="52">Y nadie está más sorprendido...</font>
+
+938
+01:18:23,344 --> 01:18:26,180
+<font face="sans-serif" size="52">o más orgulloso... que yo.</font>
+
+939
+01:18:28,182 --> 01:18:32,103
+<font face="sans-serif" size="52">Hoy, mi hijo se convierte en un guerrero.</font>
+
+940
+01:18:33,438 --> 01:18:37,233
+<font face="sans-serif" size="52">Hoy, se convierte en... ¡uno de nosotros!</font>
+
+941
+01:18:38,902 --> 01:18:41,738
+<font face="sans-serif" size="52">¡Sí! ¡Sí!</font>
+
+942
+01:18:43,114 --> 01:18:44,449
+<font face="sans-serif" size="52">¡Sí!</font>
+
+943
+01:18:45,408 --> 01:18:46,867
+<font face="sans-serif" size="52">¡Sí!</font>
+
+944
+01:18:46,868 --> 01:19:03,635
+<font face="sans-serif" size="52">¡Hipo, Hipo, Hipo!</font>
+
+945
+01:19:04,219 --> 01:19:05,762
+<font face="sans-serif" size="52">Cuídate de ese dragón.</font>
+
+946
+01:19:07,889 --> 01:19:09,766
+<font face="sans-serif" size="52">No me preocupa el dragón.</font>
+
+947
+01:19:13,102 --> 01:19:15,604
+<font face="sans-serif" size="52">Mira, intentaré acabar con todo esto,</font>
+
+948
+01:19:15,605 --> 01:19:17,857
+<font face="sans-serif" size="52">pero si algo sale mal, sólo...</font>
+
+949
+01:19:19,734 --> 01:19:20,777
+<font face="sans-serif" size="52">no te involucres.</font>
+
+950
+01:19:21,569 --> 01:19:22,987
+<font face="sans-serif" size="52">Mi papá te respeta demasiado.</font>
+
+951
+01:19:28,368 --> 01:19:29,369
+<font face="sans-serif" size="52">Sí.</font>
+
+952
+01:19:30,161 --> 01:19:31,162
+<font face="sans-serif" size="52">Pero...</font>
+
+953
+01:19:32,163 --> 01:19:34,040
+<font face="sans-serif" size="52">tú tienes algo especial que yo no.</font>
+
+954
+01:19:34,999 --> 01:19:38,044
+<font face="sans-serif" size="52">Algo que tampoco tienen los demás.</font>
+
+955
+01:19:39,879 --> 01:19:42,966
+<font face="sans-serif" size="52">Así que... estaré aquí para apoyarte.</font>
+
+956
+01:19:44,717 --> 01:19:45,927
+<font face="sans-serif" size="52">Pase lo que pase.</font>
+
+957
+01:19:49,430 --> 01:19:50,431
+<font face="sans-serif" size="52">Pase lo que pase.</font>
+
+958
+01:19:52,809 --> 01:19:53,852
+<font face="sans-serif" size="52">Te toca, Hipo.</font>
+
+959
+01:19:57,730 --> 01:19:59,148
+<font face="sans-serif" size="52">Acaba con él.</font>
+
+960
+01:20:11,703 --> 01:20:15,163
+<font face="sans-serif" size="52">¡Hipo, Hipo, Hipo, Hipo!</font>
+
+961
+01:20:15,164 --> 01:20:28,635
+<font face="sans-serif" size="52">¡Hipo, Hipo, Hipo!</font>
+
+962
+01:20:28,636 --> 01:20:29,887
+<font face="sans-serif" size="52">¡Así se hace, Hipo!</font>
+
+963
+01:20:29,888 --> 01:20:32,055
+<font face="sans-serif" size="52">¡Muéstrales lo que te enseñé!</font>
+
+964
+01:20:32,056 --> 01:20:33,433
+<font face="sans-serif" size="52">- Debí ser yo.
+- Debí ser yo.</font>
+
+965
+01:20:36,102 --> 01:20:38,521
+<font face="sans-serif" size="52">Qué animados, ¿no?</font>
+
+966
+01:20:57,999 --> 01:20:59,708
+<font face="sans-serif" size="52">Yo habría elegido el martillo.</font>
+
+967
+01:20:59,709 --> 01:21:01,920
+<font face="sans-serif" size="52">Déjalo ser.</font>
+
+968
+01:21:09,719 --> 01:21:10,929
+<font face="sans-serif" size="52">Estoy listo.</font>
+
+969
+01:22:17,453 --> 01:22:18,705
+<font face="sans-serif" size="52">¿Qué está haciendo?</font>
+
+970
+01:22:21,207 --> 01:22:22,584
+<font face="sans-serif" size="52">No voy a lastimarte.</font>
+
+971
+01:22:31,634 --> 01:22:33,011
+<font face="sans-serif" size="52">No soy como ellos.</font>
+
+972
+01:22:46,983 --> 01:22:48,275
+<font face="sans-serif" size="52">Detengan la pelea.</font>
+
+973
+01:22:48,276 --> 01:22:50,737
+<font face="sans-serif" size="52">No. Necesitan ver esto.</font>
+
+974
+01:22:52,113 --> 01:22:53,907
+<font face="sans-serif" size="52">No son lo que creemos que son.</font>
+
+975
+01:22:55,491 --> 01:22:56,826
+<font face="sans-serif" size="52">No hay que matarlos.</font>
+
+976
+01:22:58,536 --> 01:23:00,747
+<font face="sans-serif" size="52">¡Dije que detengan la pelea!</font>
+
+977
+01:23:07,962 --> 01:23:09,255
+<font face="sans-serif" size="52">¡Muévanse!</font>
+
+978
+01:23:09,964 --> 01:23:11,507
+<font face="sans-serif" size="52">¡Hipo, sal de ahí!</font>
+
+979
+01:23:13,426 --> 01:23:14,844
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+980
+01:23:34,948 --> 01:23:37,115
+<font face="sans-serif" size="52">¡Rápido, rápido! ¡Sube! ¡Agárrenlo!</font>
+
+981
+01:23:37,116 --> 01:23:39,117
+<font face="sans-serif" size="52">- ¡Hipo, agarra mi mano!
+- ¡Apúrate!</font>
+
+982
+01:23:39,118 --> 01:23:40,578
+<font face="sans-serif" size="52">¡Vamos! ¡Agarra su mano!</font>
+
+983
+01:23:49,462 --> 01:23:51,714
+<font face="sans-serif" size="52">¡Astrid! ¡Vuelve acá!</font>
+
+984
+01:23:52,549 --> 01:23:54,008
+<font face="sans-serif" size="52">¡Es una orden!</font>
+
+985
+01:24:01,266 --> 01:24:02,559
+<font face="sans-serif" size="52">¡Rápido!</font>
+
+986
+01:24:03,059 --> 01:24:04,102
+<font face="sans-serif" size="52">¡Rápido!</font>
+
+987
+01:24:07,063 --> 01:24:08,064
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+988
+01:24:20,785 --> 01:24:21,619
+<font face="sans-serif" size="52">Un Furia Nocturna.</font>
+
+989
+01:24:22,412 --> 01:24:25,540
+<font face="sans-serif" size="52">¡Un Furia Nocturna! ¡Sí existe!</font>
+
+990
+01:24:52,984 --> 01:24:54,986
+<font face="sans-serif" size="52">Bien, amigo. ¡Debemos irnos!</font>
+
+991
+01:24:57,739 --> 01:24:59,699
+<font face="sans-serif" size="52">Vamos, rápido. Hay que rodearlo.</font>
+
+992
+01:25:03,036 --> 01:25:04,662
+<font face="sans-serif" size="52">¡No estorbes, Hipo!</font>
+
+993
+01:25:09,083 --> 01:25:10,418
+<font face="sans-serif" size="52">¡Basta! ¡Lo hacen enojar!</font>
+
+994
+01:25:12,921 --> 01:25:13,838
+<font face="sans-serif" size="52">¡Astrid!</font>
+
+995
+01:25:17,550 --> 01:25:18,635
+<font face="sans-serif" size="52">Yo me encargo. ¡Ve!</font>
+
+996
+01:25:21,054 --> 01:25:23,014
+<font face="sans-serif" size="52">Estoico, no quiere lastimarte.</font>
+
+997
+01:25:33,024 --> 01:25:33,858
+<font face="sans-serif" size="52">¡No!</font>
+
+998
+01:25:39,072 --> 01:25:40,281
+<font face="sans-serif" size="52">¡Chimuelo!</font>
+
+999
+01:25:41,449 --> 01:25:42,283
+<font face="sans-serif" size="52">¡No!</font>
+
+1000
+01:25:45,870 --> 01:25:46,829
+<font face="sans-serif" size="52">¡Atrápenlo!</font>
+
+1001
+01:25:49,415 --> 01:25:50,624
+<font face="sans-serif" size="52">¡Agárrenle las patas!</font>
+
+1002
+01:25:50,625 --> 01:25:51,708
+<font face="sans-serif" size="52">Sujétenlo.</font>
+
+1003
+01:25:51,709 --> 01:25:53,001
+<font face="sans-serif" size="52">¡No! ¡No lo lastimen!</font>
+
+1004
+01:25:53,002 --> 01:25:54,796
+<font face="sans-serif" size="52">¡Quédate ahí!</font>
+
+1005
+01:26:00,426 --> 01:26:01,427
+<font face="sans-serif" size="52">Y tú...</font>
+
+1006
+01:26:15,400 --> 01:26:17,026
+<font face="sans-serif" size="52">Ponlo con los otros.</font>
+
+1007
+01:26:23,533 --> 01:26:24,867
+<font face="sans-serif" size="52">- Debí saberlo.
+- Papá.</font>
+
+1008
+01:26:24,868 --> 01:26:26,368
+<font face="sans-serif" size="52">- Ver las señales.
+- ¡Papá!</font>
+
+1009
+01:26:26,369 --> 01:26:28,705
+<font face="sans-serif" size="52">- ¡Teníamos un trato!
+- Sí, pero fue antes de...</font>
+
+1010
+01:26:29,330 --> 01:26:30,498
+<font face="sans-serif" size="52">Es un malentendido.</font>
+
+1011
+01:26:31,416 --> 01:26:35,627
+<font face="sans-serif" size="52">Entonces, lo que pasó en la arena...
+¿Fue un truco? ¿Una mentira?</font>
+
+1012
+01:26:35,628 --> 01:26:37,839
+<font face="sans-serif" size="52">No. Es que debí haberte dicho antes.</font>
+
+1013
+01:26:38,381 --> 01:26:41,509
+<font face="sans-serif" size="52">Desquítate conmigo. Es mi culpa.
+Pero no lastimes a Chimuelo.</font>
+
+1014
+01:26:43,011 --> 01:26:44,262
+<font face="sans-serif" size="52">¿El dragón?</font>
+
+1015
+01:26:45,138 --> 01:26:47,098
+<font face="sans-serif" size="52">¿Es lo que más te preocupa?</font>
+
+1016
+01:26:47,682 --> 01:26:49,600
+<font face="sans-serif" size="52">¿No las personas que casi matas?</font>
+
+1017
+01:26:49,601 --> 01:26:51,852
+<font face="sans-serif" size="52">¡No es peligroso! Estaba protegiéndome.</font>
+
+1018
+01:26:51,853 --> 01:26:55,315
+<font face="sans-serif" size="52">¡Se llevaron a tu madre,
+por todos los dioses!</font>
+
+1019
+01:26:56,858 --> 01:27:00,194
+<font face="sans-serif" size="52">Si ella pudiera verte
+ayudando a esos dragones,</font>
+
+1020
+01:27:00,195 --> 01:27:02,154
+<font face="sans-serif" size="52">¡cuando han matado a cientos de nosotros!</font>
+
+1021
+01:27:02,155 --> 01:27:03,907
+<font face="sans-serif" size="52">¡Y nosotros hemos asesinado a miles!</font>
+
+1022
+01:27:04,449 --> 01:27:06,408
+<font face="sans-serif" size="52">Ellos sólo se están defendiendo.</font>
+
+1023
+01:27:06,409 --> 01:27:08,285
+<font face="sans-serif" size="52">Nos roban porque deben hacerlo.</font>
+
+1024
+01:27:08,286 --> 01:27:11,246
+<font face="sans-serif" size="52">Si no llevan comida a casa,
+se los comen a ellos.</font>
+
+1025
+01:27:11,247 --> 01:27:14,666
+<font face="sans-serif" size="52">Hay algo más en su isla.
+Un dragón que nunca había visto...</font>
+
+1026
+01:27:14,667 --> 01:27:16,252
+<font face="sans-serif" size="52">¿Su isla?</font>
+
+1027
+01:27:18,421 --> 01:27:19,797
+<font face="sans-serif" size="52">¿Estuviste en su nido?</font>
+
+1028
+01:27:20,632 --> 01:27:21,925
+<font face="sans-serif" size="52">¿Dije nido?</font>
+
+1029
+01:27:22,550 --> 01:27:24,426
+<font face="sans-serif" size="52">¿Cómo lo encontraste?</font>
+
+1030
+01:27:24,427 --> 01:27:26,553
+<font face="sans-serif" size="52">Yo no fui. Fue Chimuelo.</font>
+
+1031
+01:27:26,554 --> 01:27:28,514
+<font face="sans-serif" size="52">Sólo un dragón puede encontrar la isla.</font>
+
+1032
+01:27:32,227 --> 01:27:35,229
+<font face="sans-serif" size="52">No. Papá, no.</font>
+
+1033
+01:27:35,230 --> 01:27:38,316
+<font face="sans-serif" size="52">No sabes a lo que te enfrentas.
+Jamás has visto algo así.</font>
+
+1034
+01:27:38,983 --> 01:27:40,692
+<font face="sans-serif" size="52">¡No ganarás esta pelea!</font>
+
+1035
+01:27:40,693 --> 01:27:43,947
+<font face="sans-serif" size="52">Por primera vez en tu vida,
+¿podrías escucharme?</font>
+
+1036
+01:27:48,117 --> 01:27:50,870
+<font face="sans-serif" size="52">Ya elegiste aliarte con ellos.</font>
+
+1037
+01:27:52,455 --> 01:27:54,581
+<font face="sans-serif" size="52">No eres uno de nosotros.</font>
+
+1038
+01:27:54,582 --> 01:27:56,251
+<font face="sans-serif" size="52">No eres mi hijo.</font>
+
+1039
+01:28:06,094 --> 01:28:07,387
+<font face="sans-serif" size="52">¡Preparen los barcos!</font>
+
+1040
+01:28:07,929 --> 01:28:09,556
+<font face="sans-serif" size="52">¡Zarpamos al amanecer!</font>
+
+1041
+01:28:32,954 --> 01:28:35,248
+<font face="sans-serif" size="52">¡Dragón a babor!</font>
+
+1042
+01:28:38,626 --> 01:28:39,794
+<font face="sans-serif" size="52">¡Sigan la línea delantera!</font>
+
+1043
+01:28:40,336 --> 01:28:41,795
+<font face="sans-serif" size="52">Gírenlo un poco hacia afuera.</font>
+
+1044
+01:28:41,796 --> 01:28:43,339
+<font face="sans-serif" size="52">Aquí viene. Despacio.</font>
+
+1045
+01:28:44,007 --> 01:28:45,174
+<font face="sans-serif" size="52">Cuidado con la cabeza.</font>
+
+1046
+01:28:47,510 --> 01:28:48,511
+<font face="sans-serif" size="52">Tengan cuidado.</font>
+
+1047
+01:28:49,053 --> 01:28:50,470
+<font face="sans-serif" size="52">¡Armas en el barco!</font>
+
+1048
+01:28:50,471 --> 01:28:52,806
+<font face="sans-serif" size="52">- ¿Hay aparejos extra a bordo?
+- ¡Sí!</font>
+
+1049
+01:28:52,807 --> 01:28:55,393
+<font face="sans-serif" size="52">- ¡Icen las velas!
+- Sí, jefe.</font>
+
+1050
+01:28:58,730 --> 01:28:59,813
+<font face="sans-serif" size="52">Preparen los remos.</font>
+
+1051
+01:28:59,814 --> 01:29:00,982
+<font face="sans-serif" size="52">Sí, Estoico.</font>
+
+1052
+01:29:02,317 --> 01:29:05,236
+<font face="sans-serif" size="52">¡Partiremos hacia las Puertas del Helheim!</font>
+
+1053
+01:29:22,629 --> 01:29:24,672
+<font face="sans-serif" size="52">Guíanos a tu casa, demonio.</font>
+
+1054
+01:29:55,328 --> 01:29:56,829
+<font face="sans-serif" size="52">Traté de detenerlos.</font>
+
+1055
+01:29:57,956 --> 01:30:00,124
+<font face="sans-serif" size="52">Y terminé dándoles justo lo que querían.</font>
+
+1056
+01:30:03,545 --> 01:30:04,671
+<font face="sans-serif" size="52">Debí...</font>
+
+1057
+01:30:06,130 --> 01:30:08,508
+<font face="sans-serif" size="52">Debí haberlo matado
+cuando lo encontré en el bosque.</font>
+
+1058
+01:30:10,802 --> 01:30:12,428
+<font face="sans-serif" size="52">Habría sido lo mejor.</font>
+
+1059
+01:30:13,096 --> 01:30:14,137
+<font face="sans-serif" size="52">Sí.</font>
+
+1060
+01:30:14,138 --> 01:30:15,932
+<font face="sans-serif" size="52">Todos habríamos hecho eso.</font>
+
+1061
+01:30:19,310 --> 01:30:20,520
+<font face="sans-serif" size="52">¿Y por qué tú no?</font>
+
+1062
+01:30:21,646 --> 01:30:23,355
+<font face="sans-serif" size="52">- Explícame.
+- No sé. No pude.</font>
+
+1063
+01:30:23,356 --> 01:30:24,398
+<font face="sans-serif" size="52">Esa no es una razón.</font>
+
+1064
+01:30:24,399 --> 01:30:26,400
+<font face="sans-serif" size="52">¿Por qué de repente te importa?</font>
+
+1065
+01:30:26,401 --> 01:30:28,527
+<font face="sans-serif" size="52">Porque quiero recordar
+lo que digas ahora.</font>
+
+1066
+01:30:28,528 --> 01:30:30,571
+<font face="sans-serif" size="52">Por el amor de... Porque fui débil.</font>
+
+1067
+01:30:30,572 --> 01:30:32,906
+<font face="sans-serif" size="52">Por cobarde,
+¡porque no quise matar a un dragón!</font>
+
+1068
+01:30:32,907 --> 01:30:35,451
+<font face="sans-serif" size="52">- Dijiste "no quise".
+- ¡Qué importa! ¡No quise!</font>
+
+1069
+01:30:35,952 --> 01:30:39,956
+<font face="sans-serif" size="52">Soy el primer vikingo desde quién
+sabe cuándo que no mata a un dragón.</font>
+
+1070
+01:30:42,041 --> 01:30:43,585
+<font face="sans-serif" size="52">Pero el primero en montar uno.</font>
+
+1071
+01:30:50,258 --> 01:30:51,301
+<font face="sans-serif" size="52">¿Y?</font>
+
+1072
+01:30:55,346 --> 01:30:56,890
+<font face="sans-serif" size="52">No quise matarlo porque...</font>
+
+1073
+01:30:58,933 --> 01:31:00,852
+<font face="sans-serif" size="52">se veía igual de asustado que yo.</font>
+
+1074
+01:31:04,439 --> 01:31:05,690
+<font face="sans-serif" size="52">Cuando lo miré...</font>
+
+1075
+01:31:07,358 --> 01:31:09,027
+<font face="sans-serif" size="52">me vi en él.</font>
+
+1076
+01:31:19,621 --> 01:31:21,331
+<font face="sans-serif" size="52">Debe estar muy asustado.</font>
+
+1077
+01:31:28,504 --> 01:31:30,131
+<font face="sans-serif" size="52">¿Qué harás al respecto?</font>
+
+1078
+01:31:32,592 --> 01:31:34,260
+<font face="sans-serif" size="52">Probablemente algo estúpido.</font>
+
+1079
+01:31:36,262 --> 01:31:37,805
+<font face="sans-serif" size="52">Bueno, eso ya lo hiciste.</font>
+
+1080
+01:31:43,686 --> 01:31:44,771
+<font face="sans-serif" size="52">Entonces, algo loco.</font>
+
+1081
+01:31:46,606 --> 01:31:47,941
+<font face="sans-serif" size="52">Eso me gusta más.</font>
+
+1082
+01:31:54,322 --> 01:31:57,867
+<font face="sans-serif" size="52">Griten sus posiciones.
+Permanezcan atentos.</font>
+
+1083
+01:31:58,451 --> 01:32:00,160
+<font face="sans-serif" size="52">Una medida a popa.</font>
+
+1084
+01:32:00,161 --> 01:32:01,663
+<font face="sans-serif" size="52">En tu flanco de estribor.</font>
+
+1085
+01:32:02,372 --> 01:32:04,915
+<font face="sans-serif" size="52">¿Por qué no nos atacan?</font>
+
+1086
+01:32:04,916 --> 01:32:06,876
+<font face="sans-serif" size="52">Tal vez saben algo que nosotros no.</font>
+
+1087
+01:32:10,380 --> 01:32:12,172
+<font face="sans-serif" size="52">Te encanta sufrir, ¿verdad?</font>
+
+1088
+01:32:12,173 --> 01:32:14,634
+<font face="sans-serif" size="52">Esta vez tenemos una oportunidad.</font>
+
+1089
+01:32:16,636 --> 01:32:18,012
+<font face="sans-serif" size="52">Gracias a Hipo.</font>
+
+1090
+01:32:19,305 --> 01:32:20,890
+<font face="sans-serif" size="52">¿Cuánto tiempo crees que vamos a...?</font>
+
+1091
+01:32:32,443 --> 01:32:33,778
+<font face="sans-serif" size="52">A un lado, Drül.</font>
+
+1092
+01:32:49,460 --> 01:32:51,296
+<font face="sans-serif" size="52">- ¡Metan los remos!
+- ¡Remos adentro!</font>
+
+1093
+01:33:06,394 --> 01:33:07,394
+<font face="sans-serif" size="52"><i>A ver, espera.</i></font>
+
+1094
+01:33:07,395 --> 01:33:11,273
+<font face="sans-serif" size="52">Acabas de destruir tu honor
+enfrente de todo el pueblo.</font>
+
+1095
+01:33:11,274 --> 01:33:13,400
+<font face="sans-serif" size="52">- ¿Por qué te seguiríamos?
+- Porque yo lo digo.</font>
+
+1096
+01:33:13,401 --> 01:33:15,652
+<font face="sans-serif" size="52">Exacto. Pongan atención, gente.</font>
+
+1097
+01:33:15,653 --> 01:33:18,739
+<font face="sans-serif" size="52">Miren, mi papá tiene buenas intenciones,
+pero es muy necio.</font>
+
+1098
+01:33:18,740 --> 01:33:21,241
+<font face="sans-serif" size="52">Esto será demasiado para él.
+Tenemos que ayudarlo.</font>
+
+1099
+01:33:21,242 --> 01:33:22,784
+<font face="sans-serif" size="52">¿Nosotros?</font>
+
+1100
+01:33:22,785 --> 01:33:24,953
+<font face="sans-serif" size="52">No puedo hacerlo sin todos ustedes.</font>
+
+1101
+01:33:24,954 --> 01:33:26,788
+<font face="sans-serif" size="52">Y todos tienen algo especial.</font>
+
+1102
+01:33:26,789 --> 01:33:28,582
+<font face="sans-serif" size="52">No se diga más.</font>
+
+1103
+01:33:28,583 --> 01:33:31,920
+<font face="sans-serif" size="52">Fuiste sabio al buscar el arma
+más mortífera del mundo.</font>
+
+1104
+01:33:32,462 --> 01:33:33,295
+<font face="sans-serif" size="52">A mí.</font>
+
+1105
+01:33:33,296 --> 01:33:35,172
+<font face="sans-serif" size="52">Tienes un lado salvaje, y me gusta.</font>
+
+1106
+01:33:35,173 --> 01:33:38,050
+<font face="sans-serif" size="52">Astrid, tú eres la más fuerte.
+Debes guiarnos.</font>
+
+1107
+01:33:38,051 --> 01:33:40,052
+<font face="sans-serif" size="52">¿Qué nos guíe a dónde?</font>
+
+1108
+01:33:40,053 --> 01:33:43,014
+<font face="sans-serif" size="52">Ya se fueron
+en todos los barcos que había.</font>
+
+1109
+01:33:45,600 --> 01:33:46,768
+<font face="sans-serif" size="52">Síganme.</font>
+
+1110
+01:33:52,982 --> 01:33:54,691
+<font face="sans-serif" size="52">Ahí es donde fue.</font>
+
+1111
+01:33:54,692 --> 01:33:56,443
+<font face="sans-serif" size="52">Agáchense.</font>
+
+1112
+01:33:56,444 --> 01:33:57,529
+<font face="sans-serif" size="52">Estén atentos.</font>
+
+1113
+01:34:36,901 --> 01:34:38,278
+<font face="sans-serif" size="52">Es aquí.</font>
+
+1114
+01:34:56,337 --> 01:34:57,672
+<font face="sans-serif" size="52">No.</font>
+
+1115
+01:34:58,840 --> 01:35:00,633
+<font face="sans-serif" size="52">Hipo, yo...</font>
+
+1116
+01:35:01,885 --> 01:35:03,177
+<font face="sans-serif" size="52">Relájate.</font>
+
+1117
+01:35:05,930 --> 01:35:06,973
+<font face="sans-serif" size="52">Tranquilo.</font>
+
+1118
+01:35:18,568 --> 01:35:19,902
+<font face="sans-serif" size="52">¿A dónde vas?</font>
+
+1119
+01:35:19,903 --> 01:35:22,070
+<font face="sans-serif" size="52">Necesitas algo para no caerte.</font>
+
+1120
+01:35:22,071 --> 01:35:23,323
+<font face="sans-serif" size="52">Prepárense.</font>
+
+1121
+01:35:24,115 --> 01:35:25,742
+<font face="sans-serif" size="52">Será una noche larga.</font>
+
+1122
+01:35:40,548 --> 01:35:42,926
+<font face="sans-serif" size="52">¡Afilen sus hachas, guerreros!</font>
+
+1123
+01:35:44,844 --> 01:35:45,762
+<font face="sans-serif" size="52">¡Tiren!</font>
+
+1124
+01:35:51,434 --> 01:35:52,727
+<font face="sans-serif" size="52">Jefe.</font>
+
+1125
+01:35:53,353 --> 01:35:54,521
+<font face="sans-serif" size="52">Aquí tiene, jefe.</font>
+
+1126
+01:35:56,731 --> 01:35:58,650
+<font face="sans-serif" size="52">- Sean fuertes.
+- Siempre, Estoico.</font>
+
+1127
+01:36:00,151 --> 01:36:01,652
+<font face="sans-serif" size="52">Enorgullezcan a su pueblo.</font>
+
+1128
+01:36:01,653 --> 01:36:02,820
+<font face="sans-serif" size="52">Lo haremos, Estoico.</font>
+
+1129
+01:36:05,156 --> 01:36:09,327
+<font face="sans-serif" size="52">Hoy... destruiremos el reino del dragón,</font>
+
+1130
+01:36:10,078 --> 01:36:11,704
+<font face="sans-serif" size="52">¡de una vez por todas!</font>
+
+1131
+01:36:16,084 --> 01:36:20,129
+<font face="sans-serif" size="52">¡Sin importar como acabe,
+acabará justo aquí, justo ahora!</font>
+
+1132
+01:36:21,756 --> 01:36:25,260
+<font face="sans-serif" size="52">¡Mandemos a estos demonios
+de regreso al infierno!</font>
+
+1133
+01:37:40,710 --> 01:37:41,711
+<font face="sans-serif" size="52">¿Qué...?</font>
+
+1134
+01:37:43,087 --> 01:37:44,255
+<font face="sans-serif" size="52">¿Es todo?</font>
+
+1135
+01:37:45,048 --> 01:37:46,299
+<font face="sans-serif" size="52">¡El nido es nuestro!</font>
+
+1136
+01:37:50,261 --> 01:37:51,930
+<font face="sans-serif" size="52">Esto no ha terminado.</font>
+
+1137
+01:38:00,271 --> 01:38:02,189
+<font face="sans-serif" size="52">¡Aléjense!</font>
+
+1138
+01:38:02,190 --> 01:38:05,985
+<font face="sans-serif" size="52">¡Retrocedan! ¡Todos, retrocedan!</font>
+
+1139
+01:38:12,116 --> 01:38:14,869
+<font face="sans-serif" size="52">¡Corran, corran, corran!
+¡Vámonos de aquí!</font>
+
+1140
+01:38:16,204 --> 01:38:17,163
+<font face="sans-serif" size="52">¡Muévete!</font>
+
+1141
+01:38:31,886 --> 01:38:33,054
+<font face="sans-serif" size="52">¡Rápido, rápido! ¡Vámonos!</font>
+
+1142
+01:38:38,685 --> 01:38:39,727
+<font face="sans-serif" size="52">¡Cuidado!</font>
+
+1143
+01:38:45,441 --> 01:38:47,776
+<font face="sans-serif" size="52">- ¡Suban a los barcos!
+- ¡Rápido!</font>
+
+1144
+01:38:47,777 --> 01:38:48,820
+<font face="sans-serif" size="52">¡No!</font>
+
+1145
+01:39:02,000 --> 01:39:03,625
+<font face="sans-serif" size="52">¡Llévenlos al otro lado de la isla!</font>
+
+1146
+01:39:03,626 --> 01:39:05,669
+<font face="sans-serif" size="52">¡Sí jefe! ¡Nos vamos!</font>
+
+1147
+01:39:05,670 --> 01:39:08,131
+<font face="sans-serif" size="52">¡Por acá! ¡Vengan todos!</font>
+
+1148
+01:39:13,553 --> 01:39:15,637
+<font face="sans-serif" size="52">- ¡Salgamos de aquí, guerreros!
+- ¡Síganme!</font>
+
+1149
+01:39:15,638 --> 01:39:17,431
+<font face="sans-serif" size="52">Bocón, ve con los demás.</font>
+
+1150
+01:39:17,432 --> 01:39:19,684
+<font face="sans-serif" size="52">¿Por qué? ¿A dónde vas tú?</font>
+
+1151
+01:39:27,692 --> 01:39:31,154
+<font face="sans-serif" size="52">Mejor me quedo aquí contigo.
+Ya pusiste tu cara de loco.</font>
+
+1152
+01:39:31,988 --> 01:39:35,908
+<font face="sans-serif" size="52">Puedo conseguirles tiempo
+si le doy a esa cosa algo que cazar.</font>
+
+1153
+01:39:35,909 --> 01:39:37,577
+<font face="sans-serif" size="52">Y yo puedo duplicar ese tiempo.</font>
+
+1154
+01:39:38,536 --> 01:39:40,288
+<font face="sans-serif" size="52">Ya sé. Soy un blandengue.</font>
+
+1155
+01:39:41,414 --> 01:39:43,917
+<font face="sans-serif" size="52">Tu parte más blandengue, son tus dientes.</font>
+
+1156
+01:40:14,072 --> 01:40:19,035
+<font face="sans-serif" size="52">Recuerden... esa cosa, es su reina.
+Ellos harán lo que ella les diga.</font>
+
+1157
+01:40:19,577 --> 01:40:20,828
+<font face="sans-serif" size="52">Ayudémoslos a defenderse.</font>
+
+1158
+01:40:22,330 --> 01:40:23,455
+<font face="sans-serif" size="52">Es increíble.</font>
+
+1159
+01:40:23,456 --> 01:40:25,458
+<font face="sans-serif" size="52">Patapez, ¿qué tenemos?</font>
+
+1160
+01:40:26,376 --> 01:40:30,504
+<font face="sans-serif" size="52">Un cráneo muy resistente y una cola,
+perfecta para pegar y aplastar.</font>
+
+1161
+01:40:30,505 --> 01:40:34,967
+<font face="sans-serif" size="52">Ojos pequeños, narinas grandes.
+Depende del oído y del olfato.</font>
+
+1162
+01:40:34,968 --> 01:40:35,884
+<font face="sans-serif" size="52">Entendido.</font>
+
+1163
+01:40:35,885 --> 01:40:36,927
+<font face="sans-serif" size="52">Astrid.</font>
+
+1164
+01:40:36,928 --> 01:40:40,722
+<font face="sans-serif" size="52">Bien, Patán y Patapez,
+ubíquense en su punto ciego.</font>
+
+1165
+01:40:40,723 --> 01:40:43,226
+<font face="sans-serif" size="52">Hagan ruido. Que se confunda.</font>
+
+1166
+01:40:43,768 --> 01:40:47,437
+<font face="sans-serif" size="52">Tilda y Tacio, vean cuántos disparos
+le quedan. Enfurézcanlo.</font>
+
+1167
+01:40:47,438 --> 01:40:49,566
+<font face="sans-serif" size="52">¡Esa es nuestra especialidad!</font>
+
+1168
+01:40:51,484 --> 01:40:53,111
+<font face="sans-serif" size="52">¡Traten de sobrevivir!</font>
+
+1169
+01:41:04,205 --> 01:41:06,416
+<font face="sans-serif" size="52">Esta cosa no tiene punto ciego.</font>
+
+1170
+01:41:10,128 --> 01:41:11,129
+<font face="sans-serif" size="52">¡Ahí está!</font>
+
+1171
+01:41:17,635 --> 01:41:19,012
+<font face="sans-serif" size="52">Hola, amigo.</font>
+
+1172
+01:41:20,013 --> 01:41:22,015
+<font face="sans-serif" size="52">- ¡Estoy bien!
+- ¡Ten cuidado!</font>
+
+1173
+01:41:27,103 --> 01:41:29,189
+<font face="sans-serif" size="52">Ya sé. Ya sé, pero... ya estoy aquí.</font>
+
+1174
+01:41:42,660 --> 01:41:43,827
+<font face="sans-serif" size="52">¡Sigue martillando!</font>
+
+1175
+01:41:43,828 --> 01:41:46,705
+<font face="sans-serif" size="52">¡Estamos confundiendo a nuestros dragones!</font>
+
+1176
+01:41:46,706 --> 01:41:48,208
+<font face="sans-serif" size="52">¡Ay, no!</font>
+
+1177
+01:41:56,049 --> 01:41:58,258
+<font face="sans-serif" size="52">¡Por acá! ¡Por acá! ¡Rápido! ¡Rápido!</font>
+
+1178
+01:41:58,259 --> 01:42:00,428
+<font face="sans-serif" size="52">¡Sigan corriendo! ¡Sigan! ¡Rápido!</font>
+
+1179
+01:42:00,970 --> 01:42:02,347
+<font face="sans-serif" size="52">¿Ese es mi hijo?</font>
+
+1180
+01:42:03,014 --> 01:42:05,266
+<font face="sans-serif" size="52">- ¡Patán!
+- ¡Rápido! ¡Lánzalo!</font>
+
+1181
+01:42:07,936 --> 01:42:09,145
+<font face="sans-serif" size="52">A ver, niña.</font>
+
+1182
+01:42:10,021 --> 01:42:11,272
+<font face="sans-serif" size="52">¡Voy bajando!</font>
+
+1183
+01:42:14,234 --> 01:42:15,276
+<font face="sans-serif" size="52">Estoy bien.</font>
+
+1184
+01:42:16,611 --> 01:42:18,196
+<font face="sans-serif" size="52">Ya no tanto.</font>
+
+1185
+01:42:21,449 --> 01:42:23,159
+<font face="sans-serif" size="52">¡Yo me encargo, Patapez!</font>
+
+1186
+01:42:31,209 --> 01:42:32,501
+<font face="sans-serif" size="52">¿Qué te pasa?</font>
+
+1187
+01:42:32,502 --> 01:42:34,295
+<font face="sans-serif" size="52">¿Te entró una basura al ojo?</font>
+
+1188
+01:42:35,547 --> 01:42:38,341
+<font face="sans-serif" size="52">¡Sí! ¡Eso es ser un Cazador Supremo!</font>
+
+1189
+01:43:58,338 --> 01:43:59,672
+<font face="sans-serif" size="52">Ya voy, amigo.</font>
+
+1190
+01:44:05,929 --> 01:44:07,138
+<font face="sans-serif" size="52">Hipo.</font>
+
+1191
+01:44:09,807 --> 01:44:11,726
+<font face="sans-serif" size="52">Sólo intentaba protegerte.</font>
+
+1192
+01:44:13,144 --> 01:44:14,312
+<font face="sans-serif" size="52">Lo sé, papá.</font>
+
+1193
+01:44:15,355 --> 01:44:17,106
+<font face="sans-serif" size="52">Ahora yo te protegeré a ti.</font>
+
+1194
+01:44:19,859 --> 01:44:21,944
+<font face="sans-serif" size="52">No importa lo que pase allá arriba,</font>
+
+1195
+01:44:21,945 --> 01:44:24,989
+<font face="sans-serif" size="52">ser tu padre es mi mayor orgullo.</font>
+
+1196
+01:44:29,869 --> 01:44:31,246
+<font face="sans-serif" size="52">Es todo lo que necesito.</font>
+
+1197
+01:44:32,997 --> 01:44:33,998
+<font face="sans-serif" size="52">Listo.</font>
+
+1198
+01:44:38,545 --> 01:44:39,546
+<font face="sans-serif" size="52">¡Está volando!</font>
+
+1199
+01:44:40,922 --> 01:44:42,923
+<font face="sans-serif" size="52">¡Ustedes dos vayan por Patán!</font>
+
+1200
+01:44:42,924 --> 01:44:44,425
+<font face="sans-serif" size="52">Yo distraeré a la reina.</font>
+
+1201
+01:44:46,719 --> 01:44:49,347
+<font face="sans-serif" size="52">Eso. Ven por mí.</font>
+
+1202
+01:44:51,808 --> 01:44:52,809
+<font face="sans-serif" size="52">¡Patán!</font>
+
+1203
+01:44:56,604 --> 01:44:57,689
+<font face="sans-serif" size="52">¡Ahora!</font>
+
+1204
+01:44:58,231 --> 01:44:59,899
+<font face="sans-serif" size="52">Díganme que no es verdad.</font>
+
+1205
+01:45:13,496 --> 01:45:15,747
+<font face="sans-serif" size="52">¡No puedo creer que funcionara!</font>
+
+1206
+01:45:15,748 --> 01:45:17,000
+<font face="sans-serif" size="52">Sí.</font>
+
+1207
+01:45:19,752 --> 01:45:21,379
+<font face="sans-serif" size="52">No, no, no, linda.</font>
+
+1208
+01:45:21,963 --> 01:45:23,171
+<font face="sans-serif" size="52">¡Pelea!</font>
+
+1209
+01:45:23,172 --> 01:45:24,464
+<font face="sans-serif" size="52">¡No la escuches!</font>
+
+1210
+01:45:24,465 --> 01:45:26,092
+<font face="sans-serif" size="52">¡No le hagas caso!</font>
+
+1211
+01:45:50,491 --> 01:45:51,576
+<font face="sans-serif" size="52">Astrid.</font>
+
+1212
+01:46:08,134 --> 01:46:09,177
+<font face="sans-serif" size="52">¿La tienes?</font>
+
+1213
+01:46:23,149 --> 01:46:24,192
+<font face="sans-serif" size="52">Hazlo.</font>
+
+1214
+01:46:27,403 --> 01:46:29,154
+<font face="sans-serif" size="52">Esa cosa tiene alas.</font>
+
+1215
+01:46:29,155 --> 01:46:30,907
+<font face="sans-serif" size="52">A ver si puede usarlas.</font>
+
+1216
+01:46:46,339 --> 01:46:47,549
+<font face="sans-serif" size="52">¿Con eso bastará?</font>
+
+1217
+01:46:50,677 --> 01:46:51,511
+<font face="sans-serif" size="52">Sí.</font>
+
+1218
+01:47:07,068 --> 01:47:09,195
+<font face="sans-serif" size="52">Bien, amigo. Hay que desaparecer.</font>
+
+1219
+01:47:15,285 --> 01:47:17,412
+<font face="sans-serif" size="52">¡Ahí viene!</font>
+
+1220
+01:47:23,751 --> 01:47:26,169
+<font face="sans-serif" size="52">Hipo se va a volver un gran jefe.</font>
+
+1221
+01:47:26,170 --> 01:47:27,088
+<font face="sans-serif" size="52">Sí.</font>
+
+1222
+01:48:08,796 --> 01:48:09,756
+<font face="sans-serif" size="52">¡Cuidado!</font>
+
+1223
+01:48:13,676 --> 01:48:15,219
+<font face="sans-serif" size="52">Bien, se acabó el tiempo.</font>
+
+1224
+01:48:15,220 --> 01:48:16,596
+<font face="sans-serif" size="52">A ver si funciona.</font>
+
+1225
+01:48:22,393 --> 01:48:24,020
+<font face="sans-serif" size="52">¿Es todo lo que tienes?</font>
+
+1226
+01:48:43,081 --> 01:48:44,665
+<font face="sans-serif" size="52">Sigue avanzando, amigo.</font>
+
+1227
+01:48:44,666 --> 01:48:46,376
+<font face="sans-serif" size="52">¡Aguanta un poco más!</font>
+
+1228
+01:48:47,669 --> 01:48:49,212
+<font face="sans-serif" size="52">¡Aguanta, Chimuelo!</font>
+
+1229
+01:48:52,340 --> 01:48:53,424
+<font face="sans-serif" size="52">¡Ahora!</font>
+
+1230
+01:49:14,863 --> 01:49:16,281
+<font face="sans-serif" size="52">Eso es, amigo, lo logra...</font>
+
+1231
+01:49:16,948 --> 01:49:17,949
+<font face="sans-serif" size="52">¡No!</font>
+
+1232
+01:49:36,759 --> 01:49:38,011
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+1233
+01:49:43,141 --> 01:49:44,142
+<font face="sans-serif" size="52">¿Hipo?</font>
+
+1234
+01:49:45,393 --> 01:49:46,686
+<font face="sans-serif" size="52">¿Hijo?</font>
+
+1235
+01:49:48,813 --> 01:49:50,064
+<font face="sans-serif" size="52">¡Hipo!</font>
+
+1236
+01:50:05,580 --> 01:50:06,623
+<font face="sans-serif" size="52">Ay, hijo.</font>
+
+1237
+01:50:19,469 --> 01:50:21,012
+<font face="sans-serif" size="52">Lo siento mucho.</font>
+
+1238
+01:51:34,085 --> 01:51:35,086
+<font face="sans-serif" size="52">¿Hipo?</font>
+
+1239
+01:51:43,386 --> 01:51:45,597
+<font face="sans-serif" size="52">¡Está vivo! ¡Está vivo!</font>
+
+1240
+01:51:48,808 --> 01:51:50,268
+<font face="sans-serif" size="52">¡Sí!</font>
+
+1241
+01:52:03,198 --> 01:52:04,490
+<font face="sans-serif" size="52">Gracias.</font>
+
+1242
+01:52:06,159 --> 01:52:07,577
+<font face="sans-serif" size="52">Por salvar a mi hijo.</font>
+
+1243
+01:52:09,787 --> 01:52:12,498
+<font face="sans-serif" size="52">Bueno... salvó... la mayor parte.</font>
+
+1244
+01:52:28,598 --> 01:52:29,933
+<font face="sans-serif" size="52">Hola, Chimuelo.</font>
+
+1245
+01:52:32,143 --> 01:52:33,144
+<font face="sans-serif" size="52">Okey.</font>
+
+1246
+01:52:39,108 --> 01:52:40,193
+<font face="sans-serif" size="52">Estoy en mi casa.</font>
+
+1247
+01:52:42,445 --> 01:52:44,072
+<font face="sans-serif" size="52">Tú estás en mi casa.</font>
+
+1248
+01:52:44,614 --> 01:52:46,199
+<font face="sans-serif" size="52">¿Papá sabe que estás aquí?</font>
+
+1249
+01:52:47,742 --> 01:52:48,785
+<font face="sans-serif" size="52">¿Es en serio?</font>
+
+1250
+01:53:37,208 --> 01:53:38,251
+<font face="sans-serif" size="52">Gracias, amigo.</font>
+
+1251
+01:53:42,380 --> 01:53:43,715
+<font face="sans-serif" size="52">Bien, voy a probarla.</font>
+
+1252
+01:54:13,786 --> 01:54:15,496
+<font face="sans-serif" size="52">Chimuelo, quieto.</font>
+
+1253
+01:54:19,292 --> 01:54:22,045
+<font face="sans-serif" size="52">¿No deberías estar en la cama?</font>
+
+1254
+01:54:23,588 --> 01:54:25,882
+<font face="sans-serif" size="52">Muy bien, agárrense fuerte.</font>
+
+1255
+01:54:26,674 --> 01:54:27,717
+<font face="sans-serif" size="52">Aquí vamos.</font>
+
+1256
+01:54:37,519 --> 01:54:40,021
+<font face="sans-serif" size="52">Ahí te va. Agárralo.</font>
+
+1257
+01:54:45,443 --> 01:54:46,777
+<font face="sans-serif" size="52">¡Ahí estás!</font>
+
+1258
+01:54:46,778 --> 01:54:48,571
+<font face="sans-serif" size="52">- Oye.
+- Perdón.</font>
+
+1259
+01:54:49,531 --> 01:54:50,782
+<font face="sans-serif" size="52">¿Y qué opinas?</font>
+
+1260
+01:54:52,075 --> 01:54:53,743
+<font face="sans-serif" size="52">Cambiaron las cosas en este tiempo.</font>
+
+1261
+01:54:54,536 --> 01:54:58,038
+<font face="sans-serif" size="52">Debo decir que volar de regreso fue...
+toda una experiencia.</font>
+
+1262
+01:54:58,039 --> 01:55:01,083
+<font face="sans-serif" size="52">A ver, a ver... ¿tú montaste un dragón?</font>
+
+1263
+01:55:01,084 --> 01:55:03,710
+<font face="sans-serif" size="52">Bueno, como ese monstruo
+quemó todos los barcos,</font>
+
+1264
+01:55:03,711 --> 01:55:05,463
+<font face="sans-serif" size="52">- no teníamos muchas...
+- ¡Hipo!</font>
+
+1265
+01:55:06,130 --> 01:55:08,049
+<font face="sans-serif" size="52">Ay, no. ¿Qué hice esta vez?</font>
+
+1266
+01:55:09,968 --> 01:55:11,134
+<font face="sans-serif" size="52">Eso fue por asustarme.</font>
+
+1267
+01:55:11,135 --> 01:55:13,304
+<font face="sans-serif" size="52">Oye, ¿esto siempre va a ser así o...?</font>
+
+1268
+01:55:17,517 --> 01:55:19,686
+<font face="sans-serif" size="52">Y eso es por todo lo demás.</font>
+
+1269
+01:55:20,228 --> 01:55:22,438
+<font face="sans-serif" size="52">Si así va a ser, entonces...
+me acostumbro.</font>
+
+1270
+01:55:23,147 --> 01:55:24,148
+<font face="sans-serif" size="52">Sip.</font>
+
+1271
+01:55:24,774 --> 01:55:29,070
+<font face="sans-serif" size="52">Resulta que lo único que necesitábamos
+era... un poco más de... esto.</font>
+
+1272
+01:55:29,904 --> 01:55:31,780
+<font face="sans-serif" size="52">Me señalaste completo.</font>
+
+1273
+01:55:31,781 --> 01:55:34,033
+<font face="sans-serif" size="52">Bueno, Hipo, la mayoría de ti.</font>
+
+1274
+01:55:34,993 --> 01:55:36,410
+<font face="sans-serif" size="52">Tu pierna nueva es mi creación.</font>
+
+1275
+01:55:36,411 --> 01:55:39,997
+<font face="sans-serif" size="52">Agregué un toque de excentricidad
+para que te veas mejor.</font>
+
+1276
+01:55:39,998 --> 01:55:41,082
+<font face="sans-serif" size="52">Aquí tienes.</font>
+
+1277
+01:55:41,583 --> 01:55:43,458
+<font face="sans-serif" size="52">- Bienvenido.
+- ¿La reconstruiste?</font>
+
+1278
+01:55:43,459 --> 01:55:45,628
+<font face="sans-serif" size="52">Sí. Encontré tus diseños.</font>
+
+1279
+01:55:46,129 --> 01:55:47,130
+<font face="sans-serif" size="52">Nada mal.</font>
+
+1280
+01:55:47,714 --> 01:55:48,798
+<font face="sans-serif" size="52">¡Furia Nocturna!</font>
+
+1281
+01:55:50,550 --> 01:55:51,800
+<font face="sans-serif" size="52">- Ahí viene
+- ¿Ya viste?</font>
+
+1282
+01:55:51,801 --> 01:55:53,177
+<font face="sans-serif" size="52">¿Qué es?</font>
+
+1283
+01:55:53,678 --> 01:55:55,138
+<font face="sans-serif" size="52">¿Quieres dar una vuelta?</font>
+
+1284
+01:56:06,608 --> 01:56:08,276
+<font face="sans-serif" size="52"><i>Esto es Berk.</i></font>
+
+1285
+01:56:11,029 --> 01:56:12,739
+<font face="sans-serif" size="52"><i>Tienes que estar loco para mudarte aquí.</i></font>
+
+1286
+01:56:14,699 --> 01:56:16,409
+<font face="sans-serif" size="52"><i>Y más loco para quedarte.</i></font>
+
+1287
+01:56:18,912 --> 01:56:21,164
+<font face="sans-serif" size="52"><i>No es para los débiles de carácter.</i></font>
+
+1288
+01:56:27,420 --> 01:56:30,256
+<font face="sans-serif" size="52"><i>La comida que crece aquí
+es dura e insípida.</i></font>
+
+1289
+01:56:31,549 --> 01:56:32,842
+<font face="sans-serif" size="52">¡Vamos!</font>
+
+1290
+01:56:33,718 --> 01:56:35,136
+<font face="sans-serif" size="52"><i>La gente que crece aquí</i>...</font>
+
+1291
+01:56:35,720 --> 01:56:36,971
+<font face="sans-serif" size="52"><i>lo es todavía más.</i></font>
+
+1292
+01:56:40,225 --> 01:56:42,769
+<font face="sans-serif" size="52"><i>La única ventaja... son las mascotas.</i></font>
+
+1293
+01:56:43,853 --> 01:56:47,564
+<font face="sans-serif" size="52"><i>Mientras que en otros lugares
+tienen ponis o cachorros</i>...</font>
+
+1294
+01:56:47,565 --> 01:56:48,857
+<font face="sans-serif" size="52">Vamos, amigo.</font>
+
+1295
+01:56:48,858 --> 01:56:50,360
+<font face="sans-serif" size="52">...<i>nosotros tenemos</i>...</font>
+
+1296
+01:56:53,112 --> 01:56:54,113
+<font face="sans-serif" size="52"><i>¡dragones!</i></font>
+
+1297
+01:56:59,536 --> 01:57:03,331
+<font face="sans-serif" size="52">CÓMO ENTRENAR A TU DRAGÓN</font>
+
+1298
+01:57:12,006 --> 01:57:15,176
+<font face="sans-serif" size="52">BASADA EN EL LIBRO
+DE CRESSIDA COWELL</font>
+
+1299
+02:04:50,340 --> 02:04:53,927
+<font face="sans-serif" size="52">{\an8}DEDICADA A LA MEMORIA
+DE MARGARET COLL</font>
+
+1300
+02:05:17,534 --> 02:05:18,535
+<font face="sans-serif" size="52">SUBTÍTULOS: JOSEFINA BITONI</font>
