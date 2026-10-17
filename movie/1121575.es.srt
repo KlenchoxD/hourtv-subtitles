@@ -1,0 +1,4320 @@
+1
+00:00:14,974 --> 00:00:16,266
+<i>Yo estuve allí.</i>
+
+2
+00:00:18,728 --> 00:00:19,811
+<i>Yo estuve allí.</i>
+
+3
+00:00:22,690 --> 00:00:24,065
+<i>Estuvimos allí.</i>
+
+4
+00:00:28,404 --> 00:00:29,863
+<i>En el amanecer...</i>
+
+5
+00:00:29,947 --> 00:00:31,531
+<i>De la Tercera Era.</i>
+
+6
+00:00:32,575 --> 00:00:34,451
+<i>De una nueva era.</i>
+
+7
+00:00:39,040 --> 00:00:41,583
+<i>El nacimiento de la Alianza Interestelar.</i>
+
+8
+00:00:42,251 --> 00:00:43,710
+<i>Un momento de orgullo.</i>
+
+9
+00:00:44,587 --> 00:00:46,129
+<i>Un momento poderoso.</i>
+
+10
+00:01:02,730 --> 00:01:06,191
+BABILONIA CINCOEL
+VIAJE A CASA
+
+11
+00:01:08,236 --> 00:01:10,654
+¿Delenn? Maldición.
+
+12
+00:01:11,614 --> 00:01:12,614
+i Delenn!
+
+13
+00:01:13,282 --> 00:01:15,784
+- Sí, John.
+- ¿Viste mis medias azules?
+
+14
+00:01:16,827 --> 00:01:18,995
+Ahí hay muchas medias.
+
+15
+00:01:20,456 --> 00:01:21,456
+No son azules.
+
+16
+00:01:21,958 --> 00:01:23,750
+Sí, tienes razón.
+
+17
+00:01:24,752 --> 00:01:26,670
+Las medias azules son las de la suerte.
+
+18
+00:01:27,463 --> 00:01:30,548
+Todas las medias son de la suerte,
+porque al ritmo en que las pierdes,
+
+19
+00:01:30,633 --> 00:01:32,217
+tienes suerte de tener algunas.
+
+20
+00:01:33,344 --> 00:01:34,678
+No entiendes.
+
+21
+00:01:35,513 --> 00:01:38,390
+Son las medias que llevaba
+cuando tomé el mando de Babilonia 5.
+
+22
+00:01:38,474 --> 00:01:41,685
+Creí que sería simbólico llevarlas
+
+23
+00:01:41,769 --> 00:01:44,271
+cuando me vaya de B5
+para hacerme cargo de la Alianza.
+
+24
+00:01:45,273 --> 00:01:46,898
+Nadie lo sabrá.
+
+25
+00:01:46,983 --> 00:01:49,776
+Yo lo sabré.
+No puedo salir sin las medias.
+
+26
+00:01:50,444 --> 00:01:52,988
+Entonces, ¿qué planea, señor presidente?
+
+27
+00:01:53,614 --> 00:01:56,116
+¿Ir sin medias? No, claro que no.
+
+28
+00:01:56,617 --> 00:01:59,035
+Por favor. Debemos irnos.
+
+29
+00:01:59,870 --> 00:02:01,246
+Nos están esperando.
+
+30
+00:02:09,130 --> 00:02:11,089
+Solo digo que no debiste desafiarme.
+
+31
+00:02:11,799 --> 00:02:13,800
+No discutiré esto ahora.
+
+32
+00:02:15,136 --> 00:02:17,762
+Delenn, no lleva...
+
+33
+00:02:17,847 --> 00:02:19,848
+No. No digas nada.
+
+34
+00:02:36,699 --> 00:02:40,160
+BUENA SUERTE
+SR. PRESIDENTE Y DELENN
+
+35
+00:02:57,678 --> 00:03:00,889
+<i>Este es un informe especial
+de la Cadena de Noticias Interestelares.</i>
+
+36
+00:03:03,559 --> 00:03:06,144
+<i>Dos años después de ganar la guerra
+de las Sombras, el capitán Sheridan...</i>
+
+37
+00:03:06,228 --> 00:03:08,146
+PARTE SHERIDAN
+EL PRESIDENTE VA A MINBAR
+
+38
+00:03:08,230 --> 00:03:09,898
+<i>...presidente de la Alianza Interestelar,</i>
+
+39
+00:03:09,982 --> 00:03:14,235
+<i>abandona Babilonia 5
+por última vez, según esperan muchos.</i>
+
+40
+00:03:14,695 --> 00:03:17,113
+<i>En este viaje lo acompaña su esposa,</i>
+
+41
+00:03:17,198 --> 00:03:21,576
+<i>la exembajadora minbarí, Delenn,
+otra veterana de la guerra de las Sombras,</i>
+
+42
+00:03:21,660 --> 00:03:23,370
+<i>que comenzó
+cuando la nave exploradora Ícaro...</i>
+
+43
+00:03:23,454 --> 00:03:24,704
+IMÁGENES DE ÍCARO EN Z'HA'DUM
+
+44
+00:03:24,789 --> 00:03:28,124
+<i>...despertó a una raza avanzada
+conocida como las sombras</i>
+
+45
+00:03:28,209 --> 00:03:30,418
+<i>en su planeta natal de Z'ha'dum.</i>
+
+46
+00:03:30,503 --> 00:03:32,170
+<i>Cuando reactivaron
+su guerra contra los vorlon...</i>
+
+47
+00:03:32,254 --> 00:03:33,588
+BATALLA ENTRE LAS SOMBRAS
+Y LOS VORLON
+
+48
+00:03:33,672 --> 00:03:35,840
+<i>...el conflicto
+que puso a la Tierra en la mira</i>
+
+49
+00:03:35,925 --> 00:03:39,719
+<i>y amenazó con destruir
+docenas de mundos y matar a billones.</i>
+
+50
+00:03:43,516 --> 00:03:45,475
+<i>Cuando todo falló,
+Sheridan acabó con la guerra.</i>
+
+51
+00:03:45,559 --> 00:03:47,102
+ACABAN LAS GUERRAS DE LAS SOMBRAS
+ENERO DE 2261
+
+52
+00:03:47,812 --> 00:03:49,813
+iAhora váyanse de nuestra galaxia!
+
+53
+00:03:50,272 --> 00:03:53,691
+SHERIDAN: SOMBRAS Y VORLON
+ARCHIVO HISTÓRICO: ENERO DE 2261.
+
+54
+00:03:53,776 --> 00:03:57,195
+<i>Al llegar a Minbar, Sheridan y Delenn</i>
+
+55
+00:03:57,279 --> 00:04:00,865
+<i>residirán en Tuzanor, la ciudad capital,</i>
+
+56
+00:04:00,950 --> 00:04:04,244
+<i>que servirá de hogar permanente
+para la alianza de 12 mundos.</i>
+
+57
+00:04:04,870 --> 00:04:07,539
+<i>Las emociones del momento
+se notan en sus ojos</i>
+
+58
+00:04:07,623 --> 00:04:11,459
+<i>mientras Sheridan se despide
+de la estación en la que sirvió,</i>
+
+59
+00:04:12,086 --> 00:04:15,296
+que ahora queda bajo el mando
+de la capitana Elizabeth Lochley.
+
+60
+00:04:16,090 --> 00:04:17,382
+Buen viaje, John.
+
+61
+00:04:23,013 --> 00:04:24,764
+<i>Al preparar este informe,</i>
+
+62
+00:04:24,849 --> 00:04:28,059
+<i>le solicitamos varias veces
+una entrevista al presidente Sheridan,</i>
+
+63
+00:04:29,353 --> 00:04:33,815
+<i>a lo que solo nos dijeron que a Sheridan
+no le interesa mucho la prensa...</i>
+
+64
+00:04:35,317 --> 00:04:37,235
+<i>¿Hola?</i>
+
+65
+00:04:37,611 --> 00:04:38,611
+<i>¿Está encendido?</i>
+
+66
+00:04:53,627 --> 00:04:54,627
+¿John?
+
+67
+00:04:55,254 --> 00:04:56,254
+Aquí.
+
+68
+00:05:00,092 --> 00:05:02,218
+¿Por qué estás en la penumbra?
+
+69
+00:05:05,473 --> 00:05:06,764
+Me acostumbré a ella, supongo.
+
+70
+00:05:07,725 --> 00:05:09,559
+¿Estás teniendo una duda
+
+71
+00:05:10,227 --> 00:05:12,020
+con todo esto?
+
+72
+00:05:12,730 --> 00:05:13,730
+¿Yo?
+
+73
+00:05:13,814 --> 00:05:16,691
+No, hace días que pasé de una duda.
+
+74
+00:05:17,276 --> 00:05:18,693
+Ahora ya voy por la 14.
+
+75
+00:05:21,238 --> 00:05:24,616
+No sé si estoy hecho
+para ser político, Delenn.
+
+76
+00:05:25,326 --> 00:05:27,869
+No quiero pasar mi tiempo
+haciendo cosas ceremoniales,
+
+77
+00:05:27,953 --> 00:05:30,872
+inaugurando centros comerciales,
+entregando medallas a desagradables.
+
+78
+00:05:31,790 --> 00:05:33,041
+Perdonando a un pavo.
+
+79
+00:05:33,459 --> 00:05:34,417
+¿Cómo?
+
+80
+00:05:36,212 --> 00:05:37,420
+Acción de Gracias.
+
+81
+00:05:37,505 --> 00:05:39,964
+Es una fiesta importante en mi hogar.
+
+82
+00:05:40,049 --> 00:05:42,091
+La gente lo celebra comiendo pavos.
+
+83
+00:05:42,176 --> 00:05:44,511
+Pero por tradición, se perdona a un pavo.
+
+84
+00:05:45,387 --> 00:05:49,849
+Dice mucho de tu especie
+que hagan una fiesta basada
+
+85
+00:05:49,934 --> 00:05:53,019
+en decidir no matar algo, para variar.
+
+86
+00:05:55,689 --> 00:05:59,901
+En fin, solo quería decirte
+que pronto saltaremos a Minbar.
+
+87
+00:05:59,985 --> 00:06:02,278
+- Deberías prepararte.
+- Entendido.
+
+88
+00:06:03,739 --> 00:06:04,739
+Delenn.
+
+89
+00:06:06,158 --> 00:06:08,284
+Admito que estoy algo nervioso.
+
+90
+00:06:09,453 --> 00:06:10,954
+Pero sé que lo superaré.
+
+91
+00:06:11,038 --> 00:06:14,207
+No porque sea el sujeto más inteligente
+ni el mejor para este trabajo,
+
+92
+00:06:15,167 --> 00:06:18,127
+sino porque sé que crees en mí.
+
+93
+00:06:20,130 --> 00:06:21,798
+No necesito una Alianza Interestelar.
+
+94
+00:06:21,882 --> 00:06:23,299
+No necesito las estrellas
+
+95
+00:06:23,384 --> 00:06:25,552
+ni ninguno de los mundos
+que giran alrededor de ellas.
+
+96
+00:06:26,679 --> 00:06:27,971
+Solo te necesito a ti, Delenn.
+
+97
+00:06:29,765 --> 00:06:31,057
+Eres mi universo.
+
+98
+00:06:31,934 --> 00:06:34,310
+La estrella más brillante de mi cielo.
+
+99
+00:06:35,646 --> 00:06:36,646
+Te amo.
+
+100
+00:06:37,731 --> 00:06:38,940
+Yo también te amo.
+
+101
+00:06:44,029 --> 00:06:45,488
+Ahora, prepárate.
+
+102
+00:06:46,156 --> 00:06:47,865
+Y te compré un regalo.
+
+103
+00:06:55,541 --> 00:06:56,583
+<i>Ahora, prepárate.</i>
+
+104
+00:06:58,669 --> 00:07:00,420
+<i>Y te compré un regalo.</i>
+
+105
+00:07:27,323 --> 00:07:29,490
+Gracias por venir, señor presidente.
+
+106
+00:07:29,575 --> 00:07:32,243
+Me dijeron
+que Satai Delenn nos acompañaría.
+
+107
+00:07:32,745 --> 00:07:33,828
+Está algo retrasada,
+
+108
+00:07:33,912 --> 00:07:35,872
+pero vendrá antes de que acabe la reunión.
+
+109
+00:07:36,540 --> 00:07:37,665
+Bien.
+
+110
+00:07:37,750 --> 00:07:40,543
+Espero que se haya adaptado
+cómodamente estas últimas semanas.
+
+111
+00:07:40,628 --> 00:07:45,632
+Sí. Desarmé la maleta,
+encontré mis medias azules,
+
+112
+00:07:45,716 --> 00:07:48,217
+me puse cómodo,
+superé el desfasaje estelar
+
+113
+00:07:48,302 --> 00:07:50,887
+y, en general, todo va muy bien.
+
+114
+00:07:50,971 --> 00:07:53,765
+Excelente. Le agradecemos que haga esto.
+
+115
+00:07:53,849 --> 00:07:56,559
+Imagino que el hecho
+de que soliciten su apoyo
+
+116
+00:07:56,644 --> 00:07:59,270
+para un nuevo sistema de energía
+quizá parezca banal.
+
+117
+00:07:59,355 --> 00:08:01,314
+No. Para nada, Trudan.
+
+118
+00:08:01,899 --> 00:08:03,816
+Me gusta inaugurar centros comerciales.
+
+119
+00:08:04,526 --> 00:08:06,736
+¿Qué es un centro comercial?
+
+120
+00:08:07,196 --> 00:08:08,321
+No importa.
+
+121
+00:08:08,822 --> 00:08:10,740
+Lo importante es que, según me dijeron,
+
+122
+00:08:10,824 --> 00:08:13,993
+abastecerá de energía
+a toda la ciudad de Tuzanor
+
+123
+00:08:14,078 --> 00:08:16,996
+con una fracción de los contaminantes
+de los generadores anteriores.
+
+124
+00:08:17,790 --> 00:08:20,583
+No podría estar más entusiasmado.
+
+125
+00:08:21,251 --> 00:08:24,295
+Gracias. Sí, muchas gracias.
+
+126
+00:08:24,838 --> 00:08:26,047
+Por aquí, por favor.
+
+127
+00:08:30,386 --> 00:08:33,388
+<i>Gracias. Sí, muchas gracias.</i>
+
+128
+00:08:34,390 --> 00:08:35,682
+Por aquí, por favor.
+
+129
+00:08:41,772 --> 00:08:44,649
+¿Señor presidente? ¿Nos acompaña?
+
+130
+00:08:48,487 --> 00:08:50,196
+Sí, ya voy.
+
+131
+00:08:54,952 --> 00:08:59,455
+Un amigo mío dijo una vez
+que el futuro nos rodea,
+
+132
+00:08:59,540 --> 00:09:01,666
+espera en los momentos de transición
+
+133
+00:09:02,167 --> 00:09:04,460
+para nacer en los momentos de revelación.
+
+134
+00:09:05,087 --> 00:09:08,589
+Claramente, este es uno de esos momentos
+
+135
+00:09:08,674 --> 00:09:11,467
+para Minbar y los minbaríes.
+
+136
+00:09:17,182 --> 00:09:19,267
+i BLA, BLA, BLA!
+
+137
+00:09:23,814 --> 00:09:26,941
+Creo que es momento
+de encender a esta criatura.
+
+138
+00:09:29,403 --> 00:09:31,738
+¿Encender una criatura?
+
+139
+00:09:33,073 --> 00:09:34,949
+Buscamos el botón de encendido.
+
+140
+00:09:36,869 --> 00:09:39,620
+Sí. Inicien la Fase 1.
+
+141
+00:09:48,714 --> 00:09:51,591
+El proceso experimental
+que se usa en este sistema de energía
+
+142
+00:09:51,675 --> 00:09:55,303
+será adoptado por los mundos miembros
+de la Alianza Interestelar
+
+143
+00:09:55,387 --> 00:09:58,681
+y será clave para el avance de varias...
+
+144
+00:10:01,477 --> 00:10:03,060
+Inicien la Fase 1.
+
+145
+00:10:06,398 --> 00:10:10,151
+...clave para el avance
+de varias civilizaciones al borde de...
+
+146
+00:10:16,867 --> 00:10:18,367
+Fase 2 activada.
+
+147
+00:10:28,212 --> 00:10:29,921
+Señor presidente. ¿Se encuentra bien?
+
+148
+00:10:31,507 --> 00:10:34,634
+No. Algo anda mal.
+
+149
+00:10:37,846 --> 00:10:39,180
+Deberíamos pedir ayuda.
+
+150
+00:10:40,557 --> 00:10:41,557
+¿Está...?
+
+151
+00:10:41,975 --> 00:10:46,813
+Trudan. ¿Qué clase de energía
+utiliza esta planta?
+
+152
+00:10:46,897 --> 00:10:48,314
+Estaba en el comunicado.
+
+153
+00:10:48,398 --> 00:10:50,483
+i Nadie lee los comunicados de prensa!
+
+154
+00:10:50,567 --> 00:10:52,318
+¿Cuál es la maldita fuente de energía?
+
+155
+00:10:53,070 --> 00:10:54,570
+Taquiones.
+
+156
+00:10:55,072 --> 00:10:56,447
+iMaldición!
+
+157
+00:10:58,700 --> 00:11:00,493
+Cuando viajamos en el tiempo,
+
+158
+00:11:01,453 --> 00:11:06,332
+pasamos por grandes olas
+de impulsos de taquiones.
+
+159
+00:11:08,168 --> 00:11:13,339
+Te puedes despegar del tiempo
+a menos que haya un ancla.
+
+160
+00:11:14,049 --> 00:11:16,050
+Estos evitarán que se vayan a la deriva.
+
+161
+00:11:16,593 --> 00:11:18,553
+Y los protegerán.
+
+162
+00:11:18,637 --> 00:11:22,056
+<i>La distorsión temporal
+puede ser terriblemente dañina.</i>
+
+163
+00:11:22,724 --> 00:11:24,559
+Deben apagar el sistema.
+
+164
+00:11:24,643 --> 00:11:26,561
+No se puede. Cuando se inicia,
+
+165
+00:11:26,645 --> 00:11:28,521
+no puede apagarse
+hasta que llega al total...
+
+166
+00:11:28,605 --> 00:11:30,606
+Entonces, sáquenme de aquí,
+antes de que...
+
+167
+00:11:31,483 --> 00:11:32,400
+¿Antes de que qué?
+
+168
+00:11:32,901 --> 00:11:34,402
+Lennier, sácanos de aquí.
+
+169
+00:11:40,075 --> 00:11:41,492
+iSu estabilizador está afectado!
+
+170
+00:11:41,577 --> 00:11:43,327
+- iJohn!
+- i No!
+
+171
+00:11:49,668 --> 00:11:50,668
+¿Qué le pasó?
+
+172
+00:11:52,754 --> 00:11:54,505
+El estabilizador temporal se dañó.
+
+173
+00:11:55,549 --> 00:11:57,633
+Se despegó del tiempo.
+
+174
+00:12:01,430 --> 00:12:04,807
+Zathras lo advirtió.
+Pero nadie le hace caso a Zathras.
+
+175
+00:12:04,892 --> 00:12:06,684
+¿Cómo que despegado del tiempo?
+
+176
+00:12:06,768 --> 00:12:09,186
+¿Dónde está? ¿En el pasado? ¿En el futuro?
+
+177
+00:12:09,271 --> 00:12:10,563
+No puedo decirlo.
+
+178
+00:12:10,647 --> 00:12:13,608
+No lo sabría. No lo sé.
+
+179
+00:12:14,234 --> 00:12:15,401
+No se puede saber.
+
+180
+00:12:16,612 --> 00:12:17,820
+Está ocurriendo otra vez.
+
+181
+00:12:18,614 --> 00:12:20,781
+Me estoy despegando del tiempo.
+
+182
+00:12:28,832 --> 00:12:30,708
+¿Hay algo que pueda hacer?
+
+183
+00:12:30,792 --> 00:12:34,253
+¿Tienes un estabilizador temporal?
+
+184
+00:12:35,005 --> 00:12:36,088
+¿Qué cosa?
+
+185
+00:12:36,173 --> 00:12:38,215
+Sí, fue lo que pensé.
+
+186
+00:12:43,180 --> 00:12:44,180
+¿John?
+
+187
+00:12:45,933 --> 00:12:47,099
+Por aquí. i Rápido!
+
+188
+00:12:55,609 --> 00:12:57,234
+Será mejor que corra.
+
+189
+00:12:57,319 --> 00:12:58,945
+- ¿Qué?
+- Corra.
+
+190
+00:12:59,780 --> 00:13:00,780
+iCorra!
+
+191
+00:13:05,160 --> 00:13:06,160
+i No!
+
+192
+00:13:06,536 --> 00:13:07,370
+No.
+
+193
+00:13:08,288 --> 00:13:09,372
+i Delenn!
+
+194
+00:13:11,458 --> 00:13:12,792
+No. iAtrás!
+
+195
+00:13:13,961 --> 00:13:15,044
+Delenn, i no!
+
+196
+00:13:16,755 --> 00:13:18,214
+Corran. iCorran!
+
+197
+00:13:28,308 --> 00:13:30,726
+Lo más difícil
+de lidiar con los pak'ma'ra,
+
+198
+00:13:30,811 --> 00:13:33,521
+que, como saben, se alimentan de carroña,
+
+199
+00:13:33,605 --> 00:13:37,358
+es el residuo de metano
+que dejan, que puede ser...
+
+200
+00:13:39,319 --> 00:13:40,152
+...ser...
+
+201
+00:13:43,156 --> 00:13:45,324
+No entren en pánico. No...
+
+202
+00:13:48,578 --> 00:13:51,288
+iCorran, corran!
+
+203
+00:14:08,765 --> 00:14:09,765
+¿Qué?
+
+204
+00:14:17,274 --> 00:14:18,274
+Buenas instalaciones.
+
+205
+00:14:19,192 --> 00:14:21,652
+Perdón por quemar tu salón de clases.
+
+206
+00:14:21,737 --> 00:14:22,903
+Cosas que pasan.
+
+207
+00:14:22,988 --> 00:14:25,948
+Te sorprenderían las cosas que pasan
+en la medicina alienígena.
+
+208
+00:14:26,366 --> 00:14:29,118
+La universidad es muy paciente conmigo.
+
+209
+00:14:29,703 --> 00:14:31,454
+Me alegra ver que te va bien.
+
+210
+00:14:32,873 --> 00:14:34,081
+Tenemos los resultados del análisis.
+
+211
+00:14:35,584 --> 00:14:37,043
+Parece que tu teoría es correcta.
+
+212
+00:14:39,129 --> 00:14:40,296
+Bueno,
+
+213
+00:14:41,131 --> 00:14:43,382
+viaje en el tiempo,
+luces brillantes más un bum,
+
+214
+00:14:43,467 --> 00:14:44,967
+es igual a despegarse del tiempo.
+
+215
+00:14:45,886 --> 00:14:47,428
+¿Cuánto dices que salté?
+
+216
+00:14:49,639 --> 00:14:52,808
+Dieciocho años desde que saliste de B5.
+
+217
+00:14:53,435 --> 00:14:56,020
+¿Puedo llamarme? ¿Al yo del futuro?
+
+218
+00:14:57,439 --> 00:14:58,856
+Sería raro.
+
+219
+00:14:58,940 --> 00:15:00,441
+Hola, yo. Soy yo.
+
+220
+00:15:01,193 --> 00:15:02,735
+Quizá no sea recomendable.
+
+221
+00:15:02,819 --> 00:15:06,405
+Los problemas en la línea temporal
+podrían causar conflictos.
+
+222
+00:15:06,490 --> 00:15:09,408
+Dijiste que los flashbacks comenzaron
+cuando saliste de Babilonia 5.
+
+223
+00:15:09,493 --> 00:15:10,993
+Sí. ¿Por qué?
+
+224
+00:15:12,496 --> 00:15:13,996
+Es posible que haya una relación.
+
+225
+00:15:14,623 --> 00:15:17,917
+Los estabilizadores de tiempo
+venían del planeta debajo de B5.
+
+226
+00:15:18,001 --> 00:15:19,376
+Épsilon lll. Lo sé.
+
+227
+00:15:19,461 --> 00:15:21,837
+Así que es posible
+que moverte fuera del rango
+
+228
+00:15:21,922 --> 00:15:25,257
+de la tecnología que usó Zathras
+para moderar el campo de taquiones
+
+229
+00:15:25,342 --> 00:15:27,927
+comenzara a desgastarse
+cuando te alejaste,
+
+230
+00:15:28,011 --> 00:15:30,638
+reduciendo tu estabilidad
+en el flujo temporal.
+
+231
+00:15:31,264 --> 00:15:34,350
+Luego, cuando recibiste un gran golpe
+de taquiones en la planta energética,
+
+232
+00:15:34,434 --> 00:15:35,434
+- i bum!
+- i Bum!
+
+233
+00:15:35,852 --> 00:15:37,520
+Quizá un gran bum.
+
+234
+00:15:37,604 --> 00:15:42,191
+El análisis también muestra
+que estás desfasado.
+
+235
+00:15:42,275 --> 00:15:44,652
+¿Desfasado? iVaya!
+
+236
+00:15:45,278 --> 00:15:46,278
+Eso es grave.
+
+237
+00:15:47,614 --> 00:15:49,740
+No tienes idea de lo que significa, ¿no?
+
+238
+00:15:49,825 --> 00:15:50,699
+Ni la más mínima.
+
+239
+00:15:51,159 --> 00:15:53,828
+Significa que cuanto más tiempo pases
+fuera de tu línea temporal,
+
+240
+00:15:53,912 --> 00:15:55,454
+más comenzarás a deslizarte.
+
+241
+00:15:55,539 --> 00:15:58,874
+No solo al pasado y al futuro,
+sino incluso a realidades alternativas.
+
+242
+00:15:58,959 --> 00:16:00,668
+Líneas temporales en mundos paralelos.
+
+243
+00:16:00,752 --> 00:16:03,546
+Como nuestra realidad en muchos aspectos,
+pero diferente en otros.
+
+244
+00:16:04,089 --> 00:16:05,297
+¿Cómo lo soluciono?
+
+245
+00:16:05,966 --> 00:16:07,049
+¿Puedo solucionarlo?
+
+246
+00:16:07,467 --> 00:16:12,596
+Debes volver a Babilonia 5,
+luego a Épsilon lll, busca a Zathras.
+
+247
+00:16:12,681 --> 00:16:13,681
+¿Zathras?
+
+248
+00:16:14,808 --> 00:16:16,183
+Preferiría que me aniquilaran.
+
+249
+00:16:23,150 --> 00:16:23,983
+John.
+
+250
+00:16:24,067 --> 00:16:27,903
+Cada vez que pienso en él,
+me duele detrás del ojo izquierdo.
+
+251
+00:16:28,780 --> 00:16:31,198
+Creo que la agitación
+podría acelerar los saltos en el tiempo.
+
+252
+00:16:31,741 --> 00:16:32,825
+iY ahora me lo dices!
+
+253
+00:16:39,374 --> 00:16:40,916
+iJohn! i Escúchame!
+
+254
+00:16:41,293 --> 00:16:44,670
+La física cuántica dice
+que el observador afecta a lo observado.
+
+255
+00:16:45,589 --> 00:16:47,882
+Quizá logres volver recordando
+
+256
+00:16:47,966 --> 00:16:51,302
+exactamente lo que pensabas
+cuando desapareciste de tu línea temporal.
+
+257
+00:16:52,387 --> 00:16:54,889
+¿Me oíste? ¿John? ¿Me oíste?
+
+258
+00:17:07,611 --> 00:17:08,694
+¿Qué fue eso?
+
+259
+00:17:08,778 --> 00:17:10,446
+- Garibaldi.
+- ¿Estás bien?
+
+260
+00:17:10,530 --> 00:17:13,073
+Estoy bien. Pero te lo perdiste.
+
+261
+00:17:13,867 --> 00:17:14,867
+Maldición.
+
+262
+00:17:16,453 --> 00:17:17,620
+¿Él estará bien?
+
+263
+00:17:17,996 --> 00:17:20,915
+No lo sé.
+No sé si alguno de nosotros estará bien.
+
+264
+00:17:21,499 --> 00:17:23,459
+Pero lo peor es
+
+265
+00:17:24,878 --> 00:17:26,003
+que le mentí, Michael.
+
+266
+00:17:26,963 --> 00:17:29,840
+Le dije que había saltado 18 años
+en lugar de 23.
+
+267
+00:17:31,092 --> 00:17:33,344
+No podía soportar decirle
+que murió hace tres años.
+
+268
+00:17:36,056 --> 00:17:39,141
+¿Alguna idea de a dónde o cuándo va?
+
+269
+00:17:40,352 --> 00:17:41,352
+Ni idea.
+
+270
+00:17:57,327 --> 00:17:58,327
+¿John?
+
+271
+00:18:05,710 --> 00:18:06,543
+¿Papá?
+
+272
+00:18:12,342 --> 00:18:14,134
+Debiste avisarme que vendrías.
+
+273
+00:18:14,219 --> 00:18:16,303
+Podría haber preparado
+algo especial para la cena.
+
+274
+00:18:17,097 --> 00:18:19,056
+Estoy tan sorprendido como tú.
+
+275
+00:18:20,392 --> 00:18:21,517
+Me gusta la barba.
+
+276
+00:18:22,310 --> 00:18:23,185
+Gracias.
+
+277
+00:18:23,270 --> 00:18:26,480
+No estaba seguro al principio,
+pero ahora me parece bárba-ra.
+
+278
+00:18:27,315 --> 00:18:28,524
+Como la mayoría de las barbas.
+
+279
+00:18:29,985 --> 00:18:30,985
+¿Dónde está mamá?
+
+280
+00:18:32,153 --> 00:18:34,822
+Fue a la tienda. Debería volver pronto.
+
+281
+00:18:35,782 --> 00:18:38,409
+Una pregunta rara. ¿Qué fecha es hoy?
+
+282
+00:18:38,952 --> 00:18:40,160
+Diecisiete de enero.
+
+283
+00:18:40,620 --> 00:18:41,495
+¿El año?
+
+284
+00:18:43,748 --> 00:18:45,082
+No preguntes, es una larga historia.
+
+285
+00:18:45,583 --> 00:18:48,127
+Es el 2258. ¿Por qué?
+
+286
+00:18:48,962 --> 00:18:51,547
+El año en que me volví CEO de Babilonia 5.
+
+287
+00:18:53,258 --> 00:18:54,425
+Fue hace una vida.
+
+288
+00:18:54,509 --> 00:18:56,510
+Creí que había sido hace unas semanas.
+
+289
+00:18:57,012 --> 00:18:58,220
+El tiempo es raro.
+
+290
+00:19:02,434 --> 00:19:04,977
+A veces olvido cuánto me gusta este lugar.
+
+291
+00:19:08,023 --> 00:19:10,524
+¿Recuerdas cuando te perdiste
+en el maizal?
+
+292
+00:19:11,568 --> 00:19:12,985
+Algunas cosas no se olvidan.
+
+293
+00:19:16,781 --> 00:19:17,781
+i Papá!
+
+294
+00:19:18,992 --> 00:19:20,159
+<i>Me mareé.</i>
+
+295
+00:19:20,243 --> 00:19:24,621
+<i>El sol estaba justo arriba,
+no sabía cuál era el este o el oeste.</i>
+
+296
+00:19:25,415 --> 00:19:26,749
+<i>Y entré en pánico,</i>
+
+297
+00:19:27,751 --> 00:19:29,918
+<i>lo que solo empeoró la situación.</i>
+
+298
+00:19:37,719 --> 00:19:40,721
+<i>Y pensé: "Bueno, si el pánico no ayuda,</i>
+
+299
+00:19:41,514 --> 00:19:43,640
+<i>quizá estar tranquilo sirva de algo".</i>
+
+300
+00:19:45,018 --> 00:19:46,935
+<i>Pensé en mamá y en ti,</i>
+
+301
+00:19:48,271 --> 00:19:51,106
+<i>en cuánto los quería
+a ustedes y a este lugar.</i>
+
+302
+00:19:52,025 --> 00:19:55,027
+<i>Era como si pudiera sentir hacia dónde ir.</i>
+
+303
+00:19:56,154 --> 00:19:57,154
+<i>Y así fue.</i>
+
+304
+00:19:57,864 --> 00:20:00,157
+<i>Seguí ese sentimiento hasta casa.</i>
+
+305
+00:20:11,294 --> 00:20:12,961
+Por mucho tiempo después de eso,
+
+306
+00:20:13,046 --> 00:20:16,006
+iba una vez a la semana
+para perderme a propósito.
+
+307
+00:20:16,716 --> 00:20:20,219
+Solo para probarme que siempre
+podía encontrar el camino a casa.
+
+308
+00:20:21,805 --> 00:20:22,971
+¿Por qué dejaste de hacerlo?
+
+309
+00:20:24,140 --> 00:20:26,141
+Crecí lo suficiente
+para ver por encima del maíz.
+
+310
+00:20:27,102 --> 00:20:29,478
+Supongo que la perspectiva lo cambia todo.
+
+311
+00:20:32,649 --> 00:20:35,651
+Ahí viene tu madre.
+Mejor la ayudo a aterrizar.
+
+312
+00:20:35,735 --> 00:20:37,861
+Sabes cómo es estacionando en paralelo.
+
+313
+00:20:39,364 --> 00:20:41,240
+Se sorprenderá de verte.
+
+314
+00:20:42,242 --> 00:20:43,283
+Te quiero, papá.
+
+315
+00:20:45,120 --> 00:20:46,203
+Lo sabes, ¿verdad?
+
+316
+00:20:47,622 --> 00:20:49,289
+Los quiero mucho a ambos.
+
+317
+00:20:51,251 --> 00:20:54,378
+Entonces supongo
+que nosotros también te queremos, hijo.
+
+318
+00:21:07,267 --> 00:21:08,100
+¿Qué diablos?
+
+319
+00:21:42,302 --> 00:21:43,719
+¿Ahora dónde diablos estoy?
+
+320
+00:21:44,596 --> 00:21:45,804
+Apenas puedo respirar.
+
+321
+00:22:20,548 --> 00:22:22,758
+ÍCARO
+
+322
+00:22:23,718 --> 00:22:24,718
+i Ícaro!
+
+323
+00:22:25,178 --> 00:22:28,514
+<i>La guerra de las Sombras que comenzó
+cuando la nave exploradora Ícaro</i>
+
+324
+00:22:28,598 --> 00:22:31,850
+<i>despertó a una raza avanzada
+conocida como las sombras,</i>
+
+325
+00:22:31,935 --> 00:22:33,810
+<i>en su planeta, Z'ha'dum.</i>
+
+326
+00:22:37,607 --> 00:22:38,524
+No.
+
+327
+00:22:39,025 --> 00:22:40,859
+No.
+
+328
+00:22:46,533 --> 00:22:47,366
+iAlto!
+
+329
+00:22:48,368 --> 00:22:49,201
+¿Qué...?
+
+330
+00:22:49,869 --> 00:22:51,286
+iAlto! i Esperen!
+
+331
+00:22:51,371 --> 00:22:52,287
+¿Cómo...?
+
+332
+00:22:52,372 --> 00:22:54,456
+No hay tiempo. Tienen que...
+
+333
+00:22:55,792 --> 00:22:56,625
+Tienen que...
+
+334
+00:22:57,126 --> 00:22:58,252
+Toma, respira.
+
+335
+00:23:02,715 --> 00:23:05,384
+- ¿Quién eres? ¿Qué haces aquí?
+- No importa.
+
+336
+00:23:05,843 --> 00:23:07,302
+No hay tiempo que perder.
+
+337
+00:23:07,387 --> 00:23:08,929
+Creímos que éramos los primeros.
+
+338
+00:23:09,013 --> 00:23:10,055
+Lo somos.
+
+339
+00:23:10,598 --> 00:23:12,474
+Parece que tenemos un usurpador.
+
+340
+00:23:12,559 --> 00:23:14,977
+¿Dónde está el equipo de exploración?
+
+341
+00:23:15,061 --> 00:23:16,353
+Fueron a la ciudad,
+
+342
+00:23:16,437 --> 00:23:18,564
+encontraron una forma
+de entrar a una estructura.
+
+343
+00:23:18,648 --> 00:23:19,648
+- Diles que vuelvan.
+- ¿Qué?
+
+344
+00:23:19,732 --> 00:23:21,942
+No le hagas caso. Es...
+
+345
+00:23:22,026 --> 00:23:22,985
+i Diles que vuelvan!
+
+346
+00:23:23,069 --> 00:23:24,653
+i No dejes que toquen nada!
+
+347
+00:23:25,655 --> 00:23:28,407
+<i>Estamos dentro. Hay algo aquí.</i>
+
+348
+00:23:29,117 --> 00:23:30,742
+Vuelvan a la base. Ahora.
+
+349
+00:23:30,827 --> 00:23:31,994
+<i>¿Quién habla?</i>
+
+350
+00:23:32,078 --> 00:23:34,162
+<i>Es demasiado tarde. Ya estamos dentro.</i>
+
+351
+00:23:35,873 --> 00:23:38,875
+<i>Las paredes... Las paredes se mueven.</i>
+
+352
+00:23:38,960 --> 00:23:40,711
+<i>Hay algo detrás.</i>
+
+353
+00:23:41,754 --> 00:23:42,754
+<i>No...</i>
+
+354
+00:23:43,840 --> 00:23:44,840
+<i>No estamos solos.</i>
+
+355
+00:23:45,758 --> 00:23:47,634
+<i>¡Vienen hacia nosotros! Son...</i>
+
+356
+00:24:07,113 --> 00:24:08,155
+Demasiado tarde.
+
+357
+00:24:52,533 --> 00:24:54,785
+Debe haber un interruptor en algún lado.
+
+358
+00:24:57,205 --> 00:24:59,373
+¿Dónde estaba Moisés
+cuando se apagaron las luces?
+
+359
+00:24:59,457 --> 00:25:00,999
+En la maldita oscuridad.
+
+360
+00:25:05,380 --> 00:25:06,296
+Te tengo.
+
+361
+00:25:20,520 --> 00:25:21,603
+i Babilonia 5!
+
+362
+00:25:22,772 --> 00:25:23,772
+Lo logré.
+
+363
+00:25:24,148 --> 00:25:26,692
+Ahora solo debo bajar a Épsilon lll
+
+364
+00:25:26,776 --> 00:25:28,402
+o hacer que Zathras suba.
+
+365
+00:25:29,237 --> 00:25:30,904
+No sé qué sería peor.
+
+366
+00:25:32,573 --> 00:25:33,573
+Bien.
+
+367
+00:25:34,492 --> 00:25:35,492
+Eso no es bueno.
+
+368
+00:25:37,745 --> 00:25:40,372
+<i>Primero los civiles
+y el personal de la embajada.</i>
+
+369
+00:25:40,456 --> 00:25:42,999
+Repito, esta es una evacuación general.
+
+370
+00:25:43,084 --> 00:25:44,876
+<i>El personal de la estación
+y los residentes</i>
+
+371
+00:25:44,961 --> 00:25:48,171
+<i>deben reportarse de inmediato
+a los muelles uno al nueve.</i>
+
+372
+00:25:48,256 --> 00:25:49,339
+<i>Los civiles y...</i>
+
+373
+00:25:49,424 --> 00:25:52,467
+¿Qué ocurre?
+¿Dónde está la capitana Lochley?
+
+374
+00:25:52,552 --> 00:25:54,845
+¿Lochley? No sé de qué hablas.
+
+375
+00:25:54,929 --> 00:25:56,763
+Debemos irnos. Están llegando.
+
+376
+00:25:56,848 --> 00:25:59,224
+Si Lochley no está a cargo, ¿quién está?
+
+377
+00:26:01,561 --> 00:26:03,979
+Habla el comandante Jeffrey Sinclair
+de Babilonia 5.
+
+378
+00:26:04,689 --> 00:26:07,274
+Estamos siendo atacados,
+y evacuamos toda la tripulación.
+
+379
+00:26:07,358 --> 00:26:11,027
+Solicitamos asistencia urgentemente
+de cualquier nave en este sector
+
+380
+00:26:11,112 --> 00:26:12,362
+para recoger supervivientes.
+
+381
+00:26:13,072 --> 00:26:15,407
+Se destruyeron los sistemas
+de comunicación de largo alcance.
+
+382
+00:26:15,491 --> 00:26:18,034
+- ¿Salió la señal de auxilio?
+- Eso creo.
+
+383
+00:26:18,119 --> 00:26:20,871
+Sigue enviándola
+a corto alcance mientras se pueda.
+
+384
+00:26:20,955 --> 00:26:22,622
+Debemos evacuar a todos de la estación.
+
+385
+00:26:22,707 --> 00:26:24,040
+No me lo diga a mí, sino a ellos.
+
+386
+00:27:11,297 --> 00:27:14,674
+Aquí vienen. En formación.
+Escuadrón Alfa, cuide a sus seis.
+
+387
+00:27:20,723 --> 00:27:22,057
+Las armas no logran nada.
+
+388
+00:27:22,642 --> 00:27:25,101
+Debemos acercarnos,
+combate personal. Síganme.
+
+389
+00:27:55,091 --> 00:27:56,216
+¿Cuánto tiempo tenemos?
+
+390
+00:27:56,300 --> 00:27:59,219
+No mucho. Las naves de las sombras
+nos atacan tres a uno.
+
+391
+00:27:59,303 --> 00:28:01,596
+Entraron sus cápsulas por todo el casco.
+
+392
+00:28:01,681 --> 00:28:03,306
+Si entran a la base del transbordador
+
+393
+00:28:03,391 --> 00:28:05,559
+antes de que logremos
+sacar a todo el mundo...
+
+394
+00:28:05,643 --> 00:28:08,144
+Entonces, tendremos que asegurarnos
+de que eso no ocurra.
+
+395
+00:28:09,188 --> 00:28:10,981
+Garibaldi, nos vemos en el Muelle 1.
+
+396
+00:28:11,607 --> 00:28:13,817
+Trae a los que estén
+dispuestos a quedarse.
+
+397
+00:28:13,901 --> 00:28:14,901
+<i>Entendido.</i>
+
+398
+00:28:15,361 --> 00:28:17,320
+- Jeff...
+- No te preocupes por mí.
+
+399
+00:28:17,822 --> 00:28:20,824
+Haz lo que debas hacer,
+evacua a nuestra gente.
+
+400
+00:28:20,908 --> 00:28:22,409
+Tú también, Susan.
+
+401
+00:28:29,333 --> 00:28:31,418
+Vayan a los transbordadores.
+Me encargaré desde aquí.
+
+402
+00:28:37,508 --> 00:28:39,175
+Es una orden. iVayan!
+
+403
+00:28:45,683 --> 00:28:46,725
+Todo se termina.
+
+404
+00:28:48,019 --> 00:28:49,060
+No tengo miedo.
+
+405
+00:28:50,479 --> 00:28:51,313
+Estoy lista.
+
+406
+00:28:51,397 --> 00:28:54,065
+<i>Habla el comandante Jeffrey Sinclair
+de Babilonia 5.</i>
+
+407
+00:28:54,150 --> 00:28:56,735
+<i>Estamos siendo atacados
+y evacuamos toda la tripulación.</i>
+
+408
+00:28:56,819 --> 00:29:00,572
+<i>Solicitamos ayuda urgente
+de cualquier nave en el sector</i>
+
+409
+00:29:00,656 --> 00:29:02,240
+<i>para que recoja supervivientes.</i>
+
+410
+00:29:02,325 --> 00:29:03,742
+<i>Somos Babilonia 5.</i>
+
+411
+00:29:03,826 --> 00:29:04,910
+<i>Estamos siendo atacados</i>
+
+412
+00:29:04,994 --> 00:29:07,996
+<i>y solicitamos asistencia
+de cualquier nave en este sector.</i>
+
+413
+00:29:16,631 --> 00:29:18,340
+Señor, tenemos un intruso.
+
+414
+00:29:19,634 --> 00:29:22,427
+Sea quien sea,
+eligió un mal momento para ser polizón.
+
+415
+00:29:22,929 --> 00:29:25,180
+No soy un... Soy de Earthforce.
+
+416
+00:29:26,140 --> 00:29:27,140
+No lleva el uniforme.
+
+417
+00:29:28,935 --> 00:29:32,520
+- Estoy retirado...
+- Enemigo en el sector Azul, 30 segundos.
+
+418
+00:29:32,605 --> 00:29:34,189
+Tiene 20 segundos, señor...
+
+419
+00:29:34,565 --> 00:29:36,608
+- Sheridan.
+- Úselos sabiamente.
+
+420
+00:29:36,692 --> 00:29:40,528
+Me golpeó un campo de taquiones.
+Me despegué del tiempo y el espacio.
+
+421
+00:29:40,613 --> 00:29:41,529
+Quince segundos.
+
+422
+00:29:41,614 --> 00:29:43,990
+Dirigí B5
+durante la guerra de las Sombras.
+
+423
+00:29:44,075 --> 00:29:45,700
+Pero si usted está a cargo,
+
+424
+00:29:45,785 --> 00:29:48,787
+esta debe ser
+una línea de tiempo alternativa.
+
+425
+00:29:48,871 --> 00:29:50,914
+No importa. Debemos sacar a los nuestros,
+
+426
+00:29:50,998 --> 00:29:53,166
+o terminarán tan muertos
+en esta línea temporal
+
+427
+00:29:53,250 --> 00:29:54,542
+como en la suya.
+
+428
+00:29:54,627 --> 00:29:56,836
+- Y usted también.
+- Sí, lo supuse.
+
+429
+00:29:58,172 --> 00:29:59,923
+¿Sabe operar una de estas?
+
+430
+00:30:00,007 --> 00:30:01,299
+Claro que sé.
+
+431
+00:30:01,384 --> 00:30:02,968
+¿Sabe qué es la última defensa?
+
+432
+00:30:03,386 --> 00:30:04,386
+Sí.
+
+433
+00:30:06,180 --> 00:30:08,139
+Bien, porque acaba de unirse a una.
+
+434
+00:30:11,769 --> 00:30:13,478
+Como ya luchó contra estas cosas,
+
+435
+00:30:13,562 --> 00:30:15,897
+¿hay alguna forma de detenerlas
+en combate mano a mano?
+
+436
+00:30:15,982 --> 00:30:17,774
+Están adelantados un millón de años.
+
+437
+00:30:17,858 --> 00:30:19,985
+- ¿Eso es un "no"?
+- Eso es un "no".
+
+438
+00:30:30,997 --> 00:30:32,038
+Aquí vienen.
+
+439
+00:31:13,539 --> 00:31:16,166
+Splash 2. Bien hecho, Alpha 7.
+
+440
+00:31:16,625 --> 00:31:17,834
+Vamos otra vez.
+
+441
+00:31:18,210 --> 00:31:19,210
+i No!
+
+442
+00:32:11,847 --> 00:32:13,181
+Habla Babilonia 5.
+
+443
+00:32:13,766 --> 00:32:17,310
+Estamos siendo atacados.
+Necesitamos naves para los supervivientes.
+
+444
+00:32:18,062 --> 00:32:22,398
+Por favor, si oyen mi voz,
+necesitamos ayuda
+
+445
+00:32:24,235 --> 00:32:25,235
+para salvarlos.
+
+446
+00:32:31,575 --> 00:32:32,575
+Están entrando.
+
+447
+00:32:32,660 --> 00:32:34,369
+Repito. Están entrando.
+
+448
+00:32:36,205 --> 00:32:38,414
+Esta es la estación Babilonia 5
+de la Alianza Terrestre.
+
+449
+00:32:38,999 --> 00:32:40,375
+Están por todas partes.
+
+450
+00:32:40,918 --> 00:32:42,001
+<i>Nos están matando.</i>
+
+451
+00:32:43,462 --> 00:32:44,629
+<i>¿Alguien me oye?</i>
+
+452
+00:32:47,633 --> 00:32:49,884
+<i>Este es el muelle 9.</i>
+
+453
+00:32:50,469 --> 00:32:51,845
+<i>El último transbordador partió.</i>
+
+454
+00:32:52,888 --> 00:32:54,139
+<i>Logramos que salieran, pero...</i>
+
+455
+00:32:54,932 --> 00:32:56,307
+No hay naves de rescate cerca.
+
+456
+00:32:57,476 --> 00:32:59,644
+Sin naves, la puerta de salto destruida,
+
+457
+00:33:00,646 --> 00:33:02,647
+nadie cerca que pueda
+acoger los transbordadores.
+
+458
+00:33:03,732 --> 00:33:04,774
+Serán blancos fáciles.
+
+459
+00:33:15,786 --> 00:33:18,329
+Si ellos mueren, nosotros morimos,
+
+460
+00:33:18,998 --> 00:33:20,039
+i ustedes mueren!
+
+461
+00:33:21,584 --> 00:33:24,794
+Ivanova. ¿Ivanova? Responde.
+
+462
+00:33:27,339 --> 00:33:28,631
+Creo que acaba de hacerlo.
+
+463
+00:33:30,009 --> 00:33:31,009
+Susan tiene razón.
+
+464
+00:33:31,510 --> 00:33:33,261
+Cuando las sombras tomen la estación,
+
+465
+00:33:33,345 --> 00:33:35,346
+darán la vuelta
+y destruirán los transbordadores,
+
+466
+00:33:35,431 --> 00:33:37,473
+matando a todo el mundo
+antes de que llegue la ayuda.
+
+467
+00:33:37,558 --> 00:33:39,350
+Podemos retrasarlos, pero eso es todo.
+
+468
+00:33:39,935 --> 00:33:42,187
+No, hay algo más.
+
+469
+00:33:43,439 --> 00:33:44,480
+El núcleo de energía.
+
+470
+00:33:45,065 --> 00:33:48,526
+Sus naves rodean la estación
+en el alcance de la explosión.
+
+471
+00:33:49,361 --> 00:33:51,487
+Si volamos el núcleo,
+podemos destruirlos a todos
+
+472
+00:33:51,572 --> 00:33:53,531
+y ganar tiempo hasta que llegue la ayuda.
+
+473
+00:33:53,616 --> 00:33:54,866
+Sé cómo hacerlo.
+
+474
+00:33:54,950 --> 00:33:55,950
+Yo también.
+
+475
+00:33:56,619 --> 00:33:58,119
+Su gente no sabe quién soy.
+
+476
+00:33:58,204 --> 00:34:00,413
+No lucharán contra mí, pero sí por usted.
+
+477
+00:34:02,291 --> 00:34:03,291
+Yo lo haré.
+
+478
+00:34:05,502 --> 00:34:07,253
+Los retendremos tanto como podamos.
+
+479
+00:34:11,634 --> 00:34:13,343
+Me cae bien. ¿Cómo se llamaba?
+
+480
+00:34:14,011 --> 00:34:15,011
+No lo recuerdo.
+
+481
+00:34:58,764 --> 00:34:59,931
+Me faltó uno, maldición.
+
+482
+00:35:22,663 --> 00:35:24,998
+Espero que los códigos por defecto
+sean los mismos
+
+483
+00:35:25,082 --> 00:35:26,833
+o me quedaré como un gran tonto.
+
+484
+00:35:26,917 --> 00:35:28,584
+Códigos de administrador aceptados.
+
+485
+00:35:28,669 --> 00:35:30,253
+Anular protocolos de seguridad.
+
+486
+00:35:30,337 --> 00:35:32,005
+Se requiere confirmación.
+
+487
+00:35:32,089 --> 00:35:34,507
+¿Anular todas las medidas de seguridad
+del reactor de fusión?
+
+488
+00:35:34,591 --> 00:35:37,719
+Confirmado.
+Activar secuencia de destrucción.
+
+489
+00:35:37,803 --> 00:35:39,846
+- ¿Secuencia de destrucción?
+- Sí.
+
+490
+00:35:40,389 --> 00:35:41,931
+¿Se siente bien?
+
+491
+00:35:42,558 --> 00:35:43,516
+Estoy bien.
+
+492
+00:35:43,600 --> 00:35:46,686
+¿Esto no es uno de esos momentos
+de "tengo un mal día"?
+
+493
+00:35:46,770 --> 00:35:48,354
+No. Solo hazlo.
+
+494
+00:35:48,439 --> 00:35:52,025
+Confirmado. Especifique la duración
+de la cuenta regresiva a la destrucción.
+
+495
+00:35:53,027 --> 00:35:54,027
+Ninguna.
+
+496
+00:35:55,154 --> 00:35:57,196
+Para asegurar
+que la destrucción es intencional,
+
+497
+00:35:57,281 --> 00:36:00,450
+la activación final debe ingresarse
+en la secuencia correcta.
+
+498
+00:36:24,058 --> 00:36:26,267
+¿No podías ponerlas más cerca?
+
+499
+00:36:26,352 --> 00:36:28,311
+Todos somos víctimas
+de nuestra programación.
+
+500
+00:37:46,557 --> 00:37:48,683
+Te dije que lo tenía en la mira.
+
+501
+00:37:49,101 --> 00:37:51,894
+No era necesario exprimirle las neuronas.
+
+502
+00:37:51,979 --> 00:37:53,187
+Bueno,
+
+503
+00:37:53,272 --> 00:37:56,107
+exprimirle las neuronas me hizo sentir
+mejor por lo que ocurrirá.
+
+504
+00:38:10,581 --> 00:38:13,458
+- Sé lo que haces.
+- ¿Cómo?
+
+505
+00:38:13,542 --> 00:38:16,711
+Soy telépata. Yo...
+
+506
+00:38:18,672 --> 00:38:19,922
+Me conoces.
+
+507
+00:38:20,007 --> 00:38:21,549
+O a una versión mía.
+
+508
+00:38:21,633 --> 00:38:23,551
+Entonces sabes
+que debo llegar al interruptor.
+
+509
+00:38:23,635 --> 00:38:26,387
+- Estaremos a tu lado.
+- Y correremos contigo.
+
+510
+00:38:26,472 --> 00:38:27,555
+Eso también.
+
+511
+00:38:29,391 --> 00:38:30,475
+iVamos!
+
+512
+00:38:47,493 --> 00:38:49,744
+No. iAhora no!
+
+513
+00:38:49,828 --> 00:38:52,497
+Los supervivientes deben escapar.
+
+514
+00:38:52,956 --> 00:38:54,957
+Muchos de ellos son mi gente.
+
+515
+00:38:55,042 --> 00:38:57,752
+No temas. Lo lograremos.
+
+516
+00:39:02,508 --> 00:39:03,883
+- ¿Lo hacemos?
+- Ya que estamos.
+
+517
+00:39:03,967 --> 00:39:05,801
+Me perdí el último transbordador
+
+518
+00:39:05,886 --> 00:39:09,180
+y estoy de humor
+para hacer explotar algunas cosas.
+
+519
+00:39:13,477 --> 00:39:14,352
+iG'Kar!
+
+520
+00:39:23,278 --> 00:39:24,195
+¿Puedes?
+
+521
+00:39:25,781 --> 00:39:26,822
+Así no.
+
+522
+00:39:27,866 --> 00:39:29,742
+Creo que ambos tendremos que hacerlo.
+
+523
+00:39:31,828 --> 00:39:35,456
+Ha sido un honor luchar a tu lado.
+
+524
+00:39:36,166 --> 00:39:37,959
+Solo ayúdame a activar
+el maldito interruptor.
+
+525
+00:40:41,481 --> 00:40:42,690
+¿Qué haces
+
+526
+00:40:43,942 --> 00:40:44,942
+aquí?
+
+527
+00:40:45,027 --> 00:40:46,027
+Lo logré.
+
+528
+00:40:46,695 --> 00:40:48,529
+Volví a mi propia línea temporal.
+
+529
+00:40:49,114 --> 00:40:50,114
+¿Qué lograste?
+
+530
+00:40:51,283 --> 00:40:53,117
+¿No deberías estar en Minbar?
+
+531
+00:40:53,952 --> 00:40:56,120
+Tengo mucho que explicar
+pero no tengo mucho tiempo.
+
+532
+00:40:56,204 --> 00:40:57,830
+Así que hablaré muy rápido
+
+533
+00:40:57,914 --> 00:41:00,708
+y tú prepararás un transbordador.
+Ahora mismo.
+
+534
+00:41:02,044 --> 00:41:03,711
+¿Puedo vestirme primero?
+
+535
+00:41:06,506 --> 00:41:09,008
+Perdón, no había...
+
+536
+00:41:09,092 --> 00:41:10,051
+Claro.
+
+537
+00:41:10,135 --> 00:41:12,428
+Esperaré en la otra habitación.
+
+538
+00:41:17,309 --> 00:41:18,309
+Estoy bien.
+
+539
+00:41:36,787 --> 00:41:40,915
+<i>Habla la capitana Elizabeth Lochley
+a cualquiera que reciba en Épsilon lll.</i>
+
+540
+00:41:41,500 --> 00:41:43,417
+Es una emergencia.
+
+541
+00:41:43,502 --> 00:41:45,002
+Estamos en el vector de aproximación.
+
+542
+00:41:46,380 --> 00:41:48,506
+El presidente Sheridan viene conmigo.
+
+543
+00:41:48,590 --> 00:41:50,299
+<i>Por favor, no nos disparen,</i>
+
+544
+00:41:50,384 --> 00:41:52,760
+déjennos explicar la situación primero.
+
+545
+00:41:53,387 --> 00:41:54,553
+ADVERTENCIA: TRANSBORDADOR EN LA MIRA
+
+546
+00:41:54,638 --> 00:41:56,222
+Y tampoco nos disparen después.
+
+547
+00:41:57,182 --> 00:41:59,684
+Básicamente, no nos disparen, ¿sí?
+
+548
+00:42:27,629 --> 00:42:30,131
+No conozco a Zathras.
+
+549
+00:42:30,215 --> 00:42:32,341
+Me entusiasma un poco la idea.
+
+550
+00:42:32,426 --> 00:42:34,635
+¿Sí? Bueno, no durará.
+
+551
+00:42:36,596 --> 00:42:38,180
+Ahí estás.
+
+552
+00:42:38,724 --> 00:42:39,974
+Hola, Zathras.
+
+553
+00:42:40,851 --> 00:42:43,602
+No, no soy Zathras.
+
+554
+00:42:44,104 --> 00:42:45,312
+Soy Zathras.
+
+555
+00:42:46,940 --> 00:42:50,484
+Son nueve, todos se llaman Zathras.
+
+556
+00:42:52,154 --> 00:42:53,904
+Zathras.
+
+557
+00:42:54,740 --> 00:42:57,366
+Y tú eres el Elegido.
+
+558
+00:42:57,826 --> 00:43:00,536
+- Hola. Soy...
+- No eres el Elegido. Por aquí. Rápido.
+
+559
+00:43:02,581 --> 00:43:04,707
+¿Puedo golpearlo? Solo una vez.
+
+560
+00:43:05,333 --> 00:43:06,333
+Te lo dije.
+
+561
+00:43:07,252 --> 00:43:12,256
+Las cosas cambiaron desde la primera vez
+que los Zathras vieron al Elegido.
+
+562
+00:43:12,340 --> 00:43:15,509
+Ahora, se perdió en el tiempo.
+
+563
+00:43:15,594 --> 00:43:18,012
+- Y en el...
+- i No lo digas!
+
+564
+00:43:18,513 --> 00:43:21,724
+Incluso ahora, mucho problemas
+con los derechos de autor.
+
+565
+00:43:23,852 --> 00:43:26,562
+Aún quedan nueve de ustedes, ¿verdad?
+
+566
+00:43:28,356 --> 00:43:29,398
+No.
+
+567
+00:43:30,317 --> 00:43:35,279
+El Sistema de Réplica
+de la Gran Máquina ha estado ocupado.
+
+568
+00:43:37,199 --> 00:43:38,282
+Observen.
+
+569
+00:43:40,535 --> 00:43:41,869
+Los Zathrll.
+
+570
+00:43:43,163 --> 00:43:45,998
+Muchos saludos al Elegido
+
+571
+00:43:46,082 --> 00:43:50,628
+y algunos saludos
+a la que no es el Elegido.
+
+572
+00:43:52,422 --> 00:43:54,840
+Pégame un tiro ahora mismo.
+
+573
+00:43:56,927 --> 00:44:01,430
+Corres un grave peligro.
+
+574
+00:44:05,560 --> 00:44:06,727
+Delenn, i no!
+
+575
+00:44:07,979 --> 00:44:09,271
+Corran. iCorran!
+
+576
+00:44:10,148 --> 00:44:11,065
+i No!
+
+577
+00:44:12,067 --> 00:44:16,070
+No solo el Elegido se despegó del tiempo
+
+578
+00:44:17,072 --> 00:44:21,325
+y de la cosa que no podemos mencionar.
+
+579
+00:44:21,409 --> 00:44:25,454
+Sino que se mueve entre líneas temporales.
+
+580
+00:44:26,122 --> 00:44:28,791
+Universos, realidades.
+
+581
+00:44:28,875 --> 00:44:30,876
+Sí, ya me había dado cuenta.
+
+582
+00:44:31,670 --> 00:44:34,547
+- ¿Cómo es que es peligroso?
+- No solo para usted.
+
+583
+00:44:34,631 --> 00:44:37,383
+Para todo.
+
+584
+00:44:37,843 --> 00:44:44,306
+La física cuántica dice
+que el observador afecta lo observado.
+
+585
+00:44:44,766 --> 00:44:48,644
+La partícula solo es partícula
+si la estás mirando.
+
+586
+00:44:48,728 --> 00:44:51,063
+Aleja la vista, se vuelve una onda.
+
+587
+00:44:51,147 --> 00:44:53,858
+Miras otra vez,
+vuelve a ser una partícula.
+
+588
+00:44:55,318 --> 00:44:58,612
+Como en cualquier relación,
+las partículas no se comprometen.
+
+589
+00:45:01,700 --> 00:45:04,702
+- Vino con usted.
+- Necesitaba que me trajera.
+
+590
+00:45:05,328 --> 00:45:06,579
+Ve al grano.
+
+591
+00:45:07,539 --> 00:45:12,918
+La Gran Máquina muestra
+que ahora eres perspectiva cuántica.
+
+592
+00:45:13,587 --> 00:45:17,131
+Ahora eres un observador.
+
+593
+00:45:17,966 --> 00:45:23,804
+Cuantas más realidades veas,
+más se vuelven reales para ti.
+
+594
+00:45:24,639 --> 00:45:27,099
+Más se derrumban una sobre otra,
+
+595
+00:45:27,517 --> 00:45:32,021
+destruyéndose mientras intentan
+convertirse en una sola.
+
+596
+00:45:32,689 --> 00:45:35,774
+Pronto, todos los mundos desaparecerán,
+
+597
+00:45:35,859 --> 00:45:38,235
+todas las líneas temporales desaparecerán,
+
+598
+00:45:38,320 --> 00:45:40,362
+todas las realidades desaparecerán,
+
+599
+00:45:40,447 --> 00:45:42,364
+todos los universos desaparecerán,
+
+600
+00:45:42,449 --> 00:45:44,241
+todos los Zathrll desaparecerán.
+
+601
+00:45:45,577 --> 00:45:46,911
+Malo para Zathras.
+
+602
+00:45:46,995 --> 00:45:48,829
+Pero todas las cosas
+son malas para Zathras.
+
+603
+00:45:49,831 --> 00:45:52,791
+- ¿Conocen el Big Bang?
+- Sí.
+
+604
+00:45:53,501 --> 00:45:55,961
+Este será el Gran Silencio.
+
+605
+00:45:56,630 --> 00:45:58,589
+El final de todo.
+
+606
+00:46:01,343 --> 00:46:04,094
+Sabes que solo vine
+a buscar un estabilizador de tiempo, ¿no?
+
+607
+00:46:05,388 --> 00:46:07,431
+Un estabilizador de tiempo no basta.
+
+608
+00:46:07,515 --> 00:46:12,144
+Debes estabilizarte
+en el tiempo, el espacio y la realidad.
+
+609
+00:46:13,271 --> 00:46:16,315
+Requiere gran actualización
+de la Gran Máquina.
+
+610
+00:46:17,317 --> 00:46:19,234
+Una vasta nueva tecnología.
+
+611
+00:46:19,319 --> 00:46:20,653
+¿Cuánto tomará?
+
+612
+00:46:21,321 --> 00:46:22,237
+Diez minutos.
+
+613
+00:46:22,656 --> 00:46:26,825
+Por eso la llamamos la Gran Máquina.
+No la Máquina Más o Menos.
+
+614
+00:46:27,535 --> 00:46:30,037
+Zathras hará café
+mientras Zathras espera a Zathras.
+
+615
+00:46:30,789 --> 00:46:34,291
+¿Por qué en la mayoría
+de las realidades alternativas
+
+616
+00:46:34,376 --> 00:46:36,669
+tienen algo que ver
+con la guerra de las Sombras?
+
+617
+00:46:37,170 --> 00:46:43,509
+Las probabilidades cuánticas
+se moldean a tu perspectiva cuántica.
+
+618
+00:46:43,593 --> 00:46:47,846
+La guerra de las Sombras
+fue una gran parte de tu vida.
+
+619
+00:46:47,931 --> 00:46:51,642
+Eres atraído a lo que sientes.
+
+620
+00:46:51,726 --> 00:46:54,103
+Sigues a tu corazón.
+
+621
+00:46:54,187 --> 00:46:59,942
+Como mi padre, mi casa,
+Babilonia 5, mis amigos.
+
+622
+00:47:00,026 --> 00:47:04,029
+Sí. Zathras no tiene amigos.
+
+623
+00:47:04,572 --> 00:47:08,409
+Solo insectos lentos
+y pelusa en los bolsillos.
+
+624
+00:47:08,868 --> 00:47:10,953
+Mira. Zathras te muestra.
+
+625
+00:47:11,037 --> 00:47:12,955
+No, no tan pronto.
+
+626
+00:47:14,582 --> 00:47:16,583
+Intenta mantener la calma.
+
+627
+00:47:16,668 --> 00:47:19,211
+La agitación hace que saltes más rápido.
+
+628
+00:47:26,344 --> 00:47:29,013
+Esa cosa, la vi antes.
+
+629
+00:47:29,681 --> 00:47:30,764
+Me seguía.
+
+630
+00:47:31,641 --> 00:47:32,641
+iAtrás!
+
+631
+00:47:36,980 --> 00:47:38,731
+No. Tranquilo.
+
+632
+00:47:38,815 --> 00:47:40,190
+Intenta aguantar.
+
+633
+00:47:41,359 --> 00:47:44,695
+i No entres en pánico!
+
+634
+00:48:04,591 --> 00:48:06,258
+Nadie le hace caso a Zathras.
+
+635
+00:48:15,060 --> 00:48:18,437
+Bien. Definitivamente volví a la Tierra.
+
+636
+00:48:20,648 --> 00:48:21,982
+Pero ¿dónde están todos?
+
+637
+00:48:24,736 --> 00:48:25,736
+¿Hola?
+
+638
+00:48:26,446 --> 00:48:27,571
+¿Hay alguien ahí?
+
+639
+00:48:28,073 --> 00:48:30,115
+Por aquí, capitán Sheridan.
+
+640
+00:48:31,910 --> 00:48:33,786
+Veo que se quitó el uniforme.
+
+641
+00:48:33,870 --> 00:48:36,747
+Bien. Acompáñenos.
+
+642
+00:48:36,831 --> 00:48:38,207
+Creí que estaba muerto.
+
+643
+00:48:38,291 --> 00:48:40,209
+Sí, siempre me lo dicen.
+
+644
+00:48:40,877 --> 00:48:43,378
+Es solo la opinión de un centaurí,
+
+645
+00:48:43,463 --> 00:48:47,466
+pero si este es su posmortem,
+debo decir que le queda bien.
+
+646
+00:48:48,968 --> 00:48:51,804
+La última noticia que recibimos
+fue que su transbordador explotó
+
+647
+00:48:51,888 --> 00:48:54,056
+mientras intentaba
+hacer contacto con los vorlon
+
+648
+00:48:54,140 --> 00:48:58,060
+en lo que predije
+que sería un intento inútil
+
+649
+00:48:58,144 --> 00:49:00,229
+de convencerlos de no hacer
+lo que ocurrirá en...
+
+650
+00:49:01,231 --> 00:49:02,231
+¿En cuánto?
+
+651
+00:49:05,610 --> 00:49:08,320
+Dos minutos, 47 segundos.
+
+652
+00:49:08,822 --> 00:49:11,406
+¿Qué ocurrirá? ¿Dónde está todo el mundo?
+
+653
+00:49:11,491 --> 00:49:13,867
+Depende de dónde quieran estar al final.
+
+654
+00:49:13,952 --> 00:49:16,078
+La mayoría estarán en casa, supongo,
+
+655
+00:49:16,955 --> 00:49:17,955
+con sus seres queridos,
+
+656
+00:49:18,039 --> 00:49:21,041
+o en otros lugares que significaban algo
+para ellos en su vida.
+
+657
+00:49:21,126 --> 00:49:24,211
+Iglesias, centros comerciales, boleras.
+
+658
+00:49:26,464 --> 00:49:28,423
+Bares, casinos.
+
+659
+00:49:28,508 --> 00:49:31,009
+Les dijimos a muchos en las últimas horas,
+
+660
+00:49:31,094 --> 00:49:33,303
+ya que nos enteramos
+que no podíamos abandonar el planeta
+
+661
+00:49:33,388 --> 00:49:34,847
+sin que se destruyera.
+
+662
+00:49:36,391 --> 00:49:38,475
+"Ve a la Tierra", dijo el Centaurum.
+
+663
+00:49:38,560 --> 00:49:39,768
+"Haz un trato.
+
+664
+00:49:39,853 --> 00:49:42,563
+Quizá haya una forma
+de salvar a ambos mundos".
+
+665
+00:49:44,524 --> 00:49:45,524
+Idiotas.
+
+666
+00:49:46,234 --> 00:49:47,568
+Ahora estoy atrapado aquí.
+
+667
+00:49:48,486 --> 00:49:50,320
+Pero supongo que debía intentarlo.
+
+668
+00:49:50,947 --> 00:49:53,824
+¿Podría alguien decir algo coherente?
+
+669
+00:49:53,908 --> 00:49:56,994
+Está en negación por el shock.
+No lo culpo.
+
+670
+00:49:58,371 --> 00:49:59,955
+¿Y el camarero?
+
+671
+00:50:01,040 --> 00:50:04,001
+La guerra de las Sombras
+no se perdió por su culpa.
+
+672
+00:50:04,085 --> 00:50:06,378
+Hizo todo lo que pudo.
+
+673
+00:50:06,462 --> 00:50:09,631
+Incluso con los vorlon,
+siempre estuvimos en desventaja.
+
+674
+00:50:10,133 --> 00:50:12,467
+Espera. ¿Perdimos la guerra?
+
+675
+00:50:13,511 --> 00:50:14,720
+¿Ganaron las sombras?
+
+676
+00:50:14,804 --> 00:50:19,057
+Mira, se ve cómo se le forma
+el pensamiento detrás de los ojos.
+
+677
+00:50:19,142 --> 00:50:23,228
+Hola, pequeñito. Gracias por venir.
+
+678
+00:50:23,313 --> 00:50:25,189
+Está muy solo allí, pobrecito.
+
+679
+00:50:26,107 --> 00:50:28,400
+Como los vorlon eran nuestros aliados,
+
+680
+00:50:28,484 --> 00:50:31,486
+nadie se había imaginado
+que ellos acabarían con nosotros.
+
+681
+00:50:32,530 --> 00:50:34,072
+Pero tiene sentido.
+
+682
+00:50:34,157 --> 00:50:35,949
+Durante siglos, aquí en casa,
+
+683
+00:50:36,034 --> 00:50:40,370
+los ejércitos perdedores quemaban cosechas
+y envenenaban el agua al retirarse
+
+684
+00:50:40,455 --> 00:50:42,372
+para que los ganadores no los usaran.
+
+685
+00:50:43,708 --> 00:50:46,418
+La influencia de las sombras
+en la Tierra es importante.
+
+686
+00:50:47,795 --> 00:50:51,089
+Y los vorlon son malos perdedores.
+
+687
+00:50:53,009 --> 00:50:56,887
+Destruir mundos que empatizan
+con las sombras es bueno para ellos.
+
+688
+00:50:57,597 --> 00:50:59,556
+Para Centauri Prime, para la Tierra.
+
+689
+00:50:59,641 --> 00:51:01,433
+¿Para nosotros? No mucho.
+
+690
+00:51:01,976 --> 00:51:04,603
+Pero es un universo imperfecto. ¿Verdad?
+
+691
+00:51:05,521 --> 00:51:07,689
+¿Van a destruir la Tierra?
+
+692
+00:51:08,233 --> 00:51:10,817
+Y no harán ni un disparo.
+
+693
+00:51:11,861 --> 00:51:14,321
+Parece que creen que no valen ni una bala.
+
+694
+00:51:15,448 --> 00:51:17,157
+En este momento, estoy de acuerdo.
+
+695
+00:51:18,743 --> 00:51:21,620
+Ahora mismo, en algún lugar,
+
+696
+00:51:22,205 --> 00:51:24,998
+un asesino de planetas vorlon
+se pone en posición.
+
+697
+00:51:25,959 --> 00:51:30,128
+<i>Se necesita mucha potencia bruta
+para destrozar un planeta tan grande.</i>
+
+698
+00:51:31,005 --> 00:51:35,759
+<i>Así que decidieron usar
+algo que necesite menos energía</i>
+
+699
+00:51:35,843 --> 00:51:38,345
+<i>porque solo tiene un cuarto del tamaño.</i>
+
+700
+00:51:59,826 --> 00:52:00,826
+Una luna.
+
+701
+00:52:01,869 --> 00:52:05,956
+i Por Dios! Nos golpearán con la luna.
+
+702
+00:52:07,417 --> 00:52:09,167
+Lo acertó a la primera.
+
+703
+00:53:29,082 --> 00:53:31,333
+Bueno, lo positivo es
+
+704
+00:53:32,418 --> 00:53:35,379
+que al menos tenemos
+una buena vista, ¿no, Sheridan?
+
+705
+00:53:39,092 --> 00:53:40,092
+Dije...
+
+706
+00:53:43,888 --> 00:53:44,721
+No...
+
+707
+00:53:45,264 --> 00:53:46,181
+No se acerquen.
+
+708
+00:53:46,808 --> 00:53:47,808
+i No se acerquen!
+
+709
+00:53:48,935 --> 00:53:49,935
+iJohn!
+
+710
+00:53:57,443 --> 00:54:00,570
+Eso no se ve todos los días.
+
+711
+00:54:02,782 --> 00:54:04,574
+¿Cómo es que dicen los humanos?
+
+712
+00:54:05,201 --> 00:54:06,201
+Ah, sí.
+
+713
+00:54:07,870 --> 00:54:10,705
+El pescado está vendido.
+
+714
+00:55:27,283 --> 00:55:28,825
+Sigue empeorando.
+
+715
+00:55:29,827 --> 00:55:32,078
+No sé cuánto tiempo me queda antes de...
+
+716
+00:55:35,208 --> 00:55:36,750
+¿Qué diablos es esto?
+
+717
+00:55:37,752 --> 00:55:39,085
+¿Dónde están las estrellas?
+
+718
+00:55:39,795 --> 00:55:42,422
+Parece que necesitas un amigo,
+
+719
+00:55:43,132 --> 00:55:44,132
+amigo.
+
+720
+00:55:45,343 --> 00:55:46,510
+¿G'Kar?
+
+721
+00:55:47,220 --> 00:55:50,430
+Si es a él a quien ves, entonces sí.
+
+722
+00:55:51,682 --> 00:55:53,350
+¿Qué es este lugar?
+
+723
+00:55:54,101 --> 00:55:57,187
+El límite de todo.
+
+724
+00:55:59,732 --> 00:56:02,442
+De ese lado, la nada.
+
+725
+00:56:02,527 --> 00:56:03,527
+Silencio.
+
+726
+00:56:03,611 --> 00:56:04,611
+El vacío.
+
+727
+00:56:05,196 --> 00:56:06,446
+De ese lado,
+
+728
+00:56:07,406 --> 00:56:08,406
+todo.
+
+729
+00:56:10,952 --> 00:56:15,121
+- El Borde.
+- Uno de sus muchos nombres.
+
+730
+00:56:16,791 --> 00:56:19,209
+La última vez que vi a G'Kar,
+
+731
+00:56:19,293 --> 00:56:20,502
+mi G'Kar,
+
+732
+00:56:20,586 --> 00:56:23,046
+se dirigía al Borde a descubrir
+
+733
+00:56:23,130 --> 00:56:25,423
+qué había del otro lado.
+
+734
+00:56:27,218 --> 00:56:28,218
+Lo descubrió.
+
+735
+00:56:29,971 --> 00:56:30,971
+¿Está vivo?
+
+736
+00:56:31,889 --> 00:56:32,722
+¿Muerto?
+
+737
+00:56:33,891 --> 00:56:36,601
+Es,
+
+738
+00:56:36,686 --> 00:56:39,145
+como soy yo,
+
+739
+00:56:39,230 --> 00:56:42,023
+como somos nosotros.
+
+740
+00:56:42,108 --> 00:56:44,985
+Y queríamos encontrarnos
+contigo en el Borde.
+
+741
+00:56:45,653 --> 00:56:49,573
+En el precipicio
+del final de todas las cosas.
+
+742
+00:56:53,035 --> 00:56:55,662
+Si soy tan peligroso,
+¿por qué no me matan?
+
+743
+00:56:55,746 --> 00:56:59,666
+Eso iría en contra
+del propósito de todo esto.
+
+744
+00:57:00,251 --> 00:57:02,919
+Contra el gran experimento.
+
+745
+00:57:04,171 --> 00:57:05,171
+La consciencia.
+
+746
+00:57:05,798 --> 00:57:08,800
+Sin ella, no puede haber un propósito.
+
+747
+00:57:09,760 --> 00:57:12,596
+Si aparece un universo,
+
+748
+00:57:12,680 --> 00:57:14,472
+y no hay nadie para verlo,
+
+749
+00:57:15,099 --> 00:57:16,641
+para pensarlo,
+
+750
+00:57:16,726 --> 00:57:18,935
+para darle significado,
+
+751
+00:57:20,104 --> 00:57:21,646
+¿existe realmente?
+
+752
+00:57:22,982 --> 00:57:26,610
+Esto no puede ser lo que debe ser
+
+753
+00:57:26,694 --> 00:57:29,279
+sin que alguien lo vea.
+
+754
+00:57:29,697 --> 00:57:30,780
+Física cuántica.
+
+755
+00:57:31,490 --> 00:57:34,034
+El observador afecta lo observado.
+
+756
+00:57:34,118 --> 00:57:38,163
+Sin el observador,
+no puede haber observado.
+
+757
+00:57:38,748 --> 00:57:42,167
+Ese es el secreto, la pieza que falta.
+
+758
+00:57:43,044 --> 00:57:46,546
+Por ahora, tú eres el observador.
+
+759
+00:57:49,258 --> 00:57:50,759
+Y si muero...
+
+760
+00:57:53,888 --> 00:57:56,723
+Todo muere. Sí.
+
+761
+00:58:01,896 --> 00:58:04,272
+Los minbaríes creen
+que el universo es consciente.
+
+762
+00:58:04,940 --> 00:58:08,401
+Que mira a través de nosotros
+para poder descifrarse a sí mismo.
+
+763
+00:58:09,278 --> 00:58:10,695
+Para darse sentido a sí mismo.
+
+764
+00:58:11,781 --> 00:58:12,906
+Sí.
+
+765
+00:58:12,990 --> 00:58:17,160
+Una infinidad de ojos, mentes y corazones
+
+766
+00:58:17,244 --> 00:58:20,080
+para una única pregunta.
+
+767
+00:58:20,873 --> 00:58:23,958
+El acertijo
+más grande entre los acertijos.
+
+768
+00:58:24,669 --> 00:58:26,294
+Dos palabras.
+
+769
+00:58:27,922 --> 00:58:29,089
+¿Cuáles?
+
+770
+00:58:34,095 --> 00:58:35,095
+"¿Por qué?".
+
+771
+00:58:38,683 --> 00:58:39,933
+También creen
+
+772
+00:58:40,017 --> 00:58:42,560
+que aunque el universo
+en general habla a través de nosotros,
+
+773
+00:58:42,645 --> 00:58:44,187
+a veces, se necesita un abordaje
+
+774
+00:58:45,272 --> 00:58:46,523
+un poco más directo.
+
+775
+00:58:47,608 --> 00:58:48,608
+¿De veras?
+
+776
+00:58:49,318 --> 00:58:50,735
+¿De veras lo creen?
+
+777
+00:58:51,737 --> 00:58:54,406
+La consciencia debe abrirse camino,
+
+778
+00:58:55,116 --> 00:58:59,411
+encontrar su rumbo, sin interferencia.
+
+779
+00:59:00,079 --> 00:59:03,665
+Solo de esta forma
+el hijo puede superar al padre.
+
+780
+00:59:04,208 --> 00:59:05,917
+Si intervengo,
+
+781
+00:59:06,001 --> 00:59:08,545
+el experimento carecerá de sentido,
+
+782
+00:59:08,629 --> 00:59:09,629
+como yo.
+
+783
+00:59:10,548 --> 00:59:13,633
+Así que solo diré esto:
+
+784
+00:59:14,218 --> 00:59:16,761
+En todas las realidades,
+
+785
+00:59:16,846 --> 00:59:18,263
+todos los universos,
+
+786
+00:59:19,473 --> 00:59:22,267
+el todo de todo,
+
+787
+00:59:22,351 --> 00:59:26,271
+no hay mayor fuerza que el amor.
+
+788
+00:59:27,481 --> 00:59:29,524
+Separarse es fácil.
+
+789
+00:59:30,317 --> 00:59:33,570
+La destrucción y el odio son fáciles,
+
+790
+00:59:33,654 --> 00:59:35,697
+por eso no perduran.
+
+791
+00:59:36,824 --> 00:59:40,827
+Lo que el amor une en un tejido
+no puede ser separado.
+
+792
+00:59:41,537 --> 00:59:45,123
+El universo mismo
+y todas las cosas que contiene
+
+793
+00:59:45,207 --> 00:59:48,501
+ceden ante ese poder.
+
+794
+00:59:49,503 --> 00:59:53,673
+Como dices,
+el observador afecta lo observado.
+
+795
+00:59:54,508 --> 00:59:57,635
+Y cuando ese ojo mira a través del amor,
+
+796
+00:59:58,846 --> 01:00:01,181
+todo es posible.
+
+797
+01:00:03,726 --> 01:00:06,227
+Solo vine a decir eso.
+
+798
+01:00:06,812 --> 01:00:09,022
+Espero que sea suficiente.
+
+799
+01:00:10,149 --> 01:00:12,776
+Pero tengo muchas preguntas.
+
+800
+01:00:13,360 --> 01:00:17,989
+Y esa es la gloria
+y la maravilla de la mortalidad.
+
+801
+01:00:37,593 --> 01:00:39,260
+No puedo soportar mucho más.
+
+802
+01:01:01,659 --> 01:01:02,659
+¿Lennier?
+
+803
+01:01:03,744 --> 01:01:04,744
+Lennier.
+
+804
+01:01:06,497 --> 01:01:08,331
+Yo... ¿Sí?
+
+805
+01:01:09,166 --> 01:01:10,500
+Necesito su ayuda.
+
+806
+01:01:11,168 --> 01:01:12,001
+Claro.
+
+807
+01:01:12,086 --> 01:01:14,546
+Porque no me siento muy bien.
+
+808
+01:01:21,512 --> 01:01:22,512
+Agua.
+
+809
+01:01:24,139 --> 01:01:25,390
+¿Qué año es?
+
+810
+01:01:25,474 --> 01:01:29,936
+El 147923 según el calendario de Obadi.
+
+811
+01:01:31,063 --> 01:01:35,400
+No, no en años minbaríes.
+No estoy en condiciones de convertirlo.
+
+812
+01:01:36,443 --> 01:01:37,944
+Lo mismo que con Celsius y Fahrenheit.
+
+813
+01:01:38,028 --> 01:01:40,321
+¿Y por qué seguimos usándolos?
+
+814
+01:01:41,740 --> 01:01:43,783
+Tome. Esto lo hará sentir mejor.
+
+815
+01:01:48,622 --> 01:01:50,790
+¿Sí? No estoy seguro.
+
+816
+01:01:50,875 --> 01:01:52,125
+Debería llamar a seguridad.
+
+817
+01:01:52,918 --> 01:01:53,960
+Solo necesito un momento.
+
+818
+01:01:55,421 --> 01:01:57,714
+Estaré bien
+cuando la sala deje de dar vueltas.
+
+819
+01:01:58,757 --> 01:02:01,718
+Pero la estación gira constantemente
+para producir gravedad.
+
+820
+01:02:02,136 --> 01:02:03,970
+Mal momento para mencionarlo.
+
+821
+01:02:09,226 --> 01:02:11,978
+Quiero que quede asentado
+que yo no lo toqué.
+
+822
+01:02:14,315 --> 01:02:17,150
+Y sabía que él no podía ser usted
+
+823
+01:02:17,234 --> 01:02:20,945
+porque nos habíamos despedido
+en el tubo transportador.
+
+824
+01:02:21,030 --> 01:02:22,071
+Mi cabeza.
+
+825
+01:02:23,532 --> 01:02:24,908
+Oigan, despertó.
+
+826
+01:02:29,413 --> 01:02:31,039
+Será mejor que lo revise.
+
+827
+01:02:40,841 --> 01:02:41,841
+Buen día.
+
+828
+01:02:42,927 --> 01:02:44,969
+Se pone cada vez mejor.
+
+829
+01:02:45,512 --> 01:02:47,055
+Realidades alternativas.
+
+830
+01:02:47,765 --> 01:02:49,515
+Claro que hay un yo alternativo.
+
+831
+01:02:50,684 --> 01:02:52,226
+¿Quién se supone que es usted?
+
+832
+01:02:53,896 --> 01:02:54,896
+Soy tú.
+
+833
+01:02:55,356 --> 01:02:57,857
+Yo. Una versión diferente de ti.
+
+834
+01:02:57,942 --> 01:03:00,485
+Eres una versión diferente de mí o...
+
+835
+01:03:01,195 --> 01:03:02,320
+Es una larga historia.
+
+836
+01:03:02,947 --> 01:03:04,364
+¿Cuánto tiempo tienes?
+
+837
+01:03:04,448 --> 01:03:05,448
+Adelante.
+
+838
+01:03:12,498 --> 01:03:14,791
+No. No me creo ni una palabra.
+
+839
+01:03:15,668 --> 01:03:17,210
+Pero no debo hacerlo.
+
+840
+01:03:17,294 --> 01:03:18,294
+Llegó.
+
+841
+01:03:23,592 --> 01:03:24,550
+¿La llamaste?
+
+842
+01:03:24,635 --> 01:03:26,719
+¿Para una historia así?
+La llamé con la mente.
+
+843
+01:03:27,388 --> 01:03:28,388
+Tiene sentido.
+
+844
+01:03:29,306 --> 01:03:32,225
+- Lyta, este hombre...
+- Si es que es humano.
+
+845
+01:03:33,102 --> 01:03:37,814
+...es un demente, un espía,
+un asesino que viene a usurpar mi lugar,
+
+846
+01:03:38,524 --> 01:03:39,857
+o dice la verdad.
+
+847
+01:03:40,776 --> 01:03:43,820
+Mira dentro de su cabeza
+y dime qué ocurre y quién es.
+
+848
+01:03:43,904 --> 01:03:44,988
+Lo intentaré.
+
+849
+01:03:45,948 --> 01:03:47,573
+¿Acepta ser escaneado?
+
+850
+01:03:48,534 --> 01:03:49,492
+Sí.
+
+851
+01:03:50,119 --> 01:03:53,162
+Podría sentir algo extraño.
+
+852
+01:04:09,054 --> 01:04:09,887
+¿Y bien?
+
+853
+01:04:09,972 --> 01:04:11,639
+Dice la verdad.
+
+854
+01:04:11,724 --> 01:04:14,892
+Hasta conoció a una versión mía
+en una realidad alternativa.
+
+855
+01:04:16,020 --> 01:04:17,353
+Parece que morí con valentía.
+
+856
+01:04:17,438 --> 01:04:19,772
+Escuchen. Lo que debemos...
+
+857
+01:04:19,857 --> 01:04:21,399
+Y hay algo más.
+
+858
+01:04:21,483 --> 01:04:25,570
+Algo en su mente
+sobre una guerra de las Sombras.
+
+859
+01:04:26,405 --> 01:04:27,530
+Sí.
+
+860
+01:04:28,532 --> 01:04:29,532
+¿Qué es eso?
+
+861
+01:04:30,034 --> 01:04:31,492
+¿La guerra de las Sombras?
+
+862
+01:04:31,577 --> 01:04:32,577
+Nunca...
+
+863
+01:04:33,078 --> 01:04:34,704
+¿No tuvieron la guerra de las Sombras?
+
+864
+01:04:35,789 --> 01:04:37,790
+¿Hace cuánto estás a cargo de B5?
+
+865
+01:04:38,751 --> 01:04:41,210
+Pronto hará dos años. ¿Por qué?
+
+866
+01:04:41,837 --> 01:04:42,795
+¿Y nada?
+
+867
+01:04:44,131 --> 01:04:45,298
+¿Qué nada?
+
+868
+01:04:45,799 --> 01:04:49,510
+Expediciones Interplanetarias
+fue a un mundo fuera del mapa
+
+869
+01:04:49,595 --> 01:04:51,846
+y despertaron a una civilización entera.
+
+870
+01:04:51,930 --> 01:04:54,223
+IPX cerró hace diez años.
+
+871
+01:04:55,225 --> 01:04:56,434
+Entonces...
+
+872
+01:04:56,518 --> 01:04:58,186
+Nunca fueron a Z'ha...
+
+873
+01:04:58,896 --> 01:05:00,063
+¿Z'ah qué?
+
+874
+01:05:03,650 --> 01:05:04,609
+Bum.
+
+875
+01:05:05,027 --> 01:05:06,194
+¿Z'ha'bum?
+
+876
+01:05:07,529 --> 01:05:08,696
+Como lo oyes.
+
+877
+01:05:11,658 --> 01:05:14,118
+- ¿Qué clase de nombre es ese?
+- No es mi departamento.
+
+878
+01:05:14,203 --> 01:05:15,536
+Y ahora no importa.
+
+879
+01:05:16,121 --> 01:05:19,040
+Si vuelvo a hacer un salto,
+podría ser la última vez para todos.
+
+880
+01:05:21,168 --> 01:05:22,710
+Entonces, ¿qué hacemos?
+
+881
+01:05:26,507 --> 01:05:27,799
+Contacta a Zathras.
+
+882
+01:05:27,883 --> 01:05:29,675
+- ¿A quién?
+- Zathras.
+
+883
+01:05:30,385 --> 01:05:32,720
+Trabaja en la Gran Máquina de Épsilon lll.
+
+884
+01:05:32,805 --> 01:05:34,472
+Quienquiera que seas,
+
+885
+01:05:34,556 --> 01:05:36,974
+si hubo alguien llamado Zathras
+que vivió en Épsilon lll,
+
+886
+01:05:37,059 --> 01:05:38,184
+o una Gran Máquina,
+
+887
+01:05:38,268 --> 01:05:39,477
+ya lo sabríamos.
+
+888
+01:05:42,356 --> 01:05:43,815
+Sheridan. Adelante.
+
+889
+01:05:43,899 --> 01:05:47,110
+<i>Capitán, tenemos una nave
+que solicita permiso para atracar.</i>
+
+890
+01:05:47,194 --> 01:05:48,236
+<i>Es...</i>
+
+891
+01:05:48,320 --> 01:05:52,281
+<i>Sé que parecerá una locura,
+pero es de Épsilon lll.</i>
+
+892
+01:05:52,866 --> 01:05:54,534
+<i>Dijo que se llamaba Zathras.</i>
+
+893
+01:05:54,618 --> 01:05:56,285
+<i>Trabaja para la Gran Máquina.</i>
+
+894
+01:05:57,871 --> 01:06:00,873
+Sí. Nadie le hace caso a Sheridan.
+
+895
+01:06:02,751 --> 01:06:04,544
+Lo veremos en el muelle 9 en 10 minutos.
+
+896
+01:06:08,173 --> 01:06:09,590
+Mejor que sea en cinco.
+
+897
+01:06:26,859 --> 01:06:28,693
+Rápido. No hay mucho tiempo.
+
+898
+01:06:32,614 --> 01:06:34,323
+Sheridan a Ivanova.
+
+899
+01:06:34,408 --> 01:06:37,577
+Detén todo el tránsito de entrada.
+Tenemos una situación.
+
+900
+01:06:37,661 --> 01:06:38,661
+<i>Entendido.</i>
+
+901
+01:06:45,794 --> 01:06:47,962
+¿Cómo me seguiste?
+
+902
+01:06:48,046 --> 01:06:50,006
+Zathras no siguió.
+
+903
+01:06:50,090 --> 01:06:52,592
+Soy un Zathras diferente.
+
+904
+01:06:52,676 --> 01:06:56,637
+Todos los Zathrll están unidos
+en diferentes tiempos y espacios.
+
+905
+01:06:56,722 --> 01:06:59,724
+Usamos sistemas de comunicación cuántica.
+
+906
+01:07:00,350 --> 01:07:02,393
+Nos mantenemos en contacto,
+como en los cumpleaños.
+
+907
+01:07:03,395 --> 01:07:07,440
+En una realidad,
+nos consideran muy guapos.
+
+908
+01:07:12,654 --> 01:07:15,823
+Las estrellas allí no brillan mucho.
+
+909
+01:07:20,329 --> 01:07:23,581
+Ten. Toma el estabilizador, rápido.
+
+910
+01:07:23,665 --> 01:07:24,874
+Presiona el botón rojo.
+
+911
+01:07:27,419 --> 01:07:30,379
+No hace nada.
+
+912
+01:07:31,006 --> 01:07:33,174
+Eres el componente final.
+
+913
+01:07:33,258 --> 01:07:36,844
+El observador cuántico
+debe regresar con sus sentidos.
+
+914
+01:07:36,929 --> 01:07:40,932
+Concéntrate en lo que pensabas
+cuando ocurrió el primer salto.
+
+915
+01:07:42,142 --> 01:07:43,935
+Stephen me dijo lo mismo.
+
+916
+01:07:44,019 --> 01:07:45,519
+Pero no lo recuerdo.
+
+917
+01:07:45,604 --> 01:07:47,480
+Zathras cree que lo recuerdas.
+
+918
+01:07:48,315 --> 01:07:50,399
+Y ella también.
+
+919
+01:07:55,781 --> 01:07:57,448
+Estaba pensando en Delenn.
+
+920
+01:08:00,827 --> 01:08:02,787
+<i>Pensé en mamá y en ti,</i>
+
+921
+01:08:04,039 --> 01:08:06,916
+<i>en cuánto los quería
+a ustedes y este lugar.</i>
+
+922
+01:08:07,709 --> 01:08:11,212
+<i>Era como si pudiera sentir hacia dónde ir.</i>
+
+923
+01:08:13,382 --> 01:08:15,841
+<i>Seguí ese sentimiento hasta casa.</i>
+
+924
+01:08:19,513 --> 01:08:22,014
+Pensaba en cuánto amaba a mi esposa.
+
+925
+01:08:23,433 --> 01:08:28,437
+En que lo único que quería
+era volver a abrazarla una vez más.
+
+926
+01:08:28,522 --> 01:08:33,025
+No saber dónde estabas
+o a dónde ibas en la escala cuántica
+
+927
+01:08:33,110 --> 01:08:36,028
+te hacía imposible
+encontrar el camino a casa.
+
+928
+01:08:36,113 --> 01:08:38,572
+Te desviaste tanto del camino
+
+929
+01:08:38,657 --> 01:08:41,450
+que no puedes encontrar solo
+el camino de vuelta.
+
+930
+01:08:42,160 --> 01:08:45,371
+Pero no estás solo.
+
+931
+01:08:53,839 --> 01:08:57,425
+Cuando ella acudió a nosotros,
+le dijimos: "Gran peligro",
+
+932
+01:08:58,218 --> 01:09:00,052
+pero ella insistió.
+
+933
+01:09:01,722 --> 01:09:05,349
+Así que hicimos dos.
+
+934
+01:09:09,896 --> 01:09:14,900
+Ella te ha estado persiguiendo
+por el tiempo y el espacio desde entonces,
+
+935
+01:09:14,985 --> 01:09:17,611
+nunca paró, nunca se rindió.
+
+936
+01:09:27,331 --> 01:09:32,084
+Él dijo que el amor
+es la fuerza más poderosa del universo.
+
+937
+01:09:33,920 --> 01:09:36,797
+El amor es todo.
+
+938
+01:10:17,255 --> 01:10:19,632
+Ven a mí, John.
+
+939
+01:10:19,716 --> 01:10:21,509
+Estoy aquí, John.
+
+940
+01:10:38,068 --> 01:10:40,444
+Estoy aquí. Te amo.
+
+941
+01:10:40,529 --> 01:10:42,238
+Te amo mucho.
+
+942
+01:10:55,419 --> 01:10:56,419
+iTe amo!
+
+943
+01:10:57,003 --> 01:10:57,837
+Y
+
+944
+01:11:22,154 --> 01:11:24,780
+voy
+
+945
+01:11:31,037 --> 01:11:31,912
+a casa.
+
+946
+01:11:35,792 --> 01:11:36,792
+Vamos.
+
+947
+01:11:53,602 --> 01:11:54,977
+Sigue siendo el Elegido.
+
+948
+01:11:55,854 --> 01:11:56,854
+Debo irme.
+
+949
+01:12:00,275 --> 01:12:01,275
+Tenemos que hablar.
+
+950
+01:12:08,909 --> 01:12:10,951
+Debió verlo, embajadora.
+
+951
+01:12:11,036 --> 01:12:13,537
+El mismísimo poder de la creación.
+
+952
+01:12:14,164 --> 01:12:15,664
+Justo ahí frente a nosotros.
+
+953
+01:12:15,749 --> 01:12:17,917
+Por un momento, creí que sería el fin.
+
+954
+01:12:18,752 --> 01:12:20,252
+Pero luego dijo:
+
+955
+01:12:20,337 --> 01:12:23,672
+"El amor es
+la fuerza más poderosa del universo".
+
+956
+01:12:24,883 --> 01:12:27,092
+Y luego, desaparecieron.
+
+957
+01:12:27,761 --> 01:12:28,844
+No se equivoca.
+
+958
+01:12:30,514 --> 01:12:32,890
+El amor es algo poderoso.
+
+959
+01:12:37,437 --> 01:12:41,649
+Seguirlo a través del tiempo y el espacio,
+arriesgando su propia vida.
+
+960
+01:12:42,442 --> 01:12:44,485
+Parece alguien
+que algún día quisiera conocer.
+
+961
+01:12:45,237 --> 01:12:47,029
+Bueno, quizá deberías.
+
+962
+01:12:47,656 --> 01:12:49,156
+Solo hay algo que me confunde.
+
+963
+01:12:49,991 --> 01:12:52,743
+Habló de una cosa sobre unas sombras.
+
+964
+01:12:53,787 --> 01:12:54,787
+Z'ha'bum.
+
+965
+01:12:55,872 --> 01:12:57,248
+¿Le suena de algo?
+
+966
+01:12:58,041 --> 01:13:00,501
+No. Estoy segura de que no es nada.
+
+967
+01:13:01,586 --> 01:13:03,212
+- Quizá.
+- Capitán Sheridan.
+
+968
+01:13:03,880 --> 01:13:06,048
+¿Cuánto falta
+para poder lanzar desde los muelles?
+
+969
+01:13:06,132 --> 01:13:07,174
+Debo irme.
+
+970
+01:13:07,259 --> 01:13:10,469
+Yo también. Y mis razones
+son el doble de importantes.
+
+971
+01:13:10,554 --> 01:13:13,097
+Ya casi acaban las reparaciones.
+En cualquier momento.
+
+972
+01:13:14,182 --> 01:13:16,475
+¿Por qué siempre eres tan hostil?
+
+973
+01:13:16,560 --> 01:13:18,227
+No soy hostil.
+
+974
+01:13:18,311 --> 01:13:21,146
+Solo implacablemente
+consciente de mí misma.
+
+975
+01:13:23,858 --> 01:13:26,151
+- ¿Nueve de trébol?
+- No.
+
+976
+01:13:27,237 --> 01:13:29,572
+- ¿Reina de diamantes?
+- No.
+
+977
+01:13:31,783 --> 01:13:33,242
+- As de...
+- i No!
+
+978
+01:13:34,035 --> 01:13:36,996
+Quizá no proyectas
+con la intensidad suficiente.
+
+979
+01:13:37,914 --> 01:13:41,458
+Proyecto a P5. Ese no es el problema.
+
+980
+01:13:41,960 --> 01:13:44,753
+El problema es
+que la telepatía requiere dos mentes.
+
+981
+01:13:45,338 --> 01:13:46,338
+¿Disculpa?
+
+982
+01:13:46,881 --> 01:13:49,592
+Nada. Continúa.
+
+983
+01:13:49,676 --> 01:13:51,135
+Diez de picas.
+
+984
+01:13:51,219 --> 01:13:52,761
+Mátenme.
+
+985
+01:13:54,723 --> 01:13:57,182
+¿No tienes que ir a algún lado?
+
+986
+01:13:57,809 --> 01:13:58,809
+No.
+
+987
+01:13:59,394 --> 01:14:02,896
+Mi gente no descansará
+hasta que los centauríes se disculpen
+
+988
+01:14:02,981 --> 01:14:06,525
+por el ataque a nuestras naves
+y paguen las reparaciones.
+
+989
+01:14:06,985 --> 01:14:08,110
+iQué locura!
+
+990
+01:14:08,194 --> 01:14:09,862
+Dr. Franklin. Qué bien.
+
+991
+01:14:09,946 --> 01:14:12,781
+Tengo un bulto desagradable
+que necesito que extirpe.
+
+992
+01:14:12,866 --> 01:14:14,408
+Está de pie junto a mí.
+
+993
+01:14:16,036 --> 01:14:18,621
+Ni siquiera me entró por una oreja
+y ya me salió por la otra.
+
+994
+01:14:20,957 --> 01:14:23,667
+- ¿Sr. Garibaldi?
+- En otro momento, Londo.
+
+995
+01:14:25,670 --> 01:14:28,339
+Sea lo que sea esa cosa,
+debería ir con correa.
+
+996
+01:14:29,174 --> 01:14:32,009
+Crees que todo el mundo
+debe ir con correa.
+
+997
+01:14:33,553 --> 01:14:34,553
+Es justo.
+
+998
+01:14:36,139 --> 01:14:37,264
+Estamos de acuerdo.
+
+999
+01:14:37,349 --> 01:14:40,059
+Nos llevarás allí
+y nos mostrarás la Gran Máquina.
+
+1000
+01:14:40,143 --> 01:14:42,102
+Y les presentaré a los otros Zathras.
+
+1001
+01:14:42,187 --> 01:14:44,104
+Claro. Los otros Zathras.
+
+1002
+01:14:44,189 --> 01:14:46,607
+No, no son Zathras. Zathras.
+
+1003
+01:14:48,193 --> 01:14:51,528
+<i>Habla la comandantes Susan Ivanova
+de Babilonia 5.</i>
+
+1004
+01:14:51,613 --> 01:14:54,073
+<i>Pedimos disculpas
+por el retraso en la transmisión.</i>
+
+1005
+01:14:54,783 --> 01:14:58,118
+<i>Pero, a veces, la vida interfiere.</i>
+
+1006
+01:15:02,415 --> 01:15:04,792
+Los muelles están listos
+para lanzamiento y atraque.
+
+1007
+01:15:05,502 --> 01:15:09,421
+Babilonia 5 está de vuelta en línea,
+y no iremos a ninguna parte.
+
+1008
+01:15:10,507 --> 01:15:11,507
+Vamos.
+
+1009
+01:18:27,412 --> 01:18:31,415
+PARA LOS AMIGOS AUSENTES
+EN EL RECUERDO, AÚN BRILLAN
+
+1010
+01:18:38,256 --> 01:18:40,257
+Subtítulos: Evelyn Antelo
+
