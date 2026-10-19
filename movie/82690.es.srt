@@ -1,0 +1,5961 @@
+1
+00:00:41,680 --> 00:00:45,160
+INSERTA MONEDA
+
+2
+00:00:46,480 --> 00:00:49,680
+<i>Me llamo Ralph y soy un malo.</i>
+
+3
+00:00:51,520 --> 00:00:54,120
+<i>Mido 2,75 metros</i>
+<i>y peso 290 kilos.</i>
+
+4
+00:00:54,240 --> 00:00:55,480
+VERTEDERO
+
+5
+00:00:56,680 --> 00:00:58,360
+<i>Tengo bastante carácter.</i>
+
+6
+00:00:58,520 --> 00:01:00,360
+¡EH, HAS MOVIDO MI TOCÓN!
+
+7
+00:01:02,000 --> 00:01:06,280
+<i>Pierdo el control con bastante</i>
+<i>facilidad, no os voy a mentir.</i>
+
+8
+00:01:07,760 --> 00:01:09,840
+<i>¿Qué más?</i>
+
+9
+00:01:10,920 --> 00:01:14,040
+<i>Soy un demoledor.</i>
+<i>Mi trabajo es romper cosas.</i>
+
+10
+00:01:14,160 --> 00:01:15,200
+¡VOY A ROMPERLO!
+
+11
+00:01:15,440 --> 00:01:18,640
+<i>Soy muy bueno en lo que hago.</i>
+<i>Posiblemente sea el mejor.</i>
+
+12
+00:01:19,720 --> 00:01:24,560
+<i>La cuestión es que el juego se llama</i>
+<i>Repara-Felix Jr.</i>
+
+13
+00:01:24,640 --> 00:01:27,880
+-¡REPÁRALO FELIX!
+-¡PUEDO REPARARLO!
+
+14
+00:01:29,560 --> 00:01:32,080
+<i>Como es normal, el que se llama</i>
+<i>Repara-Felix es el bueno.</i>
+
+15
+00:01:32,240 --> 00:01:34,200
+<i>No es mala persona.</i>
+
+16
+00:01:34,360 --> 00:01:36,000
+<i>Y arregla muy bien las cosas.</i>
+
+17
+00:01:37,600 --> 00:01:40,040
+<i>Pero si tienes un martillo mágico</i>
+<i>que te ha regalado tu padre,</i>
+
+18
+00:01:40,160 --> 00:01:41,240
+<i>no es tan difícil.</i>
+
+19
+00:01:41,320 --> 00:01:42,880
+¡YUJU!
+
+20
+00:01:43,040 --> 00:01:45,640
+<i>Si fuera un contratista normal,</i>
+<i>un carpintero,</i>
+
+21
+00:01:46,000 --> 00:01:50,280
+<i>os garantizo que no podría arreglar</i>
+<i>mis destrozos tan rápidamente.</i>
+
+22
+00:01:50,360 --> 00:01:51,440
+¡LO HAS REPARAD0!
+
+23
+00:01:51,840 --> 00:01:54,040
+<i>Cuando Felix hace un buen trabajo,</i>
+<i>recibe una medalla.</i>
+
+24
+00:01:54,960 --> 00:01:58,320
+<i>¿No dan medallas por romper bien?</i>
+
+25
+00:01:58,440 --> 00:02:00,400
+<i>Ante eso digo "¡Ja!".</i>
+
+26
+00:02:02,320 --> 00:02:04,280
+<i>Y no, no las dan.</i>
+
+27
+00:02:04,440 --> 00:02:05,960
+NIVEL 1 COMPLETO
+
+28
+00:02:06,080 --> 00:02:07,160
+HACE 30 AÑOS
+
+29
+00:02:07,440 --> 00:02:09,120
+<i>Llevo 30 años haciendo esto...</i>
+
+30
+00:02:09,440 --> 00:02:12,200
+<i>y he visto muchos juegos</i>
+<i>ir y venir.</i>
+
+31
+00:02:12,400 --> 00:02:15,480
+<i>Es un poco triste. Pienso</i>
+<i>en todos los tíos de Asteroids.</i>
+
+32
+00:02:15,640 --> 00:02:19,800
+<i>¡Desaparecidos! ¿Centipede?</i>
+<i>¿Quién sabe dónde andará ahora?</i>
+
+33
+00:02:20,560 --> 00:02:24,160
+<i>Un trabajo fijo en los recreativos no es</i>
+<i>ninguna tontería, tengo suerte.</i>
+
+34
+00:02:25,600 --> 00:02:27,600
+<i>Pero es que...</i>
+
+35
+00:02:27,920 --> 00:02:32,080
+<i>es difícil amar tu trabajo</i>
+<i>cuando no le gusta a nadie.</i>
+
+36
+00:02:32,160 --> 00:02:33,760
+HOY
+
+37
+00:02:36,280 --> 00:02:38,880
+¡Despejado!
+¡Los recreativos han cerrado!
+
+38
+00:02:40,520 --> 00:02:44,560
+¡Menudo día!
+¿Tomamos algo en Tappers, Ken?
+
+39
+00:02:44,760 --> 00:02:46,160
+Si invitas tú, colega.
+
+40
+00:02:50,120 --> 00:02:51,280
+¡Hora de cierre!
+
+41
+00:03:03,400 --> 00:03:06,480
+<i>No sé. Quizá no me sentiría así</i>
+
+42
+00:03:06,560 --> 00:03:08,720
+<i>si las cosas fueran de otra manera</i>
+<i>después del trabajo.</i>
+
+43
+00:03:09,480 --> 00:03:12,400
+<i>-Pero es lo que hay.</i>
+-¡Buen trabajo!
+
+44
+00:03:12,480 --> 00:03:15,960
+<i>Felix y los habitantes de Chachilandia</i>
+<i>se van a sus casas,</i>
+
+45
+00:03:16,040 --> 00:03:18,560
+<i>que él acaba de reparar,</i>
+<i>y todos, ya sabéis...</i>
+
+46
+00:03:20,880 --> 00:03:23,480
+<i>Ellos se van a sus casas,</i>
+<i>yo me voy a la mía...</i>
+
+47
+00:03:23,680 --> 00:03:26,400
+<i>que es un vertedero.</i>
+
+48
+00:03:26,560 --> 00:03:29,440
+<i>Y no porque sea un sitio estropeado.</i>
+
+49
+00:03:29,640 --> 00:03:32,120
+<i>Es un vertedero de verdad.</i>
+
+50
+00:03:32,280 --> 00:03:37,640
+<i>Donde se tiran la basura, los ladrillos,</i>
+<i>y los cascotes de los edificios.</i>
+
+51
+00:03:38,920 --> 00:03:40,440
+<i>Ese es mi hogar.</i>
+
+52
+00:03:41,200 --> 00:03:43,200
+<i>Supongo que no puedo quejarme</i>
+<i>demasiado.</i>
+
+53
+00:03:43,360 --> 00:03:45,440
+<i>Tengo mis ladrillos, mi tocón.</i>
+
+54
+00:03:48,480 --> 00:03:52,480
+<i>Parece incómodo. Pero no está mal.</i>
+<i>No estoy mal.</i>
+
+55
+00:03:55,960 --> 00:04:00,720
+<i>Pero, siendo sincero conmigo mismo,</i>
+
+56
+00:04:01,280 --> 00:04:05,560
+<i>cuando veo</i>
+<i>cómo le dan palmaditas a Felix,</i>
+
+57
+00:04:05,760 --> 00:04:09,760
+<i>le regalan tartas, le dan las gracias,</i>
+
+58
+00:04:09,920 --> 00:04:12,920
+<i>y siempre se alegran de verle.</i>
+
+59
+00:04:13,080 --> 00:04:15,200
+<i>A veces pienso...</i>
+
+60
+00:04:15,360 --> 00:04:20,440
+Debe de estar muy bien ser el bueno.
+
+61
+00:04:21,720 --> 00:04:24,120
+MALOS ANÓNIMOS: Partida a partida
+
+62
+00:04:24,320 --> 00:04:25,800
+Gracias por compartir, Ralph.
+
+63
+00:04:26,040 --> 00:04:28,800
+Como malos,
+todos hemos sentido lo mismo que tú
+
+64
+00:04:28,960 --> 00:04:30,320
+y hemos llegado a aceptarlo.
+
+65
+00:04:30,480 --> 00:04:31,880
+-¿De verdad?
+-Yo lo hice.
+
+66
+00:04:32,440 --> 00:04:33,880
+Me llamo Zangief.
+Soy un malo.
+
+67
+00:04:34,000 --> 00:04:36,240
+-¡Hola, Zangief!
+-Hola, Zangief.
+
+68
+00:04:36,440 --> 00:04:39,360
+Yo te entiendo, Ralph.
+Cuando toqué fondo,
+
+69
+00:04:39,520 --> 00:04:43,920
+estaba aplastando un cráneo con
+los muslos, como si fuera un huevo.
+
+70
+00:04:45,040 --> 00:04:48,040
+Pensé: ¿por qué tienes que
+ser tan malo, Zangief?
+
+71
+00:04:48,120 --> 00:04:50,560
+¿Por qué no puedes ser
+como los buenos?
+
+72
+00:04:50,760 --> 00:04:53,240
+Entonces tuve un momento de lucidez.
+
+73
+00:04:53,640 --> 00:04:55,280
+Si Zangief fuera bueno,
+
+74
+00:04:55,440 --> 00:04:59,600
+¿quién aplastaría cráneos entre
+los muslos como si fueran huevos?
+
+75
+00:04:59,760 --> 00:05:01,880
+Y me dije: Zangief, eres un malo.
+
+76
+00:05:02,040 --> 00:05:05,400
+Pero eso no significa que seas malo.
+
+77
+00:05:08,320 --> 00:05:11,480
+Vale. Lo siento, me he perdido.
+
+78
+00:05:11,600 --> 00:05:13,120
+-¡Zombie, malo!
+-Hola, Zombie.
+
+79
+00:05:13,280 --> 00:05:14,480
+Hola, Zombie.
+
+80
+00:05:14,840 --> 00:05:18,040
+Zangief dice que las etiquetas
+no te hacen feliz.
+
+81
+00:05:18,160 --> 00:05:20,360
+¡Bueno! ¡Malo!
+
+82
+00:05:21,680 --> 00:05:23,840
+Debes quererte.
+
+83
+00:05:24,000 --> 00:05:26,280
+-¡Sí, aquí dentro!
+-Sí.
+
+84
+00:05:26,440 --> 00:05:29,440
+Vale, ya me entero.
+Cuidado, que goteas.
+
+85
+00:05:29,520 --> 00:05:30,560
+Tengo una pregunta, Ralph.
+
+86
+00:05:30,680 --> 00:05:33,200
+Llevamos años invitándote
+a Malos Anónimos
+
+87
+00:05:33,320 --> 00:05:36,360
+y hoy por fin te has decidido a venir.
+
+88
+00:05:36,560 --> 00:05:38,200
+-¿Por qué?
+-No lo sé.
+
+89
+00:05:38,320 --> 00:05:39,680
+Me apeteció venir.
+
+90
+00:05:39,840 --> 00:05:44,120
+Supongo que tiene que ver
+con el hecho de que
+
+91
+00:05:44,520 --> 00:05:47,440
+hoy es el 30 aniversario
+de mi juego.
+
+92
+00:05:47,520 --> 00:05:49,440
+Vaya, feliz aniversario, Ralph.
+
+93
+00:05:49,520 --> 00:05:53,360
+-Gracias, Satán.
+-Es Satén.
+
+94
+00:05:53,520 --> 00:05:55,680
+Entendido.
+Pero esta es la cuestión.
+
+95
+00:05:58,520 --> 00:06:00,200
+Ya no quiero ser el malo.
+
+96
+00:06:03,360 --> 00:06:05,600
+No puedes trastear con el programa.
+
+97
+00:06:05,680 --> 00:06:08,360
+¿No pensarás hacer un Turbo?
+
+98
+00:06:08,520 --> 00:06:11,800
+¿Turbo? ¡No voy a hacer un Turbo!
+¡Vamos, chicos!
+
+99
+00:06:12,200 --> 00:06:14,800
+¿Querer tener un amigo es hacer
+un Turbo? ¿O una medalla?
+
+100
+00:06:14,920 --> 00:06:16,800
+¿O un trozo de tarta de vez en cuando?
+
+101
+00:06:16,880 --> 00:06:18,640
+¿Querer algo más de la vida
+es hacer un Turbo?
+
+102
+00:06:18,720 --> 00:06:20,080
+¡Sí!
+
+103
+00:06:20,280 --> 00:06:21,960
+Ralph, te entendemos.
+
+104
+00:06:22,160 --> 00:06:24,120
+Pero no podemos cambiar
+lo que somos.
+
+105
+00:06:24,200 --> 00:06:28,880
+Y cuanto antes lo aceptes,
+mejores serán tu juego y tu vida.
+
+106
+00:06:29,520 --> 00:06:32,240
+Partida a partida, Ralph.
+
+107
+00:06:32,960 --> 00:06:34,840
+Cerremos con la Afirmación del Malo.
+
+108
+00:06:39,760 --> 00:06:42,360
+Soy malo y eso es bueno.
+
+109
+00:06:42,560 --> 00:06:46,280
+Nunca seré bueno y eso no es malo.
+
+110
+00:06:46,400 --> 00:06:48,640
+No hay nadie que prefiera ser.
+
+111
+00:06:49,960 --> 00:06:51,600
+Muy bien, hasta la semana que viene.
+
+112
+00:06:51,760 --> 00:06:53,720
+Oye, no puedo traer el picoteo.
+
+113
+00:06:53,800 --> 00:06:56,160
+Aguanta, Ralph.
+
+114
+00:06:56,240 --> 00:06:58,960
+Zombie, que no se te olviden
+las hachas. Toma.
+
+115
+00:07:06,600 --> 00:07:10,920
+PORTAL ESTE - ASEOS
+CENTRAL DE JUEGOS
+
+116
+00:07:13,960 --> 00:07:16,640
+ESTACIÓN CENTRAL DE JUEGOS
+
+117
+00:08:00,480 --> 00:08:02,360
+Venga, señor.
+Control aleatorio.
+
+118
+00:08:02,480 --> 00:08:04,520
+¡Y un cuerno aleatorio!
+Siempre me para.
+
+119
+00:08:04,680 --> 00:08:06,880
+Solo soy un Protector de Corriente
+haciendo su trabajo.
+
+120
+00:08:07,000 --> 00:08:08,640
+-¿Nombre?
+-Lara Croft.
+
+121
+00:08:08,720 --> 00:08:10,320
+-¿Nombre?
+-¡Rompe Ralph!
+
+122
+00:08:10,400 --> 00:08:13,280
+-¿Y de dónde viene?
+-Pac-Man.
+
+123
+00:08:13,360 --> 00:08:16,360
+-¿Trae alguna fruta consigo?
+-¡No! Nada de fruta.
+
+124
+00:08:16,480 --> 00:08:18,920
+-Muy bien. ¿Dónde se dirige?
+-Repara-Felix Jr.
+
+125
+00:08:19,040 --> 00:08:20,840
+-¿Algo que declarar?
+-Le odio.
+
+126
+00:08:20,920 --> 00:08:22,720
+Me lo dicen muy a menudo.
+Prosiga.
+
+127
+00:08:27,360 --> 00:08:28,840
+¡Viene un malo!
+
+128
+00:08:30,560 --> 00:08:34,160
+<i>Si sales de tu juego,</i>
+<i>ten cuidado, mantente alerta,</i>
+
+129
+00:08:34,280 --> 00:08:36,640
+<i>y, hagas lo que hagas, no te mueras.</i>
+
+130
+00:08:36,720 --> 00:08:40,520
+<i>Si mueres fuera de tu propio juego,</i>
+<i>no te regeneras.</i>
+
+131
+00:08:40,600 --> 00:08:42,360
+<i>Nunca. Se acabó la partida.</i>
+
+132
+00:08:42,440 --> 00:08:43,560
+REPARA-FELIX JR.
+
+133
+00:08:46,080 --> 00:08:48,080
+¡JUEGO DESENCHUFADO!
+AYUDA, POR FAVOR. GRACIAS
+
+134
+00:08:52,240 --> 00:08:53,560
+Toma, amigo.
+
+135
+00:08:54,560 --> 00:08:57,760
+Es fresca. Directa del Pac-Man.
+
+136
+00:08:58,120 --> 00:08:59,360
+Aguantad, chicos.
+
+137
+00:09:00,400 --> 00:09:01,520
+¿Nombre?
+
+138
+00:09:25,840 --> 00:09:28,320
+¡TE QUEREMOS, FELIX!
+
+139
+00:09:37,000 --> 00:09:39,200
+¿Feliz 30 aniversario?
+
+140
+00:09:39,960 --> 00:09:41,480
+Están celebrando una fiesta sin mí.
+
+141
+00:09:44,000 --> 00:09:47,000
+¿Pac-Man?
+¿Han invitado a Pac-Man?
+
+142
+00:09:47,120 --> 00:09:51,040
+¡Ese comepuntos persiguecerezas
+ni siquiera es de este juego!
+
+143
+00:09:51,680 --> 00:09:54,360
+-Una fiesta genial, Felix.
+-Gracias, amigo.
+
+144
+00:09:54,840 --> 00:09:56,480
+¡Te necesitan en la pista de baile!
+
+145
+00:10:03,320 --> 00:10:06,280
+¡Repara-Felix!
+
+146
+00:10:08,000 --> 00:10:11,520
+Seguro que es Mario.
+Siempre llega tarde.
+
+147
+00:10:11,720 --> 00:10:13,200
+Ya voy yo.
+
+148
+00:10:19,120 --> 00:10:20,200
+¡Es Ralph!
+
+149
+00:10:20,720 --> 00:10:22,000
+¡Destrozará la fiesta!
+
+150
+00:10:22,160 --> 00:10:24,320
+-¡Esconded la cristalería!
+-Deshazte de él, Felix.
+
+151
+00:10:24,400 --> 00:10:27,120
+Claro. Hablaré con él.
+
+152
+00:10:27,200 --> 00:10:28,840
+Seguid divirtiéndoos.
+
+153
+00:10:30,720 --> 00:10:32,720
+Ralph, ¿necesitas algo?
+
+154
+00:10:32,880 --> 00:10:34,640
+Hola, Felix.
+Venía a ver cómo estabas.
+
+155
+00:10:34,720 --> 00:10:39,080
+He visto una explosión
+por encima del edificio.
+
+156
+00:10:39,880 --> 00:10:41,880
+Eran fuegos artificiales.
+
+157
+00:10:42,040 --> 00:10:43,400
+Fuegos artificiales. Vale.
+
+158
+00:10:43,880 --> 00:10:45,240
+Un cumpleaños, o...
+
+159
+00:10:45,560 --> 00:10:48,960
+Bueno, más bien un aniversario.
+
+160
+00:10:49,080 --> 00:10:52,200
+El 30 aniversario
+de nuestro juego.
+
+161
+00:10:52,280 --> 00:10:54,320
+¿Cómo? ¿Es hoy?
+
+162
+00:10:54,480 --> 00:10:57,000
+-¡Ya ves!
+-Se me dan fatal las fechas.
+
+163
+00:10:57,120 --> 00:10:59,400
+Bueno, enhorabuena.
+
+164
+00:10:59,560 --> 00:11:02,640
+Gracias, Ralph.
+Y enhorabuena a ti también.
+
+165
+00:11:10,160 --> 00:11:13,240
+Te aviso, Felix.
+Están a punto de sacar la tarta.
+
+166
+00:11:13,360 --> 00:11:15,280
+-Hola, Glen.
+-Ralph.
+
+167
+00:11:16,640 --> 00:11:19,080
+¿Tarta? He oído hablar de ellas.
+
+168
+00:11:20,000 --> 00:11:21,040
+No las he probado.
+
+169
+00:11:21,120 --> 00:11:24,320
+Nadie parece tirarlas,
+así que nunca acaban en el vertedero.
+
+170
+00:11:24,400 --> 00:11:25,720
+Nunca he probado una.
+
+171
+00:11:27,120 --> 00:11:29,360
+Siempre he querido probarla.
+
+172
+00:11:30,160 --> 00:11:33,800
+Supongo que no querrás pasar
+a tomar un trozo, ¿verdad?
+
+173
+00:11:33,960 --> 00:11:35,600
+¡Hola a todos!
+
+174
+00:11:42,360 --> 00:11:44,840
+No me pasa nada, ni un rasguño.
+
+175
+00:11:46,000 --> 00:11:47,880
+Bueno, todos conocéis a Ralph.
+
+176
+00:11:48,000 --> 00:11:49,080
+Buenas.
+
+177
+00:11:49,920 --> 00:11:53,280
+Buenas, Nell, Lucy, Don, Dana...
+
+178
+00:11:53,360 --> 00:11:55,200
+-Deanna.
+-¡Big Gene!
+
+179
+00:11:55,360 --> 00:11:56,680
+¿Qué hace aquí?
+
+180
+00:11:56,840 --> 00:11:58,920
+Ha venido a por un trozo de tarta.
+
+181
+00:11:59,040 --> 00:12:02,400
+Soy una parte importante
+del juego, técnicamente.
+
+182
+00:12:02,720 --> 00:12:04,160
+¿Tú por qué estás aquí, Gene?
+
+183
+00:12:04,360 --> 00:12:05,760
+¡Mirad, la tarta!
+
+184
+00:12:07,800 --> 00:12:12,080
+Qué maravilla.
+Te has superado, Mary.
+
+185
+00:12:12,160 --> 00:12:14,600
+¡Mirad!
+Estamos todos arriba.
+
+186
+00:12:15,080 --> 00:12:18,160
+Cada apartamento
+es del sabor preferido de cada uno.
+
+187
+00:12:18,240 --> 00:12:19,840
+El de Norwood es de bizcocho rojo.
+
+188
+00:12:19,920 --> 00:12:21,000
+¡Culpable!
+
+189
+00:12:21,360 --> 00:12:24,520
+Limón para Lucy.
+Tarta de ron para Gene.
+
+190
+00:12:24,800 --> 00:12:26,120
+-Y para Felix...
+-Oye, Mary.
+
+191
+00:12:27,600 --> 00:12:30,760
+¿De qué sabor es el barro
+en el que estoy pegado?
+
+192
+00:12:31,520 --> 00:12:33,760
+Chocolate.
+
+193
+00:12:34,120 --> 00:12:36,320
+A mí nunca me ha gustado el chocolate.
+
+194
+00:12:36,480 --> 00:12:38,240
+Bueno, no lo sabía.
+
+195
+00:12:38,440 --> 00:12:39,560
+Otra cosita.
+
+196
+00:12:39,640 --> 00:12:43,200
+Odio ser quisquilloso,
+pero este tío enfadado...
+
+197
+00:12:43,360 --> 00:12:45,240
+-¡Mi tarta!
+-...sería más feliz
+
+198
+00:12:45,320 --> 00:12:47,040
+si estuviera aquí arriba
+con los demás.
+
+199
+00:12:47,760 --> 00:12:49,920
+¿Veis? Mirad cómo sonríe.
+
+200
+00:12:50,080 --> 00:12:54,280
+No. Verás, Ralph.
+No hay sitio para ti aquí.
+
+201
+00:12:56,280 --> 00:12:57,920
+¿Y así? Podemos hacer sitio.
+
+202
+00:12:58,080 --> 00:13:00,720
+Podríamos turnarnos.
+Mira qué fácil.
+
+203
+00:13:01,920 --> 00:13:03,640
+¿Y si nos comemos la tarta?
+
+204
+00:13:03,760 --> 00:13:08,160
+Espera. Felix tiene que estar
+en el tejado, le van a dar su medalla.
+
+205
+00:13:08,320 --> 00:13:11,520
+¿Y si le diéramos la medalla
+a Ralph por una vez?
+
+206
+00:13:12,000 --> 00:13:13,640
+¿Sería el fin del mundo?
+
+207
+00:13:13,760 --> 00:13:15,520
+No digas tonterías.
+
+208
+00:13:15,600 --> 00:13:19,920
+Solo los buenos ganan medallas.
+Y tú, amigo, no eres bueno.
+
+209
+00:13:20,080 --> 00:13:22,600
+Podría ser bueno si quisiera,
+¡y ganar una medalla!
+
+210
+00:13:22,680 --> 00:13:25,600
+Cuando lo hagas, ven a vernos.
+
+211
+00:13:25,760 --> 00:13:28,440
+¿Entonces me dejaríais
+coronar la tarta con vosotros?
+
+212
+00:13:28,600 --> 00:13:31,520
+Si ganaras una medalla,
+te dejaríamos vivir en el ático.
+
+213
+00:13:31,600 --> 00:13:33,600
+Pero nunca sucederá.
+
+214
+00:13:33,760 --> 00:13:36,760
+Porque no eres más que el malo
+que destroza el edificio.
+
+215
+00:13:36,960 --> 00:13:38,360
+No lo soy.
+
+216
+00:13:38,480 --> 00:13:39,600
+¡Sí que lo eres!
+
+217
+00:13:39,680 --> 00:13:41,440
+¡No lo soy!
+
+218
+00:13:51,200 --> 00:13:53,000
+Sí, lo eres.
+
+219
+00:13:55,040 --> 00:13:58,720
+Vale, Gene, ¿sabes qué?
+Voy a ganar una medalla.
+
+220
+00:13:59,280 --> 00:14:01,480
+¡Voy a ganar una medalla!
+
+221
+00:14:01,640 --> 00:14:04,480
+¡La medalla más brillante
+que hayáis visto!
+
+222
+00:14:04,640 --> 00:14:06,960
+Una medalla tan buena,
+
+223
+00:14:07,120 --> 00:14:10,000
+¡que las medallas de Felix
+se harán pis encima!
+
+224
+00:14:11,360 --> 00:14:13,680
+¡Y buenas noches!
+Gracias por la fiesta.
+
+225
+00:14:14,680 --> 00:14:16,480
+-¿Habla en serio?
+-¡Por favor!
+
+226
+00:14:16,640 --> 00:14:20,880
+¿Dónde ganará una medalla un malo?
+Claro que no habla en serio.
+
+227
+00:14:21,000 --> 00:14:24,240
+No he hablado más en serio
+en toda mi vida.
+
+228
+00:14:24,400 --> 00:14:27,520
+Por eso he venido aquí.
+Nunca me has dado un mal consejo.
+
+229
+00:14:27,680 --> 00:14:31,480
+Venga, ¿dónde puede ir un tipo
+como yo a ganar una medalla?
+
+230
+00:14:31,680 --> 00:14:33,840
+No creo que exista un juego así.
+
+231
+00:14:34,000 --> 00:14:36,400
+Vamos, tú conoces a gente.
+Tiene que haber...
+
+232
+00:14:36,600 --> 00:14:39,320
+-Tapper, necesito un refresco.
+-¡Voy! Espera.
+
+233
+00:14:46,480 --> 00:14:48,120
+Vale. Como decías...
+
+234
+00:14:48,240 --> 00:14:52,720
+Decía que no me puedo pasar otros
+30 años viviendo solo en la basura.
+
+235
+00:14:52,840 --> 00:14:54,640
+No volveré sin una medalla.
+
+236
+00:14:54,720 --> 00:14:58,680
+No sé qué decirte.
+Quizá se hayan dejado una por aquí.
+
+237
+00:14:58,840 --> 00:15:00,840
+Busca en objetos perdidos.
+
+238
+00:15:00,960 --> 00:15:03,680
+Vale, a ver qué tenemos aquí.
+
+239
+00:15:03,840 --> 00:15:06,040
+Vamos, fuera de aquí.
+
+240
+00:15:08,520 --> 00:15:10,040
+¿Seta? No.
+
+241
+00:15:10,920 --> 00:15:12,640
+¿Qué es esto? No.
+
+242
+00:15:13,280 --> 00:15:16,720
+¡Por favor, Zangief! Qué asco.
+
+243
+00:15:19,040 --> 00:15:20,360
+¿Qué estoy haciendo?
+
+244
+00:15:22,200 --> 00:15:23,920
+-¡Perdona!
+-Somos la última...
+
+245
+00:15:24,600 --> 00:15:26,760
+¿Nuestra misión?
+Destruir los Ciber-Bichos.
+
+246
+00:15:27,960 --> 00:15:31,120
+Somos la última esperanza
+de la humanidad.
+
+247
+00:15:31,200 --> 00:15:32,720
+¿Estás bien, cadete?
+
+248
+00:15:32,880 --> 00:15:34,640
+¡Solo llevamos una semana enchufados
+
+249
+00:15:34,760 --> 00:15:38,080
+y todos los días toca escalar
+el edificio y luchar contra los bichos!
+
+250
+00:15:38,240 --> 00:15:40,600
+¡Escalar y luchar contra más bichos!
+
+251
+00:15:40,680 --> 00:15:42,040
+Ya, ya. Bueno. Mira.
+
+252
+00:15:42,160 --> 00:15:44,200
+Cuidado con el peto, astronauta.
+
+253
+00:15:44,320 --> 00:15:45,560
+Todos tenemos problemas.
+
+254
+00:15:45,640 --> 00:15:48,480
+¿Y para qué?
+¿Por una porquería de medalla?
+
+255
+00:15:49,280 --> 00:15:51,240
+¿Una medalla? ¿Ganáis una medalla?
+
+256
+00:15:51,320 --> 00:15:53,160
+Sí, la Medalla del Héroe.
+
+257
+00:15:53,280 --> 00:15:55,080
+¿Brilla?
+
+258
+00:15:55,680 --> 00:15:56,920
+Bastante.
+
+259
+00:15:57,920 --> 00:16:00,000
+-¿Y pone "héroe"?
+-Sí.
+
+260
+00:16:00,120 --> 00:16:02,400
+¿Y la ganas por escalar un edificio?
+
+261
+00:16:02,520 --> 00:16:04,080
+-¡Y luchar contra bichos!
+-Claro.
+
+262
+00:16:04,160 --> 00:16:06,680
+¿Podría ir contigo a tu juego
+
+263
+00:16:06,840 --> 00:16:08,920
+y conseguir una de esas medallas?
+
+264
+00:16:09,000 --> 00:16:10,920
+-Negativo.
+-¿Eso es un "quizá"?
+
+265
+00:16:11,000 --> 00:16:13,120
+¡No! Solo los más valientes
+
+266
+00:16:13,400 --> 00:16:16,200
+y los mejores sirven
+en nuestro cuerpo.
+
+267
+00:16:16,280 --> 00:16:17,360
+¡Bicho!
+
+268
+00:16:26,160 --> 00:16:29,280
+Somos la última esperanza
+de la humanidad.
+
+269
+00:16:35,120 --> 00:16:38,440
+<i>¡Atención, los recreativos abrirán</i>
+<i>dentro de 5 minutos,</i>
+
+270
+00:16:38,560 --> 00:16:39,840
+<i>regresen a sus juegos!</i>
+
+271
+00:16:41,720 --> 00:16:44,800
+No siento las piernas.
+¿Qué es todo esto?
+
+272
+00:16:47,280 --> 00:16:48,800
+Huele a Ralph aquí dentro.
+
+273
+00:16:50,200 --> 00:16:54,840
+Vale, está bien. ¿Cómo se llamaba?
+Algo de un héroe.
+
+274
+00:16:55,000 --> 00:16:56,240
+Hero's Duty.
+
+275
+00:16:56,600 --> 00:16:57,720
+Ahí está.
+
+276
+00:17:02,000 --> 00:17:04,640
+Perdona, Q*bert, soy yo, Ralph.
+
+277
+00:17:10,480 --> 00:17:11,560
+La pared.
+
+278
+00:17:11,640 --> 00:17:12,680
+LITWAK  RECREATIVOS FAMILIARES
+
+279
+00:17:18,800 --> 00:17:20,240
+ABIERTO
+
+280
+00:17:20,560 --> 00:17:22,040
+Buenos días, chavales.
+Adelante.
+
+281
+00:17:22,200 --> 00:17:24,600
+Me alegro de verte.
+Y a ti.
+
+282
+00:17:30,000 --> 00:17:33,080
+<i>¡Aviso de moneda!</i>
+<i>¡No es un simulacro!</i>
+
+283
+00:17:33,200 --> 00:17:36,000
+¡Dulce medalla dorada!
+
+284
+00:17:36,160 --> 00:17:37,760
+AVISO DE MONEDA
+
+285
+00:17:41,880 --> 00:17:43,120
+<i>En un planeta sin nombre,</i>
+
+286
+00:17:43,240 --> 00:17:46,720
+<i>un experimento secreto</i>
+<i>ha salido terriblemente mal.</i>
+
+287
+00:17:47,920 --> 00:17:51,120
+<i>Eres la última esperanza</i>
+<i>de la humanidad.</i>
+
+288
+00:17:53,080 --> 00:17:54,880
+¡A saltar, listo para disparar!
+
+289
+00:17:55,400 --> 00:17:59,880
+Muy bien. Escuchadme todos,
+porque no pienso repetirlo.
+
+290
+00:18:00,080 --> 00:18:02,560
+La palabra miedo no existe, señoritas.
+
+291
+00:18:02,640 --> 00:18:06,480
+Si os hacéis pipí en los pantalones,
+no queremos saberlo.
+
+292
+00:18:06,600 --> 00:18:09,080
+¡Que vuestras madres
+se enorgullezcan!
+
+293
+00:18:09,160 --> 00:18:10,440
+¡Quiero a mi madre!
+
+294
+00:18:10,760 --> 00:18:12,960
+¡Atención!
+¡Llega el tirador principal!
+
+295
+00:18:13,400 --> 00:18:14,880
+¡Robot!
+
+296
+00:18:17,280 --> 00:18:20,280
+<i>El juego arranca en tres... dos... uno.</i>
+
+297
+00:18:22,440 --> 00:18:24,480
+<i>Somos la última esperanza</i>
+<i>de la humanidad.</i>
+
+298
+00:18:24,640 --> 00:18:25,880
+<i>¿Nuestra misión?</i>
+
+299
+00:18:26,160 --> 00:18:28,280
+Destruir todos los Ciber-Bichos.
+
+300
+00:18:28,440 --> 00:18:30,600
+¿Listo, novato? Vamos a verlo.
+
+301
+00:18:33,280 --> 00:18:34,800
+¡Madre del amor hermoso!
+
+302
+00:18:39,440 --> 00:18:41,400
+¡No, espera un segundo!
+
+303
+00:18:45,760 --> 00:18:47,840
+Ciber-Bicho a las 12.
+Es tuyo, novato.
+
+304
+00:18:51,080 --> 00:18:52,960
+¡No, no, espera!
+
+305
+00:18:56,040 --> 00:18:58,720
+¡Cuidado, novato!
+Se convierten en lo que comen.
+
+306
+00:19:01,600 --> 00:19:02,840
+¡Mi arma! Devuélveme eso.
+
+307
+00:19:07,640 --> 00:19:09,720
+¡Dispara a los huevos
+antes de que se abran!
+
+308
+00:19:09,840 --> 00:19:12,520
+¡Oh, no, les sale algo de abajo!
+
+309
+00:19:14,440 --> 00:19:16,440
+<i>-¡Qué asco!</i>
+<i>-¡Markowski!</i>
+
+310
+00:19:16,520 --> 00:19:18,120
+<i>¡Vuelve a la formación!</i>
+
+311
+00:19:18,880 --> 00:19:22,720
+<i>Muy bien, señoritas, se acabaron</i>
+<i>las cosquillas y los gatitos.</i>
+
+312
+00:19:22,800 --> 00:19:24,560
+La entrada al laboratorio
+está delante.
+
+313
+00:19:24,640 --> 00:19:26,360
+-¡Os veo dentro!
+-¡No!
+
+314
+00:19:26,480 --> 00:19:28,640
+¡Santuario!
+
+315
+00:19:31,800 --> 00:19:33,440
+Creía que esto sería como Centipede.
+
+316
+00:19:33,520 --> 00:19:36,800
+¿Desde cuándo son tan violentos
+los videojuegos?
+
+317
+00:19:37,080 --> 00:19:39,080
+<i>¡Por favor, sácame de aquí!</i>
+
+318
+00:19:40,800 --> 00:19:41,880
+¡Cogedla a ella!
+
+319
+00:19:45,960 --> 00:19:47,040
+¡Menudo timo!
+
+320
+00:19:48,360 --> 00:19:51,200
+¡Quita! Se ha acabado la partida.
+¡Para!
+
+321
+00:19:54,320 --> 00:19:55,920
+¡Luz de llamada!
+
+322
+00:19:59,680 --> 00:20:01,920
+¡Alto el fuego!
+
+323
+00:20:07,840 --> 00:20:10,400
+<i>¡Atención!</i>
+<i>Vuelvan a sus puestos.</i>
+
+324
+00:20:10,600 --> 00:20:12,240
+<i>Vuelvan a sus puestos.</i>
+
+325
+00:20:13,920 --> 00:20:16,600
+A ver, deja que te ayude.
+Lo siento.
+
+326
+00:20:16,880 --> 00:20:18,600
+Sí, debes de estar enfadado.
+
+327
+00:20:18,680 --> 00:20:20,080
+-¡Markowski!
+-¿Quién?
+
+328
+00:20:21,080 --> 00:20:23,560
+Sí, yo. Soy Markowski.
+
+329
+00:20:24,360 --> 00:20:26,360
+¿Cuál es la primera regla de
+Hero's Duty?
+
+330
+00:20:26,600 --> 00:20:28,840
+¿Ni sí, ni no, ni blanco, ni negro?
+
+331
+00:20:29,480 --> 00:20:32,960
+Nunca te metas en el camino
+del tirador en primera persona.
+
+332
+00:20:33,240 --> 00:20:35,840
+Nuestro trabajo es que el jugador
+llegue hasta arriba
+
+333
+00:20:35,960 --> 00:20:38,560
+para conseguir una medalla
+y nada más.
+
+334
+00:20:38,920 --> 00:20:40,600
+¡No te saltes el programa, soldado!
+
+335
+00:20:40,680 --> 00:20:41,760
+Sí, señora.
+
+336
+00:20:41,880 --> 00:20:43,440
+<i>¡Aviso de moneda!</i>
+
+337
+00:20:43,560 --> 00:20:46,280
+Está bien, nenazas.
+¡A vuestros puestos de inicio!
+
+338
+00:20:48,440 --> 00:20:51,760
+Ya, claro.
+Ni loco repito eso.
+
+339
+00:20:53,560 --> 00:20:55,760
+¿Ahí es donde guardan la medalla?
+
+340
+00:21:01,360 --> 00:21:02,600
+"Nuevos pilotos cada día."
+
+341
+00:21:03,040 --> 00:21:04,440
+¡Guay! Me pido la próxima partida.
+
+342
+00:21:04,520 --> 00:21:06,160
+¡Lárgate, enana!
+
+343
+00:21:06,280 --> 00:21:07,600
+¡Los pilotos de hoy son nuestros!
+
+344
+00:21:07,680 --> 00:21:08,760
+¡Sí!
+
+345
+00:21:09,920 --> 00:21:11,720
+Perdón.
+
+346
+00:21:23,040 --> 00:21:24,800
+¡VOY A ROMPERLO!
+
+347
+00:21:25,680 --> 00:21:26,840
+¿Dónde está el que lo rompe todo?
+
+348
+00:21:27,600 --> 00:21:30,720
+¿Y Ralph? Debería estar
+destrozando el edificio.
+
+349
+00:21:31,160 --> 00:21:32,960
+Sigue el programa.
+
+350
+00:21:33,560 --> 00:21:35,200
+<i>¡Repáralo, Felix!</i>
+
+351
+00:21:35,800 --> 00:21:36,840
+<i>¡Puedo repararlo!</i>
+
+352
+00:21:43,400 --> 00:21:46,560
+¡Ralph, aviso de moneda!
+¡Juego en marcha!
+
+353
+00:21:54,200 --> 00:21:55,560
+¡Haz algo, Felix!
+
+354
+00:21:55,840 --> 00:21:58,240
+Vosotros disimulad.
+Yo lo arreglo.
+
+355
+00:22:04,240 --> 00:22:05,400
+¿Qué...?
+
+356
+00:22:10,000 --> 00:22:12,920
+¡Madre mía! ¿Dónde está?
+
+357
+00:22:13,760 --> 00:22:15,240
+¡Señor Litwak!
+
+358
+00:22:15,400 --> 00:22:18,400
+-¿Qué pasa, cariño?
+-Está estropeado.
+
+359
+00:22:19,040 --> 00:22:22,040
+<i>¡Puedo repararlo!</i>
+
+360
+00:22:22,240 --> 00:22:26,240
+Parece que se ha vuelto chiflado,
+como mi yaya.
+
+361
+00:22:26,480 --> 00:22:29,000
+Lo siento, cariño.
+Toma tu moneda.
+
+362
+00:22:29,080 --> 00:22:30,440
+¿Y el juego?
+
+363
+00:22:30,680 --> 00:22:33,600
+Mañana haré que lo revisen,
+pero si no se puede arreglar,
+
+364
+00:22:33,680 --> 00:22:36,880
+quizá sea el momento
+de desenchufar a Ralph y a Félix.
+
+365
+00:22:37,280 --> 00:22:38,360
+Igual que a mi yaya.
+
+366
+00:22:44,960 --> 00:22:47,880
+FUERA DE SERVICIO
+PRUEBA MAÑANA
+
+367
+00:22:49,080 --> 00:22:52,440
+Damas y caballeros,
+estamos fuera de servicio.
+
+368
+00:22:52,520 --> 00:22:55,280
+¡Santo cielo!
+¡Sin Ralph, estamos perdidos!
+
+369
+00:22:55,440 --> 00:22:57,360
+¡Nos van a desenchufar!
+
+370
+00:22:58,640 --> 00:23:02,240
+Vale, tranquilizaos.
+
+371
+00:23:02,760 --> 00:23:05,960
+Ralph se habrá quedado dormido
+en el baño de Tapper.
+
+372
+00:23:06,760 --> 00:23:09,320
+¿Veis? Ahí viene.
+
+373
+00:23:14,080 --> 00:23:17,240
+Vaya, es Q*bert.
+¿Qué te trae por aquí, vecino?
+
+374
+00:23:19,120 --> 00:23:20,440
+¿Qué dice, Felix?
+
+375
+00:23:20,640 --> 00:23:23,320
+Esperad. Mi Q*bertés
+está un poco oxidado.
+
+376
+00:23:38,680 --> 00:23:40,240
+¡Ralph ha hecho un Turbo!
+
+377
+00:23:55,760 --> 00:23:56,840
+Brillante.
+
+378
+00:23:57,800 --> 00:24:00,600
+<i>¡Atención!</i>
+<i>Los recreativos han cerrado.</i>
+
+379
+00:24:00,680 --> 00:24:02,160
+¿Te has fijado en Markowski?
+
+380
+00:24:02,760 --> 00:24:04,120
+¡Cerrad esas bocas!
+
+381
+00:24:05,160 --> 00:24:06,240
+Ciber-Bicho.
+
+382
+00:24:16,040 --> 00:24:17,480
+¡Prueba esto!
+
+383
+00:24:24,480 --> 00:24:26,560
+Buenos reflejos, canijo.
+
+384
+00:24:26,680 --> 00:24:30,880
+Soy Repara-Felix, Jr., señora.
+Del juego Repara-Felix Jr.
+
+385
+00:24:32,360 --> 00:24:34,320
+¡Córcholis!
+
+386
+00:24:34,800 --> 00:24:38,960
+¡Fíjate en esa alta definición!
+¡Qué cara!
+
+387
+00:24:39,240 --> 00:24:41,560
+¡Es increíble!
+
+388
+00:24:41,720 --> 00:24:45,080
+Los halagos no recargan
+mis baterías, civil.
+
+389
+00:24:45,160 --> 00:24:46,560
+Dime qué quieres.
+
+390
+00:24:46,920 --> 00:24:49,520
+Busco a mi colega,
+Rompe Ralph.
+
+391
+00:24:49,920 --> 00:24:51,320
+No le conozco.
+
+392
+00:24:51,400 --> 00:24:53,680
+Q*bert le vio entrar aquí.
+
+393
+00:24:54,040 --> 00:24:57,240
+No puede ser.
+No se me escapa nada.
+
+394
+00:24:58,560 --> 00:25:00,480
+¡Es en la torre!
+
+395
+00:25:19,360 --> 00:25:21,520
+Bonitos huevos.
+
+396
+00:25:22,760 --> 00:25:24,360
+Vaya, qué fácil.
+
+397
+00:25:29,600 --> 00:25:31,200
+<i>Enhorabuena, soldado.</i>
+
+398
+00:25:31,360 --> 00:25:33,520
+<i>Es un honor concederle...</i>
+
+399
+00:25:34,080 --> 00:25:35,600
+<i>la Medalla de los Héroes.</i>
+
+400
+00:25:36,800 --> 00:25:38,400
+¡Vaya!
+
+401
+00:25:52,760 --> 00:25:53,880
+¡No puede ser!
+
+402
+00:25:54,040 --> 00:25:55,120
+<i>¡Firmes!</i>
+
+403
+00:26:00,320 --> 00:26:03,160
+<i>La Historia recordará</i>
+<i>tu valor y sacrificio.</i>
+
+404
+00:26:03,280 --> 00:26:04,320
+¡Muchas gracias!
+
+405
+00:26:04,400 --> 00:26:08,160
+<i>Has grabado en la piedra de la virtud</i>
+<i>un legado incomparable.</i>
+
+406
+00:26:08,480 --> 00:26:10,760
+Gracias, chicos. ¡Descansen!
+
+407
+00:26:11,160 --> 00:26:13,840
+<i>Eres el mayor héroe del universo.</i>
+
+408
+00:26:17,840 --> 00:26:20,400
+<i>La encarnación de todo lo que</i>
+<i>representa este cuerpo.</i>
+
+409
+00:26:22,320 --> 00:26:26,000
+<i>Valentía. Integridad.</i>
+<i>Mantener la compostura bajo presión.</i>
+
+410
+00:26:26,840 --> 00:26:28,840
+<i>Y, sobre todo, dignidad.</i>
+
+411
+00:26:28,920 --> 00:26:30,960
+<i>Lanzadera de huida activada.</i>
+
+412
+00:26:34,400 --> 00:26:35,560
+¡Quita de mi cara!
+
+413
+00:26:41,520 --> 00:26:42,760
+¡Lanzadera!
+
+414
+00:26:48,480 --> 00:26:49,800
+-¡Ralph!
+-¡Ciber-Bicho!
+
+415
+00:27:44,160 --> 00:27:45,920
+¡Sayonara, pringado!
+
+416
+00:27:57,400 --> 00:27:58,600
+¿Sugar Rush?
+
+417
+00:28:05,240 --> 00:28:06,840
+¡Oh, no!
+
+418
+00:28:07,880 --> 00:28:11,240
+Es el juego de coches de caramelo
+junto al Mata-Topos.
+
+419
+00:28:11,520 --> 00:28:12,960
+Tengo que salir de aquí.
+
+420
+00:28:13,280 --> 00:28:15,040
+¡Oh, no, mi medalla!
+
+421
+00:28:18,400 --> 00:28:20,880
+¡No, mi medalla!
+
+422
+00:28:24,760 --> 00:28:26,120
+¡No, mi medalla!
+
+423
+00:28:47,600 --> 00:28:48,720
+¡Hola, señor!
+
+424
+00:28:50,600 --> 00:28:51,640
+Hola.
+
+425
+00:28:52,400 --> 00:28:57,400
+Me has asustado, chavala.
+Casi me hago caca.
+
+426
+00:28:57,480 --> 00:28:58,960
+¿Cómo te llamas?
+
+427
+00:28:59,240 --> 00:29:00,840
+Ralph. Rompe Ralph.
+
+428
+00:29:00,920 --> 00:29:02,720
+No eres de por aquí, ¿no?
+
+429
+00:29:02,880 --> 00:29:06,240
+No, bueno, sí.
+No soy de esta zona.
+
+430
+00:29:06,440 --> 00:29:07,600
+Estoy trabajando aquí.
+
+431
+00:29:07,720 --> 00:29:10,920
+-¿Qué clase de trabajo?
+-Un podado de rutina.
+
+432
+00:29:11,040 --> 00:29:12,360
+Será mejor que te apartes.
+
+433
+00:29:12,480 --> 00:29:15,840
+De hecho, toda esta zona está cerrada
+mientras podamos.
+
+434
+00:29:15,920 --> 00:29:17,920
+-¿Quiénes?
+-El Departamento de Poda.
+
+435
+00:29:18,320 --> 00:29:19,800
+¿Dónde están los demás?
+
+436
+00:29:20,080 --> 00:29:21,360
+Hoy solo estoy yo.
+
+437
+00:29:21,440 --> 00:29:23,760
+¿Has usado un plural mayestático?
+
+438
+00:29:23,920 --> 00:29:25,880
+Sí, eso es.
+
+439
+00:29:25,960 --> 00:29:28,480
+¿Eres un vagabundo?
+
+440
+00:29:28,640 --> 00:29:32,000
+No. No soy un vagabundo.
+Pero estoy ocupado.
+
+441
+00:29:32,120 --> 00:29:34,400
+Así que vete a casa.
+
+442
+00:29:34,480 --> 00:29:36,280
+¿Qué dices? No te oigo.
+
+443
+00:29:36,400 --> 00:29:38,600
+Te huele tanto el aliento
+que me has aturdido.
+
+444
+00:29:38,720 --> 00:29:41,280
+-He intentado ser amable.
+-He intentado ser amable.
+
+445
+00:29:41,960 --> 00:29:43,960
+-Me estás imitando.
+-¡Me estás imitando!
+
+446
+00:29:44,720 --> 00:29:45,840
+-Vale.
+-Vale.
+
+447
+00:29:45,920 --> 00:29:48,400
+Eres una maleducada
+y esta conversación se acabó.
+
+448
+00:29:48,520 --> 00:29:50,240
+Y esta conversación se acabó.
+
+449
+00:29:51,440 --> 00:29:54,240
+Yo que tú no cogería esa rama.
+
+450
+00:29:54,360 --> 00:29:56,080
+Soy del Departamento de Poda,
+sé lo que...
+
+451
+00:29:56,160 --> 00:29:57,680
+Es una raya doble.
+
+452
+00:29:59,720 --> 00:30:02,880
+Las rayas dobles se rompen, pringado.
+
+453
+00:30:03,160 --> 00:30:05,520
+¿Por qué tienes las manos
+tan megagrandes?
+
+454
+00:30:05,720 --> 00:30:08,480
+No lo sé.
+¿Por qué eres tan megaimpertinente?
+
+455
+00:30:08,760 --> 00:30:10,520
+¿Por qué eres tan mega...
+
+456
+00:30:11,160 --> 00:30:13,600
+¡Qué chulería más chula!
+¡Una moneda de oro!
+
+457
+00:30:13,760 --> 00:30:16,240
+-Ni hablar, es mía.
+-¡Una carrera!
+
+458
+00:30:17,160 --> 00:30:19,560
+No tengo que echar
+una carrera porque es mía.
+
+459
+00:30:19,640 --> 00:30:21,640
+-¡Raya doble!
+-¡Vuelve aquí!
+
+460
+00:30:22,000 --> 00:30:24,160
+-¡La ganadora!
+-¡Dámela!
+
+461
+00:30:28,040 --> 00:30:29,080
+DRaya doble.
+
+462
+00:30:32,560 --> 00:30:33,960
+¡Gracias!
+
+463
+00:30:34,640 --> 00:30:38,000
+¡Espera! Hablemos un segundo.
+
+464
+00:30:38,160 --> 00:30:41,280
+Escucha, no soy
+del Departamento de Poda.
+
+465
+00:30:41,360 --> 00:30:45,160
+Mentirle a una niña.
+Debería darte vergüenza.
+
+466
+00:30:45,480 --> 00:30:48,280
+Pero no mentía sobre la medalla.
+¡Es mi medalla!
+
+467
+00:30:48,360 --> 00:30:50,720
+Por eso trepaba por el árbol.
+¡Es mía!
+
+468
+00:30:51,000 --> 00:30:52,320
+Es muy valiosa para mí.
+
+469
+00:30:52,640 --> 00:30:55,240
+Es mi billete hacia una vida mejor.
+
+470
+00:30:55,400 --> 00:30:57,560
+Pues ahora es mi billete.
+
+471
+00:30:57,680 --> 00:30:59,560
+-¿Qué?
+-¡Nos vemos, pardillo!
+
+472
+00:30:59,800 --> 00:31:02,240
+¡Vuelve! ¡Te encontraré!
+
+473
+00:31:02,400 --> 00:31:04,080
+¡Te encontraré!
+
+474
+00:31:04,400 --> 00:31:05,480
+¡Raya doble!
+
+475
+00:31:07,040 --> 00:31:08,120
+¡No tienes dónde esconderte!
+
+476
+00:31:10,240 --> 00:31:13,760
+Entró aquí arrasando,
+como si fuera el amo
+
+477
+00:31:13,880 --> 00:31:16,320
+y luego se metió en ese juego
+como un chiflado.
+
+478
+00:31:18,240 --> 00:31:19,920
+"Sugar Rush".
+
+479
+00:31:20,240 --> 00:31:22,000
+Los Ciber-Bichos
+se comerán ese juego
+
+480
+00:31:22,080 --> 00:31:25,760
+más rápido que un zorro
+en un gallinero.
+
+481
+00:31:25,880 --> 00:31:28,000
+-¿Cómo dice?
+-¿Qué pasa, eres corto?
+
+482
+00:31:28,240 --> 00:31:30,760
+¡Había un Ciber-Bicho
+en esa lanzadera!
+
+483
+00:31:31,440 --> 00:31:33,440
+¿Sabes lo que es un Ciber-Bicho?
+
+484
+00:31:34,080 --> 00:31:35,440
+La verdad es que no, señora.
+
+485
+00:31:35,600 --> 00:31:38,960
+Los Ciber-Bichos son como un virus,
+no saben que están en un juego.
+
+486
+00:31:39,080 --> 00:31:42,080
+Solo saben comer,
+matar y multiplicarse.
+
+487
+00:31:42,200 --> 00:31:45,880
+Sin una luz que los pare,
+consumirán Sugar Rush.
+
+488
+00:31:45,960 --> 00:31:47,120
+¿Pero crees que se detendrán ahí?
+
+489
+00:31:47,600 --> 00:31:48,800
+-¡Sí!
+-¡Te equivocas!
+
+490
+00:31:49,120 --> 00:31:51,800
+¡Los virus no se paran!
+
+491
+00:31:51,920 --> 00:31:54,560
+Cuando esos Ciber-Bichos
+acaben con Sugar Rush,
+
+492
+00:31:54,640 --> 00:31:57,640
+invadirán los demás juegos
+hasta que estos recreativos
+
+493
+00:31:57,760 --> 00:32:02,600
+no sean más que un esqueleto
+humeante de sueños olvidados.
+
+494
+00:32:03,600 --> 00:32:05,440
+¡Kohut! Mi equipo.
+
+495
+00:32:08,320 --> 00:32:11,320
+Cáscaras. ¿Siempre es así de intensa?
+
+496
+00:32:11,440 --> 00:32:16,320
+No es culpa suya. Tiene programada
+la historia más trágica posible.
+
+497
+00:32:16,480 --> 00:32:18,720
+Del día que no comprobó el perímetro...
+
+498
+00:32:20,160 --> 00:32:22,080
+El día de su boda.
+
+499
+00:32:37,000 --> 00:32:39,760
+¡Espere, señora!
+Voy con usted.
+
+500
+00:32:39,840 --> 00:32:41,760
+De eso nada, retaco.
+
+501
+00:32:41,840 --> 00:32:44,320
+Si mueres fuera de tu juego,
+no te regeneras.
+
+502
+00:32:44,920 --> 00:32:47,080
+Usted tampoco.
+
+503
+00:32:47,520 --> 00:32:50,160
+Mi trabajo es reparar
+lo que rompe Ralph,
+
+504
+00:32:50,480 --> 00:32:54,000
+y no puedo pedirle que arriesgue
+su vida arreglando sus destrozos.
+
+505
+00:32:54,480 --> 00:32:58,200
+No pienso discutirlo, señora.
+Iré con usted.
+
+506
+00:32:58,680 --> 00:33:00,000
+A SUGAR RUSH
+
+507
+00:33:20,160 --> 00:33:21,960
+SALIDA
+
+508
+00:33:35,800 --> 00:33:39,000
+<i>Ciudadanos de Sugar Rush...</i>
+
+509
+00:33:39,560 --> 00:33:40,880
+Justo a tiempo.
+
+510
+00:33:41,840 --> 00:33:46,520
+<i>...saluden a nuestro legítimo regente,</i>
+<i>el Rey Candy.</i>
+
+511
+00:33:46,880 --> 00:33:49,960
+<i>¡Hola, fieles súbditos!</i>
+
+512
+00:33:51,080 --> 00:33:52,400
+<i>¡Tomad caramelos!</i>
+
+513
+00:33:54,520 --> 00:33:58,120
+<i>Gracias por esa conmovedora</i>
+<i>presentación, Bill el Amargado.</i>
+
+514
+00:33:59,320 --> 00:34:02,200
+<i>Y gracias a los avatares de hoy.</i>
+
+515
+00:34:02,360 --> 00:34:04,360
+<i>Ha sido un día de carreras maravilloso.</i>
+
+516
+00:34:05,240 --> 00:34:06,960
+<i>Pero los recreativos han cerrado,</i>
+
+517
+00:34:07,040 --> 00:34:11,760
+<i>llega la hora de empezar de cero y</i>
+<i>correr para elegir a los nuevos pilotos.</i>
+
+518
+00:34:12,200 --> 00:34:13,760
+PILOTOS NUEVOS CADA DÍA
+ESCOGE A TU PILOTO
+
+519
+00:34:13,840 --> 00:34:15,400
+<i>Los nueve primeros que crucen</i>
+<i>esa línea de meta,</i>
+
+520
+00:34:16,960 --> 00:34:21,160
+representarán a Sugar Rush
+mañana como avatares.
+
+521
+00:34:21,280 --> 00:34:22,600
+¡Carrera, carrera!
+
+522
+00:34:23,240 --> 00:34:25,160
+Está bien, tranquilidad.
+
+523
+00:34:25,360 --> 00:34:29,080
+¡Escuchad! Este evento es de pago.
+Todos lo sabemos.
+
+524
+00:34:29,280 --> 00:34:33,840
+La tarifa para competir es una moneda
+de oro de vuestras ganancias.
+
+525
+00:34:34,040 --> 00:34:36,720
+Si es que las tenéis, como yo.
+
+526
+00:34:37,240 --> 00:34:38,640
+¡Yo seré el primero!
+
+527
+00:34:44,000 --> 00:34:45,040
+PILOTOS
+
+528
+00:34:45,120 --> 00:34:46,200
+<i>¡Rey Candy!</i>
+
+529
+00:34:53,920 --> 00:34:56,320
+<i>- ¡Taffyta Muttonfudge!</i>
+-¡La más dulce!
+
+530
+00:34:57,800 --> 00:34:59,960
+<i>Adorabeezle Winterpop.</i>
+
+531
+00:35:00,920 --> 00:35:02,560
+<i>¡Gloyd Orangeboar!</i>
+
+532
+00:35:04,440 --> 00:35:08,280
+¡Ladronzuela!
+Espera que coja a esa malcriada.
+
+533
+00:35:08,400 --> 00:35:11,600
+<i>Minty Zaki. Snowanna Rainbeau.</i>
+
+534
+00:35:12,200 --> 00:35:15,520
+<i>Rancis Fluggerbutter.</i>
+<i>Jubileena Bing-Bing.</i>
+
+535
+00:35:16,920 --> 00:35:18,320
+<i>Swizzle Malarkey.</i>
+
+536
+00:35:19,520 --> 00:35:20,840
+<i>Candlehead.</i>
+
+537
+00:35:28,720 --> 00:35:30,720
+Bill, ¿quién es la última?
+
+538
+00:35:34,400 --> 00:35:36,440
+<i>¡Vanellope von Schweetz!</i>
+
+539
+00:35:36,600 --> 00:35:38,680
+¡Bien, participo en la carrera!
+
+540
+00:35:38,800 --> 00:35:39,880
+<i>¿Vanellope?</i>
+
+541
+00:35:41,680 --> 00:35:42,800
+¡El fallo técnico!
+
+542
+00:35:44,280 --> 00:35:45,960
+¡Vamos, vamos!
+
+543
+00:35:46,880 --> 00:35:50,360
+¡No pasa nada! ¡Seguridad!
+
+544
+00:35:50,440 --> 00:35:51,520
+¡Ven aquí, niña!
+
+545
+00:35:51,600 --> 00:35:54,160
+No te haremos daño, bicho raro.
+
+546
+00:35:56,320 --> 00:35:58,640
+-¡Vuelve!
+-¡Frena! Frena un poco.
+
+547
+00:36:03,320 --> 00:36:06,680
+¡Devuélveme mi medalla ahora mismo!
+
+548
+00:36:06,760 --> 00:36:08,160
+-¡Porras!
+-¡Vamos!
+
+549
+00:36:08,720 --> 00:36:09,840
+¿Qué es eso?
+
+550
+00:36:10,000 --> 00:36:11,680
+¡Venga! ¡Vamos! ¡En marcha!
+
+551
+00:36:24,000 --> 00:36:26,520
+¡Cuidado! ¿Qué haces?
+
+552
+00:36:36,200 --> 00:36:37,360
+¡Vuelve aquí!
+
+553
+00:36:40,120 --> 00:36:41,200
+¡No puedo moverme!
+
+554
+00:36:41,280 --> 00:36:42,720
+¡Ya lo tenemos!
+
+555
+00:36:43,120 --> 00:36:45,440
+Bien, la poli.
+¡Ha ido por ahí!
+
+556
+00:36:45,520 --> 00:36:47,120
+-¡Quieto!
+-¡Toma!
+
+557
+00:36:47,200 --> 00:36:48,240
+¿Qué hacéis?
+
+558
+00:36:48,320 --> 00:36:49,800
+Está bien, señores.
+
+559
+00:36:50,160 --> 00:36:52,720
+¡Tranquilidad!
+No pasa nada.
+
+560
+00:36:53,040 --> 00:36:54,960
+¡Han atrapado al monstruo!
+
+561
+00:36:55,200 --> 00:36:57,040
+Arreglaremos todos los daños.
+
+562
+00:36:57,120 --> 00:37:01,560
+Tranquilos. Habrá una carrera
+antes de que abran los recreativos.
+
+563
+00:37:01,640 --> 00:37:04,680
+¡Y yo participo!
+
+564
+00:37:08,800 --> 00:37:12,000
+No pienso correr con un fallo técnico.
+
+565
+00:37:12,080 --> 00:37:13,920
+Rancis, Candlehead, vamos.
+
+566
+00:37:14,160 --> 00:37:18,640
+Bill el Amargado,
+¡ese fallo técnico no puede correr!
+
+567
+00:37:18,720 --> 00:37:21,080
+Y llevad esa cosa a mi castillo.
+
+568
+00:37:21,240 --> 00:37:22,840
+¡Chicos!, ha cogido...
+
+569
+00:37:45,080 --> 00:37:48,080
+Bill, despringa a este monstruo
+
+570
+00:37:48,160 --> 00:37:49,840
+para ver a qué nos enfrentamos.
+
+571
+00:37:50,000 --> 00:37:51,200
+Vale.
+
+572
+00:37:53,680 --> 00:37:56,080
+¡Chispas de chocolate!
+¿Es Rompe Ralph?
+
+573
+00:37:56,160 --> 00:37:59,120
+Sí. ¿Tú quién eres?
+¿El que hace los donuts?
+
+574
+00:37:59,280 --> 00:38:02,280
+Por favor. No.
+Soy el Rey Candy.
+
+575
+00:38:03,360 --> 00:38:04,800
+Veo que te gusta el rosa.
+
+576
+00:38:04,960 --> 00:38:07,120
+El salmón.
+Está claro que es...
+
+577
+00:38:07,280 --> 00:38:08,880
+¿Qué haces aquí?
+
+578
+00:38:08,960 --> 00:38:13,120
+Mire, Su Carameleza,
+esto es un malentendido.
+
+579
+00:38:13,280 --> 00:38:16,960
+Sáqueme de esta magdalena,
+recuperaré mi medalla y me iré.
+
+580
+00:38:17,160 --> 00:38:20,800
+¿Tu medalla?
+Los malos no ganan medallas.
+
+581
+00:38:20,960 --> 00:38:24,480
+Pues este sí.
+La he ganado en Hero's Duty.
+
+582
+00:38:24,640 --> 00:38:28,400
+¿Te has cambiado de juego?
+Ralph, ¿no habrás hecho un Turbo?
+
+583
+00:38:28,480 --> 00:38:29,720
+¿Qué? No, no.
+
+584
+00:38:29,880 --> 00:38:33,360
+Porque si crees que puedes
+venir a mi reino
+
+585
+00:38:33,480 --> 00:38:35,880
+y hacerte con mi juego,
+¡vuelve a pensártelo!
+
+586
+00:38:36,040 --> 00:38:37,640
+Calma, Su Esponjosidad.
+
+587
+00:38:37,800 --> 00:38:41,400
+No es culpa mía que una de sus
+niñas salvajes me haya robado.
+
+588
+00:38:41,480 --> 00:38:43,640
+¿Niñas salvajes?
+
+589
+00:38:44,400 --> 00:38:45,480
+¡El fallo técnico!
+
+590
+00:38:45,640 --> 00:38:49,120
+¿La moneda que usó para entrar
+en la carrera era tu medalla?
+
+591
+00:38:49,200 --> 00:38:51,440
+¿Qué ha hecho?
+¡Tengo que recuperarla!
+
+592
+00:38:51,600 --> 00:38:54,000
+Me temo que no puedo ayudarte.
+Ya no está.
+
+593
+00:38:54,160 --> 00:38:56,800
+Ya no es más que código.
+
+594
+00:38:57,200 --> 00:39:01,360
+Y seguirá así hasta que
+alguien gane la copa.
+
+595
+00:39:01,560 --> 00:39:04,880
+Quizá tenga que hablar con el ganador.
+
+596
+00:39:05,040 --> 00:39:06,960
+¿Huele a amenaza?
+
+597
+00:39:07,960 --> 00:39:11,480
+Aparte de tu evidente halitosis.
+
+598
+00:39:11,640 --> 00:39:15,160
+Escucha, Bollito de Crema,
+¡no me iré sin mi medalla!
+
+599
+00:39:15,320 --> 00:39:16,800
+Sí que te irás.
+
+600
+00:39:16,960 --> 00:39:19,920
+Wynnchel, Duncan,
+sacadle de esa magdalena
+
+601
+00:39:20,040 --> 00:39:21,520
+y subidlo en el primer tren a casa.
+
+602
+00:39:21,680 --> 00:39:24,040
+¡Y si vuelvo a verte por aquí,
+
+603
+00:39:24,880 --> 00:39:26,800
+te encerraré en mi mazchorra.
+
+604
+00:39:26,880 --> 00:39:28,080
+¿Mazchorra?
+
+605
+00:39:28,160 --> 00:39:30,720
+Es una mazmorra divertida.
+Un juego de palabras.
+
+606
+00:39:33,000 --> 00:39:37,040
+Da igual, por tu culpa
+tengo que enfrentarme a un virus.
+
+607
+00:39:37,200 --> 00:39:40,920
+¡Adiós, Rompe Ralph!
+No ha sido un placer.
+
+608
+00:39:45,560 --> 00:39:47,560
+-Esto está como una piedra.
+-Ya lo veo.
+
+609
+00:39:47,720 --> 00:39:49,080
+-Trae las herramientas.
+-¿Qué herramientas?
+
+610
+00:39:49,280 --> 00:39:50,760
+¡Silencio!
+
+611
+00:39:52,400 --> 00:39:53,840
+¿Qué? ¡No!
+
+612
+00:39:54,080 --> 00:39:55,640
+-¡Tranquilo, grandullón!
+-¡No te acerques!
+
+613
+00:39:55,720 --> 00:39:56,840
+¡Se escapa!
+
+614
+00:40:01,920 --> 00:40:04,320
+¡Rápido, llama a los Perryswiss!
+
+615
+00:40:20,760 --> 00:40:22,560
+Chocolate. ¡Odio el chocolate!
+
+616
+00:40:24,880 --> 00:40:26,240
+Tengo que recuperar mi medalla.
+
+617
+00:40:30,920 --> 00:40:35,200
+¡El bote es para el ganador!
+¡Chicos! ¿Puedo hablar con vosotros?
+
+618
+00:40:36,760 --> 00:40:38,760
+DESGUACE
+
+619
+00:40:45,440 --> 00:40:47,600
+¡Hola, compañeros!
+
+620
+00:40:47,880 --> 00:40:50,600
+Es esa robamigas.
+
+621
+00:40:50,800 --> 00:40:53,440
+Candlehead, Taffyta, Rancis,
+tenéis buen aspecto.
+
+622
+00:40:53,600 --> 00:40:56,120
+¿Habéis venido a ver
+a la competencia?
+
+623
+00:40:56,280 --> 00:40:59,120
+Aquí está, el Santiamén.
+
+624
+00:40:59,400 --> 00:41:01,360
+Parece que lo haya construido ella.
+
+625
+00:41:01,600 --> 00:41:02,720
+Lo he construido yo.
+
+626
+00:41:02,880 --> 00:41:06,240
+El vehículo a pedales más rápido
+al oeste del Mata-Topos.
+
+627
+00:41:11,280 --> 00:41:15,360
+Vanellope, te pega... tanto.
+
+628
+00:41:15,520 --> 00:41:19,200
+Pero tienes que retirarte de la carrera.
+
+629
+00:41:19,560 --> 00:41:24,000
+No. He pagado la inscripción
+y estoy apuntada.
+
+630
+00:41:24,160 --> 00:41:26,280
+Así que voy a correr.
+
+631
+00:41:26,440 --> 00:41:29,200
+El Rey Candy dice que los fallos
+técnicos no pueden correr.
+
+632
+00:41:29,320 --> 00:41:32,720
+No soy un fallo, Taffyta.
+Solo tengo pixlexia.
+
+633
+00:41:33,000 --> 00:41:34,880
+Las reglas están por algo.
+
+634
+00:41:35,040 --> 00:41:37,840
+Para protegernos.
+Pongamos que soy tú.
+
+635
+00:41:38,000 --> 00:41:40,680
+Voy conduciendo mi coche raro
+
+636
+00:41:40,800 --> 00:41:43,320
+y por una vez me siento guay.
+
+637
+00:41:43,520 --> 00:41:45,480
+Y, de repente, oh, no.
+
+638
+00:41:45,640 --> 00:41:48,000
+¡Estoy fallando!
+
+639
+00:41:48,960 --> 00:41:51,640
+¿Ves?
+Eres un accidente con patas.
+
+640
+00:41:51,720 --> 00:41:54,720
+¡Oh, no!
+¡Yo también estoy fallando!
+
+641
+00:41:55,880 --> 00:41:57,120
+Eso no es guay.
+
+642
+00:41:57,280 --> 00:41:59,920
+¡Parad!
+¡Lo estáis rompiendo!
+
+643
+00:42:01,480 --> 00:42:02,520
+¡Por favor!
+
+644
+00:42:02,800 --> 00:42:04,840
+Solo quiero correr como vosotros.
+
+645
+00:42:05,280 --> 00:42:08,440
+Nunca serás una piloto
+porque eres un fallo técnico.
+
+646
+00:42:08,560 --> 00:42:10,600
+¡Y nunca serás nada más!
+
+647
+00:42:13,400 --> 00:42:15,000
+¡Dejadla en paz!
+
+648
+00:42:18,160 --> 00:42:19,960
+¡Larguémonos!
+
+649
+00:42:24,880 --> 00:42:28,280
+¡Largo, caries apestosas,
+antes de que os eche al barro!
+
+650
+00:42:34,880 --> 00:42:36,520
+¿Tú qué miras?
+
+651
+00:42:37,560 --> 00:42:40,080
+De nada, ladronzuela apestosa.
+
+652
+00:42:40,200 --> 00:42:43,280
+¡No soy una ladrona!
+Cogí prestada tu estúpida moneda.
+
+653
+00:42:43,400 --> 00:42:46,240
+Iba a devolvértela
+en cuanto ganara la carrera.
+
+654
+00:42:46,320 --> 00:42:48,600
+No es una moneda. Es una medalla.
+
+655
+00:42:48,960 --> 00:42:50,680
+Moneda, medalla, qué más da.
+
+656
+00:42:50,760 --> 00:42:53,440
+Vuelve a tu estúpido juego
+y gana otra.
+
+657
+00:42:53,520 --> 00:42:57,680
+No puedo. No la gané en mi juego.
+La gané en Hero's Duty.
+
+658
+00:42:58,360 --> 00:42:59,840
+¿"Cacafuti"?
+
+659
+00:43:02,160 --> 00:43:03,880
+No es eso.
+
+660
+00:43:04,080 --> 00:43:08,400
+Habrá que tener cuidado con dónde
+pisas en un juego llamado Cacafuti.
+
+661
+00:43:09,800 --> 00:43:12,040
+¿Por qué es la medalla,
+por limpiar culos?
+
+662
+00:43:13,520 --> 00:43:16,720
+Espero que te lavaras las manos
+después de tocar la medalla.
+
+663
+00:43:16,920 --> 00:43:18,160
+-¡Escucha!
+-Una más.
+
+664
+00:43:18,320 --> 00:43:20,680
+¿Por qué tiró
+el héroe de la cadena?
+
+665
+00:43:21,720 --> 00:43:23,840
+-Di "¿por qué?"
+-¿Por qué?
+
+666
+00:43:23,920 --> 00:43:26,000
+¡Porque había una cacafuti!
+
+667
+00:43:26,200 --> 00:43:29,160
+¿Cómo te atreves a insultar
+Hero's Duty, mocosa?
+
+668
+00:43:29,240 --> 00:43:33,200
+Yo gané esa medalla
+y más te vale recuperármela.
+
+669
+00:43:33,320 --> 00:43:36,960
+A menos que tengas un kart
+escondido en los pliegues del cuello,
+
+670
+00:43:37,120 --> 00:43:38,440
+¡no puedo ayudarte!
+
+671
+00:43:44,640 --> 00:43:46,320
+Menudo idiota.
+
+672
+00:43:47,120 --> 00:43:51,000
+¡Genio! Es un rompedientes.
+Nunca conseguirás...
+
+673
+00:43:56,560 --> 00:43:59,680
+¿Has disfrutado de tu pataleta, bebé?
+
+674
+00:43:59,880 --> 00:44:01,000
+Déjame en paz.
+
+675
+00:44:01,320 --> 00:44:05,400
+Tú quieres esa medalla, ¿no?
+Y yo quiero correr.
+
+676
+00:44:05,600 --> 00:44:07,200
+Esto es lo que se me ocurre.
+
+677
+00:44:07,440 --> 00:44:10,600
+Tú me ayudas a conseguir un kart,
+uno de verdad,
+
+678
+00:44:11,000 --> 00:44:13,680
+y yo ganaré la carrera
+y recuperaré tu medalla.
+
+679
+00:44:13,920 --> 00:44:16,440
+¿Quieres que yo te ayude?
+
+680
+00:44:16,520 --> 00:44:18,840
+Solo tienes que romper una cosa.
+
+681
+00:44:19,040 --> 00:44:21,680
+Vamos. ¿Qué me dices, amigo?
+
+682
+00:44:22,080 --> 00:44:23,440
+No somos amigos.
+
+683
+00:44:24,200 --> 00:44:27,640
+Venga, socio. Coleguita.
+
+684
+00:44:27,920 --> 00:44:30,120
+Venga, amiguete. Chócala.
+
+685
+00:44:31,040 --> 00:44:32,520
+Vamos, hermano.
+
+686
+00:44:32,680 --> 00:44:35,160
+Ralph, mi hombre.
+Mi mejor amigo.
+
+687
+00:44:37,280 --> 00:44:40,320
+Se me está cansando el brazo.
+¿Tenemos un trato o no?
+
+688
+00:44:42,240 --> 00:44:43,840
+Más te vale ganar.
+
+689
+00:44:46,840 --> 00:44:50,880
+Solo diré que tu amigo
+no se llama Rompe Ralph en vano.
+
+690
+00:44:52,120 --> 00:44:53,680
+Ahí está la lanzadera.
+
+691
+00:44:57,320 --> 00:44:58,360
+¿Está dentro?
+
+692
+00:44:58,960 --> 00:45:04,080
+No. Mejor para él,
+porque le habría machacado.
+
+693
+00:45:05,240 --> 00:45:06,760
+Tampoco está el Ciber-Bicho.
+
+694
+00:45:07,240 --> 00:45:10,560
+Hay que encontrarlo
+antes de que ponga sus sucios huevos.
+
+695
+00:45:11,960 --> 00:45:13,160
+Ha pasado por aquí
+
+696
+00:45:13,240 --> 00:45:16,480
+pero las partículas de azúcar
+atascan mi sensor.
+
+697
+00:45:16,640 --> 00:45:17,920
+No consigo una lectura.
+
+698
+00:45:18,080 --> 00:45:21,360
+¿Qué le pasa a ese tal Ralph?
+¿Por qué se ha largado?
+
+699
+00:45:21,720 --> 00:45:23,200
+Ojalá lo supiera.
+
+700
+00:45:23,440 --> 00:45:26,080
+Anoche estaba muy nervioso.
+
+701
+00:45:26,200 --> 00:45:28,800
+No paraba de hablar
+de tartas y medallas.
+
+702
+00:45:29,040 --> 00:45:31,840
+Pero no creí que haría un Turbo.
+
+703
+00:45:32,120 --> 00:45:33,200
+¿Hacer un Turbo?
+
+704
+00:45:33,400 --> 00:45:36,080
+Es verdad, os acaban de enchufar.
+
+705
+00:45:36,440 --> 00:45:39,600
+Cuando abrieron los recreativos,
+
+706
+00:45:39,760 --> 00:45:42,560
+<i>Turbo Time era el juego más popular.</i>
+
+707
+00:45:42,640 --> 00:45:45,080
+<i>-Y a Turbo...</i>
+<i>-¡Turbotastic!</i>
+
+708
+00:45:45,200 --> 00:45:47,760
+<i>...le encantaba ser</i>
+<i>el centro de atención.</i>
+
+709
+00:45:47,920 --> 00:45:50,600
+<i>Así que cuando enchufaron</i>
+<i>Roadblasters</i>
+
+710
+00:45:50,680 --> 00:45:52,400
+<i>y robó el protagonismo a Turbo...</i>
+
+711
+00:45:52,600 --> 00:45:54,080
+¡Un juego nuevo, qué bien!
+
+712
+00:45:54,160 --> 00:45:56,000
+<i>...se puso muy celoso.</i>
+
+713
+00:45:57,160 --> 00:46:02,160
+<i>Tan celoso que abandonó su juego</i>
+<i>e intentó hacerse con el nuevo.</i>
+
+714
+00:46:02,240 --> 00:46:04,440
+¡Tiene los mejores gráficos!
+
+715
+00:46:04,680 --> 00:46:05,720
+<i>¡Turbotastic!</i>
+
+716
+00:46:06,680 --> 00:46:08,760
+¿Eso es...?
+Parece Turbo.
+
+717
+00:46:08,880 --> 00:46:11,040
+¿Qué hace Turbo en este juego?
+¡Venga ya!
+
+718
+00:46:13,080 --> 00:46:14,240
+¡Señor Litwak!
+
+719
+00:46:15,440 --> 00:46:19,000
+<i>Turbo consiguió que</i>
+<i>a ambos juegos y a él mismo</i>
+
+720
+00:46:19,080 --> 00:46:22,360
+<i>los retiraran para siempre.</i>
+
+721
+00:46:22,800 --> 00:46:27,440
+Sí, los egoístas son como perros
+pulgosos que persiguen su propia cola.
+
+722
+00:46:27,520 --> 00:46:29,120
+¿Verdad?
+
+723
+00:46:29,760 --> 00:46:34,000
+Por eso tengo que llevarme a Ralph,
+o le pasará lo mismo a mi juego.
+
+724
+00:46:39,080 --> 00:46:40,600
+¿Qué es esto?
+
+725
+00:46:40,960 --> 00:46:42,360
+-¿Arenas Nesquik?
+-¿Arenas movedizas?
+
+726
+00:46:42,440 --> 00:46:43,560
+Peligro arenas Nesquik
+
+727
+00:46:44,320 --> 00:46:46,560
+Saldré y cogeré una de esas lianas.
+
+728
+00:46:51,960 --> 00:46:55,440
+No puedo, espera.
+¡Es imposible!
+
+729
+00:46:55,520 --> 00:46:58,280
+-Nos vamos a ahogar.
+-Deja de revolverte. Quieto.
+
+730
+00:46:58,480 --> 00:47:00,520
+-Así nos hundimos antes.
+-¡Vamos a morir!
+
+731
+00:47:00,600 --> 00:47:02,120
+¡Contrólate!
+
+732
+00:47:06,240 --> 00:47:09,000
+Las lianas.
+Son Laffy Taffy.
+
+733
+00:47:09,080 --> 00:47:11,400
+Les atrae lo que las hace reír.
+
+734
+00:47:11,600 --> 00:47:13,040
+Vamos, pégueme otra vez.
+
+735
+00:47:16,880 --> 00:47:19,360
+Eso no es lo bastante gracioso.
+¡Más fuerte!
+
+736
+00:47:19,600 --> 00:47:21,000
+Eres simpático, no puedo...
+
+737
+00:47:21,160 --> 00:47:23,920
+¡No! Los recreativos
+dependen de nosotros.
+
+738
+00:47:24,160 --> 00:47:26,760
+Cumpla con su deber.
+Es una or...
+
+739
+00:47:29,680 --> 00:47:31,320
+¡Funciona! Pégueme otra vez.
+
+740
+00:47:32,000 --> 00:47:33,240
+¡Tu ojo!
+
+741
+00:47:33,880 --> 00:47:36,280
+Puedo repararlo.
+
+742
+00:47:37,320 --> 00:47:40,320
+¡Repámpanos!
+¡Otra vez!
+
+743
+00:47:41,160 --> 00:47:42,640
+Ahora va en serio.
+
+744
+00:47:44,000 --> 00:47:45,600
+¡Recórcholis!
+
+745
+00:47:47,240 --> 00:47:50,320
+¡Se están partiendo!
+
+746
+00:47:51,600 --> 00:47:52,840
+¡Pura comedia!
+
+747
+00:48:18,600 --> 00:48:20,640
+Basta de ojitos tiernos.
+
+748
+00:48:20,720 --> 00:48:22,360
+Tenemos trabajo que hacer.
+Vamos.
+
+749
+00:48:25,080 --> 00:48:28,600
+Hemos perdido al Ciber-Bicho.
+Veremos mejor desde el aire.
+
+750
+00:48:28,880 --> 00:48:30,480
+¿Puedes reparar la lanzadera?
+
+751
+00:48:31,000 --> 00:48:32,640
+Hecho.
+
+752
+00:48:46,560 --> 00:48:48,520
+PASTELERÍA DE KARTS
+
+753
+00:48:57,040 --> 00:48:58,080
+FUERA FALLOS TÉCNICOS
+
+754
+00:48:58,160 --> 00:48:59,760
+Adelante, nudillos.
+¡Ábrelo!
+
+755
+00:48:59,840 --> 00:49:02,760
+¿Qué es esto?
+Eres una auténtica criminal, ¿no?
+
+756
+00:49:02,880 --> 00:49:04,680
+Oye, la hemos chocado.
+
+757
+00:49:08,240 --> 00:49:09,560
+Gracias, Jeeves.
+
+758
+00:49:11,840 --> 00:49:14,360
+¿Qué es esto?
+¿Dónde están los karts?
+
+759
+00:49:14,440 --> 00:49:16,920
+-Tenemos que hacer uno.
+-¿Qué? No, no.
+
+760
+00:49:17,000 --> 00:49:21,080
+Mira, es mala idea, créeme,
+Yo no hago cosas, las rompo.
+
+761
+00:49:21,160 --> 00:49:23,640
+Pues parece que tendrás
+que cambiar tus costumbres.
+
+762
+00:49:23,720 --> 00:49:24,760
+ESCOGE TU KART
+
+763
+00:49:25,080 --> 00:49:26,520
+¡Este es bueno!
+
+764
+00:49:27,160 --> 00:49:30,640
+<i>¡Bienvenidos a la pastelería!</i>
+<i>¡Hagamos un kart!</i>
+
+765
+00:49:30,880 --> 00:49:32,160
+¿Qué es esto, otro juego?
+
+766
+00:49:32,280 --> 00:49:33,880
+Sí, bueno, es un minijuego.
+
+767
+00:49:33,960 --> 00:49:35,360
+<i>Tienes un minuto para ganarlo.</i>
+
+768
+00:49:35,520 --> 00:49:36,800
+-¿Qué?
+-¡Vamos, Ralph!
+
+769
+00:49:37,040 --> 00:49:42,120
+<i>¡Ya! Mezclando. Pon los ingredientes</i>
+<i>en el bol y tira la basura.</i>
+
+770
+00:49:42,200 --> 00:49:43,360
+Cepillo. ¡No!
+
+771
+00:49:43,920 --> 00:49:47,120
+Calzoncillos. ¡No, no!
+Te estás equivocando.
+
+772
+00:49:47,200 --> 00:49:48,880
+¡Lo intento!
+
+773
+00:49:49,200 --> 00:49:52,240
+Déjame a mí.
+Yo lo hago. No. Sí.
+
+774
+00:49:52,880 --> 00:49:54,640
+Qué asco. Leche.
+Sí, sí, sí.
+
+775
+00:49:56,360 --> 00:49:57,400
+<i>¡Bátelo!</i>
+
+776
+00:50:02,640 --> 00:50:04,920
+¡Venga, no te duermas!
+
+777
+00:50:05,800 --> 00:50:09,960
+<i>¡Al horno! Sube el calor</i>
+<i>y mantén la temperatura perfecta.</i>
+
+778
+00:50:10,040 --> 00:50:11,560
+Ralph, ¿un poco de ayuda?
+
+779
+00:50:11,640 --> 00:50:12,680
+Estoy en ello.
+
+780
+00:50:13,480 --> 00:50:14,680
+PERFECTO - FRÍO
+
+781
+00:50:14,960 --> 00:50:17,480
+Ningún problema.
+Dame esta cosa.
+
+782
+00:50:18,640 --> 00:50:20,640
+Vale, bien.
+Un poco más.
+
+783
+00:50:20,840 --> 00:50:23,920
+¡Sí, eso es!
+Aguanta, aguanta.
+
+784
+00:50:24,080 --> 00:50:25,600
+PERFECTO
+
+785
+00:50:25,760 --> 00:50:29,240
+¡Sí! Vamos.
+¡Levántate, Ralph! ¡15 segundos!
+
+786
+00:50:29,360 --> 00:50:31,040
+<i>-¡A decorar!</i>
+-Primero las ruedas.
+
+787
+00:50:31,200 --> 00:50:32,440
+-¿Cuántas?
+-¡Cuatro, lelo!
+
+788
+00:50:32,520 --> 00:50:33,600
+Hecho.
+
+789
+00:50:34,720 --> 00:50:37,080
+Ahora cobertura.
+¡Un montón de cobertura!
+
+790
+00:50:37,160 --> 00:50:38,240
+Ningún problema.
+
+791
+00:50:50,560 --> 00:50:53,640
+<i>¡Se acabó el tiempo!</i>
+<i>Enhorabuena.</i>
+
+792
+00:50:53,720 --> 00:50:56,600
+<i>¡Lo has conseguido, aquí está tu kart!</i>
+
+793
+00:51:06,720 --> 00:51:10,920
+Mira, chavala, te he avisado...
+
+794
+00:51:11,080 --> 00:51:14,000
+No sé hacer cosas, solo romperlas.
+
+795
+00:51:14,080 --> 00:51:15,560
+Me encanta.
+
+796
+00:51:16,160 --> 00:51:18,880
+-¿Sí?
+-Me encanta.
+
+797
+00:51:19,040 --> 00:51:21,040
+¡Me encanta, me encanta!
+
+798
+00:51:21,200 --> 00:51:22,880
+¡Tiene un motor de verdad!
+
+799
+00:51:22,960 --> 00:51:24,160
+Y fíjate en las ruedas.
+
+800
+00:51:26,240 --> 00:51:29,000
+¡Me encanta!
+¡Por fin tengo un kart de verdad!
+
+801
+00:51:29,320 --> 00:51:33,720
+Venga. Una obra de arte así
+hay que firmarla.
+
+802
+00:51:36,160 --> 00:51:37,320
+Bombas de crema.
+
+803
+00:51:44,720 --> 00:51:49,720
+Aquí Beard Papa.
+¡El fallo técnico está en la pastelería!
+
+804
+00:51:49,800 --> 00:51:53,360
+HECHO POR VANELLOPE Y RALPH
+
+805
+00:51:54,080 --> 00:51:58,880
+¿Cómo? ¿Tienes dientes?
+Nunca te había visto sonreír.
+
+806
+00:51:59,040 --> 00:52:02,520
+No sonreía, es que tengo gases.
+
+807
+00:52:04,880 --> 00:52:07,200
+¡Quieta ahí, fallo!
+
+808
+00:52:08,320 --> 00:52:09,360
+¿Y Rompe Ralph?
+
+809
+00:52:11,880 --> 00:52:14,040
+¡Arranca el kart!
+
+810
+00:52:14,960 --> 00:52:16,520
+¿A qué esperas?
+¡Vamos!
+
+811
+00:52:16,640 --> 00:52:21,080
+No sé conducir un kart de verdad.
+
+812
+00:52:21,200 --> 00:52:22,520
+¿No sabes qué?
+
+813
+00:52:22,720 --> 00:52:23,960
+¿Se ha hecho daño?
+
+814
+00:52:24,080 --> 00:52:27,360
+Solo me ha pringado.
+¡Cogedlos!
+
+815
+00:52:27,480 --> 00:52:28,640
+¡Abran paso!
+
+816
+00:52:33,360 --> 00:52:36,360
+¡Alto en nombre del rey!
+¡Que soy yo!
+
+817
+00:52:41,200 --> 00:52:42,400
+¡Sal de la carretera!
+
+818
+00:52:47,600 --> 00:52:49,640
+¡A la Montaña de Cola Light!
+
+819
+00:52:53,600 --> 00:52:55,240
+-¡Contra la pared!
+-¿Qué?
+
+820
+00:52:55,440 --> 00:52:58,080
+Justo ahí, entre las piruletas
+sin azúcar.
+
+821
+00:52:58,160 --> 00:53:00,360
+-¿Estás loca?
+-¡Hazlo!
+
+822
+00:53:12,360 --> 00:53:15,760
+¿Dónde se han metido?
+Deberían haber girado.
+
+823
+00:53:17,360 --> 00:53:20,520
+¡Encontrad a ese fallo!
+¡Destruid ese kart!
+
+824
+00:53:20,720 --> 00:53:22,960
+¡No puede participar en la carrera!
+
+825
+00:53:27,880 --> 00:53:31,640
+A ver que me entere.
+No sabes conducir.
+
+826
+00:53:31,880 --> 00:53:33,560
+Técnicamente, no.
+
+827
+00:53:33,720 --> 00:53:35,360
+-Creía que...
+-¿Qué pensabas?
+
+828
+00:53:35,440 --> 00:53:40,040
+"¡Voy a ganar la carrera mágicamente
+porque es lo que quiero!"
+
+829
+00:53:40,240 --> 00:53:44,600
+Mira, listillo, sé que soy una piloto.
+Lo siento en mi código.
+
+830
+00:53:46,560 --> 00:53:49,160
+¡Se acabó!
+Jamás recuperaré mi medalla.
+
+831
+00:53:49,280 --> 00:53:52,800
+¿Por qué es tan importante
+esa porquería de medalla?
+
+832
+00:53:52,960 --> 00:53:54,000
+¿Por qué?
+
+833
+00:53:54,080 --> 00:53:58,800
+Quizá te sorprenda, pero en mi juego
+soy el malo y vivo en la basura.
+
+834
+00:53:59,000 --> 00:54:00,960
+-Guay.
+-No es guay.
+
+835
+00:54:01,120 --> 00:54:03,920
+Es poco higiénico,
+solitario y aburrido.
+
+836
+00:54:04,640 --> 00:54:08,280
+Y esa porquería de medalla
+iba a cambiarlo todo.
+
+837
+00:54:08,440 --> 00:54:12,400
+Si vuelvo con ella a casa,
+me darán un ático. ¡Tartas!
+
+838
+00:54:12,680 --> 00:54:15,040
+Esculturas de hielo.
+¡Fuegos artificiales!
+
+839
+00:54:17,000 --> 00:54:19,280
+Son cosas de mayores,
+no lo entenderías.
+
+840
+00:54:19,440 --> 00:54:20,840
+¡Sí que lo entiendo!
+
+841
+00:54:21,000 --> 00:54:23,280
+¡Es lo que tendría si corriera!
+
+842
+00:54:23,440 --> 00:54:24,760
+-¿Pues sabes una cosa?
+-¿Qué?
+
+843
+00:54:24,840 --> 00:54:27,920
+¡Ninguno de los dos
+tendrá lo que quiere!
+
+844
+00:54:30,800 --> 00:54:32,520
+¿Qué ha sido eso?
+
+845
+00:54:44,960 --> 00:54:47,120
+TERMAS DE COLA LIGHT
+
+846
+00:54:47,280 --> 00:54:50,040
+OJO CON LOS MENTOS
+
+847
+00:54:50,120 --> 00:54:51,160
+¡Sí! ¡Fíjate! ¡Mira!
+
+848
+00:54:58,880 --> 00:55:02,440
+Hay que tener cuidado
+con las gotas, está hirviendo.
+
+849
+00:55:02,520 --> 00:55:04,040
+Sí, ya veo. Gracias.
+
+850
+00:55:05,320 --> 00:55:06,480
+¿Qué es esta pocilga?
+
+851
+00:55:06,640 --> 00:55:10,320
+Creo que es un nivel extra sin terminar.
+
+852
+00:55:10,640 --> 00:55:12,320
+Sí. Es bastante guay, ¿no?
+
+853
+00:55:12,480 --> 00:55:15,840
+Encontré esa entrada secreta
+y ahora vivo aquí.
+
+854
+00:55:16,040 --> 00:55:17,680
+¿Ves? Mira, mira.
+
+855
+00:55:18,640 --> 00:55:20,680
+¡Bienvenido a mi hogar!
+
+856
+00:55:21,320 --> 00:55:23,280
+Duermo en estos envoltorios
+de caramelo,
+
+857
+00:55:23,360 --> 00:55:26,360
+me envuelvo como una sin techo.
+
+858
+00:55:27,680 --> 00:55:28,880
+¿Tú sola?
+
+859
+00:55:30,320 --> 00:55:31,840
+¿Rodeada de esta basura?
+
+860
+00:55:33,040 --> 00:55:34,880
+Bueno, sí.
+
+861
+00:55:35,040 --> 00:55:39,240
+Aquí todos dicen que soy un error
+y que no debería existir.
+
+862
+00:55:39,440 --> 00:55:40,920
+¿Qué quieres?
+
+863
+00:55:41,360 --> 00:55:43,520
+Escucha, chavala...
+
+864
+00:55:43,680 --> 00:55:45,880
+Sé que no es asunto mío,
+
+865
+00:55:46,040 --> 00:55:48,680
+pero, ¿por qué te quedas
+en este juego?
+
+866
+00:55:48,920 --> 00:55:50,920
+No sabes nada, ¿verdad?
+
+867
+00:55:51,200 --> 00:55:53,360
+Los fallos técnicos no pueden
+abandonar sus juegos.
+
+868
+00:55:54,840 --> 00:55:57,680
+Es una de las alegrías de ser yo.
+
+869
+00:56:06,720 --> 00:56:08,480
+¿Qué haces? ¡Vamos!
+
+870
+00:56:09,200 --> 00:56:11,680
+Sé que es una pocilga,
+pero es todo lo que tengo.
+
+871
+00:56:11,760 --> 00:56:14,560
+Si quieres ser piloto,
+tendrás que aprender a conducir.
+
+872
+00:56:15,040 --> 00:56:17,760
+Y no puedes hacerlo sin una pista.
+
+873
+00:56:23,640 --> 00:56:26,800
+Muy bien, en marcha.
+Tenemos que conducir.
+
+874
+00:56:26,880 --> 00:56:29,440
+¡Voy a aprender a conducir!
+
+875
+00:56:29,560 --> 00:56:30,720
+Espera. ¿Tú sabes conducir?
+
+876
+00:56:31,040 --> 00:56:33,040
+¡Sí! Nunca lo he hecho, pero...
+
+877
+00:56:33,120 --> 00:56:35,880
+-Hoy he pilotado una lanzadera.
+-La has estrellado.
+
+878
+00:56:36,080 --> 00:56:38,720
+Sube. ¿Cómo de difícil puede ser?
+
+879
+00:56:39,080 --> 00:56:40,400
+Arráncalo.
+
+880
+00:56:42,640 --> 00:56:46,280
+Ya estamos.
+Hay unos botones en el suelo.
+
+881
+00:56:46,400 --> 00:56:48,240
+-Pedales.
+-Pedales, eso.
+
+882
+00:56:48,400 --> 00:56:52,960
+A ver... ese es el pedal de andar.
+
+883
+00:56:53,400 --> 00:56:57,080
+Y ese creo que es el de parar.
+
+884
+00:56:57,520 --> 00:57:00,120
+Y esto... espera.
+
+885
+00:57:00,520 --> 00:57:02,680
+¿Qué es esto? No hace nada.
+
+886
+00:57:02,760 --> 00:57:04,440
+¿Qué hace este control?
+
+887
+00:57:05,440 --> 00:57:08,080
+Vale, bien. Probemos otra vez.
+
+888
+00:57:38,440 --> 00:57:39,520
+Cambia de marcha.
+
+889
+00:57:41,680 --> 00:57:43,640
+¡Eso es, sigue así!
+¡Cambia otra vez!
+
+890
+00:57:48,800 --> 00:57:51,880
+¡Tengo código de piloto!
+
+891
+00:57:54,840 --> 00:57:56,480
+Esa medalla es mía.
+
+892
+00:57:56,640 --> 00:57:58,720
+¡Ralphie, mira!
+
+893
+00:58:12,920 --> 00:58:14,240
+¡Cuidado!
+
+894
+00:58:24,680 --> 00:58:25,720
+¡Cola caliente!
+
+895
+00:58:31,160 --> 00:58:32,240
+¿Qué tal lo he hecho?
+
+896
+00:58:33,760 --> 00:58:35,760
+Casi vuelas toda la montaña.
+
+897
+00:58:37,040 --> 00:58:38,560
+Eso es una buena nota.
+
+898
+00:58:38,680 --> 00:58:40,760
+Tienes que controlar el fallo.
+
+899
+00:58:40,960 --> 00:58:42,360
+Vale, lo haré.
+
+900
+00:58:42,960 --> 00:58:45,280
+¿Crees que tengo alguna posibilidad?
+
+901
+00:58:48,120 --> 00:58:49,160
+Diminuta.
+
+902
+00:58:49,240 --> 00:58:53,000
+¡Sí, voy a ganar!
+¡Voy a ganar!
+
+903
+00:58:53,080 --> 00:58:54,840
+-Eres la mejor.
+-¡La mejor!
+
+904
+00:59:07,320 --> 00:59:09,560
+¿La habéis encontrado?
+Decidme que sí.
+
+905
+00:59:11,560 --> 00:59:12,600
+¿No?
+
+906
+00:59:15,080 --> 00:59:17,080
+¡Fuera! Dejadme solo.
+
+907
+00:59:41,760 --> 00:59:43,360
+SELECCIÓN - INICIO
+Nintendo
+
+908
+00:59:46,640 --> 00:59:50,680
+El código. Es la sangre
+que corre por las venas del juego.
+
+909
+00:59:56,800 --> 01:00:01,440
+¿Dónde estás? Estadio, no.
+Jumbotron.
+
+910
+01:00:02,560 --> 01:00:04,200
+Ahí está. La Copa del Campeón.
+
+911
+01:00:04,280 --> 01:00:05,560
+COPA DEL CAMPEÓN
+
+912
+01:00:07,440 --> 01:00:10,720
+Una de estas es distinta.
+¡Tú!
+
+913
+01:00:10,880 --> 01:00:13,720
+Vamos a llevarte a un nuevo hogar.
+
+914
+01:00:14,120 --> 01:00:16,040
+REY
+CANDY
+
+915
+01:00:25,640 --> 01:00:26,800
+¡Éxito!
+
+916
+01:00:28,960 --> 01:00:30,520
+Bill el Amargado, salgo.
+
+917
+01:00:30,680 --> 01:00:33,000
+Estás al mando del castillo
+hasta que vuelva.
+
+918
+01:00:44,840 --> 01:00:47,800
+Tu cara sigue roja.
+Quizá quieras darle con el martillo.
+
+919
+01:00:48,160 --> 01:00:50,800
+No es por un golpe, señora.
+
+920
+01:00:51,000 --> 01:00:53,640
+Es el rubor de mis mejillas.
+
+921
+01:00:54,680 --> 01:00:55,760
+Vale.
+
+922
+01:00:55,880 --> 01:00:58,880
+Señora, tengo que decirle...
+
+923
+01:00:59,040 --> 01:01:01,680
+que es pura dinamita.
+
+924
+01:01:03,680 --> 01:01:07,720
+Eres pura dinamita.
+
+925
+01:01:08,120 --> 01:01:10,280
+Pura dinamita.
+
+926
+01:01:10,640 --> 01:01:12,000
+Dinamita.
+
+927
+01:01:12,160 --> 01:01:13,520
+Dinamita.
+
+928
+01:01:13,760 --> 01:01:15,080
+Dinamita.
+
+929
+01:01:20,800 --> 01:01:23,680
+-¡Fuera!
+-Solo he dicho que es pura dinamita.
+
+930
+01:01:23,800 --> 01:01:25,360
+¡He dicho que fuera!
+
+931
+01:01:34,160 --> 01:01:35,840
+Recórcholis.
+
+932
+01:01:38,000 --> 01:01:40,040
+BIENVENIDO
+
+933
+01:01:42,000 --> 01:01:43,720
+¿Sí?
+
+934
+01:01:45,480 --> 01:01:49,720
+Soy Repara-Felix, Jr.,
+del juego Repara-Felix Jr.
+
+935
+01:01:50,080 --> 01:01:51,440
+¿Ha visto a mi amigo Ralph?
+
+936
+01:01:52,000 --> 01:01:53,160
+¿Rompe Ralph?
+
+937
+01:01:53,360 --> 01:01:54,880
+¡Sí, ese es!
+
+938
+01:01:55,080 --> 01:01:58,040
+Deberíamos haberle encerrado
+cuando pudimos.
+
+939
+01:01:58,160 --> 01:01:59,280
+¿Encerrado?
+
+940
+01:01:59,600 --> 01:02:02,360
+No cometeré el mismo error contigo.
+
+941
+01:02:06,400 --> 01:02:08,680
+¡Rápido, vamos!
+¡Que corre el tiempo!
+
+942
+01:02:08,800 --> 01:02:09,920
+¡Vamos, Ralph!
+
+943
+01:02:10,080 --> 01:02:13,320
+Ya está, está pasando.
+Casi no me lo creo.
+
+944
+01:02:13,400 --> 01:02:16,360
+Llevo tanto tiempo soñándolo y ahora...
+
+945
+01:02:16,640 --> 01:02:20,120
+Creo que voy a vomitar.
+Quizá vomite.
+
+946
+01:02:20,200 --> 01:02:21,760
+-Un vomiructo.
+-¿Un qué?
+
+947
+01:02:21,920 --> 01:02:25,960
+Un vómito y un eructo juntos,
+te sabe la boca y sube.
+
+948
+01:02:26,080 --> 01:02:27,400
+¡Qué emocionante!
+
+949
+01:02:27,760 --> 01:02:29,280
+Sí, es emocionante.
+
+950
+01:02:29,400 --> 01:02:33,760
+¿Estoy preparada para ser piloto?
+¿Y si no gusto a los jugadores?
+
+951
+01:02:33,920 --> 01:02:37,240
+¿Quién no querría
+a una mocosa con el pelo sucio?
+
+952
+01:02:37,760 --> 01:02:40,760
+Les vas a encantar.
+¿Sabes por qué?
+
+953
+01:02:41,360 --> 01:02:43,440
+-Porque eres una ganadora.
+-Soy una ganadora.
+
+954
+01:02:43,600 --> 01:02:46,400
+-¡Y eres adorable!
+-¡Soy adorable!
+
+955
+01:02:46,480 --> 01:02:48,080
+¡Todos quieren
+a una ganadora adorable!
+
+956
+01:02:49,680 --> 01:02:51,840
+Vale, vamos. Escúchame.
+
+957
+01:02:52,000 --> 01:02:54,960
+Si te pones nerviosa,
+solo tienes que pensar:
+
+958
+01:02:55,120 --> 01:02:59,280
+"Debo ganar la medalla de Ralph
+o arruinaré su vida".
+
+959
+01:02:59,680 --> 01:03:01,680
+-Y diviértete. ¿Entendido?
+-Entendido.
+
+960
+01:03:03,600 --> 01:03:04,800
+¡Espera!
+
+961
+01:03:06,040 --> 01:03:07,280
+¡Espera!
+
+962
+01:03:07,440 --> 01:03:10,200
+-¿Adónde vas?
+-He olvidado algo, ahora vuelvo.
+
+963
+01:03:12,840 --> 01:03:13,880
+Chavales.
+
+964
+01:03:16,800 --> 01:03:18,720
+Ahí estas. ¡Hola!
+
+965
+01:03:19,120 --> 01:03:21,840
+-¡Tú!
+-Vengo solo, desarmado.
+
+966
+01:03:22,320 --> 01:03:24,480
+¡Estoy harto de ti, pantalón de payaso!
+
+967
+01:03:24,560 --> 01:03:26,600
+Por favor. ¡Tranquilízate!
+Por favor, mira. ¡No!
+
+968
+01:03:27,640 --> 01:03:29,320
+¡Voy a sacarte el relleno!
+
+969
+01:03:29,960 --> 01:03:31,960
+No pegarías a alguien con gafas.
+
+970
+01:03:32,680 --> 01:03:35,880
+Has pegado a alguien con gafas.
+Buena jugada.
+
+971
+01:03:36,640 --> 01:03:37,920
+¿Qué quieres, Candy?
+
+972
+01:03:38,400 --> 01:03:40,000
+Solo quiero hablar contigo.
+
+973
+01:03:40,160 --> 01:03:43,000
+No me interesa nada de lo que digas.
+
+974
+01:03:43,320 --> 01:03:47,120
+¿Y esto? ¿Esto te interesa?
+
+975
+01:03:47,200 --> 01:03:49,160
+Mi medalla. ¿Cómo has...?
+
+976
+01:03:49,280 --> 01:03:53,000
+No importa.
+Es tuya. Adelante, cógela.
+
+977
+01:03:55,880 --> 01:03:56,960
+HÉROE
+
+978
+01:03:57,040 --> 01:03:59,000
+Solo te pido que me escuches.
+
+979
+01:03:59,280 --> 01:04:00,400
+¿Sobre qué?
+
+980
+01:04:00,680 --> 01:04:05,160
+Ralph, ¿sabes qué es
+lo más difícil de ser rey?
+
+981
+01:04:05,520 --> 01:04:07,880
+Hacer lo correcto pase lo que pase.
+
+982
+01:04:08,160 --> 01:04:11,480
+-Ve al grano.
+-El grano es que necesito tu ayuda.
+
+983
+01:04:11,800 --> 01:04:16,320
+Por triste que parezca,
+Vanellope no puede correr.
+
+984
+01:04:16,400 --> 01:04:18,680
+¿Por qué la odiáis tanto?
+
+985
+01:04:18,760 --> 01:04:21,600
+¡No la odio!
+¡Intento protegerla!
+
+986
+01:04:21,680 --> 01:04:23,480
+Si Vanellope gana la carrera...
+
+987
+01:04:23,560 --> 01:04:24,640
+ESCOGE TU PILOTO
+
+988
+01:04:24,720 --> 01:04:26,640
+<i>...se añadirá</i>
+<i>a la lista de pilotos.</i>
+
+989
+01:04:26,720 --> 01:04:29,680
+<i>Los jugadores</i>
+<i>podrán elegirla como su avatar.</i>
+
+990
+01:04:31,320 --> 01:04:35,880
+<i>Y cuando la vean parpadear,</i>
+<i>retorcerse y ser ella misma,</i>
+
+991
+01:04:36,040 --> 01:04:37,760
+<i>creerán que el juego está roto.</i>
+
+992
+01:04:38,240 --> 01:04:40,920
+<i>Nos apagarán para siempre.</i>
+
+993
+01:04:42,400 --> 01:04:44,840
+<i>Todos mis súbditos</i>
+<i>se quedarán sin hogar.</i>
+
+994
+01:04:46,840 --> 01:04:50,840
+<i>Pero hay una que no podrá escapar,</i>
+<i>porque es un fallo técnico.</i>
+
+995
+01:04:50,920 --> 01:04:53,560
+¡Socorro! ¡Que alguien me ayude!
+
+996
+01:04:53,680 --> 01:04:56,120
+<i>Y cuando desenchufen el juego...</i>
+
+997
+01:04:59,120 --> 01:05:00,960
+ella morirá con él.
+
+998
+01:05:02,200 --> 01:05:05,560
+No sabes si será así.
+Podría gustar a los jugadores.
+
+999
+01:05:05,960 --> 01:05:07,760
+¿Y si no les gusta?
+
+1000
+01:05:14,920 --> 01:05:20,240
+Sé que es difícil, pero los héroes
+toman decisiones difíciles, ¿no?
+
+1001
+01:05:21,040 --> 01:05:26,040
+No puede correr, Ralph.
+Pero a mí no me hará caso.
+
+1002
+01:05:26,600 --> 01:05:29,680
+¿Puedo contar contigo
+para hacerla entrar en razón?
+
+1003
+01:05:32,440 --> 01:05:33,480
+Muy bien.
+
+1004
+01:05:33,920 --> 01:05:37,040
+Os dejaré un tiempo a solas.
+
+1005
+01:06:03,440 --> 01:06:04,560
+¡He vuelto!
+
+1006
+01:06:05,920 --> 01:06:07,040
+¿Me has echado de menos?
+
+1007
+01:06:07,120 --> 01:06:11,120
+Sí. ¿Podemos hablar un segundo?
+
+1008
+01:06:11,280 --> 01:06:13,400
+Espera. Primero agáchate.
+
+1009
+01:06:13,480 --> 01:06:15,800
+-¿Qué? No, tenemos...
+-Hazlo.
+
+1010
+01:06:18,880 --> 01:06:21,720
+-Ahora cierra los ojos.
+-Vanellope...
+
+1011
+01:06:21,800 --> 01:06:23,320
+¡Calla! ¡Ciérralos!
+
+1012
+01:06:26,960 --> 01:06:28,480
+Vale. Ábrelos.
+
+1013
+01:06:31,400 --> 01:06:34,160
+"Para descerebrado".
+Vaya, gracias.
+
+1014
+01:06:34,280 --> 01:06:35,320
+Dale la vuelta.
+
+1015
+01:06:35,400 --> 01:06:36,440
+PARA DESCEREBRADO
+
+1016
+01:06:36,520 --> 01:06:37,600
+ERES MI HÉROE
+
+1017
+01:06:37,800 --> 01:06:39,600
+La he hecho para ti.
+
+1018
+01:06:39,840 --> 01:06:41,520
+Por si no ganamos.
+
+1019
+01:06:41,640 --> 01:06:45,000
+Ni loca pienso que no vamos a ganar.
+
+1020
+01:06:45,320 --> 01:06:47,800
+Gracias, chavala.
+Escucha...
+
+1021
+01:06:48,040 --> 01:06:52,760
+Levántate, real colega.
+Tengo una cita con el destino.
+
+1022
+01:06:53,520 --> 01:06:55,920
+Ralph, vamos.
+Mueve la gelatina.
+
+1023
+01:06:57,680 --> 01:06:59,840
+-He estado pensando.
+-Eso es peligroso.
+
+1024
+01:07:00,240 --> 01:07:03,240
+¿A quién le importa
+esta estúpida carrera?
+
+1025
+01:07:03,680 --> 01:07:05,600
+Eso no tiene gracia, Ralph.
+
+1026
+01:07:05,760 --> 01:07:09,040
+Hablo en serio.
+Construir el coche ha sido divertido.
+
+1027
+01:07:09,120 --> 01:07:12,320
+Pero quizá no debas hacerlo.
+
+1028
+01:07:12,400 --> 01:07:16,440
+¿Hola, está Ralph?
+Querría hablar con él.
+
+1029
+01:07:16,640 --> 01:07:18,680
+No puedes ser piloto.
+
+1030
+01:07:18,800 --> 01:07:19,840
+¿Qué?
+
+1031
+01:07:21,320 --> 01:07:22,560
+¿Por qué...?
+
+1032
+01:07:23,600 --> 01:07:25,440
+Espera.
+
+1033
+01:07:27,080 --> 01:07:28,240
+¿De dónde has sacado esto?
+
+1034
+01:07:29,200 --> 01:07:32,840
+Seré sincero contigo,
+he estado hablando con el Rey Candy.
+
+1035
+01:07:33,160 --> 01:07:34,480
+-¿El Rey Candy?
+-Sí.
+
+1036
+01:07:34,560 --> 01:07:35,840
+¿Me has vendido?
+
+1037
+01:07:35,960 --> 01:07:37,840
+No. No lo entiendes.
+
+1038
+01:07:37,920 --> 01:07:40,200
+Lo entiendo muy bien.
+¡Traidor!
+
+1039
+01:07:40,480 --> 01:07:41,520
+No soy un traidor...
+
+1040
+01:07:41,600 --> 01:07:42,880
+¡Eres una rata!
+
+1041
+01:07:43,040 --> 01:07:46,440
+No te necesito
+y puedo ganar la carrera sola.
+
+1042
+01:07:46,520 --> 01:07:48,280
+¡Intento salvarte!
+
+1043
+01:07:48,400 --> 01:07:50,120
+¡Suéltame!
+
+1044
+01:07:50,240 --> 01:07:51,360
+No, escúchame.
+
+1045
+01:07:51,440 --> 01:07:53,520
+¿Sabes lo que pasará
+cuando te vean parpadear?
+
+1046
+01:07:53,600 --> 01:07:56,360
+-Creerán que el juego está roto.
+-¡Me da igual! ¡Eres un mentiroso!
+
+1047
+01:07:56,640 --> 01:07:59,000
+Pues debería importarte.
+Si tu juego se apaga,
+
+1048
+01:07:59,080 --> 01:08:01,040
+-tú te hundes.
+-¡No pienso escucharte!
+
+1049
+01:08:01,160 --> 01:08:04,160
+¡Quita de en medio!
+¡Voy a esa carrera!
+
+1050
+01:08:04,360 --> 01:08:05,520
+¡No lo harás!
+
+1051
+01:08:07,320 --> 01:08:10,200
+¡Bájame de aquí ahora mismo!
+
+1052
+01:08:10,560 --> 01:08:12,440
+¡Lo hago por tu bien!
+
+1053
+01:08:14,920 --> 01:08:15,960
+Espera, espera.
+
+1054
+01:08:19,880 --> 01:08:21,040
+¡Por favor, Ralph!
+
+1055
+01:08:23,240 --> 01:08:25,480
+¡Para!
+
+1056
+01:08:43,000 --> 01:08:45,120
+Es verdad que eres un malo.
+
+1057
+01:09:20,720 --> 01:09:23,880
+¿Hola? ¿Hay alguien en casa?
+
+1058
+01:09:24,480 --> 01:09:26,480
+¿Felix? ¿Mary?
+
+1059
+01:09:26,800 --> 01:09:29,560
+Vaya, lo has conseguido.
+
+1060
+01:09:29,680 --> 01:09:32,400
+Gene. ¿Dónde están todos?
+
+1061
+01:09:32,640 --> 01:09:34,040
+Se han ido.
+
+1062
+01:09:34,200 --> 01:09:37,720
+Cuando Felix fue a buscarte
+y no volvió,
+
+1063
+01:09:37,880 --> 01:09:40,080
+se asustaron y abandonaron el barco.
+
+1064
+01:09:40,160 --> 01:09:42,280
+Pero ya estoy aquí.
+
+1065
+01:09:42,360 --> 01:09:46,600
+Es demasiado tarde, Ralph. Litwak
+nos desenchufará por la mañana.
+
+1066
+01:09:58,800 --> 01:10:02,040
+Pero que no se diga
+que no cumplo mi palabra.
+
+1067
+01:10:02,800 --> 01:10:05,120
+Esto es tuyo, Ralph.
+Disfrútalo.
+
+1068
+01:10:08,600 --> 01:10:09,920
+¡Espera, espera!
+
+1069
+01:10:11,240 --> 01:10:14,120
+Escucha, esto no es lo que quería.
+
+1070
+01:10:14,400 --> 01:10:16,320
+¿Qué querías, Ralph?
+
+1071
+01:10:16,520 --> 01:10:18,680
+No lo sé, es que...
+
+1072
+01:10:21,720 --> 01:10:24,760
+Estaba harto de vivir solo en la basura.
+
+1073
+01:10:26,000 --> 01:10:28,640
+Ahora puedes vivir solo en el ático.
+
+1074
+01:11:36,000 --> 01:11:37,080
+Oye, gragea.
+
+1075
+01:11:37,960 --> 01:11:39,440
+Explícame una cosa.
+
+1076
+01:11:39,600 --> 01:11:41,760
+Si Vanellope no debía existir,
+
+1077
+01:11:41,920 --> 01:11:44,760
+¿por qué está dibujada en la consola?
+
+1078
+01:11:49,360 --> 01:11:51,840
+¿Qué pasa en el Corazón
+de las Tinieblas caramelizado?
+
+1079
+01:11:52,000 --> 01:11:53,480
+-Nada.
+-¡Habla!
+
+1080
+01:11:54,200 --> 01:11:55,680
+-Te lameré.
+-No serás capaz.
+
+1081
+01:11:56,080 --> 01:11:57,240
+¿No?
+
+1082
+01:11:58,000 --> 01:11:59,360
+¡Es como una lija!
+
+1083
+01:12:00,440 --> 01:12:03,360
+¿Cuánto tendré que chupar
+para llegar al centro?
+
+1084
+01:12:03,600 --> 01:12:05,080
+¡Me lo llevaré a la tumba!
+
+1085
+01:12:05,200 --> 01:12:06,240
+Está bien.
+
+1086
+01:12:10,040 --> 01:12:12,000
+Eres Bill el Amargado por algo.
+
+1087
+01:12:13,080 --> 01:12:16,360
+-¿Ya has tenido bastante?
+-¡Vale, hablaré!
+
+1088
+01:12:16,560 --> 01:12:20,560
+¡Vanellope era corredora hasta
+que el rey intentó borrar su código!
+
+1089
+01:12:20,720 --> 01:12:24,480
+<i>¿Intentó borrarla?</i>
+<i>¡Por eso es un fallo técnico!</i>
+
+1090
+01:12:24,640 --> 01:12:27,280
+<i>-¿Por qué le hace eso?</i>
+-¡No lo sé!
+
+1091
+01:12:27,400 --> 01:12:28,520
+Tú mismo.
+
+1092
+01:12:28,680 --> 01:12:30,800
+¡Lo juro, no lo sé!
+
+1093
+01:12:30,880 --> 01:12:34,680
+<i>Encerró todas nuestras memorias</i>
+<i>y no me acuerdo.</i>
+
+1094
+01:12:34,800 --> 01:12:36,080
+<i>¡Nadie se acuerda!</i>
+
+1095
+01:12:36,440 --> 01:12:37,840
+Pero sí sé una cosa.
+
+1096
+01:12:38,120 --> 01:12:39,800
+Hará lo que sea para que no corra.
+
+1097
+01:12:40,000 --> 01:12:42,400
+Porque si cruza la meta,
+
+1098
+01:12:42,480 --> 01:12:45,600
+¡el juego se reseteará
+y dejará de ser un fallo!
+
+1099
+01:12:45,680 --> 01:12:48,200
+-¿Dónde está?
+-En la mazchorra con Repara-Felix.
+
+1100
+01:12:48,320 --> 01:12:51,200
+-¿Felix?
+-¡Lo siento, no sé más, lo juro!
+
+1101
+01:12:51,360 --> 01:12:55,000
+¡No me vuelvas a meter
+en tu asquerosa boca!
+
+1102
+01:12:57,920 --> 01:12:58,960
+Quédate quieto.
+
+1103
+01:12:59,040 --> 01:13:02,200
+Sí, lo haré. ¡Gracias!
+
+1104
+01:13:05,880 --> 01:13:07,960
+Vamos. Sé que estás ahí.
+
+1105
+01:13:09,440 --> 01:13:11,840
+¡Pesadilla saturada de sacarina!
+
+1106
+01:13:14,520 --> 01:13:16,400
+Pero, ¿dónde...?
+
+1107
+01:13:33,920 --> 01:13:38,400
+¡El día del juicio y el día del armagedón
+han tenido un hijo y es horroroso!
+
+1108
+01:13:40,800 --> 01:13:42,600
+¿Hola?
+
+1109
+01:13:43,520 --> 01:13:46,920
+¡Alguien! ¡Quien sea!
+¡Sácame de aquí!
+
+1110
+01:13:49,000 --> 01:13:50,080
+¿Qué es lo que dice?
+
+1111
+01:13:50,760 --> 01:13:52,560
+¡Voy a romperlo!
+
+1112
+01:13:56,440 --> 01:13:59,520
+¿Por qué arreglo todo lo que toco?
+
+1113
+01:14:05,360 --> 01:14:07,480
+¡Ralph, cuánto me alegro de verte!
+
+1114
+01:14:07,560 --> 01:14:11,200
+Espera, no me alegro.
+¿Qué explicación me das?
+
+1115
+01:14:11,360 --> 01:14:14,320
+Espera. No quiero oírla.
+No hablo contigo.
+
+1116
+01:14:14,400 --> 01:14:16,160
+Vale, no hables. No importa.
+
+1117
+01:14:16,360 --> 01:14:18,280
+Pero tienes que arreglar un kart.
+
+1118
+01:14:18,640 --> 01:14:21,600
+¡Y una porra!
+Perdón por el taco.
+
+1119
+01:14:21,800 --> 01:14:24,640
+Estoy tan enfadado contigo.
+
+1120
+01:14:24,960 --> 01:14:26,880
+¿Sabes lo que he tenido que pasar?
+
+1121
+01:14:27,280 --> 01:14:30,560
+He corrido a tontas y a locas
+por todas partes buscándote.
+
+1122
+01:14:30,640 --> 01:14:32,640
+¡Casi me ahogo en chocolate!
+
+1123
+01:14:32,920 --> 01:14:36,440
+Y luego conocí a una chica
+que es pura dinamita.
+
+1124
+01:14:37,640 --> 01:14:40,320
+¡Me sube muchísimo el rubor!
+
+1125
+01:14:40,880 --> 01:14:45,920
+¡Pero me rechazó
+y me han metido en la cárcel!
+
+1126
+01:14:46,000 --> 01:14:47,400
+Felix, contrólate.
+
+1127
+01:14:47,960 --> 01:14:53,080
+¡No, no sabes lo que es que te
+rechacen y te traten como a un criminal!
+
+1128
+01:14:53,240 --> 01:14:56,000
+Sí que lo sé.
+Así son todos mis días.
+
+1129
+01:14:57,080 --> 01:14:59,800
+-¿Lo son?
+-Por eso me escapé.
+
+1130
+01:15:00,120 --> 01:15:02,000
+Intenté ser bueno,
+¡pero no lo soy!
+
+1131
+01:15:02,080 --> 01:15:05,000
+Solo soy un malo y necesito tu ayuda.
+
+1132
+01:15:05,080 --> 01:15:09,280
+Hay una niña cuya única esperanza
+es ese kart. Por favor, Felix, arréglalo.
+
+1133
+01:15:09,760 --> 01:15:13,000
+Y prometo que nunca volveré
+a intentar ser bueno.
+
+1134
+01:15:16,680 --> 01:15:17,720
+BIENVENIDO A LA MAZCHORRA
+
+1135
+01:15:17,840 --> 01:15:19,520
+ALGUIEN SE HA PORTADO MAL
+
+1136
+01:15:19,680 --> 01:15:20,960
+CHICA MALA
+
+1137
+01:15:36,480 --> 01:15:38,840
+Lo sé, soy un idiota.
+
+1138
+01:15:39,880 --> 01:15:42,040
+-¿Y?
+-Y un cabeza de chorlito.
+
+1139
+01:15:42,800 --> 01:15:45,520
+-¿Y?
+-Un bebé egoísta.
+
+1140
+01:15:45,600 --> 01:15:46,640
+¿Y?
+
+1141
+01:15:46,720 --> 01:15:49,040
+Y...
+
+1142
+01:15:49,480 --> 01:15:50,840
+¿Un descerebrado?
+
+1143
+01:15:50,960 --> 01:15:53,720
+El descerebrado
+más apestoso del mundo.
+
+1144
+01:16:02,880 --> 01:16:04,240
+SALIDA
+
+1145
+01:16:07,200 --> 01:16:08,560
+Mezcla de Fans
+
+1146
+01:16:08,720 --> 01:16:11,000
+¡CON FRUTOS SECOS!
+
+1147
+01:16:16,240 --> 01:16:17,560
+Mis dulces súbditos,
+
+1148
+01:16:18,320 --> 01:16:21,600
+sin una pizca
+de duda puedo aseguraros
+
+1149
+01:16:21,680 --> 01:16:23,240
+que jamás había sido tan feliz...
+
+1150
+01:16:23,320 --> 01:16:25,000
+NO PRESENTADA
+
+1151
+01:16:25,080 --> 01:16:27,120
+...de decir las siguientes palabras:
+
+1152
+01:16:27,200 --> 01:16:30,720
+¡Que empiece
+la Partida de Pilotos de Prueba!
+
+1153
+01:16:47,400 --> 01:16:50,760
+Recuerda, no tienes que ganar.
+
+1154
+01:16:50,880 --> 01:16:53,280
+Solo tienes que cruzar la meta
+para ser una piloto de verdad.
+
+1155
+01:16:53,360 --> 01:16:55,440
+Ya soy una piloto de verdad.
+
+1156
+01:16:58,040 --> 01:16:59,160
+Y voy a ganar.
+
+1157
+01:17:23,400 --> 01:17:24,840
+<i>¡Potencia máxima!</i>
+
+1158
+01:17:32,480 --> 01:17:33,640
+<i>¡Con helado!</i>
+
+1159
+01:17:38,400 --> 01:17:40,280
+<i>¡Detectores de dulce!</i>
+
+1160
+01:17:40,360 --> 01:17:41,880
+¡Toma un caramelo!
+
+1161
+01:18:00,520 --> 01:18:01,560
+¡Detrás de ti!
+
+1162
+01:18:02,880 --> 01:18:04,040
+¡Delante de ti!
+
+1163
+01:18:12,000 --> 01:18:14,800
+-¡Es el fallo!
+-¿El fallo?
+
+1164
+01:18:14,880 --> 01:18:16,240
+Enciéndelas, Candlehead.
+
+1165
+01:18:20,720 --> 01:18:22,600
+<i>¿Qué es esto? ¡Bombas de cereza!</i>
+
+1166
+01:18:30,040 --> 01:18:32,920
+Ya te dije que eras
+un accidente con patas.
+
+1167
+01:18:50,440 --> 01:18:51,760
+¡Mi vela!
+
+1168
+01:18:53,080 --> 01:18:57,080
+Muy bien, controla.
+¡Se acabó parpadear!
+
+1169
+01:18:59,360 --> 01:19:01,920
+Vale, chavala.
+Acabemos esto sin más sorpresas.
+
+1170
+01:19:03,560 --> 01:19:05,200
+Espero que estés contento, basura.
+
+1171
+01:19:05,360 --> 01:19:08,400
+El juego se hunde por tu culpa.
+
+1172
+01:19:08,480 --> 01:19:10,080
+¡Milady, ha vuelto!
+
+1173
+01:19:10,160 --> 01:19:14,560
+Silencio, Repara.
+El Ciber-Bicho se ha multiplicado.
+
+1174
+01:19:14,640 --> 01:19:17,000
+No. Murió en el pantano de toffee.
+
+1175
+01:19:19,960 --> 01:19:21,600
+Tonterías.
+
+1176
+01:19:28,640 --> 01:19:32,320
+Escuchad todos.
+¡Id a la Estación Central de Juegos!
+
+1177
+01:19:32,480 --> 01:19:34,640
+Venga. ¡Vamos, vamos!
+
+1178
+01:19:35,480 --> 01:19:36,520
+¡Vamos, vamos, vamos!
+
+1179
+01:19:39,840 --> 01:19:41,120
+META
+
+1180
+01:20:27,000 --> 01:20:29,120
+¡Sal de mi carril!
+
+1181
+01:20:30,480 --> 01:20:31,840
+¿Estás loco?
+
+1182
+01:20:32,320 --> 01:20:37,960
+¡Te prohíbo que cruces la meta!
+
+1183
+01:20:39,040 --> 01:20:40,680
+¡Estate quieto!
+
+1184
+01:20:43,000 --> 01:20:44,560
+¡Ralph, mira!
+
+1185
+01:20:45,040 --> 01:20:46,400
+¡Chavala!
+
+1186
+01:20:48,800 --> 01:20:49,840
+¡Para!
+
+1187
+01:20:50,840 --> 01:20:53,600
+¡No dejaré que destruyas
+toda mi labor!
+
+1188
+01:20:55,840 --> 01:20:57,200
+¿Es...?
+
+1189
+01:20:59,840 --> 01:21:02,040
+¡Ni hablar!
+
+1190
+01:21:02,760 --> 01:21:05,200
+¿Qué? ¿Quién eres?
+
+1191
+01:21:05,280 --> 01:21:09,040
+¡Soy Turbo,
+el mejor piloto de la historia!
+
+1192
+01:21:09,160 --> 01:21:12,120
+¡Y no reprogramé este mundo
+para que tú
+
+1193
+01:21:12,360 --> 01:21:17,200
+y ese jabalí con halitosis
+me lo quitarais!
+
+1194
+01:21:18,640 --> 01:21:19,800
+Turbotastic.
+
+1195
+01:21:21,520 --> 01:21:23,360
+¡Se acabó, fallo!
+
+1196
+01:21:24,160 --> 01:21:26,120
+Parpadeo. Eso es.
+
+1197
+01:21:27,400 --> 01:21:28,480
+Vamos, Vanellope.
+
+1198
+01:21:28,560 --> 01:21:32,480
+Prometiste no hacerlo más,
+pero lo harás una vez más.
+
+1199
+01:21:32,560 --> 01:21:34,720
+Solo tienes que concentrarte...
+
+1200
+01:21:34,800 --> 01:21:37,880
+¡Y parpadear!
+
+1201
+01:21:42,560 --> 01:21:45,080
+¡Qué chulería, lo he conseguido!
+
+1202
+01:21:54,400 --> 01:21:57,720
+¡Hasta la cocina, chavala!
+¡La meta está abierta!
+
+1203
+01:22:14,840 --> 01:22:16,760
+Chavala, ¿estás bien?
+
+1204
+01:22:16,840 --> 01:22:20,320
+Estoy bien. Acabemos esta carrera.
+
+1205
+01:22:23,240 --> 01:22:24,560
+Repámpanos.
+
+1206
+01:22:24,720 --> 01:22:26,200
+Venga. Tenemos que irnos.
+
+1207
+01:22:26,280 --> 01:22:27,600
+¡Pero no he cruzado la meta!
+
+1208
+01:22:28,320 --> 01:22:30,160
+¡No hay meta!
+
+1209
+01:22:30,920 --> 01:22:33,600
+Moveos o se acabó.
+Vamos, todos fuera, ¡ya!
+
+1210
+01:22:33,960 --> 01:22:36,040
+LAS DESPEDIDAS SON TRISTES
+VUELVE PRONTO
+
+1211
+01:22:36,120 --> 01:22:38,840
+-¡Ralph, no funcionará!
+-¡Tenemos que intentarlo!
+
+1212
+01:22:41,840 --> 01:22:45,000
+-¡Chavala!
+-Ya te dije que no puedo dejar el juego.
+
+1213
+01:22:45,840 --> 01:22:48,120
+-¡Vamos!
+-¡Para!
+
+1214
+01:22:48,320 --> 01:22:50,800
+¡Tiene que funcionar!
+
+1215
+01:22:50,880 --> 01:22:52,880
+Para, es inútil.
+
+1216
+01:23:01,240 --> 01:23:02,520
+No pasa nada, Ralph.
+
+1217
+01:23:04,640 --> 01:23:05,800
+Muy bien, Repara.
+
+1218
+01:23:06,000 --> 01:23:08,640
+Ya están todos.
+Hay que volar esta salida.
+
+1219
+01:23:11,120 --> 01:23:13,280
+Vete. Vete sin mí.
+
+1220
+01:23:14,360 --> 01:23:17,160
+-¿Y este juego?
+-No podemos hacer nada.
+
+1221
+01:23:17,240 --> 01:23:20,680
+Sin una luz,
+no podremos parar a esos monstruos.
+
+1222
+01:23:23,960 --> 01:23:25,080
+¿Una luz?
+
+1223
+01:23:26,400 --> 01:23:27,840
+Quédate con Felix.
+
+1224
+01:23:27,920 --> 01:23:29,280
+Présteme esto, señora.
+
+1225
+01:23:29,400 --> 01:23:32,520
+-¡Ralph! ¿Adónde vas?
+-¡A romper algunas cosas!
+
+1226
+01:23:33,200 --> 01:23:35,560
+-¡Nos veremos en la meta!
+-¡No, espera!
+
+1227
+01:23:35,720 --> 01:23:37,120
+Repara, detrás de mí.
+
+1228
+01:23:52,040 --> 01:23:53,200
+¡Vamos!
+
+1229
+01:23:57,600 --> 01:23:59,480
+¡Una más!
+
+1230
+01:24:01,160 --> 01:24:03,760
+¡Bienvenido a la fase jefe!
+
+1231
+01:24:03,920 --> 01:24:05,080
+Turbo.
+
+1232
+01:24:06,160 --> 01:24:07,960
+Gracias a ti...
+
+1233
+01:24:08,120 --> 01:24:12,320
+¡Ahora soy el virus más potente
+de los recreativos!
+
+1234
+01:24:13,000 --> 01:24:14,880
+Puedo hacerme con cualquier juego.
+
+1235
+01:24:15,080 --> 01:24:16,760
+Debería darte las gracias,
+
+1236
+01:24:16,840 --> 01:24:18,960
+pero será más divertido matarte.
+
+1237
+01:24:21,440 --> 01:24:23,560
+¡Vuelve aquí, pequeñajo!
+
+1238
+01:24:28,600 --> 01:24:30,760
+¡Toma un caramelo!
+
+1239
+01:24:32,040 --> 01:24:34,000
+¿Adónde crees que vas?
+
+1240
+01:24:38,640 --> 01:24:41,600
+Aún no he acabado contigo.
+¡Arriba!
+
+1241
+01:24:49,600 --> 01:24:50,880
+¡Retirada!
+
+1242
+01:24:52,760 --> 01:24:53,800
+¡Chavala!
+
+1243
+01:25:00,960 --> 01:25:03,840
+Fíjate, es tu amiguita.
+
+1244
+01:25:03,920 --> 01:25:06,840
+Veamos cómo muere, ¿quieres?
+
+1245
+01:25:10,600 --> 01:25:13,080
+Se acabó la partida para los dos.
+
+1246
+01:25:13,440 --> 01:25:16,440
+No. ¡Solo para mí!
+
+1247
+01:25:26,080 --> 01:25:29,040
+¡Soy malo y eso es bueno!
+
+1248
+01:25:29,800 --> 01:25:32,280
+Nunca seré bueno
+y eso no es malo.
+
+1249
+01:25:35,400 --> 01:25:37,320
+No hay nadie que prefiera...
+
+1250
+01:25:39,200 --> 01:25:40,320
+ser.
+
+1251
+01:26:08,960 --> 01:26:13,120
+-¡Chavala!
+-Tranquilo lo tengo controlado.
+
+1252
+01:26:37,560 --> 01:26:41,120
+¡Imbéciles!
+¿Por qué vais hacia la...?
+
+1253
+01:26:50,400 --> 01:26:52,800
+¡Hacia la luz!
+
+1254
+01:27:00,640 --> 01:27:01,680
+¿Chocolate?
+
+1255
+01:27:03,080 --> 01:27:05,360
+¡Es chocolate!
+¡Me encanta el chocolate!
+
+1256
+01:27:06,200 --> 01:27:08,320
+¡Maravilloso chocolate!
+
+1257
+01:27:10,320 --> 01:27:13,760
+¡Lo has conseguido, Ralph!
+¡Bien hecho, hermano!
+
+1258
+01:27:19,960 --> 01:27:21,520
+Perdón...
+
+1259
+01:27:28,320 --> 01:27:30,040
+Todo arreglado.
+
+1260
+01:27:30,200 --> 01:27:33,320
+-¿Estás preparada?
+-Nunca estaré más preparada.
+
+1261
+01:27:42,440 --> 01:27:44,840
+¿Y estas chispas mágicas?
+
+1262
+01:28:10,720 --> 01:28:11,760
+MEMORIA DE CORREDOR
+
+1263
+01:28:11,840 --> 01:28:12,880
+MEMORIA DE CIVIL
+
+1264
+01:28:13,720 --> 01:28:15,280
+¿Princesa Vanellope?
+
+1265
+01:28:15,440 --> 01:28:17,600
+Ahora me acuerdo.
+
+1266
+01:28:18,560 --> 01:28:22,880
+Saluden a la legítima regente
+de Sugar Rush,
+
+1267
+01:28:23,040 --> 01:28:24,640
+la Princesa Vanellope.
+
+1268
+01:28:25,720 --> 01:28:28,920
+-Ya me acuerdo, es nuestra princesa.
+-¡Es verdad!
+
+1269
+01:28:29,120 --> 01:28:30,880
+Sentimos haberte tratado mal.
+
+1270
+01:28:31,040 --> 01:28:32,480
+Sí, ¡eran bromas!
+
+1271
+01:28:32,640 --> 01:28:35,400
+¡Yo solo hacía lo que
+me mandaba Taffyta!
+
+1272
+01:28:36,240 --> 01:28:37,280
+Bueno, bueno.
+
+1273
+01:28:37,440 --> 01:28:40,960
+Como vuestra misericordiosa
+princesa declaro
+
+1274
+01:28:41,160 --> 01:28:45,560
+que cualquiera que haya sido
+malo conmigo será...
+
+1275
+01:28:46,000 --> 01:28:47,080
+ejecutado.
+
+1276
+01:28:47,160 --> 01:28:49,600
+¿Cómo? ¡No, por favor!
+
+1277
+01:28:49,680 --> 01:28:50,960
+Cielo santo.
+
+1278
+01:28:51,080 --> 01:28:53,320
+Este sitio
+acaba de ponerse interesante.
+
+1279
+01:28:53,400 --> 01:28:55,640
+¡No queremos morir!
+
+1280
+01:28:55,760 --> 01:28:59,320
+Es broma. Deja de llorar, Taffyta.
+
+1281
+01:28:59,520 --> 01:29:01,360
+Lo intento, pero no para.
+
+1282
+01:29:02,640 --> 01:29:04,000
+Vaya.
+
+1283
+01:29:04,160 --> 01:29:07,280
+Así que esta eres tú de verdad.
+Princesa.
+
+1284
+01:29:07,440 --> 01:29:11,360
+¡Ralph! ¿Estás chiflado?
+Vamos, esta no soy yo.
+
+1285
+01:29:13,040 --> 01:29:14,920
+Esta soy yo.
+
+1286
+01:29:16,600 --> 01:29:19,920
+El código dirá que soy una princesa,
+pero yo sé quién soy.
+
+1287
+01:29:20,000 --> 01:29:23,120
+Soy una piloto
+con el mayor superpoder.
+
+1288
+01:29:23,280 --> 01:29:24,680
+Estaba aquí, allí.
+
+1289
+01:29:24,880 --> 01:29:27,800
+Parpadeaba a través de las paredes.
+No renunciaré a eso.
+
+1290
+01:29:27,960 --> 01:29:33,160
+Perdona que pregunte, pero
+sin una princesa, ¿quién nos dirigirá?
+
+1291
+01:29:33,360 --> 01:29:34,440
+Sí. ¿Quién?
+
+1292
+01:29:35,160 --> 01:29:40,600
+Yo. Estaba pensando más bien
+en una democracia constitucional.
+
+1293
+01:29:40,680 --> 01:29:44,040
+La Presidenta Vanellope von Schweetz.
+
+1294
+01:29:44,200 --> 01:29:45,960
+Suena bien, ¿no creéis?
+
+1295
+01:29:47,160 --> 01:29:49,800
+Repara, Rompe,
+los recreativos van a abrir.
+
+1296
+01:29:49,960 --> 01:29:51,840
+¡Vámonos de aquí!
+
+1297
+01:29:58,880 --> 01:30:02,040
+Podrías quedarte aquí
+y vivir en el castillo.
+
+1298
+01:30:02,200 --> 01:30:05,320
+Tendrías tu propia ala,
+nadie se quejaría de tu olor
+
+1299
+01:30:05,480 --> 01:30:07,360
+ni te trataría mal.
+
+1300
+01:30:07,480 --> 01:30:09,440
+Podrías ser feliz.
+
+1301
+01:30:10,240 --> 01:30:14,680
+Ya soy feliz.
+Tengo la amiga más guay del mundo.
+
+1302
+01:30:15,640 --> 01:30:17,720
+Y además tengo un trabajo que cumplir.
+
+1303
+01:30:18,280 --> 01:30:23,000
+No será tan elegante
+como ser presidenta, pero es mi deber.
+
+1304
+01:30:23,160 --> 01:30:24,680
+¡Y es un enorme deber!
+
+1305
+01:30:26,720 --> 01:30:27,920
+¡Ralph! ¿Vienes, hermano?
+
+1306
+01:30:29,400 --> 01:30:32,040
+Nos vemos, Presidenta Pedopluma.
+
+1307
+01:30:32,240 --> 01:30:35,240
+<i>Au revoir,</i> Almirante Calzoncillos.
+
+1308
+01:30:35,640 --> 01:30:38,640
+Y hasta luego, Baronesa Caramoco.
+
+1309
+01:30:38,720 --> 01:30:41,080
+¡Adiós, Comandante Sudor!
+
+1310
+01:30:43,720 --> 01:30:45,640
+-Muy bien, continuará.
+-¡Sí!
+
+1311
+01:30:45,720 --> 01:30:47,360
+¡Bien!
+
+1312
+01:31:00,000 --> 01:31:01,080
+FUERA DE SERVICIO
+
+1313
+01:31:01,160 --> 01:31:02,200
+<i>¡Voy a romperlo!</i>
+
+1314
+01:31:03,240 --> 01:31:06,640
+¡Ralph ha vuelto, genial!
+
+1315
+01:31:07,240 --> 01:31:08,880
+¡Ya están todos aquí!
+
+1316
+01:31:09,040 --> 01:31:13,080
+Estoy encantado de deciros,
+y estaréis encantados de oírlo,
+
+1317
+01:31:13,280 --> 01:31:15,280
+que me tomaré la vida
+partida a partida.
+
+1318
+01:31:15,400 --> 01:31:17,600
+¡Muy bien! ¡Eso es, Ralph!
+
+1319
+01:31:17,720 --> 01:31:19,240
+<i>El trabajo no ha cambiado.</i>
+
+1320
+01:31:20,600 --> 01:31:23,840
+<i>¡Pero ahora los chachinanos</i>
+<i>me tratan bien!</i>
+
+1321
+01:31:23,920 --> 01:31:25,000
+PARA NUESTRO MALO FAVORITO
+
+1322
+01:31:25,080 --> 01:31:27,680
+<i>Me puse a pensar en los que</i>
+<i>se quedan sin juego.</i>
+
+1323
+01:31:27,760 --> 01:31:28,800
+NIVEL EXTRA
+
+1324
+01:31:28,920 --> 01:31:31,120
+<i>-Y esto es lo que hicimos...</i>
+<i>-¡Vamos a romperlo!</i>
+
+1325
+01:31:31,200 --> 01:31:32,960
+<i>Les pedimos ayuda</i>
+<i>con los niveles extra.</i>
+
+1326
+01:31:34,400 --> 01:31:35,560
+¡PODEMOS REPARARLO!
+
+1327
+01:31:36,200 --> 01:31:39,200
+<i>En serio, hace años que no</i>
+<i>somos tan populares.</i>
+
+1328
+01:31:39,280 --> 01:31:40,600
+<i>Es una locura.</i>
+
+1329
+01:31:41,400 --> 01:31:46,120
+<i>Los jugadores dicen que somos</i>
+<i>"retro", es decir, viejos, pero chulos.</i>
+
+1330
+01:31:46,240 --> 01:31:47,640
+¿No habíamos visto este juego?
+
+1331
+01:31:47,760 --> 01:31:50,960
+<i>Decidí que vivir en el vertedero</i>
+<i>no me hacía sentir muy bien.</i>
+
+1332
+01:31:51,040 --> 01:31:52,080
+CHACHILANDIA
+
+1333
+01:31:52,760 --> 01:31:54,640
+<i>Así que lo limpié, y construí</i>
+<i>barracones para mí y para los colegas.</i>
+
+1334
+01:31:56,960 --> 01:31:59,000
+<i>Vale, con algo de ayuda de Felix.</i>
+
+1335
+01:32:00,480 --> 01:32:03,240
+<i>Adivinad quién fue el padrino</i>
+<i>en su boda con Calhoun.</i>
+
+1336
+01:32:03,400 --> 01:32:06,440
+<i>Eso es, amigos, el viejo manazas.</i>
+
+1337
+01:32:06,720 --> 01:32:10,200
+<i>Una cosa muy elegante.</i>
+<i>Deberíais haberlo visto, cuánta clase.</i>
+
+1338
+01:32:10,280 --> 01:32:11,760
+<i>Y ni un solo bicho.</i>
+
+1339
+01:32:15,600 --> 01:32:19,160
+<i>Digamos que cayeron</i>
+<i>algunas lágrimas.</i>
+
+1340
+01:32:20,920 --> 01:32:24,400
+<i>Pero debo decir que</i>
+<i>el mejor momento del día</i>
+
+1341
+01:32:24,600 --> 01:32:26,320
+<i>es cuando me tiran del tejado.</i>
+
+1342
+01:32:28,120 --> 01:32:33,520
+<i>Cuando los chachinanos me levantan,</i>
+<i>veo Sugar Rush perfectamente.</i>
+
+1343
+01:32:34,080 --> 01:32:35,600
+<i>Y veo a Vanellope correr.</i>
+
+1344
+01:32:38,400 --> 01:32:39,480
+<i>¡Sí!</i>
+
+1345
+01:32:40,440 --> 01:32:41,800
+<i>Tiene un talento natural.</i>
+
+1346
+01:32:42,760 --> 01:32:44,960
+<i>Y encanta a los jugadores,</i>
+<i>parpadeo y todo.</i>
+
+1347
+01:32:45,600 --> 01:32:47,080
+<i>Justo lo que yo pensaba.</i>
+
+1348
+01:32:49,000 --> 01:32:51,840
+<i>Resulta que no necesito una medalla</i>
+<i>para saber que soy bueno.</i>
+
+1349
+01:32:53,560 --> 01:32:55,560
+<i>Porque si esa chavalita tan mona</i>
+<i>me quiere,</i>
+
+1350
+01:32:59,200 --> 01:33:00,720
+<i>¿cómo de malo puedo ser?</i>
+
+1351
+01:33:06,800 --> 01:33:09,440
+PRESIONA START
+
+1352
+01:34:53,960 --> 01:34:55,280
+PERFECTO
+
